@@ -15,7 +15,7 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 | Canal         | URL |
 | ------------- |------------- |
 | La 1          |[m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/.m3u8)|
-| La 1 HD       | |
+| La 1 HD       |[m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/thd_lv3_aosv4_gl7/thd_lv3_aosv4_gl7.isml/.m3u8)|
 | La 1 Eventos  |[m3u8](http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/master.m3u8)|
 | La 2          |[m3u8](http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live.m3u8)|
 | Antena 3      |[m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8)|
@@ -24,16 +24,17 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 | Cuatro | |
 | Telecinco | |
 | La Sexta |[m3u8](a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) |
-| Neox | |
-| Nova | |
-| Mega | |
-| Antena 3 Series | |
+| Neox |[m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) |
+| Nova |[m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) |
+| Mega |[m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) |
+| Antena 3 Series |[m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) |
+| Antena 3 Series Internacional |[m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master.m3u8?dvr) |
 | FDF | |
 | Boing | |
 | Energy | |
 | Divinity | |
 | BeMad | |
-| 8tv | |
+| 8tv |[m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8) |
 | 24h | |
 | Clan | |
 | Ten | |
@@ -60,8 +61,8 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 
 | Canal         | URL |
 | ------------- |------------- |
-| TDP | | 
-| TDP HD | |
+| TDP |[m3u8](http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/master.m3u8) | 
+| TDP HD |[m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/.m3u8)|
 | Gol TV | |
 | Real Madrid TV | |
 | Barça TV | |
@@ -74,7 +75,8 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 
 | Canal         | URL |
 | ------------- |------------- |
-| Canal Sur TV | |
+| Canal Sur TV | [web](https://www.youtube.com/embed/_M3wljlf38U?autoplay=1)|
+| Canal Sur Turismo TV | [web](http://canalandaluciaturismo.es/index_pc.php)|
 | 101 TV | |
 | Onda Cadiz TV | |
 | Lebrija TV | |
@@ -102,7 +104,7 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 
 | Canal         | URL |
 | ------------- |------------- |
-| Aragón TV | |
+| Aragón TV | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8)|
 | Barbastro TV | |
 | Huesca TV | |
 
@@ -122,7 +124,7 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 | 324 | |
 | 33 | |
 | Esports 3 | |
-| BTV | |
+| BTV | [m3u8](http://api-cdn.overon.es/SmilLive/getLiveIOS/.m3u8?stream=btv_stream01)|
 | Badalona Televisió | |
 | El Punt Avui TV | |
 | Esplugues TV | |
@@ -161,7 +163,7 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 
 | Canal         | URL |
 | ------------- |------------- |
-| Castilla la Mancha TV | |
+| Castilla la Mancha TV |[m3u8](http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8) |
 | TeleToledo | |
 | Regional de ClM | |
 | Canal Diocesano Toledo | |
@@ -186,19 +188,24 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 
 | Canal         | URL |
 | ------------- |------------- |
-| Extremadura TV | |
+| Extremadura TV |[m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/.m3u8)|
 
 #### Galicia
 
 | Canal         | URL |
 | ------------- |------------- |
-| Extremadura TV | |
+| Galicia TV |[m3u8](http://media3.crtvg.es/live/_definst_/tvge_2/.m3u8)|
+| Galicia 2 TV | |
+| Galicia Infantil TV |[m3u8](http://media3.crtvg.es/live/_definst_/infantilCires/.m3u8) |
+| Galicia Musical TV |[m3u8](http://media3.crtvg.es/live/_definst_/musigal/.m3u8) |
+| Galicia Cultura TV |[m3u8](http://media3.crtvg.es/live/_definst_/culturaCires/.m3u8) |
+| Galicia Momentos G TV |[m3u8](http://media3.crtvg.es/live/_definst_/momentosCires/.m3u8) |
 
 #### Islas Baleares
 
 | Canal         | URL |
 | ------------- |------------- |
-| IB TV | |
+| IB TV |[m3u8](htpps://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8) - [web](http://ib3tv.com/directe) |
 | Intereconomía | |
 | Eivissa i Formentera TV | |
 
@@ -221,7 +228,7 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 
 | Canal         | URL |
 | ------------- |------------- |
-| 7 TV RTV Murcia | |
+| 7 TV RTV Murcia |[m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) |
 | RadioTelevisión Vida | |
 
 #### Navarra
@@ -234,7 +241,7 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 
 | Canal         | URL |
 | ------------- |------------- |
-| ETB | |
+| ETB |[m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) |
 | TeleBilbao | |
 | TeleDonosti | |
 | Hamaika TV | |
