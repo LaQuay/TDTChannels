@@ -100,15 +100,15 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 | Canal         | URL |
 | ------------- |------------- |
 | Aragón TV | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8)|
-| Barbastro TV | |
-| Huesca TV | |
+| Barbastro TV | [m3u8](http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8) - [web](http://www.canal25tv.es/index.php/ct-menu-item-5)|
+| Huesca TV | [rtmp/m3u8](rtmp://streaming2.radiohuesca.com/live/huescatv) - [web](http://www.radiohuesca.com/directo-htv)|
 
 #### Asturias
 
 | Canal         | URL |
 | ------------- |------------- |
 | Asturias RTV | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8)|
-| Tele Asturias | |
+| Tele Asturias | [m3u8](http://photocall.epizy.com/cl.php?vid=streaming.enetres.net/4E1BF07B819149A6A4F1031E03A2EF99021/live.smil/playlist.m3u8) - [web](http://tvonline.teleasturias.com/) |
 
 #### Catalunya
 
