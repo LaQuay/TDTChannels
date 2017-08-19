@@ -39,20 +39,18 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 | Clan | |
 | Ten | |
 | DKiss | |
-| Paramount Channel | |
+| Paramount Channel | [web](http://www.paramountchannel.es/programacion/en-directo)|
 | Disney Channel | [web](http://disneychannel.es/embed/51f3ac9befdef3ed25807630?autoplay=true) |
 | DiscoveryMax | [m3u8](http://cdn.opencable.es/hls/live/discoverymax/index.m3u8) | |
 | 13 TV | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8) |
 | Libertad Digital TV | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
 | Travel TV | |
 | Hit TV | [m3u8](http://tst.es.flash.glb.ipercast.net/tst.es-live/live/.m3u8)|
-| NASA TV | |
-| Canal Parlamento | |
-| Hispan TV | |
-| A1 España TV | |
-| Solidaria TV | |
-| Vaughan TV | |
-| Logos TV | |
+| NASA TV | [web](https://www.nasa.gov/multimedia/nasatv/#public)|
+| Canal Parlamento | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
+| Hispan TV | [web](https://www.youtube.com/c/hispantv/live)|
+| Solidaria TV | [m3u8](http://panel.cdnstreamserver.com/live/solidariatv-webhd.m3u8) - [web](http://es.solidariatv.com/en-vivo) |
+| Vaughan TV | [web](https://grupovaughan.com/vaughan-tv/)|
 
 ### Deportivos
 
@@ -79,23 +77,23 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 | Lebrija TV | |
 | Onda Algeciras TV | [m3u8](http://cls.provideo.es/algecirastv/livestream/.m3u8) |
 | Marbella RTV | [m3u8](http://cls.provideo.es/marbellatv/livestream/.m3u8) |
-| Onda Azul Málaga RTV | |
+| Onda Azul Málaga RTV | [web](http://www.ondaazulmalaga.es/directo)|
 | Huelva TV | |
-| Ondaluz TV | |
-| Teleonuba | |
+| Ondaluz TV | [m3u8](http://cls.elitehd-audiovisuales.com/ondaluz/olandalucia/playlist.m3u8) - [web](http://ondaluz.tv/sevilla/)|
+| Teleonuba | [m3u8](http://cls2.todostreaming.eu/azahara/GdZpE8ef/playlist.m3u8) - [web](http://www.teleonuba.es/en-directo/)|
 | OndaJaen RTV | |
-| CanalCosta | |
-| 8 Cádiz | |
-| Canal 45 TV | |
-| Córdoba TV | |
-| El Correo TV | |
-| InterAlmería | |
-| Costa del Sol | |
-| Cancionero TV | |
-| PTV Córdoba | |
-| PTV Málaga | |
+| CanalCosta | [m3u8](http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8) - [web](http://www.canalcostatv.es/en-directo/)|
+| 8 Cádiz | [m3u8](http://cls2.todostreaming.eu/unatv/live/playlist.m3u8) |
+| Canal 45 TV | [web](http://www.canal45tv.com/directo#)|
+| Córdoba Internacional TV | [web](http://www.cordobainternacional.com/en-directo/) |
+| El Correo TV | [m3u8](http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8) |
+| InterAlmería | [web](http://www.interalmeria.tv/directo.php) |
+| Costa del Sol TV | [m3u8](http://cls.todostreaming.eu/benalmadena/webtv/playlist.m3u8) - [web](http://www.costadelsoltv.com/) |
+| Cancionero TV | [m3u8](http://89.140.99.41/hls/1080.m3u8) - [web](http://89.140.99.41/cancionerotv/) |
+| PTV Córdoba | [m3u8](http://149.91.98.146:1935/cordoba/stream/playlist.m3u8) |
+| PTV Málaga | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) |
 | Estepona TV | |
-| Fuengirola TV | |
+| Fuengirola TV | [m3u8](http://cls2.todostreaming.eu/nerja/livestream/playlist.m3u8) |
 
 #### Aragón
 
