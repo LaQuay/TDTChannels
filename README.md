@@ -21,19 +21,19 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 | Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8)|
 | Antena 3 Eventos | [m3u8](http://antena3v4-live.hss.adaptive.level3.net/egress/ahandler/livevideo/geoeventos15_hss/geoeventos15_hss.isml/.m3u8)
 | Antena 3 Internacional  | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master.m3u8?dvr)|
-| Cuatro | |
-| Telecinco | |
+| Cuatro | | [web](http://www.mitele.es/directo/cuatro) |
+| Telecinco | [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | [m3u8](a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) |
 | Neox | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) |
 | Nova | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) |
 | Mega | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) |
 | Antena 3 Series | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) |
 | Antena 3 Series Internacional | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master.m3u8?dvr) |
-| FDF | |
-| Boing | |
+| FDF | [web](http://www.mitele.es/directo/fdf)|
+| Boing | [web](http://www.mitele.es/directo/boing)|
 | Energy | |
-| Divinity | |
-| BeMad | |
+| Divinity | [web](http://www.mitele.es/directo/divinity)|
+| BeMad | [web](http://www.mitele.es/directo/bemad)|
 | 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8) |
 | 24h | [m3u8](http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8) |
 | Clan | |
