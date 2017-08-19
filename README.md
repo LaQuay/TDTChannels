@@ -19,9 +19,9 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 | La 1 Eventos  | [m3u8](http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/master.m3u8)|
 | La 2          | [m3u8](http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live.m3u8)|
 | Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8)|
-| Antena 3 Eventos | [m3u8](http://antena3v4-live.hss.adaptive.level3.net/egress/ahandler/livevideo/geoeventos15_hss/geoeventos15_hss.isml/.m3u8)
+| Antena 3 Eventos | [m3u8](http://antena3v4-live.hss.adaptive.level3.net/egress/ahandler/livevideo/geoeventos15_hss/geoeventos15_hss.isml/.m3u8) |
 | Antena 3 Internacional  | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master.m3u8?dvr)|
-| Cuatro | | [web](http://www.mitele.es/directo/cuatro) |
+| Cuatro | [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco | [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | [m3u8](a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) |
 | Neox | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) |
