@@ -44,8 +44,15 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Ten | |
 | DKiss | |
 | Paramount Channel | [web](http://www.paramountchannel.es/programacion/en-directo)|
-| Disney Channel | [web](http://disneychannel.es/embed/51f3ac9befdef3ed25807630?autoplay=true) |
-| DiscoveryMax | [m3u8](http://cdn.opencable.es/hls/live/discoverymax/index.m3u8) | |
+| Disney Channel | [m3u8](http://cdn.opencable.es/hls/live/disneyxd/index.m3u8) - [web](http://disneychannel.es/embed/51f3ac9befdef3ed25807630?autoplay=true) |
+| Disney Junior XD | [m3u8](http://cdn.opencable.es/hls/live/disneyjr/index.m3u8) |
+| DiscoveryMax | [m3u8](http://cdn.opencable.es/hls/live/discoverymax/index.m3u8) | 
+| Nickelodeon | [m3u8](http://cdn.opencable.es/hls/live/nickelodeon/index.m3u8) |
+| Nickelodeon Junior | [m3u8](http://cdn.opencable.es/hls/live/nickjr/index.m3u8) |
+| National Geographic | [m3u8](http://cdn.opencable.es/hls/live/nationalgeographic/index.m3u8) |
+| National Geo Wild | [m3u8](http://cdn.opencable.es/hls/live/natgeowild/index.m3u8) |
+| Viajar | [m3u8](http://cdn.opencable.es/hls/live/viajar/index.m3u8) |
+| A&E | [m3u8](http://cdn.opencable.es/hls/live/ae/index.m3u8) |
 | 13 TV | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8) - [web](http://www.13tv.es/?page_id=306)|
 | Somos | [m3u8](http://cdn.opencable.es/hls/live/somos/index.m3u8) |
 | Dark | [m3u8](http://cdn.opencable.es/hls/live/dark/index.m3u8) |
