@@ -43,6 +43,7 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 | Disney Channel | [web](http://disneychannel.es/embed/51f3ac9befdef3ed25807630?autoplay=true) |
 | DiscoveryMax | [m3u8](http://cdn.opencable.es/hls/live/discoverymax/index.m3u8) | |
 | 13 TV | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8) |
+| Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/playlist.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
 | Travel TV | |
 | Hit TV | [m3u8](http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8)|
@@ -141,59 +142,59 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 
 | Canal         | URL |
 | ------------- |------------- |
-| Canarias RTV | |
+| RTV Canaria | [web](http://www.rtvc.es/television/directo.aspx) |
 | Mírame TV | |
-| El Día TV | |
-| Lancelot TV | |
-| Canal 4 TV | ||
+| El Día TV | [m3u8](http://vs8.live.opencaster.com/opencaster/zmyrfjHztaoj/playlist.m3u8) - [web](https://www.opencaster.com/eldiatv-100-100) |
+| Lancelot TV | [m3u8](http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8) - [web](http://www.lancelot.tv/directo)|
+| Canal 4 Tenerife | [web](http://www.ustream.tv/embed/22748750?html5ui&autoplay=true) |
 | Tindaya TV | |
 
 #### Cantabria
 
 | Canal         | URL |
 | ------------- |------------- |
-| Popular TV | |
+| Popular TV | [m3u8](http://cls.populartvcantabria.com/ptvcantabria/livestream/playlist.m3u8) - [web](http://populartvcantabria.com/livetv/) |
 
 #### Castilla la Mancha
 
 | Canal         | URL |
 | ------------- |------------- |
 | Castilla la Mancha TV | [m3u8](http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8) |
-| TeleToledo | |
-| Regional de ClM | |
-| Canal Diocesano Toledo | |
-| Hellin TV | |
-| Imás TV | |
-| Alcarria TV | |
+| TeleToledo | [web](http://www.teletoledo.tv/index.php/tv-en-directo/42-emision-en-directo) |
+| La Regional TV | [web](http://www.laregional.tv/index.php/tv-en-directo) |
+| Canal Diocesano Toledo | [m3u8](http://178.32.53.254/rtvd/livestream/playlist.m3u8) |
+| Hellin TV | [m3u8](http://hellin.hls.flumotion.com/hellin/hellin-hls/playlist.m3u8) - [web](http://www.televisionhellin.com/tv-en-directo) |
+| Imás TV | [m3u8](http://cls.todostreaming.eu/imastv/livestream/playlist.m3u8) - [web](http://www.imastv.es/directo.html) |
+| Alcarria TV | [m3u8](http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8) - [web](http://www.alcarria.tv/htmlPlayer.html) |
 
 #### Castilla y León
 
 | Canal         | URL |
 | ------------- |------------- |
-| Castilla y León TV | |
+| RTV Castilla y León | [web](http://www.rtvcyl.es/Directo.aspx) |
 
 #### Ceuta
 
 | Canal         | URL |
 | ------------- |------------- |
-| Ceuta TV | |
-| Ceuta RTV | |
+| Ceuta TV | [m3u8](http://cls.todostreaming.eu/anguloce/livestream/playlist.m3u8) - [web](http://ceutatv.com/pag/ceuta-tv-en-directo/) |
+| Ceuta RTV | [m3u8](http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8) - [web](http://www.rtvce.es/tv-directo) |
 
 #### Extremadura
 
 | Canal         | URL |
 | ------------- |------------- |
-| Extremadura TV | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8)|
+| Extremadura TV | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8) - [web](http://www.canalextremadura.es/tv/directo#ahora)|
 
 #### Galicia
 
 | Canal         | URL |
 | ------------- |------------- |
-| Galicia TV | [m3u8](http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8)|
+| Galicia TV | [m3u8](http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8) - [web](http://www.crtvg.es/tvg/tvg-en-directo)|
 | Galicia 2 TV | |
-| Galicia Infantil TV | [m3u8](http://media3.crtvg.es/live/_definst_/infantilCires/playlist.m3u8) |
+| Galicia Infantil TV | [m3u8](http://media3.crtvg.es/live/_definst_/infantilCires/playlist.m3u8) - [web](http://www.crtvg.es/infantil)|
 | Galicia Musical TV | [m3u8](http://media3.crtvg.es/live/_definst_/musigal/playlist.m3u8) |
-| Galicia Cultura TV | [m3u8](http://media3.crtvg.es/live/_definst_/culturaCires/playlist.m3u8) |
+| Galicia Cultura TV | [m3u8](http://media3.crtvg.es/live/_definst_/culturaCires/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/culturaCires)|
 | Galicia Momentos G TV | [m3u8](http://media3.crtvg.es/live/_definst_/momentosCires/playlist.m3u8) |
 
 #### Islas Baleares
@@ -201,44 +202,42 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 | Canal         | URL |
 | ------------- |------------- |
 | IB3 TV | [m3u8](https://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8) - [web](http://ib3tv.com/directe) |
-| Eivissa i Formentera TV | |
+| Eivissa i Formentera TV | [web](https://teftv.com/la-tef-en-directe/)|
 
 #### Madrid
 
 | Canal         | URL |
 | ------------- |------------- |
-| Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) |
-| laOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) |
-| Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/playlist.m3u8) |
-| Canal 33 Madrid | |
+| Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) - [web](http://www.telemadrid.es/emision-en-directo)|
+| laOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) - [web](http://www.telemadrid.es/emision-en-directo-laotra)|
+| Canal 33 Madrid | [web](http://www.ustream.tv/embed/15741867?html5ui&autoplay=true) |
 
 #### Melilla
 
 | Canal         | URL |
 | ------------- |------------- |
-| Melilla TV | [m3u8](http://melillatv-hls.flumotion.com/melillatv/ngrp:melillatv_all/playlist.m3u8)|
+| Melilla TV | [m3u8](http://melillatv-hls.flumotion.com/melillatv/ngrp:melillatv_all/playlist.m3u8) - [web](http://inmusa.es/directo.php)|
 
 #### Murcia
 
 | Canal         | URL |
 | ------------- |------------- |
-| 7 TV RTV Murcia | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) |
-| RadioTelevisión Vida | |
+| 7 TV Murcia | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) - [web](http://webtv.7tvregiondemurcia.es/) |
 
 #### Navarra
 
 | Canal         | URL |
 | ------------- |------------- |
-| Navarra TV | |
+| Navarra TV | [web](http://www.natv.es/Directo) |
 
 #### Pais Vasco
 
 | Canal         | URL |
 | ------------- |------------- |
-| ETB | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) |
-| TeleBilbao | |
-| TeleDonosti | |
-| Hamaika TV | [m3u8](http://bideometa.info/h.m3u8) |
+| ETB | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) - [web](http://www.eitb.eus/es/television/etb-sat/) |
+| TeleBilbao | [m3u8](http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8) - [web](http://www.telebilbao.es/directo.html) |
+| TeleDonosti | [web](http://www.teledonosti.tv/directos/index.html) |
+| Hamaika TV | [m3u8](http://bideometa.info/h.m3u8) - [web](http://www.hamaika.eus/zuzenean)|
 | Goierri TV | |
 | 28 Kanala | |
 | Tele 7 | |
@@ -247,26 +246,25 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 
 | Canal         | URL |
 | ------------- |------------- |
-| TV Rioja | |
+| TV Rioja | [web](http://www.tvr.es/directo/) |
 
 #### Valencia
 
 | Canal         | URL |
 | ------------- |------------- |
-| Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/playlist.m3u8) |
-| Tele Safor | [m3u8](http://video.telesafor.com/hls/video.m3u8)|
-| Vega Baja TV | |
-| Televisión de Castellón | |
-| Mediterraneo TV | |
-| Levante TV | |
-| TeleValencia | 
-| Intercomarcal TV | |
-| TV Alcoi | |
-| Ribera TV | |
-| Bous TV | |
-| TV 4 Vall d'Uixò | |
-| Tele Elx | |
-| Canal 56 | |
+| Tele Safor | [m3u8](http://video.telesafor.com/hls/video.m3u8) - [web](http://telesafor.com) |
+| Vega Baja TV | [m3u8](http://185.29.68.24/tvb.m3u8) - [web](http://programas.televisionvegabaja.es/directo) |
+| TV Castelló | |
+| TV Mediterraneo | [web](http://www.tvmediterraneo.es/es/directo/) |
+| Levante TV | [m3u8](http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8) - [web](http://www.levantetv.es/default.jsp) |
+| 7 TeleValencia | [m3u8](http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8) - [web](http://7televalencia.com/directo-7televalencia) |
+| Intercomarcal TV | [web](http://www.intercomarcal.com/camaraa/camaragrande.html) |
+| TV Alcoi | [web](http://www.tv-a.es/tv-en-directo.php) |
+| Ribera TV | [m3u8](http://orion.comelson.es/ribera/livestream/playlist.m3u8) - [web](http://www.riberatelevisio.com/) |
+| Bous TV | [web](https://www.ustream.tv/embed/23358001?html5ui&autoplay=true) |
+| TV 4 La Vall | [m3u8](http://178.32.53.254/15o8376r/mystream/playlist.m3u8) - [web](http://teve4lavall.com/)|
+| Tele Elx | [m3u8](http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8) - [web](http://www.teleelx.es/s5811-TELEVISION.html) |
+| Canal 56 | [m3u8](https://126skyfiregce-vimeo.akamaized.net/exp=1503244684~acl=%2F229381525%2F%2A~hmac=68f147e061b5193bceff850a197f9cbff1ef4dc0e6db678ef90262908aba8b3f/229381525/video/809007502,809007504/master.m3u8) - [web](http://canal56.com/online/) |
 | Información TV | |
 
 ## Canales de Andorra
@@ -275,4 +273,4 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 
 | Canal         | URL |
 | ------------- |------------- |
-| Andorra RTV   | |
+| RTV Andorra   | [web](http://www.andorradifusio.ad/Endirecte/atv) |
