@@ -2,7 +2,7 @@
 
 Lista de canales TDT que se emiten en abierto por Internet. 
 
-Tutorial para *m3u8*: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*)
+Tutorial para *m3u8*: Algunos enlaces funcionan directamente bajándolos y haciendo doble click en ellos y abriéndolos en VLC. Los que no funcionen con ese método se han de abrir de esta forma: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*)
 
 Tutorial para *url*: Click en *url*.
 
