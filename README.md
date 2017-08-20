@@ -1,12 +1,16 @@
 # Canales TDT
 
 A continuación se muestra una lista de canales TDT que se emiten en abierto por Internet. 
-No poseo ningún servidor ni el contenido de lo que se retransmite. 
-Únicamente se incluyen los enlaces url que proporciona el mismo distribuidor de la emisión.
 
-Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por Softzone)
+No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial.
 
-*Última actualización: 19/08/2017*
+Tutorial para *m3u8*: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por Softzone)
+
+También se incluyen enlaces *web* como opción.
+
+Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*.
+
+*Última actualización: 20/08/2017*
 
 ## Canales de España
 
