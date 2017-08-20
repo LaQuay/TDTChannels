@@ -126,6 +126,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Esports 3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/esport3)|
 | La 1 Catalunya | [web](http://www.rtve.es/television/catalunya/directo/) |
 | Betevé | [m3u8](http://api-cdn.overon.es/SmilLive/getLiveIOS/.m3u8?stream=btv_stream01) |
+| 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) - [web](http://www.8tv.cat/directe/) |
 | Badalona Televisió | [m3u8](http://cdnlive.shooowit.net/badalonatvlive/live.smil/playlist.m3u8) - [web](http://cdnplayer.shooowit.net/embed/dea6f957) |
 | El Punt Avui TV | [m3u8](http://cdnlive.shooowit.net/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
 | Esplugues TV | [m3u8](http://cdnlive.shooowit.net/etvlive/live.smil/playlist.m3u8) - [web](http://www.etv.cat/en-directe) |
