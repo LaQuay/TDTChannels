@@ -107,35 +107,35 @@ Tutorial: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-o
 
 | Canal         | URL |
 | ------------- |------------- |
-| Asturias RTV | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8)|
+| Asturias RTV | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) |
 | Tele Asturias | [m3u8](http://photocall.epizy.com/cl.php?vid=streaming.enetres.net/4E1BF07B819149A6A4F1031E03A2EF99021/live.smil/playlist.m3u8) - [web](http://tvonline.teleasturias.com/) |
 
 #### Catalunya
 
 | Canal         | URL |
 | ------------- |------------- |
-| TV3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8)|
+| TV3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8) |
 | TV3 Internacional| [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) |
 | 324 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8) |
-| 33 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8)|
+| 33 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) |
 | Esports 3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) |
-| BTV | [m3u8](http://api-cdn.overon.es/SmilLive/getLiveIOS/.m3u8?stream=btv_stream01)|
-| Badalona Televisió | |
-| El Punt Avui TV | |
-| Esplugues TV | |
-| M1 Maresme | |
+| BTV | [m3u8](http://api-cdn.overon.es/SmilLive/getLiveIOS/.m3u8?stream=btv_stream01) |
+| Badalona Televisió | [m3u8](http://cdnlive.shooowit.net/badalonatvlive/live.smil/playlist.m3u8) - [web](http://cdnplayer.shooowit.net/embed/dea6f957) |
+| El Punt Avui TV | [m3u8](http://cdnlive.shooowit.net/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
+| Esplugues TV | [m3u8](http://cdnlive.shooowit.net/etvlive/live.smil/playlist.m3u8) - [web](http://www.etv.cat/en-directe) |
+| M1 Maresme | [m3u8](http://cdnlive.shooowit.net/m1tvlive/live.smil/playlist.m3u8) - [web](http://m1tv.xiptv.cat/m1tv-en-directe) |
 | Mola TV | |
-| Lleida TV | |
+| Lleida TV | [m3u8](https://cdnlive.shooowit.net/lleidatvlive/live.smil/playlist.m3u8) |
 | Vallès Visió | |
-| Girona TV | |
-| El Vendrell RTV | |
-| Vallès Oriental TV | |
-| El 9 TV | |
+| Girona TV | [m3u8](http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8) - [web](http://tvgirona.xiptv.cat/tvendirecte) |
+| El Vendrell RTV | [web](http://www.ustream.tv/embed/13291828?html5ui=1&autoplay=true) |
+| Vallès Oriental TV | [m3u8](http://cdnlive.shooowit.net/votvlive/live.smil/playlist.m3u8) - [web](http://votv.xiptv.cat/votv-en-directe) |
+| El 9 TV | [m3u8](http://cdnlive.shooowit.net/9tvlive/live.smil/playlist.m3u8) - [web](http://el9nou.cat/el9tv/) |
 | Canal Terrassa Vallès | |
-| Canal Blau | |
-| Mar TV | |
-| TAC 12 | |
-| 25 TV | |
+| Canal Blau | [m3u8](http://cdnlive.shooowit.net/blautvlive/blautv.smil/playlist.m3u8) - [web](http://www.canalblau.cat/televisio/televisio-en-directe/)|
+| Mar TV | [m3u8](http://k4.usastreams.com/CableLatino/martv/playlist.m3u8) - [web](http://www.martv.tv/index.php/site/online)|
+| TAC 12 | [m3u8](http://cdnlive.shooowit.net/tac12live/live.smil/playlist.m3u8) - [web](http://www.tac12.tv/en-directe) |
+| 25 TV | [m3u8](http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8) - [web](http://www.25televisio.com/streaming.php) |
 
 #### Canarias
 
