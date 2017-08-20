@@ -57,6 +57,9 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Somos | [m3u8](http://cdn.opencable.es/hls/live/somos/index.m3u8) |
 | Dark | [m3u8](http://cdn.opencable.es/hls/live/dark/index.m3u8) |
 | TCM | [m3u8](http://cdn.opencable.es/hls/live/tcm/index.m3u8) |
+| Syfy | [m3u8](http://cdn.opencable.es/hls/live/syfy/index.m3u8) |
+| Calle 13 | [m3u8](http://cdn.opencable.es/hls/live/calle13/index.m3u8) |
+| Comedy Central | [m3u8](http://cdn.opencable.es/hls/live/comedycentral/index.m3u8) |
 | Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/playlist.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
 | NASA TV | [web](https://www.nasa.gov/multimedia/nasatv/#public)|
