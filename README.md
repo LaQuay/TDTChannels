@@ -1,6 +1,6 @@
-# Canales TDT
+# Canales IPTV en abierto
 
-Lista de canales TDT que se emiten en abierto por Internet. 
+Lista de canales IPTV que se emiten en abierto por Internet. 
 
 Tutorial para *m3u8*: Algunos enlaces funcionan directamente bajándolos y haciendo doble click en ellos y abriéndolos en VLC. Los que no funcionen con ese método se han de abrir de esta forma: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*)
 
@@ -8,7 +8,7 @@ Tutorial para *url*: Click en *url*.
 
 Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*.
 
-No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial.
+No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial. Si posees los derechos de algún canal y deseas que lo retire, contactame.
 
 *Última actualización: 20/08/2017*
 
@@ -47,10 +47,11 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Disney Channel | [web](http://disneychannel.es/embed/51f3ac9befdef3ed25807630?autoplay=true) |
 | DiscoveryMax | [m3u8](http://cdn.opencable.es/hls/live/discoverymax/index.m3u8) | |
 | 13 TV | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8) - [web](http://www.13tv.es/?page_id=306)|
+| Somos | [m3u8](http://cdn.opencable.es/hls/live/somos/index.m3u8) |
+| Dark | [m3u8](http://cdn.opencable.es/hls/live/dark/index.m3u8) |
+| TCM | [m3u8](http://cdn.opencable.es/hls/live/tcm/index.m3u8) |
 | Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/playlist.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
-| Travel TV | |
-| Hit TV | [m3u8](http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8) - [web](http://www.hittv.es/)|
 | NASA TV | [web](https://www.nasa.gov/multimedia/nasatv/#public)|
 | Canal Parlamento | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
 | Hispan TV | [web](https://www.youtube.com/c/hispantv/live)|
@@ -68,6 +69,14 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Barça TV | |
 | Betis TV | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) - [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
 | Sevilla TV | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
+
+### Musicales
+| Canal         | URL |
+| ------------- |------------- |
+| MTV Hits | [m3u8](http://cdn.opencable.es/hls/live/mtvhits/index.m3u8) |
+| MTV Live HD | [m3u8](http://cdn.opencable.es/hls/live/mtvlivehd/index.m3u8)
+| VH1 | [m3u8](http://cdn.opencable.es/hls/live/vh1/index.m3u8) |
+| Hit TV | [m3u8](http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8) - [web](http://www.hittv.es/) |
 
 ### Autonómicos
 
@@ -105,14 +114,14 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | ------------- |------------- |
 | Aragón TV | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) - [web](http://www.aragontelevision.es/) |
 | Barbastro TV | [m3u8](http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8) - [web](http://www.canal25tv.es/index.php/ct-menu-item-5)|
-| Huesca TV | [rtmp/m3u8](rtmp://streaming2.radiohuesca.com/live/huescatv) - [web](http://www.radiohuesca.com/directo-htv)|
+| Huesca TV | [rtmp m3u8](rtmp://streaming2.radiohuesca.com/live/huescatv) - [web](http://www.radiohuesca.com/directo-htv)|
 
 #### Asturias
 
 | Canal         | URL |
 | ------------- |------------- |
 | Asturias RTV | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) - [web](http://www.rtpa.es/television) |
-| Tele Asturias | [m3u8](http://photocall.epizy.com/cl.php?vid=streaming.enetres.net/4E1BF07B819149A6A4F1031E03A2EF99021/live.smil/playlist.m3u8) - [web](http://tvonline.teleasturias.com/) |
+| Tele Asturias | [m3u8](http://streaming.enetres.net/4E1BF07B819149A6A4F1031E03A2EF99021/live.smil/playlist.m3u8) - [web](http://tvonline.teleasturias.com/) |
 
 #### Catalunya
 
