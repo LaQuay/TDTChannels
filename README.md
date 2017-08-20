@@ -90,7 +90,6 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | CanalCosta | [m3u8](http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8) - [web](http://www.canalcostatv.es/en-directo/)|
 | 8 Cádiz | [m3u8](http://cls2.todostreaming.eu/unatv/live/playlist.m3u8) - [web](http://www.8cadiz.es/tvonline.php) |
 | Canal 45 TV | [web](http://www.canal45tv.com/directo#)|
-| Córdoba Internacional TV | [web](http://www.cordobainternacional.com/en-directo/) |
 | El Correo TV | [m3u8](http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8) - [web](http://elcorreoweb.es/elcorreotv) |
 | InterAlmería | [web](http://www.interalmeria.tv/directo.php) |
 | Costa del Sol TV | [m3u8](http://cls.todostreaming.eu/benalmadena/webtv/playlist.m3u8) - [web](http://www.costadelsoltv.com/) |
