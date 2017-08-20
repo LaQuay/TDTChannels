@@ -140,7 +140,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | TV3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/tv3)|
 | TV3 Internacional| [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) |
 | 324 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/324)|
-| 33 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) |
+| 33 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/super3/)|
 | Esports 3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/esport3)|
 | La 1 Catalunya | [web](http://www.rtve.es/television/catalunya/directo/) |
 | Betevé | [m3u8](http://api-cdn.overon.es/SmilLive/getLiveIOS/.m3u8?stream=btv_stream01) |
