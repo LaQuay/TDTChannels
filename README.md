@@ -17,9 +17,9 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Canal         | URL |
 | ------------- |------------- |
 | La 1          | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/playlist.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
-| La 1 HD       | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/thd_lv3_aosv4_gl7/thd_lv3_aosv4_gl7.isml/playlist.m3u8)|
+| La 1 HD       | [m3u8](http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@439385/master.m3u8)|
 | La 1 Eventos  | [m3u8](http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/master.m3u8)|
-| La 2          | [m3u8](http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
+| La 2          | [m3u8](http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/master.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
 | Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Antena 3 Eventos | [m3u8](http://antena3v4-live.hss.adaptive.level3.net/egress/ahandler/livevideo/geoeventos15_hss/geoeventos15_hss.isml/playlist.m3u8) |
 | Antena 3 Internacional  | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master.m3u8)|
@@ -42,8 +42,8 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Ten | |
 | DKiss | |
 | Paramount Channel | [web](http://www.paramountchannel.es/programacion/en-directo)|
-| Disney Channel | [m3u8](http://cdn.opencable.es/hls/live/disneyxd/index.m3u8) - [web](http://disneychannel.es/embed/51f3ac9befdef3ed25807630?autoplay=true) |
-| Disney Junior XD | [m3u8](http://cdn.opencable.es/hls/live/disneyjr/index.m3u8) |
+| Disney XD | [m3u8](http://cdn.opencable.es/hls/live/disneyxd/index.m3u8) - [web](http://disneychannel.es/embed/51f3ac9befdef3ed25807630?autoplay=true) |
+| Disney Junior | [m3u8](http://cdn.opencable.es/hls/live/disneyjr/index.m3u8) |
 | DiscoveryMax | [m3u8](http://cdn.opencable.es/hls/live/discoverymax/index.m3u8) | 
 | Nickelodeon | [m3u8](http://cdn.opencable.es/hls/live/nickelodeon/index.m3u8) |
 | Nickelodeon Junior | [m3u8](http://cdn.opencable.es/hls/live/nickjr/index.m3u8) |
@@ -59,7 +59,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Syfy | [m3u8](http://cdn.opencable.es/hls/live/syfy/index.m3u8) |
 | Calle 13 | [m3u8](http://cdn.opencable.es/hls/live/calle13/index.m3u8) |
 | Comedy Central | [m3u8](http://cdn.opencable.es/hls/live/comedycentral/index.m3u8) |
-| Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/playlist.m3u8) - [web](http://www.intereconomia.tv/) |
+| Intereconomía | [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
 | NASA TV | [web](https://www.nasa.gov/multimedia/nasatv/#public)|
 | Canal Parlamento | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
@@ -72,7 +72,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Canal         | URL |
 | ------------- |------------- |
 | TDP | [m3u8](http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
-| TDP HD | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/playlist.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
+| TDP HD | [m3u8 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/playlist.m3u8) - [m3u8 2](http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@458141/index_2800_av-p.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
 | Gol TV | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) |
 | Real Madrid TV | [m3u8](http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
 | Barça TV | |
@@ -101,7 +101,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Onda Algeciras TV | [m3u8](http://cls.provideo.es/algecirastv/livestream/playlist.m3u8) - [web](http://ondaalgecirastv.com/en-directo/) |
 | Marbella RTV | [m3u8](http://cls.provideo.es/marbellatv/livestream/playlist.m3u8) - [web](http://rtvmarbella.tv/tv-en-directo/) |
 | Onda Azul Málaga RTV | [web](http://www.ondaazulmalaga.es/directo)|
-| Huelva TV | [m3u8](http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8) - [web](http://huelvatv.com/directo/) |
+| Huelva TV | [web](http://huelvatv.com/directo/) |
 | Ondaluz TV | [m3u8](http://cls.elitehd-audiovisuales.com/ondaluz/olandalucia/playlist.m3u8) - [web](http://ondaluz.tv/sevilla/)|
 | Teleonuba | [m3u8](http://cls2.todostreaming.eu/azahara/GdZpE8ef/playlist.m3u8) - [web](http://www.teleonuba.es/en-directo/)|
 | OndaJaen RTV | [web](http://ondajaen.es/web/directo/) |
@@ -130,7 +130,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Canal         | URL |
 | ------------- |------------- |
 | Asturias RTV | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) - [web](http://www.rtpa.es/television) |
-| Tele Asturias | [m3u8](http://streaming.enetres.net/4E1BF07B819149A6A4F1031E03A2EF99021/live.smil/playlist.m3u8) - [web](http://tvonline.teleasturias.com/) |
+| Tele Asturias | [web](http://tvonline.teleasturias.com/) |
 
 #### Catalunya
 
