@@ -10,8 +10,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial. Si posees los derechos de algún canal y deseas que lo retire, contactame.
 
-*Última actualización: 20/08/2017*
-
 ## Canales de España
 
 ### Nacionales
@@ -49,6 +47,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | DiscoveryMax | [m3u8](http://cdn.opencable.es/hls/live/discoverymax/index.m3u8) | 
 | Nickelodeon | [m3u8](http://cdn.opencable.es/hls/live/nickelodeon/index.m3u8) |
 | Nickelodeon Junior | [m3u8](http://cdn.opencable.es/hls/live/nickjr/index.m3u8) |
+| Panda | [m3u8](http://cdn.opencable.es/hls/live/panda/index.m3u8) |
 | National Geographic | [m3u8](http://cdn.opencable.es/hls/live/nationalgeographic/index.m3u8) |
 | National Geo Wild | [m3u8](http://cdn.opencable.es/hls/live/natgeowild/index.m3u8) |
 | Viajar | [m3u8](http://cdn.opencable.es/hls/live/viajar/index.m3u8) |
@@ -87,6 +86,11 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | MTV Live HD | [m3u8](http://cdn.opencable.es/hls/live/mtvlivehd/index.m3u8)
 | VH1 | [m3u8](http://cdn.opencable.es/hls/live/vh1/index.m3u8) |
 | Hit TV | [m3u8](http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8) - [web](http://www.hittv.es/) |
+
+## Internacionales
+| Canal         | URL |
+| ------------- |------------- |
+| Animal Planet Live | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) |
 
 ### Autonómicos
 
