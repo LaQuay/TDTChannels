@@ -1,6 +1,6 @@
 # Canales IPTV en abierto
 
-Lista de canales IPTV que se emiten en abierto por Internet. 
+Lista de canales IPTV que se emiten en abierto por Internet. Especialmente España, y ampliando a Internacionales.
 
 Tutorial para *m3u8*: Algunos enlaces funcionan directamente bajándolos y haciendo doble click en ellos y abriéndolos en VLC. Los que no funcionen con ese método se han de abrir de esta forma: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*)
 
@@ -86,11 +86,6 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | MTV Live HD | [m3u8](http://cdn.opencable.es/hls/live/mtvlivehd/index.m3u8)
 | VH1 | [m3u8](http://cdn.opencable.es/hls/live/vh1/index.m3u8) |
 | Hit TV | [m3u8](http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8) - [web](http://www.hittv.es/) |
-
-## Internacionales
-| Canal         | URL |
-| ------------- |------------- |
-| Animal Planet Live | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) |
 
 ### Autonómicos
 
@@ -295,9 +290,12 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Canal 56 | [m3u8](https://126skyfiregce-vimeo.akamaized.net/exp=1503244684~acl=%2F229381525%2F%2A~hmac=68f147e061b5193bceff850a197f9cbff1ef4dc0e6db678ef90262908aba8b3f/229381525/video/809007502,809007504/master.m3u8) - [web](http://canal56.com/online/) |
 | Información TV | |
 
-## Canales de Andorra
+## Internacionales
+| Canal         | URL |
+| ------------- |------------- |
+| Animal Planet Live | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) |
 
-### Nacionales
+### Canales de Andorra
 
 | Canal         | URL |
 | ------------- |------------- |
