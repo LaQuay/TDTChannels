@@ -72,7 +72,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Canal         | URL |
 | ------------- |------------- |
 | TDP | [m3u8](http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
-| TDP HD | [m3u8 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/playlist.m3u8) - [m3u8 2](http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@458141/index_2800_av-p.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
+| TDP HD | [m3u8 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/playlist.m3u8) - [m3u8 2](http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@458141/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
 | Gol TV | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) |
 | Real Madrid TV | [m3u8](http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
 | Barça TV | |
