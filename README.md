@@ -23,8 +23,8 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Antena 3 Eventos | [m3u8](http://antena3v4-live.hss.adaptive.level3.net/egress/ahandler/livevideo/geoeventos15_hss/geoeventos15_hss.isml/playlist.m3u8) |
 | Antena 3 Internacional  | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master.m3u8)|
-| Cuatro | [m3u8](http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_4.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
-| Telecinco | [m3u8](http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
+| Cuatro | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/NmbWM5YjE6LAH8o-VL3vr3hw3JqSTnRU/cn/fb3d6852c1ac44c982aa727fe9e791cd.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
+| Telecinco | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZjdDVsNTE6AGr8xEgww56vHTV42Lo1Sz/cn/64a4314853d144169ff33a9e4532ddff.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
 | Neox | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
 | Nova | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
@@ -41,24 +41,24 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Clan | |
 | Ten | |
 | DKiss | |
-| Paramount Channel | [web](http://www.paramountchannel.es/programacion/en-directo)|
-| Disney XD | [m3u8](http://cdn.opencable.es/hls/live/disneyxd/index.m3u8) - [web](http://disneychannel.es/embed/51f3ac9befdef3ed25807630?autoplay=true) |
-| Disney Junior | [m3u8](http://cdn.opencable.es/hls/live/disneyjr/index.m3u8) |
-| DiscoveryMax | [m3u8](http://cdn.opencable.es/hls/live/discoverymax/index.m3u8) | 
-| Nickelodeon | [m3u8](http://cdn.opencable.es/hls/live/nickelodeon/index.m3u8) |
-| Nickelodeon Junior | [m3u8](http://cdn.opencable.es/hls/live/nickjr/index.m3u8) |
-| Panda | [m3u8](http://cdn.opencable.es/hls/live/panda/index.m3u8) |
-| National Geographic | [m3u8](http://cdn.opencable.es/hls/live/nationalgeographic/index.m3u8) |
-| National Geo Wild | [m3u8](http://cdn.opencable.es/hls/live/natgeowild/index.m3u8) |
-| Viajar | [m3u8](http://cdn.opencable.es/hls/live/viajar/index.m3u8) |
-| A&E | [m3u8](http://cdn.opencable.es/hls/live/ae/index.m3u8) |
 | 13 TV | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8) - [web](http://www.13tv.es/?page_id=306)|
-| Somos | [m3u8](http://cdn.opencable.es/hls/live/somos/index.m3u8) |
-| Dark | [m3u8](http://cdn.opencable.es/hls/live/dark/index.m3u8) |
-| TCM | [m3u8](http://cdn.opencable.es/hls/live/tcm/index.m3u8) |
-| Syfy | [m3u8](http://cdn.opencable.es/hls/live/syfy/index.m3u8) |
-| Calle 13 | [m3u8](http://cdn.opencable.es/hls/live/calle13/index.m3u8) |
-| Comedy Central | [m3u8](http://cdn.opencable.es/hls/live/comedycentral/index.m3u8) |
+| Paramount Channel | [web](http://www.paramountchannel.es/programacion/en-directo)|
+| Disney XD | [web](http://disneychannel.es/embed/51f3ac9befdef3ed25807630?autoplay=true) |
+| Disney Junior ||
+| DiscoveryMax || 
+| Nickelodeon ||
+| Nickelodeon Junior ||
+| Panda | |
+| National Geographic ||
+| National Geo Wild ||
+| Viajar ||
+| A&E ||
+| Somos ||
+| Dark ||
+| TCM ||
+| Syfy ||
+| Calle 13 ||
+| Comedy Central ||
 | Intereconomía | [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
 | NASA TV | [web](https://www.nasa.gov/multimedia/nasatv/#public)|
@@ -82,10 +82,10 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 ### Musicales
 | Canal         | URL |
 | ------------- |------------- |
-| MTV Hits | [m3u8](http://cdn.opencable.es/hls/live/mtvhits/index.m3u8) |
-| MTV Live HD | [m3u8](http://cdn.opencable.es/hls/live/mtvlivehd/index.m3u8)
-| VH1 | [m3u8](http://cdn.opencable.es/hls/live/vh1/index.m3u8) |
-| Hit TV | [m3u8](http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8) - [web](http://www.hittv.es/) |
+| MTV Hits | |
+| MTV Live HD | |
+| VH1 | |
+| Hit TV | [web](http://www.hittv.es/) |
 
 ### Autonómicos
 
