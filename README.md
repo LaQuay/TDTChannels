@@ -84,7 +84,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | MTV Hits | |
 | MTV Live HD | |
 | VH1 | |
-| Hit TV | [web](http://www.hittv.es/) |
+| Hit TV | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) - [web](http://www.hittv.es/) |
 
 ### Autonómicos
 
