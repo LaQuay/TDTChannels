@@ -16,25 +16,24 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 
 | Canal         | URL |
 | ------------- |------------- |
-| La 1          | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/playlist.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
+| La 1          | [m3u8 - 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/playlist.m3u8) - [m3u8 - 2](http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
 | La 1 HD       | [m3u8](http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@439385/master.m3u8)|
-| La 1 Eventos  | [m3u8](http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/master.m3u8)|
 | La 2          | [m3u8](http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/master.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
 | Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Antena 3 Eventos | [m3u8](http://antena3v4-live.hss.adaptive.level3.net/egress/ahandler/livevideo/geoeventos15_hss/geoeventos15_hss.isml/playlist.m3u8) |
 | Antena 3 Internacional  | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master.m3u8)|
-| Cuatro | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/NmbWM5YjE6LAH8o-VL3vr3hw3JqSTnRU/cn/fb3d6852c1ac44c982aa727fe9e791cd.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
-| Telecinco | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZjdDVsNTE6AGr8xEgww56vHTV42Lo1Sz/cn/64a4314853d144169ff33a9e4532ddff.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
+| Cuatro | [m3u8](http://MSET-PRGB-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/NmbWM5YjE6LAH8o-VL3vr3hw3JqSTnRU/cn/fb3d6852c1ac44c982aa727fe9e791cd.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
+| Telecinco | [m3u8](http://MSET-PROD-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
 | Neox | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
 | Nova | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
 | Mega | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
-| Antena 3 Series | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
-| Antena 3 Series Internacional | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master.m3u8) |
+| Atresseries | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
+| Atresseries2 Internacional | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master.m3u8) |
 | FDF | [web](http://www.mitele.es/directo/fdf)|
-| Boing | [web](http://www.mitele.es/directo/boing)|
+| Boing | [m3u8](http://MSET-PRGB-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZvOXRpODE6c__EQ05epWGBX6530x-EhS/cn/ddf752ff80af43709eabdf84e1d65366.m3u8) - [web](http://www.mitele.es/directo/boing)|
 | Energy | |
-| Divinity | [web](http://www.mitele.es/directo/divinity)|
+| Divinity | [m3u8](http://MSET-PRGB-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/IybDNyYTE6j7PZaKerX9iKFSCuctjf5B/cn/95d3fccb2d6f4ad6b09d23e7c67d3acf.m3u8) - [web](http://www.mitele.es/directo/divinity)|
 | BeMad | [web](http://www.mitele.es/directo/bemad)|
 | 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) |
 | 24h | [m3u8](http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
@@ -59,7 +58,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Syfy ||
 | Calle 13 ||
 | Comedy Central ||
-| Intereconomía | [web](http://www.intereconomia.tv/) |
+| Intereconomía | [m3u8](https://streaming-fr04.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/index.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
 | NASA TV | [web](https://www.nasa.gov/multimedia/nasatv/#public)|
 | Canal Parlamento | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
@@ -155,7 +154,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | El Vendrell RTV | [web](http://www.ustream.tv/embed/13291828?html5ui=1&autoplay=true) |
 | Vallès Oriental TV | [m3u8](http://cdnlive.shooowit.net/votvlive/live.smil/playlist.m3u8) - [web](http://votv.xiptv.cat/votv-en-directe) |
 | El 9 TV | [m3u8](http://cdnlive.shooowit.net/9tvlive/live.smil/playlist.m3u8) - [web](http://el9nou.cat/el9tv/) |
-| Canal Terrassa Vallès | |
+| Terrassa Vallès TV | [m3u8](http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8) - [web](http://www.movipbox.com/streamplayer/terrassa/index.php)|
 | Canal Blau | [m3u8](http://cdnlive.shooowit.net/blautvlive/blautv.smil/playlist.m3u8) - [web](http://www.canalblau.cat/televisio/televisio-en-directe/)|
 | Mar TV | [m3u8](http://k4.usastreams.com/CableLatino/martv/playlist.m3u8) - [web](http://www.martv.tv/index.php/site/online)|
 | TAC 12 | [m3u8](http://cdnlive.shooowit.net/tac12live/live.smil/playlist.m3u8) - [web](http://www.tac12.tv/en-directe) |
@@ -225,7 +224,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Canal         | URL |
 | ------------- |------------- |
 | IB3 TV | [m3u8](https://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8) - [web](http://ib3tv.com/directe) |
-| Eivissa i Formentera TV | [web](https://teftv.com/la-tef-en-directe/)|
+| Eivissa i Formentera TV | [m3u8](http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8) - [web](https://teftv.com/la-tef-en-directe/)|
 
 #### Madrid
 
