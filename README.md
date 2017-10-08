@@ -85,6 +85,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | MTV Live HD | |
 | VH1 | |
 | Hit TV | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) - [web](http://www.hittv.es/) |
+| Deluxe Music | [m3u8](http://server55.livestreamingcdn.com/tulixdemo/tulixdemo/playlist.m3u8) |
 
 ### Autonómicos
 
@@ -113,7 +114,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Cancionero TV | [m3u8](http://89.140.99.41/hls/1080.m3u8) - [web](http://89.140.99.41/cancionerotv/) |
 | PTV Córdoba | [m3u8](http://149.91.98.146:1935/cordoba/stream/playlist.m3u8) - [web](http://www.ptvcordoba.com/) |
 | PTV Málaga | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) - [web](http://www.ptvmalaga.com/) |
-| Estepona TV | |
+| Estepona TV | [m3u8](http://62.210.96.18:1935/esteponatv/esteponatv/playlist.m3u8) |
 | Fuengirola TV | [m3u8](http://cls2.todostreaming.eu/nerja/livestream/playlist.m3u8) |
 
 #### Aragón
