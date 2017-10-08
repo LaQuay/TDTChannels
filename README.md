@@ -182,7 +182,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 
 | Canal         | URL |
 | ------------- |------------- |
-| Castilla la Mancha TV | [m3u8](http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8) |
+| Castilla la Mancha TV | [m3u8](http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8) |
 | TeleToledo | [web](http://www.teletoledo.tv/index.php/tv-en-directo/42-emision-en-directo) |
 | La Regional TV | [web](http://www.laregional.tv/index.php/tv-en-directo) |
 | Canal Diocesano Toledo | [m3u8](http://178.32.53.254/rtvd/livestream/playlist.m3u8) |
