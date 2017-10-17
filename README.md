@@ -20,8 +20,8 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | La 1 HD       | [m3u8](http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@439385/master.m3u8)|
 | La 2          | [m3u8](http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/master.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
 | Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
-| Antena 3 Eventos | [m3u8](http://antena3v4-live.hss.adaptive.level3.net/egress/ahandler/livevideo/geoeventos15_hss/geoeventos15_hss.isml/playlist.m3u8) |
-| Antena 3 Internacional  | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master.m3u8)|
+| Antena 3 Eventos | [m3u8](http://a3live-lh.akamaihd.net/i/geoeventos15_1@309063/master.m3u8) |
+| Antena 3 Internacional  | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255335/canal1/master.m3u8)|
 | Cuatro | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/NmbWM5YjE6LAH8o-VL3vr3hw3JqSTnRU/cn/fb3d6852c1ac44c982aa727fe9e791cd.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZjdDVsNTE6AGr8xEgww56vHTV42Lo1Sz/cn/64a4314853d144169ff33a9e4532ddff.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
