@@ -23,18 +23,18 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Antena 3 Eventos | [m3u8](http://a3live-lh.akamaihd.net/i/geoeventos15_1@309063/master.m3u8) |
 | Antena 3 Internacional  | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255335/canal1/master.m3u8)|
 | Cuatro | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/NmbWM5YjE6LAH8o-VL3vr3hw3JqSTnRU/cn/fb3d6852c1ac44c982aa727fe9e791cd.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
-| Telecinco | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZjdDVsNTE6AGr8xEgww56vHTV42Lo1Sz/cn/64a4314853d144169ff33a9e4532ddff.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
+| Telecinco | [m3u8](http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
 | Neox | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
 | Nova | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
 | Mega | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
 | Atresseries | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
 | Atresseries2 Internacional | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master.m3u8) |
-| FDF | [m3u8](http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224.m3u8) - [web](http://www.mitele.es/directo/fdf)|
+| FDF | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/loYTNlYjE6KFUGlp_a0YvbscmkxBie8v/cn/30aa9e379dfa4815ba6d36cbb70fc254.m3u8) - [web](http://www.mitele.es/directo/fdf)|
 | Boing | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZvOXRpODE6c__EQ05epWGBX6530x-EhS/cn/ddf752ff80af43709eabdf84e1d65366.m3u8) - [web](http://www.mitele.es/directo/boing)|
 | Energy | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5zbW9tYzE6c6Xd1o5Y12HgBkAd3upNLp/cn/ab297324953a402895aa2edb6928b0c3.m3u8) - [web](http://www.mitele.es/directo/energy) |
 | Divinity | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/IybDNyYTE6j7PZaKerX9iKFSCuctjf5B/cn/95d3fccb2d6f4ad6b09d23e7c67d3acf.m3u8) - [web](http://www.mitele.es/directo/divinity)|
-| BeMad | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/9oczVsNTE66uaerrrQhhZZ2KqsRPyxAa/cn/a8ed7dadb9984eb59f16c572caa62cb0.m3u8) - [web](http://www.mitele.es/directo/bemad)|
+| BeMad | [m3u8](http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/4yaHlnNTE6C3jW9zsD272G4pZkoq-Pur/cn/909a630af13d46aaabcb4e5895d9ac35.m3u8) - [web](http://www.mitele.es/directo/bemad)|
 | 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) |
 | 24h | [m3u8](http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
 | Clan | |
