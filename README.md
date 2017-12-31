@@ -16,51 +16,34 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 
 | Canal         | URL |
 | ------------- |------------- |
-| La 1          | [m3u8 - 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/playlist.m3u8) - [m3u8 - 2](http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
-| La 1 HD       | [m3u8](http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@439385/master.m3u8)|
-| La 2          | [m3u8](http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/master.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
+| La 1          | [m3u8 - 1](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 - 2](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
+| La 1 HD       | |
+| La 2          | [web](http://www.rtve.es/directo/la-2/)|
 | Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Antena 3 Eventos | [m3u8](http://a3live-lh.akamaihd.net/i/geoeventos15_1@309063/master.m3u8) |
-| Antena 3 Internacional  | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255335/canal1/master.m3u8)|
-| Cuatro | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/NmbWM5YjE6LAH8o-VL3vr3hw3JqSTnRU/cn/fb3d6852c1ac44c982aa727fe9e791cd.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
-| Telecinco | [m3u8](http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
+| Antena 3 Internacional  | |
+| Cuatro | [m3u8](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
+| Telecinco | [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
 | Neox | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
 | Nova | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
 | Mega | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
 | Atresseries | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
-| Atresseries2 Internacional | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master.m3u8) |
-| FDF | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/loYTNlYjE6KFUGlp_a0YvbscmkxBie8v/cn/30aa9e379dfa4815ba6d36cbb70fc254.m3u8) - [web](http://www.mitele.es/directo/fdf)|
-| Boing | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/ZvOXRpODE6c__EQ05epWGBX6530x-EhS/cn/ddf752ff80af43709eabdf84e1d65366.m3u8) - [web](http://www.mitele.es/directo/boing)|
-| Energy | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5zbW9tYzE6c6Xd1o5Y12HgBkAd3upNLp/cn/ab297324953a402895aa2edb6928b0c3.m3u8) - [web](http://www.mitele.es/directo/energy) |
-| Divinity | [m3u8](http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/IybDNyYTE6j7PZaKerX9iKFSCuctjf5B/cn/95d3fccb2d6f4ad6b09d23e7c67d3acf.m3u8) - [web](http://www.mitele.es/directo/divinity)|
-| BeMad | [m3u8](http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/4yaHlnNTE6C3jW9zsD272G4pZkoq-Pur/cn/909a630af13d46aaabcb4e5895d9ac35.m3u8) - [web](http://www.mitele.es/directo/bemad)|
-| 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) |
-| 24h | [m3u8](http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
+| Atresseries2 Internacional | |
+| Factoria De Ficción | [web](http://www.mitele.es/directo/fdf)|
+| Boing | [web](http://www.mitele.es/directo/boing)|
+| Energy | [web](http://www.mitele.es/directo/energy) |
+| Divinity | [web](http://www.mitele.es/directo/divinity)|
+| BeMad | [web](http://www.mitele.es/directo/bemad)|
+| 24h | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
 | Clan | |
 | Ten | |
 | DKiss | |
-| 13 TV | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8) - [web](http://www.13tv.es/?page_id=306)|
+| TRECE TV | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
 | Paramount Channel | [web](http://www.paramountchannel.es/programacion/en-directo)|
-| Disney XD | [web](http://disneychannel.es/embed/51f3ac9befdef3ed25807630?autoplay=true) |
-| Disney Junior ||
-| DiscoveryMax || 
-| Nickelodeon ||
-| Nickelodeon Junior ||
-| Panda | |
-| National Geographic ||
-| National Geo Wild ||
-| Viajar ||
-| A&E ||
-| Somos ||
-| Dark ||
-| TCM ||
-| Syfy ||
-| Calle 13 ||
-| Comedy Central ||
-| Intereconomía | [m3u8](https://streaming-fr04.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/index.m3u8) - [web](http://www.intereconomia.tv/) |
+| Disney XD | [web](http://tv.disney.es/disney-channel?autoplay=true) |
+| Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
-| NASA TV | [web](https://www.nasa.gov/multimedia/nasatv/#public)|
 | Canal Parlamento | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
 | Hispan TV | [web](https://www.youtube.com/c/hispantv/live)|
 | Solidaria TV | [m3u8](http://panel.cdnstreamserver.com/live/solidariatv-webhd.m3u8) - [web](http://es.solidariatv.com/en-vivo) |
@@ -70,10 +53,10 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 
 | Canal         | URL |
 | ------------- |------------- |
-| TDP | [m3u8](http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
-| TDP HD | [m3u8 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/playlist.m3u8) - [m3u8 2](http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@458141/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
-| Gol TV | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) |
-| Real Madrid TV | [m3u8](http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
+| TDP | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
+| TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
+| Gol TV | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) - [web](http://www.goltelevision.com/live) |
+| Real Madrid TV | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
 | Barça TV | |
 | Betis TV | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) - [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
 | Sevilla TV | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
@@ -81,11 +64,8 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 ### Musicales
 | Canal         | URL |
 | ------------- |------------- |
-| MTV Hits | |
-| MTV Live HD | |
-| VH1 | |
 | Hit TV | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) - [web](http://www.hittv.es/) |
-| Deluxe Music | [m3u8](http://server55.livestreamingcdn.com/tulixdemo/tulixdemo/playlist.m3u8) |
+| Deluxe Music | |
 
 ### Autonómicos
 
@@ -93,21 +73,21 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 
 | Canal         | URL |
 | ------------- |------------- |
-| Canal Sur TV | [web](https://www.youtube.com/embed/_M3wljlf38U?autoplay=1)|
+| Canal Sur TV | [web](https://www.youtube.com/watch?v=9_mHRWjztNU)|
 | Canal Sur Turismo TV | [web](http://canalandaluciaturismo.es/index_pc.php)|
-| 101 TV | [web](http://www.101tv.es/directo.aspx) |
+| 101 Málaga TV | [m3u8](http://cls2.todostreaming.eu/101tv/livestream101Tv/playlist.m3u8) - [web](http://www.101tv.es/directo.aspx) |
 | Onda Cadiz TV | [m3u8](http://adc.hls.flumotion.com/adc/live-hls/playlist.m3u8) - [web](http://tv.ocadizdigital.es/tv/directo) |
 | Lebrija TV | [web](http://www.lebrija.tv/directo/) |
 | Onda Algeciras TV | [m3u8](http://cls.provideo.es/algecirastv/livestream/playlist.m3u8) - [web](http://ondaalgecirastv.com/en-directo/) |
-| Marbella RTV | [m3u8](http://cls.provideo.es/marbellatv/livestream/playlist.m3u8) - [web](http://rtvmarbella.tv/tv-en-directo/) |
+| Marbella RTV | [m3u8](http://cls.todostreaming.eu/marbellatv/saldubatv/playlist.m3u8) - [web](http://rtvmarbella.tv/tv-en-directo/) |
 | Onda Azul Málaga RTV | [web](http://www.ondaazulmalaga.es/directo)|
-| Huelva TV | [web](http://huelvatv.com/directo/) |
+| Huelva TV | [m3u8](http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8) - [web](http://huelvatv.com/directo/) |
 | Ondaluz TV | [m3u8](http://cls.elitehd-audiovisuales.com/ondaluz/olandalucia/playlist.m3u8) - [web](http://ondaluz.tv/sevilla/)|
-| Teleonuba | [m3u8](http://cls2.todostreaming.eu/azahara/GdZpE8ef/playlist.m3u8) - [web](http://www.teleonuba.es/en-directo/)|
+| Teleonuba | [m3u8](http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8) - [web](http://www.teleonuba.es/en-directo/)|
 | OndaJaen RTV | [web](http://ondajaen.es/web/directo/) |
-| CanalCosta | [m3u8](http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8) - [web](http://www.canalcostatv.es/en-directo/)|
+| CanalCosta | [web](http://www.canalcostatv.es/en-directo/)|
 | 8 Cádiz | [m3u8](http://cls2.todostreaming.eu/unatv/live/playlist.m3u8) - [web](http://www.8cadiz.es/tvonline.php) |
-| Canal 45 TV | [web](http://www.canal45tv.com/directo#)|
+| Canal 45 TV | [web](http://www.canal45tv.com/directo)|
 | El Correo TV | [m3u8](http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8) - [web](http://elcorreoweb.es/elcorreotv) |
 | InterAlmería | [web](http://www.interalmeria.tv/directo.php) |
 | Costa del Sol TV | [m3u8](http://cls.todostreaming.eu/benalmadena/webtv/playlist.m3u8) - [web](http://www.costadelsoltv.com/) |
@@ -144,21 +124,21 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | La 1 Catalunya | [web](http://www.rtve.es/television/catalunya/directo/) |
 | Betevé | [m3u8](http://api-cdn.overon.es/SmilLive/getLiveIOS/.m3u8?stream=btv_stream01) |
 | 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) - [web](http://www.8tv.cat/directe/) |
-| Badalona Televisió | [m3u8](http://cdnlive.shooowit.net/badalonatvlive/live.smil/playlist.m3u8) - [web](http://cdnplayer.shooowit.net/embed/dea6f957) |
-| El Punt Avui TV | [m3u8](http://cdnlive.shooowit.net/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
-| Esplugues TV | [m3u8](http://cdnlive.shooowit.net/etvlive/live.smil/playlist.m3u8) - [web](http://www.etv.cat/en-directe) |
-| M1 Maresme | [m3u8](http://cdnlive.shooowit.net/m1tvlive/live.smil/playlist.m3u8) - [web](http://m1tv.xiptv.cat/m1tv-en-directe) |
+| Badalona Televisió | [m3u8](http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8) - [web](http://player.cdnmedia.tv/embed/6f1c739f) |
+| El Punt Avui TV | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
+| Esplugues TV | [m3u8](http://live10.cdnmedia.tv/etvlive/live.smil/playlist.m3u8) - [web](http://www.etv.cat/en-directe) |
+| Mataró TV | [m3u8](http://live10.cdnmedia.tv/m1tvlive/live.smil/playlist.m3u8) - [web](http://m1tv.xiptv.cat/ma-en-directe) |
 | Mola TV | |
-| Lleida TV | [m3u8](https://cdnlive.shooowit.net/lleidatvlive/live.smil/playlist.m3u8) |
-| Vallès Visió | |
-| Girona TV | [m3u8](http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8) - [web](http://tvgirona.xiptv.cat/tvendirecte) |
+| Lleida TV | [m3u8](http://live10.cdnmedia.tv/lleidatvlive/live.smil/playlist.m3u8) - [web](https://www.segre.com/suplements/lleida_tv/portada/streaming.html)|
+| Vallès Visió | [web](http://www.ustream.tv/embed/14420271?html5ui=1&autoplay=true) |
+| Televisió de Girona | [m3u8](http://ventdelnord.tv:8080/girona/directe.m3u8) - [web](http://tvgirona.xiptv.cat/tvendirecte) |
 | El Vendrell RTV | [web](http://www.ustream.tv/embed/13291828?html5ui=1&autoplay=true) |
-| Vallès Oriental TV | [m3u8](http://cdnlive.shooowit.net/votvlive/live.smil/playlist.m3u8) - [web](http://votv.xiptv.cat/votv-en-directe) |
-| El 9 TV | [m3u8](http://cdnlive.shooowit.net/9tvlive/live.smil/playlist.m3u8) - [web](http://el9nou.cat/el9tv/) |
-| Terrassa Vallès TV | [m3u8](http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8) - [web](http://www.movipbox.com/streamplayer/terrassa/index.php)|
-| Canal Blau | [m3u8](http://cdnlive.shooowit.net/blautvlive/blautv.smil/playlist.m3u8) - [web](http://www.canalblau.cat/televisio/televisio-en-directe/)|
-| Mar TV | [m3u8](http://k4.usastreams.com/CableLatino/martv/playlist.m3u8) - [web](http://www.martv.tv/index.php/site/online)|
-| TAC 12 | [m3u8](http://cdnlive.shooowit.net/tac12live/live.smil/playlist.m3u8) - [web](http://www.tac12.tv/en-directe) |
+| Vallès Oriental TV | [m3u8](http://live10.cdnmedia.tv/votvlive/live.smil/playlist.m3u8) - [web](http://votv.xiptv.cat/votv-en-directe) |
+| El 9 TV | [m3u8](http://live10.cdnmedia.tv/9tvlive/live.smil/playlist.m3u8) - [web](http://el9nou.cat/el9tv/) |
+| Terrassa Vallès TV | [m3u8](http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8) - [web](http://www.movipbox.com/streamplayer/terrassa/index.php)|
+| Canal Blau | [m3u8](http://live10.cdnmedia.tv/blautvlive/live.smil/playlist.m3u8) - [web](http://www.canalblau.cat/televisio/televisio-en-directe/)|
+| Mar TV | [m3u8](http://k4.usastreams.com/CableLatino/martv/playlist.m3u8) - [web](http://martv.tv/emissio-en-directe/)|
+| TAC 12 | [m3u8](http://vid=live10.cdnmedia.tv/tac12live/live.smil/playlist.m3u8) - [web](http://www.tac12.tv/en-directe) |
 | 25 TV | [m3u8](http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8) - [web](http://www.25televisio.com/streaming.php) |
 
 #### Canarias
@@ -176,18 +156,17 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 
 | Canal         | URL |
 | ------------- |------------- |
-| Popular TV | [m3u8](http://cls.populartvcantabria.com/ptvcantabria/livestream/playlist.m3u8) - [web](http://populartvcantabria.com/livetv/) |
+| Popular TV | [m3u8](http://cls.todostreaming.eu/ptvcantabria/livestream/playlist.m3u8) - [web](http://populartvcantabria.com/livetv/) |
 
 #### Castilla la Mancha
 
 | Canal         | URL |
 | ------------- |------------- |
-| Castilla la Mancha TV | [m3u8](http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8) - [web](http://www.cmmedia.es/en-directo/tv/) |
-| TeleToledo | [web](http://www.teletoledo.tv/index.php/tv-en-directo/42-emision-en-directo) |
-| La Regional TV | [web](http://www.laregional.tv/index.php/tv-en-directo) |
+| Castilla la Mancha TV | [m3u8](http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/master.m3u8) - [web](http://www.cmmedia.es/en-directo/tv/) |
+| TeleToledo | [web](http://www.teletoledo.tv/index.php/tv-en-directo) |
 | Canal Diocesano Toledo | [m3u8](http://178.32.53.254/rtvd/livestream/playlist.m3u8) |
 | Hellin TV | [m3u8](http://hellin.hls.flumotion.com/hellin/hellin-hls/playlist.m3u8) - [web](http://www.televisionhellin.com/tv-en-directo) |
-| Imás TV | [m3u8](http://cls.todostreaming.eu/imastv/livestream/playlist.m3u8) - [web](http://www.imastv.es/directo.html) |
+| Imás TV | [m3u8](http://cls.todostreaming.eu/imastv/livestream/playlist.m3u8) - [web](http://imastv.es/ver-imastv-en-directo) |
 | Alcarria TV | [m3u8](http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8) - [web](http://www.alcarria.tv/htmlPlayer.html) |
 
 #### Castilla y León
@@ -213,12 +192,12 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 
 | Canal         | URL |
 | ------------- |------------- |
-| Galicia TV | [m3u8](http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8) - [web](http://www.crtvg.es/tvg/tvg-en-directo)|
-| Galicia 2 TV | |
-| Galicia Infantil TV | [m3u8](http://media3.crtvg.es/live/_definst_/infantilCires/playlist.m3u8) - [web](http://www.crtvg.es/infantil)|
-| Galicia Musical TV | [m3u8](http://media3.crtvg.es/live/_definst_/musigal/playlist.m3u8) |
-| Galicia Cultura TV | [m3u8](http://media3.crtvg.es/live/_definst_/culturaCires/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/culturaCires)|
-| Galicia Momentos G TV | [m3u8](http://media3.crtvg.es/live/_definst_/momentosCires/playlist.m3u8) |
+| Galicia Europa TV | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa)|
+| Galicia América TV | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) |
+| Galicia Infantil TV | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv)|
+| Galicia Musical TV | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal)|
+| Galicia Cultura TV | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura)|
+| Galicia Momentos G TV | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) - [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG)|
 
 #### Islas Baleares
 
@@ -233,7 +212,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | ------------- |------------- |
 | Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) - [web](http://www.telemadrid.es/emision-en-directo)|
 | laOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) - [web](http://www.telemadrid.es/emision-en-directo-laotra)|
-| Canal 33 Madrid | [web](http://www.ustream.tv/embed/15741867?html5ui&autoplay=true) |
+| C 33 Madrid | [web](http://www.ustream.tv/embed/15741867?html5ui&autoplay=true) |
 
 #### Melilla
 
@@ -245,7 +224,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 
 | Canal         | URL |
 | ------------- |------------- |
-| 7 TV Murcia | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) - [web](http://webtv.7tvregiondemurcia.es/) |
+| 7RM TV Murcia | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) - [web](http://webtv.7tvregiondemurcia.es/) |
 
 #### Navarra
 
@@ -261,7 +240,6 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | TeleBilbao | [m3u8](http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8) - [web](http://www.telebilbao.es/directo.html) |
 | TeleDonosti | [web](http://www.teledonosti.tv/directos/index.html) |
 | Hamaika TV | [m3u8](http://bideometa.info/h.m3u8) - [web](http://www.hamaika.eus/zuzenean)|
-| Goierri TV | |
 | 28 Kanala | |
 | Tele 7 | |
 
@@ -285,14 +263,16 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | TV Alcoi | [web](http://www.tv-a.es/tv-en-directo.php) |
 | Ribera TV | [m3u8](http://orion.comelson.es/ribera/livestream/playlist.m3u8) - [web](http://www.riberatelevisio.com/) |
 | Bous TV | [web](https://www.ustream.tv/embed/23358001?html5ui&autoplay=true) |
-| TV 4 La Vall | [m3u8](http://178.32.53.254/15o8376r/mystream/playlist.m3u8) - [web](http://teve4lavall.com/)|
-| Tele Elx | [m3u8](http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8) - [web](http://www.teleelx.es/s5811-TELEVISION.html) |
-| Canal 56 | [m3u8](https://126skyfiregce-vimeo.akamaized.net/exp=1503244684~acl=%2F229381525%2F%2A~hmac=68f147e061b5193bceff850a197f9cbff1ef4dc0e6db678ef90262908aba8b3f/229381525/video/809007502,809007504/master.m3u8) - [web](http://canal56.com/online/) |
+| TV4 La Vall | [m3u8](http://178.32.53.254/15o8376r/mystream/playlist.m3u8) - [web](http://teve4lavall.com/)|
+| TeleElx | [m3u8](http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8) - [web](http://www.teleelx.es/s5811-TELEVISION.html) |
+| Canal 56 | [web](http://canal56.com/online/) |
 | Información TV | |
 
 ## Internacionales
 | Canal         | URL |
 | ------------- |------------- |
+| NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) - [web](https://www.nasa.gov/multimedia/nasatv/#public)|
+| NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8)|
 | Animal Planet Live | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) |
 
 ### Canales de Andorra
