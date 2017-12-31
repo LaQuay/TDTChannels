@@ -17,7 +17,6 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Canal         | URL |
 | ------------- |------------- |
 | La 1          | [m3u8 - 1](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 - 2](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
-| La 1 HD       | |
 | La 2          | [web](http://www.rtve.es/directo/la-2/)|
 | Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Antena 3 Eventos | [m3u8](http://a3live-lh.akamaihd.net/i/geoeventos15_1@309063/master.m3u8) |
@@ -45,7 +44,6 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
 | Canal Parlamento | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
-| Hispan TV | [web](https://www.youtube.com/c/hispantv/live)|
 | Solidaria TV | [m3u8](http://panel.cdnstreamserver.com/live/solidariatv-webhd.m3u8) - [web](http://es.solidariatv.com/en-vivo) |
 | Vaughan TV | [web](https://grupovaughan.com/vaughan-tv/)|
 
@@ -271,6 +269,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 ## Internacionales
 | Canal         | URL |
 | ------------- |------------- |
+| Hispan TV | [web](https://www.youtube.com/c/hispantv/live)|
 | NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) - [web](https://www.nasa.gov/multimedia/nasatv/#public)|
 | NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8)|
 | Animal Planet Live | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) |
