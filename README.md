@@ -28,7 +28,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Nova | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
 | Mega | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
 | Atresseries | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
-| Atresseries2 Internacional | |
+| Atresseries Internacional | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/a3series/master.m3u8) |
 | Factoria De Ficción | [web](http://www.mitele.es/directo/fdf)|
 | Boing | [web](http://www.mitele.es/directo/boing)|
 | Energy | [web](http://www.mitele.es/directo/energy) |
@@ -138,6 +138,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Mar TV | [m3u8](http://k4.usastreams.com/CableLatino/martv/playlist.m3u8) - [web](http://martv.tv/emissio-en-directe/)|
 | TAC 12 | [m3u8](http://vid=live10.cdnmedia.tv/tac12live/live.smil/playlist.m3u8) - [web](http://www.tac12.tv/en-directe) |
 | 25 TV | [m3u8](http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8) - [web](http://www.25televisio.com/streaming.php) |
+| Canal Parlament | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) |
 
 #### Canarias
 
@@ -238,7 +239,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | TeleBilbao | [m3u8](http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8) - [web](http://www.telebilbao.es/directo.html) |
 | TeleDonosti | [web](http://www.teledonosti.tv/directos/index.html) |
 | Hamaika TV | [m3u8](http://bideometa.info/h.m3u8) - [web](http://www.hamaika.eus/zuzenean)|
-| 28 Kanala | |
+| Goiena | [m3u8](http://zuzenean.goienamedia.eus:8443/telebista.m3u8) |
 | Tele 7 | |
 
 #### La Rioja
