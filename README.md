@@ -38,6 +38,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Clan | |
 | Ten | |
 | DKiss | |
+| OT| [web](https://www.youtube.com/embed/6Lzw7oYTEMo?autoplay=1)|
 | TRECE TV | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
 | Paramount Channel | [web](http://www.paramountchannel.es/programacion/en-directo)|
 | Disney XD | [web](http://tv.disney.es/disney-channel?autoplay=true) |
@@ -46,6 +47,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Canal Parlamento | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
 | Solidaria TV | [m3u8](http://panel.cdnstreamserver.com/live/solidariatv-webhd.m3u8) - [web](http://es.solidariatv.com/en-vivo) |
 | Vaughan TV | [web](https://grupovaughan.com/vaughan-tv/)|
+| EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 
 ### Deportivos
 
@@ -161,7 +163,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 
 | Canal         | URL |
 | ------------- |------------- |
-| Castilla la Mancha TV | [m3u8](http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/master.m3u8) - [web](http://www.cmmedia.es/en-directo/tv/) |
+| Castilla-La Mancha Media | [m3u8 - 1](http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/master.m3u8) - [m3u8 - 2](http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/1_c9gw17x6/format/applehttp/master.m3u8) - [web](http://www.cmmedia.es/en-directo/tv/) |
 | TeleToledo | [web](http://www.teletoledo.tv/index.php/tv-en-directo) |
 | Canal Diocesano Toledo | [m3u8](http://178.32.53.254/rtvd/livestream/playlist.m3u8) |
 | Hellin TV | [m3u8](http://hellin.hls.flumotion.com/hellin/hellin-hls/playlist.m3u8) - [web](http://www.televisionhellin.com/tv-en-directo) |
@@ -185,7 +187,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 
 | Canal         | URL |
 | ------------- |------------- |
-| Extremadura TV | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8) - [web](http://www.canalextremadura.es/tv/directo#ahora)|
+| Canal Extremadura | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8) - [web](http://www.canalextremadura.es/tv/directo#ahora)|
 
 #### Galicia
 
@@ -223,7 +225,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 
 | Canal         | URL |
 | ------------- |------------- |
-| 7RM TV Murcia | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) - [web](http://webtv.7tvregiondemurcia.es/) |
+| 7RM Radio Televisión Murcia | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) - [web](http://webtv.7tvregiondemurcia.es/) |
 
 #### Navarra
 
@@ -235,7 +237,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 
 | Canal         | URL |
 | ------------- |------------- |
-| ETB | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) - [web](http://www.eitb.eus/es/television/etb-sat/) |
+| ETB SAT Canal Vasco | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) - [web](http://www.eitb.eus/es/television/etb-sat/) |
 | TeleBilbao | [m3u8](http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8) - [web](http://www.telebilbao.es/directo.html) |
 | TeleDonosti | [web](http://www.teledonosti.tv/directos/index.html) |
 | Hamaika TV | [m3u8](http://bideometa.info/h.m3u8) - [web](http://www.hamaika.eus/zuzenean)|
@@ -255,7 +257,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | Tele Safor | [m3u8](http://video.telesafor.com/hls/video.m3u8) - [web](http://telesafor.com) |
 | Vega Baja TV | [m3u8](http://185.29.68.24/tvb.m3u8) - [web](http://programas.televisionvegabaja.es/directo) |
 | TV Castelló | |
-| TV Mediterraneo | [web](http://www.tvmediterraneo.es/es/directo/) |
+| La 8 Mediterraneo | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8)[web](http://www.laocho.tv/es/directo/) |
 | Levante TV | [m3u8](http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8) - [web](http://www.levantetv.es/default.jsp) |
 | 7 TeleValencia | [m3u8](http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8) - [web](http://7televalencia.com/directo-7televalencia) |
 | Intercomarcal TV | [web](http://www.intercomarcal.com/camaraa/camaragrande.html) |
