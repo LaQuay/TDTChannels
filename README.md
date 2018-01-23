@@ -56,7 +56,7 @@ No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente 
 | TDP | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
 | TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
 | Gol TV | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) - [web](http://www.goltelevision.com/live) |
-| Real Madrid TV | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
+| Real Madrid TV | [m3u8 - Español](http://https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 - Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
 | Barça TV | |
 | Betis TV | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) - [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
 | Sevilla TV | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
