@@ -10,6 +10,9 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial. Si posees los derechos de algún canal y deseas que lo retire, contactame.
 
+## Derechos
+Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de mi trabajo, el único condicionante es que debe poderse ver de donde procede el trabajo. Es decir, de este documento.
+
 ## Canales de España
 
 ### Nacionales
