@@ -1,14 +1,15 @@
 # Canales IPTV en abierto
 
-Lista de canales IPTV que se emiten en abierto por Internet. Especialmente España, y ampliando a Internacionales.
+Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
-Tutorial para *m3u8*: Algunos enlaces funcionan directamente bajándolos y haciendo doble click en ellos y abriéndolos en VLC. Los que no funcionen con ese método se han de abrir de esta forma: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*)
+### Cómo reproducirlos
+Tutorial para enlaces *m3u8*: Algunos enlaces funcionan directamente bajándolos y haciendo doble click en ellos y abriéndolos en VLC. Los que no funcionen con ese método se han de abrir de esta forma: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*)
 
-Tutorial para *url*: Click en *url*.
+Tutorial para enlaces *url*: Click en *url*.
 
-Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*.
+Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Algunos canales sólo pueden visualizarse cuando se visitan desde España, contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
 
-No poseo ningún servidor ni el contenido de lo que se retransmite. Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial. Si posees los derechos de algún canal y deseas que lo retire, contactame.
+Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web. Si posees los derechos de algún canal y deseas que lo retire, contactame.
 
 ## Derechos
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de mi trabajo, el único condicionante es que debe poderse ver de donde procede el trabajo. Es decir, de este documento.
