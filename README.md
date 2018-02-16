@@ -2,19 +2,19 @@
 
 Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
+### Ayuda
+Algunos canales sólo pueden visualizarse cuando se visitan desde España, contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
+
 #### Cómo reproducir un *m3u8*
 Algunos enlaces funcionan directamente bajándolos y haciendo doble click en ellos y abriéndolos en VLC. Los que no funcionen con ese método se han de abrir de esta forma: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*). Si al bajarlos no se reproducen correctamente, también se puede obtener los enlaces mediante botón derecho en el mismo.
 
 #### Cómo reproducir un *url*
 Simplemente click en *url* y te redigirá a la página oficial del emisor del contenido.
 
-#### Ayuda
-Algunos canales sólo pueden visualizarse cuando se visitan desde España, contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
-
-#### Cómo colaborar
+### Cómo colaborar
 Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. 
 
-## Derechos
+### Licencia
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de mi trabajo, el único condicionante es que debe poderse ver de donde procede el trabajo. Es decir, de este documento.
 
 Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web. Si posees los derechos de algún canal y deseas que lo retire, contactame.
