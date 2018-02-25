@@ -30,8 +30,8 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Antena 3 Eventos | [m3u8](http://a3live-lh.akamaihd.net/i/geoeventos15_1@309063/master.m3u8) |
 | Antena 3 Internacional  | |
-| Cuatro | [m3u8](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
-| Telecinco | [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
+| Cuatro | [m3u8 - 1](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8 - 2](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
+| Telecinco | [m3u8 - 1](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [m3u8 - 2](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
 | La Sexta | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
 | Neox | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
 | Nova | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
