@@ -36,26 +36,26 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | Neox | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
 | Nova | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
 | Mega | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
-| Atresseries | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
-| Atresseries Internacional | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/a3series/master.m3u8) |
-| Factoria De Ficción | [web](http://www.mitele.es/directo/fdf)|
-| Boing | [web](http://www.mitele.es/directo/boing)|
+| Atreseries | [m3u8](http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8) - [web](http://www.atresplayer.com/directos/television/atreseries/) |
+| Atreseries Int | [m3u8](https://vivoplay-i.akamaihd.net/hls/live/255336/a3series/master.m3u8) |
+| FDF | [web](http://www.mitele.es/directo/fdf)|
 | Energy | [web](http://www.mitele.es/directo/energy) |
 | Divinity | [web](http://www.mitele.es/directo/divinity)|
 | BeMad | [web](http://www.mitele.es/directo/bemad)|
-| 24h | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
-| Clan | |
+| Paramount Channel | [web](http://www.paramountchannel.es/programacion/en-directo)|
+| TRECE TV | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
 | Ten | |
 | DKiss | |
-| OT| [web](https://www.youtube.com/embed/6Lzw7oYTEMo?autoplay=1)|
-| TRECE TV | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) - [web](http://trecetv.es/directo)|
-| Paramount Channel | [web](http://www.paramountchannel.es/programacion/en-directo)|
-| Disney XD | [web](http://tv.disney.es/disney-channel?autoplay=true) |
 | Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
-| Canal Parlamento | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
 | Solidaria TV | [m3u8](http://panel.cdnstreamserver.com/live/solidariatv-webhd.m3u8) - [web](http://es.solidariatv.com/en-vivo) |
 | Vaughan TV | [web](https://grupovaughan.com/vaughan-tv/)|
+
+### Informativos
+| Canal         | URL |
+| ------------- |------------- |
+| 24h | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
+| Canal Parlamento | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
 | EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 
 ### Deportivos
@@ -65,10 +65,17 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | TDP | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
 | TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
 | Gol TV | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) - [web](http://www.goltelevision.com/live) |
-| Real Madrid TV | [m3u8 - Español](http://https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 - Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
+| RealMadrid TV | [m3u8 - Español](http://https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 - Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
 | Barça TV | |
 | Betis TV | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) - [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
 | Sevilla TV | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) - [web](http://live.sevillafc.es/) |
+
+### Infantiles
+| Canal         | URL |
+| ------------- |------------- |
+| Disney Channel | [web](http://tv.disney.es/disney-channel?autoplay=true) |
+| Boing | [web](http://www.mitele.es/directo/boing)|
+| Clan | |
 
 ### Musicales
 | Canal         | URL |
@@ -83,7 +90,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | Canal         | URL |
 | ------------- |------------- |
 | Canal Sur TV | [web](https://www.youtube.com/watch?v=9_mHRWjztNU)|
-| Canal Sur Turismo TV | [web](http://canalandaluciaturismo.es/index_pc.php)|
+| Canal Andalucia Turismo TV | [web](http://canalandaluciaturismo.es/index_pc.php)|
 | 101 Málaga TV | [m3u8](http://cls2.todostreaming.eu/101tv/livestream101Tv/playlist.m3u8) - [web](http://www.101tv.es/directo.aspx) |
 | Onda Cadiz TV | [m3u8](http://adc.hls.flumotion.com/adc/live-hls/playlist.m3u8) - [web](http://tv.ocadizdigital.es/tv/directo) |
 | Lebrija TV | [web](http://www.lebrija.tv/directo/) |
@@ -263,10 +270,10 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 
 | Canal         | URL |
 | ------------- |------------- |
+| La 8 Mediterraneo | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8)[web](http://www.laocho.tv/es/directo/) |
 | Tele Safor | [m3u8](http://video.telesafor.com/hls/video.m3u8) - [web](http://telesafor.com) |
 | Vega Baja TV | [m3u8](http://185.29.68.24/tvb.m3u8) - [web](http://programas.televisionvegabaja.es/directo) |
 | TV Castelló | |
-| La 8 Mediterraneo | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8)[web](http://www.laocho.tv/es/directo/) |
 | Levante TV | [m3u8](http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8) - [web](http://www.levantetv.es/default.jsp) |
 | 7 TeleValencia | [m3u8](http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8) - [web](http://7televalencia.com/directo-7televalencia) |
 | Intercomarcal TV | [web](http://www.intercomarcal.com/camaraa/camaragrande.html) |
