@@ -29,6 +29,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | La 2          | [web](http://www.rtve.es/directo/la-2/)|
 | Antena 3      | [m3u8](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Antena 3 Eventos | [m3u8](http://a3live-lh.akamaihd.net/i/geoeventos15_1@309063/master.m3u8) |
+| Antena 3 Champions | [m3u8]() - [web](http://www.atresplayer.com/directos/television/champions-total/) |
 | Antena 3 Internacional  | |
 | Cuatro | [m3u8 - 1](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8 - 2](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco | [m3u8 - 1](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [m3u8 - 2](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
