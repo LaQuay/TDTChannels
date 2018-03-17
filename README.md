@@ -2,6 +2,11 @@
 
 Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
+### Listado de m3u8
+Cada cierto tiempo iré recopilando los m3u8 que voy poniendo y de esta forma se generará uno más grande:
+
+[Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/channels.m3u8)
+
 ### Ayuda
 Algunos canales sólo pueden visualizarse cuando se visitan desde España, contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
 
