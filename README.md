@@ -150,7 +150,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | El Punt Avui TV | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
 | Esplugues TV | [m3u8](http://live10.cdnmedia.tv/etvlive/live.smil/playlist.m3u8) - [web](http://www.etv.cat/en-directe) |
 | Mataró TV | [m3u8](http://live10.cdnmedia.tv/m1tvlive/live.smil/playlist.m3u8) - [web](http://m1tv.xiptv.cat/ma-en-directe) |
-| Mola TV | |
+| Mola TV | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) |
 | Lleida TV | [m3u8](http://live10.cdnmedia.tv/lleidatvlive/live.smil/playlist.m3u8) - [web](https://www.segre.com/suplements/lleida_tv/portada/streaming.html)|
 | Vallès Visió | [web](http://www.ustream.tv/embed/14420271?html5ui=1&autoplay=true) |
 | Televisió de Girona | [m3u8](http://ventdelnord.tv:8080/girona/directe.m3u8) - [web](http://tvgirona.xiptv.cat/tvendirecte) |
@@ -294,6 +294,10 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 ## Internacionales
 | Canal         | URL |
 | ------------- |------------- |
+| ABC News | [m3u8](http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8) |
+| France 24 | [m3u8 # English](http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) |
+| CBS News | [m3u8](http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) |
+| CNN | [web # Español](https://www.youtube.com/watch?v=OSVmblr0tP0) |
 | Hispan TV | [web](https://www.youtube.com/c/hispantv/live)|
 | NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) - [web](https://www.nasa.gov/multimedia/nasatv/#public)|
 | NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8)|
