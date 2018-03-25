@@ -7,6 +7,12 @@ Cada cierto tiempo iré recopilando los m3u8 que voy poniendo y de esta forma se
 
 [Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/channels.m3u8)
 
+### Ver en directo con el navegador
+Para ver directamente en el navegador has de:
+1. Hacer [click aquí](http://91.121.64.179/tdt_project/index.html?channel=)
+2. Copiar el enlace .m3u8 del canal a reproducir (Botón derecho, copiar enlace en el canal deseado)
+3. Insertar al final de la URL generada en el punto 1.
+
 ### Ayuda
 Algunos canales sólo pueden visualizarse cuando se visitan desde España, contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
 
