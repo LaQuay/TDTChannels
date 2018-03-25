@@ -108,7 +108,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | Lebrija TV | [web](http://www.lebrija.tv/directo/) |
 | Onda Algeciras TV | [m3u8](http://cls.provideo.es/algecirastv/livestream/playlist.m3u8) - [web](http://ondaalgecirastv.com/en-directo/) |
 | Marbella RTV | [m3u8](http://cls.todostreaming.eu/marbellatv/saldubatv/playlist.m3u8) - [web](http://rtvmarbella.tv/tv-en-directo/) |
-| Onda Azul Málaga RTV | [web](http://www.ondaazulmalaga.es/directo)|
+| Onda Azul Málaga RTV | [m3u8](http://canalmalaga-tv-live.flumotion.com/chunks.m3u8) - [web](http://www.ondaazulmalaga.es/directo)|
 | Huelva TV | [m3u8](http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8) - [web](http://huelvatv.com/directo/) |
 | Ondaluz TV | [m3u8](http://cls.elitehd-audiovisuales.com/ondaluz/olandalucia/playlist.m3u8) - [web](http://ondaluz.tv/sevilla/)|
 | Teleonuba | [m3u8](http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8) - [web](http://www.teleonuba.es/en-directo/)|
