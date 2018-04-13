@@ -164,7 +164,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 
 | Canal         | URL |
 | ------------- |------------- |
-| Castilla-La Mancha Media | [m3u8 # 1](http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/master.m3u8) - [m3u8 # 2](http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/1_c9gw17x6/format/applehttp/master.m3u8) - [web](http://www.cmmedia.es/en-directo/tv/) |
+| Castilla-La Mancha Media | [m3u8](http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8) - [web](http://www.cmmedia.es/en-directo/tv/) |
 | Hellin TV | [m3u8](http://hellin.hls.flumotion.com/hellin/hellin-hls/playlist.m3u8) - [web](http://www.televisionhellin.com/tv-en-directo) |
 | TeleToledo | [web](http://www.teletoledo.tv/index.php/tv-en-directo) |
 | Imás TV | [m3u8](http://cls.todostreaming.eu/imastv/livestream/playlist.m3u8) - [web](http://imastv.es/ver-imastv-en-directo) |
