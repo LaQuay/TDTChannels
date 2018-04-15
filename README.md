@@ -307,7 +307,8 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | CBS News | [m3u8](http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) |
 | CNN | [web # Español](https://www.youtube.com/watch?v=OSVmblr0tP0) |
 | RT | [youtube # Español](https://www.youtube.com/watch?v=mV8jp1N2fSw) |
-| DW | [m3u8 # Español](http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8)
+| DW | [m3u8 # Español](http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) |
+| CGTV | [m3u8 # Español](https://livees.cgtn.com/1000e/prog_index.m3u8) |
 | Hispan TV | [web](https://www.youtube.com/c/hispantv/live)|
 | NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) - [web](https://www.nasa.gov/multimedia/nasatv/#public)|
 | NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8)|
