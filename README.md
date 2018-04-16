@@ -44,7 +44,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | Antena 3 Internacional  | |
 | Cuatro | [m3u8 # 1](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8 # 2](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco | [m3u8 # 1](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [m3u8 # 2](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
-| La Sexta | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
+| laSexta | [m3u8](http://a3live-lh.akamaihd.net/i/l6hds/lasexta_1@35272/master.m3u8) - [web](http://www.atresplayer.com/directos/television/lasexta/)|
 | Neox | [m3u8](http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8) - [web](http://www.atresplayer.com/directos/television/neox/) |
 | Nova | [m3u8](http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8) - [web](http://www.atresplayer.com/directos/television/nova/)|
 | Mega | [m3u8](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8) - [web](http://www.atresplayer.com/directos/television/mega/)|
@@ -287,6 +287,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | ------------- |------------- |
 | 7 TeleValencia | [m3u8](http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8) - [web](http://7televalencia.com/directo-7televalencia) |
 | La 8 Mediterraneo | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8)[web](http://www.laocho.tv/es/directo/) |
+| À Punt | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/81ZndpZTE6V1PrThLnnvJN6hGu1RgM_c/cs/e7e684f48f9c4a76ae6edf3833933aa2_6.m3u8)[web](https://www.apuntmedia.es/va/directe/directe) |
 | Levante TV | [m3u8](http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8) - [web](http://www.levantetv.es/default.jsp) |
 | TeleElx | [m3u8](http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8) - [web](http://www.teleelx.es/s5811-TELEVISION.html) |
 | Intercomarcal TV | [web](http://www.intercomarcal.com/camaraa/camaragrande.html) |
