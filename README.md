@@ -44,7 +44,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | Antena 3 Champions | [web](http://www.atresplayer.com/directos/television/champions-total/) |
 | Cuatro | [m3u8 # 1](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8 # 2](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco | [m3u8 # 1](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [m3u8 # 2](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
-| laSexta | [m3u8 # 1](https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8) [m3u8 # 2](https://atresplayerp-i.akamaized.net/geolasextampp/master.m3u8) - [web](https://www.atresplayer.com/directos/lasexta/)|
+| laSexta | [m3u8 # 1](https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/geolasextampp/master.m3u8) - [web](https://www.atresplayer.com/directos/lasexta/)|
 | Neox | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geoneoxmpp/master.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/neoxmpp/master.m3u8) - [web](https://www.atresplayer.com/directos/neox/) |
 | Nova | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geonovampp/master.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/novampp/master.m3u8) - [web](https://www.atresplayer.com/directos/nova/)|
 | Mega | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geomegampp/master.m3u8) - [m3u8 # 1](https://atresplayerp-i.akamaized.net/megampp/master.m3u8) - [web](https://www.atresplayer.com/directos/mega/)|
