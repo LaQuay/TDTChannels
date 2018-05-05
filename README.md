@@ -37,7 +37,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | Canal         | URL |
 | ------------- |------------- |
 | La 1          | [m3u8 # 1](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 # 2](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
-| La 2          | [web](http://www.rtve.es/directo/la-2/)|
+| La 2          | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
 | Antena 3      | [m3u8 # 1](http://a3live-lh.akamaihd.net/i/a3hds/antena3_1@35248/master.m3u8) [m3u8 # 2](https://atresplayerp-i.akamaized.net/geoantena3mpp/master.m3u8) - [web](http://www.atresplayer.com/directos/television/antena3/)|
 | Antena 3 Champions | [web](http://www.atresplayer.com/directos/television/champions-total/) |
 | Cuatro | [m3u8 # 1](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8 # 2](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
@@ -185,7 +185,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | 324 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/324)|
 | 33 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/super3/)|
 | Esports 3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/esport3)|
-| La 1 Catalunya | [web](http://www.rtve.es/television/catalunya/directo/) |
+| La 1 Catalunya | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) - [web](http://www.rtve.es/television/catalunya/directo/) |
 | Betevé | [m3u8](http://api-cdn.overon.es/SmilLive/getLiveIOS/.m3u8?stream=btv_stream01) |
 | 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) - [web](http://www.8tv.cat/directe/) |
 | El Punt Avui TV | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) - [web](http://www.elpuntavui.tv/directe.html) |
