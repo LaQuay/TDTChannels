@@ -9,7 +9,9 @@ Cada cierto tiempo iré recopilando los m3u8 que voy poniendo y de esta forma se
 
 ### Ver en directo con el navegador
 Para ver directamente en el navegador has de:
-1. Hacer [click aquí](http://91.121.64.179/tdt_project/index.html?channel=)
+1. Hacer en alguno de estos dos reproductores:
+    1. [Opción 1](http://91.121.64.179/tdt_project/index.html?channel=)
+    2. [Opción 2](http://91.121.64.179/tdt_project/index_test.html?channel=)
 2. Copiar el enlace .m3u8 del canal a reproducir (Botón derecho, copiar enlace en el canal deseado)
 3. Insertar al final de la URL generada en el punto 1.
 
@@ -38,15 +40,15 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | ------------- |------------- |
 | La 1          | [m3u8 # 1](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 # 2](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
 | La 2          | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
-| Antena 3      | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geoantena3mpp/bitrate_3.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_3.m3u8) - [web](https://www.atresplayer.com/directos/antena3/)|
+| Antena 3      | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geoantena3mpp/master.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/antena3mpp/master.m3u8) - [web](https://www.atresplayer.com/directos/antena3/)|
 | Antena 3 Champions | [web](http://www.atresplayer.com/directos/television/champions-total/) |
 | Cuatro | [m3u8 # 1](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8 # 2](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco | [m3u8 # 1](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [m3u8 # 2](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
-| laSexta | [m3u8 # 1](https://atresplayerp-i.akamaized.net/lasextampp/bitrate_3.m3u8) [m3u8 # 2](https://atresplayerp-i.akamaized.net/geolasextampp/bitrate_3.m3u8) - [web](https://www.atresplayer.com/directos/lasexta/)|
-| Neox | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geoneoxmpp/bitrate_3.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/neoxmpp/bitrate_3.m3u8) - [web](https://www.atresplayer.com/directos/neox/) |
-| Nova | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geonovampp/bitrate_3.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/novampp/bitrate_3.m3u8) - [web](https://www.atresplayer.com/directos/nova/)|
-| Mega | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geomegampp/bitrate_3.m3u8) - [m3u8 # 1](https://atresplayerp-i.akamaized.net/megampp/bitrate_3.m3u8) - [web](https://www.atresplayer.com/directos/mega/)|
-| Atreseries | [m3u8 # 1](https://atresplayers-i.akamaized.net/geoa3seriesmpp/bitrate_3.m3u8) - [m3u8 # 2](https://atresplayers-i.akamaized.net/a3seriesmpp/bitrate_3.m3u8) - [web](https://www.atresplayer.com/directos/atreseries/) |
+| laSexta | [m3u8 # 1](https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8) [m3u8 # 2](https://atresplayerp-i.akamaized.net/geolasextampp/master.m3u8) - [web](https://www.atresplayer.com/directos/lasexta/)|
+| Neox | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geoneoxmpp/master.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/neoxmpp/master.m3u8) - [web](https://www.atresplayer.com/directos/neox/) |
+| Nova | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geonovampp/master.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/novampp/master.m3u8) - [web](https://www.atresplayer.com/directos/nova/)|
+| Mega | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geomegampp/master.m3u8) - [m3u8 # 1](https://atresplayerp-i.akamaized.net/megampp/master.m3u8) - [web](https://www.atresplayer.com/directos/mega/)|
+| Atreseries | [m3u8 # 1](https://atresplayers-i.akamaized.net/geoa3seriesmpp/master.m3u8) - [m3u8 # 2](https://atresplayers-i.akamaized.net/a3seriesmpp/master.m3u8) - [web](https://www.atresplayer.com/directos/atreseries/) |
 | Atreseries Int | |
 | Atresplayer Exclusivo | |
 | FDF | [web](http://www.mitele.es/directo/fdf)|
