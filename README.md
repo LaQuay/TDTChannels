@@ -5,7 +5,8 @@ Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Espec
 ### Listado de m3u8
 Cada cierto tiempo iré recopilando los m3u8 que voy poniendo y de esta forma se generará uno más grande:
 
-[Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/channels.m3u8)
+[Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/channels.m3u8) 
+*(Última actualización: 10/05/2018)*
 
 ### Ver en directo con el navegador
 Para ver directamente en el navegador has de:
