@@ -43,8 +43,8 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | La 2          | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
 | Antena 3      | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geoantena3mpp/master.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/antena3mpp/master.m3u8) - [web](https://www.atresplayer.com/directos/antena3/)|
 | Antena 3 Champions | [web](http://www.atresplayer.com/directos/television/champions-total/) |
-| Cuatro | [m3u8 # 1](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8) - [m3u8 # 2](http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/cuatro) |
-| Telecinco | [m3u8 # 1](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) - [m3u8 # 2](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8) - [web](http://www.mitele.es/directo/telecinco) |
+| Cuatro | [web](http://www.mitele.es/directo/cuatro) |
+| Telecinco | [web](http://www.mitele.es/directo/telecinco) |
 | laSexta | [m3u8 # 1](https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/geolasextampp/master.m3u8) - [web](https://www.atresplayer.com/directos/lasexta/)|
 | Neox | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geoneoxmpp/master.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/neoxmpp/master.m3u8) - [web](https://www.atresplayer.com/directos/neox/) |
 | Nova | [m3u8 # 1](https://atresplayerp-i.akamaized.net/geonovampp/master.m3u8) - [m3u8 # 2](https://atresplayerp-i.akamaized.net/novampp/master.m3u8) - [web](https://www.atresplayer.com/directos/nova/)|
@@ -62,13 +62,12 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | DKiss | |
 | Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) - [web](http://www.intereconomia.tv/) |
 | Libertad Digital TV | [web](http://www.dailymotion.com/embed/video/xnm032?autoplay=1) |
-| Solidaria TV | [m3u8](http://panel.cdnstreamserver.com/live/solidariatv-webhd.m3u8) - [web](http://es.solidariatv.com/en-vivo) |
 | Vaughan TV | [web](https://grupovaughan.com/vaughan-tv/)|
 
 ### Informativos
 | Canal         | URL |
 | ------------- |------------- |
-| 24h | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
+| 24h | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/master.m3u8) - [web](http://www.rtve.es/directo/canal-24h/)|
 | Canal Parlamento | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
 | EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 
@@ -76,8 +75,8 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 
 | Canal         | URL |
 | ------------- |------------- |
-| TDP | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
-| TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
+| TDP | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdp_onlydash_lv3_aosv4_gl1/tdp_onlydash_lv3_aosv4_gl1.isml/master.m3u8) - [web](http://www.rtve.es/directo/teledeporte/)| 
+| TDP HD | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/master.m3u8) - [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
 | Gol TV | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) - [web](http://www.goltelevision.com/live) |
 | RealMadrid TV | [m3u8 # Español](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) - [web](http://www.realmadrid.com/real-madrid-tv) |
 | Barça TV | |
