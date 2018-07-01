@@ -8,7 +8,7 @@ Cada cierto tiempo iré recopilando los m3u8 que voy poniendo y de esta forma se
 [Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/channels.m3u8) 
 *(Última actualización: 01/07/2018)*
 
-Estamos en **Telegram**: [Canales TDT - Telegram](https://t.me/canales_tdt)
+Canal en **Telegram**: [Canales TDT](https://t.me/canales_tdt)
 
 ### Ver en directo con el navegador
 Para ver directamente en el navegador has de:
