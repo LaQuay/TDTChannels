@@ -52,8 +52,6 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | Nova | [m3u8](https://livepull1.secure.footprint.net/geonovampp/master.m3u8) - [web](https://www.atresplayer.com/directos/nova/)|
 | Mega | [m3u8](https://livepull1.secure.footprint.net/geomegampp/master.m3u8) [web](https://www.atresplayer.com/directos/mega/)|
 | Atreseries | [m3u8](https://livepull1-i.akamaized.net/geoa3seriesmpp/master.m3u8) - [web](https://www.atresplayer.com/directos/atreseries/) |
-| Atreseries Int | |
-| Atresplayer Exclusivo | |
 | FDF | [web](http://www.mitele.es/directo/fdf)|
 | Energy | [web](http://www.mitele.es/directo/energy) |
 | Divinity | [web](http://www.mitele.es/directo/divinity)|
@@ -104,7 +102,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 
 | Canal         | URL |
 | ------------- |------------- |
-| Canal Sur TV | [web](https://www.youtube.com/watch?v=9_mHRWjztNU)|
+| Canal Sur TV | [m3u8](http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8) - [web](https://www.youtube.com/watch?v=voFKwoEpOT0)|
 | Canal Andalucia Turismo TV | [web](http://canalandaluciaturismo.es/)|
 | Canal Andalucia Flamenco TV | [web](http://canalandaluciaflamenco.es/)|
 | Canal Andalucia Cocina TV | [m3u8](http://173.212.214.184:1935/cscocina/cscocina/master.m3u8) - [web](http://canalandaluciacocina.es/)|
