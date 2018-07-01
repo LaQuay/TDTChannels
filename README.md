@@ -46,7 +46,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | Antena 3      | [m3u8](https://livepull1.secure.footprint.net/antena3mpp/master.m3u8) - [web](https://www.atresplayer.com/directos/antena3/)|
 | Antena 3 Champions | [web](http://www.atresplayer.com/directos/television/champions-total/) |
 | Cuatro | [web](http://www.mitele.es/directo/cuatro) |
-| Telecinco | [web](http://www.mitele.es/directo/telecinco) |
+| Telecinco | [web](http://www.mitele.es/directo/telecinco) - [m3u8](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) |
 | laSexta | [m3u8](https://livepull1.secure.footprint.net/lasextampp/master.m3u8) - [web](https://www.atresplayer.com/directos/lasexta/)|
 | Neox | [m3u8](https://livepull1.secure.footprint.net/neoxmpp/master.m3u8) - [web](https://www.atresplayer.com/directos/neox/) |
 | Nova | [m3u8](https://livepull1.secure.footprint.net/geonovampp/master.m3u8) - [web](https://www.atresplayer.com/directos/nova/)|
