@@ -6,7 +6,9 @@ Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Espec
 Cada cierto tiempo iré recopilando los m3u8 que voy poniendo y de esta forma se generará uno más grande:
 
 [Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/channels.m3u8) 
-*(Última actualización: 10/05/2018)*
+*(Última actualización: 01/07/2018)*
+
+Estamos en **Telegram**: [Canales TDT - Telegram](https://t.me/canales_tdt)
 
 ### Ver en directo con el navegador
 Para ver directamente en el navegador has de:
@@ -18,8 +20,6 @@ Para ver directamente en el navegador has de:
 
 ### Ayuda
 Algunos canales sólo pueden visualizarse cuando se visitan desde España, contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
-
-Estamos en **Telegram**: [Canales TDT - Telegram](https://t.me/canales_tdt)
 
 #### Cómo reproducir un *m3u8*
 Algunos enlaces funcionan directamente bajándolos y haciendo doble click en ellos y abriéndolos en VLC. Los que no funcionen con ese método se han de abrir de esta forma: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*). Si al bajarlos no se reproducen correctamente, también se puede obtener los enlaces mediante botón derecho en el mismo.
