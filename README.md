@@ -270,6 +270,8 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de
 | Canal         | URL |
 | ------------- |------------- |
 | ETB SAT Canal Vasco | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) - [web](http://www.eitb.eus/es/television/etb-sat/) |
+| ETB 1 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) - [web](https://www.eitb.eus/es/television/etb1/) |
+| ETB 2 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) - [web](https://www.eitb.eus/es/television/etb2/) |
 | Hamaika TV | [m3u8](http://bideometa.info/h.m3u8) - [web](http://www.hamaika.eus/zuzenean)|
 | TeleBilbao | [m3u8](http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8) - [web](http://www.telebilbao.es/directo.html) |
 | TeleDonosti | [web](http://www.teledonosti.tv/directos/index.html) |
