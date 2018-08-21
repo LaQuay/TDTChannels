@@ -28,10 +28,10 @@ Algunos enlaces funcionan directamente bajándolos y haciendo doble click en ell
 Simplemente click en *url* y te redigirá a la página oficial del emisor del contenido.
 
 ### Cómo colaborar
-Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. 
+Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*.
 
 ### Licencia
-Tal como indica la licencia MIT, cualquier persona puede hacer el uso que vea de mi trabajo, el único condicionante es que debe poderse ver de donde procede el trabajo. Es decir, de este documento.
+Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de mi trabajo, el único condicionante es que debe poderse ver que la información procede de este repositorio.
 
 Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web. Si posees los derechos de algún canal y deseas que lo retire, contactame.
 
