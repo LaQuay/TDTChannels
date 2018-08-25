@@ -187,6 +187,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 | 324 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/324)|
 | 33 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/super3/)|
 | Esports 3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) - [web](http://www.ccma.cat/tv3/directe/esport3)|
+| TV3 Cámeres | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/playlist.m3u8) |
 | La 1 Catalunya | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) - [web](http://www.rtve.es/television/catalunya/directo/) |
 | Betevé | [m3u8](http://api-cdn.overon.es/SmilLive/getLiveIOS/.m3u8?stream=btv_stream01) |
 | 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) - [web](http://www.8tv.cat/directe/) |
@@ -246,6 +247,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 | Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) - [web](http://www.telemadrid.es/emision-en-directo)|
 | laOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) - [web](http://www.telemadrid.es/emision-en-directo-laotra)|
 | C 33 Madrid | [web](http://www.ustream.tv/channel/canal-33-madrid-tv) |
+| Déjate de Historias TV | [m3u8](http://cls.todostreaming.eu/tvstream/webtv/chunklist.m3u8) - [web](http://www.dejatedehistorias.es/wordpress/dejate-tv-on-line/) |
 
 #### Melilla
 
