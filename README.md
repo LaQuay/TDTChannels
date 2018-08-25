@@ -43,15 +43,15 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 | ------------- |------------- |
 | La 1          | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8) - [web](http://www.rtve.es/directo/la-1/)|
 | La 2          | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8) - [web](http://www.rtve.es/directo/la-2/)|
-| Antena 3      | [m3u8](https://livepull1.secure.footprint.net/antena3mpp/master.m3u8) - [web](https://www.atresplayer.com/directos/antena3/)|
+| Antena 3      | [m3u8 # 1](https://livepull1.secure.footprint.net/antena3mpp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geoantena3mpp/master.m3u8) - [web](https://www.atresplayer.com/directos/antena3/)|
 | Antena 3 Champions | [web](http://www.atresplayer.com/directos/television/champions-total/) |
 | Cuatro | [web](http://www.mitele.es/directo/cuatro) |
 | Telecinco | [web](http://www.mitele.es/directo/telecinco) |
-| laSexta | [m3u8](https://livepull1.secure.footprint.net/lasextampp/master.m3u8) - [web](https://www.atresplayer.com/directos/lasexta/)|
-| Neox | [m3u8](https://livepull1.secure.footprint.net/neoxmpp/master.m3u8) - [web](https://www.atresplayer.com/directos/neox/) |
-| Nova | [m3u8](https://livepull1.secure.footprint.net/geonovampp/master.m3u8) - [web](https://www.atresplayer.com/directos/nova/)|
-| Mega | [m3u8](https://livepull1.secure.footprint.net/geomegampp/master.m3u8) [web](https://www.atresplayer.com/directos/mega/)|
-| Atreseries | [m3u8](https://livepull1-i.akamaized.net/geoa3seriesmpp/master.m3u8) - [web](https://www.atresplayer.com/directos/atreseries/) |
+| laSexta | [m3u8 # 1](https://livepull1.secure.footprint.net/lasextampp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geolasextampp/master.m3u8) - [web](https://www.atresplayer.com/directos/lasexta/)|
+| Neox | [m3u8 # 1](https://livepull1.secure.footprint.net/neoxmpp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geoneoxmpp/master.m3u8) - [web](https://www.atresplayer.com/directos/neox/) |
+| Nova | [m3u8 # 1](https://livepull1.secure.footprint.net/geonovampp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geonovampp/master.m3u8) - [web](https://www.atresplayer.com/directos/nova/)|
+| Mega | [m3u8 # 1](https://livepull1.secure.footprint.net/geomegampp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geomegampp/master.m3u8) - [web](https://www.atresplayer.com/directos/mega/)|
+| Atreseries | [m3u8 # 1](https://livepull1-i.akamaized.net/geoa3seriesmpp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geoa3seriesmpp/master.m3u8) - [web](https://www.atresplayer.com/directos/atreseries/) |
 | FDF | [web](http://www.mitele.es/directo/fdf)|
 | Energy | [web](http://www.mitele.es/directo/energy) |
 | Divinity | [web](http://www.mitele.es/directo/divinity)|
