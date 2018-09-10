@@ -51,7 +51,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 | Neox | [m3u8 # 1](https://livepull1.secure.footprint.net/neoxmpp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geoneoxmpp/master.m3u8) | [web](https://www.atresplayer.com/directos/neox/) | | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/150px-Neox.svg.png) | NEOX ASTRA SD 1.sp
 | Nova | [m3u8 # 1](https://livepull1.secure.footprint.net/geonovampp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geonovampp/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/)| | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/150px-Nova.svg.png) | NOVA ASTRA SD 1.sp
 | Mega | [m3u8 # 1](https://livepull1.secure.footprint.net/geomegampp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geomegampp/master.m3u8) | [web](https://www.atresplayer.com/directos/mega/)| | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/150px-MEGA.svg.png) | MEGA TDT SD 1.sp
-| Atreseries | [m3u8 # 1](https://livepull1-i.akamaized.net/geoa3seriesmpp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geoa3seriesmpp/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png) |
+| Atreseries | [m3u8 # 1](https://livepull1-i.akamaized.net/geoa3seriesmpp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geoa3seriesmpp/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png) | ATRESS TDT HD 1.sp
 | FDF | | [web](http://www.mitele.es/directo/fdf)| | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/125px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png) | FDFIC ASTRA SD 1.sp
 | Energy | | [web](http://www.mitele.es/directo/energy) | | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/125px-Energy.svg.png) | ENERGY ASTRA SD 1.sp
 | Divinity | | [web](http://www.mitele.es/directo/divinity)| | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png) | DIVINI ASTRA SD 1.sp
@@ -68,7 +68,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 
 | Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
 | ------------- |------------- |- |- |- |- |
-| 24h | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/master.m3u8) | [web](http://www.rtve.es/directo/canal-24h/)|
+| 24h | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/master.m3u8) | [web](http://www.rtve.es/directo/canal-24h/)| | | 24H ASTRA SD 1.sp
 | Canal Parlamento | | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) |
 | EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)|
 
@@ -76,11 +76,11 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 
 | Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
 | ------------- |------------- |- |- |- |- |
-| TDP | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdp_onlydash_lv3_aosv4_gl1/tdp_onlydash_lv3_aosv4_gl1.isml/master.m3u8) | [web](http://www.rtve.es/directo/teledeporte/)|
-| TDP HD | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/)|
-| Gol TV | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) | [web](http://www.goltelevision.com/live) |
-| RealMadrid TV | [m3u8 # Español](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) |
-| Barça TV | |
+| TDP | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdp_onlydash_lv3_aosv4_gl1/tdp_onlydash_lv3_aosv4_gl1.isml/master.m3u8) | [web](http://www.rtve.es/directo/teledeporte/)| | | TDEP ASTRA SD 1.sp
+| TDP HD | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | | | TDEP ASTRA SD 1.sp
+| Gol TV | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) | [web](http://www.goltelevision.com/live) | | | GOL TDT SD 2.sp
+| RealMadrid TV | [m3u8 # Español](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | | | REALM ASTRA SD 1.sp
+| Barça TV | | | | | BARNA ASTRA SD 1.sp
 | Betis TV | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) | [web](http://play.rbetis.webtv.flumotion.com/play/player?player=1&pod=3)|
 | Sevilla TV | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) | [web](http://live.sevillafc.es/) |
 
@@ -88,9 +88,9 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 
 | Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
 | ------------- |------------- |- |- |- |- |
-| Disney Channel | | [web](http://tv.disney.es/disney-channel?autoplay=true) |
-| Boing | | [web](http://www.mitele.es/directo/boing)|
-| Clan | |
+| Disney Channel | | [web](http://tv.disney.es/disney-channel?autoplay=true) | | | DCH ASTRA HD 1.sp
+| Boing | | [web](http://www.mitele.es/directo/boing)| | | BOING ASTRA SD 1.sp
+| Clan | | | | | CLANTV ASTRA SD 1.sp
 
 ### Musicales
 
@@ -106,7 +106,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 
 | Canal         | URL | Web | ¿HDTV?  | Logo  | EPG ID |
 | ------------- |------------- |- |- |- |- |
-| Canal Sur TV | [m3u8](http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0)|
+| Canal Sur TV | [m3u8](http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0)| | | ANTV ASTRA SD 1.sp
 | Canal Andalucia Turismo TV | | [web](http://canalandaluciaturismo.es/)|
 | Canal Andalucia Flamenco TV | | [web](http://canalandaluciaflamenco.es/)|
 | Canal Andalucia Cocina TV | [m3u8](http://173.212.214.184:1935/cscocina/cscocina/master.m3u8) | [web](http://canalandaluciacocina.es/)|
@@ -137,7 +137,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 
 | Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
 | ------------- |------------- |- |- |- |- |
-| Aragón TV | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) | [web](http://www.aragontelevision.es/) |
+| Aragón TV | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) | [web](http://www.aragontelevision.es/) | | | Aragon TV Int
 | Huesca TV | | [web](http://www.radiohuesca.com/directo-htv)|
 | Canal 25 Barbastro TV | [m3u8](http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8) | [web](http://www.canal25tv.es/index.php/ct-menu-item-5)|
 
@@ -186,7 +186,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 
 | Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
 | ------------- |------------- |- |- |- |- |
-| TV3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/tv3)|
+| TV3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/tv3)| | | TVC ASTRA SD 1.sp
 | TV3CAT Intern. | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) |
 | 324 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/324)|
 | 33 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/super3/)|
