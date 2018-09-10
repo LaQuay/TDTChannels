@@ -30,11 +30,6 @@ Simplemente click en *url* y te redigirá a la página oficial del emisor del co
 ### Cómo colaborar
 Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*.
 
-### Licencia
-Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de mi trabajo, el único condicionante es que debe poderse ver que la información procede de este repositorio.
-
-Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web. Si posees los derechos de algún canal y deseas que lo retire, contactame.
-
 ## Canales de España
 
 ### Nacionales
@@ -331,3 +326,14 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 | Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
 | ------------- |------------- |- |- |- |- |
 | RTV Andorra   | - | [web](http://www.andorradifusio.ad/Endirecte/atv) | - | - | - |
+
+### Licencia
+Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de mi trabajo, el único condicionante es que debe poderse ver que la información procede de este repositorio.
+
+Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web. Si posees los derechos de algún canal y deseas que lo retire, contactame.
+
+### Agradecimientos
+- @paurg15
+- @okelet
+
+Y a todos aquellos que han colaborado, ya sea reportando un fallo o aportando enlaces!
