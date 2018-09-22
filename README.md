@@ -122,7 +122,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Onda Azul Málaga RTV | [m3u8](http://canalmalaga-tv-live.flumotion.com/chunks.m3u8) | [web](http://www.ondaazulmalaga.es/directo)| - | - | - |
 | Ondaluz TV | [m3u8](http://cls.elitehd-audiovisuales.com/ondaluz/olandalucia/playlist.m3u8) | [web](http://ondaluz.tv/sevilla/)| - | - | - |
 | OndaJaen RTV | - | [web](http://ondajaen.es/web/directo/) | - | - | - |
-| Estepona TV | [m3u8](http://62.210.96.18:1935/esteponatv/esteponatv/playlist.m3u8) | [web](test) | - | - | - |
+| Estepona TV | [m3u8](http://62.210.96.18:1935/esteponatv/esteponatv/playlist.m3u8) | - | - | - | - |
 | Costa del Sol TV | [m3u8](http://cls.todostreaming.eu/benalmadena/webtv/playlist.m3u8) | [web](http://www.costadelsoltv.com/) | - | - | - |
 | Cancionero TV | [m3u8](http://89.140.99.41/hls/1080.m3u8) | [web](http://www.cancionero.es/tv/) | - | - | - |
 | Fuengirola TV | [m3u8](http://cls2.todostreaming.eu/nerja/livestream/playlist.m3u8) | [web](http://www.fuengirolatv.com/tv-streaming)| - | - | - |
