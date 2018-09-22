@@ -1,0 +1,73 @@
+<html>
+<head>
+    <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+    <script src="https://unpkg.com/video.js/dist/video.js"></script>
+    <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+    <style>
+	* {
+	  margin: 0;
+	  padding: 0;
+	}
+
+    </style>
+</head>
+
+<body>
+<video autoplay preload="auto" controls id="player" class="video-js vjs-default-skin">
+</video>
+
+<script>
+	var getUrlParameter = function getUrlParameter(sParam) {
+		var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+			sURLVariables = sPageURL.split('&'),
+			sParameterName,
+			i;
+
+		for (i = 0; i < sURLVariables.length; i++) {
+			sParameterName = sURLVariables[i].split('=');
+
+			if (sParameterName[0] === sParam) {
+				return sParameterName[1] === undefined ? true : sParameterName[1];
+			}
+		}
+	};
+	
+	var channelToReproduce = getUrlParameter("channel");
+	if (channelToReproduce.includes("m3u8")) {
+		videojs('player').src({type: 'application/x-mpegURL', src: channelToReproduce});
+				
+		videojs('player').ready(function () {
+			var myPlayer = this;
+			myPlayer.play();
+			
+			// Store the video object
+			var myPlayer = this, id = myPlayer.id();
+			// Make up an aspect ratio
+			var aspectRatio = 9.0/17.5; 
+			var reduction = 0.95;
+
+			function resizeVideoJS(){
+				var width = document.getElementById(id).parentElement.offsetWidth;
+				myPlayer.width(width*reduction);
+				myPlayer.height(width*aspectRatio*reduction);
+			}
+
+			// Initialize resizeVideoJS()
+			resizeVideoJS();
+			// Then on resize call resizeVideoJS()
+			window.onresize = resizeVideoJS(); 
+		});
+		
+		videojs('player').on('dblclick', function() {
+			var myPlayer = this;
+			if (myPlayer.isFullscreen()) {
+				myPlayer.exitFullscreen();
+			} else {
+				myPlayer.requestFullscreen();
+			}
+		});
+	}		
+
+</script>
+</body>
+</html>
