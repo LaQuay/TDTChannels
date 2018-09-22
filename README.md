@@ -94,7 +94,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Hit TV | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) | [web](http://www.hittv.es/) | - | - | - |
 | Deluxe Music | - | - | - | - | - |
 
-
 ### Autonómicos
 
 #### Andalucía
