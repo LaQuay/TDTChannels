@@ -20,17 +20,26 @@ def stringbetween(text, start, end):
 
 
 def get_channels_from_part(text):
+    line_where_first_channel_starts = 15
+    attributes_per_item = 6
     channel_list = []
-    list_to_iterate = text.split("| ")[4:]
-    for i in range(0, len(list_to_iterate), 2):
-        item_name = list_to_iterate[i]
-        item_options = list_to_iterate[i + 1]
+    list_to_iterate = text.split("|")[line_where_first_channel_starts:]
+    while "\n" in list_to_iterate:
+        list_to_iterate.remove("\n")
+    while "\n\n" in list_to_iterate:
+        list_to_iterate.remove("\n\n")
+    for i in range(0, len(list_to_iterate), attributes_per_item):
+        item_name = list_to_iterate[i].strip()
+        item_options = list_to_iterate[i + 1].strip()
+        item_web = list_to_iterate[i + 2].strip()
+        item_resolution = list_to_iterate[i + 3].strip()
+        item_logo = list_to_iterate[i + 4].strip()
+        item_epg = list_to_iterate[i + 5].strip()
 
-        item_name = item_name.replace("|", "").replace("\n", "").strip()
-        item_options = (item_options.replace("|", "").replace("\n", "")).split(" - ")
+        item_options = item_options.split(" - ")
 
-        channel = Channel(item_name)
-        if len(item_options) > 0 and item_options[0] != "":
+        channel = Channel(item_name, item_web, item_resolution, item_logo, item_epg)
+        if len(item_options) > 0 and item_options[0] != "-":
             for option in item_options:
                 format = (option[1:5]).replace("]", "")
                 url = stringbetween(option, "(", ")")
@@ -118,13 +127,13 @@ canales_autonomicos_valencia = stringbetween(content, "#### Valencia", "## Inter
 spain.add_ambit(Ambito("Valencia", get_channels_from_part(canales_autonomicos_valencia)))
 
 # Save data to JSON file
-json_file = open('code/output/channels.json', "w+")
+json_file = open('./output/channels.json', "w+")
 # TODO Anadir copyright
 json_file.write(json.dumps(spain.to_json()))
 json_file.close()
 
 # Save data to M3U8 file	
-text_file = open('code/output/channels.m3u8', "w+")
+text_file = open('./output/channels.m3u8', "w+")
 text_file.write("#EXTM3U" + "\n")
 text_file.write("# @LaQuay https://github.com/LaQuay/TDTChannels" + "\n")
 text_file.write(spain.to_m3u8())

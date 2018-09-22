@@ -1,9 +1,17 @@
 ﻿class Channel:
     name = None
+    web = None
+    resolution = None
+    logo = None
+    epg_id = None
     options = []
 
-    def __init__(self, name):
+    def __init__(self, name, web, resolution, logo, epg_id):
         self.name = name
+        self.web = web
+        self.resolution = resolution
+        self.logo = logo
+        self.epg_id = epg_id
         self.options = []
 
     def add_option(self, format, url):
@@ -12,6 +20,15 @@
     def get_name(self):
         return self.name
 
+    def get_resolution(self):
+        return self.get_resolution
+
+    def get_logo(self):
+        return self.logo
+
+    def get_epg(self):
+        return self.epg_id
+
     def get_options(self):
         return self.options
 
@@ -19,7 +36,7 @@
         options_string = ""
         for option in self.options:
             options_string += "[Format: " + option.get_format() + ", URL: " + option.get_url() + "]"
-        return (self.name + " " + options_string)
+        return self.name + " " + options_string
 
     def __options_to_json__(self):
         options_list = []
@@ -30,8 +47,15 @@
     def to_json(self):
         return {
             "name": self.name,
+            "resolution": self.resolution,
+            "logo": self.logo,
+            "epg_id": self.epg_id,
             "options": self.__options_to_json__()
         }
+
+    def to_m3u8(self, option):
+        return ('#EXTINF:-1 tvg-id="' + self.epg_id + '" tvg-logo="' + self.logo + '", ' + self.name + "\n" +
+                option.get_url() + "\n")
 
     class Web:
         format = None
@@ -51,7 +75,7 @@
             return self.url
 
         def __str__(self):
-            return (self.format + ", " + self.url)
+            return self.format + ", " + self.url
 
         def to_json(self):
             return {

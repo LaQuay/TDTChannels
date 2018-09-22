@@ -23,7 +23,7 @@ class Ambito:
         for channel in self.channels:
             for option in channel.get_options():
                 if option.is_m3u8_valid():
-                    channels_list += "#EXTINF:-1, " + channel.get_name() + "\n" + option.get_url() + "\n"
+                    channels_list += channel.to_m3u8(option)
         return channels_list
 
     def to_m3u8(self):
