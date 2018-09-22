@@ -34,11 +34,11 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 ### Nacionales
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
-| La 1          | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8) | [web](http://www.rtve.es/directo/la-1/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png) | TVE ASTRA HD 1.sp |
-| La 2          | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8) | [web](http://www.rtve.es/directo/la-2/)| - | [Logo](http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg) | LA2 ASTRA SD 1.sp |
-| Antena 3      | [m3u8 # 1](https://livepull1.secure.footprint.net/antena3mpp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geoantena3mpp/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png) | A3 ASTRA HD 1.sp |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
+| La 1 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8) | [web](http://www.rtve.es/directo/la-1/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png) | TVE ASTRA HD 1.sp |
+| La 2 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8) | [web](http://www.rtve.es/directo/la-2/)| - | [Logo](http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg) | LA2 ASTRA SD 1.sp |
+| Antena 3 | [m3u8 # 1](https://livepull1.secure.footprint.net/antena3mpp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geoantena3mpp/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png) | A3 ASTRA HD 1.sp |
 | Antena 3 Champions | - | [web](http://www.atresplayer.com/directos/television/champions-total/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png) | - |
 | Cuatro | - | [web](http://www.mitele.es/directo/cuatro) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/250px-Cuatro.svg.png) | C4 ASTRA HD 1.sp |
 | Telecinco | [m3u8 # 1](http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8) | [web](http://www.mitele.es/directo/telecinco) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/125px-Telecinco.svg.png) | T5 ASTRA HD 1.sp |
@@ -61,16 +61,16 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 ### Informativos
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | 24h | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/master.m3u8) | [web](http://www.rtve.es/directo/canal-24h/)| - | - | 24H ASTRA SD 1.sp |
 | Canal Parlamento | - | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) | - | - | - |
 | EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)| - | - | - | - |
 
 ### Deportivos
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | TDP | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdp_onlydash_lv3_aosv4_gl1/tdp_onlydash_lv3_aosv4_gl1.isml/master.m3u8) | [web](http://www.rtve.es/directo/teledeporte/)| - | - | TDEP ASTRA SD 1.sp |
 | TDP HD | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | - | - | TDEP ASTRA SD 1.sp |
 | Gol TV | [m3u8](http://cdn.opencable.es/hls/live/goltv/index.m3u8) | [web](http://www.goltelevision.com/live) | - | - | GOL TDT SD 2.sp |
@@ -81,8 +81,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 ### Infantiles
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Disney Channel | - | [web](http://tv.disney.es/disney-channel?autoplay=true) | - | - | DCH ASTRA HD 1.sp |
 | Boing | - | [web](http://www.mitele.es/directo/boing)| - | - | BOING ASTRA SD 1.sp |
 | Clan | - | - | - | - | CLANTV ASTRA SD 1.sp |
@@ -99,8 +99,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Andalucía
 
-| Canal         | URL | Web | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Canal Sur TV | [m3u8](http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0)| - | - | ANTV ASTRA SD 1.sp |
 | Canal Andalucia Turismo TV | - | [web](http://canalandaluciaturismo.es/)| - | - | - |
 | Canal Andalucia Flamenco TV | - | [web](http://canalandaluciaflamenco.es/)| - | - | - |
@@ -130,23 +130,23 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Aragón
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Aragón TV | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) | [web](http://www.aragontelevision.es/) | - | - | Aragon TV Int |
 | Huesca TV | - | [web](http://www.radiohuesca.com/directo-htv)| - | - | - |
 | Canal 25 Barbastro TV | [m3u8](http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8) | [web](http://www.canal25tv.es/index.php/ct-menu-item-5)| - | - | - |
 
 #### Asturias
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Asturias 7 RTV | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) | [web](http://www.rtpa.es/television) |
 | Tele Asturias | - | [web](http://tvonline.teleasturias.com/) |
 
 #### Canarias
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | RTV Canaria | - | [web](http://www.rtvc.es/television/directo.aspx) | - | - | - |
 | Mírame TV | - | [web](https://mirametv.com/) | - | - | - |
 | El Día TV | [m3u8](http://vs8.live.opencaster.com/opencaster/zmyrfjHztaoj/playlist.m3u8) | [web](http://eldia.tv/) | - | - | - |
@@ -156,14 +156,14 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Cantabria
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Popular TV | [m3u8](http://cls.todostreaming.eu/ptvcantabria/livestream/playlist.m3u8) | [web](http://populartvcantabria.com/livetv/) | - | - | - |
 
 #### Castilla la Mancha
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Castilla-La Mancha Media | [m3u8](http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8) | [web](http://www.cmmedia.es/en-directo/tv/) | - | - | - |
 | Hellin TV | [m3u8](http://hellin.hls.flumotion.com/hellin/hellin-hls/playlist.m3u8) | [web](http://www.televisionhellin.com/tv-en-directo) | - | - | - |
 | TeleToledo | - | [web](http://www.teletoledo.tv/index.php/tv-en-directo) | - | - | - |
@@ -173,14 +173,14 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Castilla y León
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | RTV Castilla y León | - | [web](http://www.rtvcyl.es/Directo.aspx) | - | - | - |
 
 #### Catalunya
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | TV3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/tv3)| - | - | TVC ASTRA SD 1.sp |
 | TV3CAT Intern. | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) | - | - | - | - |
 | 324 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/324)| - | - | - |
@@ -210,21 +210,21 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Ceuta
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Ceuta TV | [m3u8](http://cls.todostreaming.eu/anguloce/livestream/playlist.m3u8) | [web](http://ceutatv.com/pag/ceuta-tv-en-directo/) | - | - | - |
 | Ceuta RTV | [m3u8](http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8) | [web](http://www.rtvce.es/tv-directo) | - | - | - |
 
 #### Extremadura
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Canal Extremadura | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8) | [web](http://www.canalextremadura.es/tv/directo#ahora)| - | - | - |
 
 #### Galicia
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Galicia Europa TV | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa)| - | - | - |
 | Galicia América TV | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | - | - | - |
 | Galicia Infantil TV | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv)| - | - | - |
@@ -234,15 +234,15 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Islas Baleares
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | IB3 TV | [m3u8](https://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8) | [web](http://ib3tv.com/directe) | - | - | - |
 | Eivissa i Formentera TV | [m3u8](http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/)| - | - | - |
 
 #### Madrid
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo)| - | - | - |
 | laOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra)| - | - | - |
 | C 33 Madrid | - | [web](http://www.ustream.tv/channel/canal-33-madrid-tv) | - | - | - |
@@ -250,26 +250,26 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Melilla
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Melilla TV | [m3u8](http://melillatv-hls.flumotion.com/melillatv/ngrp:melillatv_all/playlist.m3u8) | [web](http://inmusa.es/directo.php)| - | - | - |
 
 #### Murcia
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | 7RM Radio Televisión Murcia | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | - | [Logo](http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/murcia.jpg) | - |
 
 #### Navarra
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Navarra TV | - | [web](http://www.natv.es/Directo) | - | - | - |
 
 #### Pais Vasco
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | ETB SAT Canal Vasco | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](http://www.eitb.eus/es/television/etb-sat/) | - | - | - |
 | ETB 1 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | - | - | - |
 | ETB 2 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | - | - | - |
@@ -281,14 +281,14 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### La Rioja
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | TV Rioja | - | [web](http://www.tvr.es/directo/) | - | - | - |
 
 #### Valencia
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | 7 TeleValencia | [m3u8](http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8) | [web](http://7televalencia.com/directo-7televalencia) | - | - | - |
 | La 8 Mediterraneo | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8) | [web](http://www.laocho.tv/es/directo/) | - | - | - |
 | À Punt | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8) | [web](https://www.apuntmedia.es/va/directe/directe) | - | - | - |
@@ -307,8 +307,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 ## Internacionales
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | ABC News | [m3u8](http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8) | - | - | - | - |
 | France 24 | [m3u8 # English](http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) | - | - | - | - |
 | CBS News | [m3u8](http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | - | - | - | - |
@@ -323,8 +323,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 ### Canales de Andorra
 
-| Canal         | URL M3U8  | Web  | ¿HDTV?  | Logo  | EPG ID |
-| ------------- |------------- |- |- |- |- |
+| Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | RTV Andorra   | - | [web](http://www.andorradifusio.ad/Endirecte/atv) | - | - | - |
 
 ### Licencia
