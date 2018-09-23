@@ -139,8 +139,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Asturias 7 RTV | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) | [web](http://www.rtpa.es/television) |
-| Tele Asturias | - | [web](http://tvonline.teleasturias.com/) |
+| Asturias 7 RTV | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) | [web](http://www.rtpa.es/television) | - | - | - |
+| Tele Asturias | - | [web](http://tvonline.teleasturias.com/) | - | - | - |
 
 #### Canarias
 
