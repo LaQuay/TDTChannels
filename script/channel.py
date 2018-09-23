@@ -54,9 +54,9 @@
             "options": self.__options_to_json__()
         }
 
-    def to_m3u8(self, option):
-        return ('#EXTINF:-1 tvg-id="' + self.epg_id + '" tvg-logo="' + self.logo + '", ' + self.name + "\n" +
-                option.get_url() + "\n")
+    def to_m3u8(self, ambit, option):
+        return ('#EXTINF:-1 tvg-id="' + self.epg_id + '" tvg-logo="' + self.logo + '" group-title="' + ambit
+                + '", ' + self.name + "\n" + option.get_url() + "\n")
 
     class Web:
         format = None

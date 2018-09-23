@@ -23,7 +23,7 @@ class Ambito:
         for channel in self.channels:
             for option in channel.get_options():
                 if option.is_m3u8_valid():
-                    channels_list += channel.to_m3u8(option)
+                    channels_list += channel.to_m3u8(self.name, option)
         return channels_list
 
     def to_m3u8(self):
