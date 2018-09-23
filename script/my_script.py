@@ -30,10 +30,17 @@ def get_channels_from_part(text):
         list_to_iterate.remove("\n\n")
     for i in range(0, len(list_to_iterate), attributes_per_item):
         item_name = list_to_iterate[i].strip()
+
         item_options = list_to_iterate[i + 1].strip()
+
         item_web = list_to_iterate[i + 2].strip()
+        if len(item_web) > 0 and item_web[0] != "-":
+            item_web = stringbetween(item_web, "(", ")")
+
         item_resolution = list_to_iterate[i + 3].strip()
+
         item_logo = list_to_iterate[i + 4].strip()
+
         item_epg = list_to_iterate[i + 5].strip()
 
         item_options = item_options.split(" - ")

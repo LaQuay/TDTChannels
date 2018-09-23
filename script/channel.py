@@ -47,8 +47,9 @@
     def to_json(self):
         return {
             "name": self.name,
-            "resolution": self.resolution,
+            "web": self.web,
             "logo": self.logo,
+            "resolution": self.resolution,
             "epg_id": self.epg_id,
             "options": self.__options_to_json__()
         }
