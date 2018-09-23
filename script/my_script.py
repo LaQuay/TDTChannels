@@ -144,13 +144,13 @@ canales_autonomicos_valencia = stringbetween(content, "#### Valencia", "## Inter
 spain.add_ambit(Ambito("Valencia", get_channels_from_part(canales_autonomicos_valencia)))
 
 # Save data to JSON file
-json_file = open('./output/channels.json', "w+")
+json_file = open('./public/output/channels.json', "w+")
 # TODO Anadir copyright
 json_file.write(json.dumps(spain.to_json()))
 json_file.close()
 
 # Save data to M3U8 file	
-text_file = open('./output/channels.m3u8', "w+")
+text_file = open('./public/output/channels.m3u8', "w+")
 text_file.write("#EXTM3U" + "\n")
 text_file.write("# @LaQuay https://github.com/LaQuay/TDTChannels" + "\n")
 text_file.write(spain.to_m3u8())
