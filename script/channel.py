@@ -55,8 +55,18 @@
         }
 
     def to_m3u8(self, ambit, option):
-        return ('#EXTINF:-1 tvg-id="' + self.epg_id + '" tvg-logo="' + self.logo + '" group-title="' + ambit
-                + '", ' + self.name + "\n" + option.get_url() + "\n")
+        info = '#EXTINF:-1'
+        if self.epg_id != "":
+            info += ' tvg-id="' + self.epg_id + '"'
+        if self.logo != "":
+            info += ' tvg-logo="' + self.logo + '"'
+        if ambit != "":
+            info += ' group-title="' + ambit + '"'
+
+        info += ', ' + self.name
+        info += '\n' + option.get_url() + '\n'
+
+        return info
 
     class Web:
         format = None

@@ -36,14 +36,22 @@ def get_channels_from_part(text):
         item_web = list_to_iterate[i + 2].strip()
         if len(item_web) > 0 and item_web[0] != "-":
             item_web = stringbetween(item_web, "(", ")")
+        if len(item_web) == 1:
+            item_web = ""
 
         item_resolution = list_to_iterate[i + 3].strip()
+        if len(item_resolution) == 1:
+            item_resolution = ""
 
         item_logo = list_to_iterate[i + 4].strip()
         if len(item_logo) > 0 and item_logo[0] != "-":
             item_logo = stringbetween(item_logo, "(", ")")
+        if len(item_logo) == 1:
+            item_logo = ""
 
         item_epg = list_to_iterate[i + 5].strip()
+        if len(item_epg) == 1:
+            item_epg = ""
 
         item_options = item_options.split(" - ")
 
