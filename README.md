@@ -2,16 +2,15 @@
 
 Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
-### Listado de m3u8
-Cada cierto tiempo iré recopilando los m3u8 que voy poniendo y de esta forma se generará uno más grande:
-
+### Listado en formato M3U8 y JSON
 *(Última actualización: 23/09/2018)*
 
 [Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
 [Click aquí para descargar el .json completo](http://91.121.64.179/tdt_project/output/channels.json)
 
-Canal en **Telegram**: [Canales TDT](https://t.me/canales_tdt)
+### Canal en **Telegram**
+[Canales TDT](https://t.me/canales_tdt)
 
 ### Ver en directo con el navegador
 Para ver directamente en el navegador has de:
