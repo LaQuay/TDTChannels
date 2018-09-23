@@ -40,6 +40,8 @@ def get_channels_from_part(text):
         item_resolution = list_to_iterate[i + 3].strip()
 
         item_logo = list_to_iterate[i + 4].strip()
+        if len(item_logo) > 0 and item_logo[0] != "-":
+            item_logo = stringbetween(item_logo, "(", ")")
 
         item_epg = list_to_iterate[i + 5].strip()
 
