@@ -4,7 +4,7 @@ import json
 
 import requests
 
-from ambito import Ambito
+from ambit import Ambito
 from channel import Channel
 from country import Country
 

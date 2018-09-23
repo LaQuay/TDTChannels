@@ -9,7 +9,6 @@ class Country:
     def add_ambit(self, ambit):
         self.ambits.append(ambit)
 
-    # TODO Habria que filtrar los que no tienen campos de url
     def __ambits_to_json__(self):
         ambits_list = []
         for ambit in self.ambits:
