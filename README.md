@@ -133,7 +133,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Aragón TV | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) | [web](http://www.aragontelevision.es/) | - | - | Aragon TV Int |
+| Aragón TV | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) | [web](http://www.aragontelevision.es/) | - | - | Aragon TV Int.sp |
 | Huesca TV | - | [web](http://www.radiohuesca.com/directo-htv)| - | - | - |
 | Canal 25 Barbastro TV | [m3u8](http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8) | [web](http://www.canal25tv.es/index.php/ct-menu-item-5)| - | - | - |
 
