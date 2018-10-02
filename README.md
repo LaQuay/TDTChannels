@@ -189,7 +189,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Esports 3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/esport3)| - | - | - |
 | TV3 Cámeres | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/playlist.m3u8) | - |  - | - | - |
 | La 1 Catalunya | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | - | - | - |
-| Betevé | [m3u8](http://api-cdn.overon.es/SmilLive/getLiveIOS/.m3u8?stream=btv_stream01) |  - | - | - | - |
+| Betevé | - | [web](https://beteve.cat/en-directe/) | - | - | - |
 | 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) | [web](http://www.8tv.cat/directe/) | - | - | - |
 | El Punt Avui TV | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) | [web](http://www.elpuntavui.tv/directe.html) | - | - | - |
 | Badalona Televisió | [m3u8](http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8) | [web](http://player.cdnmedia.tv/embed/6f1c739f) | - | - | - |
