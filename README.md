@@ -292,7 +292,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | - | - | - | - | - | - |
 | 7 TeleValencia | [m3u8](http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8) | [web](http://7televalencia.com/directo-7televalencia) | - | - | - |
 | La 8 Mediterraneo | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8) | [web](http://www.laocho.tv/es/directo/) | - | - | - |
-| À Punt | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8) | [web](https://www.apuntmedia.es/va/directe/directe) | - | - | - |
+| À Punt | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cn/d77d4356674b449695b1c0f19fbd6fae_6.m3u8) | [web](https://apuntmedia.es/va/directe/tv) | - | - | - |
 | Levante TV | [m3u8](http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8) | [web](http://www.levantetv.es/default.jsp) | - | - | - |
 | TeleElx | [m3u8](http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8) | [web](http://www.teleelx.es/s5811-TELEVISION.html) | - | - | - |
 | Intercomarcal TV | - | [web](http://www.intercomarcal.com/camaraa/camaragrande.html) | - | - | - |
