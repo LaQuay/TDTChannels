@@ -237,7 +237,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| IB3 TV | [m3u8](https://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8) | [web](http://ib3tv.com/directe) | - | - | - |
+| IB3 TV | [m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8) | [web](http://ib3tv.com/directe) | - | - | - |
 | Eivissa i Formentera TV | [m3u8](http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/)| - | - | - |
 
 #### Madrid
