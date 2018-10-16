@@ -106,7 +106,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal Andalucia Flamenco TV | - | [web](http://canalandaluciaflamenco.es/)| - | - | - |
 | Canal Andalucia Cocina TV | [m3u8](http://173.212.214.184:1935/cscocina/cscocina/master.m3u8) | [web](http://canalandaluciacocina.es/)| - | - | - |
 | La Banda TV | [m3u8](http://cast.streamingconnect.com:1935/cslabanda/cslabanda/playlist.m3u8) | [web](http://labanda.canalsur.es/la_banda_tv-541.html)| - | - | - |
-| 101TV Málaga | [m3u8](http://cls2.todostreaming.eu/101tv/livestream101Tv/playlist.m3u8) | [web](http://www.101tv.es/directo.aspx) | - | - | - |
+| 101TV Málaga | [m3u8](https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8) | [web](http://www.101tv.es/directo.aspx) | - | - | - |
 | Onda Cadiz TV | [m3u8](http://adc.hls.flumotion.com/adc/live-hls/playlist.m3u8) | [web](http://tv.ocadizdigital.es/tv/directo) | - | - | - |
 | 8 Chiclana | [m3u8](http://cls2.todostreaming.eu/unatv/live/playlist.m3u8) | [web](http://www.8cadiz.es/tvonline.php) | - | - | - |
 | Huelva TV | [m3u8](http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8) | [web](http://huelvatv.com/directo/) | - | - | - |
