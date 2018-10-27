@@ -40,7 +40,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | - | - | - | - | - | - |
 | La 1 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8) | [web](http://www.rtve.es/directo/la-1/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png) | TVE ASTRA HD 1.sp |
 | La 2 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8) | [web](http://www.rtve.es/directo/la-2/)| - | [Logo](http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg) | LA2 ASTRA SD 1.sp |
-| Antena 3 | [m3u8 # 1](https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8) - [m3u8 # 2](antena3-pull2b-a3player.secure.footprint.net/geoantena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png) | A3 ASTRA HD 1.sp |
+| Antena 3 | [m3u8 # 1](https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8) - [m3u8 # 2](https://antena3-pull2b-a3player.secure.footprint.net/geoantena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png) | A3 ASTRA HD 1.sp |
 | Cuatro | - | [web](http://www.mitele.es/directo/cuatro) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/250px-Cuatro.svg.png) | C4 ASTRA HD 1.sp |
 | Telecinco | - | [web](http://www.mitele.es/directo/telecinco) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/125px-Telecinco.svg.png) | T5 ASTRA HD 1.sp |
 | laSexta | [m3u8 # 1](https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8) - [m3u8 # 2](https://lasexta-pull2c-a3player.secure.footprint.net/geolasexta/master.m3u8) | [web](https://www.atresplayer.com/directos/lasexta/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/75px-La_Sexta_%28A3M%29.svg.png) | SEXTA ASTRA HD 1.sp |
@@ -101,11 +101,11 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Canal Sur TV | [m3u8](http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0)| - | - | ANTV ASTRA SD 1.sp |
-| Canal Andalucia Turismo TV | - | [web](http://canalandaluciaturismo.es/)| - | - | - |
-| Canal Andalucia Flamenco TV | - | [web](http://canalandaluciaflamenco.es/)| - | - | - |
-| Canal Andalucia Cocina TV | [m3u8](http://173.212.214.184:1935/cscocina/cscocina/master.m3u8) | [web](http://canalandaluciacocina.es/)| - | - | - |
-| La Banda TV | [m3u8](http://cast.streamingconnect.com:1935/cslabanda/cslabanda/playlist.m3u8) | [web](http://labanda.canalsur.es/la_banda_tv-541.html)| - | - | - |
+| Canal Sur TV | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0)| - | - | ANTV ASTRA SD 1.sp |
+| Canal Andalucia Turismo TV | [m3u8](https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8) | [web](http://canalandaluciaturismo.es/)| - | - | - |
+| Canal Andalucia Flamenco TV | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/)| - | - | - |
+| Canal Andalucia Cocina TV | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/)| - | - | - |
+| Canal Sur La Banda TV | [m3u8](https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8) | [web](http://labanda.canalsur.es/)| - | - | - |
 | 101TV Málaga | [m3u8](https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8) | [web](http://www.101tv.es/directo.aspx) | - | - | - |
 | Onda Cadiz TV | [m3u8](http://adc.hls.flumotion.com/adc/live-hls/playlist.m3u8) | [web](http://tv.ocadizdigital.es/tv/directo) | - | - | - |
 | 8 Chiclana | [m3u8](http://cls2.todostreaming.eu/unatv/live/playlist.m3u8) | [web](http://www.8cadiz.es/tvonline.php) | - | - | - |
@@ -126,7 +126,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Estepona TV | [m3u8](http://62.210.96.18:1935/esteponatv/esteponatv/playlist.m3u8) | - | - | - | - |
 | Costa del Sol TV | [m3u8](http://cls.todostreaming.eu/benalmadena/webtv/playlist.m3u8) | [web](http://www.costadelsoltv.com/) | - | - | - |
 | Cancionero TV | [m3u8](http://89.140.99.41/hls/1080.m3u8) | [web](http://www.cancionero.es/tv/) | - | - | - |
-| Fuengirola TV | [m3u8](http://cls2.todostreaming.eu/nerja/livestream/playlist.m3u8) | [web](http://www.fuengirolatv.com/tv-streaming)| - | - | - |
+| Fuengirola TV | - | [web](https://fuengirolatv.com/streaming/)| - | - | - |
 
 #### Aragón
 
