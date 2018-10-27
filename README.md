@@ -337,6 +337,14 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 
 Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web. Si posees los derechos de algún canal y deseas que lo retire, contactame.
 
+### Notícias
+
+Aparecemos en:
+
+[Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
+
+[Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
+
 ### Agradecimientos
 - @paurg15
 - @okelet
