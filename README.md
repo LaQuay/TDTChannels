@@ -106,6 +106,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal Andalucia Flamenco TV | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/)| - | - | - |
 | Canal Andalucia Cocina TV | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/)| - | - | - |
 | Canal Sur La Banda TV | [m3u8](https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8) | [web](http://labanda.canalsur.es/)| - | - | - |
+| Canal Sur Eventos 1 | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_01/master.m3u8) | - | - | - | - |
+| Canal Sur Eventos 2 | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_02/master.m3u8) | - | - | - | - |
 | 101TV Málaga | [m3u8](https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8) | [web](http://www.101tv.es/directo.aspx) | - | - | - |
 | Onda Cadiz TV | [m3u8](http://adc.hls.flumotion.com/adc/live-hls/playlist.m3u8) | [web](http://tv.ocadizdigital.es/tv/directo) | - | - | - |
 | 8 Chiclana | [m3u8](http://cls2.todostreaming.eu/unatv/live/playlist.m3u8) | [web](http://www.8cadiz.es/tvonline.php) | - | - | - |
@@ -117,16 +119,18 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | CanalCosta | - | [web](http://www.canalcostatv.es/en-directo/)| - | - | - |
 | El Correo de Andalucía TV | [m3u8](http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8) | [web](http://elcorreoweb.es/elcorreotv) | - | - | - |
 | InterAlmería | - | [web](http://www.interalmeria.tv/directo.php) | - | - | - |
-| PTV Córdoba | [m3u8](http://149.91.98.146:1935/cordoba/stream/playlist.m3u8) | [web](http://www.ptvcordoba.com/) | - | - | - |
-| PTV Málaga | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) | [web](http://www.ptvmalaga.com/) | - | - | - |
 | Marbella RTV | [m3u8](http://cls.todostreaming.eu/marbellatv/saldubatv/playlist.m3u8) | [web](http://rtvmarbella.tv/tv-en-directo/) | - | - | - |
 | Onda Azul Málaga RTV | [m3u8](http://canalmalaga-tv-live.flumotion.com/chunks.m3u8) | [web](http://www.ondaazulmalaga.es/directo)| - | - | - |
 | Ondaluz TV | [m3u8](http://cls.elitehd-audiovisuales.com/ondaluz/olandalucia/playlist.m3u8) | [web](http://ondaluz.tv/sevilla/)| - | - | - |
 | OndaJaen RTV | - | [web](http://ondajaen.es/web/directo/) | - | - | - |
 | Estepona TV | [m3u8](http://62.210.96.18:1935/esteponatv/esteponatv/playlist.m3u8) | - | - | - | - |
 | Costa del Sol TV | [m3u8](http://cls.todostreaming.eu/benalmadena/webtv/playlist.m3u8) | [web](http://www.costadelsoltv.com/) | - | - | - |
-| Cancionero TV | [m3u8](http://89.140.99.41/hls/1080.m3u8) | [web](http://www.cancionero.es/tv/) | - | - | - |
 | Fuengirola TV | - | [web](https://fuengirolatv.com/streaming/)| - | - | - |
+| Málaga TV | [m3u8](http://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | - | - | - |
+| Mijas TV | [m3u8](http://mijas.hls.flumotion.com/mijas/live-hls/master.m3u8) | [web](http://www.mijascomunicacion.org/)| - | - | - |
+| PTV Córdoba | [m3u8](http://149.91.98.146:1935/cordoba/stream/playlist.m3u8) | [web](http://www.ptvcordoba.com/) | - | - | - |
+| PTV Málaga | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) | [web](http://www.ptvmalaga.com/) | - | - | - |
+| Cancionero TV | [m3u8](http://89.140.99.41/hls/1080.m3u8) | [web](http://www.cancionero.es/tv/) | - | - | - |
 
 #### Aragón
 
