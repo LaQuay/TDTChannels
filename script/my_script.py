@@ -70,6 +70,7 @@ page = requests.get('https://raw.githubusercontent.com/LaQuay/TDTChannels/master
 content = str(page.text)
 
 spain = Country("Spain")
+international = Country("International")
 
 canales_nacionales = stringbetween(content, "### Nacionales", "### Informativos")
 spain.add_ambit(Ambito("Generalistas", get_channels_from_part(canales_nacionales)))
@@ -143,10 +144,17 @@ spain.add_ambit(Ambito("La Rioja", get_channels_from_part(canales_autonomicos_la
 canales_autonomicos_valencia = stringbetween(content, "#### Valencia", "## Internacionales")
 spain.add_ambit(Ambito("Valencia", get_channels_from_part(canales_autonomicos_valencia)))
 
+canales_internacionales = stringbetween(content, "## Internacionales", "### Andorra")
+international.add_ambit(Ambito("Internacional", get_channels_from_part(canales_internacionales)))
+
 # Save data to JSON file
 json_file = open('./public/output/channels.json', "w+")
 # TODO Anadir copyright
+json_file.write("[")
 json_file.write(json.dumps(spain.to_json()))
+json_file.write(", ")
+json_file.write(json.dumps(international.to_json()))
+json_file.write("]")
 json_file.close()
 
 # Save data to M3U8 file	
@@ -154,6 +162,7 @@ text_file = open('./public/output/channels.m3u8', "w+")
 text_file.write("#EXTM3U" + "\n")
 text_file.write("# @LaQuay https://github.com/LaQuay/TDTChannels" + "\n")
 text_file.write(spain.to_m3u8())
+text_file.write(international.to_m3u8())
 text_file.close()
 
 print("JSON + M3U8 Updated")
