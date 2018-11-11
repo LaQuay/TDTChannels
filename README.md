@@ -48,6 +48,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Nova | [m3u8 # 1](https://nova-pull1c-a3player.secure.footprint.net/nova/master.m3u8) - [m3u8 # 2](https://nova-pull1c-a3player.secure.footprint.net/geonova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/150px-Nova.svg.png) | NOVA ASTRA SD 1.sp |
 | Mega | [m3u8 # 1](https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8) - [m3u8 # 2](https://mega-pull1a-a3player.secure.footprint.net/geomega/master.m3u8) | [web](https://www.atresplayer.com/directos/mega/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/150px-MEGA.svg.png) | MEGA TDT SD 1.sp |
 | Atreseries | [m3u8 # 1](https://a3series-pull1a-a3player.secure.footprint.net/a3series/master.m3u8) - [m3u8 # 2](https://a3series-pull1a-a3player.secure.footprint.net/geoa3series/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png) | ATRESS TDT HD 1.sp |
+| Atresplayer Original | [m3u8 # 1](https://eventos15-pull1a-a3player.secure.footprint.net/a3series/master.m3u8) - [m3u8 # 2](https://eventos15-pull1a-a3player.secure.footprint.net/geoa3series/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-15/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
 | FDF | - | [web](http://www.mitele.es/directo/fdf)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/125px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png) | FDFIC ASTRA SD 1.sp |
 | Energy | - | [web](http://www.mitele.es/directo/energy) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/125px-Energy.svg.png) | ENERGY ASTRA SD 1.sp |
 | Divinity | - | [web](http://www.mitele.es/directo/divinity)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png) | DIVINI ASTRA SD 1.sp |
@@ -171,11 +172,11 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Castilla-La Mancha Media | [m3u8](http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8) | [web](http://www.cmmedia.es/en-directo/tv/) | - | [Logo](https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/73/1276787.png) | - |
-| Hellin TV | [m3u8](http://hellin.hls.flumotion.com/hellin/hellin-hls/playlist.m3u8) | [web](http://www.televisionhellin.com/tv-en-directo) | - | - | - |
-| TeleToledo | - | [web](http://www.teletoledo.tv/index.php/tv-en-directo) | - | - | - |
-| Imás TV | [m3u8](http://cls.todostreaming.eu/imastv/livestream/playlist.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | - | - | - |
-| Alcarria TV | [m3u8](http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8) | [web](http://www.alcarria.tv/htmlPlayer.html) | - | - | - |
-| Canal Diocesano Toledo | [m3u8](http://178.32.53.254/rtvd/livestream/playlist.m3u8) | [web](http://rtvd.org/) | - | - | - |
+| Hellin TV | [m3u8](http://hellin.hls.flumotion.com/hellin/hellin-hls/playlist.m3u8) | [web](http://www.televisionhellin.com/tv-en-directo) | - | [Logo](http://www.achedehellin.com/wp-content/uploads/2014/09/logo-tvhellin.jpg) | - |
+| TeleToledo | - | [web](http://www.teletoledo.tv/index.php/tv-en-directo) | - | [Logo](http://www.teletoledo.tv/templates/teletoledo/images/logo-1224170745.png) | - |
+| Imás TV | [m3u8](http://cls.todostreaming.eu/imastv/livestream/playlist.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | - | [Logo](https://i1.wp.com/televisiones.lasteles.com/wp-content/uploads/2018/05/imas-tv.jpg?fit=900%2C900) | - |
+| Alcarria TV | [m3u8](http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8) | [web](http://www.alcarria.tv/htmlPlayer.html) | - | [Logo](http://www.alcarria.tv/web/wp-content/uploads/2016/09/cropped-cropped-logonegroalcarriatv.png) | - |
+| Canal Diocesano Toledo | [m3u8](http://178.32.53.254/rtvd/livestream/playlist.m3u8) | [web](http://rtvd.org/) | - | [Logo](http://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/canal-diocesano-logo.jpg) | - |
 
 #### Castilla y León
 
@@ -309,19 +310,19 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | - | - | - | - | - | - |
 | À Punt | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cn/d77d4356674b449695b1c0f19fbd6fae_6.m3u8) | [web](https://apuntmedia.es/va/directe/tv) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/150px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png) | - |
 | La 8 Mediterraneo | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8) | [web](http://www.laocho.tv/es/directo/) | - | [Logo](http://www.laocho.tv/es/wp-content/themes/laochotv_V2.0/images/logo_TVMed_pie.png) | - |
-| 7 TeleValencia | [m3u8](http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8) | [web](http://7televalencia.com/directo-7televalencia) | - | - | - |
-| Levante TV | [m3u8](http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8) | [web](http://www.levantetv.es/default.jsp) | - | - | - |
-| TeleElx | [m3u8](http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8) | [web](http://www.teleelx.es/s5811-TELEVISION.html) | - | - | - |
-| Intercomarcal TV | - | [web](http://www.intercomarcal.com/camaraa/camaragrande.html) | - | - | - |
-| Tele Safor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](http://telesafor.com) | - | - | - |
-| Vega Baja TV | [m3u8](http://185.29.68.24/tvb.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | - | - | - |
-| Canal 56 | - | [web](http://canal56.com/online/) | - | - | - |
-| TV Castellón | - | [web](http://www.tvcs.tv/) | - | - | - |
-| TV Alcoi | - | [web](http://www.tv-a.es/tv-en-directo.php) | - | - | - |
-| Ribera TV | [m3u8](http://orion.comelson.es/ribera/livestream/playlist.m3u8) | [web](http://www.riberatelevisio.com/) | - | - | - |
-| Bous TV | - | [web](https://www.ustream.tv/embed/23358001?html5ui&autoplay=true) | - | - | - |
-| TV4 La Vall | [m3u8](http://178.32.53.254/15o8376r/mystream/playlist.m3u8) | [web](http://teve4lavall.com/) | - | - | - |
-| Información TV | - | - | - | - | - |
+| 7 TeleValencia | [m3u8](http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8) | [web](http://7televalencia.com/directo-7televalencia) | - | [Logo](https://7televalencia.com/wp-content/uploads/2017/03/Logo_A_vertical_fondo_plano-242x300.png) | - |
+| Levante TV | [m3u8](http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8) | [web](http://www.levantetv.es/default.jsp) | - | [Logo](http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg) | - |
+| TeleElx | [m3u8](http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8) | [web](http://www.teleelx.es/s5811-TELEVISION.html) | - | [Logo](http://www.teleelx.es/img/tele_elx.png) | - |
+| Intercomarcal TV | - | [web](http://www.intercomarcal.com/camaraa/camaragrande.html) | - | [Logo](http://www.intercomarcal.com/imagenes/cabecera2.gif) | - |
+| Tele Safor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](http://telesafor.com) | - | [Logo](http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png) | - |
+| TV Vega Baja | [m3u8](http://185.29.68.24/tvb.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | - | [Logo](http://programas.televisionvegabaja.es/imgs/logovodtvvb.png) | - |
+| Canal 56 | - | [web](http://canal56.com/online/) | - | [Logo](https://csolsqs.com/56/image_20170921_145620_1626.jpg) | - |
+| TV Castellón | - | [web](http://www.tvcs.tv/) | - | [Logo](https://www.tvcs.tv/wp-content/uploads/2017/05/logo6.png) | - |
+| TV Alcoi | - | [web](http://www.tv-a.es/tv-en-directo.php) | - | [Logo](http://www.tv-a.es/wp-content/uploads/2018/03/logo_TVA-01-300x231.png) | - |
+| Ribera TV | [m3u8](http://orion.comelson.es/ribera/livestream/playlist.m3u8) | [web](http://www.riberatelevisio.com/) | - | [Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9RFTwQvPYaIodCtMw8jMAJ1eGrOLm4ia0mZSong1RbJZ58jXD) | - |
+| Bous TV | - | [web](https://www.ustream.tv/embed/23358001?html5ui&autoplay=true) | - | [Logo](https://pbs.twimg.com/profile_images/468813580310028288/kBS92Vx7_400x400.png) | - |
+| teve 4 | [m3u8](http://178.32.53.254/15o8376r/mystream/playlist.m3u8) | [web](http://teve4lavall.com/) | - | [Logo](https://pbs.twimg.com/profile_images/438700741801177088/MdnaVxtC_400x400.png) | - |
+| Información TV | - | [web](http://www.informaciontv.es/) | - | [Logo](http://www.informaciontv.es/elementosWeb/version5_20090902/mediaweb/images/logoInfTV.jpg) | - |
 
 ## Internacionales
 
@@ -329,7 +330,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | - | - | - | - | - | - |
 | Antena 3 Internacional | - | - | - | [Logo](https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Antena3Internacional2017.png/revision/latest?cb=20170503222159&format=original) | - |
 | Atreseries Internacional | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png) | - |
-| Atrescine | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/150px-TV3CAT.svg.png) | - |
+| Atrescine | - | - | - | [Logo](https://www.antena3.com/newa3flash/modulos_blancos/internacional/atrescine.png) | - |
 | Cincomas | - | - | - | [Logo](https://album.mediaset.es/eimg/2017/11/03/cEWjbHKPWOGKts1T9lDeR.jpg) | - |
 | ¡Hola! TV | - | - | - | [Logo](http://capit.org.ar/new/wp-content/uploads/2015/03/HOLA-TV-PNG-LOGO.png) | - |
 | TVE Internacional | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg) | - |
