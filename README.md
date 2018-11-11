@@ -237,12 +237,12 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Galicia Europa TV | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa)| - | - | - |
-| Galicia América TV | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | - | - | - |
-| Galicia Infantil TV | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv)| - | - | - |
-| Galicia Musical TV | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal)| - | - | - |
-| Galicia Cultura TV | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura)| - | - | - |
-| Galicia Momentos G TV | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG)| - | - | - |
+| Galicia Europa TV | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
+| Galicia América TV | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
+| Galicia Infantil TV | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
+| Galicia Musical TV | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
+| Galicia Cultura TV | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
+| Galicia Momentos G TV | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
 
 #### Islas Baleares
 
@@ -291,17 +291,17 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | ETB 2 | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/150px-ETB2_Spain.svg.png) | - |
 | ETB 3 | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ETB3_Spain.svg/150px-ETB3_Spain.svg.png) | - |
 | ETB 4 | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ETB4_Spain.svg/150px-ETB4_Spain.svg.png) | - |
-| Hamaika TV | [m3u8](http://bideometa.info/h.m3u8) | [web](http://www.hamaika.eus/zuzenean)| - | - | - |
-| TeleBilbao | [m3u8](http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8) | [web](http://www.telebilbao.es/directo.html) | - | - | - |
-| TeleDonosti | [m3u8](https://bcsecurelivehls-i.akamaihd.net/hls/live/568968/85688294001/chunklist.m3u8) | [web](http://www.teledonosti.tv/directos/index.html) | - | - | - |
-| Goiena | [m3u8](http://zuzenean.goienamedia.eus:8443/telebista.m3u8) | - | - | - | - |
-| Tele 7 | - | - |  - | - | - |
+| Hamaika TV | [m3u8](http://bideometa.info/h.m3u8) | [web](http://www.hamaika.eus/zuzenean)| - | [Logo](https://hamaika.naiz.eus/media/asset_publics/resources/000/408/710/original/logoa-desktop.png?1499268755) | - |
+| TeleBilbao | [m3u8](http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8) | [web](http://www.telebilbao.es/directo.html) | - | [Logo](https://pbs.twimg.com/profile_images/2248369783/boina_400x400.png) | - |
+| TeleDonosti | [m3u8](https://bcsecurelivehls-i.akamaihd.net/hls/live/568968/85688294001/chunklist.m3u8) | [web](http://www.teledonosti.tv/directos/index.html) | - | [Logo](http://www.albaola.com/media/content/images/TD%20cmyk%202013PRINT%282%29.jpg) | - |
+| Goiena | [m3u8](http://zuzenean.goienamedia.eus:8443/telebista.m3u8) | - | - | [Logo](https://goiena.eus/static/img/logoa.png) | - |
+| Tele 7 | - | [web](http://www.tele7.tv/index.php/27-estaticos/9686-aaa) | - | [Logo](https://yt3.ggpht.com/a-/AN66SAxrduJpKfNWcoaf6-prJr4pi9bp3-UCAaTEMg=s900-mo-c-c0xffffffff-rj-k-no) | - |
 
 #### La Rioja
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| TV Rioja | - | [web](http://www.tvr.es/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_Rioja_Televisi%C3%B3n_S.A..png) | - |
+| TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/chunklist_w590747336.m3u8) | [web](http://www.tvr.es/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_Rioja_Televisi%C3%B3n_S.A..png) | - |
 
 #### Valencia
 
