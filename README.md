@@ -3,7 +3,7 @@
 Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
 ### Listado en formato M3U8 y JSON
-*(Última actualización: 27/10/2018)*
+*(Última actualización: 05/11/2018)*
 
 [Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
@@ -44,11 +44,15 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Cuatro | - | [web](http://www.mitele.es/directo/cuatro) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/250px-Cuatro.svg.png) | C4 ASTRA HD 1.sp |
 | Telecinco | - | [web](http://www.mitele.es/directo/telecinco) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/125px-Telecinco.svg.png) | T5 ASTRA HD 1.sp |
 | laSexta | [m3u8 # 1](https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8) - [m3u8 # 2](https://lasexta-pull2c-a3player.secure.footprint.net/geolasexta/master.m3u8) | [web](https://www.atresplayer.com/directos/lasexta/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/75px-La_Sexta_%28A3M%29.svg.png) | SEXTA ASTRA HD 1.sp |
-| Neox | [m3u8 # 1](https://livepull1.secure.footprint.net/neoxmpp/master.m3u8) - [m3u8 # 2](https://livepull1.secure.footprint.net/geoneoxmpp/master.m3u8) | [web](https://www.atresplayer.com/directos/neox/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/150px-Neox.svg.png) | NEOX ASTRA SD 1.sp |
+| Neox | [m3u8 # 1](https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8) - [m3u8 # 2](https://neox-pull1b-a3player.secure.footprint.net/geoneox/master.m3u8) | [web](https://www.atresplayer.com/directos/neox/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/150px-Neox.svg.png) | NEOX ASTRA SD 1.sp |
 | Nova | [m3u8 # 1](https://nova-pull1c-a3player.secure.footprint.net/nova/master.m3u8) - [m3u8 # 2](https://nova-pull1c-a3player.secure.footprint.net/geonova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/150px-Nova.svg.png) | NOVA ASTRA SD 1.sp |
+
 | Mega | [m3u8 # 1](https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8) - [m3u8 # 2](https://mega-pull1a-a3player.secure.footprint.net/geomega/master.m3u8) | [web](https://www.atresplayer.com/directos/mega/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/150px-MEGA.svg.png) | MEGA TDT SD 1.sp |
 | Atreseries | [m3u8 # 1](https://a3series-pull1a-a3player.secure.footprint.net/a3series/master.m3u8) - [m3u8 # 2](https://a3series-pull1a-a3player.secure.footprint.net/geoa3series/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png) | ATRESS TDT HD 1.sp |
 | Atresplayer Original | [m3u8 # 1.1](https://eventos15-pull1a-a3player.secure.footprint.net/eventos15/master.m3u8) - [m3u8 # 1.2](https://eventos15-pull1a-a3player.secure.footprint.net/geoeventos15/master.m3u8) - [m3u8 # 2.1](https://eventos37-pull1a-a3player.secure.footprint.net/eventos37/master.m3u8) - [m3u8 # 2.2](https://eventos37-pull1a-a3player.secure.footprint.net/geoeventos37/master.m3u8) | [web # 1](https://www.atresplayer.com/directos/eventos-15/) - [web # 2](https://www.atresplayer.com/directos/eventos-37/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
+
+
+
 | FDF | - | [web](http://www.mitele.es/directo/fdf)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/125px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png) | FDFIC ASTRA SD 1.sp |
 | Energy | - | [web](http://www.mitele.es/directo/energy) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/125px-Energy.svg.png) | ENERGY ASTRA SD 1.sp |
 | Divinity | - | [web](http://www.mitele.es/directo/divinity)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png) | DIVINI ASTRA SD 1.sp |
