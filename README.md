@@ -157,8 +157,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Mírame TV | - | [web](https://mirametv.com/) | - | [Logo](https://www.mirametv.com/images/wSystem/logo.png) | - |
 | El Día TV | [m3u8](http://vs8.live.opencaster.com/opencaster/zmyrfjHztaoj/playlist.m3u8) | [web](http://eldia.tv/) | - | [Logo](http://eldia.tv/blog/wp-content/uploads/2016/06/eldiatv.png) | - |
 | Lancelot TV | [m3u8](http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8) | [web](http://www.lancelot.tv/directo)| - | [Logo](http://www.lancelot.tv/images/logo.svg) | - |
-| Canal 4 Tenerife | - | [web](http://www.ustream.tv/embed/22748750?html5ui&autoplay=true) | - | [Logo](http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png) | - |
-| Tindaya TV | - | - | - | [Logo](https://3.bp.blogspot.com/-Rq81jbqjWb4/WXifCezpqoI/AAAAAAAAwxc/RycTr3iKG50UqHjLXy1JzlZwLUikE1KQgCLcBGAs/s640/tindaya-tv-.png) | - |
+| Canal 4 Tenerife | [m3u8](https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w588840931.m3u8) | [web](http://www.canal4tenerife.tv/) | - | [Logo](http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png) | - |
+| Tindaya TV | [m3u8](https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live.smil/chunklist_w365927815_b1000000.m3u8) | [web](https://www.tindayatv.com/) | - | [Logo](https://3.bp.blogspot.com/-Rq81jbqjWb4/WXifCezpqoI/AAAAAAAAwxc/RycTr3iKG50UqHjLXy1JzlZwLUikE1KQgCLcBGAs/s640/tindaya-tv-.png) | - |
 
 #### Cantabria
 
@@ -206,7 +206,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | BDN | [m3u8](http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8) | [web](http://player.cdnmedia.tv/embed/6f1c739f) | - | [Logo](https://bdncom.cat/img/logoTeleb.png) | - |
 | etv | [m3u8](http://live10.cdnmedia.tv/etvlive/live.smil/playlist.m3u8) | [web](http://www.etv.cat/en-directe) | - | [Logo](http://www.etv.cat/images/Logos/logo.png) | - |
 | Mataró TV | [m3u8](http://live10.cdnmedia.tv/m1tvlive/live.smil/playlist.m3u8) | [web](http://mataroaudiovisual.alacarta.cat/directe) | - | [Logo](http://mataroaudiovisual.cat/sites/all/themes/mataroaudiovisual07/images/icon-tv.png) | - |
-| Mola TV | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | - | - | [Logo](https://www.colectivosvip.com/public/colectivos/390/logo.png) | - |
+| Mola TV | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | [web](http://www.molatv.cat/) | - | [Logo](https://www.colectivosvip.com/public/colectivos/390/logo.png) | - |
 | Lleida TV | [m3u8](http://live10.cdnmedia.tv/lleidatvlive/live.smil/playlist.m3u8) | [web](https://www.segre.com/suplements/lleida_tv/portada/streaming.html)| - | [Logo](http://lleidatv.alacarta.cat/assets/getFile/public/media/000/405/260/lltv_150x54_logo_cap_general_blanc_ok.png) | - |
 | Vallès Visió | - | [web](http://www.vallesvisio.cat/directe/) | - | [Logo](http://www.vallesvisio.cat/wp-content/uploads/2018/02/cropped-header_1-2.png) | - |
 | Girona TV | [m3u8](http://ventdelnord.tv:8080/girona/directe.m3u8) | [web](http://tvgirona.xiptv.cat/tvendirecte) | - | [Logo](http://www.festivalcoordenades.com/wp-content/uploads/2018/05/tvgirona.jpg) | - |
