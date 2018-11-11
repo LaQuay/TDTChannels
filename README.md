@@ -117,21 +117,20 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Lebrija TV | - | [web](http://www.lebrija.tv/directo/) | - | [Logo](http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png) | - |
 | Onda Algeciras TV | [m3u8](http://cls.provideo.es/algecirastv/livestream/playlist.m3u8) | [web](http://ondaalgecirastv.com/en-directo/) | - | [Logo](http://ondaalgecirastv.com/wp-content/uploads/2015/11/header-ok.png) | - |
 | Teleonuba | [m3u8](http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8) | [web](http://www.teleonuba.es/en-directo/)| - | [Logo](http://www.teleonuba.es/imagenes/logo_teleonuba_fb.png) | - |
-| CanalCosta | - | [web](http://www.canalcostatv.es/en-directo/)| - | - | - |
-| El Correo de Andalucía TV | [m3u8](http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8) | [web](http://elcorreoweb.es/elcorreotv) | - | - | - |
-| InterAlmería | - | [web](http://www.interalmeria.tv/directo.php) | - | - | - |
-| Marbella RTV | [m3u8](http://cls.todostreaming.eu/marbellatv/saldubatv/playlist.m3u8) | [web](http://rtvmarbella.tv/tv-en-directo/) | - | - | - |
-| Onda Azul Málaga RTV | [m3u8](http://canalmalaga-tv-live.flumotion.com/chunks.m3u8) | [web](http://www.ondaazulmalaga.es/directo)| - | - | - |
-| Ondaluz TV | [m3u8](http://cls.elitehd-audiovisuales.com/ondaluz/olandalucia/playlist.m3u8) | [web](http://ondaluz.tv/sevilla/)| - | - | - |
-| OndaJaen RTV | - | [web](http://ondajaen.es/web/directo/) | - | - | - |
-| Estepona TV | [m3u8](http://62.210.96.18:1935/esteponatv/esteponatv/playlist.m3u8) | - | - | - | - |
-| Costa del Sol TV | [m3u8](http://cls.todostreaming.eu/benalmadena/webtv/playlist.m3u8) | [web](http://www.costadelsoltv.com/) | - | - | - |
-| Fuengirola TV | - | [web](https://fuengirolatv.com/streaming/)| - | - | - |
-| Málaga TV | [m3u8](http://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | - | - | - |
-| Mijas TV | [m3u8](http://mijas.hls.flumotion.com/mijas/live-hls/master.m3u8) | [web](http://www.mijascomunicacion.org/)| - | - | - |
-| PTV Córdoba | [m3u8](http://149.91.98.146:1935/cordoba/stream/playlist.m3u8) | [web](http://www.ptvcordoba.com/) | - | - | - |
-| PTV Málaga | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) | [web](http://www.ptvmalaga.com/) | - | - | - |
-| Cancionero TV | [m3u8](http://89.140.99.41/hls/1080.m3u8) | [web](http://www.cancionero.es/tv/) | - | - | - |
+| CanalCosta | - | [web](http://www.canalcostatv.es/en-directo/)| - | [Logo](http://www.canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png) | - |
+| El Correo de Andalucía | [m3u8](http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8) | [web](http://elcorreoweb.es/elcorreotv) | - | [Logo](http://chabogados.es/wp-content/uploads/2018/06/elcorreo.png) | - |
+| InterAlmería | - | [web](http://www.interalmeria.tv/directo.php) | - | [Logo](http://www.interalmeria.tv/wp-content/uploads/2018/07/logo-iatv-reduc.png) | - |
+| Marbella RTV | [m3u8](http://cls.todostreaming.eu/marbellatv/saldubatv/playlist.m3u8) | [web](http://rtvmarbella.tv/tv-en-directo/) | - | [Logo](http://rtvmarbella.tv/wp-content/themes/rtvmarbella/images/logos/class-turquesa.png) | - |
+| 7TV Andalucía | [m3u8](http://cls.elitehd-audiovisuales.com/ondaluz/olandalucia/playlist.m3u8) | [web](http://ondaluz.tv/sevilla/)| - | - | - |
+| OndaJaen RTV | - | [web](http://ondajaen.es/web/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Primer_logo_de_OndaJaen_RTV_-_Ayuntamiento_de_Ja%C3%A9n.jpg/245px-Primer_logo_de_OndaJaen_RTV_-_Ayuntamiento_de_Ja%C3%A9n.jpg) | - |
+| Estepona TV | [m3u8](http://62.210.96.18:1935/esteponatv/esteponatv/playlist.m3u8) | - | - | [Logo](https://yt3.ggpht.com/a-/AN66SAwXl_CQ8JsIUSjrRRajsFvA_OYmS08KDFL1Pg=s900-mo-c-c0xffffffff-rj-k-no) | - |
+| Costa del Sol TV | [m3u8](http://cls.todostreaming.eu/benalmadena/webtv/playlist.m3u8) | [web](http://www.costadelsoltv.es/) | - | [Logo](https://cdn.website-editor.net/d2e7459992224e37a04ff15bdef73d23/dms3rep/multi/desktop/logo+2018+tdt.jpg) | - |
+| Fuengirola TV | - | [web](https://fuengirolatv.com/streaming/)| - | [Logo](https://s3-eu-west-1.amazonaws.com/fuengirola-tv2/fuengirolatv-env.iksahgktq6.eu-west-1.elasticbeanstalk.com/wp-content/uploads/2017/11/13000306/logo-fuengirola-tvnew-300x74.png) | - |
+| Canal Málaga | [m3u8](http://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | - | [Logo](http://www.canalmalaga.es/wp-content/uploads/2018/01/Logo_CanalM%C3%A1laga.png) | - |
+| Mijas Comunicación | [m3u8](http://mijas.hls.flumotion.com/mijas/live-hls/master.m3u8) | [web](http://www.mijascomunicacion.org/)| - | [Logo](https://yt3.ggpht.com/a-/AN66SAyGloYP6DMAzFF_C-3_lqrp9SoE13P0TfzjnQ=s900-mo-c-c0xffffffff-rj-k-no) | - |
+| PTV Córdoba | [m3u8](http://149.91.98.146:1935/cordoba/stream/playlist.m3u8) | [web](http://www.ptvcordoba.com/) | - | [Logo](http://www.ptvcordoba.com/logo.png) | - |
+| PTV Málaga | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) | [web](http://www.ptvmalaga.com/) | - | [Logo](http://www.ptvmalaga.com/logomalaga.png) | - |
+| Cancionero TV | [m3u8](http://89.140.99.41/hls/1080.m3u8) | [web](http://www.cancionero.es/tv/) | - | [Logo](https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png) | - |
 
 #### Aragón
 
@@ -204,21 +203,21 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | betevé càmera del temps | - | [web1](https://beteve.cat/temps-barcelona/) [web2](https://cdnapisec.kaltura.com/html5/html5lib/v2.72/mwEmbedFrame.php/p/2346171/uiconf_id/42816492/entry_id/1_2jb8lihv?wid=_2346171&iframeembed=true&playerId=kaltura_player_1528719911&entry_id=1_2jb8lihv&flashvars) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
 | 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) | [web](http://www.8tv.cat/directe/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/0/03/8tv.png) | - |
 | El Punt Avui TV | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) | [web](http://www.elpuntavui.tv/directe.html) | - | [Logo](https://www.elpuntavui.tv/templates/tv2014/images/logotip-el-punt-avui-tv.png) | - |
-| teleb | [m3u8](http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8) | [web](http://player.cdnmedia.tv/embed/6f1c739f) | - | - | - |
-| etv | [m3u8](http://live10.cdnmedia.tv/etvlive/live.smil/playlist.m3u8) | [web](http://www.etv.cat/en-directe) | - | - | - |
-| Mataró TV | [m3u8](http://live10.cdnmedia.tv/m1tvlive/live.smil/playlist.m3u8) | [web](http://m1tv.xiptv.cat/ma-en-directe) | - | - | - |
-| Mola TV | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | - | - | - | - |
-| Lleida TV | [m3u8](http://live10.cdnmedia.tv/lleidatvlive/live.smil/playlist.m3u8) | [web](https://www.segre.com/suplements/lleida_tv/portada/streaming.html)| - | - | - |
-| Vallès Visió | - | [web](http://www.vallesvisio.cat/directe/) | - | - | - |
-| Televisió de Girona | [m3u8](http://ventdelnord.tv:8080/girona/directe.m3u8) | [web](http://tvgirona.xiptv.cat/tvendirecte) | - | - | - |
-| El Vendrell RTV | - | [web](http://www.ustream.tv/embed/13291828?html5ui=1&autoplay=true) | - | - | - |
-| votv | [m3u8](http://live10.cdnmedia.tv/votvlive/live.smil/playlist.m3u8) | [web](http://votv.xiptv.cat/votv-en-directe) | - | - | - |
-| El 9 TV | [m3u8](http://live10.cdnmedia.tv/9tvlive/live.smil/playlist.m3u8) | [web](http://el9nou.cat/el9tv/) | - | - | - |
-| canalterrassa | [m3u8](http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8) | [web](http://www.movipbox.com/streamplayer/terrassa/index.php)| - | - | - |
-| 25 TV | [m3u8](http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8) | [web](http://www.25televisio.com/streaming.php) | - | - | - |
-| Canal Blau | [m3u8](http://live10.cdnmedia.tv/blautvlive/live.smil/playlist.m3u8) | [web](http://www.canalblau.cat/televisio/televisio-en-directe/)| - | - | - |
-| Mar TV | [m3u8](http://k4.usastreams.com/CableLatino/martv/playlist.m3u8) | [web](http://martv.tv/emissio-en-directe/)| - | - | - |
-| TAC 12 | [m3u8](http://vid=live10.cdnmedia.tv/tac12live/live.smil/playlist.m3u8) | [web](http://www.tac12.tv/en-directe) | - | - | - |
+| BDN | [m3u8](http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8) | [web](http://player.cdnmedia.tv/embed/6f1c739f) | - | [Logo](https://bdncom.cat/img/logoTeleb.png) | - |
+| etv | [m3u8](http://live10.cdnmedia.tv/etvlive/live.smil/playlist.m3u8) | [web](http://www.etv.cat/en-directe) | - | [Logo](http://www.etv.cat/images/Logos/logo.png) | - |
+| Mataró TV | [m3u8](http://live10.cdnmedia.tv/m1tvlive/live.smil/playlist.m3u8) | [web](http://mataroaudiovisual.alacarta.cat/directe) | - | [Logo](http://mataroaudiovisual.cat/sites/all/themes/mataroaudiovisual07/images/icon-tv.png) | - |
+| Mola TV | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | - | - | [Logo](https://www.colectivosvip.com/public/colectivos/390/logo.png) | - |
+| Lleida TV | [m3u8](http://live10.cdnmedia.tv/lleidatvlive/live.smil/playlist.m3u8) | [web](https://www.segre.com/suplements/lleida_tv/portada/streaming.html)| - | [Logo](http://lleidatv.alacarta.cat/assets/getFile/public/media/000/405/260/lltv_150x54_logo_cap_general_blanc_ok.png) | - |
+| Vallès Visió | - | [web](http://www.vallesvisio.cat/directe/) | - | [Logo](http://www.vallesvisio.cat/wp-content/uploads/2018/02/cropped-header_1-2.png) | - |
+| Girona TV | [m3u8](http://ventdelnord.tv:8080/girona/directe.m3u8) | [web](http://tvgirona.xiptv.cat/tvendirecte) | - | [Logo](http://www.festivalcoordenades.com/wp-content/uploads/2018/05/tvgirona.jpg) | - |
+| El Vendrell RTV | - | [web](http://www.rtvelvendrell.cat/) | - | [Logo](http://comunicacio21.cat/images/comunicacio21/historic/TV-Vendrell.gif) | - |
+| votv | [m3u8](http://live10.cdnmedia.tv/votvlive/live.smil/playlist.m3u8) | [web](http://votv.xiptv.cat/votv-en-directe) | - | [Logo](http://votv.alacarta.cat/assets/getFile/public/media/000/210/464/logo-votv_2014.png) | - |
+| El 9 TV | [m3u8](http://live10.cdnmedia.tv/9tvlive/live.smil/playlist.m3u8) | [web](http://el9nou.cat/el9tv/) | - | [Logo](http://el9nou.cat/wp-content/themes/el9nou/img/el9tv.svg) | - |
+| canalterrassa | [m3u8](http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8) | [web](http://www.movipbox.com/streamplayer/terrassa/index.php)| - | [Logo](https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/canal-terrasa.png?fit=600%2C360) | - |
+| 25 TV | [m3u8](http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8) | [web](http://www.25televisio.com/streaming.php) | - | [Logo](http://www.xal.cat/media/entity/logo/43420/logotipo.jpg?1300360827) | - |
+| Canal Blau | [m3u8](http://live10.cdnmedia.tv/blautvlive/live.smil/playlist.m3u8) | [web](http://www.canalblau.cat/televisio/televisio-en-directe/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/f/f8/Canalblau_logo.png) | - |
+| Mar TV | [m3u8](http://k4.usastreams.com/CableLatino/martv/playlist.m3u8) | [web](http://martv.tv/emissio-en-directe/)| - | [Logo](http://martv.tv/wp-content/uploads/2017/10/Logo-martv.png) | - |
+| TAC 12 | [m3u8](http://vid=live10.cdnmedia.tv/tac12live/live.smil/playlist.m3u8) | [web](http://www.tac12.tv/en-directe) | - | [Logo](https://www.tac12.tv/templates/rt_ambrosia/custom/images/TAC12_tv_main-250px.png) | - |
 | Canal Parlament | [m3u8](https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/chunklist.m3u8) | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) | - | [Logo](https://upload.wikimedia.org/wikipedia/ca/thumb/e/e4/Logotip_Parlament_de_Catalunya.svg/1280px-Logotip_Parlament_de_Catalunya.svg.png) | - |
 
 #### Ceuta
