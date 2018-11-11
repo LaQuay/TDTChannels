@@ -204,7 +204,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Guada TV | - | [web](https://www.youtube.com/watch?v=6tWcUM-Zqm8) | - | [Logo](http://www.guadatv.tv/web/images/logo.gif) | - |
 | Ciudad Real TV | - | [web](http://www.ustream.tv/channel/17022458) | - | [Logo](http://static-cdn1.ustream.tv/i/channel/picture/1/7/0/2/17022458/17022458,192x192,r:3.jpg) | - |
 | Visión 6 | [m3u8](https://secure.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | - | [Logo](http://www.visionseis.tv/wp-content/uploads/2016/05/logo-visionseis.png) | - |
-| Pride Channel | - | - | - | - | - |
+| Pride Channel | [m3u8](http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8) | [web](http://www.pridechanneltv.com/tv-en-directo.html) | - | [Logo](http://www.pridechanneltv.com/images/Pride-Channel-TV-Logo.png) | - |
 | Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/chunklist_w1473274516.m3u8) | [web](http://villarrobledo.com/canal4.php) | - | [Logo](http://bitllarrobledo.com/wp-content/uploads/2015/12/canal4.jpg) | - |
 | InfoCanal TV Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | - | [Logo](https://almatelecom.es/wp-content/uploads/2017/10/logo-infocanal1.png) | - |
 
@@ -235,7 +235,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | betevé | - | [web](https://beteve.cat/en-directe/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
 | betevé web | - | [web](https://beteve.cat/en-directe/web/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
 | betevé xarxes | - | [web](https://beteve.cat/en-directe/xarxes/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
-| betevé càmera del temps | - | [web1](https://beteve.cat/temps-barcelona/) [web2](https://cdnapisec.kaltura.com/html5/html5lib/v2.72/mwEmbedFrame.php/p/2346171/uiconf_id/42816492/entry_id/1_2jb8lihv?wid=_2346171&iframeembed=true&playerId=kaltura_player_1528719911&entry_id=1_2jb8lihv&flashvars) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
+| betevé càmera del temps | - | [web #1](https://beteve.cat/temps-barcelona/) - [web #2](https://cdnapisec.kaltura.com/html5/html5lib/v2.72/mwEmbedFrame.php/p/2346171/uiconf_id/42816492/entry_id/1_2jb8lihv?wid=_2346171&iframeembed=true&playerId=kaltura_player_1528719911&entry_id=1_2jb8lihv&flashvars) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
 | 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) | [web](http://www.8tv.cat/directe/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/0/03/8tv.png) | - |
 | El Punt Avui TV | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) | [web](http://www.elpuntavui.tv/directe.html) | - | [Logo](https://www.elpuntavui.tv/templates/tv2014/images/logotip-el-punt-avui-tv.png) | - |
 | BDN | [m3u8](http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8) | [web](http://player.cdnmedia.tv/embed/6f1c739f) | - | [Logo](https://bdncom.cat/img/logoTeleb.png) | - |
