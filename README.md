@@ -3,7 +3,7 @@
 Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
 ### Listado en formato M3U8 y JSON
-*(Última actualización: 05/11/2018)*
+*(Última actualización: 13/11/2018)*
 
 [Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
