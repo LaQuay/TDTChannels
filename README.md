@@ -159,9 +159,9 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| A7 | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) | [web](http://www.rtpa.es/television) | - | [Logo](https://static.programacion-tdt.com/imgAPP/TPA_a7.min.png) | - |
-| A8 | - | - | - | [Logo](http://www.rtpa.es/v3_assets/a8.png) | - |
-| A9 | - | - | - | [Logo](https://www.formulatv.com/images/noticias/17100/17142/1.jpg) | - |
+| TPA7 | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) | [web](http://www.rtpa.es/television) | - | [Logo](https://static.programacion-tdt.com/imgAPP/TPA_a7.min.png) | - |
+| TPA8 | - | - | - | [Logo](http://www.rtpa.es/v3_assets/a8.png) | - |
+| TPA9 | - | - | - | [Logo](https://www.formulatv.com/images/noticias/17100/17142/1.jpg) | - |
 | TeleAsturias | - | [web](http://tvonline.teleasturias.com/) | - | [Logo](https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Teleasturias.png?fit=400%2C260) | - |
 | EsAsturiasTV | - | [web](https://mips.tv/esAsturiasTelevision) | - | [Logo](http://www.esasturias.tv/wp-content/uploads/2015/10/200x2001.png) | - |
 | Canal 10 | - | [web](http://www.canal10tv.com/) | - | [Logo](https://generacionalsa.files.wordpress.com/2008/08/logopequeno.gif) | - |
