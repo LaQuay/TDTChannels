@@ -38,7 +38,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| La 1 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8) | [web](http://www.rtve.es/directo/la-1/)| - | [Logo](https://vignette.wikia.nocookie.net/telenovelas/images/7/7f/Logtve1.png/revision/latest?cb=20160726160024&path-prefix=es) | TVE ASTRA HD 1.sp |
+| La 1 | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8) | [web](http://www.rtve.es/directo/la-1/)| - | [Logo](https://vignette.wikia.nocookie.net/telenovelas/images/7/7f/Logtve1.png/revision/latest?cb=20160726160024&path-prefix=es) | TVE ASTRA HD 1.sp |
 | La 1 HD | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583046/index_1500_av-p.m3u8) | [web](http://www.rtve.es/directo/la-1/hd)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png) | TVE ASTRA HD 1.sp |
 | La 2 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8) | [web](http://www.rtve.es/directo/la-2/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/150px-Logo_TVE-2.svg.png) | LA2 ASTRA SD 1.sp |
 | Antena 3 | [m3u8 # 1](https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8) - [m3u8 # 2](https://antena3-pull2b-a3player.secure.footprint.net/geoantena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png) | A3 ASTRA HD 1.sp |
@@ -71,7 +71,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| 24h | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/master.m3u8) | [web](http://www.rtve.es/directo/canal-24h/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/150px-Logo_TVE-24h.svg.png) | 24H ASTRA SD 1.sp |
+| 24h | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/index_1500_av-p.m3u8?sd=10&rebase=on) | [web](http://www.rtve.es/directo/canal-24h/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/150px-Logo_TVE-24h.svg.png) | 24H ASTRA SD 1.sp |
 | Canal Parlamento | [m3u8](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8) | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) | - | [Logo](http://www.congreso.es/wc/htdocs/web/img/canal_parlamento.gif) | - |
 | EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)| - | - | [Logo](https://pbs.twimg.com/profile_images/876740155473788928/4V7ewUTC_400x400.jpg) | - |
 
@@ -79,8 +79,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| TDP | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdp_onlydash_lv3_aosv4_gl1/tdp_onlydash_lv3_aosv4_gl1.isml/master.m3u8) | [web](http://www.rtve.es/directo/teledeporte/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/150px-Tve_teledeporte.png) | TDEP ASTRA SD 1.sp |
-| TDP HD | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/8/86/Tdp_HD.png) | TDEP ASTRA SD 1.sp |
+| TDP | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39733/index_1500_av-p.m3u8) | [web](http://www.rtve.es/directo/teledeporte/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/150px-Tve_teledeporte.png) | TDEP ASTRA SD 1.sp |
+| TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/index_1500_av-p.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/8/86/Tdp_HD.png) | TDEP ASTRA SD 1.sp |
 | Gol TV | - | [web](http://www.goltelevision.com/live) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/150px-Gol.svg.png) | GOL TDT SD 2.sp |
 | RealMadrid TV | [m3u8 # Español](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | - | [Logo](https://vignette.wikia.nocookie.net/realmadrid/images/a/a2/Escudo.png/revision/latest?cb=20071129200831) | REALM ASTRA SD 1.sp |
 | Barça TV | - | - | - | [Logo](http://mediapunta.net/wp-content/uploads/2018/05/logo-barca-tv.png) | BARNA ASTRA SD 1.sp |
@@ -357,7 +357,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Super3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/super3/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png) | - |
 | 324 Exclusiu | [m3u8](https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:oca2_web/chunklist_b1296000.m3u8) | [web](http://www.ccma.cat/tv3/directe/ple-parlament-de-catalunya/oca2/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/150px-324_%28CCMA%29_logo.svg.png) | - |
 | TV3 Càmeres | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/playlist.m3u8) | [web](http://www.ccma.cat/el-temps/cameres/) |  - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/150px-TV3.svg.png) | - |
-| La 1 Catalunya | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | - | [Logo](https://vignette.wikia.nocookie.net/telenovelas/images/7/7f/Logtve1.png/revision/latest?cb=20160726160024&path-prefix=es) | - |
+| La 1 Catalunya | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/index_1500_av-b.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | - | [Logo](https://vignette.wikia.nocookie.net/telenovelas/images/7/7f/Logtve1.png/revision/latest?cb=20160726160024&path-prefix=es) | - |
 | La 2 Catalunya | - | [web](http://www.rtve.es/television/catalunya/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/150px-Logo_TVE-2.svg.png) | - |
 | betevé | - | [web](https://beteve.cat/en-directe/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
 | betevé web | - | [web](https://beteve.cat/en-directe/web/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
