@@ -3,7 +3,7 @@
 Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
 ### Listado en formato M3U8 y JSON
-*(Última actualización: 13/11/2018)*
+*(Última actualización: 24/11/2018)*
 
 [Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
@@ -48,7 +48,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Neox | [m3u8 # 1](https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8) - [m3u8 # 2](https://neox-pull1b-a3player.secure.footprint.net/geoneox/master.m3u8) | [web](https://www.atresplayer.com/directos/neox/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/150px-Neox.svg.png) | NEOX ASTRA SD 1.sp |
 | Nova | [m3u8 # 1](https://nova-pull1c-a3player.secure.footprint.net/nova/master.m3u8) - [m3u8 # 2](https://nova-pull1c-a3player.secure.footprint.net/geonova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/150px-Nova.svg.png) | NOVA ASTRA SD 1.sp |
 | Mega | [m3u8 # 1](https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8) - [m3u8 # 2](https://mega-pull1a-a3player.secure.footprint.net/geomega/master.m3u8) | [web](https://www.atresplayer.com/directos/mega/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/150px-MEGA.svg.png) | MEGA TDT SD 1.sp |
-| Atreseries | [m3u8 # 1](https://a3series-pull1a-a3player.secure.footprint.net/a3series/master.m3u8) - [m3u8 # 2](https://a3series-pull1a-a3player.secure.footprint.net/geoa3series/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png) | ATRESS TDT HD 1.sp |
+| Atreseries | [m3u8 # 1](https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8) - [m3u8 # 2](https://a3series-pull2a-a3player.secure.footprint.net/geoa3series/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png) | ATRESS TDT HD 1.sp |
 | Atresplayer Original (15) | [m3u8 # 1](https://eventos15-pull1a-a3player.secure.footprint.net/eventos15/master.m3u8) - [m3u8 # 2](https://eventos15-pull1a-a3player.secure.footprint.net/geoeventos15/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-15/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
 | Atresplayer Original (37) | [m3u8 # 1](https://eventos37-pull1a-a3player.secure.footprint.net/eventos37/master.m3u8) - [m3u8 # 2](https://eventos37-pull1a-a3player.secure.footprint.net/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
 | Atresplayer eSports | [m3u8 # 1](https://esports-pull1a-a3player.secure.footprint.net/esports/master.m3u8) - [m3u8 # 2](https://esports-pull1a-a3player.secure.footprint.net/geoesports/master.m3u8) | [web](https://www.atresplayer.com/directos/esports/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
@@ -624,6 +624,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | France 24 | [m3u8 # English](http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png) | - |
 | CBS News | [m3u8](http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/2000px-CBS_News.svg.png) | - |
 | CNN | - | [web # Español](https://www.youtube.com/watch?v=OSVmblr0tP0) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg) | - |
+| Bloomberg Europe| [m3u8 # English](https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8) | [web](https://www.bloomberg.com/live/europe) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png) | - |
 | RT | - | [youtube # Español](https://www.youtube.com/watch?v=mV8jp1N2fSw) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png) | - |
 | DW | [m3u8 # Español](http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) | - |  - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png) | - |
 | CGTV | [m3u8 # Español](https://livees.cgtn.com/1000e/prog_index.m3u8) | - | - | [Logo](http://ik.imagekit.io/ulangotv/image/upload/3782973_logo_cgtn.png) | - |
@@ -631,6 +632,16 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png) | - |
 | NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8)| - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png) | - |
 | Animal Planet Live | - | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) | - | [Logo](https://upload.wikimedia.org/wikipedia/en/e/e3/Animal_Planet_2018.svg) | - |
+| XITE | [m3u8](http://highvolume03.streampartner.nl/vleugels_hd6/livestream/master.m3u8) | [web](https://xite.nl/live) | - | [Logo](https://xite.nl/img/xite_logo.png) | - |
+| M2O | [m3u8](http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | - | [Logo](https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o.png) | - |
+| DJing - Live | [m3u8](https://www.djing.com/tv/live.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
+| DJing - Karaoke | [m3u8](https://www.djing.com/tv/karaoke.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
+| DJing - Hits | [m3u8](https://www.djing.com/tv/hits.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
+| DJing - Dancefloor | [m3u8](https://www.djing.com/tv/dancefloor.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
+| DJing - Underground | [m3u8](https://www.djing.com/tv/underground.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
+| DJing - Electro Rock | [m3u8](https://www.djing.com/tv/session_electro-rock.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
+| DJing - Animation | [m3u8](https://www.djing.com/tv/animation.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
+| DJing - Underground | [m3u8](https://www.djing.com/tv/underground.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
 
 ### Andorra
 

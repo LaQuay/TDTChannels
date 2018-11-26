@@ -99,10 +99,10 @@ spain.add_ambit(Ambito("Asturias", get_channels_from_part(canales_autonomicos_as
 canales_autonomicos_canarias = stringbetween(content, "#### Canarias", "#### Cantabria")
 spain.add_ambit(Ambito("Canarias", get_channels_from_part(canales_autonomicos_canarias)))
 
-canales_autonomicos_cantabria = stringbetween(content, "#### Cantabria", "#### Castilla la Mancha")
+canales_autonomicos_cantabria = stringbetween(content, "#### Cantabria", "#### Castilla La-Mancha")
 spain.add_ambit(Ambito("Cantabria", get_channels_from_part(canales_autonomicos_cantabria)))
 
-canales_autonomicos_castilla_mancha = stringbetween(content, "#### Castilla la Mancha", "#### Castilla y León")
+canales_autonomicos_castilla_mancha = stringbetween(content, "#### Castilla La-Mancha", "#### Castilla y León")
 spain.add_ambit(Ambito("Castilla la Mancha", get_channels_from_part(canales_autonomicos_castilla_mancha)))
 
 canales_autonomicos_castilla_leon = stringbetween(content, "#### Castilla y León", "#### Catalunya")
