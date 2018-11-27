@@ -356,7 +356,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | 33 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/33/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/150px-33_%28CCMA%29.svg.png) | - |
 | Esport 3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/esport3)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/150px-Esport3.svg.png) | - |
 | Super3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/super3/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png) | - |
-| 324 Exclusiu | [m3u8](https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:oca2_web/chunklist_b1296000.m3u8) | [web](http://www.ccma.cat/tv3/directe/ple-parlament-de-catalunya/oca2/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/150px-324_%28CCMA%29_logo.svg.png) | - |
+| Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master.m3u8) | [web](https://www.ccma.cat/bondiatv/) | - | [Logo](https://statics.ccma.cat/img/logos/logo_bondiaTV.svg) | - |
+| 324 Exclusiu | [m3u8](https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:oca2_web/master.m3u8) | [web](http://www.ccma.cat/tv3/directe/ple-parlament-de-catalunya/oca2/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/150px-324_%28CCMA%29_logo.svg.png) | - |
 | TV3 Càmeres | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/playlist.m3u8) | [web](http://www.ccma.cat/el-temps/cameres/) |  - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/150px-TV3.svg.png) | - |
 | La 1 Catalunya | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | - | [Logo](https://vignette.wikia.nocookie.net/telenovelas/images/7/7f/Logtve1.png/revision/latest?cb=20160726160024&path-prefix=es) | - |
 | La 2 Catalunya | - | [web](http://www.rtve.es/television/catalunya/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/150px-Logo_TVE-2.svg.png) | - |
@@ -476,7 +477,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| IB3 TV | [m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8) | [web](http://ib3tv.com/directe) | - | [Logo](https://upload.wikimedia.org/wikipedia/ca/7/7e/Ib3_logo2008-1.png) | - |
+| IB3 | [m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8) | [web](http://ib3tv.com/directe) | - | [Logo](https://upload.wikimedia.org/wikipedia/ca/7/7e/Ib3_logo2008-1.png) | - |
+| Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master.m3u8) | [web](https://ib3.org/directe?c=bondia) | - | [Logo](https://statics.ccma.cat/img/logos/logo_bondiaTV.svg) | - |
 | TEF | [m3u8](http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/)| - | [Logo](https://i0.wp.com/teftv.com/wp-content/uploads/2016/02/cropped-LOGO_TEF_512.png) | - |
 | Ibiza Global TV | [m3u8](http://server10.streaming-pro.com:1937/live/ibgtvlive/chunklist_w1539834958.m3u8) | [web](http://ibizaglobal.tv/live/) | - | [Logo](https://ibizaglobal.tv/wp-content/uploads/2017/03/logo_tv-180x60.png) | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | - | [Logo](http://www.mallorcadiario.com/wp-content/uploads/sites/2/2012/04/luxmallorcaok.jpg) | - |
