@@ -1,6 +1,9 @@
 # Canales IPTV en abierto
 
-Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
+Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
+
+### Canal en **Telegram**
+[Canales TDT](https://t.me/canales_tdt)
 
 ### Listado en formato M3U8 y JSON
 *(Última actualización: 24/11/2018)*
@@ -9,27 +12,26 @@ Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Espec
 
 [Click aquí para descargar el .json completo](http://91.121.64.179/tdt_project/output/channels.json)
 
-### Canal en **Telegram**
-[Canales TDT](https://t.me/canales_tdt)
+### Ayuda
+Algunos canales sólo pueden visualizarse cuando se visitan desde España, debido a que emiten contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
 
-### Ver en directo con el navegador
-Para ver directamente en el navegador has de:
-1. Hacer en alguno de estos dos reproductores:
+#### Cómo reproducir en el navegador
+1. Hacer click en alguno de estos dos reproductores:
     1. [Opción 1](http://91.121.64.179/tdt_project/index.html?channel=)
     2. [Opción 2](http://91.121.64.179/tdt_project/index_test.html?channel=)
 2. Copiar el enlace .m3u8 del canal a reproducir (Botón derecho, copiar enlace en el canal deseado)
 3. Insertar al final de la URL generada en el punto 1.
 
-### Ayuda
-Algunos canales sólo pueden visualizarse cuando se visitan desde España, contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
+#### Cómo reproducir en un ordenador
+Algunos enlaces funcionan directamente bajándolos con botón derecho y guardar. Posteriormente haciendo doble click en ellos y abriéndolos en un reproductor. Los que no funcionen con ese método se han de abrir con VLC: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*).
 
-#### Cómo reproducir un *m3u8*
-Algunos enlaces funcionan directamente bajándolos y haciendo doble click en ellos y abriéndolos en VLC. Los que no funcionen con ese método se han de abrir de esta forma: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*). Si al bajarlos no se reproducen correctamente, también se puede obtener los enlaces mediante botón derecho en el mismo.
+#### Cómo reproducir en un móvil o tableta
+Algunos enlaces funcionan directamente bajándolos manteniendo pulsado el enlace, *guardar/descargar*. Posteriormente haciendo doble click en ellos y abriéndolos en un reproductor. 
 
-#### Cómo reproducir un *url*
-Simplemente click en *url* y te redigirá a la página oficial del emisor del contenido.
+#### Cómo reproducir en una Smart TV
+Utilizar, por ejemplo, [SSIPTV](https://www.achotv.com/ssiptv.php) (por *AchoTV*).
 
-### Cómo colaborar
+### Colaborar
 Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*.
 
 ## Canales de España
@@ -659,7 +661,6 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web. Si posees los derechos de algún canal y deseas que lo retire, contactame.
 
 ### Notícias
-
 Aparecemos en:
 
 [Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
