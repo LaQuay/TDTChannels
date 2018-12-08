@@ -34,7 +34,7 @@ Utilizar, por ejemplo, [SSIPTV](https://www.achotv.com/ssiptv.php) (por *AchoTV*
 ### Colaborar
 Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*. Recuerda por favor incluir la fuente original de la emisión.
 
-## Canales de España
+## Canales de España - Televisión
 
 ### Nacionales
 
@@ -654,6 +654,14 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Andorra TV | - | [web](http://www.andorradifusio.ad/Endirecte/atv) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
+
+## Canales de España - Radio
+
+### Nacionales
+
+| Canal | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
+| Prueba | - | - | - | - | - |
 
 ### Licencia
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de mi trabajo, el único condicionante es que debe poderse ver que la información procede de este repositorio.
