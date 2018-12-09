@@ -859,7 +859,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Ona FM | - | - | - | - | - |
 | Onda Rambla | - | - | - | - | - |
 | RAC1 | - | - | - | - | - |
-| RAC 105 | - | - | - | - | - |
+| RAC 105 | [nsv](http://rac105.radiocat.net/;*.nsv) | (web)[http://www.rac105.cat] | - | - | - |
 | RNE Ràdio 4 | - | - | - | - | - |
 | Radio Bronka | - | - | - | - | - |
 | Ràdio Ciutat de Badalona | - | - | - | - | - |
@@ -1010,12 +1010,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | - | - | - | - | - | - |
 | RNA | - | - | - | - | - |
 | AM | - | - | - | - | - |
-
-=======
-| Canal | Stream | Web | ¿? | Logo | EPG ID |
-| - | - | - | - | - | - |
-| RAC105 | [nsv](http://rac105.radiocat.net/;*.nsv) | (web)[http://www.rac105.cat] | - | - | - |
-
 
 ### Licencia
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que debe poderse ver que la información que está utilizando procede de este repositorio.
