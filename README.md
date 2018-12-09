@@ -859,7 +859,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Ona FM | - | - | - | - | - |
 | Onda Rambla | - | - | - | - | - |
 | RAC1 | - | - | - | - | - |
-| RAC 105 | [nsv](http://rac105.radiocat.net/;*.nsv) | (web)[http://www.rac105.cat] | - | - | - |
+| RAC 105 | [nsv](http://rac105.radiocat.net/;*.nsv) | [web](http://www.rac105.cat) | - | - | - |
 | RNE Ràdio 4 | - | - | - | - | - |
 | Radio Bronka | - | - | - | - | - |
 | Ràdio Ciutat de Badalona | - | - | - | - | - |
