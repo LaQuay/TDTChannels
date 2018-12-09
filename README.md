@@ -1,6 +1,9 @@
 # Canales IPTV en abierto
 
-Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
+Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
+
+### Canal en **Telegram**
+[Canales TDT](https://t.me/canales_tdt)
 
 ### Listado en formato M3U8 y JSON
 *(Última actualización: 24/11/2018)*
@@ -9,30 +12,29 @@ Lista de canales IPTV, televisión, que se emiten en abierto por Internet. Espec
 
 [Click aquí para descargar el .json completo](http://91.121.64.179/tdt_project/output/channels.json)
 
-### Canal en **Telegram**
-[Canales TDT](https://t.me/canales_tdt)
+### Ayuda
+Algunos canales sólo pueden visualizarse cuando se visitan desde España, debido a que emiten contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
 
-### Ver en directo con el navegador
-Para ver directamente en el navegador has de:
-1. Hacer en alguno de estos dos reproductores:
+#### Cómo reproducir en el navegador
+1. Hacer click en alguno de estos dos reproductores:
     1. [Opción 1](http://91.121.64.179/tdt_project/index.html?channel=)
     2. [Opción 2](http://91.121.64.179/tdt_project/index_test.html?channel=)
 2. Copiar el enlace .m3u8 del canal a reproducir (Botón derecho, copiar enlace en el canal deseado)
 3. Insertar al final de la URL generada en el punto 1.
 
-### Ayuda
-Algunos canales sólo pueden visualizarse cuando se visitan desde España, contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
+#### Cómo reproducir en un ordenador
+Algunos enlaces funcionan directamente bajándolos con botón derecho y guardar. Posteriormente haciendo doble click en ellos y abriéndolos en un reproductor. Los que no funcionen con ese método se han de abrir con VLC: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*).
 
-#### Cómo reproducir un *m3u8*
-Algunos enlaces funcionan directamente bajándolos y haciendo doble click en ellos y abriéndolos en VLC. Los que no funcionen con ese método se han de abrir de esta forma: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*). Si al bajarlos no se reproducen correctamente, también se puede obtener los enlaces mediante botón derecho en el mismo.
+#### Cómo reproducir en un móvil o tableta
+Algunos enlaces funcionan directamente bajándolos manteniendo pulsado el enlace, *guardar/descargar*. Posteriormente haciendo doble click en ellos y abriéndolos en un reproductor. 
 
-#### Cómo reproducir un *url*
-Simplemente click en *url* y te redigirá a la página oficial del emisor del contenido.
+#### Cómo reproducir en una Smart TV
+Utilizar, por ejemplo, [SSIPTV](https://www.achotv.com/ssiptv.php) (por *AchoTV*).
 
-### Cómo colaborar
-Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*.
+### Colaborar
+Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*. Recuerda por favor incluir la fuente original de la emisión.
 
-## Canales de España
+## Canales de España - Televisión
 
 ### Nacionales
 
@@ -41,14 +43,14 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | La 1 | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8) | [web](http://www.rtve.es/directo/la-1/)| - | [Logo](https://vignette.wikia.nocookie.net/telenovelas/images/7/7f/Logtve1.png/revision/latest?cb=20160726160024&path-prefix=es) | TVE ASTRA HD 1.sp |
 | La 1 HD | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583046/master.m3u8) | [web](http://www.rtve.es/directo/la-1/hd)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png) | TVE ASTRA HD 1.sp |
 | La 2 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) | [web](http://www.rtve.es/directo/la-2/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/150px-Logo_TVE-2.svg.png) | LA2 ASTRA SD 1.sp |
-| Antena 3 | [m3u8 # 1](https://antena3-pull2b-a3player.secure.footprint.net/antena3/master.m3u8) - [m3u8 # 2](https://antena3-pull2b-a3player.secure.footprint.net/geoantena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png) | A3 ASTRA HD 1.sp |
+| Antena 3 | [m3u8 # 1](https://pull2b-i.akamaized.net/antena3/master.m3u8) - [m3u8 # 2](https://pull2b-i.akamaized.net/geoantena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png) | A3 ASTRA HD 1.sp |
 | Cuatro | - | [web](http://www.mitele.es/directo/cuatro) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/250px-Cuatro.svg.png) | C4 ASTRA HD 1.sp |
 | Telecinco | - | [web](http://www.mitele.es/directo/telecinco) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/125px-Telecinco.svg.png) | T5 ASTRA HD 1.sp |
-| laSexta | [m3u8 # 1](https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/master.m3u8) - [m3u8 # 2](https://lasexta-pull2c-a3player.secure.footprint.net/geolasexta/master.m3u8) | [web](https://www.atresplayer.com/directos/lasexta/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/75px-La_Sexta_%28A3M%29.svg.png) | SEXTA ASTRA HD 1.sp |
-| Neox | [m3u8 # 1](https://neox-pull1b-a3player.secure.footprint.net/neox/master.m3u8) - [m3u8 # 2](https://neox-pull1b-a3player.secure.footprint.net/geoneox/master.m3u8) | [web](https://www.atresplayer.com/directos/neox/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/150px-Neox.svg.png) | NEOX ASTRA SD 1.sp |
-| Nova | [m3u8 # 1](https://nova-pull1c-a3player.secure.footprint.net/nova/master.m3u8) - [m3u8 # 2](https://nova-pull1c-a3player.secure.footprint.net/geonova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/150px-Nova.svg.png) | NOVA ASTRA SD 1.sp |
-| Mega | [m3u8 # 1](https://mega-pull1a-a3player.secure.footprint.net/mega/master.m3u8) - [m3u8 # 2](https://mega-pull1a-a3player.secure.footprint.net/geomega/master.m3u8) | [web](https://www.atresplayer.com/directos/mega/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/150px-MEGA.svg.png) | MEGA TDT SD 1.sp |
-| Atreseries | [m3u8 # 1](https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8) - [m3u8 # 2](https://a3series-pull2a-a3player.secure.footprint.net/geoa3series/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png) | ATRESS TDT HD 1.sp |
+| laSexta | [m3u8 # 1](https://pull2c-i.akamaized.net/lasexta/master.m3u8) - [m3u8 # 2](https://pull2c-i.akamaized.net/geolasexta/master.m3u8) | [web](https://www.atresplayer.com/directos/lasexta/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/75px-La_Sexta_%28A3M%29.svg.png) | SEXTA ASTRA HD 1.sp |
+| Neox | [m3u8 # 1](https://pull2b-i.akamaized.net/neox/master.m3u8) - [m3u8 # 2](https://pull2b-i.akamaized.net/geoneox/master.m3u8) | [web](https://www.atresplayer.com/directos/neox/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/150px-Neox.svg.png) | NEOX ASTRA SD 1.sp |
+| Nova | [m3u8 # 1](https://pull1c-i.akamaized.net/nova/master.m3u8) - [m3u8 # 2](https://pull1c-i.akamaized.net/geonova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/150px-Nova.svg.png) | NOVA ASTRA SD 1.sp |
+| Mega | [m3u8 # 1](https://pull2a-i.akamaized.net/mega/master.m3u8) - [m3u8 # 2](https://pull2a-i.akamaized.net/geomega/master.m3u8) | [web](https://www.atresplayer.com/directos/mega/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/150px-MEGA.svg.png) | MEGA TDT SD 1.sp |
+| Atreseries | [m3u8 # 1](https://pull2a-i.akamaized.net/a3series/master.m3u8) - [m3u8 # 2](https://pull2a-i.akamaized.net/geoa3series/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png) | ATRESS TDT HD 1.sp |
 | Atresplayer Original (15) | [m3u8 # 1](https://eventos15-pull1a-a3player.secure.footprint.net/eventos15/master.m3u8) - [m3u8 # 2](https://eventos15-pull1a-a3player.secure.footprint.net/geoeventos15/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-15/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
 | Atresplayer Original (37) | [m3u8 # 1](https://eventos37-pull1a-a3player.secure.footprint.net/eventos37/master.m3u8) - [m3u8 # 2](https://eventos37-pull1a-a3player.secure.footprint.net/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
 | Atresplayer eSports | [m3u8 # 1](https://esports-pull1a-a3player.secure.footprint.net/esports/master.m3u8) - [m3u8 # 2](https://esports-pull1a-a3player.secure.footprint.net/geoesports/master.m3u8) | [web](https://www.atresplayer.com/directos/esports/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
@@ -87,6 +89,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Barça TV | - | - | - | [Logo](http://mediapunta.net/wp-content/uploads/2018/05/logo-barca-tv.png) | BARNA ASTRA SD 1.sp |
 | Betis TV | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/)| - | [Logo](https://upload.wikimedia.org/wikipedia/an/f/f1/Real_Betis.png) | - |
 | Sevilla TV | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) | [web](http://live.sevillafc.es/) | - | [Logo](https://upload.wikimedia.org/wikipedia/ca/b/b4/Sevilla_cf_logo.png) | - |
+| UD Las Palmas | [m3u8](https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtvlive) | - | - | - |
 | Redbull TV | [m3u8](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | - | [Logo](https://www.redbull.com/int-en/tv/favicons/apple-touch-icon-180x180.png) | - |
 
 ### Infantiles
@@ -630,11 +633,12 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | RT | - | [youtube # Español](https://www.youtube.com/watch?v=mV8jp1N2fSw) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png) | - |
 | DW | [m3u8 # Español](http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) | - |  - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png) | - |
 | CGTV | [m3u8 # Español](https://livees.cgtn.com/1000e/prog_index.m3u8) | - | - | [Logo](http://ik.imagekit.io/ulangotv/image/upload/3782973_logo_cgtn.png) | - |
-| Hispan TV | - | [web](https://www.youtube.com/c/hispantv/live)| - | [Logo](https://lagazzettadf.com/wp-content/uploads/2014/10/hispan_tv.png) | - |
 | NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png) | - |
 | NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8)| - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png) | - |
 | Animal Planet Live | - | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) | - | [Logo](https://upload.wikimedia.org/wikipedia/en/e/e3/Animal_Planet_2018.svg) | - |
+| Sony Movie Channel | [m3u8](https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8) | - | - | - | - |
 | XITE | [m3u8](http://highvolume03.streampartner.nl/vleugels_hd6/livestream/master.m3u8) | [web](https://xite.nl/live) | - | [Logo](https://xite.nl/img/xite_logo.png) | - |
+| Hispan TV | - | [web](https://www.youtube.com/c/hispantv/live)| - | [Logo](https://lagazzettadf.com/wp-content/uploads/2014/10/hispan_tv.png) | - |
 | M2O | [m3u8](http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | - | [Logo](https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o.png) | - |
 | DJing - Live | [m3u8](https://www.djing.com/tv/live.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
 | DJing - Karaoke | [m3u8](https://www.djing.com/tv/karaoke.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
@@ -651,13 +655,20 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | - | - | - | - | - | - |
 | Andorra TV | - | [web](http://www.andorradifusio.ad/Endirecte/atv) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
 
+## Canales de España - Radio
+
+### Nacionales
+
+| Canal | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
+| Prueba | - | - | - | - | - |
+
 ### Licencia
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de mi trabajo, el único condicionante es que debe poderse ver que la información procede de este repositorio.
 
 Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web. Si posees los derechos de algún canal y deseas que lo retire, contactame.
 
 ### Notícias
-
 Aparecemos en:
 
 [Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
