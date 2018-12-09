@@ -51,9 +51,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Nova | [m3u8 # 1](https://pull1c-i.akamaized.net/nova/master.m3u8) - [m3u8 # 2](https://pull1c-i.akamaized.net/geonova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/150px-Nova.svg.png) | NOVA ASTRA SD 1.sp |
 | Mega | [m3u8 # 1](https://pull2a-i.akamaized.net/mega/master.m3u8) - [m3u8 # 2](https://pull2a-i.akamaized.net/geomega/master.m3u8) | [web](https://www.atresplayer.com/directos/mega/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/150px-MEGA.svg.png) | MEGA TDT SD 1.sp |
 | Atreseries | [m3u8 # 1](https://pull2a-i.akamaized.net/a3series/master.m3u8) - [m3u8 # 2](https://pull2a-i.akamaized.net/geoa3series/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png) | ATRESS TDT HD 1.sp |
-| Atresplayer Original (15) | [m3u8 # 1](https://eventos15-pull1a-a3player.secure.footprint.net/eventos15/master.m3u8) - [m3u8 # 2](https://eventos15-pull1a-a3player.secure.footprint.net/geoeventos15/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-15/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
-| Atresplayer Original (37) | [m3u8 # 1](https://eventos37-pull1a-a3player.secure.footprint.net/eventos37/master.m3u8) - [m3u8 # 2](https://eventos37-pull1a-a3player.secure.footprint.net/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
-| Atresplayer eSports | [m3u8 # 1](https://esports-pull1a-a3player.secure.footprint.net/esports/master.m3u8) - [m3u8 # 2](https://esports-pull1a-a3player.secure.footprint.net/geoesports/master.m3u8) | [web](https://www.atresplayer.com/directos/esports/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
+| Atresplayer Original (15) | [m3u8 # 1](https://pull1a-i.akamaized.net/eventos15/master.m3u8) - [m3u8 # 2](https://pull1a-i.akamaized.net/geoeventos15/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-15/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
+| Atresplayer Original (37) | [m3u8 # 1](https://pull1a-i.akamaized.net/eventos37/master.m3u8) - [m3u8 # 2](https://pull1a-i.akamaized.net/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | - | [Logo](https://suscripcion.atresplayer.com/hazte-premium/internacional/img/A3Pnuevo.png) | - |
 | FDF | - | [web](http://www.mitele.es/directo/fdf)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/125px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png) | FDFIC ASTRA SD 1.sp |
 | Energy | - | [web](http://www.mitele.es/directo/energy) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/125px-Energy.svg.png) | ENERGY ASTRA SD 1.sp |
 | Divinity | - | [web](http://www.mitele.es/directo/divinity)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png) | DIVINI ASTRA SD 1.sp |
@@ -653,15 +652,280 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Andorra TV | - | [web](http://www.andorradifusio.ad/Endirecte/atv) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
+| ATV | - | [web](http://www.andorradifusio.ad/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
+| Canal Web (ATV) | - | [web](http://www.andorradifusio.ad/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
 
 ## Canales de España - Radio
 
 ### Nacionales
 
-| Canal | M3U8 | Web | ¿? | Logo | EPG ID |
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Prueba | - | - | - | - | - |
+| Onda Cero | - | - | - | - | - |
+| Melodía FM | - | - | - | - | - |
+| Europa FM | - | - | - | - | - |
+| RNE Radio Nacional | - | - | - | - | - |
+| RNE Radio 3 | - | - | - | - | - |
+| RNE Radio 5 | - | - | - | - | - |
+| RNE Radio Clásica | - | - | - | - | - |
+| RNE Radio Exterior | - | - | - | - | - |
+| Los 40 | - | - | - | - | - |
+| Los 40 Classic | - | - | - | - | - |
+| Cadena 100 | - | - | - | - | - |
+| Cadena Dial | - | - | - | - | - |
+| Cadena SER | - | - | - | - | - |
+| Cadena Cope | - | - | - | - | - |
+| esRadio | - | - | - | - | - |
+| Radio Intereconomía | - | - | - | - | - |
+| Radio Marca | - | - | - | - | - |
+
+### Autonómicos
+
+#### Andalucía
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| Canal Sur Radio | - | - | - | - | - |
+| Canal Fiesta | - | - | - | - | - |
+| Flamenco Radio | - | - | - | - | - |
+| Radio Andalucía | - | - | - | - | - |
+| Radio Martos | - | - | - | - | - |
+| Cadena SER - Radio Cádiz | - | - | - | - | - |
+| Cadena SER - Radio Córdoba | - | - | - | - | - |
+| Cadena SER - El Condado | - | - | - | - | - |
+| Cadena SER - Radio Granada | - | - | - | - | - |
+| Cadena SER -  Levante | - | - | - | - | - |
+| Cadena SER - Radio Sevilla | - | - | - | - | - |
+| Radio Sierra | - | - | - | - | - |
+
+#### Aragón
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| Aragón Radio | - | - | - | - | - |
+| Aragón Radio 2.com | - | - | - | - | - |
+| Onda Local Calatayud | - | - | - | - | - |
+| Radio Ebro | - | - | - | - | - |
+
+#### Asturias
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| RPA | - | - | - | - | - |
+| Cadena Dial Asturias | - | - | - | - | - |
+| Cadena Dial Eo-Navia | - | - | - | - | - |
+| Cadena SER - Oriente | - | - | - | - | - |
+| Los 40 Asturias| - | - | - | - | - |
+| Los 40 Eo | - | - | - | - | - |
+| Los 40 Classic Asturias | - | - | - | - | - |
+| Máxima FM Asturias | - | - | - | - | - |
+| Medea FM | - | - | - | - | - |
+| Radio Asturias FM | - | - | - | - | - |
+| Radio Cucaracha | - | - | - | - | - |
+| Radio Nalón | - | - | - | - | - |
+| Radio San Martín Sotrondio | - | - | - | - | - |
+| Radio Sele | - | - | - | - | - |
+| Radio Vetusta | - | - | - | - | - |
+
+#### Canarias
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| Canarias Radio | - | - | - | - | - |
+| Atlántica FM | - | - | - | - | - |
+| Canal 4 Tenerife | - | - | - | - | - |
+| Canal 1 La Palma | - | - | - | - | - |
+| Centro de la Cultura Popular Canaria | - | - | - | - | - |
+| Radio El Día | - | - | - | - | - |
+| La Voz de Canarias Libre | - | - | - | - | - |
+| Nueve RTV | - | - | - | - | - |
+| Radio Canarias | - | - | - | - | - |
+| Cadena SER - Radio Club Tenerife | - | - | - | - | - |
+| Radio ECCA | - | - | - | - | - |
+| Radio Guiniguada | - | - | - | - | - |
+| Radio La Guancha | - | - | - | - | - |
+| Radio Olé Tropical | - | - | - | - | - |
+| Radio San Borondón | - | - | - | - | - |
+
+#### Cantabria
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| Radio Juventud de Torrelavega | - | - | - | - | - |
+
+#### Castilla-La Mancha
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| Cadena SER - Radio Albacete | - | - | - | - | - |
+| Radio Arrebato | - | - | - | - | - |
+| Radio Chinchilla | - | - | - | - | - |
+
+#### Castilla y León
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| Castilla y León Radio | - | - | - | - | - |
+| Cadena SER Burgos - Radio Castilla | - | - | - | - | - |
+| Cadena SER - Radio Valladolid | - | - | - | - | - |
+| Cadena SER - Radio Zamora | - | - | - | - | - |
+| L. On Radio | - | - | - | - | - |
+| La Voz de Valladolid | - | - | - | - | - |
+| Mortal FM | - | - | - | - | - |
+| Radio Juventud de Aranda de Duero | - | - | - | - | - |
+| Radio Valdivielso | - | - | - | - | - |
+| Vive! Radio | - | - | - | - | - |
+
+#### Catalunya
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| Catalunya Informació | - | - | - | - | - |
+| Catalunya Ràdio | - | - | - | - | - |
+| iCat | - | - | - | - | - |
+| Antena 2000 | - | - | - | - | - |
+| Bas Radio | - | - | - | - | - |
+| Cadena SER - Ràdio Barcelona | - | - | - | - | - |
+| COPE Miramar | - | - | - | - | - |
+| Equinox Ràdio | - | - | - | - | - |
+| Flaix FM | - | - | - | - | - |
+| Mataró Ràdio | - | - | - | - | - |
+| Ona FM | - | - | - | - | - |
+| Onda Rambla | - | - | - | - | - |
+| RAC1 | - | - | - | - | - |
+| RAC 105 | - | - | - | - | - |
+| RNE Ràdio 4 | - | - | - | - | - |
+| Radio Bronka | - | - | - | - | - |
+| Ràdio Ciutat de Badalona | - | - | - | - | - |
+| Ràdio Despí | - | - | - | - | - |
+| Ràdio Estel | - | - | - | - | - |
+| Ràdio Evolució | - | - | - | - | - |
+| Ràdio Flaixbac | - | - | - | - | - |
+| Ràdio Gràcia | - | - | - | - | - |
+| Ràdio Marca Barcelona | - | - | - | - | - |
+| Ràdio Principal | - | - | - | - | - |
+| Ràdio Reus | - | - | - | - | - |
+| Ràdio Tele-Taxi | - | - | - | - | - |
+| Ràdio Vilamajor | - | - | - | - | - |
+
+#### Ceuta
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
+
+#### Extremadura
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| Canal Extremadura Radio | - | - | - | - | - |
+| Radio Miajadas | - | - | - | - | - |
+
+#### Galicia
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| Radio Galega | - | - | - | - | - |
+| Cadena SER - Radio vigo | - | - | - | - | - |
+| Cadena SER - Baixo Miño | - | - | - | - | - |
+| Cadena SER - Mariña | - | - | - | - | - |
+| Cuac FM | - | - | - | - | - |
+| Radio Municipal de Tui | - | - | - | - | - |
+| Radiodifusión | - | - | - | - | - |
+| Radio Voz | - | - | - | - | - |
+
+#### Islas Baleares
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| IB3 Ràdio | - | - | - | - | - |
+| Cadena SER - Radio Mallorca | - | - | - | - | - |
+| Ona Mallorca | - | - | - | - | - |
+| Radio Balear | - | - | - | - | - |
+| Radio Manía Mallorca | - | - | - | - | - |
+| Última Hora Radio | - | - | - | - | - |
+
+#### Madrid
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| Onda Madrid | - | - | - | - | - |
+| City FM Radio | - | - | - | - | - |
+| Desencadena Usera | - | - | - | - | - |
+| ECO Leganés | - | - | - | - | - |
+| Entidad de Comunicación y Ondas de Leganés | - | - | - | - | - |
+| Gestiona Radio | - | - | - | - | - |
+| Radio Inter | - | - | - | - | - |
+| M21 Radio | - | - | - | - | - |
+| Onda Diamante | - | - | - | - | - |
+| Onda Cero Sierra | - | - | - | - | - |
+| Onda Merlín Comunitaria | - | - | - | - | - |
+| Onda Polígono | - | - | - | - | - |
+| Radio Almenara | - | - | - | - | - |
+| Radio Cigüeña | - | - | - | - | - |
+| Radio Enlace | - | - | - | - | - |
+| Radio Fuga | - | - | - | - | - |
+| Radio Jabato | - | - | - | - | - |
+| Radio Las Águilas | - | - | - | - | - |
+| Radio Morata | - | - | - | - | - |
+| Radio Paloma | - | - | - | - | - |
+| Radio Ritmo | - | - | - | - | - |
+| Radio Romanul | - | - | - | - | - |
+| Radio Utopía | - | - | - | - | - |
+| Radio Vallekas | - | - | - | - | - |
+
+#### Melilla
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
+
+#### Murcia
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| Cadena SER - Radio Murcia | - | - | - | - | - |
+| Onda Regional de Murcia | - | - | - | - | - |
+| Radio Calasparra | - | - | - | - | - |
+
+#### Navarra
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| Bit FM Pamplona | - | - | - | - | - |
+| Eguzki Irratia | - | - | - | - | - |
+| Emisora Municipal de Pamplona | - | - | - | - | - |
+| Euskalerria Irratia | - | - | - | - | - |
+| Net 21 Radio | - | - | - | - | - |
+| Radio Universidad de Navarra | - | - | - | - | - |
+| Trak FM Pamplona | - | - | - | - | - |
+
+#### País Vasco
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| EITB Musika | - | - | - | - | - |
+| Euskadi Irratia | - | - | - | - | - |
+| Gaztea | - | - | - | - | - |
+| Herri Irratia | - | - | - | - | - |
+| Radio Nervión | - | - | - | - | - |
+| Onda Vasca | - | - | - | - | - |
+| Punto Radio Euskadi | - | - | - | - | - |
+| Radio Euskadi | - | - | - | - | - |
+| Radio Vitoria | - | - | - | - | - |
+
+#### La Rioja
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
+
+#### Valencia
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| À Punt FM | - | - | - | - | - |
+| Alzira Radio | - | - | - | - | - |
+| Cadena SER - Radio Castellón | - | - | - | - | - |
+| Cadena SER - Radio Valencia | - | - | - | - | - |
+| Radio Expres Elche | - | - | - | - | - |
+| Ràdio Klara | - | - | - | - | - |
+| La 97.7 Radio | - | - | - | - | - |
+| Ràdio Flaixbac | - | - | - | - | - |
+| UPV Radio | - | - | - | - | - |
+
+### Internacionales
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
+
+### Andorra
+
+| Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| RNA | - | - | - | - | - |
+| AM | - | - | - | - | - |
+
 
 ### Licencia
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de mi trabajo, el único condicionante es que debe poderse ver que la información procede de este repositorio.
