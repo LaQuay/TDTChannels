@@ -14,7 +14,7 @@
             crossorigin="anonymous"></script>
 </head>
 <body>
-<div class="container" style="margin-top: 50px">
+<div class="container" style="margin-top: 30px">
     <h1 class="display-3">TDTChannels</h1>
     <p class="lead">
         Bienvenido al reproductor del proyecto opensource TDTChannels
@@ -28,7 +28,7 @@
        target="_blank">GitHub</a>
     <a class="btn btn-outline-primary" role="button" href="https://www.linkedin.com/in/marcvilagomez/"
        target="_blank">LinkedIn</a>
-    <div style="margin-top: 30px">
+    <div style="margin-top: 25px">
         <div id="video">
             <p class="lead">
                 Reproductor de Televisión
@@ -45,7 +45,7 @@
             <div id="video-player" class="col-8"></div>
         </div>
 
-        <div id="audio">
+        <div id="audio" style="margin-top: 15px">
             <p class="lead">
                 Reproductor de Radio
             </p>
@@ -66,6 +66,8 @@
     </div>
 </div>
 <script>
+    // Se espera en la URL este tipo de llamada
+    // .html?type={audio,video}&channel={url_a_reproducir}
     var getUrlParameter = function getUrlParameter(sParam) {
         var sPageURL = decodeURIComponent(window.location.search.substring(1)),
             sURLVariables = sPageURL.split('&'),
@@ -80,7 +82,15 @@
             }
         }
     };
-    //var channelToReproduce = getUrlParameter("channel");
+    var typeToReproduce = getUrlParameter("type");
+    var channelToReproduce;
+    if (typeToReproduce == "audio") {
+        channelToReproduce = getUrlParameter("channel");
+        reproduceAudio(channelToReproduce);
+    } else if (typeToReproduce == "video") {
+        channelToReproduce = getUrlParameter("channel");
+        reproduceVideo(channelToReproduce);
+    }
 
     function loadItem(from) {
         var value;
@@ -100,7 +110,7 @@
             var player = new Clappr.Player({
                 source: channelToReproduce,
                 parentId: '#video-player',
-                height: '50%',
+                height: '400px',
                 width: '100%',
                 autoPlay: true,
             });
