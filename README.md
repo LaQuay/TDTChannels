@@ -1024,8 +1024,7 @@ Aparecemos en:
 [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Agradecimientos
-- @paurg15
-- @okelet
-- @carratraka
+
+[AUTHORS](https://github.com/LaQuay/TDTChannels/blob/master/AUTHORS.md)
 
 Y a todos aquellos que han colaborado, ya sea reportando un fallo o aportando enlaces!
