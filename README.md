@@ -684,6 +684,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Andalucía
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Canal Sur Radio | - | - | - | - | - |
 | Canal Fiesta | - | - | - | - | - |
 | Flamenco Radio | - | - | - | - | - |
@@ -700,6 +701,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Aragón
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Aragón Radio | - | - | - | - | - |
 | Aragón Radio 2.com | - | - | - | - | - |
 | Onda Local Calatayud | - | - | - | - | - |
@@ -708,6 +710,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Asturias
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | RPA | - | - | - | - | - |
 | Cadena Dial Asturias | - | - | - | - | - |
 | Cadena Dial Eo-Navia | - | - | - | - | - |
@@ -727,6 +730,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Canarias
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Canarias Radio | - | - | - | - | - |
 | Atlántica FM | - | - | - | - | - |
 | Canal 4 Tenerife | - | - | - | - | - |
@@ -746,11 +750,13 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Cantabria
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Radio Juventud de Torrelavega | - | - | - | - | - |
 
 #### Castilla-La Mancha
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Cadena SER - Radio Albacete | - | - | - | - | - |
 | Radio Arrebato | - | - | - | - | - |
 | Radio Chinchilla | - | - | - | - | - |
@@ -758,6 +764,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Castilla y León
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Castilla y León Radio | - | - | - | - | - |
 | Cadena SER Burgos - Radio Castilla | - | - | - | - | - |
 | Cadena SER - Radio Valladolid | - | - | - | - | - |
@@ -772,6 +779,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Catalunya
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Catalunya Informació | - | - | - | - | - |
 | Catalunya Ràdio | - | - | - | - | - |
 | iCat | - | - | - | - | - |
@@ -808,12 +816,14 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Extremadura
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Canal Extremadura Radio | - | - | - | - | - |
 | Radio Miajadas | - | - | - | - | - |
 
 #### Galicia
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Radio Galega | - | - | - | - | - |
 | Cadena SER - Radio vigo | - | - | - | - | - |
 | Cadena SER - Baixo Miño | - | - | - | - | - |
@@ -826,6 +836,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Islas Baleares
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | IB3 Ràdio | - | - | - | - | - |
 | Cadena SER - Radio Mallorca | - | - | - | - | - |
 | Ona Mallorca | - | - | - | - | - |
@@ -836,6 +847,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Madrid
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Onda Madrid | - | - | - | - | - |
 | City FM Radio | - | - | - | - | - |
 | Desencadena Usera | - | - | - | - | - |
@@ -869,6 +881,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Murcia
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Cadena SER - Radio Murcia | - | - | - | - | - |
 | Onda Regional de Murcia | - | - | - | - | - |
 | Radio Calasparra | - | - | - | - | - |
@@ -876,6 +889,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Navarra
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | Bit FM Pamplona | - | - | - | - | - |
 | Eguzki Irratia | - | - | - | - | - |
 | Emisora Municipal de Pamplona | - | - | - | - | - |
@@ -887,6 +901,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### País Vasco
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | EITB Musika | - | - | - | - | - |
 | Euskadi Irratia | - | - | - | - | - |
 | Gaztea | - | - | - | - | - |
@@ -905,6 +920,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 #### Valencia
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | À Punt FM | - | - | - | - | - |
 | Alzira Radio | - | - | - | - | - |
 | Cadena SER - Radio Castellón | - | - | - | - | - |
@@ -923,6 +939,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 ### Andorra
 
 | Estaciones | M3U8 | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
 | RNA | - | - | - | - | - |
 | AM | - | - | - | - | - |
 
