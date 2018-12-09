@@ -3,7 +3,7 @@
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
 ### Web con reproductor del proyecto
-[TDTChannels - Reproductor](http://91.121.64.179/tdt_project/index.html)
+[TDTChannels - Reproductor](http://marcvila.me/tdt/)
 
 ### Canal en **Telegram**
 [Canales TDT](https://t.me/canales_tdt)
@@ -27,9 +27,9 @@ Introducir el M3U8(TV) o un Stream(Radio), deseado en el campo de introducción 
 ##### Opción 2
 Indicar en la URL el canal a reproducir, por ejemplo:
 
-```http://91.121.64.179/tdt_project/index.html?type=video&channel=http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8```
+```http://marcvila.me/tdt/index.html?type=video&channel=http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8```
 
-```http://91.121.64.179/tdt_project/index.html?type=audio&channel=http://rac105.radiocat.net/;*.nsv```
+```http://marcvila.me/tdt//index.html?type=audio&channel=http://rac105.radiocat.net/;*.nsv```
 
 #### Cómo reproducir en un ordenador
 Algunos enlaces funcionan directamente bajándolos con botón derecho y guardar. Posteriormente haciendo doble click en ellos y abriéndolos en un reproductor. Los que no funcionen con ese método se han de abrir con VLC: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*).
