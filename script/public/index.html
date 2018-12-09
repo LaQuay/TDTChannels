@@ -35,7 +35,7 @@
             <p class="lead">
                 Reproductor de Televisión
             </p>
-            <p>Formatos soportado: <em>m3u8</em></p>
+            <p>Formatos soportados: <em>m3u8</em></p>
             <div class="input-group mb-3">
                 <input id="input-reproduccion-video" type="text" class="form-control" placeholder="URL de reproducción">
                 <div class="input-group-append">
@@ -51,7 +51,7 @@
             <p class="lead">
                 Reproductor de Radio
             </p>
-            <p>Formatos soportado: <em>nsv</em></p>
+            <p>Formatos soportados: <em>nsv</em></p>
             <div class="input-group mb-3">
                 <input id="input-reproduccion-audio" type="text" class="form-control" placeholder="URL de reproducción">
                 <div class="input-group-append">
@@ -70,6 +70,7 @@
 <script>
     // Se espera en la URL este tipo de llamada
     // .html?type={audio,video}&channel={url_a_reproducir}
+
     var getUrlParameter = function getUrlParameter(sParam) {
         var sPageURL = decodeURIComponent(window.location.search.substring(1)),
             sURLVariables = sPageURL.split('&'),
@@ -84,6 +85,9 @@
             }
         }
     };
+
+    var player;
+
     var typeToReproduce = getUrlParameter("type");
     var channelToReproduce;
     if (typeToReproduce == "audio") {
@@ -109,13 +113,21 @@
 	    console.log("Reproducing " + channelToReproduce);
         if (channelToReproduce.includes("m3u8")) {
             console.log("Reproducing video")
-            var player = new Clappr.Player({
-                source: channelToReproduce,
-                parentId: '#video-player',
-                height: '400px',
-                width: '100%',
-                autoPlay: true,
-            });
+            var divInfo = document.getElementById("video-player").childElementCount;
+            if (divInfo == 0) {
+                player = new Clappr.Player({
+                    source: channelToReproduce,
+                    parentId: '#video-player',
+                    height: '400px',
+                    width: '100%',
+                    autoPlay: true,
+                });
+            } else {
+                // Assume player instance is already created
+                player.configure({
+                  source: channelToReproduce,
+                });
+            }
         }
 	}
 
