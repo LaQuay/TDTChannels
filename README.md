@@ -2,11 +2,14 @@
 
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
+### Web con reproductor del proyecto
+[TDTChannels - Reproductor](http://91.121.64.179/tdt_project/index.html)
+
 ### Canal en **Telegram**
 [Canales TDT](https://t.me/canales_tdt)
 
 ### Listado en formato M3U8 y JSON
-*(Última actualización: 24/11/2018)*
+*(Última actualización: 09/12/2018)*
 
 [Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
@@ -16,11 +19,17 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 Algunos canales sólo pueden visualizarse cuando se visitan desde España, debido a que emiten contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
 
 #### Cómo reproducir en el navegador
-1. Hacer click en alguno de estos dos reproductores:
-    1. [Opción 1](http://91.121.64.179/tdt_project/index.html?channel=)
-    2. [Opción 2](http://91.121.64.179/tdt_project/index_test.html?channel=)
-2. Copiar el enlace .m3u8 del canal a reproducir (Botón derecho, copiar enlace en el canal deseado)
-3. Insertar al final de la URL generada en el punto 1.
+Hacer click en el enlace web del reproductor. Una vez en la web tienes dos opciones de funcionamiento.
+
+##### Opción 1
+Introducir el M3U8(TV) o un Stream(Radio), deseado en el campo de introducción de texto y dar click en cargar.
+
+##### Opción 2
+Indicar en la URL el canal a reproducir, por ejemplo:
+
+```http://91.121.64.179/tdt_project/index.html?type=video&channel=http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8```
+
+```http://91.121.64.179/tdt_project/index.html?type=audio&channel=http://rac105.radiocat.net/;*.nsv```
 
 #### Cómo reproducir en un ordenador
 Algunos enlaces funcionan directamente bajándolos con botón derecho y guardar. Posteriormente haciendo doble click en ellos y abriéndolos en un reproductor. Los que no funcionen con ese método se han de abrir con VLC: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*).
@@ -942,6 +951,11 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | - | - | - | - | - | - |
 | RNA | - | - | - | - | - |
 | AM | - | - | - | - | - |
+
+=======
+| Canal | Stream | Web | ¿? | Logo | EPG ID |
+| - | - | - | - | - | - |
+| RAC105 | [nsv](http://rac105.radiocat.net/;*.nsv) | (web)[http://www.rac105.cat] | - | - | - |
 
 
 ### Licencia
