@@ -394,7 +394,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal Blau | [m3u8](http://live10.cdnmedia.tv/blautvlive/live.smil/playlist.m3u8) | [web](http://www.canalblau.cat/televisio/televisio-en-directe/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/f/f8/Canalblau_logo.png) | - |
 | Mar TV | [m3u8](http://k4.usastreams.com/CableLatino/martv/playlist.m3u8) | [web](http://martv.tv/emissio-en-directe/)| - | [Logo](http://martv.tv/wp-content/uploads/2017/10/Logo-martv.png) | - |
 | TAC 12 | [m3u8](http://vid=live10.cdnmedia.tv/tac12live/live.smil/playlist.m3u8) | [web](http://www.tac12.tv/en-directe) | - | [Logo](https://www.tac12.tv/templates/rt_ambrosia/custom/images/TAC12_tv_main-250px.png) | - |
-| Canal Terres de l'Ebre | - | [web](https://ebredigital.cat/en-directe/) | - | [Logo](http://www.alacarta.cat/api/assets/getFile/public/media/000/403/703/canal_te___alfa_300x85.png) | - |
+| Canal Terres de l'Ebre | [m3u8](http://live10.cdnmedia.tv/canaltetvlive/smil:live.smil/playlist.m3u8) | [web](https://ebredigital.cat/en-directe/) | - | [Logo](http://www.alacarta.cat/api/assets/getFile/public/media/000/403/703/canal_te___alfa_300x85.png) | - |
 | La Xarxa Catalunya | - | - | - | - | - |
 | Empordà TV | [m3u8](https://liveingesta118.cdnmedia.tv//empordatvlive/smil:live.smil/chunklist_b900000.m3u8) | [web](http://www.empordadigital.cat/) | - | [Logo](https://www.gerio.cat/imgMini/750/420/1218) | - |
 | TV Sant Cugat | - | [web](https://www.youtube.com/watch?v=5syAQzktTO4) | - | [Logo](http://www.tvsantcugat.cat/santcugatmagazine/wp-content/uploads/2017/10/cropped-logo-tvsc-i-scm-v2.png) | - |
