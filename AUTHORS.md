@@ -4,6 +4,7 @@
 
 #### Contributions (in alphabetical order)
 
+- CaRLymx [@carlymx](https://github.com/carlymx)
 - Carratraka [@carratraka](https://github.com/carratraka)
 - Juan [@okelet](https://github.com/okelet)
 - Pau [@paurg15](https://github.com/paurg15)
