@@ -179,7 +179,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | 7TV Andalucía - Sevilla | [m3u8](https://secure.todostreaming.es/live/ondaluz-olsevilla.m3u8) | [web](https://7tvandalucia.es/sevilla/)| - | [Logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - |
 | Cadena Idal | - | - | - | - | - |
 | Canal Sí/Una TV Almería | - | - | - | - | - |
-| Local Media | - | - | - | - | - |
 | Canal Almería TV | - | - | - | - | - |
 | Canal 28 | - | - | - | - | - |
 | 8TV | - | - | - | - | - |
@@ -330,10 +329,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | 8Televisión | - | - | - | - | - |
 | TVPedroñeras | - | - | - | - | - |
 | Tele Taracón | - | - | - | - | - |
-| Guada TV | - | - | - | - | - |
 | Guadalajara Media | - | - | - | - | - |
 | Toledo TeVe | - | - | - | - | - |
-| Teletoledo | - | - | - | - | - |
 
 #### Castilla y León
 
@@ -495,12 +492,10 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal 4 | - | [web](http://canal4televisio.com/canal-4-en-directo/) | - | [Logo](http://canal4televisio.com/wp-content/uploads/2016/10/pngTVc4.png) | - |
 | Teveí | - | - | - | - | - |
 | Broate Balear | - | - | - | - | - |
-| Popular TV | - | - | - | - | - |
 | Ticket TV | - | - | - | - | - |
 | Guaita Produccions | - | - | - | - | - |
 | Televisió Menorquina | - | - | - | - | - |
 | Editora Balear | - | - | - | - | - |
-| Local Media | - | - | - | - | - |
 
 #### Madrid
 
@@ -514,8 +509,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Life TV | - | [web](http://www.lifetelevision.es/) | - | [Logo](https://static.wixstatic.com/media/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png/v1/fill/w_201,h_146,al_c,q_80,usm_0.66_1.00_0.01/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.webp) | - |
 | Solidaria TV | [m3u8](http://panel2.cdnstreamserver.com/live/solidariatv-webhd.m3u8) | [web](http://es.solidariatv.com/en-vivo) | - | [Logo](http://es.solidariatv.com/images/logo_grande.png) | - |
 | 8madrid | - | [web](http://www.8madrid.tv/) | - | [Logo](http://www.8madrid.tv/images/8madrid%20nuestro%20cine%20positivott.jpg) | - |
-| TBN-Enlace | - | - | - | - | - |
-| 13 Madrid Sur TV | - | - | - | - | - |
+| Enlace TV | [m3u8](https://playback.akamaized.net/streams/2675843_1839332_lsiui6f1eich1f3f2lb_1/media/2675843_1839332_lsiui6f1eich1f3f2lb_1@678000pb.m3u8?dw=14400&ts=1544630400&hdnts=exp=1544804175~acl=/streams/2675843_1839332_lsiui6f1eich1f3f2lb_1/media*~hmac=86ff56b13de84250dababce37a014da5f6717b630436fc2b41ff9839420163e2) | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 
 #### Melilla
 
@@ -523,7 +517,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | - | - | - | - | - | - |
 | Melilla TV | [m3u8](http://melillatv-hls.flumotion.com/melillatv/ngrp:melillatv_all/playlist.m3u8) | [web](http://inmusa.es/directo.php)| - | [Logo](https://i1.wp.com/televisiones.lasteles.com/wp-content/uploads/2018/05/MELILLA-1.png) | - |
 | Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/8009/master.m3u8) | [web](https://populartvmelilla.es/tv-online/)| - | [Logo](https://i2.wp.com/populartvmelilla.es/wp-content/uploads/2016/08/cropped-popular-tv.jpeg) | - |
-| Local Media | - | - | - | - | - |
 
 #### Murcia
 
@@ -533,12 +526,12 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Televisión Murciana | - | [web](http://www.televisionmurciana.es/) | - | [Logo](http://www.televisionmurciana.es/images/logo.png) | - |
 | Popular TV Murcia | [m3u8](https://streaming-fr02.enetres.net/D1D1B8F06DE042A9A32866AC8A6F0B6F021/smil:live.smil/chunklist_w1890415293_b1000000.m3u8) | [web](https://www.populartvrm.com/) | - | [Logo](https://static.wixstatic.com/media/63ed20_34574868bc624c8d8a8c7057658fd891~mv2_d_5906_5906_s_4_2.png/v1/fill/w_178,h_178,al_c,q_80,usm_0.66_1.00_0.01/63ed20_34574868bc624c8d8a8c7057658fd891~mv2_d_5906_5906_s_4_2.webp) | - |
 | Telepeñón | - | - | - | - | - |
-| GTM | - | - | - | - | - |
+| GTM | - | [web](http://gtmtelevision.es/) | - | - | - |
 | Canal 8 Murcia | - | [web](http://www.canal8murcia.com/) | - | [Logo](http://www.canal8murcia.com/LOGO%20OCHO.jpg) | - |
 | La Opinión TV | - | - | - | - | - |
-| TBN-Enlace | - | - | - | - | - |
+| Enlace TV | [m3u8](https://playback.akamaized.net/streams/2675843_1839332_lsiui6f1eich1f3f2lb_1/media/2675843_1839332_lsiui6f1eich1f3f2lb_1@678000pb.m3u8?dw=14400&ts=1544630400&hdnts=exp=1544804175~acl=/streams/2675843_1839332_lsiui6f1eich1f3f2lb_1/media*~hmac=86ff56b13de84250dababce37a014da5f6717b630436fc2b41ff9839420163e2) | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 | Canal 1 TV Mar-Menor - Torre Pacheco | - | [web](https://www.canal1tv.es/) | - | [Logo](https://www.canal1tv.es/wp-content/uploads/logo-canal1tv.png) | - |
-| Comarcal TV | - | - | - | - | - |
+| Comarcal TV | - | [web](https://comarcaltv.es/) | - | [Logo](https://comarcaltv.es/wp-content/uploads/2017/01/logo_web-1-1.png) | - |
 
 #### Navarra
 
@@ -568,10 +561,9 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Oizmendi Telebista | [m3u8](https://5940924978228.streamlock.net/8161/8161/chunklist_w105940757.m3u8) | [web](http://www.oizmendi.eus/) | - | [Logo](http://www.oizmendi.eus/images/ikonoak/oizmendi-logo.png) | - |
 | GITB Goiberri Irrati Telebista | [m3u8](https://5940924978228.streamlock.net/8155/8155/chunklist_w1924453304.m3u8) | [web](http://www.gitb.eus/) | - | [Logo](http://www.gitb.eus/images/ikonoak/gitb-logo.png) | - |
 | Álava 7 TV | - | - | - | - | - |
+| Global 7 TV | - | [web](https://www.global7.tv/) | - | [Logo](https://www.global7.tv/wp-content/uploads/2018/12/global_7_logo-300x91.png) | - |
 | Txingudi Telebista | - | [web](https://txingudionline.com/) | - | [Logo](https://txingudionline.com/wp-content/uploads/2018/05/fav_icon_txingudi.png) | - |
 | uk4 | - | - | - | - | - |
-| Durango TB | - | - | - | - | - |
-| Canal Bizcaia | - | - | - | - | - |
 | Bizcaia TV | - | - | - | - | - |
 
 #### La Rioja
@@ -607,16 +599,12 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal 10 Millones | [m3u8](https://59b782181fb20.streamlock.net:455/yowi2/live-1000/chunklist_w1164790892.m3u8) | [web](http://www.canal10millones.es/en-directo/) | - | [Logo](http://www.canal10millones.es/wp-content/uploads/2018/05/SMOSCA-somos-10-millones-para-conti-ok.png) | - |
 | Comarcal Televisió | - | [web](http://www.comarcal.tv/) | - | [Logo](https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/02/Comarcal-Televisi%C3%B3.png) | - |
 | Alicantí TV | - | - | - | - | - |
-| 12TV | - | - | - | - | - |
-| TBN-Enlace | - | - | - | - | - |
-| Noticias te ves | - | - | - | - | - |
-| Doce TV | - | - | - | - | - |
-| teve 4 | - | - | - | - | - |
+| Enlace TV | [m3u8](https://playback.akamaized.net/streams/2675843_1839332_lsiui6f1eich1f3f2lb_1/media/2675843_1839332_lsiui6f1eich1f3f2lb_1@678000pb.m3u8?dw=14400&ts=1544630400&hdnts=exp=1544804175~acl=/streams/2675843_1839332_lsiui6f1eich1f3f2lb_1/media*~hmac=86ff56b13de84250dababce37a014da5f6717b630436fc2b41ff9839420163e2) | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
+| 8 La Marina TV | - | [web](http://8lamarinatv.com/) | - | [Logo](http://8lamarinatv.com/wp-content/uploads/2018/05/8lamarinatv.png) | - |
 | TVU | - | - | - | - | - |
-| Nord | - | - | - | - | - |
-| Sucro TV | - | - | - | - | - |
-| MK TV | - | - | - | - | - |
-| Canal 7 Televalencia | - | - | - | - | - |
+| Nord | - | [web](http://www.nordtv.cat/) | - | - | - |
+| Sucro TV | - | [web](http://www.sucrotv.com/) | - | - | - |
+| MK TV | - | [web](http://www.radioontinyent.com/playerMK.html) | - | - | - |
 
 ## Internacionales
 
