@@ -274,7 +274,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | ¿HDTV? | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Televisión Canaria | - | [web](http://www.rtvc.es/television/directo.aspx) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_de_Televisi%C3%B3n_Canaria.svg/1280px-Logo_de_Televisi%C3%B3n_Canaria.svg.png) | - |
+| Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_de_Televisi%C3%B3n_Canaria.svg/1280px-Logo_de_Televisi%C3%B3n_Canaria.svg.png) | - |
 | Mírame TV | - | [web](https://mirametv.com/) | - | [Logo](https://www.mirametv.com/images/wSystem/logo.png) | - |
 | El Día TV | [m3u8](http://vs8.live.opencaster.com/opencaster/zmyrfjHztaoj/playlist.m3u8) | [web](http://eldia.tv/) | - | [Logo](http://eldia.tv/blog/wp-content/uploads/2016/06/eldiatv.png) | - |
 | Lancelot TV | [m3u8](http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8) | [web](http://www.lancelot.tv/directo)| - | [Logo](http://www.lancelot.tv/images/logo.svg) | - |
@@ -393,7 +393,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal Blau | [m3u8](http://live10.cdnmedia.tv/blautvlive/live.smil/playlist.m3u8) | [web](http://www.canalblau.cat/televisio/televisio-en-directe/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/f/f8/Canalblau_logo.png) | - |
 | Mar TV | [m3u8](http://k4.usastreams.com/CableLatino/martv/playlist.m3u8) | [web](http://martv.tv/emissio-en-directe/)| - | [Logo](http://martv.tv/wp-content/uploads/2017/10/Logo-martv.png) | - |
 | TAC 12 | [m3u8](http://vid=live10.cdnmedia.tv/tac12live/live.smil/playlist.m3u8) | [web](http://www.tac12.tv/en-directe) | - | [Logo](https://www.tac12.tv/templates/rt_ambrosia/custom/images/TAC12_tv_main-250px.png) | - |
-| Canal Terres de l'Ebre | - | [web](https://ebredigital.cat/en-directe/) | - | [Logo](http://www.alacarta.cat/api/assets/getFile/public/media/000/403/703/canal_te___alfa_300x85.png) | - |
+| Canal Terres de l'Ebre | [m3u8](http://live10.cdnmedia.tv/canaltetvlive/smil:live.smil/playlist.m3u8) | [web](https://ebredigital.cat/en-directe/) | - | [Logo](http://www.alacarta.cat/api/assets/getFile/public/media/000/403/703/canal_te___alfa_300x85.png) | - |
 | La Xarxa Catalunya | - | - | - | - | - |
 | Empordà TV | [m3u8](https://liveingesta118.cdnmedia.tv//empordatvlive/smil:live.smil/chunklist_b900000.m3u8) | [web](http://www.empordadigital.cat/) | - | [Logo](https://www.gerio.cat/imgMini/750/420/1218) | - |
 | TV Sant Cugat | - | [web](https://www.youtube.com/watch?v=5syAQzktTO4) | - | [Logo](http://www.tvsantcugat.cat/santcugatmagazine/wp-content/uploads/2017/10/cropped-logo-tvsc-i-scm-v2.png) | - |
@@ -859,7 +859,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Ona FM | - | - | - | - | - |
 | Onda Rambla | - | - | - | - | - |
 | RAC1 | - | - | - | - | - |
-| RAC 105 | - | - | - | - | - |
+| RAC 105 | [nsv](http://rac105.radiocat.net/;*.nsv) | [web](http://www.rac105.cat) | - | - | - |
 | RNE Ràdio 4 | - | - | - | - | - |
 | Radio Bronka | - | - | - | - | - |
 | Ràdio Ciutat de Badalona | - | - | - | - | - |
@@ -1011,12 +1011,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | RNA | - | - | - | - | - |
 | AM | - | - | - | - | - |
 
-=======
-| Canal | Stream | Web | ¿? | Logo | EPG ID |
-| - | - | - | - | - | - |
-| RAC105 | [nsv](http://rac105.radiocat.net/;*.nsv) | (web)[http://www.rac105.cat] | - | - | - |
-
-
 ### Licencia
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que debe poderse ver que la información que está utilizando procede de este repositorio.
 
@@ -1030,8 +1024,7 @@ Aparecemos en:
 [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Agradecimientos
-- @paurg15
-- @okelet
-- @carratraka
+
+[AUTHORS](https://github.com/LaQuay/TDTChannels/blob/master/AUTHORS.md)
 
 Y a todos aquellos que han colaborado, ya sea reportando un fallo o aportando enlaces!
