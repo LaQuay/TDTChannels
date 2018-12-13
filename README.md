@@ -83,8 +83,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | 24h | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8) | [web](http://www.rtve.es/directo/canal-24h/)| 270p, 360p, 576p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/150px-Logo_TVE-24h.svg.png) | 24H ASTRA SD 1.sp |
-| Canal Parlamento | [m3u8](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8) | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) | 640x360 | [Logo](http://www.congreso.es/wc/htdocs/web/img/canal_parlamento.gif) | - |
-| EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)| - | 720x404 | [Logo](https://pbs.twimg.com/profile_images/876740155473788928/4V7ewUTC_400x400.jpg) | - |
+| Canal Parlamento | [m3u8](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8) | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) | - | [Logo](http://www.congreso.es/wc/htdocs/web/img/canal_parlamento.gif) | - |
+| EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8)| - | - | [Logo](https://pbs.twimg.com/profile_images/876740155473788928/4V7ewUTC_400x400.jpg) | - |
 
 ### Deportivos
 
@@ -658,32 +658,35 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Onda Cero | - | - | - | - | - |
-| Melodía FM | - | - | - | - | - |
-| Europa FM | - | - | - | - | - |
-| RNE Radio Nacional | - | - | - | - | - |
-| RNE Radio 3 | - | - | - | - | - |
-| RNE Radio 5 | - | - | - | - | - |
-| RNE Radio Clásica | - | - | - | - | - |
-| RNE Radio Exterior | - | - | - | - | - |
-| Los 40 | - | - | - | - | - |
-| Los 40 Classic | - | - | - | - | - |
-| Cadena 100 | - | - | - | - | - |
-| Cadena Dial | - | - | - | - | - |
-| Cadena SER | - | - | - | - | - |
-| Cadena COPE | - | - | - | - | - |
-| esRadio | - | - | - | - | - |
-| Radio Intereconomía | - | - | - | - | - |
-| Radio Marca | - | - | - | - | - |
-| Rock FM | - | - | - | - | - |
-| Radio María | - | - | - | - | - |
-| Hit FM | - | - | - | - | - |
-| Máxima FM | - | - | - | - | - |
-| MegaStar FM | - | - | - | - | - |
-| Radiolé | - | - | - | - | - |
-| Loca FM | - | - | - | - | - |
-| Q FM | - | - | - | - | - |
-| Radio Marca | - | - | - | - | - |
+| Onda Cero | - | [web](https://www.ondacero.es/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/225px-Onda_Cero_logo.svg.png) | - |
+| Melodía FM | - | [web](http://www.melodia-fm.com/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MelodiaFM_logo.svg/180px-MelodiaFM_logo.svg.png) | - |
+| Europa FM | - | [web](https://www.europafm.com/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/EuropaFM_logo.svg/225px-EuropaFM_logo.svg.png) | - |
+| RNE Radio Nacional | - | [web](http://www.rtve.es/radio/radio-nacional/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_RNE.svg/225px-Logo_RNE.svg.png) | - |
+| RNE Radio 3 | - | [web](http://www.rtve.es/radio/radio3/directo/?pais=ES) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Radio_3_RNE_Spain.svg/120px-Radio_3_RNE_Spain.svg.png) | - |
+| RNE Radio 5 | - | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404&v=undefined&vp=&lang=es) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Radio_5_RNE_Spain.svg/150px-Radio_5_RNE_Spain.svg.png) | - |
+| RNE Radio Clásica | - | [web](http://www.rtve.es/radio/radio-clasica/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Radio_Cl%C3%A1sica_RNE_Spain.svg/150px-Radio_Cl%C3%A1sica_RNE_Spain.svg.png) | - |
+| RNE Radio Exterior de España | - | [web](http://www.rtve.es/radio/radioexterior-endirecto/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Radio_Exterior_RNE_Spain.svg/150px-Radio_Exterior_RNE_Spain.svg.png) | - |
+| LOS40 | - | [web](https://play.los40.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/175px-Los_40.svg.png) | - |
+| LOS40 Classic | - | [web](https://play.los40.com/emisora/los40_classic/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LOS40_Classic.svg/250px-LOS40_Classic.svg.png) | - |
+| LOS40 Party | - | [web](https://play.los40.com/emisora/los40_party/) | - | - | - |
+| LOS40 Latin | - | [web](https://play.los40.com/emisora/los40_latin/) | - | - | - |
+| LOS40 Working | - | [web](https://play.los40.com/emisora/los40_working/) | - | - | - |
+| LOS40 Runners | - | [web](https://play.los40.com/emisora/los40_runners/) | - | - | - |
+| Cadena 100 | - | [web](http://www.cadena100.es/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Cadena100.svg/115px-Cadena100.svg.png) | - |
+| Cadena Dial | - | [web](https://play.cadenadial.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/225px-Cadena_Dial.svg.png) | - |
+| Cadena SER | - | [web](http://play.cadenaser.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
+| Cadena COPE | - | [web](https://www.cope.es/directos/net1) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_Cadena_COPE.png/100px-Logo_Cadena_COPE.png) | - |
+| esRadio | - | [web](https://esradio.libertaddigital.com/directo.html) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/EsRadio_logo.svg/225px-EsRadio_logo.svg.png) | - |
+| Radio Intereconomía | - | [web](https://intereconomia.com/radio/) | - | [Logo](https://intereconomia.com/wp-content/themes/citynews-child/img/radio_intereconomia_logo.png) | - |
+| Radio Marca | - | [web](https://www.marca.com/radio.html) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/RadioMARCA.svg/180px-RadioMARCA.svg.png) | - |
+| Rock FM | - | [web](http://player.rockfm.fm/) | - | [Logo](http://www.rockfm.fm/img/rockfm/RFM_HEADER.jpg) | - |
+| Radio María | - | [web](https://www.radiomaria.es/) | - | [Logo](https://www.radiomaria.es/assets/img/logoCabecera.jpg) | - |
+| Hit FM | [m3u](http://streams.kissfmradio.cires21.com/hitfm.m3u) | [web](http://www.hitfm.es/) | - | [Logo](https://vignette.wikia.nocookie.net/radios/images/5/5c/Hit_FM_%28KISS_Media%29.png/revision/latest?cb=20141010112659&path-prefix=es) | - |
+| Máxima FM | - | [web](https://play.maxima.fm/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M%C3%A1xima_FM.svg/200px-M%C3%A1xima_FM.svg.png) | - |
+| MegaStar FM | - | [web](http://www.megastar.fm/) | - | [Logo](https://vignette.wikia.nocookie.net/radios/images/b/bd/MegaStarFM_2013_color.png/revision/latest?cb=20140604221531&path-prefix=es) | - |
+| Radiolé | - | [web](https://play.radiole.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Radiol%C3%A9.jpg/225px-Radiol%C3%A9.jpg) | - |
+| Loca FM | - | [web]() | - | [Logo]() | - |
+| Q FM | - | [web]() | - | [Logo]() | - |
 
 ### Autonómicos
 
@@ -846,9 +849,9 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Mataró Ràdio | - | - | - | - | - |
 | Ona FM | - | - | - | - | - |
 | Onda Rambla | - | - | - | - | - |
-| RAC1 | - | - | - | - | - |
+| RAC1 | [nsv](http://rac1.radiocat.net/;*.nsv) | [web](https://www.rac1.cat) | - | - | - |
 | RAC 105 | [nsv](http://rac105.radiocat.net/;*.nsv) | [web](http://www.rac105.cat) | - | - | - |
-| RNE Ràdio 4 | - | - | - | - | - |
+| RNE Ràdio 4 | - | [web](http://www.rtve.es/radio/radio4-endirecto/) | - | - | - |
 | Radio Bronka | - | - | - | - | - |
 | Ràdio Ciutat de Badalona | - | - | - | - | - |
 | Ràdio Despí | - | - | - | - | - |
