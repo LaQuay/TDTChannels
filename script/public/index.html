@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<div class="container" style="margin-top: 30px; margin-bottom: 30px">
+<div class="container" style="margin-top: 30px; margin-bottom: 30px; padding-bottom: 50px;">
     <h1 class="display-3">TDTChannels</h1>
     <p class="lead">
         Bienvenido al reproductor del proyecto opensource TDTChannels
@@ -78,6 +78,17 @@
         </div>
     </div>
 </div>
+
+<div class="navbar fixed-bottom container">
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <em><strong>Nota</strong>: Esta web está diseñada únicamente para comprobar el funcionamiento con los canales
+            del repositorio. Queda fuera del objetivo algún otro uso. El usuario es el responsable del
+            uso que se le da a la web.</em>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+</div>
 <script>
     // Se espera en la URL este tipo de llamada
     // .html?type={audio,video}&channel={url_a_reproducir}
@@ -124,7 +135,7 @@
                 });
             }
 
-            getResolution(channelToReproduce);
+            getResolution(channelToReproduce, updateResolution);
         }
 	}
 

@@ -1,4 +1,4 @@
-function getResolution(from) {
+function getResolution(from, fn_callback) {
     $.get(from, function(data) {
         $response = data.split("\n");
 
@@ -12,8 +12,7 @@ function getResolution(from) {
             }
         });
 
-        // TODO: This should be a Callback
-        updateResolution($resolutions);
+        fn_callback($resolutions);
     });
 }
 
