@@ -694,10 +694,10 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Canal Sur Radio | - | - | - | - | - |
-| Canal Fiesta | - | - | - | - | - |
-| Flamenco Radio | - | - | - | - | - |
-| Radio Andalucía Información | - | - | - | - | - |
+| Canal Sur Radio | - | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_csr) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Canal_Sur_Radio.png/120px-Canal_Sur_Radio.png) | - |
+| Canal Fiesta | - | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_fiesta) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CANAL_FIESTA_RADIO-copia6.jpg/150px-CANAL_FIESTA_RADIO-copia6.jpg) | - |
+| Flamenco Radio | - | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_flamenco) | - | [Logo](https://mytuner.global.ssl.fastly.net/media/tvos_radios/GNHjZVC5Cb.png) | - |
+| Radio Andalucía Información | - | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_rai) | - | [Logo](https://mytuner.global.ssl.fastly.net/media/tvos_radios/p6PR6vtFtm.png) | - |
 | Cadena COPE Sevilla | - | - | - | - | - |
 | Cadena COPE Sierra Norte | - | - | - | - | - |
 | Cadena Digital | - | - | - | - | - |
@@ -739,8 +739,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Aragón Radio | - | - | - | - | - |
-| Aragón Radio 2.com | - | - | - | - | - |
+| Aragón Radio | - | [web](http://www.aragonradio.es/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/a/a3/Arag%C3%B3nRadio.png) | - |
+| Aragón Radio 2.com | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Arag%C3%B3n2Radio.png/225px-Arag%C3%B3n2Radio.png) | - |
 | All You Need Radio | - | - | - | - | - |
 | Hit Radio | - | - | - | - | - |
 | Onda Local Calatayud | - | - | - | - | - |
@@ -759,7 +759,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| RPA | - | - | - | - | - |
+| RPA | - | [web](https://rtpa.es/radio) | - | [Logo](https://rtpa.es/v3_assets/logo-RPA.svg) | - |
 | Cadena Dial Asturias | - | - | - | - | - |
 | Cadena Dial Eo-Navia | - | - | - | - | - |
 | Cadena SER - Oriente | - | - | - | - | - |
@@ -788,7 +788,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Canarias Radio | - | - | - | - | - |
+| Canarias Radio | - | [web](http://www.rtvc.es/canariasradio/directo.aspx?ref=tm) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_de_Canarias_Radio.svg/1280px-Logo_de_Canarias_Radio.svg.png) | - |
 | Atlántica FM | - | - | - | - | - |
 | Canal 4 Tenerife | - | - | - | - | - |
 | Canal 1 La Palma | - | - | - | - | - |
@@ -822,7 +822,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Castilla y León Radio | - | - | - | - | - |
+| Castilla y León Radio | - | [web](http://www.castillayleonesradio.es/) | - | - | - |
 | Cadena SER Burgos - Radio Castilla | - | - | - | - | - |
 | Cadena SER - Radio Valladolid | - | - | - | - | - |
 | Cadena SER - Radio Zamora | - | - | - | - | - |
@@ -837,9 +837,11 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Catalunya Informació | - | - | - | - | - |
-| Catalunya Ràdio | - | - | - | - | - |
-| iCat | - | - | - | - | - |
+| Catalunya Ràdio | - | [web](https://www.ccma.cat/catradio/directe/catalunya-radio/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Catalunya_R%C3%A0dio.svg/250px-Catalunya_R%C3%A0dio.svg.png) | - |
+| Catalunya Informació | - | [web](https://www.ccma.cat/catradio/directe/catalunya-informacio/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Catalunya_Informaci%C3%B3.svg/250px-Catalunya_Informaci%C3%B3.svg.png) | - |
+| Cat Música | - | [web](https://www.ccma.cat/catradio/directe/catmusica/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Catalunya_M%C3%BAsica.svg/2000px-Catalunya_M%C3%BAsica.svg.png) | - |
+| Cat Clàssica | - | [web](https://www.ccma.cat/catradio/directe/catclassica/) | - | [Logo](http://db.radioline.fr/pictures/radio_d82bacb209dfd93cad66ea1e7789b040/logo200.jpg?size=200) | - |
+| iCat | - | [web](https://www.ccma.cat/catradio/directe/icat/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ICat.cat.svg/225px-ICat.cat.svg.png) | - |
 | Antena 2000 | - | - | - | - | - |
 | Bas Radio | - | - | - | - | - |
 | Cadena SER - Ràdio Barcelona | - | - | - | - | - |
@@ -874,14 +876,17 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Canal Extremadura Radio | - | - | - | - | - |
+| Canal Extremadura Radio | - | [web](http://www.canalextremadura.es/radio/directo) | - | [Logo](https://cdn-profiles.tunein.com/s126406/images/bannerx.jpg?t=636444623756230000) | - |
 | Radio Miajadas | - | - | - | - | - |
 
 #### Galicia
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Radio Galega | - | - | - | - | - |
+| Radio Galega | - | [web](http://www.crtvg.es/rg/rg-en-directo/canle/radio-galega) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
+| Radio Galega Música | - | [web](http://www.crtvg.es/rg/rg-en-directo/canle/rg-musica) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
+| Son Galicia Radio | - | [web](http://www.crtvg.es/rg/rg-en-directo/canle/son-galicia) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
+| Radio Picariña | - | [web](http://www.crtvg.es/en-directo/canles-directos-rg/radio-picarina) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
 | Cadena SER - Radio vigo | - | - | - | - | - |
 | Cadena SER - Baixo Miño | - | - | - | - | - |
 | Cadena SER - Mariña | - | - | - | - | - |
@@ -894,7 +899,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| IB3 Ràdio | - | - | - | - | - |
+| IB3 Ràdio | - | [web](https://ib3.org/directe?c=radio) | - | [Logo](https://upload.wikimedia.org/wikipedia/ca/7/7e/Ib3_logo2008-1.png) | - |
 | Cadena SER - Radio Mallorca | - | - | - | - | - |
 | Ona Mallorca | - | - | - | - | - |
 | Radio Balear | - | - | - | - | - |
@@ -907,7 +912,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Onda Madrid | - | - | - | - | - |
+| Onda Madrid | - | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/225px-OndaMadrid.svg.png) | - |
 | City FM Radio | - | - | - | - | - |
 | Desencadena Usera | - | - | - | - | - |
 | ECO Leganés | - | - | - | - | - |
@@ -961,15 +966,15 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| EITB Musika | - | - | - | - | - |
-| Euskadi Irratia | - | - | - | - | - |
-| Gaztea | - | - | - | - | - |
+| EITB Musika | - | [web](https://www.eitb.eus/eu/irratia/eitb-musika/irratia-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eitbmusika.png/280px-Eitbmusika.png) | - |
+| Euskadi Irratia | - | [web](https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Euskadiirratia.png/280px-Euskadiirratia.png) | - |
+| Gaztea | - | [web](https://www.eitb.eus/eu/gaztea/gaztea-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gaztea_Spain.svg/200px-Gaztea_Spain.svg.png) | - |
+| Radio Euskadi | - | [web](https://www.eitb.eus/es/radio/radio-euskadi/radio-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Radioeuskadi.png/280px-Radioeuskadi.png) | - |
+| Radio Vitoria | - | [web](https://www.eitb.eus/es/radio/radio-vitoria/radio-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Radiovitoria.png/280px-Radiovitoria.png) | - |
 | Herri Irratia | - | - | - | - | - |
 | Radio Nervión | - | - | - | - | - |
 | Onda Vasca | - | - | - | - | - |
 | Punto Radio Euskadi | - | - | - | - | - |
-| Radio Euskadi | - | - | - | - | - |
-| Radio Vitoria | - | - | - | - | - |
 
 #### La Rioja
 
@@ -980,7 +985,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| À Punt FM | - | - | - | - | - |
+| À Punt FM | - | [web](https://apuntmedia.es/va/directe/radio) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_%C3%A0PuntFM.svg/150px-Logo_%C3%A0PuntFM.svg.png) | - |
 | Alzira Radio | - | - | - | - | - |
 | Cadena SER - Radio Castellón | - | - | - | - | - |
 | Cadena SER - Radio Valencia | - | - | - | - | - |
@@ -999,8 +1004,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | NSV | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| RNA | - | - | - | - | - |
-| AM | - | - | - | - | - |
+| RNA | - | [web](http://www.andorradifusio.ad/endirecte/rna) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
+| AM | - | [web](http://www.andorradifusio.ad/endirecte/am) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
 
 ### Licencia
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que debe poderse ver que la información que está utilizando procede de este repositorio.
