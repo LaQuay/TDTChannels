@@ -656,7 +656,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 ### Nacionales
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Onda Cero | - | [web](https://www.ondacero.es/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/225px-Onda_Cero_logo.svg.png) | - |
 | Melodía FM | - | [web](http://www.melodia-fm.com/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MelodiaFM_logo.svg/180px-MelodiaFM_logo.svg.png) | - |
@@ -668,10 +668,10 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | RNE Radio Exterior de España | - | [web](http://www.rtve.es/radio/radioexterior-endirecto/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Radio_Exterior_RNE_Spain.svg/150px-Radio_Exterior_RNE_Spain.svg.png) | - |
 | LOS40 | - | [web](https://play.los40.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/175px-Los_40.svg.png) | - |
 | LOS40 Classic | - | [web](https://play.los40.com/emisora/los40_classic/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LOS40_Classic.svg/250px-LOS40_Classic.svg.png) | - |
-| LOS40 Party | - | [web](https://play.los40.com/emisora/los40_party/) | - | - | - |
-| LOS40 Latin | - | [web](https://play.los40.com/emisora/los40_latin/) | - | - | - |
-| LOS40 Working | - | [web](https://play.los40.com/emisora/los40_working/) | - | - | - |
-| LOS40 Runners | - | [web](https://play.los40.com/emisora/los40_runners/) | - | - | - |
+| LOS40 Party | - | [web](https://play.los40.com/emisora/los40_party/) | - | [Logo](https://recursosweb.prisaradio.com/fotos/original/010002413727.jpg) | - |
+| LOS40 Latin | - | [web](https://play.los40.com/emisora/los40_latin/) | - | [Logo](https://recursosweb.prisaradio.com/fotos/original/010002344852.jpg) | - |
+| LOS40 Working | - | [web](https://play.los40.com/emisora/los40_working/) | - | [Logo](https://recursosweb.prisaradio.com/fotos/original/010002344870.jpg) | - |
+| LOS40 Runners | - | [web](https://play.los40.com/emisora/los40_runners/) | - | [Logo](https://recursosweb.prisaradio.com/fotos/original/010002344864.jpg) | - |
 | Cadena 100 | - | [web](http://www.cadena100.es/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Cadena100.svg/115px-Cadena100.svg.png) | - |
 | Cadena Dial | - | [web](https://play.cadenadial.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/225px-Cadena_Dial.svg.png) | - |
 | Cadena SER | - | [web](http://play.cadenaser.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
@@ -692,7 +692,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Andalucía
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Canal Sur Radio | - | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_csr) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Canal_Sur_Radio.png/120px-Canal_Sur_Radio.png) | - |
 | Canal Fiesta | - | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_fiesta) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CANAL_FIESTA_RADIO-copia6.jpg/150px-CANAL_FIESTA_RADIO-copia6.jpg) | - |
@@ -737,7 +737,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Aragón
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Aragón Radio | - | [web](http://www.aragonradio.es/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/a/a3/Arag%C3%B3nRadio.png) | - |
 | Aragón Radio 2.com | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Arag%C3%B3n2Radio.png/225px-Arag%C3%B3n2Radio.png) | - |
@@ -757,7 +757,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Asturias
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | RPA | - | [web](https://rtpa.es/radio) | - | [Logo](https://rtpa.es/v3_assets/logo-RPA.svg) | - |
 | Cadena Dial Asturias | - | - | - | - | - |
@@ -786,7 +786,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Canarias
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Canarias Radio | - | [web](http://www.rtvc.es/canariasradio/directo.aspx?ref=tm) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_de_Canarias_Radio.svg/1280px-Logo_de_Canarias_Radio.svg.png) | - |
 | Atlántica FM | - | - | - | - | - |
@@ -806,13 +806,13 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Cantabria
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Radio Juventud de Torrelavega | - | - | - | - | - |
 
 #### Castilla-La Mancha
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Cadena SER - Radio Albacete | - | - | - | - | - |
 | Radio Arrebato | - | - | - | - | - |
@@ -820,7 +820,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Castilla y León
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Castilla y León Radio | - | [web](http://www.castillayleonesradio.es/) | - | - | - |
 | Cadena SER Burgos - Radio Castilla | - | - | - | - | - |
@@ -835,7 +835,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Catalunya
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Catalunya Ràdio | - | [web](https://www.ccma.cat/catradio/directe/catalunya-radio/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Catalunya_R%C3%A0dio.svg/250px-Catalunya_R%C3%A0dio.svg.png) | - |
 | Catalunya Informació | - | [web](https://www.ccma.cat/catradio/directe/catalunya-informacio/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Catalunya_Informaci%C3%B3.svg/250px-Catalunya_Informaci%C3%B3.svg.png) | - |
@@ -869,19 +869,19 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Ceuta
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 
 #### Extremadura
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Canal Extremadura Radio | - | [web](http://www.canalextremadura.es/radio/directo) | - | [Logo](https://cdn-profiles.tunein.com/s126406/images/bannerx.jpg?t=636444623756230000) | - |
 | Radio Miajadas | - | - | - | - | - |
 
 #### Galicia
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Radio Galega | - | [web](http://www.crtvg.es/rg/rg-en-directo/canle/radio-galega) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
 | Radio Galega Música | - | [web](http://www.crtvg.es/rg/rg-en-directo/canle/rg-musica) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
@@ -897,7 +897,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Islas Baleares
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | IB3 Ràdio | - | [web](https://ib3.org/directe?c=radio) | - | [Logo](https://upload.wikimedia.org/wikipedia/ca/7/7e/Ib3_logo2008-1.png) | - |
 | Cadena SER - Radio Mallorca | - | - | - | - | - |
@@ -910,7 +910,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Madrid
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Onda Madrid | - | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/225px-OndaMadrid.svg.png) | - |
 | City FM Radio | - | - | - | - | - |
@@ -939,12 +939,12 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Melilla
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 
 #### Murcia
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Cadena SER - Radio Murcia | - | - | - | - | - |
 | Onda Regional de Murcia | - | - | - | - | - |
@@ -952,7 +952,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### Navarra
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Bit FM Pamplona | - | - | - | - | - |
 | Eguzki Irratia | - | - | - | - | - |
@@ -964,7 +964,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### País Vasco
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | EITB Musika | - | [web](https://www.eitb.eus/eu/irratia/eitb-musika/irratia-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eitbmusika.png/280px-Eitbmusika.png) | - |
 | Euskadi Irratia | - | [web](https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Euskadiirratia.png/280px-Euskadiirratia.png) | - |
@@ -978,12 +978,12 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 #### La Rioja
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 
 #### Valencia
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | À Punt FM | - | [web](https://apuntmedia.es/va/directe/radio) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_%C3%A0PuntFM.svg/150px-Logo_%C3%A0PuntFM.svg.png) | - |
 | Alzira Radio | - | - | - | - | - |
@@ -997,12 +997,12 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 ### Internacionales
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 
 ### Andorra
 
-| Emisoras | NSV | Web | Calidad | Logo | EPG ID |
+| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | RNA | - | [web](http://www.andorradifusio.ad/endirecte/rna) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
 | AM | - | [web](http://www.andorradifusio.ad/endirecte/am) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
