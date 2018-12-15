@@ -65,15 +65,15 @@
                     </button>
                 </div>
             </div>
-            <audio id="audio-controller" controls>
-                <source id="audio-player" src="" autoplay>
+            <audio id="audio-controller" controls autoplay="">
+                <source id="audio-player" src="" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
             <div id="audio-information" class="shadow-sm p-3 mb-5 bg-white rounded" style="margin-top: 15px">
                 <p class="lead">Información de la reproducción</p>
                 Formatos soportados
                 <br>
-                <em>nsv</em>
+                <em>aac</em>, <em>mp3</em>, <em>nsv</em><em>audio/mpeg</em>
             </div>
         </div>
     </div>
@@ -116,9 +116,8 @@
     }
 
 	function reproduceVideo(channelToReproduce) {
-	    console.log("Reproducing " + channelToReproduce);
+	    console.log("Reproducing video: " + channelToReproduce);
         if (channelToReproduce.includes("m3u8")) {
-            console.log("Reproducing video")
             var divInfo = document.getElementById("video-player").childElementCount;
             if (divInfo == 0) {
                 player = new Clappr.Player({
@@ -140,27 +139,23 @@
 	}
 
 	function reproduceAudio(channelToReproduce) {
-	    console.log("Reproducing " + channelToReproduce);
-	    if (channelToReproduce.includes("nsv")) {
-            console.log("Reproducing audio")
+	    console.log("Reproducing audio: " + channelToReproduce);
 
-            var audioSource = document.getElementById('audio-controller');
-            var audioPlayer = document.getElementById('audio-player');
+        var audioSource = document.getElementById('audio-controller');
+        var audioPlayer = document.getElementById('audio-player');
 
-            audioPlayer.src = channelToReproduce;
+        audioPlayer.src = channelToReproduce;
+        audioSource.load();
+        audioSource.pause();
 
-            audioSource.load();
-            audioSource.pause();
-            var playPromise = audioSource.play();
-
-            if (playPromise !== undefined) {
-              playPromise.then(function() {
-                // Automatic playback started!
-              }).catch(function(error) {
-                // Automatic playback failed.
-                // Show a UI element to let the user manually start playback.
-              });
-            }
+        var playPromise = audioSource.play();
+        if (playPromise !== undefined) {
+          playPromise.then(function() {
+            // Automatic playback started!
+          }).catch(function(error) {
+            // Automatic playback failed.
+            // Show a UI element to let the user manually start playback.
+          });
         }
     }
 
