@@ -666,7 +666,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | RNE Radio 5 | - | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404&v=undefined&vp=&lang=es) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Radio_5_RNE_Spain.svg/150px-Radio_5_RNE_Spain.svg.png) | - |
 | RNE Radio Clásica | - | [web](http://www.rtve.es/radio/radio-clasica/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Radio_Cl%C3%A1sica_RNE_Spain.svg/150px-Radio_Cl%C3%A1sica_RNE_Spain.svg.png) | - |
 | RNE Radio Exterior de España | - | [web](http://www.rtve.es/radio/radioexterior-endirecto/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Radio_Exterior_RNE_Spain.svg/150px-Radio_Exterior_RNE_Spain.svg.png) | - |
-| LOS40 | - | [web](https://play.los40.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/175px-Los_40.svg.png) | - |
+| LOS40 | [Stream](http://19983.live.streamtheworld.com/LOS40_SC) | [web](https://play.los40.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/175px-Los_40.svg.png) | - |
 | LOS40 Classic | - | [web](https://play.los40.com/emisora/los40_classic/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LOS40_Classic.svg/250px-LOS40_Classic.svg.png) | - |
 | LOS40 Party | - | [web](https://play.los40.com/emisora/los40_party/) | - | [Logo](https://recursosweb.prisaradio.com/fotos/original/010002413727.jpg) | - |
 | LOS40 Latin | - | [web](https://play.los40.com/emisora/los40_latin/) | - | [Logo](https://recursosweb.prisaradio.com/fotos/original/010002344852.jpg) | - |
@@ -682,10 +682,11 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Rock FM | - | [web](http://player.rockfm.fm/) | - | [Logo](http://www.rockfm.fm/img/rockfm/RFM_HEADER.jpg) | - |
 | Radio María | - | [web](https://www.radiomaria.es/) | - | [Logo](https://www.radiomaria.es/assets/img/logoCabecera.jpg) | - |
 | Hit FM | [m3u](http://streams.kissfmradio.cires21.com/hitfm.m3u) | [web](http://www.hitfm.es/) | - | [Logo](https://vignette.wikia.nocookie.net/radios/images/5/5c/Hit_FM_%28KISS_Media%29.png/revision/latest?cb=20141010112659&path-prefix=es) | - |
-| Máxima FM | - | [web](https://play.maxima.fm/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M%C3%A1xima_FM.svg/200px-M%C3%A1xima_FM.svg.png) | - |
+| Máxima FM | [aac](https://19393.live.streamtheworld.com/MAXIMAFMAAC.aac) | [web](https://play.maxima.fm/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M%C3%A1xima_FM.svg/200px-M%C3%A1xima_FM.svg.png) | - |
 | MegaStar FM | - | [web](http://www.megastar.fm/) | - | [Logo](https://vignette.wikia.nocookie.net/radios/images/b/bd/MegaStarFM_2013_color.png/revision/latest?cb=20140604221531&path-prefix=es) | - |
 | Radiolé | - | [web](https://play.radiole.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Radiol%C3%A9.jpg/225px-Radiol%C3%A9.jpg) | - |
-| Loca FM | - | - | - | - | - |
+| Loca FM | [Stream](http://audio-online.net:2300/live) | - | - | - | - |
+| Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | - | - | - | - |
 | Q FM | - | - | - | - | - |
 
 ### Autonómicos
@@ -725,7 +726,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | La Mega FM | - | - | - | - | - |
 | Radio Oro Marbella | - | - | - | - | - |
 | Radio Oro Málaga | - | - | - | - | - |
-| Radio Planeta | - | - | - | - | - |
+| Radio Planeta | [Stream](http://5.79.66.113:8004/stream) | - | - | - | - |
 | Radio Poniente | - | - | - | - | - |
 | Radio Sierra | - | - | - | - | - |
 | Radio Marca Sevilla | - | - | - | - | - |
@@ -905,7 +906,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Radio Balear | - | - | - | - | - |
 | Radio Manía Mallorca | - | - | - | - | - |
 | Última Hora Radio | - | - | - | - | - |
-| Ibiza Global Radio | - | - | - | - | - |
+| Ibiza Global Radio | [Stream](http://ibizaglobalradio.streaming-pro.com:8024/stream) | - | - | - | - |
 | ibizaSonica | - | - | - | - | - |
 
 #### Madrid
@@ -999,6 +1000,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
+| Beach Grooves | [Stream](http://stream.beachgrooves.com:8000/stream) | - | - | - | - |
+| Pioneer DJ Radio | [Stream](http://listen.pioneerdjradio.com:8550/stream) | - | - | - | - |
 
 ### Andorra
 
