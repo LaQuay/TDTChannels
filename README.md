@@ -92,7 +92,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | - | - | - | - | - | - |
 | TDP | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39733/master.m3u8) | [web](http://www.rtve.es/directo/teledeporte/)| 270p, 360p, 576p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/150px-Tve_teledeporte.png) | TDEP ASTRA SD 1.sp |
 | TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | 270p, 360p, 576p, 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/8/86/Tdp_HD.png) | TDEP ASTRA SD 1.sp |
-| Gol TV | [m3u8](https://webgol-hls-live-overon.secure2.footprint.net/edge_gol/_definst_/gol_gol24h_MB_896/chunklist.m3u8?secureHash=MzcuMjIzLjI0My4xMjk=&nva=20181213145533&token=0eb65ffa7066ea544c455) | [web](http://www.goltelevision.com/live) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/150px-Gol.svg.png) | GOL TDT SD 2.sp |
+| Gol TV | - | [web](http://www.goltelevision.com/live) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/150px-Gol.svg.png) | GOL TDT SD 2.sp |
 | RealMadrid TV | [m3u8 # Español](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | 180p, 360p, 404p | [Logo](https://vignette.wikia.nocookie.net/realmadrid/images/a/a2/Escudo.png/revision/latest?cb=20071129200831) | REALM ASTRA SD 1.sp |
 | Barça TV | - | - | - | [Logo](http://mediapunta.net/wp-content/uploads/2018/05/logo-barca-tv.png) | BARNA ASTRA SD 1.sp |
 | Betis TV | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/)| - | [Logo](https://upload.wikimedia.org/wikipedia/an/f/f1/Real_Betis.png) | - |
@@ -104,7 +104,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Disney Channel | [m3u8](https://eslivestream-lh.akamaihd.net/i/live_1@318671/index_6_av-p.m3u8) | [web](http://tv.disney.es/disney-channel?autoplay=true) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/150px-2014_Disney_Channel_logo.svg.png) | DCH ASTRA HD 1.sp |
+| Disney Channel | - | [web](http://tv.disney.es/disney-channel?autoplay=true) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/150px-2014_Disney_Channel_logo.svg.png) | DCH ASTRA HD 1.sp |
 | Boing | - | [web](http://www.mitele.es/directo/boing)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/150px-Boing.svg.png) | BOING ASTRA SD 1.sp |
 | Clan | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png) | CLANTV ASTRA SD 1.sp |
 
@@ -317,7 +317,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Ciudad Real TV | - | [web](http://www.ustream.tv/channel/17022458) | - | [Logo](http://static-cdn1.ustream.tv/i/channel/picture/1/7/0/2/17022458/17022458,192x192,r:3.jpg) | - |
 | Visión 6 | [m3u8](https://secure.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | - | [Logo](http://www.visionseis.tv/wp-content/uploads/2016/05/logo-visionseis.png) | - |
 | Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/master.m3u8) | [web](http://villarrobledo.com/canal4.php) | 1080p | [Logo](http://bitllarrobledo.com/wp-content/uploads/2015/12/canal4.jpg) | - |
-| InfoCanal TV Almansa | [m3u8](http://emision2.tvalmansa.es/stream/h-MyXvK8ZpuwKGEyg9pajTwYAeyXD.m3u8) | [web](https://zonacliente.almatelecom.es/videos/infocanal) | - | [Logo](https://almatelecom.es/wp-content/uploads/2017/10/logo-infocanal1.png) | - |
+| InfoCanal TV Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | - | [Logo](https://almatelecom.es/wp-content/uploads/2017/10/logo-infocanal1.png) | - |
 | Albacete TeVe | - | - | - | - | - |
 | CNC | - | - | - | - | - |
 | TV La Mancha | - | - | - | - | - |
@@ -509,7 +509,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Life TV | - | [web](http://www.lifetelevision.es/) | - | [Logo](https://static.wixstatic.com/media/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png/v1/fill/w_201,h_146,al_c,q_80,usm_0.66_1.00_0.01/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.webp) | - |
 | Solidaria TV | [m3u8](http://panel2.cdnstreamserver.com/live/solidariatv-webhd.m3u8) | [web](http://es.solidariatv.com/en-vivo) | - | [Logo](http://es.solidariatv.com/images/logo_grande.png) | - |
 | 8madrid | - | [web](http://www.8madrid.tv/) | - | [Logo](http://www.8madrid.tv/images/8madrid%20nuestro%20cine%20positivott.jpg) | - |
-| Enlace TV | [m3u8](https://playback.akamaized.net/streams/2675843_1839332_lsiui6f1eich1f3f2lb_1/media/2675843_1839332_lsiui6f1eich1f3f2lb_1@678000pb.m3u8?dw=14400&ts=1544630400&hdnts=exp=1544804175~acl=/streams/2675843_1839332_lsiui6f1eich1f3f2lb_1/media*~hmac=86ff56b13de84250dababce37a014da5f6717b630436fc2b41ff9839420163e2) | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
+| Enlace TV | - | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 
 #### Melilla
 
@@ -529,7 +529,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | GTM | - | [web](http://gtmtelevision.es/) | - | - | - |
 | Canal 8 Murcia | - | [web](http://www.canal8murcia.com/) | - | [Logo](http://www.canal8murcia.com/LOGO%20OCHO.jpg) | - |
 | La Opinión TV | - | - | - | - | - |
-| Enlace TV | [m3u8](https://playback.akamaized.net/streams/2675843_1839332_lsiui6f1eich1f3f2lb_1/media/2675843_1839332_lsiui6f1eich1f3f2lb_1@678000pb.m3u8?dw=14400&ts=1544630400&hdnts=exp=1544804175~acl=/streams/2675843_1839332_lsiui6f1eich1f3f2lb_1/media*~hmac=86ff56b13de84250dababce37a014da5f6717b630436fc2b41ff9839420163e2) | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
+| Enlace TV | - | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 | Canal 1 TV Mar-Menor - Torre Pacheco | - | [web](https://www.canal1tv.es/) | - | [Logo](https://www.canal1tv.es/wp-content/uploads/logo-canal1tv.png) | - |
 | Comarcal TV | - | [web](https://comarcaltv.es/) | - | [Logo](https://comarcaltv.es/wp-content/uploads/2017/01/logo_web-1-1.png) | - |
 
@@ -599,7 +599,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal 10 Millones | [m3u8](https://59b782181fb20.streamlock.net:455/yowi2/live-1000/master.m3u8) | [web](http://www.canal10millones.es/en-directo/) | 720p | [Logo](http://www.canal10millones.es/wp-content/uploads/2018/05/SMOSCA-somos-10-millones-para-conti-ok.png) | - |
 | Comarcal Televisió | - | [web](http://www.comarcal.tv/) | - | [Logo](https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/02/Comarcal-Televisi%C3%B3.png) | - |
 | Alicantí TV | - | - | - | - | - |
-| Enlace TV | [m3u8](https://playback.akamaized.net/streams/2675843_1839332_lsiui6f1eich1f3f2lb_1/media/2675843_1839332_lsiui6f1eich1f3f2lb_1@678000pb.m3u8?dw=14400&ts=1544630400&hdnts=exp=1544804175~acl=/streams/2675843_1839332_lsiui6f1eich1f3f2lb_1/media*~hmac=86ff56b13de84250dababce37a014da5f6717b630436fc2b41ff9839420163e2) | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
+| Enlace TV | - | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 | 8 La Marina TV | - | [web](http://8lamarinatv.com/) | - | [Logo](http://8lamarinatv.com/wp-content/uploads/2018/05/8lamarinatv.png) | - |
 | TVU | - | - | - | - | - |
 | Nord | - | [web](http://www.nordtv.cat/) | - | - | - |
@@ -632,7 +632,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8)| [web](https://www.nasa.gov/multimedia/nasatv/#media) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png) | - |
 | NASA TV - ISS Views | - | [web](https://www.nasa.gov/multimedia/nasatv/#iss) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png) | - |
 | Animal Planet Live | - | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) | - | [Logo](https://upload.wikimedia.org/wikipedia/en/e/e3/Animal_Planet_2018.svg) | - |
-| Sony Movie Channel | [m3u8](https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8) | - | 240p, 480p, 720p, 1080p | [Logo](https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest?cb=20170110112428) | - |
+| Sony Movie Channel | [m3u8](https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8) | - | 240p, 480p, 720p, 1080p | [Logo](https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png) | - |
 | XITE | [m3u8](http://highvolume03.streampartner.nl/vleugels_hd6/livestream/master.m3u8) | [web](https://xite.nl/live) | 720p | [Logo](https://xite.nl/img/xite_logo.png) | - |
 | Hispan TV | - | [web](https://www.youtube.com/c/hispantv/live)| - | [Logo](https://lagazzettadf.com/wp-content/uploads/2014/10/hispan_tv.png) | - |
 | M2O | [m3u8](http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | 224p, 360p | [Logo](https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o.png) | - |
@@ -685,8 +685,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Máxima FM | - | [web](https://play.maxima.fm/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M%C3%A1xima_FM.svg/200px-M%C3%A1xima_FM.svg.png) | - |
 | MegaStar FM | - | [web](http://www.megastar.fm/) | - | [Logo](https://vignette.wikia.nocookie.net/radios/images/b/bd/MegaStarFM_2013_color.png/revision/latest?cb=20140604221531&path-prefix=es) | - |
 | Radiolé | - | [web](https://play.radiole.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Radiol%C3%A9.jpg/225px-Radiol%C3%A9.jpg) | - |
-| Loca FM | - | [web]() | - | [Logo]() | - |
-| Q FM | - | [web]() | - | [Logo]() | - |
+| Loca FM | - | - | - | - | - |
+| Q FM | - | - | - | - | - |
 
 ### Autonómicos
 
