@@ -154,7 +154,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Televisión Carmona | - | [web](http://www.televisioncarmona.com/) | - | [Logo](https://pbs.twimg.com/profile_images/793108391694598144/0fRzgUn1_400x400.jpg) | - |
 | Onda Jerez TV | - | [web](http://www.ondajerez.com/television/television-en-directo/) | - | [Logo](http://www.ondajerez.com/fileadmin/introduction/images/theme/logo.png) | - |
 | Uvitel TV | - | [web](http://www.uvitel.tv/webtv/directo/) | - | [Logo](http://www.uvitel.tv/images/tv_logo.png) | - |
-| Canal Doñana | [m3u8](https://secure.todostreaming.es/live/disvision-alm.m3u8) | [web](http://www.canaldonana.com/) | 480x384 | [Logo](https://yt3.ggpht.com/a-/AN66SAxvE9cRiKegIYFjD8y_QetpC4ykm9Tz_ALvgw=s900-mo-c-c0xffffffff-rj-k-no) | - |
+| Canal Doñana | [m3u8](https://secure.todostreaming.es/live/disvision-alm.m3u8) | [web](http://www.canaldonana.com/) | 384p | [Logo](https://yt3.ggpht.com/a-/AN66SAxvE9cRiKegIYFjD8y_QetpC4ykm9Tz_ALvgw=s900-mo-c-c0xffffffff-rj-k-no) | - |
 | Málaga 24h Noticias TV | - | [web](http://malaga24h.com/directo-de-malaga-24-horas/) | - | [Logo](http://malaga24h.com/wp-content/uploads/2018/01/MOSCA-MALAGA-24H-PARA-WEB-25-fps.gif) | - |
 | Cadena Elite | [m3u8](https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8) | [web](http://www.cadenaelite.es/) | 606p | [Logo](http://www.cadenaelite.es/img/LOGO%20ELITE%20ROJO2013.png) | - |
 | TeleAntequera | - | [web](http://5.135.183.124/playertv/las4esquinastv/index.php) | - | [Logo](https://las4esquinas.com/wp-content/uploads/2017/12/logo-tele-antequera.png) | - |
@@ -708,7 +708,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Cadena SER - Radio Córdoba | - | - | - | - | - |
 | Cadena SER - El Condado | - | - | - | - | - |
 | Cadena SER - Radio Granada | - | - | - | - | - |
-| Cadena SER -  Levante | - | - | - | - | - |
+| Cadena SER - Levante | - | - | - | - | - |
 | Cadena SER - Radio Sevilla | - | - | - | - | - |
 | Candil Radio | - | - | - | - | - |
 | Central FM | - | - | - | - | - |
@@ -789,7 +789,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Canarias Radio | - | [web](http://www.rtvc.es/canariasradio/directo.aspx?ref=tm) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_de_Canarias_Radio.svg/1280px-Logo_de_Canarias_Radio.svg.png) | - |
+| Canarias Radio | - | [web](http://www.rtvc.es/canariasradio/directo.aspx) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_de_Canarias_Radio.svg/1280px-Logo_de_Canarias_Radio.svg.png) | - |
 | Atlántica FM | - | - | - | - | - |
 | Canal 4 Tenerife | - | - | - | - | - |
 | Canal 1 La Palma | - | - | - | - | - |
@@ -877,7 +877,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Canal Extremadura Radio | - | [web](http://www.canalextremadura.es/radio/directo) | - | [Logo](https://cdn-profiles.tunein.com/s126406/images/bannerx.jpg?t=636444623756230000) | - |
+| Canal Extremadura Radio | - | [web](http://www.canalextremadura.es/radio/directo) | - | [Logo](https://cdn-profiles.tunein.com/s126406/images/bannerx.jpg) | - |
 | Radio Miajadas | - | - | - | - | - |
 
 #### Galicia
