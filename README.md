@@ -177,35 +177,25 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | 7TV Andalucía - Costa del Sol | [m3u8](https://secure.todostreaming.es/live/ondaluz-olmarbella.m3u8) | [web](https://7tvandalucia.es/costa-del-sol/)| - | [Logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - |
 | 7TV Andalucía - Málaga | [m3u8](https://secure.todostreaming.es/live/ondaluz-olmalaga.m3u8) | [web](https://7tvandalucia.es/malaga/)| - | [Logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - |
 | 7TV Andalucía - Sevilla | [m3u8](https://secure.todostreaming.es/live/ondaluz-olsevilla.m3u8) | [web](https://7tvandalucia.es/sevilla/)| - | [Logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - |
-| Canal Sí/Una TV Almería | - | - | - | - | - |
-| Canal Almería TV | - | - | - | - | - |
-| Canal 28 | - | - | - | - | - |
+| Canal 28 TV | - | [web](http://www.almeriacanal28.es/) | - | - | - |
 | 8TV | - | - | - | - | - |
 | Ejido TV | - | - | - | - | - |
 | Una Televisión | - | - | - | - | - |
 | TV Campo de Gibraltar | - | - | - | - | - |
-| Canal 19 | - | - | - | - | - |
-| 8 El Puerto | - | - | - | - | - |
 | Chiclana TV | - | - | - | - | - |
 | Sol TV | - | - | - | - | - |
 | TVM | - | - | - | - | - |
-| Tu Compra en Casa | - | - | - | - | - |
 | Canal Subbetica | - | - | - | - | - |
-| Servicio Tel. Puente Genil | - | - | - | - | - |
 | Priego 8 | - | - | - | - | - |
 | Granada TV | - | - | - | - | - |
 | Cubika TV | - | - | - | - | - |
-| Accitania TV | - | - | - | - | - |
+| Accitania TV | - | [web](http://accitania.es/) | - | - | - |
 | TeleMotril | - | - | - | - | - |
 | Condavisión | - | - | - | - | - |
 | CNH Canal Huelva | - | - | - | - | - |
 | El Sembrador | - | - | - | - | - |
 | Canal Costa 2 | - | - | - | - | - |
-| Televisión Digital Costa de la Luz | - | - | - | - | - |
-| Sierra Televisión Digital | - | - | - | - | - |
-| Green Publicidad y Medios | - | - | - | - | - |
-| Alternativas de medios audiovisuales | - | - | - | - | - |
-| Diez TV | - | - | - | - | - |
+| Diez TV | - | [web](http://www.dieztv.es/) | - | - | - |
 | Alternativa TV | - | - | - | - | - |
 | Porta Azul TV | - | - | - | - | - |
 | Nuera TV | - | - | - | - | - |
@@ -220,10 +210,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Ronda TV | - | - | - | - | - |
 | Axartal TV | - | - | - | - | - |
 | TV Carmona | - | - | - | - | - |
-| Tu Bienestar Astrocanal | - | - | - | - | - |
 | Canal Luz | - | - | - | - | - |
 | Sevilla TV | - | - | - | - | - |
-| Una Televisión | - | - | - | - | - |
 | VillaFranca TV | - | - | - | - | - |
 | Telécija | - | - | - | - | - |
 | Andalucía Digital TV | - | - | - | - | - |
@@ -236,13 +224,12 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Huesca TV | [m3u8](https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8) | [web](http://www.radiohuesca.com/directo-htv)| - | [Logo](https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/huescatv-1.png?fit=500%2C300) | - |
 | Canal 25 Barbastro TV | [m3u8](http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8) | [web](http://www.canal25tv.es/index.php/ct-menu-item-5)| - | [Logo](http://www.canal25tv.es/images/template-content/untitled.png) | - |
 | La Tele TV | [m3u8](https://secure.todostreaming.es/live/generaltv-livestream.m3u8) | [web](http://www.latele-tv.com/) | - | [Logo](http://www.latele-tv.com/img/ico-general-footer.png) | - |
-| Factoría de Contenidos | - | - | - | - | - |
 | La General TV | - | - | - | - | - |
 | Canal 6 | - | - | - | - | - |
-| Canal 44 | - | - | - | - | - |
+| Canal 44 | - | [web](http://www.canal44.tv/) | - | - | - |
 | 31TV | - | - | - | - | - |
 | TV Ayto Alcañiz | - | - | - | - | - |
-| La Comarca TeVe | - | - | - | - | - |
+| La Comarca TeVe | - | [web](https://www.lacomarca.tv/) | - | - | - |
 | Calamocha TV | - | - | - | - | - |
 | Tele Teruel TLT | - | - | - | - | - |
 | Ejea TV | - | - | - | - | - |
@@ -257,15 +244,11 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | TeleAsturias | - | [web](http://tvonline.teleasturias.com/) | - | [Logo](https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Teleasturias.png?fit=400%2C260) | - |
 | EsAsturiasTV | - | [web](https://mips.tv/esAsturiasTelevision) | - | [Logo](http://www.esasturias.tv/wp-content/uploads/2015/10/200x2001.png) | - |
 | Canal 10 | - | [web](http://www.canal10tv.com/) | - | [Logo](https://generacionalsa.files.wordpress.com/2008/08/logopequeno.gif) | - |
-| Ed. Prensa Asturiana | - | - | - | - | - |
 | TeleAvilés | - | - | - | - | - |
 | TeleNarcea | - | - | - | - | - |
-| TLG | - | - | - | - | - |
-| UTE Opolo | - | - | - | - | - |
-| ORT | - | - | - | - | - |
+| TLG | - | [web](http://www.produccionesalnorte.com/) | - | - | - |
+| ORT | - | [web](https://www.ort-ort.com/) | - | - | - |
 | Oviedo TV | - | - | - | - | - |
-| Producciones Grela | - | - | - | - | - |
-| Cuencas Mineras TV | - | - | - | - | - |
 
 #### Canarias
 
@@ -285,21 +268,17 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Mi Tierra Televisión | - | [web](http://www.mitierratelevision.com/directo/) | - | [Logo](http://www.mitierratelevision.com/wp-content/themes/mitierraTV/gfx/logoMT_sintexto.png) | - |
 | Televisión Mogán | [m3u8](https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w1059529458.m3u8) | [web](http://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | - | [Logo](https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/television-mogan.png) | - |
 | Fuerteventura TV | - | - | - | - | - |
-| Teledifusión Fuerteventura | - | - | - | - | - |
 | La Provincia | - | - | - | - | - |
-| Enjoy | - | - | - | - | - |
 | TIC Canal 8 | - | - | - | - | - |
 | Canal 7 Gran Canaria | - | - | - | - | - |
 | Canal 13 | - | - | - | - | - |
-| RTI | - | - | - | - | - |
-| Canal (L) | - | - | - | - | - |
 
 #### Cantabria
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Popular TV Cantabria | [m3u8](http://cls.todostreaming.eu/ptvcantabria/livestream/playlist.m3u8) | [web](http://populartvcantabria.com/livetv/) | - | [Logo](http://proyectohombrecantabria.org/wp-content/uploads/2014/08/populartv.png) | - |
-| TeleBahía | - | - | - | - | - |
+| TeleBahía | - | [web](https://www.youtube.com/user/telebahia) | - | - | - |
 
 #### Castilla La-Mancha
 
@@ -318,11 +297,9 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/master.m3u8) | [web](http://villarrobledo.com/canal4.php) | 1080p | [Logo](http://bitllarrobledo.com/wp-content/uploads/2015/12/canal4.jpg) | - |
 | InfoCanal TV Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | - | [Logo](https://almatelecom.es/wp-content/uploads/2017/10/logo-infocanal1.png) | - |
 | Albacete TeVe | - | - | - | - | - |
-| CNC | - | - | - | - | - |
 | TV La Mancha | - | - | - | - | - |
 | Tele Valdepeñas | - | - | - | - | - |
 | Canal 10 TV | - | - | - | - | - |
-| Ocio La Mancha | - | - | - | - | - |
 | Canal 56 | - | - | - | - | - |
 | Cuencua TeVe | - | - | - | - | - |
 | 8Televisión | - | - | - | - | - |
@@ -342,7 +319,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | TV Benavente | - | [web](http://www.tvbenavente.es/television-online/) | - | [Logo](https://pbs.twimg.com/profile_images/1896876073/tv_benavente-twitter-logo_400x400.jpg) | - |
 | Telearanda | - | [web](http://www.telearanda.es/) | - | [Logo](http://www.telearanda.es/imagenes/inicio.jpg) | - |
 | TV Madrigal | - | - | - | - | - |
-| Onda Anda Lema | - | - | - | - | - |
 | Televisión Miranda | - | - | - | - | - |
 | Teleno TV | - | - | - | - | - |
 | Televisión Ponferrada | - | - | - | - | - |
@@ -351,7 +327,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Iris Televisión | - | - | - | - | - |
 | Televisión Peñaranda | - | - | - | - | - |
 | Tele Almazán | - | - | - | - | - |
-| Televisión Medinense | - | - | - | - | - |
 
 #### Catalunya
 
@@ -402,27 +377,19 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Televisió de Cardedeu | [m3u8](https://liveingesta118.cdnmedia.tv//cardedeutvlive/smil:live.smil/master.m3u8) | [web](https://www.rtvc.cat/tele/) | - | [Logo](https://www.rtvc.cat/wp-content/uploads/2017/04/logo_x100.png) | - |
 | Olot Televisió | [m3u8](https://liveingesta118.cdnmedia.tv//olottvlive/smil:live.smil/master.m3u8) | [web](http://www.olot.tv/olot-televisio-directe/) | - | [Logo](http://www.olot.tv/wp-content/uploads/2014/01/olot-televisio-logotip25-300x74.jpg) | - |
 | TV Hospitalet | - | [web](https://lhdigital.cat/web/digital-h/televisio) | - | [Logo](https://lhdigital.cat/LH-theme-v3/images/common/Logo-LHdigital-Portada.png) | - |
-| Potorro TV | - | - | - | - | - |
 | TeleTaxi TV | - | - | - | - | - |
 | Gavà Televisió | - | - | - | - | - |
 | TV10 | - | - | - | - | - |
 | Conca TV | - | - | - | - | - |
 | TV Manresa | - | - | - | - | - |
-| M1TV | - | - | - | - | - |
-| M2TV | - | - | - | - | - |
-| Maresme TV | - | - | - | - | - |
 | TV20 Terrassa | - | - | - | - | - |
-| Canal Nord | - | - | - | - | - |
-| TV Ripollés | - | - | - | - | - |
+| TV Ripollés | - | [web](https://televisiodelripolles.alacarta.cat/) | - | - | - |
 | 7 TV Segrià | - | - | - | - | - |
 | Tot TV | - | - | - | - | - |
 | Pirineus TV | - | - | - | - | - |
-| Aran Televisió | - | - | - | - | - |
-| Més TV | - | - | - | - | - |
-| TDCamp | - | - | - | - | - |
-| Ebre TV | - | - | - | - | - |
+| Aran Televisió | - | [web](https://arantv.alacarta.cat/) | - | - | - |
+| Ebre TV | - | [web](https://canalte.alacarta.cat/) | - | - | - |
 | Canal 21 Ebre | - | - | - | - | - |
-| Canal TE | - | - | - | - | - |
 | RAC105 | - | - | - | - | - |
 | Canal Parlament | [m3u8](https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/master.m3u8) | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) | 480p | [Logo](https://upload.wikimedia.org/wikipedia/ca/thumb/e/e4/Logotip_Parlament_de_Catalunya.svg/1280px-Logotip_Parlament_de_Catalunya.svg.png) | - |
 
@@ -432,7 +399,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | - | - | - | - | - | - |
 | Ceuta TV | [m3u8](http://cls.todostreaming.eu/anguloce/livestream/playlist.m3u8) | [web](http://ceutatv.com/pag/ceuta-tv-en-directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Ceuta_Televisi%C3%B3n.png) | - |
 | RTVCE | [m3u8](http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8) | [web](http://www.rtvce.es/tv-directo) | 288p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RtvCeuta.svg/150px-RtvCeuta.svg.png) | - |
-| Inv. El Bornal | - | - | - | - | - |
 
 #### Extremadura
 
@@ -440,17 +406,9 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | - | - | - | - | - | - |
 | Canal Extremadura | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8) | [web](http://www.canalextremadura.es/tv/directo#ahora)| 234p, 360p, 540p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/150px-CEXMA_new.png) | - |
 | ZF Televisión | - | [web](http://www.radiotvzafra.es/index.php/en-directo) | - | [Logo](https://yt3.ggpht.com/a-/AN66SAzBMUet8ARtBAUg9hmAbqndIpwzyhtbeekwyQ=s900-mo-c-c0xffffffff-rj-k-no) | - |
-| Almendralejo Televisión | - | - | - | - | - |
-| K30 TV | - | - | - | - | - |
-| Popular TV Extremadura | - | - | - | - | - |
-| Localia | - | - | - | - | - |
-| Televisión Extremadura | - | - | - | - | - |
-| Vía Extremadura TV | - | - | - | - | - |
+| Vía Extremadura TV | - | [web](http://viaplatatv.es/) | - | - | - |
 | La Ocho TV | - | - | - | - | - |
-| TVO | - | - | - | - | - |
-| ViaMerida | - | - | - | - | - |
-| RTV Zafra | - | - | - | - | - |
-| Tele Zafra | - | - | - | - | - |
+| Zafra TV | - | [web](https://www.zafratv.com/) | - | - | - |
 
 #### Galicia
 
@@ -470,10 +428,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Telemiño | - | [web](http://www.teleminho.com/video/en-directo/emision-directo-telemino/20171121182242026296.html) | - | [Logo](http://www.teleminho.com/media//teleminho/sections/logo-TM-grande.png) | - |
 | RTV Eume | - | - | - | - | - |
 | La Opinión de Coruña | - | - | - | - | - |
-| Ed. La Capital | - | - | - | - | - |
-| Salitre Multimedia | - | - | - | - | - |
 | TV Ferrol | - | [web](http://www.tvferrol.es/es/) | - | [Logo](http://angelesfernandez.cl/wp-content/uploads/2018/04/TV_Ferrol-1024x576.png) | - |
-| Localia | - | - | - | - | - |
 | Correo TV | - | - | - | - | - |
 | Canal Rías Baixas | - | [web](https://www.canalriasbaixas.com/) | - | [Logo](https://www.canalriasbaixas.com/imagenes/Canal7-logo-header.png) | - |
 | Faro de Vigo | - | - | - | - | - |
@@ -490,11 +445,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | - | [Logo](http://www.mallorcadiario.com/wp-content/uploads/sites/2/2012/04/luxmallorcaok.jpg) | - |
 | Canal 4 | - | [web](http://canal4televisio.com/canal-4-en-directo/) | - | [Logo](http://canal4televisio.com/wp-content/uploads/2016/10/pngTVc4.png) | - |
 | Teveí | - | - | - | - | - |
-| Broate Balear | - | - | - | - | - |
 | Ticket TV | - | - | - | - | - |
-| Guaita Produccions | - | - | - | - | - |
 | Televisió Menorquina | - | - | - | - | - |
-| Editora Balear | - | - | - | - | - |
 
 #### Madrid
 
@@ -562,7 +514,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Álava 7 TV | - | - | - | - | - |
 | Global 7 TV | - | [web](https://www.global7.tv/) | - | [Logo](https://www.global7.tv/wp-content/uploads/2018/12/global_7_logo-300x91.png) | - |
 | Txingudi Telebista | - | [web](https://txingudionline.com/) | - | [Logo](https://txingudionline.com/wp-content/uploads/2018/05/fav_icon_txingudi.png) | - |
-| uk4 | - | - | - | - | - |
 | Bizcaia TV | - | - | - | - | - |
 
 #### La Rioja
