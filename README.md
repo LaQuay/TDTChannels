@@ -9,7 +9,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 [Canales TDT](https://t.me/canales_tdt)
 
 ### Listado en formato M3U8 y JSON
-*(Última actualización: 09/12/2018)*
+*(Última actualización: 16/12/2018)*
 
 [Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
@@ -138,7 +138,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Teleonuba | [m3u8](http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8) | [web](http://www.teleonuba.es/en-directo/)| - | [Logo](http://www.teleonuba.es/imagenes/logo_teleonuba_fb.png) | - |
 | CanalCosta | [m3u8](http://stream.canalcostatv.es:1935/web/IKbtqOuj/chunklist_w2068473919.m3u8) | [web](http://www.canalcostatv.es/en-directo/)| - | [Logo](http://www.canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png) | - |
 | El Correo de Andalucía | [m3u8](http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8) | [web](http://elcorreoweb.es/elcorreotv) | - | [Logo](http://chabogados.es/wp-content/uploads/2018/06/elcorreo.png) | - |
-| InterAlmería | [m3u8](http://interalmeria.tv/directo/live.m3u8) | [web](http://www.interalmeria.tv/directo) | - | [Logo](http://www.interalmeria.tv/wp-content/uploads/2018/07/logo-iatv-reduc.png) | - |
+| InterAlmería TV | [m3u8](http://interalmeria.tv/directo/live.m3u8) | [web](http://www.interalmeria.tv/directo) | - | [Logo](http://www.interalmeria.tv/wp-content/uploads/2018/07/logo-iatv-reduc.png) | - |
 | Marbella TV | [m3u8](http://cls.todostreaming.eu/marbellatv/saldubatv/playlist.m3u8) | [web](http://rtvmarbella.tv/tv-en-directo/) | - | [Logo](http://rtvmarbella.tv/wp-content/themes/rtvmarbella/images/logos/class-turquesa.png) | - |
 | OndaJaen TV | - | [web](http://ondajaen.es/web/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Primer_logo_de_OndaJaen_RTV_-_Ayuntamiento_de_Ja%C3%A9n.jpg/245px-Primer_logo_de_OndaJaen_RTV_-_Ayuntamiento_de_Ja%C3%A9n.jpg) | - |
 | Estepona TV | [m3u8](http://62.210.96.18:1935/esteponatv/esteponatv/playlist.m3u8) | [web](https://television.estepona.es/tvendirecto/) | - | [Logo](https://yt3.ggpht.com/a-/AN66SAwXl_CQ8JsIUSjrRRajsFvA_OYmS08KDFL1Pg=s900-mo-c-c0xffffffff-rj-k-no) | - |
@@ -154,7 +154,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Televisión Carmona | - | [web](http://www.televisioncarmona.com/) | - | [Logo](https://pbs.twimg.com/profile_images/793108391694598144/0fRzgUn1_400x400.jpg) | - |
 | Onda Jerez TV | - | [web](http://www.ondajerez.com/television/television-en-directo/) | - | [Logo](http://www.ondajerez.com/fileadmin/introduction/images/theme/logo.png) | - |
 | Uvitel TV | - | [web](http://www.uvitel.tv/webtv/directo/) | - | [Logo](http://www.uvitel.tv/images/tv_logo.png) | - |
-| Canal Doñana | [m3u8](https://secure.todostreaming.es/live/disvision-alm.m3u8) | [web](http://www.canaldonana.com/) | 480x384 | [Logo](https://yt3.ggpht.com/a-/AN66SAxvE9cRiKegIYFjD8y_QetpC4ykm9Tz_ALvgw=s900-mo-c-c0xffffffff-rj-k-no) | - |
+| Canal Doñana | [m3u8](https://secure.todostreaming.es/live/disvision-alm.m3u8) | [web](http://www.canaldonana.com/) | 384p | [Logo](https://yt3.ggpht.com/a-/AN66SAxvE9cRiKegIYFjD8y_QetpC4ykm9Tz_ALvgw=s900-mo-c-c0xffffffff-rj-k-no) | - |
 | Málaga 24h Noticias TV | - | [web](http://malaga24h.com/directo-de-malaga-24-horas/) | - | [Logo](http://malaga24h.com/wp-content/uploads/2018/01/MOSCA-MALAGA-24H-PARA-WEB-25-fps.gif) | - |
 | Cadena Elite | [m3u8](https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8) | [web](http://www.cadenaelite.es/) | 606p | [Logo](http://www.cadenaelite.es/img/LOGO%20ELITE%20ROJO2013.png) | - |
 | TeleAntequera | - | [web](http://5.135.183.124/playertv/las4esquinastv/index.php) | - | [Logo](https://las4esquinas.com/wp-content/uploads/2017/12/logo-tele-antequera.png) | - |
@@ -177,7 +177,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | 7TV Andalucía - Costa del Sol | [m3u8](https://secure.todostreaming.es/live/ondaluz-olmarbella.m3u8) | [web](https://7tvandalucia.es/costa-del-sol/)| - | [Logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - |
 | 7TV Andalucía - Málaga | [m3u8](https://secure.todostreaming.es/live/ondaluz-olmalaga.m3u8) | [web](https://7tvandalucia.es/malaga/)| - | [Logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - |
 | 7TV Andalucía - Sevilla | [m3u8](https://secure.todostreaming.es/live/ondaluz-olsevilla.m3u8) | [web](https://7tvandalucia.es/sevilla/)| - | [Logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - |
-| Cadena Idal | - | - | - | - | - |
 | Canal Sí/Una TV Almería | - | - | - | - | - |
 | Canal Almería TV | - | - | - | - | - |
 | Canal 28 | - | - | - | - | - |
@@ -306,7 +305,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Castilla-La Mancha Media | [m3u8](http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8) | [web](http://www.cmmedia.es/en-directo/tv/) | - | [Logo](https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/73/1276787.png) | - |
+| CMM TV | [m3u8](http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8) | [web](http://www.cmmedia.es/en-directo/tv/) | - | [Logo](https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/73/1276787.png) | - |
 | Hellin TV | [m3u8](http://hellin.hls.flumotion.com/hellin/hellin-hls/playlist.m3u8) | [web](http://www.televisionhellin.com/tv-en-directo) | - | [Logo](http://www.achedehellin.com/wp-content/uploads/2014/09/logo-tvhellin.jpg) | - |
 | TeleToledo | - | [web](http://www.teletoledo.tv/index.php/tv-en-directo) | - | [Logo](http://www.teletoledo.tv/templates/teletoledo/images/logo-1224170745.png) | - |
 | Imás TV | [m3u8](http://cls.todostreaming.eu/imastv/livestream/playlist.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | - | [Logo](https://i1.wp.com/televisiones.lasteles.com/wp-content/uploads/2018/05/imas-tv.jpg) | - |
@@ -337,7 +336,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | CyL7 | [m3u8](http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8) | [web](https://www.rtvcyl.es/DirectoCylTV) | 1080p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_CYL7.svg/946px-Logo_CYL7.svg.png) | - |
-| La8 CyL | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png) | - |
+| La 8 CyL | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png) | - |
 | Telemedina Canal 9 | - | [web](http://www.telemedina.com/) | - | [Logo](http://www.lavozdemedinadigital.com/wordpress/wp-content/uploads/mosca.png) | - |
 | Canal 54 Burgos | - | [web](http://www.canal54.es/emision-en-directo/) | - | [Logo](http://www.canal54.es/wp-content/uploads/Logotipo-Superior.png) | - |
 | TV Benavente | - | [web](http://www.tvbenavente.es/television-online/) | - | [Logo](https://pbs.twimg.com/profile_images/1896876073/tv_benavente-twitter-logo_400x400.jpg) | - |
@@ -522,8 +521,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| La7 | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | 180p, 270p, 360p | [Logo](http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png) | - |
-| Televisión Murciana | - | [web](http://www.televisionmurciana.es/) | - | [Logo](http://www.televisionmurciana.es/images/logo.png) | - |
+| 7 RM | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | 180p, 270p, 360p | [Logo](http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png) | - |
+| TV Murciana | - | [web](http://www.televisionmurciana.es/) | - | [Logo](http://www.televisionmurciana.es/images/logo.png) | - |
 | Popular TV Murcia | [m3u8](https://streaming-fr02.enetres.net/D1D1B8F06DE042A9A32866AC8A6F0B6F021/smil:live.smil/master.m3u8) | [web](https://www.populartvrm.com/) | - | [Logo](https://static.wixstatic.com/media/63ed20_34574868bc624c8d8a8c7057658fd891~mv2_d_5906_5906_s_4_2.png/v1/fill/w_178,h_178,al_c,q_80,usm_0.66_1.00_0.01/63ed20_34574868bc624c8d8a8c7057658fd891~mv2_d_5906_5906_s_4_2.webp) | - |
 | Telepeñón | - | - | - | - | - |
 | GTM | - | [web](http://gtmtelevision.es/) | - | - | - |
@@ -666,7 +665,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | RNE Radio 5 | - | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404&v=undefined&vp=&lang=es) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Radio_5_RNE_Spain.svg/150px-Radio_5_RNE_Spain.svg.png) | - |
 | RNE Radio Clásica | - | [web](http://www.rtve.es/radio/radio-clasica/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Radio_Cl%C3%A1sica_RNE_Spain.svg/150px-Radio_Cl%C3%A1sica_RNE_Spain.svg.png) | - |
 | RNE Radio Exterior de España | - | [web](http://www.rtve.es/radio/radioexterior-endirecto/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Radio_Exterior_RNE_Spain.svg/150px-Radio_Exterior_RNE_Spain.svg.png) | - |
-| LOS40 | - | [web](https://play.los40.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/175px-Los_40.svg.png) | - |
+| LOS40 | [Stream](http://19983.live.streamtheworld.com/LOS40_SC) | [web](https://play.los40.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/175px-Los_40.svg.png) | - |
 | LOS40 Classic | - | [web](https://play.los40.com/emisora/los40_classic/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LOS40_Classic.svg/250px-LOS40_Classic.svg.png) | - |
 | LOS40 Party | - | [web](https://play.los40.com/emisora/los40_party/) | - | [Logo](https://recursosweb.prisaradio.com/fotos/original/010002413727.jpg) | - |
 | LOS40 Latin | - | [web](https://play.los40.com/emisora/los40_latin/) | - | [Logo](https://recursosweb.prisaradio.com/fotos/original/010002344852.jpg) | - |
@@ -682,10 +681,11 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Rock FM | - | [web](http://player.rockfm.fm/) | - | [Logo](http://www.rockfm.fm/img/rockfm/RFM_HEADER.jpg) | - |
 | Radio María | - | [web](https://www.radiomaria.es/) | - | [Logo](https://www.radiomaria.es/assets/img/logoCabecera.jpg) | - |
 | Hit FM | [m3u](http://streams.kissfmradio.cires21.com/hitfm.m3u) | [web](http://www.hitfm.es/) | - | [Logo](https://vignette.wikia.nocookie.net/radios/images/5/5c/Hit_FM_%28KISS_Media%29.png/revision/latest?cb=20141010112659&path-prefix=es) | - |
-| Máxima FM | - | [web](https://play.maxima.fm/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M%C3%A1xima_FM.svg/200px-M%C3%A1xima_FM.svg.png) | - |
+| Máxima FM | [aac](https://19393.live.streamtheworld.com/MAXIMAFMAAC.aac) | [web](https://play.maxima.fm/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M%C3%A1xima_FM.svg/200px-M%C3%A1xima_FM.svg.png) | - |
 | MegaStar FM | - | [web](http://www.megastar.fm/) | - | [Logo](https://vignette.wikia.nocookie.net/radios/images/b/bd/MegaStarFM_2013_color.png/revision/latest?cb=20140604221531&path-prefix=es) | - |
 | Radiolé | - | [web](https://play.radiole.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Radiol%C3%A9.jpg/225px-Radiol%C3%A9.jpg) | - |
-| Loca FM | - | - | - | - | - |
+| Loca FM | [Stream](http://audio-online.net:2300/live) | - | - | - | - |
+| Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | - | - | - | - |
 | Q FM | - | - | - | - | - |
 
 ### Autonómicos
@@ -707,7 +707,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Cadena SER - Radio Córdoba | - | - | - | - | - |
 | Cadena SER - El Condado | - | - | - | - | - |
 | Cadena SER - Radio Granada | - | - | - | - | - |
-| Cadena SER -  Levante | - | - | - | - | - |
+| Cadena SER - Levante | - | - | - | - | - |
 | Cadena SER - Radio Sevilla | - | - | - | - | - |
 | Candil Radio | - | - | - | - | - |
 | Central FM | - | - | - | - | - |
@@ -725,7 +725,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | La Mega FM | - | - | - | - | - |
 | Radio Oro Marbella | - | - | - | - | - |
 | Radio Oro Málaga | - | - | - | - | - |
-| Radio Planeta | - | - | - | - | - |
+| Radio Planeta | [Stream](http://5.79.66.113:8004/stream) | - | - | - | - |
 | Radio Poniente | - | - | - | - | - |
 | Radio Sierra | - | - | - | - | - |
 | Radio Marca Sevilla | - | - | - | - | - |
@@ -788,7 +788,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Canarias Radio | - | [web](http://www.rtvc.es/canariasradio/directo.aspx?ref=tm) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_de_Canarias_Radio.svg/1280px-Logo_de_Canarias_Radio.svg.png) | - |
+| Canarias Radio | - | [web](http://www.rtvc.es/canariasradio/directo.aspx) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_de_Canarias_Radio.svg/1280px-Logo_de_Canarias_Radio.svg.png) | - |
 | Atlántica FM | - | - | - | - | - |
 | Canal 4 Tenerife | - | - | - | - | - |
 | Canal 1 La Palma | - | - | - | - | - |
@@ -876,7 +876,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Canal Extremadura Radio | - | [web](http://www.canalextremadura.es/radio/directo) | - | [Logo](https://cdn-profiles.tunein.com/s126406/images/bannerx.jpg?t=636444623756230000) | - |
+| Canal Extremadura Radio | - | [web](http://www.canalextremadura.es/radio/directo) | - | [Logo](https://cdn-profiles.tunein.com/s126406/images/bannerx.jpg) | - |
 | Radio Miajadas | - | - | - | - | - |
 
 #### Galicia
@@ -905,7 +905,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Radio Balear | - | - | - | - | - |
 | Radio Manía Mallorca | - | - | - | - | - |
 | Última Hora Radio | - | - | - | - | - |
-| Ibiza Global Radio | - | - | - | - | - |
+| Ibiza Global Radio | [Stream](http://ibizaglobalradio.streaming-pro.com:8024/stream) | - | - | - | - |
 | ibizaSonica | - | - | - | - | - |
 
 #### Madrid
@@ -999,6 +999,8 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
+| Beach Grooves | [Stream](http://stream.beachgrooves.com:8000/stream) | - | - | - | - |
+| Pioneer DJ Radio | [Stream](http://listen.pioneerdjradio.com:8550/stream) | - | - | - | - |
 
 ### Andorra
 
