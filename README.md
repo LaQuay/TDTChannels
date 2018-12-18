@@ -964,9 +964,11 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 ### Notícias
 Aparecemos en:
 
-[Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
+*12/2018* - [El Androide Libre - Cómo ver la televisión gratis en tu móvil, las mejores aplicaciones](https://elandroidelibre.elespanol.com/2018/12/como-ver-television-gratis-movil-mejores-aplicaciones.html)
 
-[Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
+*08/2018* - [Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
+
+*01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Agradecimientos
 
