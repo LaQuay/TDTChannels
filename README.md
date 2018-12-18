@@ -2,7 +2,6 @@
 
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
-### Enlaces
 [Reproductor oficial - TDTChannels](http://marcvila.me/tdt/)
 
 [Chat oficial - Canales TDT - en Telegram](https://t.me/canales_tdt)
