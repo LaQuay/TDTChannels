@@ -966,6 +966,7 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 
 ### Colaborar
 [CONTRIBUTING](https://github.com/LaQuay/TDTChannels/blob/master/CONTRIBUTING.md)
+
 Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*. Recuerda por favor incluir la fuente original de la emisión.
 
 ### Agradecimientos
