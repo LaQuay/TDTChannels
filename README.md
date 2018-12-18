@@ -5,7 +5,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 ### Enlaces
 [Reproductor oficial - TDTChannels](http://marcvila.me/tdt/)
 
-[Canales TDT en Telegram](https://t.me/canales_tdt)
+[Chat oficial - Canales TDT - en Telegram](https://t.me/canales_tdt)
 
 ### Listado en formato M3U8 y JSON
 *(Última actualización: 16/12/2018)*
