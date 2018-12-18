@@ -1,12 +1,11 @@
-# Canales IPTV en abierto
+# TDTChannels - Canales IPTV en abierto
 
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
-### Web con reproductor del proyecto
-[TDTChannels - Reproductor](http://marcvila.me/tdt/)
+### Enlaces
+[Reproductor oficial - TDTChannels](http://marcvila.me/tdt/)
 
-### Canal en **Telegram**
-[Canales TDT](https://t.me/canales_tdt)
+[Canales TDT en Telegram](https://t.me/canales_tdt)
 
 ### Listado en formato M3U8 y JSON
 *(Última actualización: 16/12/2018)*
@@ -15,14 +14,21 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 
 [Click aquí para descargar el .json completo](http://91.121.64.179/tdt_project/output/channels.json)
 
+### Notícias
+*12/2018* - [El Androide Libre - Cómo ver la televisión gratis en tu móvil, las mejores aplicaciones](https://elandroidelibre.elespanol.com/2018/12/como-ver-television-gratis-movil-mejores-aplicaciones.html)
+
+*08/2018* - [Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
+
+*01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
+
 ### Ayuda
 Algunos canales sólo pueden visualizarse cuando se visitan desde España, debido a que emiten contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
 
 #### Cómo reproducir en el navegador
-Hacer click en el enlace web del reproductor. Una vez en la web tienes dos opciones de funcionamiento.
+Abrir la web oficial del proyecto. Una vez en la web tienes dos opciones de funcionamiento.
 
 ##### Opción 1
-Introducir el M3U8(TV) o un Stream(Radio), deseado en el campo de introducción de texto y dar click en cargar.
+Introducir el enlace del *stream* deseado en el campo de introducción de texto y dar click en cargar.
 
 ##### Opción 2
 Indicar en la URL el canal a reproducir, por ejemplo:
@@ -39,9 +45,6 @@ Algunos enlaces funcionan directamente bajándolos manteniendo pulsado el enlace
 
 #### Cómo reproducir en una Smart TV
 Utilizar, por ejemplo, [SSIPTV](https://www.achotv.com/ssiptv.php) (por *AchoTV*).
-
-### Colaborar
-Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*. Recuerda por favor incluir la fuente original de la emisión.
 
 ## Canales de España - Televisión
 
@@ -961,17 +964,11 @@ Tal como indica la licencia MIT, cualquier persona puede hacer el uso que consid
 
 Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web. Si posees los derechos de algún canal y deseas que lo retire, contactame.
 
-### Notícias
-Aparecemos en:
-
-*12/2018* - [El Androide Libre - Cómo ver la televisión gratis en tu móvil, las mejores aplicaciones](https://elandroidelibre.elespanol.com/2018/12/como-ver-television-gratis-movil-mejores-aplicaciones.html)
-
-*08/2018* - [Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
-
-*01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
+### Colaborar
+[CONTRIBUTING](https://github.com/LaQuay/TDTChannels/blob/master/CONTRIBUTING.md)
+Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*. Recuerda por favor incluir la fuente original de la emisión.
 
 ### Agradecimientos
-
 [AUTHORS](https://github.com/LaQuay/TDTChannels/blob/master/AUTHORS.md)
 
 Y a todos aquellos que han colaborado, ya sea reportando un fallo o aportando enlaces!
