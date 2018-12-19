@@ -797,7 +797,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | COPE Barcelona | - | [web](https://www.cope.es/directos/barcelona) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_Cadena_COPE.png/100px-Logo_Cadena_COPE.png) | - |
 | Equinox Radio | - | [web](https://www.equinoxmagazine.fr/2017/03/24/ecouter-equinox-radio-francaise-barcelone-direct/) | - | [Logo](https://www.equinoxmagazine.fr/wp-content/uploads/2016/06/LOGO-1.jpg) | - |
 | Flaix FM | - | [web](https://www.flaixfm.cat/) | - | [Logo](https://www.flaixfm.cat/img/flaixfm/logo.svg?1) | - |
-| La Marina FM | - | [web](http://lamarina.cat/endirecte/) | - | [Logo](http://lamarina.cat/wp-content/uploads/LAMARINAweb.png) | - |
+| La Marina FM | [Stream](http://endirecte.amcl.cat:8000/lamarinafm) | [web](http://lamarina.cat/endirecte/) | - | [Logo](http://lamarina.cat/wp-content/uploads/LAMARINAweb.png) | - |
 | Mataró Ràdio | - | [web](https://enacast.com/iframe_directe/49/?theme=standard&autostart=yes) | - | [Logo](http://mataroaudiovisual.cat/sites/all/themes/mataroaudiovisual07/images/icon-radio.png) | - |
 | Onda Rambla | - | - | - | - | - |
 | RAC1 | [nsv](http://rac1.radiocat.net/;*.nsv) | [web](https://www.rac1.cat) | - | - | - |
