@@ -721,7 +721,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | - | - | - | - | - | - |
 | RPA | - | [web](https://rtpa.es/radio) | - | [Logo](https://rtpa.es/v3_assets/logo-RPA.svg) | - |
 | Cadena Dial Asturias | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/225px-Cadena_Dial.svg.png) | - |
-| Cadena Dial Eo-Navia | - | - | - | [Logo](htthttps://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/225px-Cadena_Dial.svg.png) | - |
+| Cadena Dial Eo-Navia | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/225px-Cadena_Dial.svg.png) | - |
 | Cadena SER Asturias | - | [web](https://play.cadenaser.com/emisora/radio_asturias/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
 | Cadena SER - Oriente | - | [web](https://play.cadenaser.com/emisora/ser_oriente/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
 | Carrussel FM | - | [web](https://players.emitironline.com/v5/index.php?url=http%3A%2F%2Fserver10.emitironline.com%3A8921%2Fradio&codec=mp3&volume=80&autoplay=true&buffering=2&user=carruselfm&server=server10&title=Carrusel+FM) | - | [Logo](http://www.carruselfm.com/images/logo.png) | - |
