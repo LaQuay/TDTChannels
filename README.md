@@ -637,8 +637,7 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | MegaStar FM | - | [web](http://www.megastar.fm/) | - | [Logo](https://vignette.wikia.nocookie.net/radios/images/b/bd/MegaStarFM_2013_color.png/revision/latest?cb=20140604221531&path-prefix=es) | - |
 | Radiolé | - | [web](https://play.radiole.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Radiol%C3%A9.jpg/225px-Radiol%C3%A9.jpg) | - |
 | Loca FM | [Stream](http://audio-online.net:2300/live) | - | - | - | - |
-| Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | - | - | - | - |
-| Q FM | - | - | - | - | - |
+| Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | - | [Logo](http://kissfm.es/player/img/logokiss.png) | - |
 
 ### Autonómicos
 
@@ -657,7 +656,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Cadena SER Almería | - | [web](https://play.cadenaser.com/emisora/ser_almeria/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
 | Cadena SER - Radio Cádiz | - | [web](https://play.cadenaser.com/emisora/radio_cadiz/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
 | Cadena SER - Radio Córdoba | - | [web](https://play.cadenaser.com/emisora/radio_cordoba) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - El Condado | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
 | Cadena SER - Radio Granada | - | [web](https://play.cadenaser.com/emisora/radio_granada) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
 | Cadena SER - Levante | - | [web](https://play.cadenaser.com/emisora/ser_levante) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
 | Cadena SER - Radio Sevilla | - | [web](https://play.cadenaser.com/emisora/radio_sevilla) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
@@ -749,11 +747,13 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Canal 4 Tenerife | - | [web](http://www.canal4tenerife.tv/radio/) | - | [Logo](http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png) | - |
 | Radio El Día | - | [web](https://eldia.fm/online.htm) | - | [Logo](http://eldia.fm/wp-content/uploads/2013/02/logoradio1.png) | - |
 | Cadena SER - Radio Club Tenerife | - | [web](https://play.cadenaser.com/emisora/radio_club_tenerife) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
+| Kiss FM Canarias | [MP3](http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3) | [web](http://kissfm.es/player/canarias.html) | - | [Logo](http://kissfm.es/player/img/logokiss.png) | - |
 | Radio ECCA | [MP3](http://audio1.ipercast.net/endirecto22.es/mp3) | [web](http://www2.radioecca.org/radio/online) | - | [Logo](http://www2.radioecca.org/img/logo.png?v=1) | - |
 | Radio Guiniguada | [Stream](http://185.129.248.251:9874/;) | [web](http://www.radioguiniguada.com) | - | [Logo](http://www.radioguiniguada.com/wp-content/uploads/2018/06/unnamed.jpg) | - |
 | Radio Guiniguada Internacional | [Stream](http://185.129.248.251:9876/;) | [web](http://www.radioguiniguada.com) | - | [Logo](http://www.radioguiniguada.com/wp-content/uploads/2018/06/unnamed.jpg) | - |
 | Radio La Guancha | - | [web](http://www.radiolaguancha.com/?page_id=23) | - | [Logo](http://www.radiolaguancha.com/wp-content/uploads/2014/02/boton_radio.png) | - |
 | Radio San Borondón | [pls](http://srv0435.lcinternet.com/tunein.php/sanboron/playlist.pls) | [web](http://www.sanborondon.info/images/_streamer/rsb.html) | - | [Logo](http://www.sanborondon.info/images/_logos/logo.png) | - |
+| Q FM | - | [web](https://www.qmusica.com/es) | - | [Logo](https://www.qmusica.com/sites/all/themes/custom/images/top.png) | - |
 
 #### Cantabria
 
@@ -862,7 +862,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 | Onda Madrid | - | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/225px-OndaMadrid.svg.png) | - |
 | Cadena SER - Sierra | [MP3](http://217.126.244.152:7000/;stream.mp3) | [web#1](https://play.cadenaser.com/emisora/ser_madrid_sierra/) - [web#2](http://www.lavozdelasierra.es/ser-sierra/player.php) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
 | ECO Leganés | - | [web](http://ecoleganes.org/) | - | [Logo](http://ecoleganes.org/wp-content/uploads/2018/03/logo.png) | - |
-| Entidad de Comunicación y Ondas de Leganés | - | - | - | - | - |
 | Gestiona Radio | - | [web](http://www.gestionaradio.com/) | - | [Logo](http://www.gestionaradio.com/wp-content/uploads/2015/09/logo_radio-e1444234296424.png) | - |
 | Radio Inter | - | [web](https://www.radiointer.es/) | - | [Logo](https://www.radiointer.es/wp-content/uploads/2015/11/logo-inter.png) | - |
 | M21 Radio | - | [web](https://www.m21radio.es/ahora) | - | [Logo](https://www.m21radio.es/sites/all/themes/custom/m21radio_static/logo.png) | - |
