@@ -389,7 +389,7 @@
 | Solidaria TV | [m3u8](http://panel2.cdnstreamserver.com/live/solidariatv-webhd.m3u8) | [web](http://es.solidariatv.com/en-vivo) | - | [Logo](http://es.solidariatv.com/images/logo_grande.png) | - |
 | 8madrid | - | [web](http://www.8madrid.tv/) | - | [Logo](http://www.8madrid.tv/images/8madrid%20nuestro%20cine%20positivott.jpg) | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
-| Logos TV | [m3u8][(https://streamer1.streamhost.org/salive/logosH/master.m3u8) | [web](https://logostv.es/) | 576p | [Logo](https://logostv.es/wp-content/uploads/2016/04/logo-logostv.png) | - |
+| Logos TV | [m3u8](https://streamer1.streamhost.org/salive/logosH/master.m3u8) | [web](https://logostv.es/) | 576p | [Logo](https://logostv.es/wp-content/uploads/2016/04/logo-logostv.png) | - |
 
 #### Melilla
 
