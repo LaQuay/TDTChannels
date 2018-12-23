@@ -2,22 +2,20 @@
 
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
+**TV** [Listado completo de los canales de TV](https://github.com/LaQuay/TDTChannels/blob/master/Canales%20TV.md)
+
+**Radio** [Listado completo de las emisoras de Radio](https://github.com/LaQuay/TDTChannels/blob/master/Emisoras%20Radio.md)
+
 [Reproductor oficial - TDTChannels](http://marcvila.me/tdt/)
 
 [Chat oficial - Canales TDT - en Telegram](https://t.me/canales_tdt)
 
-## Los listados
-
-[Click aquí para ver el listado completo de los canales de TV](https://github.com/paurg15/TDTChannels/blob/master/Canales%20TV.md)
-
-[Click aquí para ver el listado completo de las emisoras de radio](https://github.com/paurg15/TDTChannels/blob/master/Emisoras%20Radio.md)
-
-### Listado en formato M3U8 y JSON
+#### Listado en formato M3U8 y JSON
 *(Última actualización: 16/12/2018)*
 
-[Click aquí para descargar el .m3u8 completo](http://91.121.64.179/tdt_project/output/channels.m3u8)
+[Descargar el .m3u8 completo](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
-[Click aquí para descargar el .json completo](http://91.121.64.179/tdt_project/output/channels.json)
+[Descargar el .json completo](http://91.121.64.179/tdt_project/output/channels.json)
 
 ### Notícias
 *12/2018* - [El Androide Libre - Cómo ver la televisión gratis en tu móvil, las mejores aplicaciones](https://elandroidelibre.elespanol.com/2018/12/como-ver-television-gratis-movil-mejores-aplicaciones.html)
