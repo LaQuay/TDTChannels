@@ -1,4 +1,4 @@
-## Canales de España - Televisión
+## Canales de Televisión
 
 ### Nacionales
 
