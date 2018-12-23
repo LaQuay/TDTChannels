@@ -167,6 +167,7 @@
 | Canal Coín | [m3u8](http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8) | [web](http://canalcoin.com/tv-directo) | 576p | [Logo](http://canalcoin.com/wp-content/uploads/2017/03/logoHQblanco-300x284.jpg) | - |
 | M95 Marbella | - | [web](http://m95tv.es/) | - | [Logo](http://m95tv.es/wp-content/uploads/2014/10/logom952.png) | - |
 | Torremolinos Televisión | - | [web](https://torremolinostv.com/tv-en-directo/) | - | [Logo](https://torremolinostv.com/wp-content/uploads/2017/09/lowebnuevo.png) | - |
+| Canal San Roque | [m3u8](https://common01.todostreaming.es/live/sanroque-livestream.m3u8) | [web](http://multimediasanroque.com/) | - | [Logo](https://yt3.ggpht.com/a-/AN66SAzTch7tStzCxcXzCqVMlhQ4o5OJjB59KhnLrA=s900-mo-c-c0xffffffff-rj-k-no) | - |
 
 #### Aragón
 
@@ -388,6 +389,7 @@
 | Solidaria TV | [m3u8](http://panel2.cdnstreamserver.com/live/solidariatv-webhd.m3u8) | [web](http://es.solidariatv.com/en-vivo) | - | [Logo](http://es.solidariatv.com/images/logo_grande.png) | - |
 | 8madrid | - | [web](http://www.8madrid.tv/) | - | [Logo](http://www.8madrid.tv/images/8madrid%20nuestro%20cine%20positivott.jpg) | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
+| Logos TV | [m3u8][(https://streamer1.streamhost.org/salive/logosH/master.m3u8) | [web](https://logostv.es/) | 576p | [Logo](https://logostv.es/wp-content/uploads/2016/04/logo-logostv.png) | - |
 
 #### Melilla
 
@@ -479,6 +481,7 @@
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 | 8 La Marina TV | - | [web](http://8lamarinatv.com/) | - | [Logo](http://8lamarinatv.com/wp-content/uploads/2018/05/8lamarinatv.png) | - |
 | MK TV | - | [web](http://www.radioontinyent.com/playerMK.html) | - | [Logo](https://yt3.ggpht.com/a-/AN66SAy3Sa5oyDugMqEqhAieH-_oBrmuOxtdPSeJ0A=s900-mo-c-c0xffffffff-rj-k-no) | - |
+| Une Vionalopó | - | [web](https://www.unevinalopo.es/directo/) | - | [Logo](https://www.unevinalopo.es/wp-content/uploads/2018/02/logo_une-300x300.png) | - |
 
 ## Internacionales
 
