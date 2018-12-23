@@ -2,9 +2,9 @@
 
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
-**TV** [Listado completo de los canales de TV](https://github.com/LaQuay/TDTChannels/blob/master/Canales%20TV.md)
+**TV** [Listado completo de los canales de TV](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md)
 
-**Radio** [Listado completo de las emisoras de Radio](https://github.com/LaQuay/TDTChannels/blob/master/Emisoras%20Radio.md)
+**Radio** [Listado completo de las emisoras de Radio](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md)
 
 [Reproductor oficial - TDTChannels](http://marcvila.me/tdt/)
 
