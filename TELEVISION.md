@@ -165,6 +165,8 @@
 | VillaFranca TV | - | [web](https://www.youtube.com/user/villafrancatv/) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mBrlT3xm2Zr8gqR-ZpEUkcf6861LLrSZLNOhg=s288-mo-c-c0xffffffff-rj-k-no) | - |
 | Telécija | - | [web](https://www.youtube.com/user/TELECIJA) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mAGR32D3LEbXI97rQbe8vGwOVqyG9wBWSF6KQ=s288-mo-c-c0xffffffff-rj-k-no) | - |
 | Canal Coín | [m3u8](http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8) | [web](http://canalcoin.com/tv-directo) | 576p | [Logo](http://canalcoin.com/wp-content/uploads/2017/03/logoHQblanco-300x284.jpg) | - |
+| M95 Marbella | - | [web](http://m95tv.es/) | - | [Logo](http://m95tv.es/wp-content/uploads/2014/10/logom952.png) | - |
+| Torremolinos Televisión | - | [web](https://torremolinostv.com/tv-en-directo/) | - | [Logo](https://torremolinostv.com/wp-content/uploads/2017/09/lowebnuevo.png) | - |
 
 #### Aragón
 
@@ -218,6 +220,7 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
+| Cantabria TV | - | [web](http://www.vegavision.tv/) | - | [Logo](http://www.vegavision.tv/media//vegavision/sections/logo%20web%20cantabria%207%20tv.jpg) | - |
 | Popular TV Cantabria | [m3u8](http://cls.todostreaming.eu/ptvcantabria/livestream/playlist.m3u8) | [web](http://populartvcantabria.com/livetv/) | - | [Logo](http://proyectohombrecantabria.org/wp-content/uploads/2014/08/populartv.png) | - |
 | TeleBahía | - | [web](https://www.youtube.com/user/telebahia) | - | - | - |
 
@@ -309,7 +312,7 @@
 | TV10 | - | [web](https://rtv10.alacarta.cat/) | - | [Logo](https://rtv10.alacarta.cat/assets/getFile/public/media/000/442/993/logos_rtv10.jpg) | - |
 | Manresa TV | - | [web](http://www.manresa.tv/indexc.html) | - | [Logo](http://www.manresa.tv/Banda_Superior_ManresaTV_01.jpg) | - |
 | TV Ripollés | - | [web](https://televisiodelripolles.alacarta.cat/) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mCgLKizci2uYPKhzVKyqiK_xg-x_sFEIn5seA=s288-mo-c-c0xffffffff-rj-k-no) | - |
-| 7 TV Segrià | - | - | - | - | - |
+| TV Berguedà | [m3u8](http://liveingesta118.cdnmedia.tv//berguedatvlive/smil:live.smil/master.m3u8) | [web](http://tvbergueda.alacarta.cat/) | - | [Logo](http://tvbergueda.alacarta.cat/assets/getFile/public/media/000/412/522/logo_bergueda.png) | - |
 | Tot TV | - | [web](http://www.tottv.cat/) | - | [Logo](http://www.tottv.cat/Scripts/images/TOTtv_LOGOpetitREFLEX.jpg) | - |
 | Pirineus TV | - | [web](http://www.pirineustv.cat/) | - | [Logo](http://www.pirineustv.cat/wp-content/uploads/2018/09/pirineusTV-170-95-blanc.jpg) | - |
 | Aran Televisió | - | [web](https://arantv.alacarta.cat/) | - | [Logo](http://www.alacarta.cat/api/assets/getFile/public/media/000/407/207/300x85_logo_arantv.png) | - |
@@ -370,6 +373,7 @@
 | Ibiza Global TV | [m3u8](http://server10.streaming-pro.com:1937/live/ibgtvlive/master.m3u8) | [web](http://ibizaglobal.tv/live/) | 480p | [Logo](https://ibizaglobal.tv/wp-content/uploads/2017/03/logo_tv-180x60.png) | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | - | [Logo](http://www.mallorcadiario.com/wp-content/uploads/sites/2/2012/04/luxmallorcaok.jpg) | - |
 | Canal 4 | - | [web](http://canal4televisio.com/canal-4-en-directo/) | - | [Logo](http://canal4televisio.com/wp-content/uploads/2016/10/pngTVc4.png) | - |
+| Fibwi | - | [web](https://fibwiradio.com/) | - | [Logo](https://fibwiradio.com/wp-content/uploads/2018/05/LOGO-WEB-FIBWLI.LIVE_-1.png) | - |
 
 #### Madrid
 
@@ -488,6 +492,7 @@
 | TVE Internacional | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg) | - |
 | star TVE | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png) | - |
 | TV3CAT | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) | [web](https://www.ccma.cat/tv3/directe/tv3cat/) | 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/150px-TV3CAT.svg.png) | - |
+| Travel TV | [m3u8](http://194.179.53.124:8080/hls/traveltv/1_2/index.m3u8) | [web](http://www.traveltve.com/) | - | [Logo](http://www.traveltve.com/wp-content/uploads/2015/04/logo.png) | - |
 | franceinfo: | [m3u8](https://stream-09.dc3.dailymotion.com/dm/3/x4rdeu6/live-3.m3u8) | [web](https://www.francetvinfo.fr/en-direct/tv.html) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/1280px-Franceinfo.svg.png) | - |
 | Euronews | - | [web](https://es.euronews.com/live) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png) | - |
 | ABC News | [m3u8](http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8) | [web](https://abcnews.go.com/Live/) | 216p, 288p, 404p, 720p, 1080p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/1280px-ABC_News_solid_black_logo.svg.png) | - |
