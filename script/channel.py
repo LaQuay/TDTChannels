@@ -1,11 +1,4 @@
 ﻿class Channel:
-    name = None
-    web = None
-    resolution = None
-    logo = None
-    epg_id = None
-    options = []
-
     def __init__(self, name, web, resolution, logo, epg_id):
         self.name = name
         self.web = web
@@ -69,9 +62,6 @@
         return info
 
     class Web:
-        format = None
-        url = None
-
         def __init__(self, format, url):
             self.format = format
             self.url = url

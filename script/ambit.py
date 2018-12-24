@@ -1,7 +1,4 @@
 class Ambito:
-    name = None
-    channels = []
-
     def __init__(self, name, channels):
         self.name = name
         self.channels = channels
