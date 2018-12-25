@@ -49,10 +49,11 @@ Algunos enlaces funcionan directamente bajándolos manteniendo pulsado el enlace
 #### Cómo reproducir en una Smart TV
 Utilizar, por ejemplo, [SSIPTV](https://www.achotv.com/ssiptv.php) (por *AchoTV*).
 
-### Licencia
+### Licencia del proyecto
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que debe poderse ver que la información que está utilizando procede de este repositorio.
 
-Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web. Si posees los derechos de algún canal y deseas que lo retire, contactame.
+#### Ley de propiedad
+En este proyecto ni en la web de reproducción se almacena ningún *stream*, únicamente enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web o servicio público. Si posees los derechos de algún canal y deseas que lo retire, contactame.
 
 ### Colaborar
 [CONTRIBUTING](https://github.com/LaQuay/TDTChannels/blob/master/CONTRIBUTING.md)
