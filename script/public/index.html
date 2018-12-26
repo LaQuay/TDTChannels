@@ -51,9 +51,9 @@
                 Resoluciones disponibles
                 <br>
                 <em id="video-resolution"></em>
+                <p id="extra-video-info" style="display: block"></p>
             </div>
         </div>
-
         <div id="audio" style="margin-top: 15px">
             <p class="lead">
                 Reproductor de Radio
@@ -74,7 +74,20 @@
                 <p class="lead">Información de la reproducción</p>
                 Formatos soportados
                 <br>
-                <em>aac</em>, <em>mp3</em>, <em>nsv</em>, <em>audio/mpeg</em>
+                <em>aac</em>, <em>mp3</em>, <em>nsv</em>, <em>audio/mpeg</em>, <em>pls</em>(Beta)
+
+                <div id="extra-audio-info-div" style="display: none; padding-top: 20px">
+                    <button class="btn btn-secondary" type="button" data-toggle="collapse"
+                            data-target="#collapseAlternativas"
+                            aria-expanded="false" aria-controls="collapseAlternativas">
+                        URLs alternativas
+                    </button>
+                    <div class="collapse" id="collapseAlternativas">
+                        <div class="card card-body">
+                            <p id="extra-audio-info"></p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -140,8 +153,15 @@
 	}
 
 	function reproduceAudio(channelToReproduce) {
-	    console.log("Reproducing audio: " + channelToReproduce);
+        if (channelToReproduce.includes("pls")) {
+            getURLsFromPLS(channelToReproduce, reproducePLSFromUrl);
+        } else {
+            reproduceAudioFromUrl(channelToReproduce);
+        }
+    }
 
+    function reproduceAudioFromUrl(channelToReproduce) {
+	    console.log("Reproducing audio: " + channelToReproduce);
         var audioSource = document.getElementById('audio-controller');
         var audioPlayer = document.getElementById('audio-player');
 
@@ -160,6 +180,11 @@
         }
     }
 
+    function reproducePLSFromUrl(data) {
+        reproduceAudioFromUrl(data[0]);
+        updateExtraAudioInfo("pls_more_url_available", data);
+    }
+
     function updateResolution(resolutions) {
         console.log("Resoluciones: " + resolutions);
 
@@ -174,6 +199,21 @@
 
     function clearResolutions() {
         document.getElementById("video-resolution").innerHTML = "";
+    }
+
+    function updateExtraAudioInfo(type, data) {
+        console.log("Extra info type: " + type);
+        console.log("Extra info data: " + data);
+
+        var textToAdd = "";
+        if (type == "pls_more_url_available") {
+            for (i = 0; i < data.length; i++) {
+                textToAdd += data[i] + "<br>";
+            }
+        }
+
+        document.getElementById("extra-audio-info").innerHTML = textToAdd;
+        document.getElementById("extra-audio-info-div").style.display = "block";
     }
 
 </script>

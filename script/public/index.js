@@ -1,3 +1,26 @@
+function getURLsFromPLS(sUrl, fn_callback) {
+    var from = "http://provisioning.streamtheworld.com/pls/CADENADIAL.pls";
+    $.get(from, function(data) {
+        $response = data.split("\n");
+
+        $urls=[];
+        $.each($response, function( index, value ) {
+            $line_separated_value = value.split("=");
+            if ($line_separated_value.length > 1 && $line_separated_value[1].indexOf("http") != -1) {
+                $urls.push($line_separated_value[1]);
+            }
+        });
+        fn_callback($urls)
+
+        //$.each($urls, function( index, value ) {
+        //    if (checkIfWebsiteWorks(value)) {
+        //        fn_callback(value);
+        //        break;
+        //    }
+        //});
+    });
+};
+
 function getResolution(from, fn_callback) {
     $.get(from, function(data) {
         $response = data.split("\n");
@@ -30,3 +53,11 @@ function getUrlParameter(sParam) {
         }
     }
 };
+
+// Check an URL is valid or broken
+// TODO: For streams if it works it keeps loading infinite time
+function checkIfWebsiteWorks(sUrl){
+    $.get(sUrl, function(data, status){
+        alert("Data: " + data + "\nStatus: " + status);
+    });
+}
