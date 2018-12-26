@@ -1,6 +1,5 @@
 function getURLsFromPLS(sUrl, fn_callback) {
-    var from = "http://provisioning.streamtheworld.com/pls/CADENADIAL.pls";
-    $.get(from, function(data) {
+    $.get(sUrl, function(data) {
         $response = data.split("\n");
 
         $urls=[];
