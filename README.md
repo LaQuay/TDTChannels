@@ -53,7 +53,7 @@ Utilizar, por ejemplo, [SSIPTV](https://www.achotv.com/ssiptv.php) (por *AchoTV*
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que debe poderse ver que la información que está utilizando procede de este repositorio.
 
 #### Ley de propiedad
-En este proyecto ni en la web de reproducción se almacena ningún *stream*, únicamente enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web o servicio público. Si posees los derechos de algún canal y deseas que lo retire, contactame.
+En este proyecto y en la web de reproducción **no** se almacena ningún *stream*, únicamente enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web o servicio público. Si posees los derechos de algún canal y deseas que lo retire, contáctame.
 
 ### Colaborar
 [CONTRIBUTING](https://github.com/LaQuay/TDTChannels/blob/master/CONTRIBUTING.md)
