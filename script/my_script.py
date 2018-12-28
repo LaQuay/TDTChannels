@@ -65,7 +65,7 @@ def get_channels_from_part(text):
     return channel_list
 
 
-page = requests.get('https://raw.githubusercontent.com/LaQuay/TDTChannels/master/README.md',
+page = requests.get('https://raw.githubusercontent.com/LaQuay/TDTChannels/master/TELEVISION.md',
                     headers={'Cache-Control': 'no-cache'})
 content = str(page.text)
 
@@ -149,7 +149,7 @@ international.add_ambit(Ambito("Internacional", get_channels_from_part(canales_i
 
 # Save data to JSON file
 json_file = open('./public/output/channels.json', "w+")
-# TODO Anadir copyright
+# TODO Add license
 json_file.write("[")
 json_file.write(json.dumps(spain.to_json()))
 json_file.write(", ")

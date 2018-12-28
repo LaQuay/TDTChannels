@@ -4,7 +4,7 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| La 1 | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8) | [web](http://www.rtve.es/directo/la-1/)| 270p, 360p, 576p | [Logo](https://vignette.wikia.nocookie.net/telenovelas/images/7/7f/Logtve1.png/revision/latest?cb=20160726160024&path-prefix=es) | TVE ASTRA HD 1.sp |
+| La 1 | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8) | [web](http://www.rtve.es/directo/la-1/)| 270p, 360p, 576p | [Logo](https://vignette.wikia.nocookie.net/telenovelas/images/7/7f/Logtve1.png/revision/latest?cb=20160726160024&path-prefix=es) | TVE ASTRA SD 2.sp |
 | La 1 HD | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583046/master.m3u8) | [web](http://www.rtve.es/directo/la-1/hd)| 270p, 360p, 576p, 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png) | TVE ASTRA HD 1.sp |
 | La 2 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) | [web](http://www.rtve.es/directo/la-2/)| 270p, 360p, 576p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/150px-Logo_TVE-2.svg.png) | LA2 ASTRA SD 1.sp |
 | Antena 3 | [m3u8 # 1](https://pull2b-i.akamaized.net/antena3/master.m3u8) - [m3u8 # 2](https://pull2b-i.akamaized.net/geoantena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/)| 360p, 404p, 720p, 1080p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/100px-Antena_3_%282017%29.svg.png) | A3 ASTRA HD 1.sp |
@@ -186,10 +186,10 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| TPA7 | [m3u8](http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8) | [web](http://www.rtpa.es/television) | - | [Logo](https://static.programacion-tdt.com/imgAPP/TPA_a7.min.png) | - |
+| TPA7 | [m3u8](https://rtpa-live-hls.flumotion.com/chunks.m3u8) | [web](http://www.rtpa.es/television) | - | [Logo](https://static.programacion-tdt.com/imgAPP/TPA_a7.min.png) | - |
 | TPA8 | - | - | - | [Logo](http://www.rtpa.es/v3_assets/a8.png) | - |
 | TPA9 | - | - | - | [Logo](https://www.formulatv.com/images/noticias/17100/17142/1.jpg) | - |
-| TeleAsturias | - | [web](http://tvonline.teleasturias.com/) | - | [Logo](https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Teleasturias.png?fit=400%2C260) | - |
+| TeleAsturias | - | [web](http://tvonline.teleasturias.com/) | - | [Logo](https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Teleasturias.png) | - |
 | EsAsturiasTV | - | [web](https://mips.tv/esAsturiasTelevision) | - | [Logo](http://www.esasturias.tv/wp-content/uploads/2015/10/200x2001.png) | - |
 | Canal 10 | - | [web](http://www.canal10tv.com/) | - | [Logo](https://generacionalsa.files.wordpress.com/2008/08/logopequeno.gif) | - |
 | Televisión Local de Gijón | - | [web](http://www.tlg.es/) | - | - | - |
@@ -204,7 +204,7 @@
 | El Día TV | [m3u8](http://vs8.live.opencaster.com/opencaster/zmyrfjHztaoj/playlist.m3u8) | [web](http://eldia.tv/) | - | [Logo](http://eldia.tv/blog/wp-content/uploads/2016/06/eldiatv.png) | - |
 | Lancelot TV | [m3u8](http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8) | [web](http://www.lancelot.tv/directo)| - | [Logo](http://www.lancelot.tv/images/logo.png) | - |
 | Canal 4 Tenerife | [m3u8](https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w588840931.m3u8) | [web](http://www.canal4tenerife.tv/) | - | [Logo](http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png) | - |
-| Tindaya TV | [m3u8](https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live.smil/chunklist_w365927815_b1000000.m3u8) | [web](https://www.tindayatv.com/) | - | [Logo](https://3.bp.blogspot.com/-Rq81jbqjWb4/WXifCezpqoI/AAAAAAAAwxc/RycTr3iKG50UqHjLXy1JzlZwLUikE1KQgCLcBGAs/s640/tindaya-tv-.png) | - |
+| Tindaya TV | [m3u8](https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live.smil/master.m3u8) | [web](https://www.tindayatv.com/) | - | [Logo](https://3.bp.blogspot.com/-Rq81jbqjWb4/WXifCezpqoI/AAAAAAAAwxc/RycTr3iKG50UqHjLXy1JzlZwLUikE1KQgCLcBGAs/s640/tindaya-tv-.png) | - |
 | Canal 4 TV | - | [web](https://canal4tvtelde.es/en-directo) | - | [Logo](https://canal4tvtelde.es/media/k2/categories/72.jpg) | - |
 | Biosfera TV | - | [web](http://www.biosferatv.es/) | - | [Logo](http://www.biosferatv.es/gallery_gen/c8ad7ac64fa30f24cfb063f403bfe5d5_280x70.png) | - |
 | Este Canal TV | - | [web](https://livestream.com/estecanaltv/events/7051352) | - | [Logo](https://pbs.twimg.com/profile_images/1244322522/logo_estacanal.jpg) | - |
@@ -270,11 +270,11 @@
 | Esport 3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/esport3)| 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/150px-Esport3.svg.png) | - |
 | Super3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/super3/)| 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png) | - |
 | Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master.m3u8) | [web](https://www.ccma.cat/bondiatv/) | 180p, 360p | [Logo](https://statics.ccma.cat/img/logos/logo_bondiaTV.svg) | - |
-| 324 Exclusiu | [m3u8](https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:oca2_web/master.m3u8) | [web](http://www.ccma.cat/tv3/directe/ple-parlament-de-catalunya/oca2/)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/150px-324_%28CCMA%29_logo.svg.png) | - |
+| 324 Exclusiu | [m3u8](https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:oca2_web/master.m3u8) | [web](http://www.ccma.cat/tv3/directe/ple-parlament-de-catalunya/oca2/)| 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/150px-324_%28CCMA%29_logo.svg.png) | - |
 | TV3 Càmeres | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/playlist.m3u8) | [web](http://www.ccma.cat/el-temps/cameres/) | 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/150px-TV3.svg.png) | - |
 | La 1 Catalunya | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | 270p, 360p, 576p | [Logo](https://vignette.wikia.nocookie.net/telenovelas/images/7/7f/Logtve1.png/revision/latest?cb=20160726160024&path-prefix=es) | - |
 | La 2 Catalunya | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2ca_lv3_aosv4_gl0/la2ca_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/150px-Logo_TVE-2.svg.png) | - |
-| betevé | [m3u8](cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8) | [web](https://beteve.cat/en-directe/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
+| betevé | - | [web](https://beteve.cat/en-directe/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
 | betevé web | - | [web](https://beteve.cat/en-directe/web/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
 | betevé xarxes | - | [web](https://beteve.cat/en-directe/xarxes/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
 | betevé càmera del temps | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_2jb8lihv/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/temps-barcelona/) | 576p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |

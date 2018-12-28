@@ -1,7 +1,4 @@
 class Country:
-    name = None
-    ambits = []
-
     def __init__(self, name):
         self.name = name
         self.ambits = []
