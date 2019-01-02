@@ -5,6 +5,7 @@
 - Pau [@paurg15](https://github.com/paurg15)
 
 #### Contributions (in alphabetical order)
+- Antonio [@atnbueno](https://github.com/atnbueno)
 - CaRLymx [@carlymx](https://github.com/carlymx)
 - Carratraka [@carratraka](https://github.com/carratraka)
 - Juan [@okelet](https://github.com/okelet)
