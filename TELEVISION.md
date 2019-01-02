@@ -22,7 +22,7 @@
 | Energy | - | [web](http://www.mitele.es/directo/energy) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/125px-Energy.svg.png) | ENERGY ASTRA SD 1.sp |
 | Divinity | - | [web](http://www.mitele.es/directo/divinity)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png) | DIVINI ASTRA SD 1.sp |
 | Be Mad | - | [web](http://www.mitele.es/directo/bemad)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png) | BEMAD ASTRA SD 1.sp |
-| mtmad 24h | - | [web#1](https://www.mitele.es/directo/mtmad-24h) - [web#2](https://www.youtube.com/watch?v=hXQ8NuM1xQw) | - | [Logo](https://findvectorlogo.com/wp-content/uploads/2018/12/mtmad-vector-logo.png) | - |
+| mtmad 24h | - | [web # 1](https://www.mitele.es/directo/mtmad-24h) - [web # 2](https://www.youtube.com/watch?v=hXQ8NuM1xQw) | - | [Logo](https://findvectorlogo.com/wp-content/uploads/2018/12/mtmad-vector-logo.png) | - |
 | Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/master.m3u8) | [web](http://www.paramountnetwork.es/programacion/en-directo)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png) | PARCH ASTRA SD 1.sp |
 | TRECE | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/150px-Trece.svg.png) | 13TV TDT SD 1.sp |
 | Ten | - | [web](http://tentv.es/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/150px-Ten.svg.png) | TEN TDT SD 1.sp |
