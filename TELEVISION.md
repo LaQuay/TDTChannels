@@ -22,7 +22,8 @@
 | Energy | - | [web](http://www.mitele.es/directo/energy) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/125px-Energy.svg.png) | ENERGY ASTRA SD 1.sp |
 | Divinity | - | [web](http://www.mitele.es/directo/divinity)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/125px-Divinity.svg.png) | DIVINI ASTRA SD 1.sp |
 | Be Mad | - | [web](http://www.mitele.es/directo/bemad)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png) | BEMAD ASTRA SD 1.sp |
-| Paramount Channel | [m3u8](https://paramount-live.flumotion.com/live/master.m3u8) | [web](http://www.paramountchannel.es/programacion/en-directo)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png) | PARCH ASTRA SD 1.sp |
+| mtmad 24h | - | [web # 1](https://www.mitele.es/directo/mtmad-24h) - [web # 2](https://www.youtube.com/watch?v=hXQ8NuM1xQw) | - | [Logo](https://findvectorlogo.com/wp-content/uploads/2018/12/mtmad-vector-logo.png) | - |
+| Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/master.m3u8) | [web](http://www.paramountnetwork.es/programacion/en-directo)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png) | PARCH ASTRA SD 1.sp |
 | TRECE | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/150px-Trece.svg.png) | 13TV TDT SD 1.sp |
 | Ten | - | [web](http://tentv.es/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/150px-Ten.svg.png) | TEN TDT SD 1.sp |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1280px-DMax_Espa%C3%B1a.svg.png) | - |
@@ -137,28 +138,21 @@
 | 7TV Andalucía - Málaga | [m3u8](https://secure.todostreaming.es/live/ondaluz-olmalaga.m3u8) | [web](https://7tvandalucia.es/malaga/)| - | [Logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - |
 | 7TV Andalucía - Sevilla | [m3u8](https://secure.todostreaming.es/live/ondaluz-olsevilla.m3u8) | [web](https://7tvandalucia.es/sevilla/)| - | [Logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - |
 | Canal 28 TV | - | [web](http://www.almeriacanal28.es/) | - | - | - |
-| Una Televisión | - | - | - | - | - |
 | Yatv | - | [web](http://yatv.es/) | - | [Logo](http://yatv.es/wp-content/uploads/2018/02/Logo-YATV-Bahuaus1.jpg) | - |
 | Televisión Municipal de Córdoba | - | [web](https://www.cordoba.es/emision_directo/index.html) | - | [Logo](http://teleagenda.cordoba.es/wp-content/uploads/Logo-TVM-blog.jpg) | - |
 | Onda Mezquita TV | [m3u8](http://173.212.214.184:1935/mezquita/mezquita_360p/master.m3u8) | [web](http://www.ahoracordoba.es/ahoracordoba-en-vivo/) | 360p | [Logo](http://www.ahoracordoba.es/wp-content/uploads/2017/05/Logotipo-OndaMezquita-VERTICAL.png) | - |
 | TV Centro Andalucía | - | [web](http://tvcentroandalucia.com/) | - | [Logo](http://tvcentroandalucia.com/images/logo.png) | - |
 | Granada Channel | - | [web#1](https://www.youtube.com/watch?v=GqEIjlETgCk) - [web#2](https://www.youtube.com/watch?v=LZcSuvnM24I) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mDjfZ0zPjIIJSjFikvwwGdH5Cjhd962xeZeQg=s288-mo-c-c0xffffffff-rj-k-no) | - |
-| Cubika TV | - | - | - | - | - |
 | Accitania TV | - | [web](http://accitania.es/) | - | [Logo](http://accitania.es/wp-content/uploads/2016/08/d9e8211e-fa44-4753-a739-a8810cfefefc-1.jpg) | - |
 | TeleMotril | - | [web](http://telemotril.tv/) | - | [Logo](http://telemotril.com/wp-content/uploads/2016/11/telemotril-transparente-banner-titular-2016.png) | - |
 | Condavisión | [m3u8](http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8) | [web](http://www.condavision.es/) | 720p | [Logo](http://www.condavision.es/wp-content/uploads/2014/02/logo-cabecera.png) | - |
-| Televisión ESNE | - | [web](http://elsembradorministries.com/tv/) | - | [Logo](http://elsembradorministries.com/tv/wp-content/uploads/2016/04/logo-tv-2.png) | - |
+| ESNE TV | - | [web](http://elsembradorministries.com/tv/) | - | [Logo](http://elsembradorministries.com/tv/wp-content/uploads/2016/04/logo-tv-2.png) | - |
 | Diez TV | [m3u8](https://streaming.cloud.innovasur.es/mmj/34711900.m3u8) | [web](http://www.dieztv.es/p/directo.html) | - | [Logo](http://dieztv.es/images/cabecera.png) | - |
 | Alternativa TV | [m3u8](https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8) | [web](https://www.alternativartv.eu/) | 540p | [Logo](https://image.winudf.com/v2/image/Y29tLmFwcC50dnJhZGlvYWx0ZXJuYXRpdmFfaWNvbl8xNTM2OTMwMzA0XzA3Mw/icon.png?w=170&fakeurl=1&type=.png) | - |
-| Portal Azul TV | - | - | - | - | - |
-| Nueva TV | - | [web](www.nuevatv.es/) | - | - | - |
 | 9 la Loma | - | [web](https://9laloma.tv/directo/) | - | [Logo](https://9laloma.tv/wp-content/uploads/2016/12/LOGO-EN-NEGRO_web.png) | - |
 | Visuales TV | - | [web](http://i84470.wixsite.com/visual-tv/blank-mainPage) | - | [Logo](https://static.wixstatic.com/media/b4b44c_e4393f988adb4271897de66ee5ce8e9a.png/v1/fill/w_266,h_138,al_c,q_80,usm_0.66_1.00_0.01/b4b44c_e4393f988adb4271897de66ee5ce8e9a.webp) | - |
-| Guadalhorce TV | - | - | - | - | - |
-| Antakira TV | - | - | - | - | - |
 | LaSierra TV | - | [web](https://lasierratv.wordpress.com/) | - | [Logo](https://2.gravatar.com/avatar/8869d8fe1b0a7caef203304039bad180?s=128&d=identicon&r=G) | - |
 | Torrevisión | - | [web](http://www.torrevisiontelevision.es/) | - | [Logo](http://www.torrevisiontelevision.es/wp-content/uploads/2018/02/logo-torrevision-2017_ok.png) | - |
-| Una Metropolis | - | - | - | - | - |
 | Axarquía TV | - | [web](https://www.axarquiaplus.es/axarquia-tv/) | - | [Logo](https://www.axarquiaplus.es/wp-content/uploads_cloud/2017/06/logo-axarquiaplus.png) | - |
 | Ronda TV | - | [web](https://www.youtube.com/channel/UCx02ricr5-vg5vzb1h47p-g) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mD9eMjzXs9YHCO-8L_tpfbT7jnPgdBfcXXznw=s288-mo-c-c0xffffffff-rj-k-no) | - |
 | Axartel TV | - | [web](https://www.youtube.com/watch?v=H_yhWx3DJBU) | - | [Logo](https://yt3.ggpht.com/a-/AN66SAwliE79Vs1vLb-TSf5V8tNb_wWir-ZXU5g-ig=s900-mo-c-c0xffffffff-rj-k-no) | - |
@@ -178,7 +172,7 @@
 | Canal 25 Barbastro TV | [m3u8](http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8) | [web](http://www.canal25tv.es/index.php/ct-menu-item-5)| - | [Logo](http://www.canal25tv.es/images/template-content/untitled.png) | - |
 | La Tele TV | [m3u8](https://secure.todostreaming.es/live/generaltv-livestream.m3u8) | [web](http://www.latele-tv.com/) | - | [Logo](http://www.latele-tv.com/img/ico-general-footer.png) | - |
 | Canal 44 | - | [web](http://www.canal44.tv/endirecto/directo.php) | - | [Logo](http://www.canal44.tv/endirecto/logo_c44.jpg) | - |
-| La Comarca TeVe | - | [web](https://www.lacomarca.tv/) | - | - | - |
+| lacomarca.tv | - | [web](https://www.lacomarca.tv/) | - | [Logo](https://www.lacomarca.tv/wp-content/uploads/2016/06/logo-lacomarca-tv.png) | - |
 | Calamocha TV | - | [web](http://www.mijilocatv.es/scd/index.php) | - | [Logo](http://www.mijilocatv.es/scd/images/Logo_web.png) | - |
 | Ejea TV | - | [web](http://www.cincovillas.com/bienvenida-a-ejea-television/) | - | [Logo](http://st1.cincovillas.com/media/2011/04/ejea-tele-150x150.jpg) | - |
 
@@ -192,7 +186,6 @@
 | TeleAsturias | - | [web](http://tvonline.teleasturias.com/) | - | [Logo](https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Teleasturias.png) | - |
 | EsAsturiasTV | - | [web](https://mips.tv/esAsturiasTelevision) | - | [Logo](http://www.esasturias.tv/wp-content/uploads/2015/10/200x2001.png) | - |
 | Canal 10 | - | [web](http://www.canal10tv.com/) | - | [Logo](https://generacionalsa.files.wordpress.com/2008/08/logopequeno.gif) | - |
-| Televisión Local de Gijón | - | [web](http://www.tlg.es/) | - | - | - |
 | ORT | - | [web](https://www.ort-ort.com/) | - | [Logo](https://www.ort-ort.com/wp-content/uploads/2017/07/logoweb91-1.png) | - |
 
 #### Canarias
@@ -213,7 +206,6 @@
 | Mi Tierra Televisión | - | [web](http://www.mitierratelevision.com/directo/) | - | [Logo](http://www.mitierratelevision.com/wp-content/themes/mitierraTV/gfx/logoMT_sintexto.png) | - |
 | Televisión Mogán | [m3u8](https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w1059529458.m3u8) | [web](http://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | - | [Logo](https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/television-mogan.png) | - |
 | Fuerteventura TV | - | [web](https://www.fuerteventuratv.net/es/) | - | [Logo](https://www.fuerteventuratv.net/images/Fuerteventura.jpg) | - |
-| La Provincia | - | - | - | - | - |
 | Canal 8 TIC | - | [web](http://www.canal8tic.es/) | - | [Logo](http://www.canal8tic.es/) | - |
 | Gran Canaria Televisión | - | [web](https://www.youtube.com/channel/UCUm8NiHT-gJv5GUR9waXp9g) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mBZgoGwNR20naVYsnvflm4vHIq9Gj8Y8n3GFQ=s288-mo-c-c0xffffffff-rj-k-no) | - |
 
@@ -318,7 +310,6 @@
 | Pirineus TV | - | [web](http://www.pirineustv.cat/) | - | [Logo](http://www.pirineustv.cat/wp-content/uploads/2018/09/pirineusTV-170-95-blanc.jpg) | - |
 | Aran Televisió | - | [web](https://arantv.alacarta.cat/) | - | [Logo](http://www.alacarta.cat/api/assets/getFile/public/media/000/407/207/300x85_logo_arantv.png) | - |
 | Canal 21 Ebre | - | [web](http://www.canal21ebre.com/) | - | [Logo](http://www.canal21ebre.com/logo/logo111.jpg) | - |
-| RAC105 | - | - | - | - | - |
 | Canal Parlament | [m3u8](https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/master.m3u8) | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) | 480p | [Logo](https://upload.wikimedia.org/wikipedia/ca/thumb/e/e4/Logotip_Parlament_de_Catalunya.svg/1280px-Logotip_Parlament_de_Catalunya.svg.png) | - |
 | El Segrià TV | - | [web](https://segriatv.cat/) | - | [Logo](https://reskytnew.s3.amazonaws.com/4851/segriatv-logoweb-149872-170206115051.png) | - |
 | Pla d'Urgell TV | - | [web](https://plaurgelltv.cat/) | - | [Logo](https://reskytnew.s3.amazonaws.com/4760/pla-durgell-tv-logoweb-146244-170116154211.jpg) | - |
@@ -405,10 +396,7 @@
 | 7 RM | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | 180p, 270p, 360p | [Logo](http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png) | - |
 | TV Murciana | - | [web](http://www.televisionmurciana.es/) | - | [Logo](http://www.televisionmurciana.es/images/logo.png) | - |
 | Popular TV Murcia | [m3u8](https://streaming-fr02.enetres.net/D1D1B8F06DE042A9A32866AC8A6F0B6F021/smil:live.smil/master.m3u8) | [web](https://www.populartvrm.com/) | - | [Logo](https://static.wixstatic.com/media/63ed20_34574868bc624c8d8a8c7057658fd891~mv2_d_5906_5906_s_4_2.png/v1/fill/w_178,h_178,al_c,q_80,usm_0.66_1.00_0.01/63ed20_34574868bc624c8d8a8c7057658fd891~mv2_d_5906_5906_s_4_2.webp) | - |
-| Telepeñón | - | - | - | - | - |
-| GTM | - | [web](http://gtmtelevision.es/) | - | - | - |
 | Canal 8 Murcia | - | [web](http://www.canal8murcia.com/) | - | [Logo](http://www.canal8murcia.com/LOGO%20OCHO.jpg) | - |
-| La Opinión TV | - | - | - | - | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 | Canal 1 TV Mar-Menor - Torre Pacheco | - | [web](https://www.canal1tv.es/) | - | [Logo](https://www.canal1tv.es/wp-content/uploads/logo-canal1tv.png) | - |
 | Comarcal TV | - | [web](https://comarcaltv.es/) | - | [Logo](https://comarcaltv.es/wp-content/uploads/2017/01/logo_web-1-1.png) | - |
@@ -440,10 +428,8 @@
 | 28 Kanala | [m3u8](https://5940924978228.streamlock.net/8157/8157/master.m3u8) | [web](http://www.28kanala.eus/) | 1080p | [Logo](http://www.28kanala.eus/images/ikonoak/28-kanala-logo.png) | - |
 | Oizmendi Telebista | [m3u8](https://5940924978228.streamlock.net/8161/8161/master.m3u8) | [web](http://www.oizmendi.eus/) | 404p | [Logo](http://www.oizmendi.eus/images/ikonoak/oizmendi-logo.png) | - |
 | GITB Goiberri Irrati Telebista | [m3u8](https://5940924978228.streamlock.net/8155/8155/master.m3u8) | [web](http://www.gitb.eus/) | 480p | [Logo](http://www.gitb.eus/images/ikonoak/gitb-logo.png) | - |
-| Álava 7 TV | - | - | - | - | - |
 | Global 7 TV | - | [web](https://www.global7.tv/) | - | [Logo](https://www.global7.tv/wp-content/uploads/2018/12/global_7_logo-300x91.png) | - |
 | Txingudi Telebista | - | [web](https://txingudionline.com/) | - | [Logo](https://txingudionline.com/wp-content/uploads/2018/05/fav_icon_txingudi.png) | - |
-| Bizcaia TV | - | - | - | - | - |
 
 #### La Rioja
 
@@ -465,8 +451,8 @@
 | Tele Safor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](http://telesafor.com) | 240p, 360p, 480p | [Logo](http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png) | - |
 | TV Vega Baja | [m3u8](http://185.29.68.24/tvb.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | - | [Logo](http://programas.televisionvegabaja.es/imgs/logovodtvvb.png) | - |
 | Canal 56 | [m3u8](https://cdn01.yowi.tv/VI76V4AZS4/live-1000.m3u8) | [web](http://canal56.com/online/) | - | [Logo](https://csolsqs.com/56/image_20170921_145620_1626.jpg) | - |
-| TCS | - | [web](http://www.tvcs.tv/) | - | [Logo](https://www.tvcs.tv/wp-content/uploads/2017/05/logo6.png) | - |
-| tvA | - | [web](http://www.tv-a.es/) | - | [Logo](http://www.tv-a.es/wp-content/uploads/2018/03/logo_TVA-01-300x231.png) | - |
+| TVCS | - | [web](http://www.tvcs.tv/) | - | [Logo](https://www.tvcs.tv/wp-content/uploads/2017/05/logo6.png) | - |
+| tv-A | - | [web](http://www.tv-a.es/) | - | [Logo](http://www.tv-a.es/wp-content/uploads/2018/03/logo_TVA-01-300x231.png) | - |
 | Ribera TV | [m3u8](http://orion.comelson.es/ribera/livestream/playlist.m3u8) | [web](http://www.riberatelevisio.com/) | - | [Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9RFTwQvPYaIodCtMw8jMAJ1eGrOLm4ia0mZSong1RbJZ58jXD) | - |
 | Bous TV | - | [web](https://www.boustv.es/) | - | [Logo](https://pbs.twimg.com/profile_images/468813580310028288/kBS92Vx7_400x400.png) | - |
 | TV4 La Vall | [m3u8](http://178.32.53.254/15o8376r/mystream/playlist.m3u8) | [web](http://teve4lavall.com/) | - | [Logo](https://pbs.twimg.com/profile_images/438700741801177088/MdnaVxtC_400x400.png) | - |
