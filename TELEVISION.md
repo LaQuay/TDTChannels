@@ -117,18 +117,18 @@
 | Cantabria TV | - | [web](http://www.vegavision.tv/) | - | [Logo](http://www.vegavision.tv/media//vegavision/sections/logo%20web%20cantabria%207%20tv.jpg) | - |
 | Popular TV Cantabria | [m3u8](http://cls.todostreaming.eu/ptvcantabria/livestream/playlist.m3u8) | [web](http://populartvcantabria.com/livetv/) | - | [Logo](http://proyectohombrecantabria.org/wp-content/uploads/2014/08/populartv.png) | - |
 
+#### Castilla La-Mancha
+
+| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
+| - | - | - | - | - | - |
+| CMM TV | [m3u8](http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8) | [web](http://www.cmmedia.es/en-directo/tv/) | - | [Logo](https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/73/1276787.png) | - |
+
 #### Castilla y León
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | CyL7 | [m3u8](http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8) | [web](https://www.rtvcyl.es/DirectoCylTV) | 1080p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_CYL7.svg/946px-Logo_CYL7.svg.png) | - |
 | La 8 CyL | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png) | - |
-
-#### Castilla La-Mancha
-
-| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
-| - | - | - | - | - | - |
-| CMM TV | [m3u8](http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8) | [web](http://www.cmmedia.es/en-directo/tv/) | - | [Logo](https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/73/1276787.png) | - |
 
 #### Cataluña
 
@@ -363,18 +363,6 @@
 | - | - | - | - | - | - |
 | TeleBahía | - | [web](https://www.youtube.com/user/telebahia) | - | - | - |
 
-#### Castilla y León
-
-| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Telemedina Canal 9 | - | [web](http://www.telemedina.com/) | - | [Logo](http://www.lavozdemedinadigital.com/wordpress/wp-content/uploads/mosca.png) | - |
-| Canal 54 Burgos | - | [web](http://www.canal54.es/emision-en-directo/) | - | [Logo](http://www.canal54.es/wp-content/uploads/Logotipo-Superior.png) | - |
-| TV Benavente | - | [web](http://www.tvbenavente.es/television-online/) | - | [Logo](https://pbs.twimg.com/profile_images/1896876073/tv_benavente-twitter-logo_400x400.jpg) | - |
-| Telearanda | - | [web](http://www.telearanda.es/) | - | [Logo](http://www.telearanda.es/imagenes/inicio.jpg) | - |
-| ViveMiranda Televisión | - | [web](https://www.vivemiranda.com/television/) | - | [Logo](https://www.vivemiranda.com/wp-content/uploads/2015/03/logoT3_copia.png) | - |
-| Soria TV | - | [web](http://soriatv.com/) | - | [Logo](http://soriatv.com/wp-content/uploads/2015/11/logo-soria-tv.png) | - |
-| Bierzo TV | - | [web](https://www.bierzotv.com/) | - | [Logo](https://www.bierzotv.com/wp-content/uploads/2013/05/bierzotv-logo_200.png) | - |
-
 #### Castilla La-Mancha
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
@@ -394,6 +382,18 @@
 | Tele Valdepeñas | - | [web](http://www.televal.com/tvv/) | - | [Logo](http://www.televal.com/tvv/imagenes/web26_03.jpg) | - |
 | Tele Taracón | - | [web](http://www.taranconalacarta.es/) | - | [Logo](http://www.taranconalacarta.es/media//taranconalacarta2/sections/Sin%20t%C3%ADtulo-1.png) | - |
 | Guadalajara Media | - | [web](https://www.youtube.com/channel/UCaEv8XC5Czu8vfV_QKUARLQ) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mDNw8S4XaVv6pM2YDcQywPozkM_m1dx1yORxg=s288-mo-c-c0xffffffff-rj-k-no) | - |
+
+#### Castilla y León
+
+| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
+| - | - | - | - | - | - |
+| Telemedina Canal 9 | - | [web](http://www.telemedina.com/) | - | [Logo](http://www.lavozdemedinadigital.com/wordpress/wp-content/uploads/mosca.png) | - |
+| Canal 54 Burgos | - | [web](http://www.canal54.es/emision-en-directo/) | - | [Logo](http://www.canal54.es/wp-content/uploads/Logotipo-Superior.png) | - |
+| TV Benavente | - | [web](http://www.tvbenavente.es/television-online/) | - | [Logo](https://pbs.twimg.com/profile_images/1896876073/tv_benavente-twitter-logo_400x400.jpg) | - |
+| Telearanda | - | [web](http://www.telearanda.es/) | - | [Logo](http://www.telearanda.es/imagenes/inicio.jpg) | - |
+| ViveMiranda Televisión | - | [web](https://www.vivemiranda.com/television/) | - | [Logo](https://www.vivemiranda.com/wp-content/uploads/2015/03/logoT3_copia.png) | - |
+| Soria TV | - | [web](http://soriatv.com/) | - | [Logo](http://soriatv.com/wp-content/uploads/2015/11/logo-soria-tv.png) | - |
+| Bierzo TV | - | [web](https://www.bierzotv.com/) | - | [Logo](https://www.bierzotv.com/wp-content/uploads/2013/05/bierzotv-logo_200.png) | - |
 
 #### Cataluña
 
