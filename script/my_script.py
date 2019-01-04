@@ -99,14 +99,14 @@ spain.add_ambit(Ambito("Asturias", get_channels_from_part(canales_autonomicos_as
 canales_autonomicos_canarias = stringbetween(content, "#### Canarias", "#### Cantabria")
 spain.add_ambit(Ambito("Canarias", get_channels_from_part(canales_autonomicos_canarias)))
 
-canales_autonomicos_cantabria = stringbetween(content, "#### Cantabria", "#### Castilla y León")
+canales_autonomicos_cantabria = stringbetween(content, "#### Cantabria", "#### Castilla La-Mancha")
 spain.add_ambit(Ambito("Cantabria", get_channels_from_part(canales_autonomicos_cantabria)))
 
-canales_autonomicos_castilla_mancha = stringbetween(content, "#### Castilla y León", "#### Castilla La-Mancha")
-spain.add_ambit(Ambito("Castilla y León", get_channels_from_part(canales_autonomicos_castilla_mancha)))
+canales_autonomicos_castilla_mancha = stringbetween(content, "#### Castilla La-Mancha", "#### Castilla y León")
+spain.add_ambit(Ambito("Castilla La-Mancha", get_channels_from_part(canales_autonomicos_castilla_mancha)))
 
-canales_autonomicos_castilla_leon = stringbetween(content, "#### Castilla La-Mancha", "#### Cataluña")
-spain.add_ambit(Ambito("Castilla La-Mancha", get_channels_from_part(canales_autonomicos_castilla_leon)))
+canales_autonomicos_castilla_leon = stringbetween(content, "#### Castilla y León", "#### Cataluña")
+spain.add_ambit(Ambito("Castilla y León", get_channels_from_part(canales_autonomicos_castilla_leon)))
 
 canales_autonomicos_cataluña = stringbetween(content, "#### Cataluña", "#### Ceuta")
 spain.add_ambit(Ambito("Cataluña", get_channels_from_part(canales_autonomicos_cataluña)))
@@ -156,14 +156,14 @@ spain.add_ambit(Ambito("Asturias", get_channels_from_part(canales_locales_asturi
 canales_locales_canarias = stringbetween(content, "#### Canarias", "#### Cantabria")
 spain.add_ambit(Ambito("Canarias", get_channels_from_part(canales_locales_canarias)))
 
-canales_locales_cantabria = stringbetween(content, "#### Cantabria", "#### Castilla y León")
+canales_locales_cantabria = stringbetween(content, "#### Cantabria", "#### Castilla La-Mancha")
 spain.add_ambit(Ambito("Cantabria", get_channels_from_part(canales_locales_cantabria)))
 
-canales_locales_castilla_mancha = stringbetween(content, "#### Castilla y León", "#### Castilla La-Mancha")
-spain.add_ambit(Ambito("Castilla y León", get_channels_from_part(canales_locales_castilla_mancha)))
+canales_locales_castilla_mancha = stringbetween(content, "#### Castilla La-Mancha", "#### Castilla y León")
+spain.add_ambit(Ambito("Castilla La-Mancha", get_channels_from_part(canales_locales_castilla_mancha)))
 
-canales_locales_castilla_leon = stringbetween(content, "#### Castilla La-Mancha", "#### Cataluña")
-spain.add_ambit(Ambito("Castilla La-Mancha", get_channels_from_part(canales_locales_castilla_leon)))
+canales_locales_castilla_leon = stringbetween(content, "#### Castilla y León", "#### Cataluña")
+spain.add_ambit(Ambito("Castilla y León", get_channels_from_part(canales_locales_castilla_leon)))
 
 canales_locales_cataluña = stringbetween(content, "#### Cataluña", "#### Ceuta")
 spain.add_ambit(Ambito("Cataluña", get_channels_from_part(canales_locales_cataluña)))
