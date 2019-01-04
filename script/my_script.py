@@ -141,8 +141,62 @@ spain.add_ambit(Ambito("Pais Vasco", get_channels_from_part(canales_autonomicos_
 canales_autonomicos_la_rioja = stringbetween(content, "#### La Rioja", "#### Valencia")
 spain.add_ambit(Ambito("La Rioja", get_channels_from_part(canales_autonomicos_la_rioja)))
 
-canales_autonomicos_valencia = stringbetween(content, "#### Valencia", "## Internacionales")
+canales_autonomicos_valencia = stringbetween(content, "#### Valencia", "## Locales")
 spain.add_ambit(Ambito("Valencia", get_channels_from_part(canales_autonomicos_valencia)))
+
+canales_autonomicos_andalucia = stringbetween(content, "#### Andalucía", "#### Aragón")
+spain.add_ambit(Ambito("Andalucía", get_channels_from_part(canales_autonomicos_andalucia)))
+
+canales_autonomicos_aragon = stringbetween(content, "#### Aragón", "#### Asturias")
+spain.add_ambit(Ambito("Aragón", get_channels_from_part(canales_autonomicos_aragon)))
+
+canales_autonomicos_asturias = stringbetween(content, "#### Asturias", "#### Canarias")
+spain.add_ambit(Ambito("Asturias", get_channels_from_part(canales_autonomicos_asturias)))
+
+canales_autonomicos_canarias = stringbetween(content, "#### Canarias", "#### Cantabria")
+spain.add_ambit(Ambito("Canarias", get_channels_from_part(canales_autonomicos_canarias)))
+
+canales_autonomicos_cantabria = stringbetween(content, "#### Cantabria", "#### Castilla La-Mancha")
+spain.add_ambit(Ambito("Cantabria", get_channels_from_part(canales_autonomicos_cantabria)))
+
+canales_autonomicos_castilla_mancha = stringbetween(content, "#### Castilla La-Mancha", "#### Castilla y León")
+spain.add_ambit(Ambito("Castilla la Mancha", get_channels_from_part(canales_autonomicos_castilla_mancha)))
+
+canales_autonomicos_castilla_leon = stringbetween(content, "#### Castilla y León", "#### Catalunya")
+spain.add_ambit(Ambito("Castilla y León", get_channels_from_part(canales_autonomicos_castilla_leon)))
+
+canales_autonomicos_catalunya = stringbetween(content, "#### Catalunya", "#### Ceuta")
+spain.add_ambit(Ambito("Catalunya", get_channels_from_part(canales_autonomicos_catalunya)))
+
+canales_autonomicos_ceuta = stringbetween(content, "#### Ceuta", "#### Extremadura")
+spain.add_ambit(Ambito("Ceuta", get_channels_from_part(canales_autonomicos_ceuta)))
+
+canales_autonomicos_extremadura = stringbetween(content, "#### Extremadura", "#### Galicia")
+spain.add_ambit(Ambito("Extremadura", get_channels_from_part(canales_autonomicos_extremadura)))
+
+canales_autonomicos_galicia = stringbetween(content, "#### Galicia", "#### Islas Baleares")
+spain.add_ambit(Ambito("Galicia", get_channels_from_part(canales_autonomicos_galicia)))
+
+canales_autonomicos_islas_baleares = stringbetween(content, "### Islas Baleares", "#### Madrid")
+spain.add_ambit(Ambito("Islas Baleares", get_channels_from_part(canales_autonomicos_islas_baleares)))
+
+canales_autonomicos_madrid = stringbetween(content, "#### Madrid", "#### Melilla")
+spain.add_ambit(Ambito("Madrid", get_channels_from_part(canales_autonomicos_madrid)))
+
+canales_autonomicos_melilla = stringbetween(content, "#### Melilla", "#### Murcia")
+spain.add_ambit(Ambito("Melilla", get_channels_from_part(canales_autonomicos_melilla)))
+
+canales_autonomicos_murcia = stringbetween(content, "#### Murcia", "#### Navarra")
+spain.add_ambit(Ambito("Murcia", get_channels_from_part(canales_autonomicos_murcia)))
+
+canales_autonomicos_navarra = stringbetween(content, "#### Navarra", "#### Pais Vasco")
+spain.add_ambit(Ambito("Navarra", get_channels_from_part(canales_autonomicos_navarra)))
+
+canales_autonomicos_pais_vasco = stringbetween(content, "#### Pais Vasco", "#### La Rioja")
+spain.add_ambit(Ambito("Pais Vasco", get_channels_from_part(canales_autonomicos_pais_vasco)))
+
+canales_autonomicos_la_rioja = stringbetween(content, "#### La Rioja", "#### Valencia")
+spain.add_ambit(Ambito("La Rioja", get_channels_from_part(canales_autonomicos_la_rioja)))
 
 canales_internacionales = stringbetween(content, "## Internacionales", "### Andorra")
 international.add_ambit(Ambito("Internacional", get_channels_from_part(canales_internacionales)))
