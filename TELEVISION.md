@@ -117,12 +117,6 @@
 | Cantabria TV | - | [web](http://www.vegavision.tv/) | - | [Logo](http://www.vegavision.tv/media//vegavision/sections/logo%20web%20cantabria%207%20tv.jpg) | - |
 | Popular TV Cantabria | [m3u8](http://cls.todostreaming.eu/ptvcantabria/livestream/playlist.m3u8) | [web](http://populartvcantabria.com/livetv/) | - | [Logo](http://proyectohombrecantabria.org/wp-content/uploads/2014/08/populartv.png) | - |
 
-#### Castilla La-Mancha
-
-| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
-| - | - | - | - | - | - |
-| CMM TV | [m3u8](http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8) | [web](http://www.cmmedia.es/en-directo/tv/) | - | [Logo](https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/73/1276787.png) | - |
-
 #### Castilla y León
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
@@ -130,7 +124,13 @@
 | CyL7 | [m3u8](http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8) | [web](https://www.rtvcyl.es/DirectoCylTV) | 1080p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_CYL7.svg/946px-Logo_CYL7.svg.png) | - |
 | La 8 CyL | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png) | - |
 
-#### Catalunya
+#### Castilla La-Mancha
+
+| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
+| - | - | - | - | - | - |
+| CMM TV | [m3u8](http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8) | [web](http://www.cmmedia.es/en-directo/tv/) | - | [Logo](https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/73/1276787.png) | - |
+
+#### Cataluña
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
@@ -145,6 +145,7 @@
 | La 1 Catalunya | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | 270p, 360p, 576p | [Logo](https://vignette.wikia.nocookie.net/telenovelas/images/7/7f/Logtve1.png/revision/latest?cb=20160726160024&path-prefix=es) | - |
 | La 2 Catalunya | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2ca_lv3_aosv4_gl0/la2ca_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/150px-Logo_TVE-2.svg.png) | - |
 | 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) | [web](http://www.8tv.cat/directe/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/0/03/8tv.png) | - |
+| Canal Parlament | [m3u8](https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/master.m3u8) | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) | 480p | [Logo](https://upload.wikimedia.org/wikipedia/ca/thumb/e/e4/Logotip_Parlament_de_Catalunya.svg/1280px-Logotip_Parlament_de_Catalunya.svg.png) | - |
 
 #### Ceuta
 
@@ -180,6 +181,13 @@
 | - | - | - | - | - | - |
 | IB3 | [m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8) | [web](http://ib3tv.com/directe) | 144p, 288p, 504p | [Logo](https://upload.wikimedia.org/wikipedia/ca/7/7e/Ib3_logo2008-1.png) | - |
 | Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master.m3u8) | [web](https://ib3.org/directe?c=bondia) | 180p, 360p | [Logo](https://statics.ccma.cat/img/logos/logo_bondiaTV.svg) | - |
+
+#### La Rioja
+
+| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
+| - | - | - | - | - | - |
+| TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_Rioja_Televisi%C3%B3n_S.A..png) | - |
+| Popular TV La Rioja | - | [web](http://www.populartvlarioja.com/) | - | [Logo](http://www.populartvlarioja.com/wp-content/uploads/2013/11/logo_cyan.png) | - |
 
 #### Madrid
 
@@ -220,13 +228,6 @@
 | ETB 2 | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | 238p, 360p, 480p, 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/150px-ETB2_Spain.svg.png) | - |
 | ETB 3 | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ETB3_Spain.svg/150px-ETB3_Spain.svg.png) | - |
 | ETB 4 | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ETB4_Spain.svg/150px-ETB4_Spain.svg.png) | - |
-
-#### La Rioja
-
-| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
-| - | - | - | - | - | - |
-| TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_Rioja_Televisi%C3%B3n_S.A..png) | - |
-| Popular TV La Rioja | - | [web](http://www.populartvlarioja.com/) | - | [Logo](http://www.populartvlarioja.com/wp-content/uploads/2013/11/logo_cyan.png) | - |
 
 #### Valencia
 
@@ -362,6 +363,18 @@
 | - | - | - | - | - | - |
 | TeleBahía | - | [web](https://www.youtube.com/user/telebahia) | - | - | - |
 
+#### Castilla y León
+
+| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
+| - | - | - | - | - | - |
+| Telemedina Canal 9 | - | [web](http://www.telemedina.com/) | - | [Logo](http://www.lavozdemedinadigital.com/wordpress/wp-content/uploads/mosca.png) | - |
+| Canal 54 Burgos | - | [web](http://www.canal54.es/emision-en-directo/) | - | [Logo](http://www.canal54.es/wp-content/uploads/Logotipo-Superior.png) | - |
+| TV Benavente | - | [web](http://www.tvbenavente.es/television-online/) | - | [Logo](https://pbs.twimg.com/profile_images/1896876073/tv_benavente-twitter-logo_400x400.jpg) | - |
+| Telearanda | - | [web](http://www.telearanda.es/) | - | [Logo](http://www.telearanda.es/imagenes/inicio.jpg) | - |
+| ViveMiranda Televisión | - | [web](https://www.vivemiranda.com/television/) | - | [Logo](https://www.vivemiranda.com/wp-content/uploads/2015/03/logoT3_copia.png) | - |
+| Soria TV | - | [web](http://soriatv.com/) | - | [Logo](http://soriatv.com/wp-content/uploads/2015/11/logo-soria-tv.png) | - |
+| Bierzo TV | - | [web](https://www.bierzotv.com/) | - | [Logo](https://www.bierzotv.com/wp-content/uploads/2013/05/bierzotv-logo_200.png) | - |
+
 #### Castilla La-Mancha
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
@@ -382,19 +395,7 @@
 | Tele Taracón | - | [web](http://www.taranconalacarta.es/) | - | [Logo](http://www.taranconalacarta.es/media//taranconalacarta2/sections/Sin%20t%C3%ADtulo-1.png) | - |
 | Guadalajara Media | - | [web](https://www.youtube.com/channel/UCaEv8XC5Czu8vfV_QKUARLQ) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mDNw8S4XaVv6pM2YDcQywPozkM_m1dx1yORxg=s288-mo-c-c0xffffffff-rj-k-no) | - |
 
-#### Castilla y León
-
-| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Telemedina Canal 9 | - | [web](http://www.telemedina.com/) | - | [Logo](http://www.lavozdemedinadigital.com/wordpress/wp-content/uploads/mosca.png) | - |
-| Canal 54 Burgos | - | [web](http://www.canal54.es/emision-en-directo/) | - | [Logo](http://www.canal54.es/wp-content/uploads/Logotipo-Superior.png) | - |
-| TV Benavente | - | [web](http://www.tvbenavente.es/television-online/) | - | [Logo](https://pbs.twimg.com/profile_images/1896876073/tv_benavente-twitter-logo_400x400.jpg) | - |
-| Telearanda | - | [web](http://www.telearanda.es/) | - | [Logo](http://www.telearanda.es/imagenes/inicio.jpg) | - |
-| ViveMiranda Televisión | - | [web](https://www.vivemiranda.com/television/) | - | [Logo](https://www.vivemiranda.com/wp-content/uploads/2015/03/logoT3_copia.png) | - |
-| Soria TV | - | [web](http://soriatv.com/) | - | [Logo](http://soriatv.com/wp-content/uploads/2015/11/logo-soria-tv.png) | - |
-| Bierzo TV | - | [web](https://www.bierzotv.com/) | - | [Logo](https://www.bierzotv.com/wp-content/uploads/2013/05/bierzotv-logo_200.png) | - |
-
-#### Catalunya
+#### Cataluña
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
@@ -441,7 +442,6 @@
 | Pirineus TV | - | [web](http://www.pirineustv.cat/) | - | [Logo](http://www.pirineustv.cat/wp-content/uploads/2018/09/pirineusTV-170-95-blanc.jpg) | - |
 | Aran Televisió | - | [web](https://arantv.alacarta.cat/) | - | [Logo](http://www.alacarta.cat/api/assets/getFile/public/media/000/407/207/300x85_logo_arantv.png) | - |
 | Canal 21 Ebre | - | [web](http://www.canal21ebre.com/) | - | [Logo](http://www.canal21ebre.com/logo/logo111.jpg) | - |
-| Canal Parlament | [m3u8](https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/master.m3u8) | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) | 480p | [Logo](https://upload.wikimedia.org/wikipedia/ca/thumb/e/e4/Logotip_Parlament_de_Catalunya.svg/1280px-Logotip_Parlament_de_Catalunya.svg.png) | - |
 | El Segrià TV | - | [web](https://segriatv.cat/) | - | [Logo](https://reskytnew.s3.amazonaws.com/4851/segriatv-logoweb-149872-170206115051.png) | - |
 | Pla d'Urgell TV | - | [web](https://plaurgelltv.cat/) | - | [Logo](https://reskytnew.s3.amazonaws.com/4760/pla-durgell-tv-logoweb-146244-170116154211.jpg) | - |
 | Aué TV | - | [web](https://aue.cat/) | - | [Logo](https://reskytnew.s3.amazonaws.com/4528/aue-tv-logoweb-134880-170123135526.png) | - |
