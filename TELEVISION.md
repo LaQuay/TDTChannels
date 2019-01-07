@@ -219,7 +219,7 @@
 | Navarra TV | [m3u8](http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/chunklist.m3u8) | [web](http://www.natv.es/Directo) | 250p | [Logo](https://heyevent.es/img/img_motoclubs/patrocinadores/grandes/23.jpg) | - |
 | Navarra TV 2 | - | - | - | [Logo](http://3.bp.blogspot.com/-j22uTErqMrk/T7EE7Q7SxPI/AAAAAAAAAV8/droCaHFbXxk/s1600/navarratv2.jpg) | - |
 
-#### Pais Vasco
+#### País Vasco
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
@@ -505,7 +505,7 @@
 | - | - | - | - | - | - |
 | TeleRibera | [m3u8](http://37.187.7.106/teleribera/live.m3u8) | [web](http://www.teleribera.com/) | - | [Logo](https://img3.androidappsapk.co/poster/5/c/6/appinventor.ai_lowepalma.teleribera_1.png) | - |
 
-#### Pais Vasco
+#### País Vasco
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
