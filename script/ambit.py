@@ -3,6 +3,10 @@ class Ambito:
         self.name = name
         self.channels = channels
 
+    def add_channels(self, channels_to_add):
+        if self.channels:
+            self.channels += channels_to_add
+
     def __channels_to_json__(self):
         channel_list = []
         for channel in self.channels:
