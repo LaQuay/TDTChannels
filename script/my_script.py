@@ -5,14 +5,14 @@ import requests
 
 from ambit import Ambito
 from country import Country
-# TODO Change this
-from public.utils import stringbetween, get_channels_from_part, get_license_info
+from utils import stringbetween, get_channels_from_part, get_license_info
 
-page = requests.get('https://raw.githubusercontent.com/LaQuay/TDTChannels/add-local-m3u8/TELEVISION.md',
+page = requests.get('https://raw.githubusercontent.com/LaQuay/TDTChannels/master/TELEVISION.md',
                     headers={'Cache-Control': 'no-cache'})
 content = str(page.text)
 
 spain = Country("Spain")
+andorra = Country("Andorra")
 international = Country("International")
 
 content_nacional = stringbetween(content, "### Nacionales", "### Locales")
@@ -150,15 +150,19 @@ spain.get_ambit("Valencia").add_channels(get_channels_from_part(canales_locales_
 canales_internacionales = stringbetween(content, "## Internacionales", "### Andorra")
 international.add_ambit(Ambito("Internacional", get_channels_from_part(canales_internacionales)))
 
+canales_andorra = stringbetween(content, "### Andorra", "")
+andorra.add_ambit(Ambito("Andorra", get_channels_from_part(canales_andorra)))
+
 # Save data to JSON file
 json_file = open('./public/output/channels.json', "w+")
-# TODO Add license
 json_file.write("[")
 json_file.write(json.dumps(get_license_info()))
 json_file.write(", ")
 json_file.write(json.dumps(spain.to_json()))
 json_file.write(", ")
 json_file.write(json.dumps(international.to_json()))
+json_file.write(", ")
+json_file.write(json.dumps(andorra.to_json()))
 json_file.write("]")
 json_file.close()
 
