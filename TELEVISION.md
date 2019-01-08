@@ -450,6 +450,11 @@
 | Les Garrigues TV | - | [web](https://garriguestv.cat/) | - | [Logo](https://reskytnew.s3.amazonaws.com/4759/garrigues-tv-logoweb-146245-170116155818.png) | - |
 | L'Urgell TV | - | [web](https://urgelltv.cat/) | - | [Logo](https://reskytnew.s3.amazonaws.com/4779/urgelltv-logoweb-142126-170206164407.png) | - |
 
+#### Ceuta
+
+| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
+| - | - | - | - | - | - |
+
 #### Extremadura
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
