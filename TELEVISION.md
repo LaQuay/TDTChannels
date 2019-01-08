@@ -450,6 +450,11 @@
 | Les Garrigues TV | - | [web](https://garriguestv.cat/) | - | [Logo](https://reskytnew.s3.amazonaws.com/4759/garrigues-tv-logoweb-146245-170116155818.png) | - |
 | L'Urgell TV | - | [web](https://urgelltv.cat/) | - | [Logo](https://reskytnew.s3.amazonaws.com/4779/urgelltv-logoweb-142126-170206164407.png) | - |
 
+#### Ceuta
+
+| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
+| - | - | - | - | - | - |
+
 #### Extremadura
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
@@ -478,6 +483,11 @@
 | Canal 4 | - | [web](http://canal4televisio.com/canal-4-en-directo/) | - | [Logo](http://canal4televisio.com/wp-content/uploads/2016/10/pngTVc4.png) | - |
 | Fibwi | - | [web](https://fibwiradio.com/) | - | [Logo](https://fibwiradio.com/wp-content/uploads/2018/05/LOGO-WEB-FIBWLI.LIVE_-1.png) | - |
 
+#### La Rioja
+
+| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
+| - | - | - | - | - | - |
+
 #### Madrid
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
@@ -490,6 +500,11 @@
 | 8madrid | - | [web](http://www.8madrid.tv/) | - | [Logo](http://www.8madrid.tv/images/8madrid%20nuestro%20cine%20positivott.jpg) | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 | Logos TV | [m3u8](https://streamer1.streamhost.org/salive/logosH/master.m3u8) | [web](https://logostv.es/) | 576p | [Logo](https://logostv.es/wp-content/uploads/2016/04/logo-logostv.png) | - |
+
+#### Melilla
+
+| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
+| - | - | - | - | - | - |
 
 #### Murcia
 
