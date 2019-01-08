@@ -8,7 +8,7 @@ class Country:
 
     def get_ambit(self, ambit_to_get):
         for ambit in self.ambits:
-            if ambit.name == ambit_to_get.name:
+            if ambit.name == ambit_to_get:
                 return ambit
         return None
 

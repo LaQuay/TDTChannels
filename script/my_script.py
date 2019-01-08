@@ -65,6 +65,7 @@ def get_channels_from_part(text):
     return channel_list
 
 
+# TODO Change this
 page = requests.get('https://raw.githubusercontent.com/LaQuay/TDTChannels/add-local-m3u8/TELEVISION.md',
                     headers={'Cache-Control': 'no-cache'})
 content = str(page.text)
@@ -144,7 +145,7 @@ spain.add_ambit(Ambito("Navarra", get_channels_from_part(canales_autonomicos_nav
 canales_autonomicos_pais_vasco = stringbetween(content_nacional, "#### País Vasco", "#### Valencia")
 spain.add_ambit(Ambito("País Vasco", get_channels_from_part(canales_autonomicos_pais_vasco)))
 
-canales_autonomicos_valencia = stringbetween(content_nacional, "#### Valencia", "### Locales")
+canales_autonomicos_valencia = stringbetween(content_nacional, "#### Valencia", "")
 spain.add_ambit(Ambito("Valencia", get_channels_from_part(canales_autonomicos_valencia)))
 
 canales_locales_andalucia = stringbetween(content_local, "#### Andalucía", "#### Aragón")
@@ -201,7 +202,7 @@ spain.get_ambit("Navarra").add_channels(get_channels_from_part(canales_locales_n
 canales_locales_pais_vasco = stringbetween(content_local, "#### País Vasco", "#### Valencia")
 spain.get_ambit("País Vasco").add_channels(get_channels_from_part(canales_locales_pais_vasco))
 
-canales_locales_valencia = stringbetween(content_local, "#### Valencia", "## Locales")
+canales_locales_valencia = stringbetween(content_local, "#### Valencia", "")
 spain.get_ambit("Valencia").add_channels(get_channels_from_part(canales_locales_valencia))
 
 canales_internacionales = stringbetween(content, "## Internacionales", "### Andorra")
