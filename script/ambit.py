@@ -5,7 +5,7 @@ class Ambito:
 
     def add_channels(self, channels_to_add):
         if self.channels:
-            self.channels.append(channels_to_add)
+            self.channels += channels_to_add
 
     def __channels_to_json__(self):
         channel_list = []

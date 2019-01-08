@@ -1,71 +1,13 @@
 # coding=utf-8
-
 import json
-import re
 
 import requests
 
 from ambit import Ambito
-from channel import Channel
 from country import Country
-
-
-def stringbetween(text, start, end):
-    result = re.search('(?<=' + start + ')(.*)(?=' + end + ')', text, re.DOTALL)
-    return result.group(1)
-
-
-def stringbetweenparantheses(text):
-    return text.split("(")[1].split(")")[0]
-
-
-def get_channels_from_part(text):
-    line_where_first_channel_starts = 15
-    attributes_per_item = 6
-    channel_list = []
-    list_to_iterate = text.split("|")[line_where_first_channel_starts:]
-    while "\n" in list_to_iterate:
-        list_to_iterate.remove("\n")
-    while "\n\n" in list_to_iterate:
-        list_to_iterate.remove("\n\n")
-    for i in range(0, len(list_to_iterate), attributes_per_item):
-        item_name = list_to_iterate[i].strip()
-
-        item_options = list_to_iterate[i + 1].strip()
-
-        item_web = list_to_iterate[i + 2].strip()
-        if len(item_web) > 0 and item_web[0] != "-":
-            item_web = stringbetweenparantheses(item_web)
-        if len(item_web) == 1:
-            item_web = ""
-
-        item_resolution = list_to_iterate[i + 3].strip()
-        if len(item_resolution) == 1:
-            item_resolution = ""
-
-        item_logo = list_to_iterate[i + 4].strip()
-        if len(item_logo) > 0 and item_logo[0] != "-":
-            item_logo = stringbetweenparantheses(item_logo)
-        if len(item_logo) == 1:
-            item_logo = ""
-
-        item_epg = list_to_iterate[i + 5].strip()
-        if len(item_epg) == 1:
-            item_epg = ""
-
-        item_options = item_options.split(" - ")
-
-        channel = Channel(item_name, item_web, item_resolution, item_logo, item_epg)
-        if len(item_options) > 0 and item_options[0] != "-":
-            for option in item_options:
-                format = (option[1:5]).replace("]", "")
-                url = stringbetweenparantheses(option)
-                channel.add_option(format, url)
-        channel_list.append(channel)
-    return channel_list
-
-
 # TODO Change this
+from public.utils import stringbetween, get_channels_from_part, get_license_info
+
 page = requests.get('https://raw.githubusercontent.com/LaQuay/TDTChannels/add-local-m3u8/TELEVISION.md',
                     headers={'Cache-Control': 'no-cache'})
 content = str(page.text)
@@ -212,6 +154,8 @@ international.add_ambit(Ambito("Internacional", get_channels_from_part(canales_i
 json_file = open('./public/output/channels.json', "w+")
 # TODO Add license
 json_file.write("[")
+json_file.write(json.dumps(get_license_info()))
+json_file.write(", ")
 json_file.write(json.dumps(spain.to_json()))
 json_file.write(", ")
 json_file.write(json.dumps(international.to_json()))
