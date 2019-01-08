@@ -11,7 +11,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 [Chat oficial - Canales TDT - en Telegram](https://t.me/canales_tdt)
 
 #### Listado en formato M3U8 y JSON
-*(Última actualización: 24/12/2018)*
+*(Última actualización: 08/01/2019)*
 
 [Descargar el .m3u8 completo](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
