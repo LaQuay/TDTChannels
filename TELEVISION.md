@@ -127,8 +127,8 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| CyL7 | [m3u8](http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8) | [web](https://www.rtvcyl.es/DirectoCylTV) | 1080p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_CYL7.svg/946px-Logo_CYL7.svg.png) | - |
-| La 8 CyL | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png) | - |
+| La 7 | [m3u8](http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8) | [web](https://www.rtvcyl.es/DirectoCylTV) | 1080p | [Logo](https://www.rtvcyl.es/media/imagenesF/BEA28E96-C3E7-A06E-681CE42CEA57E526.JPG) | - |
+| La 8 | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png) | - |
 
 #### Cataluña
 
