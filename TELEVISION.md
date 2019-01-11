@@ -462,7 +462,7 @@
 | - | - | - | - | - | - |
 | ZF Televisión | - | [web](http://www.radiotvzafra.es/index.php/en-directo) | - | [Logo](https://yt3.ggpht.com/a-/AN66SAzBMUet8ARtBAUg9hmAbqndIpwzyhtbeekwyQ=s320) | - |
 | ViaPlata TV | - | [web](http://viaplatatv.es/) | - | [Logo](http://viaplatatv.es/templates/ja_nex/themes/black/images/logo.png) | - |
-| Zafra TV | - | [web](https://www.zafratv.com/) | - | [Logo](https://u.jimcdn.com/cms/o/sc3805d5f811108eb/emotion/crop/header.jpg?t=1294401120) | - |
+| Zafra TV | - | [web](https://www.zafratv.com/) | - | [Logo](https://u.jimcdn.com/cms/o/sc3805d5f811108eb/emotion/crop/header.jpg) | - |
 
 #### Galicia
 
