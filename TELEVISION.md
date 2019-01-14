@@ -140,7 +140,7 @@
 | 33 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/33/)| 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/320px-33_%28CCMA%29.svg.png) | - |
 | Esport 3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/esport3)| 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/320px-Esport3.svg.png) | - |
 | Super3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/super3/)| 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png) | - |
-| Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master.m3u8) | [web](https://www.ccma.cat/bondiatv/) | 180p, 360p | [Logo](https://statics.ccma.cat/img/logos/logo_bondiaTV.svg) | - |
+| Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master.m3u8) | [web](https://www.ccma.cat/bondiatv/) | 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Bon_Dia_TV.png/320px-Logo_Bon_Dia_TV.png) | - |
 | 324 Exclusiu | [m3u8](https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:oca2_web/master.m3u8) | [web](http://www.ccma.cat/tv3/directe/ple-parlament-de-catalunya/oca2/)| 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/324_%28CCMA%29_logo.svg/320px-324_%28CCMA%29_logo.svg.png) | - |
 | TV3 Càmeres | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/playlist.m3u8) | [web](http://www.ccma.cat/el-temps/cameres/) | 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/320px-TV3.svg.png) | - |
 | La 1 Catalunya | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | 270p, 360p, 576p | [Logo](https://vignette.wikia.nocookie.net/telenovelas/images/7/7f/Logtve1.png/revision/latest?cb=20160726160024&path-prefix=es) | - |
@@ -181,7 +181,7 @@
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | IB3 | [m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8) | [web](http://ib3tv.com/directe) | 144p, 288p, 504p | [Logo](https://upload.wikimedia.org/wikipedia/ca/7/7e/Ib3_logo2008-1.png) | - |
-| Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master.m3u8) | [web](https://ib3.org/directe?c=bondia) | 180p, 360p | [Logo](https://statics.ccma.cat/img/logos/logo_bondiaTV.svg) | - |
+| Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master.m3u8) | [web](https://ib3.org/directe?c=bondia) | 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Bon_Dia_TV.png/320px-Logo_Bon_Dia_TV.png) | - |
 
 #### La Rioja
 
@@ -425,7 +425,7 @@
 | Empordà TV | [m3u8](https://liveingesta118.cdnmedia.tv//empordatvlive/smil:live.smil/master.m3u8) | [web](http://www.empordadigital.cat/) | - | [Logo](https://www.gerio.cat/imgMini/750/420/1218) | - |
 | TV Sant Cugat | - | [web](https://www.youtube.com/watch?v=5syAQzktTO4) | - | [Logo](http://www.tvsantcugat.cat/santcugatmagazine/wp-content/uploads/2017/10/cropped-logo-tvsc-i-scm-v2.png) | - |
 | Penedès TV | [m3u8](https://liveingesta118.cdnmedia.tv//rtvvilafrancalive/smil:live.smil/master.m3u8) | [web](https://www.rtvvilafranca.cat/penedes-televisio-en-directe/) | - | [Logo](http://vijazzpenedes.com/wp-content/uploads/2016/06/penedestv.png) | - |
-| Canal Reus | [m3u8](https://liveingesta118.cdnmedia.tv//canalreustvlive/smil:live.smil/master.m3u8) | [web](http://www.canalreustv.cat/) | - | [Logo](http://www.canalreustv.cat/themes/custom/reustv_zen/logo.svg) | - |
+| Canal Reus TV | [m3u8](https://liveingesta118.cdnmedia.tv//canalreustvlive/smil:live.smil/master.m3u8) | [web](http://www.canalreustv.cat/) | - | [Logo](https://pbs.twimg.com/profile_images/899691150503817217/1gN4M7VT_400x400.jpg) | - |
 | Canal Taronja Central | [m3u8](https://liveingesta118.cdnmedia.tv//taronjacentrallive/smil:live.smil/master.m3u8) | [web](http://www.canaltaronja.cat/central/canal-taronja-en-directe/) | - | [Logo](http://www.canaltaronja.cat/central/wp-content/uploads/2016/12/logo-1.png) | - |
 | Canal Taronja Anoia | [m3u8](https://liveingesta118.cdnmedia.tv//taronjaanoialive/smil:live.smil/master.m3u8) | [web](http://www.canaltaronja.cat/anoia/canal-taronja-en-directe/) | - | [Logo](http://www.canaltaronja.cat/anoia/wp-content/uploads/2016/12/logo.png) | - |
 | Canal Taronja Osona i Moianés | [m3u8](http://ventdelnord.tv:8080/taronja/directe.m3u8) | [web](http://www.canaltaronja.cat/central/canal-taronja-en-directe/) | - | [Logo](http://www.canaltaronja.cat/osona/wp-content/uploads/2016/12/logo-1.png) | - |
@@ -576,7 +576,7 @@
 | Atrescine | - | - | - | [Logo](https://www.antena3.com/newa3flash/modulos_blancos/internacional/atrescine.png) | - |
 | Cincomas | - | - | - | [Logo](https://album.mediaset.es/eimg/2017/11/03/cEWjbHKPWOGKts1T9lDeR.jpg) | - |
 | ¡Hola! TV | - | - | - | [Logo](http://capit.org.ar/new/wp-content/uploads/2015/03/HOLA-TV-PNG-LOGO.png) | - |
-| TVE Internacional | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg) | - |
+| TVE Internacional | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/320px-Logo_TVE-Internacional.png) | - |
 | star TVE | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png) | - |
 | TV3CAT | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) | [web](https://www.ccma.cat/tv3/directe/tv3cat/) | 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/320px-TV3CAT.svg.png) | - |
 | Travel TV | [m3u8](http://194.179.53.124:8080/hls/traveltv/1_2/index.m3u8) | [web](http://www.traveltve.com/) | - | [Logo](http://www.traveltve.com/wp-content/uploads/2015/04/logo.png) | - |
@@ -585,7 +585,7 @@
 | ABC News | [m3u8](http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8) | [web](https://abcnews.go.com/Live/) | 216p, 288p, 404p, 720p, 1080p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/320px-ABC_News_solid_black_logo.svg.png) | - |
 | France 24 | [m3u8 # English](http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) | - | 576p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/320px-France24.png) | - |
 | CBS News | [m3u8](http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | 180p, 360p, 540p, 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/320px-CBS_News.svg.png) | - |
-| CNN | - | [web # Español](https://www.youtube.com/watch?v=OSVmblr0tP0) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg) | - |
+| CNN | - | [web # Español](https://www.youtube.com/watch?v=OSVmblr0tP0) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.png) | - |
 | Bloomberg Europe| [m3u8 # English](https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8) | [web](https://www.bloomberg.com/live/europe) | 180p, 270p, 360p, 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png) | - |
 | RT | - | [youtube # Español](https://www.youtube.com/watch?v=JqY92qg_yPs) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/320px-Russia-today-logo.svg.png) | - |
 | DW | [m3u8 # Español](http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) | - |  224p, 360p, 400p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/320px-Deutsche_Welle_symbol_2012.svg.png) | - |
@@ -593,7 +593,7 @@
 | NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public)| - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/320px-NASA_TV.svg.png) | - |
 | NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8)| [web](https://www.nasa.gov/multimedia/nasatv/#media) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/320px-NASA_TV.svg.png) | - |
 | NASA TV - ISS Views | - | [web](https://www.nasa.gov/multimedia/nasatv/#iss) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/320px-NASA_TV.svg.png) | - |
-| Animal Planet Live | - | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) | - | [Logo](https://upload.wikimedia.org/wikipedia/en/e/e3/Animal_Planet_2018.svg) | - |
+| Animal Planet Live | - | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) | - | [Logo](https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Animal_Planet_2018.svg/320px-Animal_Planet_2018.png) | - |
 | Sony Movie Channel | [m3u8](https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8) | - | 240p, 480p, 720p, 1080p | [Logo](https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest/scale-to-width-down/320) | - |
 | XITE | [m3u8](http://highvolume03.streampartner.nl/vleugels_hd6/livestream/master.m3u8) | [web](https://xite.nl/live) | 720p | [Logo](https://xite.nl/img/xite_logo.png) | - |
 | Hispan TV | - | [web](https://www.youtube.com/c/hispantv/live)| - | [Logo](https://lagazzettadf.com/wp-content/uploads/2014/10/hispan_tv.png) | - |
