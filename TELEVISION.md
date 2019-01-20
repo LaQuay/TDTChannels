@@ -544,7 +544,7 @@
 | - | - | - | - | - | - |
 | 7 TeleValencia | [m3u8](http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8) | [web](http://7televalencia.com/directo-7televalencia) | 480p | [Logo](https://7televalencia.com/wp-content/uploads/2017/03/Logo_A_vertical_fondo_plano-242x300.png) | - |
 | Levante TV | [m3u8](http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8) | [web](http://www.levantetv.es/default.jsp) | 366p | [Logo](http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg) | - |
-| TeleElx | [m3u8](http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8) | [web](http://www.teleelx.es/s5811-TELEVISION.html) | 240p | [Logo](http://www.teleelx.es/img/tele_elx.png) | - |
+| TeleElx | [m3u8](http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8) | [web](http://www.teleelx.es/s5811-TELEVISION.html) | 240p | [Logo](https://graph.facebook.com/teleelx/picture?width=320&height=320) | - |
 | Intercomarcal TV | - | [web](http://www.intercomarcal.com/camaraa/camaragrande.html) | - | [Logo](http://www.intercomarcal.com/imagenes/cabecera2.gif) | - |
 | Tele Safor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](http://telesafor.com) | 240p, 360p, 480p | [Logo](http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png) | - |
 | TV Vega Baja | [m3u8](http://185.29.68.24/tvb.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | - | [Logo](http://programas.televisionvegabaja.es/imgs/logovodtvvb.png) | - |
