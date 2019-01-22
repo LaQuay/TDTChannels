@@ -349,5 +349,5 @@
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| RNA | - | [web](http://www.andorradifusio.ad/endirecte/rna) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
-| AM | - | [web](http://www.andorradifusio.ad/endirecte/am) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
+| RNA | [m3u8](http://videos.rtva.ad:1935/live/rna/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/rna) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
+| AM | [m3u8](http://videos.rtva.ad:1935/live/am/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/am) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
