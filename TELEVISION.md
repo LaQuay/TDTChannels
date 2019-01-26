@@ -53,8 +53,8 @@
 | TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | 270p, 360p, 576p, 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/8/86/Tdp_HD.png) | TDEP ASTRA SD 1.sp |
 | Gol TV | - | [web](http://www.goltelevision.com/live) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/320px-Gol.svg.png) | GOL TDT SD 2.sp |
 | RealMadrid TV | [m3u8 # Español](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | 180p, 360p, 404p | [Logo](https://vignette.wikia.nocookie.net/realmadrid/images/a/a2/Escudo.png/revision/latest?cb=20071129200831) | REALM ASTRA SD 1.sp |
-| Barça TV | - | - | - | [Logo](http://mediapunta.net/wp-content/uploads/2018/05/logo-barca-tv.png) | BARNA ASTRA SD 1.sp |
-| Betis TV | [m3u8](http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | - | [Logo](https://upload.wikimedia.org/wikipedia/an/f/f1/Real_Betis.png) | - |
+| Barça TV | - | - | - | [Logo](https://graph.facebook.com/barcatv/picture?width=320&height=320) | BARNA ASTRA SD 1.sp |
+| Betis TV | [m3u8](https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | - | [Logo](https://upload.wikimedia.org/wikipedia/an/f/f1/Real_Betis.png) | - |
 | Sevilla TV | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) | [web](http://live.sevillafc.es/) | 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/ca/b/b4/Sevilla_cf_logo.png) | - |
 | UD Las Palmas | [m3u8](https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtvlive) | 720p | - | - |
 | Redbull TV | [m3u8](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | 180p, 240p, 360p, 540p, 720p, 1080p | [Logo](https://www.redbull.com/int-en/tv/favicons/apple-touch-icon-180x180.png) | - |
@@ -244,7 +244,7 @@
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | 101TV Málaga | [m3u8](https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8) | [web](http://www.101tv.es/directo.aspx) | 360p | [Logo](https://www.luxhoteles.com/res/logos/20170203104239logos101tv.png) | - |
-| Onda Cádiz | [m3u8](http://adc.hls.flumotion.com/adc/live-hls/playlist.m3u8) | [web](http://tv.ocadizdigital.es/tv/directo) | - | [Logo](https://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/logo_onda_cadiz.png) | - |
+| Onda Cádiz | - | [web](http://tv.ocadizdigital.es/tv/directo) | - | [Logo](https://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/logo_onda_cadiz.png) | - |
 | 8 Cádiz | [m3u8](http://cls2.todostreaming.eu/unatv/live/playlist.m3u8) | [web](http://www.8cadiz.es/tvonline.php) | - | [Logo](https://8cadiz.es/wp-content/uploads/2018/01/logo_8tv-1-1.png) | - |
 | 8 La Janda | - | [web](https://www.youtube.com/watch?v=-Dkg-AejlIw) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mChtew-NIbpSmzmq7EKPWe_1ZxNLKG3-LO0JA=s320) | - |
 | Huelva TV | [m3u8](http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8) | [web](http://huelvatv.com/directo/) | - | [Logo](https://pbs.twimg.com/profile_images/645349922103889920/JGbRJMxo.jpg) | - |
@@ -411,7 +411,7 @@
 | Mola TV | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | [web](http://www.molatv.cat/) | - | [Logo](https://www.colectivosvip.com/public/colectivos/390/logo.png) | - |
 | Lleida TV | [m3u8](http://live10.cdnmedia.tv/lleidatvlive/live.smil/playlist.m3u8) | [web](https://www.segre.com/suplements/lleida_tv/portada/streaming.html) | - | [Logo](http://lleidatv.alacarta.cat/assets/getFile/public/media/000/405/260/lltv_150x54_logo_cap_general_blanc_ok.png) | - |
 | Vallès Visió | [m3u8](http://liveingesta118.cdnmedia.tv/vallesvisiolive/smil:live.smil/chunklist.m3u8) | [web](http://www.vallesvisio.cat/directe/) | - | [Logo](http://www.vallesvisio.cat/wp-content/uploads/2018/02/cropped-header_1-2.png) | - |
-| Girona TV | [m3u8](http://ventdelnord.tv:8080/girona/directe.m3u8) | [web](http://tvgirona.xiptv.cat/tvendirecte) | - | [Logo](http://www.festivalcoordenades.com/wp-content/uploads/2018/05/tvgirona.jpg) | - |
+| TV Girona | [m3u8](http://ventdelnord.tv:8080/girona/directe.m3u8) | [web](http://tvgirona.alacarta.cat/) | - | [Logo](http://graph.facebook.com/118019878221677/picture?width=320&height=320) | - |
 | El Vendrell RTV | [m3u8](http://player.cdnmedia.tv/undefined//tvvendrelllive/smil:live.smil/playlist.m3u8) | [web](http://www.rtvelvendrell.cat/televisio-online/) | - | [Logo](http://comunicacio21.cat/images/comunicacio21/historic/TV-Vendrell.gif) | - |
 | votv | [m3u8](http://live10.cdnmedia.tv/votvlive/live.smil/playlist.m3u8) | [web](http://votv.xiptv.cat/votv-en-directe) | - | [Logo](http://votv.alacarta.cat/assets/getFile/public/media/000/210/464/logo-votv_2014.png) | - |
 | El 9 TV | [m3u8](http://live10.cdnmedia.tv/9tvlive/live.smil/playlist.m3u8) | [web](http://el9nou.cat/el9tv/) | - | [Logo](http://el9nou.cat/wp-content/themes/el9nou/img/el9tv.png) | - |
@@ -544,7 +544,7 @@
 | - | - | - | - | - | - |
 | 7 TeleValencia | [m3u8](http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8) | [web](http://7televalencia.com/directo-7televalencia) | 480p | [Logo](https://7televalencia.com/wp-content/uploads/2017/03/Logo_A_vertical_fondo_plano-242x300.png) | - |
 | Levante TV | [m3u8](http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8) | [web](http://www.levantetv.es/default.jsp) | 366p | [Logo](http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg) | - |
-| TeleElx | [m3u8](http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8) | [web](http://www.teleelx.es/s5811-TELEVISION.html) | 240p | [Logo](http://www.teleelx.es/img/tele_elx.png) | - |
+| TeleElx | [m3u8](http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8) | [web](http://www.teleelx.es/s5811-TELEVISION.html) | 240p | [Logo](https://graph.facebook.com/teleelx/picture?width=320&height=320) | - |
 | Intercomarcal TV | - | [web](http://www.intercomarcal.com/camaraa/camaragrande.html) | - | [Logo](http://www.intercomarcal.com/imagenes/cabecera2.gif) | - |
 | Tele Safor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](http://telesafor.com) | 240p, 360p, 480p | [Logo](http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png) | - |
 | TV Vega Baja | [m3u8](http://185.29.68.24/tvb.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | - | [Logo](http://programas.televisionvegabaja.es/imgs/logovodtvvb.png) | - |
@@ -610,5 +610,5 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| ATV | - | [web](http://www.andorradifusio.ad/endirecte/atv) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
-| Canal Web (ATV) | - | [web](http://www.andorradifusio.ad/endirecte/canalweb) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
+| ATV | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/atv) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
+| Canal Web (ATV) | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/canalweb) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
