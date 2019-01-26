@@ -98,7 +98,7 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| TPA7 | [m3u8](https://rtpa-live-hls.flumotion.com/chunks.m3u8) | [web](http://www.rtpa.es/television) | - | [Logo](http://vfes-http://vfes-images.ott.kaltura.com/3b533d14205149b0a143bf6108887106_320X180.png) | - |
+| TPA7 | [m3u8](https://rtpa-live-hls.flumotion.com/chunks.m3u8) | [web](http://www.rtpa.es/television) | - | [Logo](http://vfes-images.ott.kaltura.com/3b533d14205149b0a143bf6108887106_320X180.png) | - |
 | TPA8 | - | - | - | [Logo](http://vfes-images.ott.kaltura.com/0cb812be38734188bb892c0473411d30_320X180.png) | - |
 | TPA9 | - | - | - | [Logo](http://img4.wikia.nocookie.net/__cb20110709192607/logopedia/images/1/17/TPA_HD_logo_2010.jpg) | - |
 | TeleAsturias | - | [web](http://tvonline.teleasturias.com/) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mC51jIbz9jX71lzF1t6RRFElSBeqAiRNR3Yeg=s240) | - |
