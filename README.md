@@ -29,29 +29,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Ayuda
-Algunos canales sólo pueden visualizarse cuando se visitan desde España, debido a que emiten contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
-
-#### Cómo reproducir en el navegador
-Abrir la web oficial del proyecto. Una vez en la web tienes dos opciones de funcionamiento.
-
-##### Opción 1
-Introducir el enlace del *stream* deseado en el campo de introducción de texto y dar click en cargar.
-
-##### Opción 2
-Indicar en la URL el canal a reproducir, por ejemplo:
-
-```http://marcvila.me/tdt/index.html?type=video&channel=http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8```
-
-```http://marcvila.me/tdt/index.html?type=audio&channel=http://rac105.radiocat.net/;*.nsv```
-
-#### Cómo reproducir en un ordenador
-Algunos enlaces funcionan directamente bajándolos con botón derecho y guardar. Posteriormente haciendo doble click en ellos y abriéndolos en un reproductor. Los que no funcionen con ese método se han de abrir con VLC: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*).
-
-#### Cómo reproducir en un móvil o tableta
-Algunos enlaces funcionan directamente bajándolos manteniendo pulsado el enlace, *guardar/descargar*. Posteriormente haciendo doble click en ellos y abriéndolos en un reproductor. 
-
-#### Cómo reproducir en una Smart TV
-Utilizar, por ejemplo, [SSIPTV](https://www.achotv.com/ssiptv.php) (por *AchoTV*).
+La ayuda está [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Licencia del proyecto
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que debe poderse ver que la información que está utilizando procede de este repositorio.
