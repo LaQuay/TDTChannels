@@ -20,6 +20,8 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 - [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)
 
 ### Noticias
+*01/2019* - [El Androide Libre - Cómo usar Kodi para ver la televisión gratis en tu Android](https://elandroidelibre.elespanol.com/2019/01/como-usar-kodi-ver-television-gratis-android.html)
+
 *12/2018* - [El Androide Libre - Cómo ver la televisión gratis en tu móvil, las mejores aplicaciones](https://elandroidelibre.elespanol.com/2018/12/como-ver-television-gratis-movil-mejores-aplicaciones.html)
 
 *08/2018* - [Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
