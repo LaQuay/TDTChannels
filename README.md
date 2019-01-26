@@ -10,12 +10,14 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 
 [Chat oficial - Canales TDT - en Telegram](https://t.me/canales_tdt)
 
-#### Listado en formato M3U8 y JSON
-*(Última actualización: 14/01/2019)*
+#### Descargar listados en formato M3U8, JSON, o ENIGMA2
+*(Última actualización: 26/01/2019)*
 
-[Descargar el .m3u8 completo](http://91.121.64.179/tdt_project/output/channels.m3u8)
+- [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
-[Descargar el .json completo](http://91.121.64.179/tdt_project/output/channels.json)
+- [json](http://91.121.64.179/tdt_project/output/channels.json)
+
+- [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)
 
 ### Noticias
 *12/2018* - [El Androide Libre - Cómo ver la televisión gratis en tu móvil, las mejores aplicaciones](https://elandroidelibre.elespanol.com/2018/12/como-ver-television-gratis-movil-mejores-aplicaciones.html)
