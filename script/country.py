@@ -32,3 +32,12 @@ class Country:
 
     def to_m3u8(self):
         return self.__ambits_to_m3u8__()
+
+    def __ambits_to_enigma2__(self):
+        ambits_list = ""
+        for ambit in self.ambits:
+            ambits_list += ambit.to_enigma2()
+        return ambits_list
+
+    def to_enigma2(self):
+        return self.__ambits_to_enigma2__()
