@@ -32,7 +32,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 La ayuda está [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Licencia del proyecto
-Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que debe poderse ver que la información que está utilizando procede de este repositorio.
+Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que debe poderse ver que la información que está utilizando procede de este repositorio. No está permitido enlazar directamente los enlaces que aparecen en la sección *Descargar listados en formato ... *.
 
 #### Ley de propiedad
 En este proyecto y en la web de reproducción **no** se almacena ningún *stream*, únicamente enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web o servicio público. Si posees los derechos de algún canal y deseas que lo retire, contáctame.
