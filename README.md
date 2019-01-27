@@ -29,7 +29,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Ayuda
-La ayuda está [aquí](https://github.com/LaQuay/TDTChannels/wiki).
+Hay una _wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Licencia del proyecto
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que debe poderse ver que la información que está utilizando procede de este repositorio. No está permitido enlazar directamente los enlaces que aparecen en la sección '*Descargar listados*'.
