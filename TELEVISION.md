@@ -216,7 +216,7 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| 7 RM | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | 180p, 270p, 360p | [Logo](http://graph.facebook.com/populartvml/picture?width=320&height=320) | - |
+| 7 RM | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | 180p, 270p, 360p | [Logo](http://graph.facebook.com/La7TVRegiondeMurcia/picture?width=320&height=320) | - |
 | TV Murciana | - | [web](http://www.televisionmurciana.es/) | - | [Logo](http://graph.facebook.com/televisionmurciana/picture?width=320&height=320) | - |
 | Popular TV Murcia | [m3u8](https://streaming-fr02.enetres.net/D1D1B8F06DE042A9A32866AC8A6F0B6F021/smil:live.smil/master.m3u8) | [web](https://www.populartvrm.com/) | - | [Logo](http://graph.facebook.com/poptvregiondemurcia/picture?width=320&height=320) | - |
 | Canal 8 Murcia | - | [web](http://www.canal8murcia.com/) | - | [Logo](http://graph.facebook.com/Canal8Murcia/picture?width=320&height=320) | - |
