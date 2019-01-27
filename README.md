@@ -2,16 +2,16 @@
 
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
-**TV** [Listado completo de los canales de TV](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md)
+**TV**: [Listado completo](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md)
 
-**Radio** [Listado completo de las emisoras de Radio](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md)
+**Radio**: [Listado completo](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md)
 
-[Reproductor oficial - TDTChannels](http://marcvila.me/tdt/)
+**Web con reproductor oficial**: [Web TDTChannels](http://marcvila.me/tdt/)
 
-[Chat oficial - Canales TDT - en Telegram](https://t.me/canales_tdt)
+**Chat Telegram**: [Telegram TDTChannels - Canales TDT](https://t.me/canales_tdt)
 
-#### Descargar listados en formato M3U8, JSON, o ENIGMA2
-*(Última actualización: 26/01/2019)*
+#### Descargar listas de reproducción
+*(Última actualización: 27/01/2019)*
 
 - [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
