@@ -13,5 +13,7 @@ A continuación se indica lo que deben cumplir los aportes hacia este repositori
 - Medida recomendada de 320x320.
 - Formato PNG, y si no es posible JPG.
 - Fuentes de datos, en orden de preferencia: Redes sociales del canal, Wikipedia, propio canal, etc.
+- Preferiblemente sin transparencias y con fondo blanco.
+- No es necesaria la indicación explicita del nombre del canal en el logo.
 
 Gracias por colaborar!
