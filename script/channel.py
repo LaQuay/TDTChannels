@@ -28,7 +28,7 @@
     def __str__(self):
         options_string = ""
         for option in self.options:
-            options_string += "[Format: " + option.get_format() + ", URL: " + option.get_url() + "]"
+            options_string += f"[Format: {option.get_format()}, URL: {option.get_url()}]"
         return self.name + " " + options_string
 
     def __options_to_json__(self):
@@ -47,17 +47,25 @@
             "options": self.__options_to_json__()
         }
 
-    def to_m3u8(self, ambit, option):
+    def to_m3u8(self, ambit_name, option):
         info = '#EXTINF:-1'
         if self.epg_id != "":
-            info += ' tvg-id="' + self.epg_id + '"'
+            info += f' tvg-id="{self.epg_id}"'
         if self.logo != "":
-            info += ' tvg-logo="' + self.logo + '"'
-        if ambit != "":
-            info += ' group-title="' + ambit + '"'
+            info += f' tvg-logo="{self.logo}"'
+        if ambit_name != "":
+            info += f' group-title="{ambit_name}"'
 
         info += ', ' + self.name
         info += '\n' + option.get_url() + '\n'
+
+        return info
+
+    def to_enigma2(self, option, counter):
+        info = f'#SERVICE 4097:0:1:{counter}:0:0:0:0:0:0'
+        info += f':{option.get_url(double_dot=False)}'
+        info += f':{self.name}\n'
+        info += f'#DESCRIPTION {self.name}\n'
 
         return info
 
@@ -72,8 +80,11 @@
         def get_format(self):
             return self.format
 
-        def get_url(self):
-            return self.url
+        def get_url(self, double_dot=True):
+            if double_dot:
+                return self.url
+            else:
+                return self.url.replace(":", "%3a")
 
         def __str__(self):
             return self.format + ", " + self.url
