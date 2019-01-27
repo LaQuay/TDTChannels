@@ -1,4 +1,5 @@
 Ante todo, gracias por intentar colaborar!
+
 A continuación se indica lo que deben cumplir los aportes hacia este repositorio, en la medida de lo posible.
 
 ### Enlaces
