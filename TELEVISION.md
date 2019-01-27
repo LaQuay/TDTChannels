@@ -8,10 +8,10 @@
 | La 1 HD | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583046/master.m3u8) | [web](http://www.rtve.es/directo/la-1/hd) | 270p, 360p, 576p, 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/320px-La_1_HD_TVE.png) | TVE ASTRA HD 1.sp |
 | La 2 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) | [web](http://www.rtve.es/directo/la-2/) | 270p, 360p, 576p | [Logo](http://graph.facebook.com/la2detve/picture?width=320&height=320) | LA2 ASTRA SD 1.sp |
 | Antena 3 | [m3u8 # 1](https://pull2b-i.akamaized.net/antena3/master.m3u8) - [m3u8 # 2](https://pull2b-i.akamaized.net/geoantena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/antena3/picture?width=320&height=320) | A3 ASTRA HD 1.sp |
-| Cuatro | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/cuatro) | - | [Logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | C4 ASTRA SD 1.sp |
-| Cuatro HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/cuatro) | - | [Logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | C4 ASTRA HD 1.sp |
-| Telecinco | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/telecinco) | - | [Logo](http://graph.facebook.com/tele5/picture?width=320&height=320) | T5 ASTRA SD 1.sp |
-| Telecinco HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/telecinco) | - | [Logo](http://graph.facebook.com/tele5/picture?width=320&height=320) | T5 ASTRA HD 1.sp |
+| Cuatro | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/cuatro) | 480p | [Logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | C4 ASTRA HD 1.sp |
+| Cuatro HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/cuatro) | 720p | [Logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | C4 ASTRA HD 1.sp |
+| Telecinco | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/telecinco) | 480p | [Logo](http://graph.facebook.com/tele5/picture?width=320&height=320) | T5 ASTRA HD 1.sp |
+| Telecinco HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/telecinco) | 720p | [Logo](http://graph.facebook.com/tele5/picture?width=320&height=320) | T5 ASTRA HD 1.sp |
 | laSexta | [m3u8 # 1](https://pull2c-i.akamaized.net/lasexta/master.m3u8) - [m3u8 # 2](https://pull2c-i.akamaized.net/geolasexta/master.m3u8) | [web](https://www.atresplayer.com/directos/lasexta/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/laSexta/picture?width=320&height=320) | SEXTA ASTRA HD 1.sp |
 | Neox | [m3u8 # 1](https://pull2b-i.akamaized.net/neox/master.m3u8) - [m3u8 # 2](https://pull2b-i.akamaized.net/geoneox/master.m3u8) | [web](https://www.atresplayer.com/directos/neox/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/neox/picture?width=320&height=320) | NEOX ASTRA SD 1.sp |
 | Nova | [m3u8 # 1](https://pull2c-i.akamaized.net/nova/master.m3u8) - [m3u8 # 2](https://pull2c-i.akamaized.net/geonova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/antenanova/picture?width=320&height=320) | NOVA ASTRA SD 1.sp |
@@ -21,43 +21,37 @@
 | Atresplayer Original (15) | [m3u8 # 1](https://pull1a-i.akamaized.net/eventos15/master.m3u8) - [m3u8 # 2](https://pull1a-i.akamaized.net/geoeventos15/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-15/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - |
 | Atresplayer Original (26) | [m3u8 # 1](https://pull2b-i.akamaized.net/eventos26/master.m3u8) - [m3u8 # 2](https://pull2b-i.akamaized.net/geoeventos26/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-26/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - |
 | Atresplayer Original (37) | [m3u8 # 1](https://pull2c-i.akamaized.net/eventos37/master.m3u8) - [m3u8 # 2](https://pull2c-i.akamaized.net/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - |
-| FDF | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/fdf) | - | [Logo](http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320) | FDFIC ASTRA SD 1.sp |
-| FDF HD | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/fdf) | - | [Logo](http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320) | FDFIC ASTRA SD 1.sp |
-| Energy | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/energy) | - | [Logo](http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | ENERGY ASTRA SD 1.sp |
-| Energy HD | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/energy) | - | [Logo](http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | ENERGY ASTRA HD 1.sp |
-| Divinity | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/divinity) | - | [Logo](http://graph.facebook.com/divinityes/picture?width=320&height=320) | DIVINI ASTRA SD 1.sp |
-| Divinity HD | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/divinity) | - | [Logo](http://graph.facebook.com/divinityes/picture?width=320&height=320) | DIVINI ASTRA HD 1.sp |
-| Be Mad | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/bemad) | - | [Logo](http://graph.facebook.com/BeMadTV/picture?width=320&height=320) | BEMAD ASTRA SD 1.sp |
-| Be Mad HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/bemad) | - | [Logo](http://graph.facebook.com/BeMadTV/picture?width=320&height=320) | BEMAD ASTRA HD 1.sp |
-| mtmad 24h HD | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8) | [web # 1](https://www.mitele.es/directo/mtmad-24h) - [web # 2](https://www.youtube.com/watch?v=hXQ8NuM1xQw) | 720p | [Logo](http://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - |
+| FDF | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/fdf) | 480p | [Logo](http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320) | FDFIC ASTRA SD 1.sp |
+| FDF HD | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/fdf) | 720p | [Logo](http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320) | FDFIC ASTRA SD 1.sp |
+| Energy | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/energy) | 480p | [Logo](http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | ENERGY ASTRA SD 1.sp |
+| Energy HD | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/energy) | 720p | [Logo](http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | ENERGY ASTRA SD 1.sp |
+| Divinity | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/divinity) | 480p | [Logo](http://graph.facebook.com/divinityes/picture?width=320&height=320) | DIVINI ASTRA SD 1.sp |
+| Divinity HD | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/divinity) | 720p | [Logo](http://graph.facebook.com/divinityes/picture?width=320&height=320) | DIVINI ASTRA SD 1.sp |
+| Be Mad | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/bemad) | 480p | [Logo](http://graph.facebook.com/BeMadTV/picture?width=320&height=320) | BEMAD ASTRA SD 1.sp |
+| Be Mad HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/bemad) | 720p | [Logo](http://graph.facebook.com/BeMadTV/picture?width=320&height=320) | BEMAD ASTRA SD 1.sp |
+| mtmad 24h | - | [web # 1](https://www.mitele.es/directo/mtmad-24h) - [web # 2](https://www.youtube.com/watch?v=hXQ8NuM1xQw) | - | [Logo](http://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - |
 | GH Dúo 24h | - | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) - [web # 3](https://www.youtube.com/watch?v=cHtKunPYuhg) | - | [Logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - |
 | Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/master.m3u8) | [web](http://www.paramountnetwork.es/programacion/en-directo) | - | [Logo](http://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320) | PARCH ASTRA SD 1.sp |
 | TRECE | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo) | - | [Logo](http://graph.facebook.com/TRECEtves/picture?width=320&height=320) | 13TV TDT SD 1.sp |
 | Ten | - | [web](http://tentv.es/) | - | [Logo](http://graph.facebook.com/televisionten/picture?width=320&height=320) | TEN TDT SD 1.sp |
-| DMAX | - | [web](https://es.dplay.com/dmax/) | - | [Logo](http://graph.facebook.com/DMAXes/picture?width=320&height=320) | DMAX.sp |
+| DMAX | - | [web](https://es.dplay.com/dmax/) | - | [Logo](http://graph.facebook.com/DMAXes/picture?width=320&height=320) | - |
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | - | [Logo](http://graph.facebook.com/DKissTV/picture?width=320&height=320) | DKISS TDT SD 1.sp |
-| Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) | [web](http://www.intereconomia.tv/) | - | [Logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | Interecconomia.sp |
-| Déjate de Historias TV | [m3u8](https://secure.todostreaming.es/live/tvstream-DH.m3u8) | [web](www.dejatedehistorias.es/wordpress/dejate-tv-on-line/) | - | [Logo](http://graph.facebook.com/DejateDeHistoriasTV/picture?width=320&height=320) | - |
-| Libertad Digital TV | [m3u8](https://stream-05.dc3.dailymotion.com/dm/3/xnm032/live-2.m3u8) | [web](https://tv.libertaddigital.com/directo.html) | - | [Logo](http://graph.facebook.com/libertad.digital.tv/picture?width=320&height=320) | - |
-| Pride Channel | [m3u8](http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8) | [web](http://www.pridechanneltv.com/tv-en-directo.html) | - | [Logo](http://graph.facebook.com/PrideChannelTV/picture?width=320&height=320) | - |
-| Vaughan TV | - | [web](https://grupovaughan.com/vaughan-tv/) | - | [Logo](http://graph.facebook.com/GrupoVaughan/picture?width=320&height=320) | - |
-| Gestiona TV | [m3u8](http://37.187.7.106/gestionatv/live.m3u8) | [web](http://www.gestionaradiovalencia.com/television/) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mBFXky2PSJHQFPClHPljYU2sJrqZ0DFmtNWJw=s300) | - |
-| RTV Vida | [m3u8](http://188.165.135.22/radiovida/livestream/master.m3u8) | [web](http://vidartv.com/index.php/ve-television-vida) | 720p | [Logo](http://graph.facebook.com/vidartv/picture?width=320&height=320) | - |
+| Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) | [web](http://www.intereconomia.tv/) | - | [Logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | - |
 
 ## Informativos
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | 24h | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8) | [web](http://www.rtve.es/directo/canal-24h/) | 270p, 360p, 576p | [Logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | 24H ASTRA SD 1.sp |
-| Canal Parlamento | [m3u8](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8) | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mACmvgDvj5xdVeMXQI9kQSmU0A2Zw5nJEjR8A=s320) | Parlamento.sp |
-| EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) | - | - | [Logo](http://graph.facebook.com/europapress.es/picture?width=320&height=320) | - |
+| Canal Parlamento | [m3u8](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8) | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mACmvgDvj5xdVeMXQI9kQSmU0A2Zw5nJEjR8A=s320) | - |
+| EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) | [web](https://www.europapress.tv/) | - | [Logo](http://graph.facebook.com/europapress.es/picture?width=320&height=320) | - |
 
 ## Deportivos
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | TDP | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39733/master.m3u8) | [web](http://www.rtve.es/directo/teledeporte/) | 270p, 360p, 576p | [Logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDEP ASTRA SD 1.sp |
-| TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | 270p, 360p, 576p, 720p | [Logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDEP ASTRA HD 1.sp |
+| TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | 270p, 360p, 576p, 720p | [Logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDEP ASTRA SD 1.sp |
 | Gol TV | - | [web](http://www.goltelevision.com/live) | - | [Logo](http://graph.facebook.com/goltv.es/picture?width=320&height=320) | GOL TDT SD 2.sp |
 | RealMadrid TV | [m3u8 # Español](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | 180p, 360p, 404p | [Logo](http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320) | REALM ASTRA SD 1.sp |
 | Barça TV | - | - | - | [Logo](http://graph.facebook.com/fcbarcelona/picture?width=320&height=320) | BARNA ASTRA SD 1.sp |
@@ -70,9 +64,9 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Disney Channel | - | [web](http://tv.disney.es/disney-channel?autoplay=true) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/320px-2014_Disney_Channel_logo.svg.png) | DCH ASTRA HD 1.sp |
-| Boing | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/boing) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/320px-Boing.svg.png) | BOING ASTRA SD 1.sp |
-| Boing HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/boing) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/320px-Boing.svg.png) | BOING ASTRA HD 1.sp |
+| Disney Channel | [m3u8](https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8) | [web](http://tv.disney.es/disney-channel) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/320px-2014_Disney_Channel_logo.svg.png) | DCH ASTRA HD 1.sp |
+| Boing | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/boing) | 480p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/320px-Boing.svg.png) | BOING ASTRA SD 1.sp |
+| Boing HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/boing) | 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/320px-Boing.svg.png) | BOING ASTRA SD 1.sp |
 | Clan | - | - | - | [Logo](http://graph.facebook.com/clantve/picture?width=320&height=320) | CLANTV ASTRA SD 1.sp |
 
 ## Musicales
@@ -106,9 +100,9 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| TPA7 | [m3u8](https://rtpa-live-hls.flumotion.com/chunks.m3u8) | [web](http://www.rtpa.es/television) | - | [Logo](http://vfes-images.ott.kaltura.com/3b533d14205149b0a143bf6108887106_320X180.png) | TPA 7.sp |
-| TPA8 | - | - | - | [Logo](http://vfes-images.ott.kaltura.com/0cb812be38734188bb892c0473411d30_320X180.png) | - |
-| TPA9 | - | - | - | [Logo](http://img4.wikia.nocookie.net/__cb20110709192607/logopedia/images/1/17/TPA_HD_logo_2010.jpg) | - |
+| TPA7 | [m3u8](https://rtpa-live-hls.flumotion.com/playlist.m3u8) | [web](http://www.rtpa.es/television) | 368p | [Logo](http://vfes-images.ott.kaltura.com/3b533d14205149b0a143bf6108887106_320X180.png) | - |
+| TPA8 | - | [web](http://www.rtpa.es/television) | - | [Logo](http://vfes-images.ott.kaltura.com/0cb812be38734188bb892c0473411d30_320X180.png) | - |
+| TPA9 | - | [web](http://www.rtpa.es/television) | - | [Logo](http://img4.wikia.nocookie.net/__cb20110709192607/logopedia/images/1/17/TPA_HD_logo_2010.jpg) | - |
 | TeleAsturias | - | [web](http://tvonline.teleasturias.com/) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mC51jIbz9jX71lzF1t6RRFElSBeqAiRNR3Yeg=s240) | - |
 | EsAsturiasTV | - | [web](https://mips.tv/esAsturiasTelevision) | - | [Logo](http://graph.facebook.com/EsAsturiasTV/picture?width=320&height=320) | - |
 
@@ -116,7 +110,7 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | - | [Logo](http://graph.facebook.com/RadioTelevisionCanaria/picture?width=320&height=320) | Canarias.sp |
+| Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | - | [Logo](http://graph.facebook.com/RadioTelevisionCanaria/picture?width=320&height=320) | - |
 | Mírame TV | [m3u8](https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8) | [web](https://mirametv.com/) | - | [Logo](http://graph.facebook.com/MirameTVCanarias/picture?width=320&height=320) | - |
 
 ### Cantabria
@@ -130,30 +124,30 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| CMM TV | [m3u8](http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8) | [web](http://www.cmmedia.es/en-directo/tv/) | - | [Logo](http://graph.facebook.com/CMMediaes/picture?width=320&height=320) | CMM.sp |
+| CMM TV | [m3u8](http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8) | [web](http://www.cmmedia.es/en-directo/tv/) | - | [Logo](http://graph.facebook.com/CMMediaes/picture?width=320&height=320) | - |
 
 ### Castilla y León
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| La 7 | [m3u8](http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8) | [web](https://www.rtvcyl.es/DirectoCylTV) | 1080p | [Logo](http://graph.facebook.com/rtvcyl/picture?width=320&height=320) | LA 7.sp |
-| La 8 | - | - | - | [Logo](http://graph.facebook.com/rtvcyl/picture?width=320&height=320) | La 8.sp |
+| La 7 | [m3u8](http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8) | [web](https://www.rtvcyl.es/DirectoCylTV) | 1080p | [Logo](http://graph.facebook.com/rtvcyl/picture?width=320&height=320) | - |
+| La 8 | - | [web](https://www.rtvcyl.es/DirectoCylTV) | - | [Logo](http://graph.facebook.com/rtvcyl/picture?width=320&height=320) | - |
 
 ### Cataluña
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | TV3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/tv3) | 180p, 360p, 576p | [Logo](http://graph.facebook.com/tv3/picture?width=320&height=320) | TVC ASTRA SD 1.sp |
-| 324 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/324) | 180p, 360p | [Logo](http://graph.facebook.com/324cat/picture?width=320&height=320) | 324.sp |
-| 33 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/33/) | 180p, 360p | [Logo](http://graph.facebook.com/Canal33/picture?width=320&height=320) | 33.sp |
-| Esport 3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/esport3) | 180p, 360p | [Logo](http://graph.facebook.com/Esport3/picture?width=320&height=320) | Esport 3.sp |
-| Super3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/super3/) | 180p, 360p | [Logo](http://graph.facebook.com/clubsuper3/picture?width=320&height=320) | 33.sp |
+| 324 | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/324) | 180p, 360p | [Logo](http://graph.facebook.com/324cat/picture?width=320&height=320) | - |
+| 33 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/33/) | 180p, 360p | [Logo](http://graph.facebook.com/Canal33/picture?width=320&height=320) | - |
+| Esport 3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/esport3) | 180p, 360p | [Logo](http://graph.facebook.com/Esport3/picture?width=320&height=320) | - |
+| Super3 | [m3u8](http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8) | [web](http://www.ccma.cat/tv3/directe/super3/) | 180p, 360p | [Logo](http://graph.facebook.com/clubsuper3/picture?width=320&height=320) | - |
 | Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master.m3u8) | [web](https://www.ccma.cat/bondiatv/) | 180p, 360p | [Logo](https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png) | - |
 | 324 Exclusiu | [m3u8](https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:oca2_web/master.m3u8) | [web](http://www.ccma.cat/tv3/directe/ple-parlament-de-catalunya/oca2/) | 180p, 360p | [Logo](http://graph.facebook.com/324cat/picture?width=320&height=320) | - |
 | TV3 Càmeres | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/playlist.m3u8) | [web](http://www.ccma.cat/el-temps/cameres/) | 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/320px-TV3.svg.png) | - |
-| La 1 Catalunya | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | 270p, 360p, 576p | [Logo](https://pbs.twimg.com/profile_images/899551338044039168/mCN9Saeo_400x400.jpg) | La 1 Catalunya.sp |
-| La 2 Catalunya | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2ca_lv3_aosv4_gl0/la2ca_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | - | [Logo](https://pbs.twimg.com/profile_images/899551338044039168/mCN9Saeo_400x400.jpg) | La 2 Catalunya.sp |
-| 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) | [web](http://www.8tv.cat/directe/) | - | [Logo](http://graph.facebook.com/8tvcat/picture?width=320&height=320) | 8tv.sp |
+| La 1 Catalunya | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | 270p, 360p, 576p | [Logo](https://pbs.twimg.com/profile_images/899551338044039168/mCN9Saeo_400x400.jpg) | - |
+| La 2 Catalunya | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2ca_lv3_aosv4_gl0/la2ca_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | - | [Logo](https://pbs.twimg.com/profile_images/899551338044039168/mCN9Saeo_400x400.jpg) | - |
+| 8tv | [m3u8](http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8) | [web](http://www.8tv.cat/directe/) | - | [Logo](http://graph.facebook.com/8tvcat/picture?width=320&height=320) | - |
 | Canal Parlament | [m3u8](https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/master.m3u8) | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) | 480p | [Logo](http://graph.facebook.com/parlamentcat/picture?width=320&height=320) | - |
 
 ### Ceuta
@@ -167,7 +161,7 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Canal Extremadura | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8) | [web](http://www.canalextremadura.es/tv/directo#ahora) | 234p, 360p, 540p | [Logo](http://graph.facebook.com/CanalExtremadura/picture?width=320&height=320) | Extremadura.sp |
+| Canal Extremadura | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8) | [web](http://www.canalextremadura.es/tv/directo#ahora) | 234p, 360p, 540p | [Logo](http://graph.facebook.com/CanalExtremadura/picture?width=320&height=320) | - |
 
 ### Galicia
 
@@ -188,7 +182,7 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| IB3 | [m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8) | [web](http://ib3tv.com/directe) | 144p, 288p, 504p | [Logo](http://graph.facebook.com/IB3org/picture?width=320&height=320) | IB3.sp |
+| IB3 | [m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8) | [web](http://ib3tv.com/directe) | 144p, 288p, 504p | [Logo](http://graph.facebook.com/IB3org/picture?width=320&height=320) | - |
 | Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master.m3u8) | [web](https://ib3.org/directe?c=bondia) | 180p, 360p | [Logo](http://graph.facebook.com/IB3org/picture?width=320&height=320) | - |
 
 ### La Rioja
@@ -196,14 +190,14 @@
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | - | [Logo](http://graph.facebook.com/tvrtelevision/picture?width=320&height=320) | - |
-| Popular TV La Rioja | - | [web](http://www.populartvlarioja.com/) | - | [Logo](http://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - |
+| Popular TV La Rioja | [m3u8](https://f.vimeocdn.com/p/external/.m3u8) | [web](http://www.populartvlarioja.com/) | - | [Logo](http://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - |
 
 ### Madrid
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | - | [Logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | Telemadrid.sp |
-| LaOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | - | [Logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | La Otra.sp |
+| Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | - | [Logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | - |
+| LaOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | - | [Logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | - |
 
 ### Melilla
 
@@ -216,26 +210,26 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| 7 RM | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | 180p, 270p, 360p | [Logo](http://graph.facebook.com/La7TVRegiondeMurcia/picture?width=320&height=320) | 7RM.sp |
+| 7 RM | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | 180p, 270p, 360p | [Logo](http://graph.facebook.com/populartvml/picture?width=320&height=320) | - |
 | TV Murciana | - | [web](http://www.televisionmurciana.es/) | - | [Logo](http://graph.facebook.com/televisionmurciana/picture?width=320&height=320) | - |
-| Popular TV Murcia | [m3u8](https://streaming-fr02.enetres.net/D1D1B8F06DE042A9A32866AC8A6F0B6F021/smil:live.smil/master.m3u8) | [web](https://www.populartvrm.com/) | - | [Logo](http://graph.facebook.com/poptvregiondemurcia/picture?width=320&height=320) | Popular TV Murcia.sp |
+| Popular TV Murcia | [m3u8](https://streaming-fr02.enetres.net/D1D1B8F06DE042A9A32866AC8A6F0B6F021/smil:live.smil/master.m3u8) | [web](https://www.populartvrm.com/) | - | [Logo](http://graph.facebook.com/poptvregiondemurcia/picture?width=320&height=320) | - |
 | Canal 8 Murcia | - | [web](http://www.canal8murcia.com/) | - | [Logo](http://graph.facebook.com/Canal8Murcia/picture?width=320&height=320) | - |
 
 ### Navarra
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Navarra TV | [m3u8](http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/chunklist.m3u8) | [web](http://www.natv.es/Directo) | 250p | [Logo](http://graph.facebook.com/NavarraTelevision/picture?width=320&height=320) | Navarra TV.sp |
-| Navarra TV 2 | - | - | - | [Logo](http://graph.facebook.com/NavarraTelevision/picture?width=320&height=320) | - |
+| Navarra TV | [m3u8](http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/chunklist.m3u8) | [web](http://www.natv.es/Directo) | 250p | [Logo](http://graph.facebook.com/NavarraTelevision/picture?width=320&height=320) | - |
+| Navarra TV 2 | - | [web](http://www.natv.es/Directo) | - | [Logo](http://graph.facebook.com/NavarraTelevision/picture?width=320&height=320) | - |
 
 ### País Vasco
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| ETB SAT Canal Vasco | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](http://www.eitb.eus/es/television/etb-sat/) | 270p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/320px-ETBSat_Spain.svg.png) | ETB Sat.sp |
-| ETB 1 | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | 238p, 360p, 480p, 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/320px-ETB1_Spain.svg.png) | ETB 1.sp |
-| ETB 2 | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | 238p, 360p, 480p, 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/320px-ETB2_Spain.svg.png) | ETB 2.sp |
-| ETB 3 | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ETB3_Spain.svg/320px-ETB3_Spain.svg.png) | ETB 3.sp |
+| ETB SAT Canal Vasco | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](http://www.eitb.eus/es/television/etb-sat/) | 270p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/320px-ETBSat_Spain.svg.png) | - |
+| ETB 1 | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | 238p, 360p, 480p, 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/320px-ETB1_Spain.svg.png) | - |
+| ETB 2 | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | 238p, 360p, 480p, 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/320px-ETB2_Spain.svg.png) | - |
+| ETB 3 | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ETB3_Spain.svg/320px-ETB3_Spain.svg.png) | - |
 | ETB 4 | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ETB4_Spain.svg/320px-ETB4_Spain.svg.png) | - |
 
 ### Valencia
@@ -260,7 +254,7 @@
 | Lebrija TV | [m3u8](http://212.104.160.156:1935/live/lebrijatv2/playlist2.m3u8?wowzasessionid=1758058924.m3u8) | [web](http://www.lebrija.tv/directo/) | 576p | [Logo](http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png) | - |
 | Onda Algeciras TV | [m3u8](http://cls.provideo.es/algecirastv/livestream/playlist.m3u8) | [web](http://ondaalgecirastv.com/en-directo/) | - | [Logo](http://ondaalgecirastv.com/wp-content/uploads/2015/11/header-ok.png) | - |
 | Teleonuba | [m3u8](http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8) | [web](http://www.teleonuba.es/en-directo/) | - | [Logo](http://www.teleonuba.es/imagenes/logo_teleonuba_fb.png) | - |
-| CanalCosta | [m3u8](http://stream.canalcostatv.es:1935/web/IKbtqOuj/chunklist_w2068473919.m3u8) | [web](http://www.canalcostatv.es/en-directo/) | - | [Logo](http://www.canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png) | - |
+| CanalCosta | [m3u8](http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8) | [web](http://www.canalcostatv.es/en-directo/) | 576p | [Logo](http://www.canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png) | - |
 | Canal Costa 2 | - | [web](http://www.canalcostatv.es/en-directo/) | - | [Logo](http://www.canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png) | - |
 | El Correo de Andalucía | [m3u8](http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8) | [web](http://elcorreoweb.es/elcorreotv) | - | [Logo](http://chabogados.es/wp-content/uploads/2018/06/elcorreo.png) | - |
 | InterAlmería TV | [m3u8](http://interalmeria.tv/directo/live.m3u8) | [web](http://www.interalmeria.tv/directo) | - | [Logo](http://www.interalmeria.tv/wp-content/uploads/2018/07/logo-iatv-reduc.png) | - |
@@ -278,11 +272,11 @@
 | Más TV Huelva | [m3u8](https://streaming-fr02.enetres.net/1855C32698CC47EC817DA7DB40DE72DB021/smil:live.smil/master.m3u8) | [web](https://yowi.tv/player.html/?videoid=40&autoplay=true) | - | [Logo](https://pbs.twimg.com/profile_images/515593815621505025/xp_Ec2hD_400x400.jpeg) | - |
 | Televisión Carmona | - | [web](http://www.televisioncarmona.com/) | - | [Logo](https://pbs.twimg.com/profile_images/793108391694598144/0fRzgUn1_400x400.jpg) | - |
 | Onda Jerez TV | - | [web](http://www.ondajerez.com/television/television-en-directo/) | - | [Logo](http://www.ondajerez.com/fileadmin/introduction/images/theme/logo.png) | - |
-| Uvitel TV | - | [web](http://www.uvitel.tv/webtv/directo/) | - | [Logo](http://www.uvitel.tv/images/tv_logo.png) | - |
+| Uvitel TV | - | [web](http://www.uvitel.tv/directo/) | - | [Logo](http://www.uvitel.tv/images/tv_logo.png) | - |
 | Canal Doñana | [m3u8](https://secure.todostreaming.es/live/disvision-alm.m3u8) | [web](http://www.canaldonana.com/) | 384p | [Logo](https://yt3.ggpht.com/a-/AN66SAxvE9cRiKegIYFjD8y_QetpC4ykm9Tz_ALvgw=s320) | - |
 | Málaga 24h Noticias TV | - | [web](http://malaga24h.com/directo-de-malaga-24-horas/) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mAz_ELkxujjldcR6K6xb9_GxzbFTex4DOu2wg=s320) | - |
 | Cadena Elite | [m3u8](https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8) | [web](http://www.cadenaelite.es/) | 606p | [Logo](http://www.cadenaelite.es/img/LOGO%20ELITE%20ROJO2013.png) | - |
-| TeleAntequera | - | [web](http://5.135.183.124/playertv/las4esquinastv/index.php) | - | [Logo](https://las4esquinas.com/wp-content/uploads/2017/12/logo-tele-antequera.png) | - |
+| TeleAntequera | [m3u8](http://37.187.108.127:554/las4esquinastv/radiostation.stream/.m3u8) | [web](http://5.135.183.124/playertv/las4esquinastv/index.php) | - | [Logo](https://las4esquinas.com/wp-content/uploads/2017/12/logo-tele-antequera.png) | - |
 | TV Tarifa | - | [web](https://www.youtube.com/channel/UCx5_sA41mFHsZio4umTH3Qw/live) | - | [Logo](http://rtvtarifa.com/wp-content/uploads/2017/10/ICONO-WEB-180.jpg) | - |
 | Écija Comarca TV | - | [web](https://www.youtube.com/channel/UCiL_dz_QnquAtO5LjvW-How/live) | - | [Logo](http://tvm.ecija.es/imagenes/ecija_comarca_tv.jpg) | - |
 | TG7 | - | [web](https://www.granada.org/inet/tg7.nsf/byclave/endirecto) | - | [Logo](https://www.granada.org/inet/tg7.nsf/tg7_logo_icon.png) | - |
@@ -306,7 +300,7 @@
 | Yatv | - | [web](http://yatv.es/) | - | [Logo](https://pbs.twimg.com/profile_images/945026003432366081/EuCnuBwM_400x400.jpg) | - |
 | Televisión Municipal de Córdoba | - | [web](https://www.cordoba.es/emision_directo/index.html) | - | [Logo](http://teleagenda.cordoba.es/wp-content/uploads/Logo-TVM-blog.jpg) | - |
 | Onda Mezquita TV | [m3u8](http://173.212.214.184:1935/mezquita/mezquita_360p/master.m3u8) | [web](http://www.ahoracordoba.es/ahoracordoba-en-vivo/) | 360p | [Logo](http://www.ahoracordoba.es/wp-content/uploads/2017/05/Logotipo-OndaMezquita-VERTICAL.png) | - |
-| TV Centro Andalucía | - | [web](http://tvcentroandalucia.com/) | - | [Logo](http://tvcentroandalucia.com/images/logo.png) | - |
+| TV Centro Andalucía | [m3u8](http://192.99.21.42:1935/paco/paco/master.m3u8) | [web](http://tvcentroandalucia.com/) | 288p | [Logo](http://tvcentroandalucia.com/images/logo.png) | - |
 | Granada Channel | - | [web#1](https://www.youtube.com/watch?v=GqEIjlETgCk) - [web#2](https://www.youtube.com/watch?v=LZcSuvnM24I) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mDjfZ0zPjIIJSjFikvwwGdH5Cjhd962xeZeQg=s320) | - |
 | Accitania TV | - | [web](http://accitania.es/) | - | [Logo](http://accitania.es/wp-content/uploads/2016/08/d9e8211e-fa44-4753-a739-a8810cfefefc-1.jpg) | - |
 | TeleMotril | - | [web](http://telemotril.tv/) | - | [Logo](http://telemotril.com/wp-content/uploads/2016/11/telemotril-transparente-banner-titular-2016.png) | - |
@@ -344,7 +338,7 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Canal 10 | - | [web](http://www.canal10tv.com/) | - | [Logo](https://generacionalsa.files.wordpress.com/2008/08/logopequeno.gif) | - |
+| Canal 10 | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](http://www.canal10tv.com/) | - | [Logo](https://generacionalsa.files.wordpress.com/2008/08/logopequeno.gif) | - |
 | ORT | - | [web](https://www.ort-ort.com/) | - | [Logo](https://www.ort-ort.com/wp-content/uploads/2017/07/logoweb91-1.png) | - |
 
 ### Canarias
@@ -360,7 +354,7 @@
 | Este Canal TV | - | [web](https://livestream.com/estecanaltv/events/7051352) | - | [Logo](https://pbs.twimg.com/profile_images/1244322522/logo_estacanal.jpg) | - |
 | Canal 13 Digital | [m3u8](http://212.40.234.65/live/canal13/playlist.m3u8) | [web](https://rtvos5.wixsite.com/canal13) | - | [Logo](https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/canal-13-digital.png) | - |
 | Gigante TV | [m3u8](http://85.214.130.95:8080/live/stream.m3u8) | [web](http://gigantetv.es/) | - | [Logo](http://gigantetv.es/wp-content/uploads/2017/02/cropped-prueba-gigante2.jpg) | - |
-| Mi Tierra Televisión | - | [web](http://www.mitierratelevision.com/directo/) | - | [Logo](http://www.mitierratelevision.com/wp-content/themes/mitierraTV/gfx/logoMT_sintexto.png) | - |
+| Mi Tierra Televisión | [m3u8](https://5940924978228.streamlock.net:443/8171/8171/playlist.m3u8) | [web](http://www.mitierratelevision.com/directo/) | - | [Logo](http://www.mitierratelevision.com/wp-content/themes/mitierraTV/gfx/logoMT_sintexto.png) | - |
 | Televisión Mogán | [m3u8](https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w1059529458.m3u8) | [web](http://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | - | [Logo](https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/television-mogan.png) | - |
 | Fuerteventura TV | - | [web](https://www.fuerteventuratv.net/es/) | - | [Logo](https://www.fuerteventuratv.net/images/Fuerteventura.jpg) | - |
 | Canal 8 TIC | - | [web](http://www.canal8tic.es/) | - | [Logo](http://www.canal8tic.es/) | - |
@@ -370,14 +364,13 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| TeleBahía | - | [web](https://www.youtube.com/user/telebahia) | - | - | - |
 
 ### Castilla La-Mancha
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Hellin TV | [m3u8](http://hellin.hls.flumotion.com/hellin/hellin-hls/playlist.m3u8) | [web](http://www.televisionhellin.com/tv-en-directo) | - | [Logo](http://www.achedehellin.com/wp-content/uploads/2014/09/logo-tvhellin.jpg) | - |
-| TeleToledo | - | [web](http://www.teletoledo.tv/index.php/tv-en-directo) | - | [Logo](http://www.teletoledo.tv/templates/teletoledo/images/logo-1224170745.png) | - |
+| TeleToledo | [m3u8](https://cdn01.yowi.tv/1H23S04G4M/master.m3u8) | [web](http://www.teletoledo.tv/index.php/tv-en-directo) | - | [Logo](http://www.teletoledo.tv/templates/teletoledo/images/logo-1224170745.png) | - |
 | Imás TV | [m3u8](http://cls.todostreaming.eu/imastv/livestream/playlist.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | - | [Logo](https://i1.wp.com/televisiones.lasteles.com/wp-content/uploads/2018/05/imas-tv.jpg) | - |
 | Alcarria TV | [m3u8](http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8) | [web](http://www.alcarria.tv/htmlPlayer.html) | - | [Logo](http://www.alcarria.tv/web/wp-content/uploads/2016/09/cropped-cropped-logonegroalcarriatv.png) | - |
 | Canal Diocesano Toledo | [m3u8](http://178.32.53.254/rtvd/livestream/playlist.m3u8) | [web](http://rtvd.org/) | - | [Logo](http://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/canal-diocesano-logo.jpg) | - |
@@ -386,7 +379,7 @@
 | Ciudad Real TV | - | [web](http://www.ustream.tv/channel/17022458) | - | [Logo](http://static-cdn1.ustream.tv/i/channel/picture/1/7/0/2/17022458/17022458,192x192,r:3.jpg) | - |
 | Visión 6 | [m3u8](https://secure.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | - | [Logo](http://www.visionseis.tv/wp-content/uploads/2016/05/logo-visionseis.png) | - |
 | Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/master.m3u8) | [web](http://villarrobledo.com/canal4.php) | 1080p | [Logo](http://bitllarrobledo.com/wp-content/uploads/2015/12/canal4.jpg) | - |
-| InfoCanal TV Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | - | [Logo](https://almatelecom.es/wp-content/uploads/2017/10/logo-infocanal1.png) | - |
+| InfoCanal TV Almansa | [m3u8](http://emision2.tvalmansa.es/stream/e_-UsDQGh0-06PuVK0BVkKoNewQR8A.m3u8) | [web](https://zonacliente.almatelecom.es/videos/infocanal) | - | [Logo](https://almatelecom.es/wp-content/uploads/2017/10/logo-infocanal1.png) | - |
 | TV La Mancha | - | [web](http://www.radiosurco.es/tv-la-mancha.html) | - | [Logo](http://2.bp.blogspot.com/_0VRlsHI-X7o/TF_toZ_v8BI/AAAAAAAAEvY/gRg4JmfS9qU/s1600/logo+tv.jpg) | - |
 | Tele Valdepeñas | - | [web](http://www.televal.com/tvv/) | - | [Logo](http://www.televal.com/tvv/imagenes/web26_03.jpg) | - |
 | Tele Taracón | - | [web](http://www.taranconalacarta.es/) | - | [Logo](http://www.taranconalacarta.es/media//taranconalacarta2/sections/Sin%20t%C3%ADtulo-1.png) | - |
@@ -397,7 +390,7 @@
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Telemedina Canal 9 | - | [web](http://www.telemedina.com/) | - | [Logo](http://www.lavozdemedinadigital.com/wordpress/wp-content/uploads/mosca.png) | - |
-| Canal 54 Burgos | - | [web](http://www.canal54.es/emision-en-directo/) | - | [Logo](http://www.canal54.es/wp-content/uploads/Logotipo-Superior.png) | - |
+| Canal 54 Burgos | [m3u8](https://videocdn.mixer.com/hls/26772748-fbe16d7faf66899dda002a4735213978_source/index.m3u8) | [web](http://www.canal54.es/emision-en-directo/) | - | [Logo](http://www.canal54.es/wp-content/uploads/Logotipo-Superior.png) | - |
 | TV Benavente | - | [web](http://www.tvbenavente.es/television-online/) | - | [Logo](https://pbs.twimg.com/profile_images/1896876073/tv_benavente-twitter-logo_400x400.jpg) | - |
 | Telearanda | - | [web](http://www.telearanda.es/) | - | [Logo](http://www.telearanda.es/imagenes/inicio.jpg) | - |
 | ViveMiranda Televisión | - | [web](https://www.vivemiranda.com/television/) | - | [Logo](https://www.vivemiranda.com/wp-content/uploads/2015/03/logoT3_copia.png) | - |
@@ -468,7 +461,7 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| ZF Televisión | - | [web](http://www.radiotvzafra.es/index.php/en-directo) | - | [Logo](https://yt3.ggpht.com/a-/AN66SAzBMUet8ARtBAUg9hmAbqndIpwzyhtbeekwyQ=s320) | - |
+| ZF Televisión | - | [web](http://www.radiotvzafra.es/index.php/2015-04-14-15-03-20/television) | - | [Logo](https://yt3.ggpht.com/a-/AN66SAzBMUet8ARtBAUg9hmAbqndIpwzyhtbeekwyQ=s320) | - |
 | ViaPlata TV | - | [web](http://viaplatatv.es/) | - | [Logo](http://viaplatatv.es/templates/ja_nex/themes/black/images/logo.png) | - |
 | Zafra TV | - | [web](https://www.zafratv.com/) | - | [Logo](https://u.jimcdn.com/cms/o/sc3805d5f811108eb/emotion/crop/header.jpg) | - |
 
@@ -489,8 +482,8 @@
 | TEF | [m3u8](http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | 386p | [Logo](https://i0.wp.com/teftv.com/wp-content/uploads/2016/02/cropped-LOGO_TEF_512.png) | - |
 | Ibiza Global TV | [m3u8](http://server10.streaming-pro.com:1937/live/ibgtvlive/master.m3u8) | [web](http://ibizaglobal.tv/live/) | 480p | [Logo](https://ibizaglobal.tv/wp-content/uploads/2017/03/logo_tv-180x60.png) | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | - | [Logo](http://www.mallorcadiario.com/wp-content/uploads/sites/2/2012/04/luxmallorcaok.jpg) | - |
-| Canal 4 | - | [web](http://canal4televisio.com/canal-4-en-directo/) | - | [Logo](http://canal4televisio.com/wp-content/uploads/2016/10/pngTVc4.png) | - |
-| Fibwi | - | [web](https://fibwiradio.com/) | - | [Logo](https://fibwiradio.com/wp-content/uploads/2018/05/LOGO-WEB-FIBWLI.LIVE_-1.png) | - |
+| Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/master.m3u8) | [web](http://canal4televisio.com/canal-4-en-directo/) | 576p | [Logo](http://canal4televisio.com/wp-content/uploads/2016/10/pngTVc4.png) | - |
+| Fibwi | [m3u8](http://178.132.6.97/fibwiLIVE1/playlist.m3u8) | [web](https://fibwiradio.com/) | 1080p | [Logo](https://fibwiradio.com/wp-content/uploads/2018/05/LOGO-WEB-FIBWLI.LIVE_-1.png) | - |
 
 ### La Rioja
 
@@ -504,11 +497,14 @@
 | C33 Madrid | [m3u8](https://5ab29cc78f681.streamlock.net/canal33tvmadrid/livestream/master.m3u8) | [web](http://www.canal33.info/) | 720p | [Logo](https://pbs.twimg.com/profile_images/1019506271907667968/srxePgiS_400x400.jpg) | - |
 | Distrito TV | [m3u8](https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8) | [web](http://distritotv.es/) | - | [Logo](http://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg) | - |
 | TBN España | [m3u8](https://wowzaprod161-i.akamaihd.net/hls/live/598486/f66ed1d9_1_1433600/chunklist.m3u8) | [web](https://xn--tbnespaa-j3a.es/) | - | [Logo](https://tbnespaña.es/wp-content/uploads/2017/01/logoWeb.png) | - |
-| Life TV | - | [web](http://www.lifetelevision.es/) | - | [Logo](https://static.wixstatic.com/media/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png/v1/fill/w_201,h_146,al_c,q_80,usm_0.66_1.00_0.01/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.webp) | - |
+| Life TV | [m3u8](http://178.132.6.97/uzivo/lifetvesp976/playlist.m3u8) | [web](http://www.lifetelevision.es/) | - | [Logo](https://static.wixstatic.com/media/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png/v1/fill/w_201,h_146,al_c,q_80,usm_0.66_1.00_0.01/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.webp) | - |
 | Solidaria TV | [m3u8](http://panel2.cdnstreamserver.com/live/solidariatv-webhd.m3u8) | [web](http://es.solidariatv.com/en-vivo) | - | [Logo](http://es.solidariatv.com/images/logo_grande.png) | - |
 | 8madrid | - | [web](http://www.8madrid.tv/) | - | [Logo](http://www.8madrid.tv/images/8madrid%20nuestro%20cine%20positivott.jpg) | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 | Logos TV | [m3u8](https://streamer1.streamhost.org/salive/logosH/master.m3u8) | [web](https://logostv.es/) | 576p | [Logo](https://logostv.es/wp-content/uploads/2016/04/logo-logostv.png) | - |
+| Déjate de Historias TV | [m3u8](https://secure.todostreaming.es/live/tvstream-DH.m3u8) | [web](www.dejatedehistorias.es/wordpress/dejate-tv-on-line/) | - | [Logo](http://graph.facebook.com/DejateDeHistoriasTV/picture?width=320&height=320) | - |
+| Libertad Digital TV | [m3u8](https://stream-05.dc3.dailymotion.com/dm/3/xnm032/live-2.m3u8) | [web](https://tv.libertaddigital.com/directo.html) | - | [Logo](http://graph.facebook.com/libertad.digital.tv/picture?width=320&height=320) | - |
+| Pride Channel | [m3u8](http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8) | [web](http://www.pridechanneltv.com/tv-en-directo.html) | - | [Logo](http://graph.facebook.com/PrideChannelTV/picture?width=320&height=320) | - |
 
 ### Melilla
 
@@ -522,6 +518,7 @@
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 | Canal 1 TV Mar-Menor - Torre Pacheco | - | [web](https://www.canal1tv.es/) | - | [Logo](https://www.canal1tv.es/wp-content/uploads/logo-canal1tv.png) | - |
 | Comarcal TV | - | [web](https://comarcaltv.es/) | - | [Logo](https://comarcaltv.es/wp-content/uploads/2017/01/logo_web-1-1.png) | - |
+| RTV Vida | [m3u8](http://188.165.135.22/radiovida/livestream/master.m3u8) | [web](http://vidartv.com/index.php/ve-television-vida) | 720p | [Logo](http://graph.facebook.com/vidartv/picture?width=320&height=320) | - |
 
 ### Navarra
 
@@ -553,12 +550,12 @@
 | 7 TeleValencia | [m3u8](http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8) | [web](http://7televalencia.com/directo-7televalencia) | 480p | [Logo](https://7televalencia.com/wp-content/uploads/2017/03/Logo_A_vertical_fondo_plano-242x300.png) | - |
 | Levante TV | [m3u8](http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8) | [web](http://www.levantetv.es/default.jsp) | 366p | [Logo](http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg) | - |
 | TeleElx | [m3u8](http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8) | [web](http://www.teleelx.es/s5811-TELEVISION.html) | 240p | [Logo](https://graph.facebook.com/teleelx/picture?width=320&height=320) | - |
-| Intercomarcal TV | - | [web](http://www.intercomarcal.com/camaraa/camaragrande.html) | - | [Logo](http://www.intercomarcal.com/imagenes/cabecera2.gif) | - |
+| Intercomarcal TV | [m3u8](http://37.187.225.46/hls/tvixa.m3u8) | [web](http://www.intercomarcal.com) | - | [Logo](http://www.intercomarcal.com/imagenes/cabecera2.gif) | - |
 | Tele Safor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](http://telesafor.com) | 240p, 360p, 480p | [Logo](http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png) | - |
 | TV Vega Baja | [m3u8](http://185.29.68.24/tvb.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | - | [Logo](http://programas.televisionvegabaja.es/imgs/logovodtvvb.png) | - |
 | Canal 56 | [m3u8](https://cdn01.yowi.tv/VI76V4AZS4/live-1000.m3u8) | [web](http://canal56.com/online/) | - | [Logo](https://csolsqs.com/56/image_20170921_145620_1626.jpg) | - |
 | TVCS | - | [web](http://www.tvcs.tv/) | - | [Logo](https://www.tvcs.tv/wp-content/uploads/2017/05/logo6.png) | - |
-| tv-A | - | [web](http://www.tv-a.es/) | - | [Logo](http://www.tv-a.es/wp-content/uploads/2018/03/logo_TVA-01-300x231.png) | - |
+| tv-A | [m3u8](http://5.39.65.105/hls/tvaxa.m3u8) | [web](http://www.tv-a.es/) | - | [Logo](http://www.tv-a.es/wp-content/uploads/2018/03/logo_TVA-01-300x231.png) | - |
 | Ribera TV | [m3u8](http://orion.comelson.es/ribera/livestream/playlist.m3u8) | [web](http://www.riberatelevisio.com/) | - | [Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9RFTwQvPYaIodCtMw8jMAJ1eGrOLm4ia0mZSong1RbJZ58jXD) | - |
 | Bous TV | - | [web](https://www.boustv.es/) | - | [Logo](https://pbs.twimg.com/profile_images/468813580310028288/kBS92Vx7_400x400.png) | - |
 | TV4 La Vall | [m3u8](http://178.32.53.254/15o8376r/mystream/playlist.m3u8) | [web](http://teve4lavall.com/) | - | [Logo](https://pbs.twimg.com/profile_images/438700741801177088/MdnaVxtC_400x400.png) | - |
@@ -569,11 +566,13 @@
 | 12TV | - | [web](http://www.12tv.es/12tv-directo/) | - | [Logo](http://www.12tv.es/wp-content/uploads/2014/02/logofin.png) | - |
 | Canal 10 Millones | [m3u8](https://59b782181fb20.streamlock.net:455/yowi2/live-1000/master.m3u8) | [web](http://www.canal10millones.es/en-directo/) | 720p | [Logo](http://www.canal10millones.es/wp-content/uploads/2018/05/SMOSCA-somos-10-millones-para-conti-ok.png) | - |
 | Comarcal Televisió | - | [web](http://www.comarcal.tv/) | - | [Logo](https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/02/Comarcal-Televisi%C3%B3.png) | - |
-| Alicantí TV | - | [web](http://www.alacantitv.com/en-directo/) | - | [Logo](http://www.alacantitv.com/wp-content/uploads/2017/02/logo-alacanti-tv-bueno.jpg) | - |
+| Alicantí TV | [m3u8](http://5.39.65.105/hls/alacantixa.m3u8) | [web](http://www.alacantitv.com/en-directo/) | - | [Logo](http://www.alacantitv.com/wp-content/uploads/2017/02/logo-alacanti-tv-bueno.jpg) | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 | 8 La Marina TV | - | [web](http://8lamarinatv.com/) | - | [Logo](http://8lamarinatv.com/wp-content/uploads/2018/05/8lamarinatv.png) | - |
 | MK TV | - | [web](http://www.radioontinyent.com/playerMK.html) | - | [Logo](https://yt3.ggpht.com/a-/AN66SAy3Sa5oyDugMqEqhAieH-_oBrmuOxtdPSeJ0A=s320) | - |
 | Une Vionalopó | [m3u8](http://37.187.225.46/hls/unesd.m3u8) | [web](https://www.unevinalopo.es/directo/) | - | [Logo](https://www.unevinalopo.es/wp-content/uploads/2018/02/logo_une-300x300.png) | - |
+| Gestiona TV | [m3u8](http://37.187.7.106/gestionatv/live.m3u8) | [web](http://www.gestionaradiovalencia.com/television/) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mBFXky2PSJHQFPClHPljYU2sJrqZ0DFmtNWJw=s300) | - |
+| RTV Vida | [m3u8](http://188.165.135.22/radiovida/livestream/master.m3u8) | [web](http://vidartv.com/index.php/ve-television-vida) | 720p | [Logo](http://graph.facebook.com/vidartv/picture?width=320&height=320) | - |
 
 ## Internacionales
 
@@ -588,6 +587,7 @@
 | star TVE | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png) | - |
 | TV3CAT | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) | [web](https://www.ccma.cat/tv3/directe/tv3cat/) | 180p, 360p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/320px-TV3CAT.svg.png) | - |
 | Travel TV | [m3u8](http://194.179.53.124:8080/hls/traveltv/1_2/index.m3u8) | [web](http://www.traveltve.com/) | - | [Logo](http://www.traveltve.com/wp-content/uploads/2015/04/logo.png) | - |
+| Vaughan TV | - | [web](https://grupovaughan.com/vaughan-tv/) | - | [Logo](http://graph.facebook.com/GrupoVaughan/picture?width=320&height=320) | - |
 | franceinfo: | [m3u8](https://stream-09.dc3.dailymotion.com/dm/3/x4rdeu6/live-3.m3u8) | [web](https://www.francetvinfo.fr/en-direct/tv.html) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/320px-Franceinfo.svg.png) | - |
 | Euronews | - | [web](https://es.euronews.com/live) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/320px-Euronews_2016_logo.svg.png) | - |
 | ABC News | [m3u8](http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8) | [web](https://abcnews.go.com/Live/) | 216p, 288p, 404p, 720p, 1080p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/320px-ABC_News_solid_black_logo.svg.png) | - |
