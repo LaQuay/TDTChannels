@@ -52,7 +52,7 @@
 | - | - | - | - | - | - |
 | TDP | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39733/master.m3u8) | [web](http://www.rtve.es/directo/teledeporte/) | 270p, 360p, 576p | [Logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDEP ASTRA SD 1.sp |
 | TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | 270p, 360p, 576p, 720p | [Logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDEP ASTRA HD 1.sp |
-| Gol TV | - | [web](http://www.goltelevision.com/live) | - | [Logo](http://graph.facebook.com/goltv.es/picture?width=320&height=320) | GOL TDT SD 2.sp |
+| GOL | - | [web](http://www.goltelevision.com/live) | - | [Logo](http://graph.facebook.com/goltv.es/picture?width=320&height=320) | GOL TDT SD 2.sp |
 | RealMadrid TV | [m3u8 # Español](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | 180p, 360p, 404p | [Logo](http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320) | REALM ASTRA SD 1.sp |
 | Barça TV | - | - | - | [Logo](http://graph.facebook.com/fcbarcelona/picture?width=320&height=320) | BARNA ASTRA SD 1.sp |
 | Betis TV | [m3u8](https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | - | [Logo](http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320) | - |
@@ -597,7 +597,7 @@
 | Bloomberg Europe | [m3u8 # English](https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8) | [web](https://www.bloomberg.com/live/europe) | 180p, 270p, 360p, 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png) | - |
 | RT | - | [web # Español](https://www.youtube.com/watch?v=JqY92qg_yPs) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/320px-Russia-today-logo.svg.png) | - |
 | DW | [m3u8 # Español](http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) | - | 224p, 360p, 400p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/320px-Deutsche_Welle_symbol_2012.svg.png) | - |
-| CGTV | [m3u8 # Español](https://livees.cgtn.com/1000e/prog_index.m3u8) | - | - | [Logo](http://ik.imagekit.io/ulangotv/image/upload/3782973_logo_cgtn.png) | - |
+| CGTN | [m3u8 # Español](https://livees.cgtn.com/1000e/prog_index.m3u8) | - | - | [Logo](http://ik.imagekit.io/ulangotv/image/upload/3782973_logo_cgtn.png) | - |
 | NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/320px-NASA_TV.svg.png) | - |
 | NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#media) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/320px-NASA_TV.svg.png) | - |
 | NASA TV - ISS Views | - | [web](https://www.nasa.gov/multimedia/nasatv/#iss) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/320px-NASA_TV.svg.png) | - |
