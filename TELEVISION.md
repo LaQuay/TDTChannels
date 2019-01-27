@@ -15,14 +15,14 @@
 | Nova | [m3u8 # 1](https://pull2c-i.akamaized.net/nova/master.m3u8) - [m3u8 # 2](https://pull2c-i.akamaized.net/geonova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/antenanova/picture?width=320&height=320) | NOVA ASTRA SD 1.sp |
 | Mega | [m3u8 # 1](https://pull2a-i.akamaized.net/mega/master.m3u8) - [m3u8 # 2](https://pull2a-i.akamaized.net/geomega/master.m3u8) | [web](https://www.atresplayer.com/directos/mega/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/megaTDT/picture?width=320&height=320) | MEGA TDT SD 1.sp |
 | Atreseries | [m3u8 # 1](https://pull2a-i.akamaized.net/a3series/master.m3u8) - [m3u8 # 2](https://pull2a-i.akamaized.net/geoa3series/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/atreseries/picture?width=320&height=320) | ATRESS TDT HD 1.sp |
+| La Voz 24h | [m3u8](https://pull12.atresmedia.com/lavoz/master.m3u8) | [web](https://www.atresplayer.com/directos/la-voz/) | 720p | [Logo](http://graph.facebook.com/LaVozAntena3/picture?width=320&height=320) | - |
 | Atresplayer Original (15) | [m3u8 # 1](https://pull1a-i.akamaized.net/eventos15/master.m3u8) - [m3u8 # 2](https://pull1a-i.akamaized.net/geoeventos15/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-15/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - |
 | Atresplayer Original (26) | [m3u8 # 1](https://pull2b-i.akamaized.net/eventos26/master.m3u8) - [m3u8 # 2](https://pull2b-i.akamaized.net/geoeventos26/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-26/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - |
 | Atresplayer Original (37) | [m3u8 # 1](https://pull2c-i.akamaized.net/eventos37/master.m3u8) - [m3u8 # 2](https://pull2c-i.akamaized.net/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - |
-| La Voz 24h | [m3u8](https://pull12.atresmedia.com/lavoz/master.m3u8) | [web](https://www.atresplayer.com/directos/la-voz/) | 720p | [Logo](http://graph.facebook.com/LaVozAntena3/picture?width=320&height=320) | - |
 | FDF | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/fdf) | - | [Logo](http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320) | FDFIC ASTRA SD 1.sp |
 | Energy | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/energy) | - | [Logo](http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | ENERGY ASTRA SD 1.sp |
 | Divinity | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/divinity) | - | [Logo](http://graph.facebook.com/divinityes/picture?width=320&height=320) | DIVINI ASTRA SD 1.sp |
-| Be Mad | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/bemad) | - | [Logo](http://graph.facebook.com/BeMadTV/picture?width=320&height=320) | BEMAD ASTRA SD 1.sp |
+| Be Mad | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/bemad) | - | [Logo](http://graph.facebook.com/BeMadTV/picture?width=320&height=320) | BEMAD ASTRA SD 1.sp |
 | mtmad 24h | - | [web # 1](https://www.mitele.es/directo/mtmad-24h) - [web # 2](https://www.youtube.com/watch?v=hXQ8NuM1xQw) | - | [Logo](http://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - |
 | GH Dúo 24h | - | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) - [web # 3](https://www.youtube.com/watch?v=cHtKunPYuhg) | - | [Logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - |
 | Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/master.m3u8) | [web](http://www.paramountnetwork.es/programacion/en-directo) | - | [Logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | PARCH ASTRA SD 1.sp |
@@ -65,7 +65,7 @@
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Disney Channel | - | [web](http://tv.disney.es/disney-channel?autoplay=true) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/320px-2014_Disney_Channel_logo.svg.png) | DCH ASTRA HD 1.sp |
-| Boing | - | [web](http://www.mitele.es/directo/boing) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/320px-Boing.svg.png) | BOING ASTRA SD 1.sp |
+| Boing | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/boing) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/320px-Boing.svg.png) | BOING ASTRA SD 1.sp |
 | Clan | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png) | CLANTV ASTRA SD 1.sp |
 
 ## Musicales
@@ -566,7 +566,7 @@
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 | 8 La Marina TV | - | [web](http://8lamarinatv.com/) | - | [Logo](http://8lamarinatv.com/wp-content/uploads/2018/05/8lamarinatv.png) | - |
 | MK TV | - | [web](http://www.radioontinyent.com/playerMK.html) | - | [Logo](https://yt3.ggpht.com/a-/AN66SAy3Sa5oyDugMqEqhAieH-_oBrmuOxtdPSeJ0A=s320) | - |
-| Une Vionalopó | - | [web](https://www.unevinalopo.es/directo/) | - | [Logo](https://www.unevinalopo.es/wp-content/uploads/2018/02/logo_une-300x300.png) | - |
+| Une Vionalopó | [m3u8](37.187.225.46/hls/unesd.m3u8) | [web](https://www.unevinalopo.es/directo/) | - | [Logo](https://www.unevinalopo.es/wp-content/uploads/2018/02/logo_une-300x300.png) | - |
 
 ## Internacionales
 
