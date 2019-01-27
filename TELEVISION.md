@@ -64,7 +64,7 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Disney Channel | [m3u8](https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8) | [web](http://tv.disney.es/disney-channel) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/320px-2014_Disney_Channel_logo.svg.png) | DCH ASTRA HD 1.sp |
+| Disney Channel | - | [web](http://tv.disney.es/disney-channel) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/320px-2014_Disney_Channel_logo.svg.png) | DCH ASTRA HD 1.sp |
 | Boing | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/boing) | 480p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/320px-Boing.svg.png) | BOING ASTRA SD 1.sp |
 | Boing HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/boing) | 720p | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/320px-Boing.svg.png) | BOING ASTRA HD 1.sp |
 | Clan | - | - | - | [Logo](http://graph.facebook.com/clantve/picture?width=320&height=320) | CLANTV ASTRA SD 1.sp |
@@ -338,7 +338,7 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Canal 10 | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](http://www.canal10tv.com/) | - | [Logo](https://generacionalsa.files.wordpress.com/2008/08/logopequeno.gif) | - |
+| Canal 10 | - | [web](http://www.canal10tv.com/) | - | [Logo](https://generacionalsa.files.wordpress.com/2008/08/logopequeno.gif) | - |
 | ORT | - | [web](https://www.ort-ort.com/) | - | [Logo](https://www.ort-ort.com/wp-content/uploads/2017/07/logoweb91-1.png) | - |
 
 ### Canarias
@@ -354,7 +354,7 @@
 | Este Canal TV | - | [web](https://livestream.com/estecanaltv/events/7051352) | - | [Logo](https://pbs.twimg.com/profile_images/1244322522/logo_estacanal.jpg) | - |
 | Canal 13 Digital | [m3u8](http://212.40.234.65/live/canal13/playlist.m3u8) | [web](https://rtvos5.wixsite.com/canal13) | - | [Logo](https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/canal-13-digital.png) | - |
 | Gigante TV | [m3u8](http://85.214.130.95:8080/live/stream.m3u8) | [web](http://gigantetv.es/) | - | [Logo](http://gigantetv.es/wp-content/uploads/2017/02/cropped-prueba-gigante2.jpg) | - |
-| Mi Tierra Televisión | [m3u8](https://5940924978228.streamlock.net:443/8171/8171/playlist.m3u8) | [web](http://www.mitierratelevision.com/directo/) | - | [Logo](http://www.mitierratelevision.com/wp-content/themes/mitierraTV/gfx/logoMT_sintexto.png) | - |
+| Mi Tierra Televisión | - | [web](http://www.mitierratelevision.com/directo/) | - | [Logo](http://www.mitierratelevision.com/wp-content/themes/mitierraTV/gfx/logoMT_sintexto.png) | - |
 | Televisión Mogán | [m3u8](https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w1059529458.m3u8) | [web](http://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | - | [Logo](https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/television-mogan.png) | - |
 | Fuerteventura TV | - | [web](https://www.fuerteventuratv.net/es/) | - | [Logo](https://www.fuerteventuratv.net/images/Fuerteventura.jpg) | - |
 | Canal 8 TIC | - | [web](http://www.canal8tic.es/) | - | [Logo](http://www.canal8tic.es/) | - |
