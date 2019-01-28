@@ -613,6 +613,7 @@
 | DJing - Underground | [m3u8](https://www.djing.com/tv/underground.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
 | DJing - Electro Rock | [m3u8](https://www.djing.com/tv/session_electro-rock.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
 | DJing - Animation | [m3u8](https://www.djing.com/tv/animation.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
+| TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | - | - | - |
 
 ## Andorra
 
