@@ -11,7 +11,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 **Chat Telegram**: [Telegram TDTChannels - Canales TDT](https://t.me/canales_tdt)
 
 #### Descargar listas de reproducción
-*(Última actualización: 27/01/2019)*
+*(Última actualización: 29/01/2019)*
 
 - [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
@@ -19,7 +19,14 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 
 - [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)
 
+### Ayuda
+Hay una _wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
+
 ### Noticias
+*01/2019* - [El Androide Libre - Ver la tele en tu Android, una manera muy sencilla y completa](https://elandroidelibre.elespanol.com/2019/01/ver-tele-android-manera-sencilla-completa.html)
+
+*01/2019* - [El Androide Feliz - Cómo configurar KODI para ver TV gratis (y legal) en Android](https://elandroidefeliz.com/configurar-kodi-para-ver-tv-gratis/)
+
 *01/2019* - [El Androide Libre - Cómo usar Kodi para ver la televisión gratis en tu Android](https://elandroidelibre.elespanol.com/2019/01/como-usar-kodi-ver-television-gratis-android.html)
 
 *12/2018* - [El Androide Libre - Cómo ver la televisión gratis en tu móvil, las mejores aplicaciones](https://elandroidelibre.elespanol.com/2018/12/como-ver-television-gratis-movil-mejores-aplicaciones.html)
@@ -27,9 +34,6 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 *08/2018* - [Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
 
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
-
-### Ayuda
-Hay una _wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Licencia del proyecto
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que debe poderse ver que la información que está utilizando procede de este repositorio. No está permitido enlazar directamente los enlaces que aparecen en la sección '*Descargar listados*'.

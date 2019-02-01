@@ -23,15 +23,15 @@
 | Atresplayer Original (37) | [m3u8 # 1](https://pull2c-i.akamaized.net/eventos37/master.m3u8) - [m3u8 # 2](https://pull2c-i.akamaized.net/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | 360p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - |
 | FDF | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/fdf) | 480p | [Logo](http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320) | FDFIC ASTRA SD 1.sp |
 | FDF HD | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/fdf) | 720p | [Logo](http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320) | FDFIC ASTRA SD 1.sp |
-| Energy | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/energy) | 480p | [Logo](http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | ENERGY ASTRA SD 1.sp |
-| Energy HD | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/energy) | 720p | [Logo](http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | ENERGY ASTRA HD 1.sp |
+| Energy | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/energy) | 480p | [Logo](http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | ENERGY ASTRA SD 1.sp |
+| Energy HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/energy) | 720p | [Logo](http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | ENERGY ASTRA HD 1.sp |
 | Divinity | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/divinity) | 480p | [Logo](http://graph.facebook.com/divinityes/picture?width=320&height=320) | DIVINI ASTRA SD 1.sp |
 | Divinity HD | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/divinity) | 720p | [Logo](http://graph.facebook.com/divinityes/picture?width=320&height=320) | DIVINI ASTRA HD 1.sp |
 | Be Mad | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/bemad) | 480p | [Logo](http://graph.facebook.com/BeMadTV/picture?width=320&height=320) | BEMAD ASTRA SD 1.sp |
 | Be Mad HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/bemad) | 720p | [Logo](http://graph.facebook.com/BeMadTV/picture?width=320&height=320) | BEMAD ASTRA HD 1.sp |
 | mtmad 24h HD | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8) | [web # 1](https://www.mitele.es/directo/mtmad-24h) - [web # 2](https://www.youtube.com/watch?v=hXQ8NuM1xQw) | 720p | [Logo](http://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - |
 | GH Dúo 24h | - | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) - [web # 3](https://www.youtube.com/watch?v=cHtKunPYuhg) | - | [Logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - |
-| Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/master.m3u8) | [web](http://www.paramountnetwork.es/programacion/en-directo) | - | [Logo](http://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320) | PARCH ASTRA SD 1.sp |
+| Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/playlist.m3u8) | [web](http://www.paramountnetwork.es/programacion/en-directo) | - | [Logo](http://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320) | PARCH ASTRA SD 1.sp |
 | TRECE | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo) | - | [Logo](http://graph.facebook.com/TRECEtves/picture?width=320&height=320) | 13TV TDT SD 1.sp |
 | Ten | - | [web](http://tentv.es/) | - | [Logo](http://graph.facebook.com/televisionten/picture?width=320&height=320) | TEN TDT SD 1.sp |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | - | [Logo](http://graph.facebook.com/DMAXes/picture?width=320&height=320) | DMAX.sp |
@@ -246,7 +246,7 @@
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | 101TV Málaga | [m3u8](https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8) | [web](http://www.101tv.es/directo.aspx) | 360p | [Logo](https://www.luxhoteles.com/res/logos/20170203104239logos101tv.png) | - |
-| Onda Cádiz | - | [web](http://tv.ocadizdigital.es/tv/directo) | - | [Logo](https://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/logo_onda_cadiz.png) | - |
+| Onda Cádiz | [m3u8](http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8) | [web](http://tv.ocadizdigital.es/tv/directo) | - | [Logo](https://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/logo_onda_cadiz.png) | - |
 | 8 Cádiz | [m3u8](http://cls2.todostreaming.eu/unatv/live/playlist.m3u8) | [web](http://www.8cadiz.es/tvonline.php) | - | [Logo](https://8cadiz.es/wp-content/uploads/2018/01/logo_8tv-1-1.png) | - |
 | 8 La Janda | - | [web](https://www.youtube.com/watch?v=-Dkg-AejlIw) | - | [Logo](https://yt3.ggpht.com/a-/AAuE7mChtew-NIbpSmzmq7EKPWe_1ZxNLKG3-LO0JA=s320) | - |
 | Huelva TV | [m3u8](http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8) | [web](http://huelvatv.com/directo/) | - | [Logo](https://pbs.twimg.com/profile_images/645349922103889920/JGbRJMxo.jpg) | - |
@@ -613,6 +613,7 @@
 | DJing - Underground | [m3u8](https://www.djing.com/tv/underground.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
 | DJing - Electro Rock | [m3u8](https://www.djing.com/tv/session_electro-rock.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
 | DJing - Animation | [m3u8](https://www.djing.com/tv/animation.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
+| TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | - | - | - |
 
 ## Andorra
 
