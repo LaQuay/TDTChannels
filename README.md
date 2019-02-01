@@ -23,9 +23,9 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 Hay una _wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
-*01/2019* - [Ver la tele en tu Android, una manera muy sencilla y completa](https://elandroidelibre.elespanol.com/2019/01/ver-tele-android-manera-sencilla-completa.html)
+*01/2019* - [El Androide Libre - Ver la tele en tu Android, una manera muy sencilla y completa](https://elandroidelibre.elespanol.com/2019/01/ver-tele-android-manera-sencilla-completa.html)
 
-*01/2019* - [Cómo configurar KODI para ver TV gratis (y legal) en Android](https://elandroidefeliz.com/configurar-kodi-para-ver-tv-gratis/)
+*01/2019* - [El Androide Feliz - Cómo configurar KODI para ver TV gratis (y legal) en Android](https://elandroidefeliz.com/configurar-kodi-para-ver-tv-gratis/)
 
 *01/2019* - [El Androide Libre - Cómo usar Kodi para ver la televisión gratis en tu Android](https://elandroidelibre.elespanol.com/2019/01/como-usar-kodi-ver-television-gratis-android.html)
 
