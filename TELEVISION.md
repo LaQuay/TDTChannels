@@ -295,7 +295,7 @@
 | 7TV Andalucía - Costa del Sol | [m3u8](https://secure.todostreaming.es/live/ondaluz-olmarbella.m3u8) | [web](https://7tvandalucia.es/costa-del-sol/) | - | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
 | 7TV Andalucía - Málaga | [m3u8](https://secure.todostreaming.es/live/ondaluz-olmalaga.m3u8) | [web](https://7tvandalucia.es/malaga/) | - | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
 | 7TV Andalucía - Sevilla | [m3u8](https://secure.todostreaming.es/live/ondaluz-olsevilla.m3u8) | [web](https://7tvandalucia.es/sevilla/) | - | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
-| Canal 28 TV | - | [web](http://www.almeriacanal28.es/) | - | - | - | - |
+| Canal 28 TV | - | [web](http://www.almeriacanal28.es/) | - | [logo](https://graph.facebook.com/149656178408041/picture?width=320&height=320) | - | - |
 | Yatv | - | [web](http://yatv.es/) | - | [logo](https://pbs.twimg.com/profile_images/945026003432366081/EuCnuBwM_400x400.jpg) | - | - |
 | Televisión Municipal de Córdoba | - | [web](https://www.cordoba.es/emision_directo/index.html) | - | [logo](http://teleagenda.cordoba.es/wp-content/uploads/logo-TVM-blog.jpg) | - | - |
 | Onda Mezquita TV | [m3u8](http://173.212.214.184:1935/mezquita/mezquita_360p/master.m3u8) | [web](http://www.ahoracordoba.es/ahoracordoba-en-vivo/) | 360p | [logo](http://www.ahoracordoba.es/wp-content/uploads/2017/05/Logotipo-OndaMezquita-VERTICAL.png) | - | - |
@@ -615,7 +615,7 @@
 | DJing - Underground | [m3u8](https://www.djing.com/tv/underground.m3u8) | [web](https://www.djing.com) | - | [logo](https://djing.com/newimages/content/c01.jpg) | - | - |
 | DJing - Electro Rock | [m3u8](https://www.djing.com/tv/session_electro-rock.m3u8) | [web](https://www.djing.com) | - | [logo](https://djing.com/newimages/content/c01.jpg) | - | - |
 | DJing - Animation | [m3u8](https://www.djing.com/tv/animation.m3u8) | [web](https://www.djing.com) | - | [logo](https://djing.com/newimages/content/c01.jpg) | - | - |
-| TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | - | - | - | - |
+| TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | - | [logo](https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/44/cf/9f/44cf9fb7-dc61-bd74-2238-1f6d6b11925f/source/320x320bb.jpg) | - | - |
 | Deluxe Music | - | [web](https://www.deluxemusic.tv/tv.html) | - | [logo](http://graph.facebook.com/deluxe.music/picture?width=320&height=320) | - | - |
 
 ## Andorra
