@@ -1,11 +1,12 @@
 ﻿class Channel:
-    def __init__(self, name, web, resolution, logo, epg_id):
+    def __init__(self, name, web, resolution, logo, epg_id, extra_info):
         self.name = name
         self.web = web
         self.resolution = resolution
         self.logo = logo
         self.epg_id = epg_id
         self.options = []
+        self.extra_info = extra_info
 
     def add_option(self, format, url):
         self.options.append(self.Web(format, url))
@@ -24,6 +25,9 @@
 
     def get_options(self):
         return self.options
+
+    def get_extra_info(self):
+        return self.extra_info
 
     def __str__(self):
         options_string = ""
@@ -44,7 +48,8 @@
             "logo": self.logo,
             "resolution": self.resolution,
             "epg_id": self.epg_id,
-            "options": self.__options_to_json__()
+            "options": self.__options_to_json__(),
+            "extra_info": self.extra_info
         }
 
     def to_m3u8(self, ambit_name, option):
