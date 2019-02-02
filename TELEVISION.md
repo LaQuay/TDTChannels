@@ -74,7 +74,7 @@
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Hit TV | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) | [web](http://www.hittv.es/) | 238p, 360p, 480p, 720p | [Logo](https://pbs.twimg.com/profile_images/679683716860477441/zWYv20t3_400x400.jpg) | - |
-| Deluxe Music | [m3u8](https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8) | [web](https://www.deluxemusic.tv/tv.html) | - | [Logo](http://graph.facebook.com/deluxe.music/picture?width=320&height=320) | - |
+| Deluxe Music | - | [web](https://www.deluxemusic.tv/tv.html) | - | [Logo](http://graph.facebook.com/deluxe.music/picture?width=320&height=320) | - |
 
 ## Autonómicos
 
@@ -349,12 +349,12 @@
 | Lancelot TV | [m3u8](http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8) | [web](http://www.lancelot.tv/directo) | - | [Logo](http://www.lancelot.tv/images/logo.png) | - |
 | Canal 4 Tenerife | [m3u8](https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8) | [web](http://www.canal4tenerife.tv/) | - | [Logo](http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png) | - |
 | Tindaya TV | [m3u8](https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live.smil/master.m3u8) | [web](https://www.tindayatv.com/) | - | [Logo](https://3.bp.blogspot.com/-Rq81jbqjWb4/WXifCezpqoI/AAAAAAAAwxc/RycTr3iKG50UqHjLXy1JzlZwLUikE1KQgCLcBGAs/s640/tindaya-tv-.png) | - |
-| Canal 4 TV | [m3u8](http://iphone-streaming.ustream.tv/uhls/22748750/streams/live/iphone/playlist.m3u8) | [web](https://canal4tvtelde.es/en-directo) | - | [Logo](https://canal4tvtelde.es/media/k2/categories/72.jpg) | - |
+| Canal 4 TV | - | [web](https://canal4tvtelde.es/en-directo) | - | [Logo](https://canal4tvtelde.es/media/k2/categories/72.jpg) | - |
 | Biosfera TV | - | [web](http://www.biosferatv.es/) | - | [Logo](http://www.biosferatv.es/gallery_gen/c8ad7ac64fa30f24cfb063f403bfe5d5_280x70.png) | - |
 | Este Canal TV | [m3u8](https://api.new.livestream.com/accounts/8817409/events/7051352/videos/185182785.secure.m3u8) | [web](https://livestream.com/estecanaltv/events/7051352) | - | [Logo](https://pbs.twimg.com/profile_images/1244322522/logo_estacanal.jpg) | - |
 | Canal 13 Digital | [m3u8](http://212.40.234.65/live/canal13/playlist.m3u8) | [web](https://rtvos5.wixsite.com/canal13) | - | [Logo](https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/canal-13-digital.png) | - |
 | Gigante TV | [m3u8](http://85.214.130.95:8080/live/stream.m3u8) | [web](http://gigantetv.es/) | - | [Logo](http://gigantetv.es/wp-content/uploads/2017/02/cropped-prueba-gigante2.jpg) | - |
-| Mi Tierra Televisión | [m3u8](https://5940924978228.streamlock.net:443/8171/8171/playlist.m3u8) | [web](http://www.mitierratelevision.com/directo/) | - | [Logo](http://www.mitierratelevision.com/wp-content/themes/mitierraTV/gfx/logoMT_sintexto.png) | - |
+| Mi Tierra Televisión | - | [web](http://www.mitierratelevision.com/directo/) | - | [Logo](http://www.mitierratelevision.com/wp-content/themes/mitierraTV/gfx/logoMT_sintexto.png) | - |
 | Televisión Mogán | [m3u8](https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w1059529458.m3u8) | [web](http://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | - | [Logo](https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/television-mogan.png) | - |
 | Fuerteventura TV | - | [web](https://www.fuerteventuratv.net/es/) | - | [Logo](https://www.fuerteventuratv.net/images/Fuerteventura.jpg) | - |
 | Canal 8 TIC | - | [web](http://www.canal8tic.es/) | - | [Logo](http://www.canal8tic.es/) | - |
@@ -376,7 +376,7 @@
 | Canal Diocesano Toledo | [m3u8](http://178.32.53.254/rtvd/livestream/playlist.m3u8) | [web](http://rtvd.org/) | - | [Logo](http://rtvd.org/wp-content/themes/tvdiocesana_undanet_theme/assets/img/canal-diocesano-logo.jpg) | - |
 | TV Almansa | [m3u8](http://emision2.tvalmansa.es/stream/_XsWLYw9tqSh6N2SUbWS0xHwpyYtxj.m3u8) | [web](https://zonacliente.almatelecom.es/videos/canalimagen) | - | [Logo](https://zonacliente.almatelecom.es/img/logotipoweb_almatelecom.png) | - |
 | Guada TV | - | [web](https://www.youtube.com/watch?v=6tWcUM-Zqm8) | - | [Logo](http://www.guadatv.tv/web/images/logo.gif) | - |
-| Ciudad Real TV | [m3u8](http://iphone-streaming.ustream.tv/uhls/17022458/streams/live/iphone/playlist.m3u8) | [web](http://www.ustream.tv/channel/17022458) | - | [Logo](http://static-cdn1.ustream.tv/i/channel/picture/1/7/0/2/17022458/17022458,192x192,r:3.jpg) | - |
+| Ciudad Real TV | - | [web](http://www.ustream.tv/channel/17022458) | - | [Logo](http://static-cdn1.ustream.tv/i/channel/picture/1/7/0/2/17022458/17022458,192x192,r:3.jpg) | - |
 | Visión 6 | [m3u8](https://secure.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | - | [Logo](http://www.visionseis.tv/wp-content/uploads/2016/05/logo-visionseis.png) | - |
 | Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/master.m3u8) | [web](http://villarrobledo.com/canal4.php) | 1080p | [Logo](http://bitllarrobledo.com/wp-content/uploads/2015/12/canal4.jpg) | - |
 | InfoCanal TV Almansa | [m3u8](http://emision2.tvalmansa.es/stream/e_-UsDQGh0-06PuVK0BVkKoNewQR8A.m3u8) | [web](https://zonacliente.almatelecom.es/videos/infocanal) | - | [Logo](https://almatelecom.es/wp-content/uploads/2017/10/logo-infocanal1.png) | - |
@@ -392,7 +392,7 @@
 | Telemedina Canal 9 | - | [web](http://www.telemedina.com/) | - | [Logo](http://www.lavozdemedinadigital.com/wordpress/wp-content/uploads/mosca.png) | - |
 | Canal 54 Burgos | [m3u8](https://videocdn.mixer.com/hls/26772748-fbe16d7faf66899dda002a4735213978_source/index.m3u8) | [web](http://www.canal54.es/emision-en-directo/) | - | [Logo](http://www.canal54.es/wp-content/uploads/Logotipo-Superior.png) | - |
 | TV Benavente | - | [web](http://www.tvbenavente.es/television-online/) | - | [Logo](https://pbs.twimg.com/profile_images/1896876073/tv_benavente-twitter-logo_400x400.jpg) | - |
-| Telearanda | [m3u8]() | [web](http://www.telearanda.es/) | - | [Logo](http://www.telearanda.es/imagenes/inicio.jpg) | - |
+| Telearanda | - | [web](http://www.telearanda.es/) | - | [Logo](http://www.telearanda.es/imagenes/inicio.jpg) | - |
 | ViveMiranda Televisión | - | [web](https://www.vivemiranda.com/television/) | - | [Logo](https://www.vivemiranda.com/wp-content/uploads/2015/03/logoT3_copia.png) | - |
 | Soria TV | - | [web](http://soriatv.com/) | - | [Logo](http://soriatv.com/wp-content/uploads/2015/11/logo-soria-tv.png) | - |
 | Bierzo TV | - | [web](https://www.bierzotv.com/) | - | [Logo](https://www.bierzotv.com/wp-content/uploads/2013/05/bierzotv-logo_200.png) | - |
@@ -515,10 +515,10 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Enlace TV | [m3u8](https://api.new.livestream.com/accounts/2675843/events/1839332/videos/186663669.secure.m3u8) | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 | Canal 1 TV Mar-Menor - Torre Pacheco | - | [web](https://www.canal1tv.es/) | - | [Logo](https://www.canal1tv.es/wp-content/uploads/logo-canal1tv.png) | - |
 | Comarcal TV | - | [web](https://comarcaltv.es/) | - | [Logo](https://comarcaltv.es/wp-content/uploads/2017/01/logo_web-1-1.png) | - |
 | RTV Vida | [m3u8](http://188.165.135.22/radiovida/livestream/master.m3u8) | [web](http://vidartv.com/index.php/ve-television-vida) | 720p | [Logo](http://graph.facebook.com/vidartv/picture?width=320&height=320) | - |
+| Enlace TV | [m3u8](https://api.new.livestream.com/accounts/2675843/events/1839332/videos/186663669.secure.m3u8) | [web](https://www.enlace.org/envivo/) | - | [Logo](http://enl2015.wpengine.com/wp-content/uploads/2015/09/enlace3.png) | - |
 
 ### Navarra
 
