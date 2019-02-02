@@ -74,7 +74,6 @@
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
 | Hit TV | [m3u8](http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8) | [web](http://www.hittv.es/) | 238p, 360p, 480p, 720p | [Logo](https://pbs.twimg.com/profile_images/679683716860477441/zWYv20t3_400x400.jpg) | - |
-| Deluxe Music | - | [web](https://www.deluxemusic.tv/tv.html) | - | [Logo](http://graph.facebook.com/deluxe.music/picture?width=320&height=320) | - |
 
 ## Autonómicos
 
@@ -617,6 +616,7 @@
 | DJing - Electro Rock | [m3u8](https://www.djing.com/tv/session_electro-rock.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
 | DJing - Animation | [m3u8](https://www.djing.com/tv/animation.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
 | TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | - | - | - |
+| Deluxe Music | - | [web](https://www.deluxemusic.tv/tv.html) | - | [Logo](http://graph.facebook.com/deluxe.music/picture?width=320&height=320) | - |
 
 ## Andorra
 
