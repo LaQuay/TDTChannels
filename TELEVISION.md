@@ -597,7 +597,7 @@
 | CBS News | [m3u8](http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | 180p, 360p, 540p, 720p | [Logo](http://graph.facebook.com/CBSNews/picture?width=320&height=320) | - |
 | CNN | - | [web](https://www.youtube.com/watch?v=OSVmblr0tP0) | - | [Logo](http://graph.facebook.com/CNNee/picture?width=320&height=320) | - |
 | Bloomberg Europe | [m3u8](https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8) | [web](https://www.bloomberg.com/live/europe) | 180p, 270p, 360p, 720p | [Logo](http://graph.facebook.com/bloombergbusiness/picture?width=320&height=320) | - |
-| RT | - | [web](https://www.youtube.com/watch?v=JqY92qg_yPs) | - | [Logo](http://graph.facebook.com/ActualidadRT/picture?width=320&height=320) | - |
+| RT | - | [web](https://actualidad.rt.com/en_vivo) | - | [Logo](http://graph.facebook.com/ActualidadRT/picture?width=320&height=320) | - |
 | DW | [m3u8](https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) | [web](https://www.dw.com/es/multimedia/tv-en-vivo/s-100837) | 224p, 360p, 400p | [Logo](http://graph.facebook.com/dw.espanol/picture?width=320&height=320) | - |
 | CGTN | [m3u8](https://livees.cgtn.com/1000e/prog_index.m3u8) | [web](https://www.cgtn.com/) | - | [Logo](http://graph.facebook.com/cgtnenespanol/picture?width=320&height=320) | - |
 | NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public) | - | [Logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - |
@@ -607,7 +607,7 @@
 | Animal Planet Live | - | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) | - | [Logo](http://graph.facebook.com/AnimalPlanet/picture?width=320&height=320) | - |
 | Sony Movie Channel | [m3u8](https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8) | - | 240p, 480p, 720p, 1080p | [Logo](https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest/scale-to-width-down/320) | - |
 | XITE | [m3u8](http://highvolume03.streampartner.nl/vleugels_hd6/livestream/master.m3u8) | [web](https://xite.nl/live) | 720p | [Logo](https://xite.nl/img/xite_logo.png) | - |
-| Hispan TV | - | [web](https://www.youtube.com/c/hispantv/live) | - | [Logo](https://lagazzettadf.com/wp-content/uploads/2014/10/hispan_tv.png) | - |
+| Hispan TV | [m3u8](https://5a61de8ed719d.streamlock.net/live/smil:live.smil/master.m3u8) | [web](https://www.hispantv.com/directo) | 240p, 360p | [Logo](https://lagazzettadf.com/wp-content/uploads/2014/10/hispan_tv.png) | - |
 | M2O | [m3u8](http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | 224p, 360p | [Logo](https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o.png) | - |
 | DJing - Live | [m3u8](https://www.djing.com/tv/live.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
 | DJing - Karaoke | [m3u8](https://www.djing.com/tv/karaoke.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
@@ -622,5 +622,5 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID |
 | - | - | - | - | - | - |
-| ATV | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/atv) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
-| Canal Web (ATV) | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/canalweb) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
+| ATV | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/atv) | 720p | [logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
+| Canal Web (ATV) | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/canalweb) | 720p | [logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
