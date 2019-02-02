@@ -30,5 +30,18 @@ class Ambito:
     def to_m3u8(self):
         return self.__channels_to_m3u8__()
 
+    def __channels_to_enigma2__(self):
+        channels_list = ""
+        counter = 3
+        for channel in self.channels:
+            for option in channel.get_options():
+                if option.is_m3u8_valid():
+                    channels_list += channel.to_enigma2(option, counter)
+                    counter += 2
+        return channels_list
+
+    def to_enigma2(self):
+        return self.__channels_to_enigma2__()
+
     def __str__(self):
         return self.name

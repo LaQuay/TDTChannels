@@ -20,14 +20,12 @@ def stringbetweenparantheses(text):
 
 
 def get_channels_from_part(text):
-    line_where_first_channel_starts = 15
-    attributes_per_item = 6
-    channel_list = []
-    list_to_iterate = text.split("|")[line_where_first_channel_starts:]
+    line_where_first_channel_starts = 17
+    attributes_per_item = 7
+    list_to_iterate = text.split("|")[line_where_first_channel_starts:-1]
     while "\n" in list_to_iterate:
         list_to_iterate.remove("\n")
-    while "\n\n" in list_to_iterate:
-        list_to_iterate.remove("\n\n")
+    channel_list = []
     for i in range(0, len(list_to_iterate), attributes_per_item):
         item_name = list_to_iterate[i].strip()
 
@@ -53,9 +51,12 @@ def get_channels_from_part(text):
         if len(item_epg) == 1:
             item_epg = ""
 
-        item_options = item_options.split(" - ")
+        item_extra_info = list_to_iterate[i + 6].strip()
+        if len(item_extra_info) == 1:
+            item_extra_info = ""
 
-        channel = Channel(item_name, item_web, item_resolution, item_logo, item_epg)
+        channel = Channel(item_name, item_web, item_resolution, item_logo, item_epg, item_extra_info)
+        item_options = item_options.split(" - ")
         if len(item_options) > 0 and item_options[0] != "-":
             for option in item_options:
                 format = (option[1:5]).replace("]", "")
