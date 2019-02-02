@@ -3,8 +3,10 @@ A continuación se indica lo que deben cumplir los aportes hacia este repositori
 ### Enlaces
 
 - Obligatoria obtención a través de la plataforma oficial del emisor.
-- En la medida de lo posible, añadir la información que se conozca. Web, Formato, Resolución (Si es de TV), Logo ... .
 - Únicamente se recoje información externa, no se permite subir contenidos al repositorio.
+- Añadir la información que se conozca. 
+  - Web, Formato, Resolución (Si es de TV), Logo ... .
+- Si es posible, el m3u8 indicado para el canal debería ser "master.m3u8" o "playlist.m3u8".
 
 #### Resolución
 - Puede ser comprobada con el reproductor que tenemos [aquí](http://marcvila.me/tdt/)
