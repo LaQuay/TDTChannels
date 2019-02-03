@@ -174,6 +174,24 @@ function checkIfWebsiteWorks(sUrl){
     });
 }
 
+function filterChannelsList() {
+    var input, filter, div, li, a, i, txtValue;
+
+    input = document.getElementById("searchInput");
+    filter = input.value.toUpperCase();
+    div = document.getElementById("channel-list");
+    elements = div.getElementsByTagName("a");
+
+    for (i = 0; i < elements.length; i++) {
+        txtValue = elements[i].textContent || elements[i].innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            elements[i].style.display = "";
+        } else {
+            elements[i].style.display = "none";
+        }
+    }
+}
+
 function onChannelClick(channel){
     channel = JSON.parse(channel);
     reproduceVideo(channel['options'][0]['url'])

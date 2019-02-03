@@ -30,7 +30,9 @@
        target="_blank">LinkedIn</a>
     <div class="row" style="margin-top: 40px;">
         <div class="col-xs-4 col-md-4">
-            <div class="list-group channels-list"></div>
+            <input id="searchInput" class="form-control" type="text" onkeyup="filterChannelsList()"
+                   placeholder="Search..." style="margin-bottom: 1px">
+            <div id="channel-list" class="list-group channels-list"></div>
         </div>
         <div class="col-xs-8 col-md-8">
             <div id="video">
