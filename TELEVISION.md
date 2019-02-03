@@ -54,7 +54,7 @@
 | TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | 270p, 360p, 576p, 720p | [logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDEP ASTRA HD 1.sp | - |
 | GOL | - | [web](http://www.goltelevision.com/live) | - | [logo](http://graph.facebook.com/goltv.es/picture?width=320&height=320) | GOL TDT SD 2.sp | - |
 | RealMadrid TV | [m3u8 # Español](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | 180p, 360p, 404p | [logo](http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320) | REALM ASTRA SD 1.sp | - |
-| Barça TV | - | - | - | [logo](http://graph.facebook.com/fcbarcelona/picture?width=320&height=320) | BARNA ASTRA SD 1.sp | - |
+| Barça TV | - | [web](https://barcatv.fcbarcelona.es/) | - | [logo](http://graph.facebook.com/fcbarcelona/picture?width=320&height=320) | BARNA ASTRA SD 1.sp | - |
 | Betis TV | [m3u8](https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | - | [logo](http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320) | - | - |
 | Sevilla TV | [m3u8](http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8) | [web](http://live.sevillafc.es/) | 180p, 360p | [logo](http://graph.facebook.com/sevillafc/picture?width=320&height=320) | - | - |
 | UD Las Palmas | [m3u8](https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtvlive) | 720p | [logo](http://graph.facebook.com/udlaspalmasoficial/picture?width=320&height=320) | - | - |
@@ -621,5 +621,5 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID | Info |
 | - | - | - | - | - | - | - |
-| ATV | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/atv) | - | [logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - | - |
-| Canal Web (ATV) | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/canalweb) | - | [logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - | - |
+| ATV | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/atv) | 720p | [logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - | - |
+| Canal Web (ATV) | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/canalweb) | 720p | [logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - | - |
