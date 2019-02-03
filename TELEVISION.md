@@ -36,7 +36,7 @@
 | Ten | - | [web](http://tentv.es/) | - | [logo](http://graph.facebook.com/televisionten/picture?width=320&height=320) | TEN TDT SD 1.sp | - |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | - | [logo](http://graph.facebook.com/DMAXes/picture?width=320&height=320) | DMAX.sp | - |
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | - | [logo](http://graph.facebook.com/DKissTV/picture?width=320&height=320) | DKISS TDT SD 1.sp | - |
-| Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) | [web](http://www.intereconomia.tv/) | - | [logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | Interecconomia.sp | - |
+| Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) | [web](http://www.intereconomia.tv/) | - | [logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | Intereconomia.sp | - |
 
 ## Informativos
 
