@@ -3,7 +3,7 @@
 }
 
 .list-group{
-    max-height: 70%;
+    max-height: 70vh;
     overflow: scroll;
     overflow-x: hidden;
     -webkit-overflow-scrolling: touch;
