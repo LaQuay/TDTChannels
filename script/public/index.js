@@ -195,6 +195,10 @@ function filterChannelsList() {
 function onChannelClick(channel){
     channel = JSON.parse(channel);
     reproduceVideo(channel['options'][0]['url'])
+
+    if (document.getElementById("container").offsetWidth < 720) {
+        document.getElementById("video").scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
+    }
 }
 
 function loadChannelsInList() {
