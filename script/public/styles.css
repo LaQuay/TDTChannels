@@ -1,3 +1,10 @@
 .container[data-container] {
   max-width: 100% !important;
 }
+
+.list-group{
+    max-height: 70%;
+    overflow: scroll;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+}
