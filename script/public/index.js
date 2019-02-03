@@ -176,7 +176,6 @@ function checkIfWebsiteWorks(sUrl){
 
 function onChannelClick(channel){
     channel = JSON.parse(channel);
-    console.log(channel)
     reproduceVideo(channel['options'][0]['url'])
 }
 
