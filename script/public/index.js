@@ -196,12 +196,13 @@ function onChannelClick(channel){
     channel = JSON.parse(channel);
     reproduceVideo(channel['options'][0]['url'])
 
-    console.log(document.getElementById("container").offsetWidth)
+    console.log("Container: " + document.getElementById("container").offsetWidth)
+    console.log("Screen: " + $(window).width());
 
-    document.getElementById("searchInput").placeholder = document.getElementById("container").offsetWidth
+    document.getElementById("testh1").innerText = document.getElementById("container").offsetWidth
 
     if (document.getElementById("container").offsetWidth < 720) {
-        //document.getElementById("video").scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
+        document.getElementById("video").scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
     }
 }
 
