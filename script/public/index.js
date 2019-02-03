@@ -1,3 +1,116 @@
+// Se espera en la URL este tipo de llamada .html?type={audio,video}&channel={url_a_reproducir}
+function loadItem(from) {
+    var value;
+    if (from == "audio") {
+        value = document.getElementById("input-reproduccion-audio").value;
+        reproduceAudio(value);
+    } else if (from == "video") {
+        value = document.getElementById("input-reproduccion-video").value;
+        reproduceVideo(value);
+    }
+}
+
+function reproduceVideo(channelToReproduce) {
+    console.log("Reproducing video: " + channelToReproduce);
+    if (channelToReproduce.includes("m3u8")) {
+        var divInfo = document.getElementById("video-player").childElementCount;
+        if (divInfo == 0) {
+            player = new Clappr.Player({
+                source: channelToReproduce,
+                parentId: '#video-player',
+                height: '500px',
+                width: '100%',
+                autoPlay: true,
+            });
+        } else {
+            // Assume player instance is already created
+            player.configure({
+              source: channelToReproduce,
+            });
+        }
+        clearResolutions();
+        getResolution(channelToReproduce, updateResolution);
+    }
+
+    ga('send', {
+      hitType: 'event',
+      eventCategory: 'Video',
+      eventAction: 'play',
+      eventLabel: channelToReproduce
+    });
+}
+
+function reproduceAudio(channelToReproduce) {
+    if (channelToReproduce.includes("pls")) {
+        getURLsFromPLS(channelToReproduce, reproducePLSFromUrl);
+    } else {
+        reproduceAudioFromUrl(channelToReproduce);
+    }
+}
+
+function reproduceAudioFromUrl(channelToReproduce) {
+    console.log("Reproducing audio: " + channelToReproduce);
+    var audioSource = document.getElementById('audio-controller');
+    var audioPlayer = document.getElementById('audio-player');
+
+    audioPlayer.src = channelToReproduce;
+    audioSource.load();
+    audioSource.pause();
+
+    var playPromise = audioSource.play();
+    if (playPromise !== undefined) {
+      playPromise.then(function() {
+        // Automatic playback started!
+      }).catch(function(error) {
+        // Automatic playback failed.
+        // Show a UI element to let the user manually start playback.
+      });
+    }
+
+    ga('send', {
+      hitType: 'event',
+      eventCategory: 'Audio',
+      eventAction: 'play',
+      eventLabel: channelToReproduce
+    });
+}
+
+function reproducePLSFromUrl(data) {
+    reproduceAudioFromUrl(data[0]);
+    updateExtraAudioInfo("pls_more_url_available", data);
+}
+
+function updateResolution(resolutions) {
+    console.log("Resoluciones: " + resolutions);
+
+    for (i = 0; i < resolutions.length; i++) {
+        var resolutionToAdd = resolutions[i];
+        if (i < resolutions.length - 1){
+            resolutionToAdd += ", ";
+        }
+        document.getElementById("video-resolution").innerHTML += resolutionToAdd;
+    }
+}
+
+function clearResolutions() {
+    document.getElementById("video-resolution").innerHTML = "";
+}
+
+function updateExtraAudioInfo(type, data) {
+    console.log("Extra info type: " + type);
+    console.log("Extra info data: " + data);
+
+    var textToAdd = "";
+    if (type == "pls_more_url_available") {
+        for (i = 0; i < data.length; i++) {
+            textToAdd += data[i] + "<br>";
+        }
+    }
+
+    document.getElementById("extra-audio-info").innerHTML = textToAdd;
+    document.getElementById("extra-audio-info-div").style.display = "block";
+}
+
 function getURLsFromPLS(sUrl, fn_callback) {
     $.get(sUrl, function(data) {
         $response = data.split("\n");
@@ -54,9 +167,35 @@ function getUrlParameter(sParam) {
 };
 
 // Check an URL is valid or broken
-// TODO: For streams if it works it keeps loading infinite time
+// FIXME: For streams if it works it keeps loading infinite time
 function checkIfWebsiteWorks(sUrl){
     $.get(sUrl, function(data, status){
         alert("Data: " + data + "\nStatus: " + status);
     });
+}
+
+function onChannelClick(channel){
+    channel = JSON.parse(channel);
+    console.log(channel)
+    reproduceVideo(channel['options'][0]['url'])
+}
+
+function loadChannelsInList() {
+    fetch('http://91.121.64.179/tdt_project/output/channels.json')
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(myJson) {
+        console.log(myJson);
+        nacionales = myJson[1];
+
+        var items = [];
+        $.each(nacionales["ambits"], function( ambit, ambit_val ) {
+            $.each(ambit_val["channels"], function( key, val ) {
+                items.push("<a href='javascript:onChannelClick("+ JSON.stringify(JSON.stringify(val)) + ")' class='list-group-item list-group-item-action'>" + val["name"] + "</a>")
+            });
+        });
+
+        $(items.join( "" )).appendTo(".channels-list");
+      });
 }
