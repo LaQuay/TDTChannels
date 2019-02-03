@@ -196,10 +196,7 @@ function onChannelClick(channel){
     channel = JSON.parse(channel);
     reproduceVideo(channel['options'][0]['url'])
 
-    console.log("Container: " + document.getElementById("container").offsetWidth)
-    console.log("Screen: " + $(window).width());
-
-    document.getElementById("testh1").innerText = document.getElementById("container").offsetWidth
+    //document.getElementById("titleh1").innerText = document.getElementById("container").offsetWidth
 
     if (document.getElementById("container").offsetWidth < 720) {
         document.getElementById("video").scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
