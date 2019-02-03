@@ -35,7 +35,7 @@
 | TRECE | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo) | - | [logo](http://graph.facebook.com/TRECEtves/picture?width=320&height=320) | 13TV TDT SD 1.sp | - |
 | Ten | - | [web](http://tentv.es/) | - | [logo](http://graph.facebook.com/televisionten/picture?width=320&height=320) | TEN TDT SD 1.sp | - |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | - | [logo](http://graph.facebook.com/DMAXes/picture?width=320&height=320) | DMAX.sp | - |
-| DKISS | - | [web](https://es.dplay.com/dkiss/) | - | [logo](http://graph.facebook.com/DKissTV/picture?width=320&height=320) | DKISS TDT SD 1.sp | - |
+| DKISS | [m3u8](http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8) | [web](https://es.dplay.com/dkiss/) | - | [logo](http://graph.facebook.com/DKissTV/picture?width=320&height=320) | DKISS TDT SD 1.sp | - |
 | Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) | [web](http://www.intereconomia.tv/) | - | [logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | Intereconomia.sp | - |
 
 ## Informativos
