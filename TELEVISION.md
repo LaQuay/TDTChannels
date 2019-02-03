@@ -576,51 +576,51 @@
 
 ## Internacionales
 
-| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Antena 3 Internacional | - | - | - | [Logo](http://graph.facebook.com/antena3/picture?width=320&height=320) | - |
-| Atreseries Internacional | - | - | - | [Logo](http://graph.facebook.com/atreseries/picture?width=320&height=320) | - |
-| Atrescine | - | - | - | [Logo](http://graph.facebook.com/atrescine/picture?width=320&height=320) | - |
-| Cincomas | - | - | - | [Logo](http://graph.facebook.com/CincoMasTV/picture?width=320&height=320) | - |
-| ¡Hola! TV | - | - | - | [Logo](http://graph.facebook.com/HolaTvAmerica/picture?width=320&height=320) | - |
-| TVE Internacional | - | - | - | [Logo](http://graph.facebook.com/tveInternacional/picture?width=320&height=320) | - |
-| star TVE | - | - | - | [Logo](http://graph.facebook.com/tveInternacional/picture?width=320&height=320) | - |
-| TV3CAT | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) | [web](https://www.ccma.cat/tv3/directe/tv3cat/) | 180p, 360p | [Logo](http://graph.facebook.com/tv3/picture?width=320&height=320) | - |
-| Travel TV | [m3u8](http://194.179.53.124:8080/hls/traveltv/1_2/index.m3u8) | [web](http://www.traveltve.com/) | - | [Logo](http://www.traveltve.com/wp-content/uploads/2015/04/logo.png) | - |
-| Vaughan TV | - | [web](https://grupovaughan.com/vaughan-tv/) | - | [Logo](http://graph.facebook.com/GrupoVaughan/picture?width=320&height=320) | - |
-| Miami TV España | [m3u8](https://59ec5453559f0.streamlock.net/miamitvspain/smil:miamitvspain/master.m3u8) | [web](https://miamitvhd.com/) | 360p, 720p | [Logo](http://graph.facebook.com/miamitv/picture?width=320&height=320) | - |
-| Venezolana de Televisión | [m3u8](https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/master.m3u8) | [web](http://vtv.gob.ve/en-vivo/) | 360p | [Logo](http://graph.facebook.com/VTVtuCanal/picture?width=320&height=320) | - |
-| franceinfo: | - | [web](https://www.francetvinfo.fr/en-direct/tv.html) | - | [Logo](http://graph.facebook.com/franceinfo/picture?width=320&height=320) | - |
-| Euronews | - | [web](https://es.euronews.com/live) | - | [Logo](http://graph.facebook.com/es.euronews/picture?width=320&height=320) | - |
-| ABC News | [m3u8](http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8) | [web](https://abcnews.go.com/Live/) | 216p, 288p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/ABCNews/picture?width=320&height=320) | - |
-| France 24 | [m3u8](http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) | [web](https://www.france24.com/en/live) | 576p | [Logo](http://graph.facebook.com/FRANCE24/picture?width=320&height=320) | - |
-| CBS News | [m3u8](http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | 180p, 360p, 540p, 720p | [Logo](http://graph.facebook.com/CBSNews/picture?width=320&height=320) | - |
-| CNN | - | [web](https://www.youtube.com/watch?v=OSVmblr0tP0) | - | [Logo](http://graph.facebook.com/CNNee/picture?width=320&height=320) | - |
-| Bloomberg Europe | [m3u8](https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8) | [web](https://www.bloomberg.com/live/europe) | 180p, 270p, 360p, 720p | [Logo](http://graph.facebook.com/bloombergbusiness/picture?width=320&height=320) | - |
-| RT | - | [web](https://actualidad.rt.com/en_vivo) | - | [Logo](http://graph.facebook.com/ActualidadRT/picture?width=320&height=320) | - |
-| DW | [m3u8](https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) | [web](https://www.dw.com/es/multimedia/tv-en-vivo/s-100837) | 224p, 360p, 400p | [Logo](http://graph.facebook.com/dw.espanol/picture?width=320&height=320) | - |
-| CGTN | [m3u8](https://livees.cgtn.com/1000e/prog_index.m3u8) | [web](https://www.cgtn.com/) | - | [Logo](http://graph.facebook.com/cgtnenespanol/picture?width=320&height=320) | - |
-| NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public) | - | [Logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - |
-| NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#media) | - | [Logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - |
-| NASA TV - ISS Views | [m3u8](http\//iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8) | [web](http://www.ustream.tv/channel/live-iss-stream) | - | [Logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - |
-| NASA TV - HD ISS Views | - | [web](https://www.nasa.gov/multimedia/nasatv/#iss) | - | [Logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - |
-| Animal Planet Live | - | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) | - | [Logo](http://graph.facebook.com/AnimalPlanet/picture?width=320&height=320) | - |
-| Sony Movie Channel | [m3u8](https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8) | - | 240p, 480p, 720p, 1080p | [Logo](https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest/scale-to-width-down/320) | - |
-| XITE | [m3u8](http://highvolume03.streampartner.nl/vleugels_hd6/livestream/master.m3u8) | [web](https://xite.nl/live) | 720p | [Logo](https://xite.nl/img/xite_logo.png) | - |
-| Hispan TV | [m3u8](https://5a61de8ed719d.streamlock.net/live/smil:live.smil/master.m3u8) | [web](https://www.hispantv.com/directo) | 240p, 360p | [Logo](https://lagazzettadf.com/wp-content/uploads/2014/10/hispan_tv.png) | - |
-| M2O | [m3u8](http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | 224p, 360p | [Logo](https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o.png) | - |
-| DJing - Live | [m3u8](https://www.djing.com/tv/live.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
-| DJing - Karaoke | [m3u8](https://www.djing.com/tv/karaoke.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
-| DJing - Hits | [m3u8](https://www.djing.com/tv/hits.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
-| DJing - Dancefloor | [m3u8](https://www.djing.com/tv/dancefloor.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
-| DJing - Underground | [m3u8](https://www.djing.com/tv/underground.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
-| DJing - Electro Rock | [m3u8](https://www.djing.com/tv/session_electro-rock.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
-| DJing - Animation | [m3u8](https://www.djing.com/tv/animation.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - |
-| TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | - | - | - |
+| Canal | M3U8 | Web | Resolución | Logo | EPG ID | Info |
+| - | - | - | - | - | - | - |
+| Antena 3 Internacional | - | - | - | [Logo](http://graph.facebook.com/antena3/picture?width=320&height=320) | - | - |
+| Atreseries Internacional | - | - | - | [Logo](http://graph.facebook.com/atreseries/picture?width=320&height=320) | - | - |
+| Atrescine | - | - | - | [Logo](http://graph.facebook.com/atrescine/picture?width=320&height=320) | - | - |
+| Cincomas | - | - | - | [Logo](http://graph.facebook.com/CincoMasTV/picture?width=320&height=320) | - | - |
+| ¡Hola! TV | - | - | - | [Logo](http://graph.facebook.com/HolaTvAmerica/picture?width=320&height=320) | - | - |
+| TVE Internacional | - | - | - | [Logo](http://graph.facebook.com/tveInternacional/picture?width=320&height=320) | - | - |
+| star TVE | - | - | - | [Logo](http://graph.facebook.com/tveInternacional/picture?width=320&height=320) | - | - |
+| TV3CAT | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) | [web](https://www.ccma.cat/tv3/directe/tv3cat/) | 180p, 360p | [Logo](http://graph.facebook.com/tv3/picture?width=320&height=320) | - | - |
+| Travel TV | [m3u8](http://194.179.53.124:8080/hls/traveltv/1_2/index.m3u8) | [web](http://www.traveltve.com/) | - | [Logo](http://www.traveltve.com/wp-content/uploads/2015/04/logo.png) | - | - |
+| Vaughan TV | - | [web](https://grupovaughan.com/vaughan-tv/) | - | [Logo](http://graph.facebook.com/GrupoVaughan/picture?width=320&height=320) | - | - |
+| Miami TV España | [m3u8](https://59ec5453559f0.streamlock.net/miamitvspain/smil:miamitvspain/master.m3u8) | [web](https://miamitvhd.com/) | 360p, 720p | [Logo](http://graph.facebook.com/miamitv/picture?width=320&height=320) | - | - |
+| Venezolana de Televisión | [m3u8](https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/master.m3u8) | [web](http://vtv.gob.ve/en-vivo/) | 360p | [Logo](http://graph.facebook.com/VTVtuCanal/picture?width=320&height=320) | - | - |
+| franceinfo: | - | [web](https://www.francetvinfo.fr/en-direct/tv.html) | - | [Logo](http://graph.facebook.com/franceinfo/picture?width=320&height=320) | - | - |
+| Euronews | - | [web](https://es.euronews.com/live) | - | [Logo](http://graph.facebook.com/es.euronews/picture?width=320&height=320) | - | - |
+| ABC News | [m3u8](http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8) | [web](https://abcnews.go.com/Live/) | 216p, 288p, 404p, 720p, 1080p | [Logo](http://graph.facebook.com/ABCNews/picture?width=320&height=320) | - | - |
+| France 24 | [m3u8](http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) | [web](https://www.france24.com/en/live) | 576p | [Logo](http://graph.facebook.com/FRANCE24/picture?width=320&height=320) | - | - |
+| CBS News | [m3u8](http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | 180p, 360p, 540p, 720p | [Logo](http://graph.facebook.com/CBSNews/picture?width=320&height=320) | - | - |
+| CNN | - | [web](https://www.youtube.com/watch?v=OSVmblr0tP0) | - | [Logo](http://graph.facebook.com/CNNee/picture?width=320&height=320) | - | - |
+| Bloomberg Europe | [m3u8](https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8) | [web](https://www.bloomberg.com/live/europe) | 180p, 270p, 360p, 720p | [Logo](http://graph.facebook.com/bloombergbusiness/picture?width=320&height=320) | - | - |
+| RT | - | [web](https://actualidad.rt.com/en_vivo) | - | [Logo](http://graph.facebook.com/ActualidadRT/picture?width=320&height=320) | - | - |
+| DW | [m3u8](https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) | [web](https://www.dw.com/es/multimedia/tv-en-vivo/s-100837) | 224p, 360p, 400p | [Logo](http://graph.facebook.com/dw.espanol/picture?width=320&height=320) | - | - |
+| CGTN | [m3u8](https://livees.cgtn.com/1000e/prog_index.m3u8) | [web](https://www.cgtn.com/) | - | [Logo](http://graph.facebook.com/cgtnenespanol/picture?width=320&height=320) | - | - |
+| NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public) | - | [Logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
+| NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#media) | - | [Logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
+| NASA TV - ISS Views | [m3u8](http\//iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8) | [web](http://www.ustream.tv/channel/live-iss-stream) | - | [Logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
+| NASA TV - HD ISS Views | - | [web](https://www.nasa.gov/multimedia/nasatv/#iss) | - | [Logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
+| Animal Planet Live | - | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) | - | [Logo](http://graph.facebook.com/AnimalPlanet/picture?width=320&height=320) | - | - |
+| Sony Movie Channel | [m3u8](https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8) | - | 240p, 480p, 720p, 1080p | [Logo](https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest/scale-to-width-down/320) | - | - |
+| XITE | [m3u8](http://highvolume03.streampartner.nl/vleugels_hd6/livestream/master.m3u8) | [web](https://xite.nl/live) | 720p | [Logo](https://xite.nl/img/xite_logo.png) | - | - |
+| Hispan TV | [m3u8](https://5a61de8ed719d.streamlock.net/live/smil:live.smil/master.m3u8) | [web](https://www.hispantv.com/directo) | 240p, 360p | [Logo](https://lagazzettadf.com/wp-content/uploads/2014/10/hispan_tv.png) | - | - |
+| M2O | [m3u8](http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | 224p, 360p | [Logo](https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o.png) | - | - |
+| DJing - Live | [m3u8](https://www.djing.com/tv/live.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - | - |
+| DJing - Karaoke | [m3u8](https://www.djing.com/tv/karaoke.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - | - |
+| DJing - Hits | [m3u8](https://www.djing.com/tv/hits.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - | - |
+| DJing - Dancefloor | [m3u8](https://www.djing.com/tv/dancefloor.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - | - |
+| DJing - Underground | [m3u8](https://www.djing.com/tv/underground.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - | - |
+| DJing - Electro Rock | [m3u8](https://www.djing.com/tv/session_electro-rock.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - | - |
+| DJing - Animation | [m3u8](https://www.djing.com/tv/animation.m3u8) | [web](https://www.djing.com) | - | [Logo](https://djing.com/newimages/content/c01.jpg) | - | - |
+| TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | - | - | - | - |
 
 ## Andorra
 
-| Canal | M3U8 | Web | Resolución | Logo | EPG ID |
-| - | - | - | - | - | - |
-| ATV | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/atv) | 720p | [logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
-| Canal Web (ATV) | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/canalweb) | 720p | [logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
+| Canal | M3U8 | Web | Resolución | Logo | EPG ID | Info |
+| - | - | - | - | - | - | - |
+| ATV | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/atv) | 720p | [logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - | - |
+| Canal Web (ATV) | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/canalweb) | 720p | [logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - | - |
