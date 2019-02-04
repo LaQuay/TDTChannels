@@ -49,4 +49,6 @@ Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o a
 ### Agradecimientos
 [AUTHORS](https://github.com/LaQuay/TDTChannels/blob/master/AUTHORS.md)
 
+[tododream](https://tododream.com/) - Por la información del EPG.
+
 Y a todos aquellos que han colaborado, ya sea reportando un fallo o aportando enlaces!
