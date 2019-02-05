@@ -2,7 +2,7 @@
 - Marc Vila [@LaQuay](https://github.com/LaQuay)
 
 #### Team
-- Antonio [@patnbueno](https://github.com/atnbueno)
+- Antonio [@atnbueno](https://github.com/atnbueno)
 - HelmerLuzo [@HelmerLuzo](https://github.com/HelmerLuzo)
 - Pau [@playzzz](https://github.com/playzzz)
 
