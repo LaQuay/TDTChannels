@@ -34,8 +34,6 @@
 | GH Dúo 24h | - | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) - [web # 3](https://www.youtube.com/watch?v=cHtKunPYuhg) | - | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
 | playz | - | [web](http://www.rtve.es/playz/directo/) | - | [logo](http://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
 | Webcame RNE | - | [web](http://www.rtve.es/radio/directo/) | - | [logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
-| +tdp | - | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | - | [logo](http://graph.facebook.com/teledeporte/picture?width=320&height=320) | - | - |
-| +24 | - | [web](http://www.rtve.es/noticias/mas-24/) | - | [logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | - | - |
 | Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/playlist.m3u8) | [web](http://www.paramountnetwork.es/programacion/en-directo) | - | [logo](http://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320) | PARCH ASTRA SD 1.sp | - |
 | TRECE | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo) | - | [logo](http://graph.facebook.com/TRECEtves/picture?width=320&height=320) | 13TV TDT SD 1.sp | - |
 | Ten | - | [web](http://tentv.es/) | - | [logo](http://graph.facebook.com/televisionten/picture?width=320&height=320) | TEN TDT SD 1.sp | - |
@@ -48,6 +46,7 @@
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID | Info |
 | - | - | - | - | - | - | - |
 | 24h | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8) | [web](http://www.rtve.es/directo/canal-24h/) | 270p, 360p, 576p | [logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | 24H ASTRA SD 1.sp | - |
+| +24 | - | [web](http://www.rtve.es/noticias/mas-24/) | - | [logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | - | - |
 | Canal Parlamento | [m3u8](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8) | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) | - | [logo](https://yt3.ggpht.com/a-/AAuE7mACmvgDvj5xdVeMXQI9kQSmU0A2Zw5nJEjR8A=s320) | Parlamento.sp | - |
 | EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) | [web](https://www.europapress.tv/) | - | [logo](http://graph.facebook.com/europapress.es/picture?width=320&height=320) | - | - |
 
@@ -57,6 +56,7 @@
 | - | - | - | - | - | - | - |
 | TDP | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39733/master.m3u8) | [web](http://www.rtve.es/directo/teledeporte/) | 270p, 360p, 576p | [logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDEP ASTRA SD 1.sp | - |
 | TDP HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | 270p, 360p, 576p, 720p | [logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDEP ASTRA HD 1.sp | - |
+| +tdp | - | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | - | [logo](http://graph.facebook.com/teledeporte/picture?width=320&height=320) | - | - |
 | GOL | - | [web](http://www.goltelevision.com/live) | - | [logo](http://graph.facebook.com/goltv.es/picture?width=320&height=320) | GOL TDT SD 2.sp | - |
 | RealMadrid TV | [m3u8 # Español](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | 180p, 360p, 404p | [logo](http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320) | REALM ASTRA SD 1.sp | - |
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es/) | - | [logo](http://graph.facebook.com/fcbarcelona/picture?width=320&height=320) | BARNA ASTRA SD 1.sp | - |
