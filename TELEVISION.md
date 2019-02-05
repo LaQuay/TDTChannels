@@ -34,7 +34,7 @@
 | GH Dúo 24h | - | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) - [web # 3](https://www.youtube.com/watch?v=cHtKunPYuhg) | - | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
 | playz | - | [web](http://www.rtve.es/playz/directo/) | - | [logo](http://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
 | Webcame RNE | - | [web](http://www.rtve.es/radio/directo/) | - | [logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
-| Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/playlist.m3u8) | [web](http://www.paramountnetwork.es/programacion/en-directo) | - | [logo](http://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320) | PARCH ASTRA SD 1.sp | - |
+| Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/chunks.m3u8) | [web](http://www.paramountnetwork.es/programacion/en-directo) | - | [logo](http://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320) | PARCH ASTRA SD 1.sp | - |
 | TRECE | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo) | - | [logo](http://graph.facebook.com/TRECEtves/picture?width=320&height=320) | 13TV TDT SD 1.sp | - |
 | Ten | - | [web](http://tentv.es/) | - | [logo](http://graph.facebook.com/televisionten/picture?width=320&height=320) | TEN TDT SD 1.sp | - |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | - | [logo](http://graph.facebook.com/DMAXes/picture?width=320&height=320) | DMAX.sp | - |
