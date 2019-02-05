@@ -86,13 +86,13 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID | Info |
 | - | - | - | - | - | - | - |
-| Canal Sur TV | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0) | 480p, 720p | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | ANTV ASTRA SD 1.sp | - |
-| Canal Andalucia Turismo | [m3u8](https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8) | [web](http://canalandaluciaturismo.es/) | 720p | [logo](https://i0.wp.com/staging.blogs.canalsur.es/saladeprensa/files/Canal-Andalucia-Turismo-RGB-FULL.jpg?resize=320,40) | - | - |
+| Canal Sur TV HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0) | 480p, 720p | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | ANTV ASTRA SD 1.sp | - |
+| Canal Andalucia Turismo HD | [m3u8](https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8) | [web](http://canalandaluciaturismo.es/) | 720p | [logo](https://i0.wp.com/staging.blogs.canalsur.es/saladeprensa/files/Canal-Andalucia-Turismo-RGB-FULL.jpg?resize=320,40) | - | - |
 | Canal Andalucia Flamenco | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/) | 480p | [logo](https://yt3.ggpht.com/a-/AAuE7mDSAjWne5aUccbvvx1b0xlU0flXUvfqso8TLg=s320) | - | - |
 | Canal Andalucia Cocina | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/) | 480p | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
 | Canal Sur La Banda | [m3u8](https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8) | [web](http://labanda.canalsur.es/) | 480p | [logo](http://graph.facebook.com/LaBandaClub/picture?width=320&height=320) | - | - |
-| Canal Sur Eventos 1 | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_01/master.m3u8) | - | 480p, 720p | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
-| Canal Sur Eventos 2 | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_02/master.m3u8) | - | 720p | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
+| Canal Sur Eventos 1 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_01/master.m3u8) | - | 480p, 720p | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
+| Canal Sur Eventos 2 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_02/master.m3u8) | - | 480p, 720p | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
 
 ### Aragón
 
@@ -175,8 +175,8 @@
 | TVG Europa | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | 360p | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG América | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | 360p | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Infantil | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | 480p | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG Musigal | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | 720p | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG Cultura | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura) | 720p | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Musigal HD | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | 720p | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Cultura HD | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura) | 720p | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Momentos G | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG) | 360p | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Deportes 1 | [m3u8](http://events1-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento1) | 360p | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Deportes 2 | [m3u8](http://events2-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento2) | 360p | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
@@ -232,8 +232,8 @@
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID | Info |
 | - | - | - | - | - | - | - |
 | ETB SAT Canal Vasco | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](http://www.eitb.eus/es/television/etb-sat/) | 270p, 360p | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/320px-ETBSat_Spain.svg.png) | ETB Sat.sp | - |
-| ETB 1 | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | 238p, 360p, 480p, 720p | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/320px-ETB1_Spain.svg.png) | ETB 1.sp | - |
-| ETB 2 | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | 238p, 360p, 480p, 720p | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/320px-ETB2_Spain.svg.png) | ETB 2.sp | - |
+| ETB 1 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | 238p, 360p, 480p, 720p | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/320px-ETB1_Spain.svg.png) | ETB 1.sp | - |
+| ETB 2 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | 238p, 360p, 480p, 720p | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/320px-ETB2_Spain.svg.png) | ETB 2.sp | - |
 | ETB 3 | - | - | - | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ETB3_Spain.svg/320px-ETB3_Spain.svg.png) | ETB 3.sp | - |
 | ETB 4 | - | - | - | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ETB4_Spain.svg/320px-ETB4_Spain.svg.png) | - | - |
 
@@ -241,7 +241,7 @@
 
 | Canal | M3U8 | Web | Resolución | Logo | EPG ID | Info |
 | - | - | - | - | - | - | - |
-| À Punt | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cn/d77d4356674b449695b1c0f19fbd6fae_6.m3u8) | [web](https://apuntmedia.es/va/directe/tv) | - | [logo](http://graph.facebook.com/apuntmedia/picture?width=320&height=320) | - | - |
+| À Punt HD | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae.m3u8) | [web](https://apuntmedia.es/va/directe/tv) | 240p, 270p, 360p, 480p, 540p, 720p | [logo](http://graph.facebook.com/apuntmedia/picture?width=320&height=320) | - | - |
 | La 8 Mediterraneo | [m3u8](http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8) | [web](http://www.laocho.tv/es/directo/) | - | [logo](http://graph.facebook.com/LaOcho.tv/picture?width=320&height=320) | - | - |
 
 ## Locales
