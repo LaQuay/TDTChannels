@@ -16,7 +16,7 @@
 | Nova | [m3u8 # 1](https://livestartover.atresmedia.com/geonova/master.m3u8) - [m3u8 # 2](https://pull2c-i.akamaized.net/geonova/master.m3u8) - [m3u8 # 3](https://pull2c-i.akamaized.net/nova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/) | HD | [logo](http://graph.facebook.com/antenanova/picture?width=320&height=320) | NOVA ASTRA SD 1.sp | - |
 | Mega | [m3u8 # 1](https://livestartover.atresmedia.com/geomega/master.m3u8) - [m3u8 # 2](https://pull2a-i.akamaized.net/geomega/master.m3u8) - [m3u8 # 3](https://pull2a-i.akamaized.net/mega/master.m3u8) | [web](https://www.atresplayer.com/directos/mega/) | HD | [logo](http://graph.facebook.com/megaTDT/picture?width=320&height=320) | MEGA TDT SD 1.sp | - |
 | Atreseries | [m3u8 # 1](https://livestartover.atresmedia.com/geoa3series/master.m3u8) - [m3u8 # 2](https://pull2a-i.akamaized.net/geoa3series/master.m3u8) - [m3u8 # 3](https://pull2a-i.akamaized.net/a3series/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | HD | [logo](http://graph.facebook.com/atreseries/picture?width=320&height=320) | ATRESS TDT HD 1.sp | - |
-| La Voz 24h | [m3u8](https://pull12.atresmedia.com/lavoz/master.m3u8) | [web](https://www.atresplayer.com/directos/la-voz/) | 720p | [logo](http://graph.facebook.com/LaVozAntena3/picture?width=320&height=320) | - | - |
+| La Voz 24h | [m3u8](https://pull12.atresmedia.com/lavoz/master.m3u8) | [web](https://www.atresplayer.com/directos/la-voz/) | HD | [logo](http://graph.facebook.com/LaVozAntena3/picture?width=320&height=320) | - | - |
 | Atresplayer Original (15) | [m3u8](https://pull1a-i.akamaized.net/eventos15/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-15/) | HD | [logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - | - |
 | Atresplayer Original (26) | [m3u8](https://pull2b-i.akamaized.net/eventos26/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-26/) | HD | [logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - | - |
 | Atresplayer Original (37) | [m3u8](https://pull2c-i.akamaized.net/eventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | HD | [logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - | - |
@@ -48,7 +48,7 @@
 | 24h | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8) | [web](http://www.rtve.es/directo/canal-24h/) | SD | [logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | 24H ASTRA SD 1.sp | - |
 | +24 | - | [web](http://www.rtve.es/noticias/mas-24/) | - | [logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | - | - |
 | Canal Parlamento | [m3u8](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8) | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) | SD | [logo](https://yt3.ggpht.com/a-/AAuE7mACmvgDvj5xdVeMXQI9kQSmU0A2Zw5nJEjR8A=s320) | Parlamento.sp | - |
-| EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) | [web](https://www.europapress.tv/) | - | [logo](http://graph.facebook.com/europapress.es/picture?width=320&height=320) | - | - |
+| EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) | [web](https://www.europapress.tv/) | SD | [logo](http://graph.facebook.com/europapress.es/picture?width=320&height=320) | - | - |
 
 ## Deportivos
 
@@ -173,7 +173,7 @@
 | - | - | - | - | - | - | - |
 | TVG Europa | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | SD | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG América | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | SD | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG Infantil | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | 480p | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Infantil | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | SD | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Musigal | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | HD | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Cultura | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura) | HD | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Momentos G | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG) | SD | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
@@ -289,15 +289,15 @@
 | 7TV Andalucía - Almería | [m3u8](https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8) | [web](https://7tvandalucia.es/almeria/) | SD | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
 | 7TV Andalucía - Cádiz | [m3u8](https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8) | [web](https://7tvandalucia.es/cadiz/) | - | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
 | 7TV Andalucía - Algeciras | [m3u8](https://secure.todostreaming.es/live/ondaluz-olcadiz.m3u8) | [web](https://7tvandalucia.es/algeciras/) | SD | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
-| 7TV Andalucía - Bahía | [m3u8](https://secure.todostreaming.es/live/ondaluz-olcadiz.m3u8) | [web](https://7tvandalucia.es/bahia/) | - | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
+| 7TV Andalucía - Bahía | [m3u8](https://secure.todostreaming.es/live/ondaluz-olcadiz.m3u8) | [web](https://7tvandalucia.es/bahia/) | SD | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
 | 7TV Andalucía - Costa Noroeste | [m3u8](https://secure.todostreaming.es/live/ondaluz-olcosta.m3u8) | [web](https://7tvandalucia.es/costa/) | SD | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
-| 7TV Andalucía - Jerez | [m3u8](https://secure.todostreaming.es/live/ondaluz-oljerez.m3u8) | [web](https://7tvandalucia.es/jerez/) | - | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
+| 7TV Andalucía - Jerez | [m3u8](https://secure.todostreaming.es/live/ondaluz-oljerez.m3u8) | [web](https://7tvandalucia.es/jerez/) | SD | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
 | 7TV Andalucía - Córdoba | [m3u8](https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8) | [web](https://7tvandalucia.es/cordoba/) | SD | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
 | 7TV Andalucía - Granada | [m3u8](https://secure.todostreaming.es/live/ondaluz-olgranada.m3u8) | [web](https://7tvandalucia.es/granada/) | SD | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
 | 7TV Andalucía - Huelva | [m3u8](https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8) | [web](https://7tvandalucia.es/huelva/) | SD | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
-| 7TV Andalucía - Jaén | [m3u8](https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8) | [web](https://7tvandalucia.es/jaen/) | - | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
+| 7TV Andalucía - Jaén | [m3u8](https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8) | [web](https://7tvandalucia.es/jaen/) | SD | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
 | 7TV Andalucía - Marbella | [m3u8](https://secure.todostreaming.es/live/ondaluz-olmarbella.m3u8) | [web](https://7tvandalucia.es/marbella/) | SD | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
-| 7TV Andalucía - Málaga | [m3u8](https://secure.todostreaming.es/live/ondaluz-olmalaga.m3u8) | [web](https://7tvandalucia.es/malaga/) | - | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
+| 7TV Andalucía - Málaga | [m3u8](https://secure.todostreaming.es/live/ondaluz-olmalaga.m3u8) | [web](https://7tvandalucia.es/malaga/) | SD | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
 | 7TV Andalucía - Sevilla | [m3u8](https://secure.todostreaming.es/live/ondaluz-olsevilla.m3u8) | [web](https://7tvandalucia.es/sevilla/) | SD | [logo](https://7tvandalucia.es/img/favicons/favicon-128.png) | - | - |
 | Canal 28 TV | - | [web](http://www.almeriacanal28.es/) | - | [logo](https://graph.facebook.com/149656178408041/picture?width=320&height=320) | - | - |
 | Yatv | - | [web](http://yatv.es/) | - | [logo](https://pbs.twimg.com/profile_images/945026003432366081/EuCnuBwM_400x400.jpg) | - | - |
@@ -592,7 +592,7 @@
 | Travel TV | [m3u8](http://194.179.53.124:8080/hls/traveltv/1_2/index.m3u8) | [web](http://www.traveltve.com/) | - | [logo](http://www.traveltve.com/wp-content/uploads/2015/04/logo.png) | - | - |
 | Vaughan TV | - | [web](https://grupovaughan.com/vaughan-tv/) | - | [logo](http://graph.facebook.com/GrupoVaughan/picture?width=320&height=320) | - | - |
 | Miami TV España | [m3u8](https://59ec5453559f0.streamlock.net/miamitvspain/smil:miamitvspain/master.m3u8) | [web](https://miamitvhd.com/) | HD | [logo](http://graph.facebook.com/miamitv/picture?width=320&height=320) | - | - |
-| Venezolana de Televisión | [m3u8](https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/master.m3u8) | [web](http://vtv.gob.ve/en-vivo/) | 360p | [logo](http://graph.facebook.com/VTVtuCanal/picture?width=320&height=320) | - | - |
+| Venezolana de Televisión | [m3u8](https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/master.m3u8) | [web](http://vtv.gob.ve/en-vivo/) | SD | [logo](http://graph.facebook.com/VTVtuCanal/picture?width=320&height=320) | - | - |
 | franceinfo: | - | [web](https://www.francetvinfo.fr/en-direct/tv.html) | - | [logo](http://graph.facebook.com/franceinfo/picture?width=320&height=320) | - | - |
 | Euronews | - | [web](https://es.euronews.com/live) | - | [logo](http://graph.facebook.com/es.euronews/picture?width=320&height=320) | - | - |
 | ABC News | [m3u8](http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8) | [web](https://abcnews.go.com/Live/) | HD | [logo](http://graph.facebook.com/ABCNews/picture?width=320&height=320) | - | - |
