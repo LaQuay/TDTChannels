@@ -203,6 +203,8 @@
 | - | - | - | - | - | - | - |
 | Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | SD | [logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | Telemadrid.sp | - |
 | LaOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | SD | [logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | La Otra.sp | - |
+| Webcam OndaMadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | SD | [logo](http://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - | - |
+| TN en Lengua de Signos | [m3u8](http://eventos-telemadridhls-live.hls.adaptive.level3.net/telemadrid/eventos1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-lengua-de-signos/) | SD | [logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | - | - |
 
 ### Melilla
 
