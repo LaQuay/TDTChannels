@@ -203,8 +203,8 @@
 | - | - | - | - | - | - | - |
 | Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | SD | [logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | Telemadrid.sp | - |
 | LaOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | SD | [logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | La Otra.sp | - |
-| Webcam OndaMadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | SD | [logo](http://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - | - |
-| TN en Lengua de Signos | [m3u8](http://eventos-telemadridhls-live.hls.adaptive.level3.net/telemadrid/eventos1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-lengua-de-signos/) | SD | [logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | - | - |
+| Webcam OndaMadrid | [m3u8 # 1](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 2](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | SD | [logo](http://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - | - |
+| TN en Lengua de Signos | [m3u8](http://eventos-telemadridhls-live.hls.adaptive.level3.net/telemadrid/eventos1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-lengua-de-signos/) | SD | [logo](http://graph.facebook.com/informativostelemadrid/picture?width=320&height=320) | - | - |
 
 ### Melilla
 
@@ -592,7 +592,7 @@
 | TVE Internacional | - | - | - | [logo](http://graph.facebook.com/tveInternacional/picture?width=320&height=320) | - | - |
 | star TVE | - | - | - | [logo](http://graph.facebook.com/tveInternacional/picture?width=320&height=320) | - | - |
 | TV3CAT | [m3u8](http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8) | [web](https://www.ccma.cat/tv3/directe/tv3cat/) | SD | [logo](http://graph.facebook.com/tv3/picture?width=320&height=320) | - | - |
-| Travel TV | [m3u8](http://194.179.53.124:8080/hls/traveltv/1_2/index.m3u8) | [web](http://www.traveltve.com/) | - | [logo](http://www.traveltve.com/wp-content/uploads/2015/04/logo.png) | - | - |
+| Travel TV | [m3u8](http://194.179.53.124:8080/hls/traveltv/1_2/index.m3u8) | [web](http://www.traveltve.com/) | HD | [logo](http://www.traveltve.com/wp-content/uploads/2015/04/logo.png) | - | - |
 | Vaughan TV | - | [web](https://grupovaughan.com/vaughan-tv/) | - | [logo](http://graph.facebook.com/GrupoVaughan/picture?width=320&height=320) | - | - |
 | Miami TV España | [m3u8](https://59ec5453559f0.streamlock.net/miamitvspain/smil:miamitvspain/master.m3u8) | [web](https://miamitvhd.com/) | HD | [logo](http://graph.facebook.com/miamitv/picture?width=320&height=320) | - | - |
 | Venezolana de Televisión | [m3u8](https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/master.m3u8) | [web](http://vtv.gob.ve/en-vivo/) | SD | [logo](http://graph.facebook.com/VTVtuCanal/picture?width=320&height=320) | - | - |
@@ -605,7 +605,7 @@
 | Bloomberg Europe | [m3u8](https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8) | [web](https://www.bloomberg.com/live/europe) | HD | [logo](http://graph.facebook.com/bloombergbusiness/picture?width=320&height=320) | - | - |
 | RT | - | [web](https://actualidad.rt.com/en_vivo) | - | [logo](http://graph.facebook.com/ActualidadRT/picture?width=320&height=320) | - | - |
 | DW | [m3u8](https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) | [web](https://www.dw.com/es/multimedia/tv-en-vivo/s-100837) | SD | [logo](http://graph.facebook.com/dw.espanol/picture?width=320&height=320) | - | - |
-| CGTN | [m3u8](https://livees.cgtn.com/1000e/prog_index.m3u8) | [web](https://www.cgtn.com/) | - | [logo](http://graph.facebook.com/cgtnenespanol/picture?width=320&height=320) | - | - |
+| CGTN | [m3u8](https://livees.cgtn.com/1000e/prog_index.m3u8) | [web](https://www.cgtn.com/) | SD | [logo](http://graph.facebook.com/cgtnenespanol/picture?width=320&height=320) | - | - |
 | NASA TV - Public | [m3u8](http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public) | HD | [logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
 | NASA TV - Media | [m3u8](http://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#media) | HD | [logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
 | NASA TV - ISS Views | [m3u8](http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8) | [web](http://www.ustream.tv/channel/live-iss-stream) | SD | [logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
