@@ -20,8 +20,8 @@ def stringbetweenparantheses(text):
 
 
 def get_channels_from_part(text):
-    line_where_first_channel_starts = 17
-    attributes_per_item = 7
+    line_where_first_channel_starts = 15
+    attributes_per_item = 6
     list_to_iterate = text.split("|")[line_where_first_channel_starts:-1]
     while "\n" in list_to_iterate:
         list_to_iterate.remove("\n")
@@ -37,21 +37,22 @@ def get_channels_from_part(text):
         if len(item_web) == 1:
             item_web = ""
 
-        item_resolution = list_to_iterate[i + 3].strip()
-        if len(item_resolution) == 1:
-            item_resolution = ""
+        if "HD" in item_name:
+            item_resolution = "HD"
+        else:
+            item_resolution = "SD"
 
-        item_logo = list_to_iterate[i + 4].strip()
+        item_logo = list_to_iterate[i + 3].strip()
         if len(item_logo) > 0 and item_logo[0] != "-":
             item_logo = stringbetweenparantheses(item_logo)
         if len(item_logo) == 1:
             item_logo = ""
 
-        item_epg = list_to_iterate[i + 5].strip()
+        item_epg = list_to_iterate[i + 4].strip()
         if len(item_epg) == 1:
             item_epg = ""
 
-        item_extra_info = list_to_iterate[i + 6].strip()
+        item_extra_info = list_to_iterate[i + 5].strip()
         if len(item_extra_info) == 1:
             item_extra_info = ""
 
