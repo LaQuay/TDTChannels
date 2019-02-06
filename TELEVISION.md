@@ -91,8 +91,8 @@
 | Canal Andalucia Flamenco | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/) | [logo](https://yt3.ggpht.com/a-/AAuE7mDSAjWne5aUccbvvx1b0xlU0flXUvfqso8TLg=s320) | - | - |
 | Canal Andalucia Cocina | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/) | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
 | Canal Sur La Banda | [m3u8](https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8) | [web](http://labanda.canalsur.es/) | [logo](http://graph.facebook.com/LaBandaClub/picture?width=320&height=320) | - | - |
-| Canal Sur Eventos 1 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_01/master.m3u8) | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
-| Canal Sur Eventos 2 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_02/master.m3u8) | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
+| Canal Sur Eventos 1 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_01/master.m3u8)  | - | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
+| Canal Sur Eventos 2 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_02/master.m3u8)  | - | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
 
 ### Aragón
 
@@ -611,7 +611,7 @@
 | NASA TV - ISS Views | [m3u8](http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8) | [web](http://www.ustream.tv/channel/live-iss-stream) | [logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
 | NASA TV - HD ISS Views | - | [web](https://www.nasa.gov/multimedia/nasatv/#iss) | [logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
 | Animal Planet Live | - | [web](http://www.ustream.tv/embed/12762028?html5ui=1&autoplay=true) | [logo](http://graph.facebook.com/AnimalPlanet/picture?width=320&height=320) | - | - |
-| Sony Movie Channel HD | [m3u8](https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8) | [logo](https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest/scale-to-width-down/320) | - | - |
+| Sony Movie Channel HD | [m3u8](https://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8) | - | [logo](https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest/scale-to-width-down/320) | - | - |
 | XITE HD | [m3u8](http://highvolume03.streampartner.nl/vleugels_hd6/livestream/master.m3u8) | [web](https://xite.nl/live) | [logo](https://xite.nl/img/xite_logo.png) | - | - |
 | Hispan TV | [m3u8](https://5a61de8ed719d.streamlock.net/live/smil:live.smil/master.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://lagazzettadf.com/wp-content/uploads/2014/10/hispan_tv.png) | - | - |
 | M2O | [m3u8](http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | [logo](https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o.png) | - | - |
