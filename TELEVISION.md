@@ -47,7 +47,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 24h | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8) | [web](http://www.rtve.es/directo/canal-24h/) | [logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | 24H ASTRA SD 1.sp | - |
-| +24 | - | [web](http://www.rtve.es/noticias/mas-24/) | [logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | - | - |
+| +24 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/noticias/mas-24/) | [logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | - | - |
 | Canal Parlamento | [m3u8](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8) | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) | [logo](https://yt3.ggpht.com/a-/AAuE7mACmvgDvj5xdVeMXQI9kQSmU0A2Zw5nJEjR8A=s320) | Parlamento.sp | - |
 | EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) | [web](https://www.europapress.tv/) | [logo](http://graph.facebook.com/europapress.es/picture?width=320&height=320) | - | - |
 
@@ -104,7 +104,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TPA7 | [m3u8](https://rtpa-live-hls.flumotion.com/playlist.m3u8) | [web](http://www.rtpa.es/television) | [logo](http://vfes-images.ott.kaltura.com/3b533d14205149b0a143bf6108887106_320X180.png) | TPA 7.sp | - |
+| TPA7 | [m3u8](https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8) | [web](http://www.rtpa.es/television) | [logo](http://vfes-images.ott.kaltura.com/3b533d14205149b0a143bf6108887106_320X180.png) | TPA 7.sp | - |
 | TPA8 | - | [web](http://www.rtpa.es/television) | [logo](http://vfes-images.ott.kaltura.com/0cb812be38734188bb892c0473411d30_320X180.png) | - | - |
 | TPA9 | - | [web](http://www.rtpa.es/television) | [logo](http://img4.wikia.nocookie.net/__cb20110709192607/logopedia/images/1/17/TPA_HD_logo_2010.jpg) | - | - |
 | TeleAsturias | - | [web](http://tvonline.teleasturias.com/) | [logo](https://yt3.ggpht.com/a-/AAuE7mC51jIbz9jX71lzF1t6RRFElSBeqAiRNR3Yeg=s240) | - | - |
