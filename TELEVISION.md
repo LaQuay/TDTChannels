@@ -6,16 +6,20 @@
 | - | - | - | - | - | - |
 | La 1 HD | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8) | [web](http://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | TVE ASTRA SD 2.sp | GEO |
 | La 2 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) | [web](http://www.rtve.es/directo/la-2/) | [logo](http://graph.facebook.com/la2detve/picture?width=320&height=320) | LA2 ASTRA SD 1.sp | GEO |
+
 | Antena 3 HD | [m3u8 # 1](https://livestartover.atresmedia.com/antena3/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geoantena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/) | [logo](http://graph.facebook.com/antena3/picture?width=320&height=320) | A3 ASTRA HD 1.sp | - |
+
 | Cuatro | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/cuatro) | [logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | C4 ASTRA SD 1.sp | REPRO,CODEC |
 | Cuatro HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/cuatro) | [logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | C4 ASTRA HD 1.sp | REPRO,CODEC |
 | Telecinco | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/telecinco) | [logo](http://graph.facebook.com/tele5/picture?width=320&height=320) | T5 ASTRA SD 1.sp | REPRO,CODEC |
 | Telecinco HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/telecinco) | [logo](http://graph.facebook.com/tele5/picture?width=320&height=320) | T5 ASTRA HD 1.sp | REPRO,CODEC |
+
 | laSexta HD | [m3u8 # 1](https://livestartover.atresmedia.com/lasexta/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geolasexta/master.m3u8) | [web](https://www.atresplayer.com/directos/lasexta/) | [logo](http://graph.facebook.com/laSexta/picture?width=320&height=320) | SEXTA ASTRA HD 1.sp | - |
 | Neox HD | [m3u8 # 1](https://livestartover.atresmedia.com/neox/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geoneox/master.m3u8) | [web](https://www.atresplayer.com/directos/neox/) | [logo](http://graph.facebook.com/neox/picture?width=320&height=320) | NEOX ASTRA SD 1.sp | - |
 | Nova HD | [m3u8 # 1](https://livestartover.atresmedia.com/nova/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geonova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/) | [logo](http://graph.facebook.com/antenanova/picture?width=320&height=320) | NOVA ASTRA SD 1.sp | - |
 | Mega HD | [m3u8 # 1](https://livestartover.atresmedia.com/mega/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geomega/master.m3u8) | [web](https://www.atresplayer.com/directos/mega/) | [logo](http://graph.facebook.com/megaTDT/picture?width=320&height=320) | MEGA TDT SD 1.sp | - |
 | Atreseries HD | [m3u8 # 1](https://livestartover.atresmedia.com/a3series/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geoa3series/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | [logo](http://graph.facebook.com/atreseries/picture?width=320&height=320) | ATRESS TDT HD 1.sp | - |
+
 | La Voz 24h HD | [m3u8](https://pull12.atresmedia.com/lavoz/master.m3u8) | [web](https://www.atresplayer.com/directos/la-voz/) | [logo](http://graph.facebook.com/LaVozAntena3/picture?width=320&height=320) | - | - |
 | Atresplayer Original (15) HD | [m3u8](https://livestartover.atresmedia.com/eventos15/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-15/) | [logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - | - |
 | Atresplayer Original (26) HD | [m3u8](https://livestartover.atresmedia.com/eventos26/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-26/) | [logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - | - |
