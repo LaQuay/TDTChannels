@@ -61,8 +61,8 @@
         if ambit_name != "":
             info += f' group-title="{ambit_name}"'
 
-        info += ', ' + self.name
-        info += '\n' + option.get_url() + '\n'
+        info += f',{self.name}'
+        info += f'\n{option.get_url()}\n'
 
         return info
 
