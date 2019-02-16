@@ -175,6 +175,7 @@
 | - | - | - | - | - | - |
 | TVG Europa | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG América | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG 2 | [m3u8](http://amodino-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Infantil | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Musigal HD | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Cultura HD | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
@@ -182,7 +183,7 @@
 | TVG Deportes 1 | [m3u8](http://events1-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento1) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Deportes 2 | [m3u8](http://events2-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento2) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Deportes 3 | [m3u8](http://events3-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento3) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG Deportes 4 | [m3u8](http://amodino-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento4) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Deportes 4 | [m3u8](http://events4-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento4) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 
 ### Islas Baleares
 
