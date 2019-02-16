@@ -86,7 +86,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Sur TV HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/rtva_new/master.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | ANTV ASTRA SD 1.sp | - |
+| Canal Sur TV HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | ANTV ASTRA SD 1.sp | - |
 | Canal Andalucia Turismo HD | [m3u8](https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8) | [web](http://canalandaluciaturismo.es/) | [logo](https://i0.wp.com/staging.blogs.canalsur.es/saladeprensa/files/Canal-Andalucia-Turismo-RGB-FULL.jpg?resize=320,40) | - | - |
 | Canal Andalucia Flamenco | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/) | [logo](https://yt3.ggpht.com/a-/AAuE7mDSAjWne5aUccbvvx1b0xlU0flXUvfqso8TLg=s320) | - | - |
 | Canal Andalucia Cocina | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/) | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
@@ -425,7 +425,7 @@
 | El 9 TV | [m3u8](http://live10.cdnmedia.tv/9tvlive/live.smil/playlist.m3u8) | [web](http://el9nou.cat/el9tv/) | [logo](http://el9nou.cat/wp-content/themes/el9nou/img/el9tv.png) | - | - |
 | canalterrassa | [m3u8](http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8) | [web](http://www.movipbox.com/streamplayer/terrassa/index.php) | [logo](https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/canal-terrasa.png) | - | - |
 | 25 TV | [m3u8](http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8) | [web](http://www.25televisio.com/streaming.php) | [logo](http://www.xal.cat/media/entity/logo/43420/logotipo.jpg) | - | - |
-| Canal Blau | [m3u8](http://live10.cdnmedia.tv/blautvlive/live.smil/playlist.m3u8) | [web](http://www.canalblau.cat/televisio/televisio-en-directe/) | [logo](https://upload.wikimedia.org/wikipedia/commons/f/f8/Canalblau_logo.png) | - | - |
+| Canal Blau | [m3u8](https://liveingesta118.cdnmedia.tv/blautvlive/smil:blautv.smil/master.m3u8) | [web](http://www.canalblau.cat/televisio/televisio-en-directe/) | [logo](https://upload.wikimedia.org/wikipedia/commons/f/f8/Canalblau_logo.png) | - | - |
 | Mar TV | [m3u8](http://k4.usastreams.com/CableLatino/martv/playlist.m3u8) | [web](http://martv.tv/emissio-en-directe/) | [logo](http://martv.tv/wp-content/uploads/2017/10/logo-martv.png) | - | - |
 | TAC 12 | [m3u8](http://vid=live10.cdnmedia.tv/tac12live/live.smil/playlist.m3u8) | [web](http://www.tac12.tv/en-directe) | [logo](https://www.tac12.tv/templates/rt_ambrosia/custom/images/TAC12_tv_main-250px.png) | - | - |
 | Canal Terres de l'Ebre | [m3u8](http://live10.cdnmedia.tv/canaltetvlive/smil:live.smil/playlist.m3u8) | [web](https://ebredigital.cat/en-directe/) | [logo](http://www.alacarta.cat/api/assets/getFile/public/media/000/403/703/canal_te___alfa_300x85.png) | - | - |
