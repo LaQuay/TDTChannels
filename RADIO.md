@@ -322,8 +322,8 @@
 | Radio Vitoria | - | [web](https://www.eitb.eus/es/radio/radio-vitoria/radio-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Radiovitoria.png/280px-Radiovitoria.png) | - |
 | Herri Irratia | - | [web](https://radiopopular.com/) | - | [Logo](http://radiopopular.com/wp-content/uploads/2017/01/logoradiopopwebeusk.jpg) | - |
 | Radio Nervión | - | [web](http://www.radionervion.com/) | - | [Logo](http://www.radionervion.com/images/LOGOweb130.png) | - |
-| Onda Vasca | - | [web](https://www.ondavasca.com/) | - | [Logo](https://www.ondavasca.com/wp-content/themes/OndaVasca/img/logos/OndaVasca.png) | - |
-| Onda Vasca Gipuzcoa | - | [web](https://www.ondavasca.com/) | - | [Logo](https://www.ondavasca.com/wp-content/themes/OndaVasca/img/logos/OndaVasca.png) | - |
+| Onda Vasca | [Stream](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | - | [Logo](https://www.ondavasca.com/wp-content/themes/OndaVasca/img/logos/OndaVasca.png) | - |
+| Onda Vasca Gipuzcoa | [Stream](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | - | [Logo](https://www.ondavasca.com/wp-content/themes/OndaVasca/img/logos/OndaVasca.png) | - |
 
 #### Valencia
 
