@@ -274,8 +274,8 @@
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](https://s3-eu-west-1.amazonaws.com/fuengirola-tv2/fuengirolatv-env.iksahgktq6.eu-west-1.elasticbeanstalk.com/wp-content/uploads/2017/11/13000306/logo-fuengirola-tvnew-300x74.png) | - | - |
 | Canal Málaga | [m3u8](http://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](http://www.canalmalaga.es/wp-content/uploads/2018/01/Logo_CanalM%C3%A1laga.png) | - | - |
 | Mijas Comunicación | [m3u8](http://mijas.hls.flumotion.com/mijas/live-hls/master.m3u8) | [web](http://www.mijascomunicacion.org/) | [logo](https://yt3.ggpht.com/a-/AN66SAyGloYP6DMAzFF_C-3_lqrp9SoE13P0TfzjnQ=s320) | - | - |
-| PTV Córdoba HD | [m3u8](http://149.91.98.146:1935/cordoba/stream/master.m3u8) | [web](http://www.ptvcordoba.com/) | [logo](http://www.ptvcordoba.com/logo.png) | - | - |
-| PTV Málaga HD | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) | [web](http://www.ptvmalaga.com/) | [logo](http://www.ptvmalaga.com/logomalaga.png) | - | - |
+| PTV Córdoba HD | [m3u8](http://149.91.98.146:1935/cordoba/stream/master.m3u8) | [web](http://www.ptvcordoba.com/) | [logo](http://graph.facebook.com/PTV.Cordoba/picture?width=320&height=320) | - | - |
+| PTV Málaga HD | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) | [web](http://www.ptvmalaga.com/) | [logo](https://graph.facebook.com/PTV.Malaga/picture?width=320&height=320) | - | - |
 | Cancionero TV | [m3u8](http://89.140.99.41/hls/1080.m3u8) | [web](http://www.cancionero.es/tv/) | [logo](https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png) | - | - |
 | Costa Noroeste TV | - | [web](http://www.costanoroestetv.net/) | [logo](https://yt3.ggpht.com/a-/AN66SAzXG2iw3aQERW9X8jpQDogMwQuojjBlz0aFVw=s320) | - | - |
 | Más TV Huelva | [m3u8](https://streaming-fr02.enetres.net/1855C32698CC47EC817DA7DB40DE72DB021/smil:live.smil/master.m3u8) | [web](https://yowi.tv/player.html/?videoid=40&autoplay=true) | [logo](https://pbs.twimg.com/profile_images/515593815621505025/xp_Ec2hD_400x400.jpeg) | - | - |
