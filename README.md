@@ -23,6 +23,8 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
+*02/2019* - [Softonic - Cómo usar Kodi para ver la TV gratis en tu teléfono móvil](https://www.softonic.com/articulos/usar-kodi-ver-tv-gratis-telefono-movil)
+
 *01/2019* - [El Androide Libre - Ver la tele en tu Android, una manera muy sencilla y completa](https://elandroidelibre.elespanol.com/2019/01/ver-tele-android-manera-sencilla-completa.html)
 
 *01/2019* - [El Androide Feliz - Cómo configurar KODI para ver TV gratis (y legal) en Android](https://elandroidefeliz.com/configurar-kodi-para-ver-tv-gratis/)
