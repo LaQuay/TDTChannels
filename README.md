@@ -13,9 +13,11 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 #### Descargar listas de reproducción
 *(Última actualización: 16/02/2019)*
 
+- [json](http://91.121.64.179/tdt_project/output/channels.json)
+
 - [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
-- [json](http://91.121.64.179/tdt_project/output/channels.json)
+- [m3u](http://91.121.64.179/tdt_project/output/channels.m3u)
 
 - [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)
 
