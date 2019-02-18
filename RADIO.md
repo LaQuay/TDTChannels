@@ -80,6 +80,7 @@
 | Radio Luz | [MP3](http://ns100.emisionlocal.com:8022/;stream.mp3) | [web](http://www.fmradioluz.com/) | - | [Logo](http://www.tusalvador.com/wp-content/uploads/2017/01/LOGO.png) | - |
 | Sevilla FC Radio | - | [web](http://live.sevillafc.es/) | - | [Logo](http://live.sevillafc.es/sites/live-sevillafc-redisenoweb.emergya.com/files/inline-images/sevilla-fc-radio.png) | - |
 | Spectrum FM | - | [web](https://spectrumfm.net/spectrum-fm-live/) | - | [Logo](https://spectrumfm.net/wp-content/uploads/2017/11/Spectrum-Costa-del-Sol-Logo.png) | - |
+| Beach Grooves | [Stream](http://stream.beachgrooves.com:8000/stream) | - | - | - | - |
 
 #### Aragón
 
@@ -342,7 +343,6 @@
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
-| Beach Grooves | [Stream](http://stream.beachgrooves.com:8000/stream) | - | - | - | - |
 | Pioneer DJ Radio | [Stream](http://listen.pioneerdjradio.com:8550/stream) | - | - | - | - |
 
 ### Andorra
