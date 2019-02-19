@@ -69,9 +69,9 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Disney Channel | - | [web](http://tv.disney.es/disney-channel) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/320px-2014_Disney_Channel_logo.svg.png) | DCH ASTRA HD 1.sp | - |
-| Boing | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/boing) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/320px-Boing.svg.png) | BOING ASTRA SD 1.sp | - |
-| Boing HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/boing) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/320px-Boing.svg.png) | BOING ASTRA HD 1.sp | - |
+| Disney Channel | - | [web](http://tv.disney.es/disney-channel) | [logo](http://graph.facebook.com/DisneyChannelESP/picture?width=320&height=320) | DCH ASTRA HD 1.sp | - |
+| Boing | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/boing) | [logo](http://graph.facebook.com/boinges/picture?width=320&height=320) | BOING ASTRA SD 1.sp | - |
+| Boing HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/boing) | [logo](http://graph.facebook.com/boinges/picture?width=320&height=320) | BOING ASTRA HD 1.sp | - |
 | Clan | - | - | [logo](http://graph.facebook.com/clantve/picture?width=320&height=320) | CLANTV ASTRA SD 1.sp | - |
 
 ## Musicales
@@ -87,12 +87,12 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Canal Sur TV HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | ANTV ASTRA SD 1.sp | - |
-| Canal Andalucia Turismo HD | [m3u8](https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8) | [web](http://canalandaluciaturismo.es/) | [logo](https://i0.wp.com/staging.blogs.canalsur.es/saladeprensa/files/Canal-Andalucia-Turismo-RGB-FULL.jpg?resize=320,40) | - | - |
-| Canal Andalucia Flamenco | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/) | [logo](https://yt3.ggpht.com/a-/AAuE7mDSAjWne5aUccbvvx1b0xlU0flXUvfqso8TLg=s320) | - | - |
-| Canal Andalucia Cocina | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/) | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
+| Canal Andalucia Turismo HD | [m3u8](https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8) | [web](http://canalandaluciaturismo.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| Canal Andalucia Flamenco | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| Canal Andalucia Cocina | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Sur La Banda | [m3u8](https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8) | [web](http://labanda.canalsur.es/) | [logo](http://graph.facebook.com/LaBandaClub/picture?width=320&height=320) | - | - |
-| Canal Sur Eventos 1 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_01/master.m3u8)  | - | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
-| Canal Sur Eventos 2 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_02/master.m3u8)  | - | [logo](https://yt3.ggpht.com/a-/AAuE7mAwlu0faCGXdlzAMQs032eEtXqBWkLPBs8MOA=s320) | - | - |
+| Canal Sur Eventos 1 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_01/master.m3u8)  | - | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| Canal Sur Eventos 2 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_02/master.m3u8)  | - | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 
 ### Aragón
 
@@ -104,10 +104,10 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TPA7 | [m3u8](https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8) | [web](http://www.rtpa.es/television) | [logo](http://vfes-images.ott.kaltura.com/3b533d14205149b0a143bf6108887106_320X180.png) | TPA 7.sp | - |
-| TPA8 | - | [web](http://www.rtpa.es/television) | [logo](http://vfes-images.ott.kaltura.com/0cb812be38734188bb892c0473411d30_320X180.png) | - | - |
-| TPA9 | - | [web](http://www.rtpa.es/television) | [logo](http://img4.wikia.nocookie.net/__cb20110709192607/logopedia/images/1/17/TPA_HD_logo_2010.jpg) | - | - |
-| TeleAsturias | - | [web](http://tvonline.teleasturias.com/) | [logo](https://yt3.ggpht.com/a-/AAuE7mC51jIbz9jX71lzF1t6RRFElSBeqAiRNR3Yeg=s240) | - | - |
+| TPA7 | [m3u8](https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8) | [web](http://www.rtpa.es/television) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | TPA 7.sp | - |
+| TPA8 | - | [web](http://www.rtpa.es/television) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - | - |
+| TPA9 | - | [web](http://www.rtpa.es/television) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - | - |
+| TeleAsturias | - | [web](http://tvonline.teleasturias.com/) | [logo](http://graph.facebook.com/TeleAsturiasTV/picture?width=320&height=320) | - | - |
 | EsAsturiasTV | - | [web](https://mips.tv/esAsturiasTelevision) | [logo](http://graph.facebook.com/EsAsturiasTV/picture?width=320&height=320) | - | - |
 
 ### Canarias
@@ -317,7 +317,6 @@
 | Diez TV | [m3u8](https://streaming.cloud.innovasur.es/mmj/34711900.m3u8) | [web](http://www.dieztv.es/p/directo.html) | [logo](http://graph.facebook.com/dieztv/picture?width=320&height=320) | - | - |
 | Alternativa TV | [m3u8](https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8) | [web](https://www.alternativartv.eu/) | [logo](https://lh3.googleusercontent.com/reK_4oh88GRPldelDZd4R09-qb45thX1p48RoRqLtRwYWfmjuDA5p8L59GC3WuVILOt6=w170-rw) | - | - |
 | 9 la Loma | - | [web](https://9laloma.tv/directo/) | [logo](http://graph.facebook.com/9laloma/picture?width=320&height=320) | - | - |
-| Visuales TV | - | [web](http://i84470.wixsite.com/visual-tv/blank-mainPage) | [logo](http://graph.facebook.com/9laloma/picture?width=320&height=320) | - | - |
 | LaSierra TV | - | [web](https://lasierratv.wordpress.com/) | [logo](https://secure.gravatar.com/avatar/8869d8fe1b0a7caef203304039bad180?s=100&r=pg&d=mm) | - | - |
 | Torrevisión | - | [web](http://www.torrevisiontelevision.es/) | [logo](http://graph.facebook.com/Canal-Torrevisión-Alhaurín-de-la-Torre-229475603752318/picture?width=320&height=320) | - | - |
 | Axarquía TV | - | [web](https://www.axarquiaplus.es/axarquia-tv/) | [logo](http://graph.facebook.com/AxarquiaTV/picture?width=320&height=320) | - | - |
