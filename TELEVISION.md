@@ -450,7 +450,6 @@
 | TV Berguedà | [m3u8](http://liveingesta118.cdnmedia.tv//berguedatvlive/smil:live.smil/master.m3u8) | [web](http://tvbergueda.alacarta.cat/) | [logo](http://graph.facebook.com/televisiodelbergueda/picture?width=320&height=320) | - | - |
 | Tot TV | - | [web](http://www.tottv.cat/) | [logo](http://www.tottv.cat/Scripts/images/TOTtv_LOGOpetitREFLEX.jpg) | - | - |
 | Balaguer TV | - | [web](https://www.balaguer.tv) | [logo](http://graph.facebook.com/balaguertv/picture?width=320&height=320) | - | - |
-
 | Pirineus TV | - | [web](http://www.pirineustv.cat/) | [logo](http://graph.facebook.com/PirineusTV/picture?width=320&height=320) | - | - |
 | Aran Televisió | - | [web](https://arantv.alacarta.cat/) | [logo](http://graph.facebook.com/arantv/picture?width=320&height=320) | - | - |
 | Canal 21 Ebre | - | [web](http://www.canal21ebre.com/) | [logo](http://graph.facebook.com/canal21televisio/picture?width=320&height=320) | - | - |
