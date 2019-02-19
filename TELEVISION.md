@@ -265,7 +265,7 @@
 | Teleonuba | [m3u8](http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8) | [web](http://www.teleonuba.es/en-directo/) | [logo](http://graph.facebook.com/Teleonuba/picture?width=320&height=320) | - | - |
 | CanalCosta | [m3u8](http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8) | [web](http://www.canalcostatv.es/en-directo/) | [logo](http://graph.facebook.com/canalcosta/picture?width=320&height=320) | - | - |
 | Canal Costa 2 | - | [web](http://www.canalcostatv.es/en-directo/) | [logo](http://graph.facebook.com/canalcosta/picture?width=320&height=320) | - | - |
-| El Correo de Andalucía | [m3u8](http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8) | [web](http://graph.facebook.com/elcorreoweb/picture?width=320&height=320) | - | - |
+| El Correo de Andalucía | [m3u8](http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8) | [web](http://elcorreoweb.es/elcorreotv) | [logo](http://graph.facebook.com/elcorreoweb/picture?width=320&height=320) | - | - |
 | interalmería HD | [m3u8](http://interalmeria.tv/directo/live.m3u8) | [web](http://www.interalmeria.tv/directo) | [logo](http://graph.facebook.com/Interalmeriatv/picture?width=320&height=320) | - | - |
 | Marbella TV | [m3u8](http://cls.todostreaming.eu/marbellatv/saldubatv/playlist.m3u8) | [web](http://rtvmarbella.tv/tv-en-directo/) | [logo](http://graph.facebook.com/RTVMarbella/picture?width=320&height=320) | - | - |
 | ondajaentv | - | [web](https://www.youtube.com/watch?v=kBdXFT3omKQ) | [logo](http://graph.facebook.com/ondajaenradioytelevision/picture?width=320&height=320) | - | - |
