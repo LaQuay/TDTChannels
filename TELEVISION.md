@@ -372,6 +372,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| TeleCosta | - | - | - | - | - |
 
 ### Castilla La-Mancha
 
@@ -460,6 +461,8 @@
 | La Segarra TV | - | [web](https://segarratv.cat/) | [logo](http://graph.facebook.com/SegarraTV/picture?width=320&height=320) | - | - |
 | Les Garrigues TV | - | [web](https://garriguestv.cat/) | [logo](http://graph.facebook.com/GarriguesTV/picture?width=320&height=320) | - | - |
 | L'Urgell TV | - | [web](https://urgelltv.cat/) | [logo](http://graph.facebook.com/UrgellTV/picture?width=320&height=320) | - | - |
+| RAC105 | - | [web](https://www.rac105.cat) | [logo](http://graph.facebook.com/rac105/picture?width=320&height=320) | - | - |
+| Banyoles  Televisió | - | [web](https://www.banyolestv.cat) | [logo](http://graph.facebook.com/banyolestelevisio/picture?width=320&height=320) | - | - |
 
 ### Ceuta
 
@@ -493,6 +496,7 @@
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | [logo](http://graph.facebook.com/LuxMallorca/picture?width=320&height=320) | - | - |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/master.m3u8) | [web](http://canal4televisio.com/canal-4-en-directo/) | [logo](http://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - | - |
 | Fibwi HD | [m3u8](http://178.132.6.97/fibwiLIVE1/playlist.m3u8) | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
+| Fibwi Clips HD | - | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
 
 ### La Rioja
 
@@ -514,6 +518,8 @@
 | Déjate de Historias TV | [m3u8](https://secure.todostreaming.es/live/tvstream-DH.m3u8) | [web](www.dejatedehistorias.es/wordpress/dejate-tv-on-line/) | [logo](http://graph.facebook.com/DejateDeHistoriasTV/picture?width=320&height=320) | - | - |
 | Libertad Digital TV | [m3u8](https://stream-05.dc3.dailymotion.com/dm/3/xnm032/live-2.m3u8) | [web](https://tv.libertaddigital.com/directo.html) | [logo](http://graph.facebook.com/libertad.digital.tv/picture?width=320&height=320) | - | - |
 | Pride Channel | [m3u8](http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8) | [web](http://www.pridechanneltv.com/tv-en-directo.html) | [logo](http://graph.facebook.com/PrideChannelTV/picture?width=320&height=320) | - | - |
+| Tele-K | - | [web](http://tele-k.org) | [logo](http://graph.facebook.com/telek.vallecas/picture?width=320&height=320) | - | - |
+| Canal Bom | - | [web](http://www.canalbom.com) | [logo](http://graph.facebook.com/canalbomtv/picture?width=320&height=320) | - | - |
 
 ### Melilla
 
@@ -528,6 +534,7 @@
 | Comarcal TV | - | [web](https://comarcaltv.es/) | [logo](http://graph.facebook.com/comarcaltv/picture?width=320&height=320) | - | - |
 | RTV Vida HD | [m3u8](http://188.165.135.22/radiovida/livestream/master.m3u8) | [web](http://vidartv.com/index.php/ve-television-vida) | [logo](http://graph.facebook.com/vidartv/picture?width=320&height=320) | - | - |
 | Enlace TV | [m3u8](https://api.new.livestream.com/accounts/2675843/events/1839332/videos/186663669.secure.m3u8) | [web](https://www.enlace.org/envivo/) | [logo](http://graph.facebook.com/enlacetv/picture?width=320&height=320) | - | - |
+| Canal Bom | - | [web](http://www.canalbom.com) | [logo](http://graph.facebook.com/canalbomtv/picture?width=320&height=320) | - | - |
 
 ### Navarra
 
