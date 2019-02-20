@@ -631,5 +631,5 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| ATV HD | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/atv) | [logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - | - |
-| Canal Web (ATV) HD | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/canalweb) | [logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - | - |
+| ATV HD | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/atv) | [logo](http://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | - | - |
+| Canal Web (ATV) HD | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/canalweb) | [logo](http://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | - | - |
