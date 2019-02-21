@@ -552,7 +552,7 @@
 | TeleBilbao | [m3u8](http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8) | [web](http://www.telebilbao.es/directo/) | [logo](http://graph.facebook.com/312994995454199/picture?width=320&height=320) | - | - |
 | TeleDonosti | [m3u8](https://bcsecurelivehls-i.akamaihd.net/hls/live/568968/85688294001/master.m3u8) | [web](http://www.teledonosti.tv/directos/index.html) | [logo](http://graph.facebook.com/teledonosti.web/picture?width=320&height=320) | - | - |
 | Goiena | [m3u8](http://zuzenean.goienamedia.eus:8443/telebista.m3u8) | [web](https://goiena.eus/telebista/zuzenekoa) | [logo](http://graph.facebook.com/goiena.eus/picture?width=320&height=320) | - | - |
-| Tele 7 | - | [web](http://www.tele7.tv/index.php/27-estaticos/9686-aaa) | [logo](http://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - | - |
+| Tele 7 | - | [web](https://tele7.tv/tele-7-en-directo/) | [logo](http://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - | - |
 | Urola Telebista | [m3u8](https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8) | [web](https://www.urolatelebista.com/) | [logo](http://graph.facebook.com/urolatelebista/picture?width=320&height=320) | - | - |
 | Erlo Telebista | [m3u8](https://5940924978228.streamlock.net/8159/8159/master.m3u8) | [web](http://www.erlotelebista.eus/) | [logo](http://graph.facebook.com/erlo.telebista/picture?width=320&height=320) | - | - |
 | 28 Kanala HD | [m3u8](https://5940924978228.streamlock.net/8157/8157/master.m3u8) | [web](http://www.28kanala.eus/) | [logo](http://graph.facebook.com/28kanala/picture?width=320&height=320) | - | - |
