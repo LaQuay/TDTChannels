@@ -1,6 +1,6 @@
-## Emisoras de Radio
+# Emisoras de Radio
 
-### Nacionales
+## Nacionales
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
@@ -35,7 +35,7 @@
 | Loca FM | [Stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | - | [Logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | - | [Logo](http://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
 
-### Autonómicos
+## Autonómicos
 
 #### Andalucía
 
@@ -135,6 +135,7 @@
 | Radio Sele | - | [web](http://www.radiosele.com/) | - | [Logo](https://cdn.onlineradiobox.com/img/logo/8/54418.v3.png) | - |
 | Radio Ujo | [Stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | - | [Logo](http://graph.facebook.com/radioujo/picture?width=320&height=320) | - |
 | The Box FM | - | [web](http://www.theboxfm.net/player_web/index.html) | - | [Logo](http://graph.facebook.com/boxfmec/picture?width=320&height=320) | - |
+| Radio Langreo | - | - | - | - | - |
 
 #### Canarias
 
@@ -210,11 +211,50 @@
 | Ràdio Marca Barcelona | [Stream](https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream) | [web](https://www.marca.com/radio.html?intcmp=BOTONPORTADA&s_kw=radiomarca#) | - | [Logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Ràdio Tele-Taxi | - | [web](https://www.radioteletaxi.com/reproductor/) | - | [Logo](http://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - |
 | Ràdio Vilamajor | - | [web](http://www.radiovilamajor.cat/) | - | [Logo](http://graph.facebook.com/radio.vilamajor/picture?width=320&height=320) | - |
+| Ràdio L'Hospitalet | - | - | - | - | - |
+| Radio Cooltura | - | - | - | - | - |
+| e-radio | - | - | - | - | - |
+| Vinilo FM | - | - | - | - | - |
+| Ràdio Mollet | - | - | - | - | - |
+| RAP107 | - | - | - | - | - |
+| Ràdio Montornès | - | - | - | - | - |
+| Ràdio Silenci | - | - | - | - | - |
+| Ràdio Caldes | - | - | - | - | - |
+| Ràdio Granollers | - | - | - | - | - |
+| Onda Rambla | - | - | - | - | - |
+| Ràdio Capital Empordà | - | - | - | - | - |
+| Ràdio l'Escola | - | - | - | - | - |
+| Segre Ràdio | - | - | - | - | - |
+| Proxima FM | - | - | - | - | - |
+| Ràdio Principal | - | - | - | - | - |
+| Altafulla Ràdio | - | - | - | - | - |
+| Tarragona Ràdio | - | - | - | - | - |
+| Ràdio Montblanc | - | - | - | - | - |
+| Ona La Torre | - | - | - | - | - |
+| Constantí Ràdio | - | - | - | - | - |
+| Ràdio Sant Pere i Sant Pau | - | - | - | - | - |
+| Imagina Ràdio | - | - | - | - | - |
+| Cadena SER - Ràdio Manresa | - | - | - | - | - |
+| Digital Hits FM | - | - | - | - | - |
+| Amb 2 FM | - | - | - | - | - |
+| Noucinc.2 Ràdio | - | - | - | - | - |
+| Canal Blau Ràdio | - | - | - | - | - |
+| Ràdio Ribes | - | - | - | - | - |
+| Ràdio Cubelles | - | - | - | - | - |
+| Ràdio Vilafranca | - | - | - | - | - |
+| Ràdio El Vendrell | - | - | - | - | - |
+| Ràdio Maricel | - | - | - | - | - |
+| Ràdio Ripoll | - | - | - | - | - |
+| Ràdio Olot | - | - | - | - | - |
+| Joy FM | - | - | - | - | - |
+| Joy 24h | - | - | - | - | - |
+| Joy somreggae | - | - | - | - | - |
 
 #### Ceuta
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
+| RTVCE | - | [web](http://www.rtvce.es/radio_online) | [logo](http://graph.facebook.com/RTVCE/picture?width=320&height=320) | - | - |
 
 #### Extremadura
 
@@ -251,11 +291,18 @@
 | Última Hora Radio | [Stream](http://stream.fibwi.com:9020/stream) | [web](http://radio.gsstatic.es/) | - | [Logo](http://graph.facebook.com/UltimaHora.Mallorca/picture?width=320&height=320) | - |
 | Ibiza Global Radio | [Stream](http://ibizaglobalradio.streaming-pro.com:8024/stream) | [web](http://ibizaglobalradio.com/) | - | [Logo](http://graph.facebook.com/ibiza.radio/picture?width=320&height=320) | - |
 | ibizaSonica | [Stream/MP3](http://s1.sonicabroadcast.com:7005/;stream/1) | [web](https://www.ibizasonica.com/) | - | [Logo](http://graph.facebook.com/ibizasonicaradio/picture?width=320&height=320) | - |
+| Radio Murta | - | - | - | - | - |
+| Das Inselradio | - | - | - | - | - |
+| Mallorca Sunshine Radio | - | - | - | - | - |
+| Russkoe Radio Mallorca | - | - | - | - | - |
+| Fibwi Radio | - | - | - | - | - |
+| Radio One Mallorca | - | - | - | - | - |
 
 #### La Rioja
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
+| COPE Rioja | - | [web](https://www.cope.es/emisoras/la-rioja/la-rioja-provincia/logrono) | [logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - | - |
 
 #### Madrid
 
@@ -296,6 +343,7 @@
 | - | - | - | - | - | - |
 | Cadena SER - Radio Murcia | - | [web](https://play.cadenaser.com/emisora/radio_murcia/) | - | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Onda Regional de Murcia | [aac](https://live.redctnet.es/live/orm/orm/media_w885381291_148.aac) | [web](https://www.orm.es/directo/orm/) | - | [Logo](http://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
+| Onda Regional Música | - | [web](https://www.orm.es/directo/or-musica/) | - | [Logo](http://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
 | Radio Calasparra | [Stream](http://213.96.195.21:8000/;) | [web](https://tunein.com/radio/Radio-Calasparra-1075-s113080/) | - | [Logo](http://graph.facebook.com/349014238632372/picture?width=320&height=320) | - |
 
 #### Navarra
@@ -308,6 +356,7 @@
 | Euskalerria Irratia | [Stream](http://server4.beatproducciones.com:8014/;) | [web](https://euskalerriairratia.eus/irratia/zuzenekoa) | - | [Logo](http://graph.facebook.com/euskalerriairratia/picture?width=320&height=320) | - |
 | Radio Universidad de Navarra | [MP3](http://s37.myradiostream.com/8638/listen.mp3) | [web](https://www.unav.edu/radioplayer/endirecto.html) | - | [Logo](http://graph.facebook.com/radiouniversidaddenavarra/picture?width=320&height=320) | - |
 | Trak FM Pamplona | [MP3](http://91.121.77.67:8070/;stream.mp3) | [web](http://trakfm.com/) | - | [Logo](http://graph.facebook.com/trakfmpamplona/picture?width=320&height=320) | - |
+| SIC4GN | - | - | - | - | - |
 
 #### País Vasco
 
