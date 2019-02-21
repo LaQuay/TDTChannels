@@ -328,6 +328,44 @@
 | M95 Marbella | - | [web](http://m95tv.es/) | [logo](http://graph.facebook.com/m95tvmarbella/picture?width=320&height=320) | - | - |
 | Torremolinos Televisión | [m3u8](https://secure-playlist.livestream.com/streams/2614936_1848989_lsifcxxdcmsagawn4l3_1/media/master.m3u8) | [web](https://torremolinostv.com/tv-en-directo/) | [logo](http://graph.facebook.com/torremolinostv/picture?width=320&height=320) | - | - |
 | Canal San Roque | [m3u8](https://common01.todostreaming.es/live/sanroque-livestream.m3u8) | [web](http://multimediasanroque.com/) | [logo](http://graph.facebook.com/296307903714631/picture?width=320&height=320) | - | - |
+| Canal Bom | - | - | - | - | - |
+| Indalo TV | - | - | - | - | - |
+| Canal Sí | - | - | - | - | - |
+| Una Televisión | - | - | - | - | - |
+| Ejido TV | - | - | - | - | - |
+| Levante 9 TV | - | - | - | - | - |
+| Cadena Idal | - | - | - | - | - |
+| CRN | - | - | - | - | - |
+| Canal Sierra de Cádiz | - | - | - | - | - |
+| Chiclana TV | - | - | - | - | - |
+| Canal Subbetica | - | - | - | - | - |
+| Telequivir | - | - | - | - | - |
+| Guadalquivir TV | - | - | - | - | - |
+| Priego TV | - | - | - | - | - |
+| Granada 9 TV | - | - | - | - | - |
+| Granada TV | - | - | - | - | - |
+| La 8 TV | - | - | - | - | - |
+| TCG | - | - | - | - | - |
+| TeleMotril | - | - | - | - | - |
+| GCFTV | - | - | - | - | - |
+| Canal Luz | - | - | - | - | - |
+| CNH | - | - | - | - | - |
+| El Sembrador | - | - | - | - | - |
+| Una Costa | - | - | - | - | - |
+| Portal Azul TV | - | - | - | - | - |
+| Álora TV | - | - | - | - | - |
+| Siete TV | - | - | - | - | - |
+| Antakira TV | - | - | - | - | - |
+| Canal 43 | - | - | - | - | - |
+| Mediterráneo TV | - | - | - | - | - |
+| T. Apache | - | - | - | - | - |
+| Axarquía TV | - | - | - | - | - |
+| VTV Axarquía | - | - | - | - | - |
+| Local Media | - | - | - | - | - |
+| Ronda TV | - | - | - | - | - |
+| Cadena Local | - | [web](http://www.cadenalocal.tv/) | - | - | - |
+| Giganet TV | - | - | - | - | - |
+| Lora TV | - | - | - | - | - |
 
 ### Aragón
 
@@ -340,6 +378,14 @@
 | lacomarca.tv | - | [web](https://www.lacomarca.tv/) | [logo](https://www.lacomarca.tv/wp-content/uploads/2018/02/favicon-comarca-tv.png) | - | - |
 | Calamocha TV | - | [web](http://www.mijilocatv.es/scd/index.php) | [logo](http://graph.facebook.com/CalamochaTV/picture?width=320&height=320) | - | - |
 | Ejea TV | - | [web](http://www.cincovillas.com/bienvenida-a-ejea-television/) | [logo](http://graph.facebook.com/177987645710754/picture?width=320&height=320) | - | - |
+| Fraga TV | - | - | - | - | - |
+| Tele Monzón | - | - | - | - | - |
+| 7 TV | - | - | - | - | - |
+| La-8 | - | - | - | - | - |
+| 52TV | - | - | - | - | - |
+| 15TV | - | - | - | - | - |
+| Proturcal | - | - | - | - | - |
+| Canal 52 | - | - | - | - | - |
 
 ### Asturias
 
@@ -367,6 +413,18 @@
 | Canal 8 TIC | - | [web](http://www.canal8tic.es/) | [logo](http://graph.facebook.com/189913141058898/picture?width=320&height=320) | - | - |
 | Gran Canaria Televisión | - | [web](https://www.youtube.com/channel/UCUm8NiHT-gJv5GUR9waXp9g) | [logo](http://graph.facebook.com/205775469566390/picture?width=320&height=320) | - | - |
 | Canal 10 TV | [m3u8](https://5940924978228.streamlock.net/8269/smil:8269.smil/master.m3u8) | [web](https://canal10tv.es) | [logo](http://graph.facebook.com/Canal10Television/picture?width=320&height=320) | - | - |
+| Nueve TV | - | - | - | - | - |
+| Localia | - | - | - | - | - |
+| Enjoy | - | - | - | - | - |
+| RTI | - | - | - | - | - |
+| Canal 7 | - | - | - | - | - |
+| Tenerife 2030 TV | - | - | - | - | - |
+| RTV Islas Canarias | - | - | - | - | - |
+| RTV Gomera 1 | - | - | - | - | - |
+| RTV Gomera 2 | - | - | - | - | - |
+| Canal Ocho | - | - | - | - | - |
+| Telelinea | - | - | - | - | - |
+| Canal 11 | - | - | - | - | - |
 
 ### Cantabria
 
@@ -392,6 +450,18 @@
 | Televaldepeñas | - | [web](http://www.televal.com/tvv/) | [logo](http://graph.facebook.com/205812466235710/picture?width=320&height=320) | - | - |
 | Tele Taracón | - | [web](http://www.taranconalacarta.es/) | [logo](http://graph.facebook.com/429542800548807/picture?width=320&height=320) | - | - |
 | Guadalajara Media | - | [web](https://www.youtube.com/channel/UCaEv8XC5Czu8vfV_QKUARLQ) | [logo](http://graph.facebook.com/canalguadalajara/picture?width=320&height=320) | - | - |
+| CNC | - | - | - | - | - |
+| CRTV | - | - | - | - | - |
+| CRN | - | - | - | - | - |
+| Membrilla TV | - | - | - | - | - |
+| Manzanares 10 TV | - | - | - | - | - |
+| Canal 56 Puerto Llano | - | - | - | - | - |
+| Mancha Centro | - | - | - | - | - |
+| Esta TV | - | - | - | - | - |
+| Ocio La Mancha | - | - | - | - | - |
+| 8 Televisión | - | - | - | - | - |
+| TV Pedroñeras | - | - | - | - | - |
+| Tele Tarancón | - | - | - | - | - |
 
 ### Castilla y León
 
@@ -475,6 +545,16 @@
 | ZF Televisión | - | [web](http://www.radiotvzafra.es/index.php/2015-04-14-15-03-20/television) | [logo](http://graph.facebook.com/ZFtelevision/picture?width=320&height=320) | - | - |
 | ViaPlata TV | - | [web](http://viaplatatv.es/) | [logo](http://graph.facebook.com/viaplata.television/picture?width=320&height=320) | - | - |
 | Zafra TV | - | [web](https://www.zafratv.com/) | [logo](http://graph.facebook.com/GrupoRadioTelevisionZafra/picture?width=320&height=320) | - | - |
+| Televisión Extremeña | - | - | - | - | - |
+| K30 | - | - | - | - | - |
+| Consorcio Alemndralejo TV | - | - | - | - | - |
+| 9 Tv Nuestra Comarca | - | - | - | - | - |
+| TeleZafra | - | - | - | - | - |
+| TV Local Coria | - | - | - | - | - |
+| TelePlasencia | - | - | - | - | - |
+| TV Miajadas- | - | - | - | - | - |
+| Comercial TV | - | - | - | - | - |
+| La Ocho TV | - | - | - | - | - |
 
 ### Galicia
 
@@ -485,6 +565,21 @@
 | TV Ferrol | - | [web](http://www.tvferrol.es/es/) | [logo](http://graph.facebook.com/tvferrol/picture?width=320&height=320) | - | - |
 | Canal Rías Baixas | - | [web](https://www.canalriasbaixas.com/) | [logo](http://graph.facebook.com/canalriasbaixas/picture?width=320&height=320) | - | - |
 | Santiago TV | - | [web](https://santiagotv.es/) | [logo](http://santiagotv.es/wp-content/uploads/2016/04/logo.png) | - | - |
+| V Televisión | - | - | - | - | - |
+| RTV Eume | - | - | - | - | - |
+| Canal 26 TV Carballiño | - | - | - | - | - |
+| Onda Hit | - | - | - | - | - |
+| Salitre Multimedia | - | - | - | - | - |
+| Correo TV | - | - | - | - | - |
+| TV27 Barbanza | - | - | - | - | - |
+| Telelugo | - | - | - | - | - |
+| Cadena Local | - | - | - | - | - |
+| Localia | - | - | - | - | - |
+| TeleVinte | - | - | - | - | - |
+| Localia Auria TV | - | - | - | - | - |
+| Nós TV | - | - | - | - | - |
+| Televigo | - | - | - | - | - |
+| Hermes TV | - | - | - | - | - |
 
 ### Islas Baleares
 
@@ -559,6 +654,14 @@
 | Oizmendi Telebista | [m3u8](https://5940924978228.streamlock.net/8161/8161/master.m3u8) | [web](http://www.oizmendi.eus/) | [logo](http://graph.facebook.com/oizmenditelebista/picture?width=320&height=320) | - | - |
 | GITB Goierri Irrati Telebista | [m3u8](https://5940924978228.streamlock.net/8155/8155/master.m3u8) | [web](http://www.gitb.eus/) | [logo](http://graph.facebook.com/GoierriIrratiTelebista/picture?width=320&height=320) | - | - |
 | Txingudi Telebista | - | [web](https://txingudionline.com/) | [logo](http://graph.facebook.com/TxingudiOnline/picture?width=320&height=320) | - | - |
+| Canal VTV | - | - | - | - | - |
+| Álava 7 TV | - | - | - | - | - |
+| Canal Gasteiz | - | - | - | - | - |
+| TeleVitoria | - | - | - | - | - |
+| Gipuzcoa Telebista | - | - | - | - | - |
+| TeleDonostia | - | - | - | - | - |
+| UK4 | - | - | - | - | - |
+| Bizcaia TV | - | - | - | - | - |
 
 ### Valencia
 
@@ -591,6 +694,16 @@
 | Gestiona TV | [m3u8](http://37.187.7.106/gestionatv/live.m3u8) | [web](http://www.gestionaradiovalencia.com/television/) | [logo](https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg) | - | - |
 | RTV Vida HD | [m3u8](http://188.165.135.22/radiovida/livestream/master.m3u8) | [web](http://vidartv.com/index.php/ve-television-vida) | [logo](http://graph.facebook.com/vidartv/picture?width=320&height=320) | - | - |
 | Elche TV | - | [web](http://www.radioelche.com) | [logo](http://graph.facebook.com/Elche7Tv/picture?width=320&height=320) | - | - |
+| Canal Bom| - | - | - | - | - |
+| Canal 57 | - | - | - | - | - |
+| TV Comarcal | - | - | - | - | - |
+| Canal Vega TV | - | - | - | - | - |
+| Nord | - | - | - | - | - |
+| TVU | - | - | - | - | - |
+| Radio TV Castellón | - | - | - | - | - |
+| Valencia Televisió | - | - | - | - | - |
+| Sucro TV | - | - | - | - | - |
+| Horta Televisió | - | - | - | - | - |
 
 ## Internacionales
 
