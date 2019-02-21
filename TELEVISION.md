@@ -410,8 +410,8 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | betevé | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
-| betevé web | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_hysmp9b4/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/web/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
-| betevé xarxes | - | [web](https://beteve.cat/en-directe/xarxes/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
+| betevé web | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_8o1kikzi/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/web/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
+| betevé xarxes |  [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_hysmp9b4/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/xarxes/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
 | betevé càmera del temps | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_2jb8lihv/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/temps-barcelona/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
 | El Punt Avui TV | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) | [web](http://www.elpuntavui.tv/directe.html) | [logo](http://graph.facebook.com/elpuntavuitv/picture?width=320&height=320) | - | - |
 | BDN | [m3u8](http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8) | [web](https://www.bdncom.cat/directe/) | [logo](http://graph.facebook.com/275021739307536/picture?width=320&height=320) | - | - |
