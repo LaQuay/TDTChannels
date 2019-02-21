@@ -372,7 +372,6 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TeleCosta | - | - | - | - | - |
 
 ### Castilla La-Mancha
 
@@ -535,12 +534,15 @@
 | RTV Vida HD | [m3u8](http://188.165.135.22/radiovida/livestream/master.m3u8) | [web](http://vidartv.com/index.php/ve-television-vida) | [logo](http://graph.facebook.com/vidartv/picture?width=320&height=320) | - | - |
 | Enlace TV | [m3u8](https://api.new.livestream.com/accounts/2675843/events/1839332/videos/186663669.secure.m3u8) | [web](https://www.enlace.org/envivo/) | [logo](http://graph.facebook.com/enlacetv/picture?width=320&height=320) | - | - |
 | Canal Bom | - | [web](http://www.canalbom.com) | [logo](http://graph.facebook.com/canalbomtv/picture?width=320&height=320) | - | - |
+| Thader TV | - | [web](http://www.thader.tv/) | [logo](http://graph.facebook.com/thader.tv/picture?width=320&height=320) | - | - |
 
 ### Navarra
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TeleRibera | [m3u8](http://37.187.7.106/teleribera/live.m3u8) | [web](http://www.teleribera.com/) | [logo](http://graph.facebook.com/estaestutelevision/picture?width=320&height=320) | - | - |
+| Xaloa Telebista | - | [web](https://xaloatelebista.eus/zuzenean/) | [logo](http://graph.facebook.com/Xaloatb/picture?width=320&height=320) | - | - |
+| Zona Media TV | - | [web](https://www.zonamediatv.com/videos-2/hemeroteca/) | [logo](http://graph.facebook.com/ZonaMediaTelevision/picture?width=320&height=320) | - | - |
 
 ### País Vasco
 
