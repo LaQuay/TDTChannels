@@ -80,6 +80,13 @@
 | Sevilla FC Radio | - | [web](http://live.sevillafc.es/) | - | [Logo](http://graph.facebook.com/sevillafc/picture?width=320&height=320) | - |
 | Spectrum FM | - | [web](https://spectrumfm.net/spectrum-fm-live/) | - | [Logo](http://graph.facebook.com/SpectrumFMSpain/picture?width=320&height=320) | - |
 | Beach Grooves | [Stream](http://stream.beachgrooves.com:8000/stream) | - | - | [Logo](http://graph.facebook.com/beach.grooves/picture?width=320&height=320) | - |
+| Onda Cadiz Radio | - | - | - | - | - |
+| TG7 Radio | - | - | - | - | - |
+| Onda Sur | - | - | - | - | - |
+| Onda Jaén Radio | - | - | - | - | - |
+| Canal Málaga Radio | - | - | - | - | - |
+| Radio Mijas | - | - | - | - | - |
+| Radio Marbella | - | - | - | - | - |
 
 #### Aragón
 
@@ -90,6 +97,7 @@
 | Aragón Radio (Teruel) | - | [web](http://www.aragonradio.es/) | - | [Logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
 | Aragón Radio 2.com | - | - | - | [Logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
 | All You Need Radio | - | [web](https://www.radioallyouneed.nl/) | - | [Logo](http://graph.facebook.com/1526908670893953/picture?width=320&height=320) | - |
+| Cadena SER - Radio Huesca | - | [web](https://play.cadenaser.com/emisora/radio_huesca/) | - | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | COPE Pirineos | [Stream](http://85.25.217.22:8110/stream) | [web](http://www.radioribagorza.es/copeonline.html) | - | [Logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Hit Pirineos | [Stream](http://85.25.217.22:8310/stream) | [web](http://www.radioribagorza.es/hitpirineos.html) | - | [Logo](http://graph.facebook.com/hitpirineos/picture?width=320&height=320) | - |
 | LOS40 Huesca | [Stream](https://streamingradio.radiohuesca.com:8061/radio40principales) | [web](https://www.radiohuesca.com/en-directo.html) | - | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - |
@@ -153,6 +161,13 @@
 | Radio La Guancha | - | [web](http://www.radiolaguancha.com/?page_id=23) | - | [Logo](http://graph.facebook.com/radiolaguancha/picture?width=320&height=320) | - |
 | Radio San Borondón | [pls](http://srv0435.lcinternet.com/tunein.php/sanboron/playlist.pls) | [web](http://www.sanborondon.info/images/_streamer/rsb.html) | - | [Logo](http://graph.facebook.com/413581508699797/picture?width=320&height=320) | - |
 | Q FM | - | [web](https://www.qmusica.com/es) | - | [Logo](http://graph.facebook.com/100005645714744/picture?width=320&height=320) | - |
+| Teide Radio | - | - | - | - | - |
+| Biosfera Radio | - | - | - | - | - |
+| O2 Radio | - | - | - | - | - |
+| Crónica Cadena COPE | - | - | - | - | - |
+| RTI Radio | - | - | - | - | - |
+| Radio Gigante | - | - | - | - | - |
+| Canal 11 Radio | - | - | - | - | - |
 
 #### Cantabria
 
@@ -163,6 +178,7 @@
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
+| CMM Radio | - | [web](http://www.cmmedia.es/en-directo/radio/) | - | [Logo](http://graph.facebook.com/CMMediaes/picture?width=320&height=320) | - |
 | Cadena SER - Radio Albacete | - | [web](https://play.cadenaser.com/emisora/radio_albacete/) | - | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Radio Arrebato | - | [web](https://www.radioarrebato.net/escuchar/) | - | [Logo](http://graph.facebook.com/radioarrebato107.4/picture?width=320&height=320) | - |
 | Radio Chinchilla | [Stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | - | [Logo](http://graph.facebook.com/RadioChinchilla/picture?width=320&height=320) | - |
@@ -277,8 +293,11 @@
 | Cuac FM | [ogg](https://streaming.cuacfm.org/cuacfm.ogg) | [web](https://cuacfm.org/directo/) | - | [Logo](http://graph.facebook.com/cuacfm/picture?width=320&height=320) | - |
 | Radio Municipal de Tui | - | [web](http://www.concellotui.org/php/radio.php) | - | [Logo](http://graph.facebook.com/RadioMunicipaldeTui/picture?width=320&height=320) | - |
 | Radiofusión | [Stream](http://srv0411.lcinternet.com:9005/stream) | [web](https://www.radiofusion.eu/) | - | [Logo](http://graph.facebook.com/Radiofusionga/picture?width=320&height=320) | - |
+| Radio Eume | - | - | - | - | - |
 | Radio Fene | [Stream](http://srv0490.lcinternet.com:8002/stream) | [web](https://www.radiofusion.eu/) | - | [Logo](http://graph.facebook.com/196309677056427/picture?width=320&height=320) | - |
+| Radio Obradoiro | - | - | - | - | - |
 | Radio Voz | - | [web](http://www.radiovoz.com/) | - | [Logo](http://graph.facebook.com/radiovoz/picture?width=320&height=320) | - |
+| Via Radio- | - | - | - | - | - |
 
 #### Islas Baleares
 
@@ -371,17 +390,24 @@
 | Radio Nervión | - | [web](http://www.radionervion.com/) | - | [Logo](http://graph.facebook.com/RadioNervion/picture?width=320&height=320) | - |
 | Onda Vasca | [Stream](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | - | [Logo](http://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
 | Onda Vasca Gipuzcoa | [Stream](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | - | [Logo](http://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
+| Radio 7 | - | [web](https://tele7.tv/radio-7-en-directo/) | - | [Logo](http://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - |
 
 #### Valencia
 
 | Emisoras | Stream | Web | Calidad | Logo | EPG ID |
 | - | - | - | - | - | - |
 | À Punt FM | - | [web](https://apuntmedia.es/va/directe/radio) | - | [Logo](http://graph.facebook.com/apuntmedia/picture?width=320&height=320) | - |
+| Cadena Dial - Gandia | - | - | - | - | - |
 | Cadena SER - Radio Castellón | - | [web](https://play.cadenaser.com/emisora/radio_castellon/) | - | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Radio Valencia | - | [web](https://play.cadenaser.com/emisora/radio_valencia/) | - | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Gandia | - | - | - | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| LOS40 - Gandia | - | - | - | - | - |
+| LOS40 Classic - Gandia | - | - | - | - | - |
+| Maxima FM - Gandia | - | - | - | - | - |
 | Ràdio Klara | [MP3](http://cervera.eldialdigital.com:8048/;#mp3) | [web](http://www.radioklara.org/radioklara/) | - | [Logo](http://graph.facebook.com/radioklara/picture?width=320&height=320) | - |
 | La 97.7 Radio | - | [web](http://www.la977.com/estaticos/la977.html) | - | [Logo](http://graph.facebook.com/la977/picture?width=320&height=320) | - |
 | UPV Radio | - | [web](http://www.upv.es/rtv/radio/directo) | - | [Logo](http://graph.facebook.com/UPVTV/picture?width=320&height=320) | - |
+| Radio Vega Baja | - | - | - | - | - |
 
 ### Internacionales
 
