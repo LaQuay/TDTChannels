@@ -450,6 +450,7 @@
 | Televaldepeñas | - | [web](http://www.televal.com/tvv/) | [logo](http://graph.facebook.com/205812466235710/picture?width=320&height=320) | - | - |
 | Tele Taracón | - | [web](http://www.taranconalacarta.es/) | [logo](http://graph.facebook.com/429542800548807/picture?width=320&height=320) | - | - |
 | Guadalajara Media | - | [web](https://www.youtube.com/channel/UCaEv8XC5Czu8vfV_QKUARLQ) | [logo](http://graph.facebook.com/canalguadalajara/picture?width=320&height=320) | - | - |
+| Manzanares10TV | [m3u8](https://secure.todostreaming.es/live/manzanares-livestream.m3u8) | [web](http://www.manzanares10.tv/) | [logo](http://graph.facebook.com/Manzanares10TV/picture?width=320&height=320) | - | - |
 | CNC | - | - | - | - | - |
 | CRTV | - | - | - | - | - |
 | CRN | - | - | - | - | - |
@@ -654,10 +655,6 @@
 | Oizmendi Telebista | [m3u8](https://5940924978228.streamlock.net/8161/8161/master.m3u8) | [web](http://www.oizmendi.eus/) | [logo](http://graph.facebook.com/oizmenditelebista/picture?width=320&height=320) | - | - |
 | GITB Goierri Irrati Telebista | [m3u8](https://5940924978228.streamlock.net/8155/8155/master.m3u8) | [web](http://www.gitb.eus/) | [logo](http://graph.facebook.com/GoierriIrratiTelebista/picture?width=320&height=320) | - | - |
 | Txingudi Telebista | - | [web](https://txingudionline.com/) | [logo](http://graph.facebook.com/TxingudiOnline/picture?width=320&height=320) | - | - |
-| Canal VTV | - | - | - | - | - |
-| Álava 7 TV | - | - | - | - | - |
-| Canal Gasteiz | - | - | - | - | - |
-| TeleVitoria | - | - | - | - | - |
 | Gipuzcoa Telebista | - | - | - | - | - |
 | TeleDonostia | - | - | - | - | - |
 | UK4 | - | - | - | - | - |
