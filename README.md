@@ -11,18 +11,22 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 **Chat Telegram**: [Telegram TDTChannels - Canales TDT](https://t.me/canales_tdt)
 
 #### Descargar listas de reproducción
-*(Última actualización: 06/02/2019)*
+*(Última actualización: 19/02/2019)*
+
+- [json](http://91.121.64.179/tdt_project/output/channels.json)
 
 - [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8)
 
-- [json](http://91.121.64.179/tdt_project/output/channels.json)
+- [m3u](http://91.121.64.179/tdt_project/output/channels.m3u)
 
 - [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)
 
 ### Ayuda
-Hay una _wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
+_Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
+*02/2019* - [Softonic - Cómo usar Kodi para ver la TV gratis en tu teléfono móvil](https://www.softonic.com/articulos/usar-kodi-ver-tv-gratis-telefono-movil)
+
 *01/2019* - [El Androide Libre - Ver la tele en tu Android, una manera muy sencilla y completa](https://elandroidelibre.elespanol.com/2019/01/ver-tele-android-manera-sencilla-completa.html)
 
 *01/2019* - [El Androide Feliz - Cómo configurar KODI para ver TV gratis (y legal) en Android](https://elandroidefeliz.com/configurar-kodi-para-ver-tv-gratis/)
@@ -36,7 +40,9 @@ Hay una _wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Licencia del proyecto
-Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que debe poderse ver que la información que está utilizando procede de este repositorio. No está permitido enlazar directamente los enlaces que aparecen en la sección '*Descargar listados*'.
+Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que se debe poder ver que la información que está utilizando procede de este repositorio. En el caso de _software_, la atribución debe ser visible explicitamente en el mismo.
+
+Únicamente está permitido enlazar directamente los enlaces que aparecen en la sección '*Descargar listados*' para uso particular.
 
 #### Ley de propiedad
 En este proyecto y en la web de reproducción **no** se almacena ningún *stream*, únicamente enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web o servicio público. Si posees los derechos de algún canal y deseas que lo retire, contáctame.

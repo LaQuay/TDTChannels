@@ -176,6 +176,15 @@ text_file.write(international.to_m3u8())
 text_file.close()
 print("M3U8 Updated")
 
+# Save data to M3U file
+text_file = open('./public/output/channels.m3u', "w+")
+text_file.write("#EXTM3U" + "\n")
+text_file.write("# @LaQuay https://github.com/LaQuay/TDTChannels" + "\n")
+text_file.write(spain.to_m3u8())
+text_file.write(international.to_m3u8())
+text_file.close()
+print("M3U Updated")
+
 # Save data to .tv file (Enigma2)
 text_file = open('./public/output/userbouquet.tdtchannels.tv', "w+")
 text_file.write("#NAME @LaQuay https://github.com/LaQuay/TDTChannels" + "\n")
