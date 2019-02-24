@@ -70,7 +70,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Disney Channel | [m3u8 # 1](https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8) [m3u8 # 2](http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/.m3u8) | [web](http://tv.disney.es/disney-channel) | [logo](http://graph.facebook.com/DisneyChannelESP/picture?width=320&height=320) | DCH ASTRA HD 1.sp | - |
+| Disney Channel | [m3u8 # 1](https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8) - [m3u8 # 2](http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/.m3u8) | [web](http://tv.disney.es/disney-channel) | [logo](http://graph.facebook.com/DisneyChannelESP/picture?width=320&height=320) | DCH ASTRA HD 1.sp | - |
 | Boing | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/boing) | [logo](http://graph.facebook.com/boinges/picture?width=320&height=320) | BOING ASTRA SD 1.sp | - |
 | Boing HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/boing) | [logo](http://graph.facebook.com/boinges/picture?width=320&height=320) | BOING ASTRA HD 1.sp | - |
 | Clan | - | - | [logo](http://graph.facebook.com/clantve/picture?width=320&height=320) | CLANTV ASTRA SD 1.sp | - |
