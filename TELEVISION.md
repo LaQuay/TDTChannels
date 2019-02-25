@@ -38,8 +38,8 @@
 | GH Dúo 24h | [m3u8 # 1](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8) - [m3u8 # 2](https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_2.m3u8) | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) - [web # 3](https://www.youtube.com/watch?v=cHtKunPYuhg) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
 | GH Dúo 24h HD | [m3u8 # 1](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8) - [m3u8 # 2](https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8) | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) - [web # 3](https://www.youtube.com/watch?v=cHtKunPYuhg) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
 | playz HD | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/playz/directo/) | [logo](http://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
-| Webcame RNE | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/radio/directo/) | [logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
-| Webcame RNE 3 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/radio/radio3/directo/) | [logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
+| Webcam RNE | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/radio/directo/) | [logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
+| Webcam RNE 3 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/radio/radio3/directo/) | [logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
 | Yu No Te Pierdas Nada HD | [m3u8](https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8) | [web](https://yu.los40.com/) | [logo](http://graph.facebook.com/VodafoneYU/picture?width=320&height=320) | - | - |
 | Intereconomía | [m3u8](http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8) | [web](http://www.intereconomia.tv/) | [logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | Intereconomia.sp | - |
 
@@ -533,7 +533,7 @@
 | Les Garrigues TV | - | [web](https://garriguestv.cat/) | [logo](http://graph.facebook.com/GarriguesTV/picture?width=320&height=320) | - | - |
 | L'Urgell TV | - | [web](https://urgelltv.cat/) | [logo](http://graph.facebook.com/UrgellTV/picture?width=320&height=320) | - | - |
 | RAC105 | - | [web](https://www.rac105.cat) | [logo](http://graph.facebook.com/rac105/picture?width=320&height=320) | - | - |
-| Banyoles  Televisió | - | [web](https://www.banyolestv.cat) | [logo](http://graph.facebook.com/banyolestelevisio/picture?width=320&height=320) | - | - |
+| Banyoles Televisió | - | [web](https://www.banyolestv.cat) | [logo](http://graph.facebook.com/banyolestelevisio/picture?width=320&height=320) | - | - |
 
 ### Ceuta
 
@@ -692,7 +692,7 @@
 | Gestiona TV | [m3u8](http://37.187.7.106/gestionatv/live.m3u8) | [web](http://www.gestionaradiovalencia.com/television/) | [logo](https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg) | - | - |
 | RTV Vida HD | [m3u8](http://188.165.135.22/radiovida/livestream/master.m3u8) | [web](http://vidartv.com/index.php/ve-television-vida) | [logo](http://graph.facebook.com/vidartv/picture?width=320&height=320) | - | - |
 | Elche TV | - | [web](http://www.radioelche.com) | [logo](http://graph.facebook.com/Elche7Tv/picture?width=320&height=320) | - | - |
-| Canal Bom| - | - | - | - | - |
+| Canal Bom | - | - | - | - | - |
 | Canal 57 | - | - | - | - | - |
 | TV Comarcal | - | - | - | - | - |
 | Canal Vega TV | - | - | - | - | - |
