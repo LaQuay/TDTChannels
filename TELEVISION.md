@@ -123,7 +123,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Cantabria TV | - | [web](http://www.vegavision.tv/) | [logo](http://graph.facebook.com/vegavisiontvcantabria/picture?width=320&height=320) | - | - |
-| Popular TV Cantabria | [m3u8](http://cls.todostreaming.eu/ptvcantabria/livestream/playlist.m3u8) | [web](http://populartvcantabria.com/livetv/) | [logo](http://graph.facebook.com/populartvcantabria/picture?width=320&height=320) | - | - |
+| Popular TV Cantabria | [m3u8](https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](http://populartvcantabria.com/livetv/) | [logo](http://graph.facebook.com/populartvcantabria/picture?width=320&height=320) | - | - |
 
 ### Castilla La-Mancha
 
