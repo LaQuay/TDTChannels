@@ -5,7 +5,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | La 1 HD | [m3u8 # 1](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 # 2](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8) | [web](http://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | TVE ASTRA SD 2.sp | GEO |
-| La 2 HD | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) | [web](http://www.rtve.es/directo/la-2/) | [logo](http://graph.facebook.com/la2detve/picture?width=320&height=320) | LA2 ASTRA SD 1.sp | GEO |
+| La 2 HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@584099/master.m3u8) | [web](http://www.rtve.es/directo/la-2/) | [logo](http://graph.facebook.com/la2detve/picture?width=320&height=320) | LA2 ASTRA SD 1.sp | GEO |
 | Antena 3 HD | [m3u8 # 1](https://livestartover.atresmedia.com/antena3/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geoantena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/) | [logo](http://graph.facebook.com/antena3/picture?width=320&height=320) | A3 ASTRA HD 1.sp | - |
 | Cuatro | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/cuatro) | [logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | C4 ASTRA SD 1.sp | REPRO,CODEC |
 | Cuatro HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/cuatro) | [logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | C4 ASTRA HD 1.sp | REPRO,CODEC |
@@ -178,13 +178,13 @@
 | TVG América | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG 2 | [m3u8](http://amodino-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Infantil | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG Musigal HD | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Musigal | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Cultura HD | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Momentos G | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG Deportes 1 | [m3u8](http://events1-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento1) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG Deportes 2 | [m3u8](http://events2-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento2) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG Deportes 3 | [m3u8](http://events3-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento3) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG Deportes 4 | [m3u8](http://events4-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento4) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Deportes 1 HD | [m3u8](http://events1-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento1) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Deportes 2 HD | [m3u8](http://events2-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento2) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Deportes 3 HD | [m3u8](http://events3-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento3) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Deportes 4 HD | [m3u8](http://events4-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento4) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 
 ### Islas Baleares
 
