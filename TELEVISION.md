@@ -162,7 +162,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Ceuta TV | [m3u8](http://cls.todostreaming.eu/anguloce/livestream/playlist.m3u8) | [web](http://ceutatv.com/pag/ceuta-tv-en-directo/) | [logo](http://graph.facebook.com/CeutaTV/picture?width=320&height=320) | - | - |
-| RTVCE | [m3u8](http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8) | [web](http://www.rtvce.es/tv-directo) | [logo](http://graph.facebook.com/RTVCE/picture?width=320&height=320) | - | - |
+| RTVCE HD | [m3u8](http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8) | [web](http://www.rtvce.es/tv-directo) | [logo](http://graph.facebook.com/RTVCE/picture?width=320&height=320) | - | - |
 
 ### Extremadura
 
@@ -174,9 +174,9 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TVG Europa | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG América | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG 2 | [m3u8](http://amodino-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG América | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Infantil | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Musigal | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Cultura HD | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
