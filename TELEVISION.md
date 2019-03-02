@@ -471,9 +471,9 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Telemedina Canal 9 | - | [web](http://www.telemedina.com/) | [logo](http://graph.facebook.com/telemedinacanal9/picture?width=320&height=320) | - | - |
-| Canal 54 Burgos | [m3u8](https://videocdn.mixer.com/hls/26772748-fbe16d7faf66899dda002a4735213978_source/index.m3u8) | [web](http://www.canal54.es/emision-en-directo/) | [logo](http://graph.facebook.com/Canal54Burgos/picture?width=320&height=320) | - | - |
+| Canal 54 Burgos | [m3u8](https://videocdn.mixer.com/hls/26772748-aa801ab2c023af5ce1b315655fd6972f_source/index.m3u8) | [web](http://www.canal54.es/emision-en-directo/) | [logo](http://graph.facebook.com/Canal54Burgos/picture?width=320&height=320) | - | - |
 | TV Benavente | - | [web](http://www.tvbenavente.es/television-online/) | [logo](http://graph.facebook.com/benaventetv/picture?width=320&height=320) | - | - |
-| Telearanda | - | [web](http://www.telearanda.es/) | [logo](http://graph.facebook.com/575943555801687/picture?width=320&height=320) | - | - |
+| Telearanda | [m3u8](https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8) | [web](http://www.telearanda.es/) | [logo](http://graph.facebook.com/575943555801687/picture?width=320&height=320) | - | - |
 | ViveMiranda Televisión | - | [web](https://www.vivemiranda.com/television/) | [logo](http://graph.facebook.com/vivemirandacom/picture?width=320&height=320) | - | - |
 | Soria TV | - | [web](http://soriatv.com/) | [logo](http://graph.facebook.com/soriatv.contenidos/picture?width=320&height=320) | - | - |
 | Bierzo TV | - | [web](https://www.bierzotv.com/) | [logo](http://graph.facebook.com/397437750271838/picture?width=320&height=320) | - | - |
@@ -608,7 +608,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| C33 Madrid HD | [m3u8](https://5ab29cc78f681.streamlock.net/canal33tvmadrid/livestream/master.m3u8) | [web](http://www.canal33.info/) | [logo](http://graph.facebook.com/434470346582124/picture?width=320&height=320) | - | - |
+| C33 Madrid HD | [m3u8](https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8) | [web](http://www.canal33.info/) | [logo](http://graph.facebook.com/434470346582124/picture?width=320&height=320) | - | - |
 | Distrito TV | [m3u8](https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8) | [web](http://distritotv.es/) | [logo](http://graph.facebook.com/2004860103163343/picture?width=320&height=320) | - | - |
 | TBN España | [m3u8](https://wowzaprod161-i.akamaihd.net/hls/live/598486/f66ed1d9_1_1433600/chunklist.m3u8) | [web](https://xn--tbnespaa-j3a.es/) | [logo](http://graph.facebook.com/TBNEspana/picture?width=320&height=320) | - | - |
 | Life TV | [m3u8](http://178.132.6.97/uzivo/lifetvesp976/playlist.m3u8) | [web](http://www.lifetelevision.es/) | [logo](http://graph.facebook.com/laiftvgroup/picture?width=320&height=320) | - | - |
