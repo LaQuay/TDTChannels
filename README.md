@@ -8,6 +8,8 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 
 **Web con reproductor oficial**: [Web TDTChannels](http://marcvila.me/tdt/)
 
+**Aplicación Android oficial**: [Repositorio TDTChannels-APP](https://github.com/LaQuay/TDTChannels-APP)
+
 **Chat Telegram**: [Telegram TDTChannels - Canales TDT](https://t.me/canales_tdt)
 
 #### Descargar listas de reproducción
