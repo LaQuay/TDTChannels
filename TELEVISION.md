@@ -517,9 +517,9 @@
 | Olot Televisió | [m3u8](https://liveingesta118.cdnmedia.tv//olottvlive/smil:live.smil/master.m3u8) | [web](http://www.olot.tv/olot-televisio-directe/) | [logo](http://graph.facebook.com/olotelevisio/picture?width=320&height=320) | - | - |
 | TV Hospitalet | - | [web](https://lhdigital.cat/web/digital-h/televisio) | [logo](http://graph.facebook.com/lhdigital/picture?width=320&height=320) | - | - |
 | Gavà Televisió | - | [web](http://www.gavatv.cat/) | [logo](http://graph.facebook.com/gavatv/picture?width=320&height=320) | - | - |
-| TV10 | - | [web](https://rtv10.alacarta.cat/) | [logo](http://graph.facebook.com/TV10TelevisionMongolia/picture?width=320&height=320) | - | - |
+| TV10 | [m3u8](https://liveingesta118.cdnmedia.tv/tvstestevelive/smil:tv10.smil/playlist.m3u8) | [web](https://rtv10.alacarta.cat/) | [logo](http://graph.facebook.com/TV10TelevisionMongolia/picture?width=320&height=320) | - | - |
 | Manresa TV | - | [web](http://www.manresa.tv/indexc.html) | [logo](http://www.manresa.tv/Banda_Superior_ManresaTV_01.jpg) | - | - |
-| TV Ripollés | - | [web](https://televisiodelripolles.alacarta.cat/) | [logo](http://graph.facebook.com/televisiodelripolles/picture?width=320&height=320) | - | - |
+| TV Ripollés | [m3u8](https://liveingesta118.cdnmedia.tv/tvripolleslive/smil:live.smil/master.m3u8) | [web](https://www.corisamediagrup.com/tvr-en-directe/) | [logo](http://graph.facebook.com/televisiodelripolles/picture?width=320&height=320) | - | - |
 | TV Berguedà | [m3u8](http://liveingesta118.cdnmedia.tv//berguedatvlive/smil:live.smil/master.m3u8) | [web](http://tvbergueda.alacarta.cat/) | [logo](http://graph.facebook.com/televisiodelbergueda/picture?width=320&height=320) | - | - |
 | Tot TV | - | [web](http://www.tottv.cat/) | [logo](http://www.tottv.cat/Scripts/images/TOTtv_LOGOpetitREFLEX.jpg) | - | - |
 | Balaguer TV | - | [web](https://www.balaguer.tv) | [logo](http://graph.facebook.com/balaguertv/picture?width=320&height=320) | - | - |
@@ -535,6 +535,10 @@
 | L'Urgell TV | - | [web](https://urgelltv.cat/) | [logo](http://graph.facebook.com/UrgellTV/picture?width=320&height=320) | - | - |
 | RAC105 | - | [web](https://www.rac105.cat) | [logo](http://graph.facebook.com/rac105/picture?width=320&height=320) | - | - |
 | Banyoles Televisió | - | [web](https://www.banyolestv.cat) | [logo](http://graph.facebook.com/banyolestelevisio/picture?width=320&height=320) | - | - |
+| Canal Camp | - | [web](http://canalcamp.alacarta.cat/) | [logo](http://graph.facebook.com/CanalCamp/picture?width=320&height=320) | - | - |
+| elprat.tv | - | [web # 1](http://el-prat-tv.alacarta.cat/) - [web # 2](https://www.elprat.tv/) | [logo](http://graph.facebook.com/104927627038101/picture?width=320&height=320) | - | - |
+| Maricel TV | - | [web](http://mariceltv.alacarta.cat/) | [logo](https://pbs.twimg.com/profile_images/512158777156460544/TBuXPuD2_400x400.jpeg) | - | - |
+| TV Vandellós | - | [web](http://tvvandellos.alacarta.cat/) | [logo](http://graph.facebook.com/televisiodevandellos/picture?width=320&height=320) | - | - |
 
 ### Ceuta
 
