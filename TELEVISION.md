@@ -378,7 +378,7 @@
 | Canal 8 TIC | - | [web](http://www.canal8tic.es/) | [logo](http://graph.facebook.com/189913141058898/picture?width=320&height=320) | - | - |
 | Gran Canaria Televisión | - | [web](https://www.youtube.com/channel/UCUm8NiHT-gJv5GUR9waXp9g) | [logo](http://graph.facebook.com/205775469566390/picture?width=320&height=320) | - | - |
 | Canal 10 TV | [m3u8](https://5940924978228.streamlock.net/8269/smil:8269.smil/master.m3u8) | [web](https://canal10tv.es) | [logo](http://graph.facebook.com/Canal10Television/picture?width=320&height=320) | - | - |
-| Tenerife 2030 TV HD | [m3u8](http://livestream.iter.es:9876/tdt/tdt_720.m3u8) | [web](http://www.tenerife2030tv.es/) | [logo](http://graph.facebook.com/876348079083751/picture?width=320&height=320) | - | - |
+| Tenerife 2030 TV HD | [m3u8](http://livestream.iter.es:9876/tdt/tdt.m3u8) | [web](http://www.tenerife2030tv.es/) | [logo](http://graph.facebook.com/876348079083751/picture?width=320&height=320) | - | - |
 
 ### Cantabria
 
