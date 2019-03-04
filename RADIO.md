@@ -390,7 +390,7 @@
 | Radio Nervión | - | [web](http://www.radionervion.com/) | [Logo](http://graph.facebook.com/RadioNervion/picture?width=320&height=320) | - | - |
 | Onda Vasca | [Stream](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | [Logo](http://graph.facebook.com/ondavasca/picture?width=320&height=320) | - | - |
 | Onda Vasca Gipuzcoa | [Stream](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | [Logo](http://graph.facebook.com/ondavasca/picture?width=320&height=320) | - | - |
-| Radio 7 | - | [web](https://tele7.tv/radio-7-en-directo/) | [Logo](http://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - | - |
+| Radio 7 | [mp3](http://radio7.streaming-pro.com:7501/;stream.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [Logo](http://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - | - |
 
 ### Valencia
 
@@ -407,7 +407,7 @@
 | Ràdio Klara | [MP3](http://cervera.eldialdigital.com:8048/;#mp3) | [web](http://www.radioklara.org/radioklara/) | [Logo](http://graph.facebook.com/radioklara/picture?width=320&height=320) | - | - |
 | La 97.7 Radio | - | [web](http://www.la977.com/estaticos/la977.html) | [Logo](http://graph.facebook.com/la977/picture?width=320&height=320) | - | - |
 | UPV Radio | - | [web](http://www.upv.es/rtv/radio/directo) | [Logo](http://graph.facebook.com/UPVTV/picture?width=320&height=320) | - | - |
-| Radio Vega Baja | - | - | - | - | - |
+| Vega Baja Radio | - | [web](https://vegabajaradio.com/) | [logo](http://graph.facebook.com/vegabajaradio/picture?width=320&height=320) | - | - |
 
 ### Internacionales
 
