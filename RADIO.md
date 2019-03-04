@@ -34,6 +34,7 @@
 | Radiolé | [aac](https://19393.live.streamtheworld.com/RADIOLEAAC.aac) | [web](https://play.radiole.com/) | [Logo](http://graph.facebook.com/radiole/picture?width=320&height=320) | - | - |
 | Loca FM | [Stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | [Logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - | - |
 | Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | [Logo](http://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - | - |
+| Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com/) | [logo](http://graph.facebook.com/Radio4GOficial/picture?width=320&height=320) | - |
 
 ## Autonómicos
 
@@ -80,13 +81,13 @@
 | Sevilla FC Radio | - | [web](http://live.sevillafc.es/) | [Logo](http://graph.facebook.com/sevillafc/picture?width=320&height=320) | - | - |
 | Spectrum FM | - | [web](https://spectrumfm.net/spectrum-fm-live/) | [Logo](http://graph.facebook.com/SpectrumFMSpain/picture?width=320&height=320) | - | - |
 | Beach Grooves | [Stream](http://stream.beachgrooves.com:8000/stream) | - | [Logo](http://graph.facebook.com/beach.grooves/picture?width=320&height=320) | - | - |
-| Onda Cadiz Radio | - | - | - | - | - |
-| TG7 Radio | - | - | - | - | - |
-| Onda Sur | - | - | - | - | - |
-| Onda Jaén Radio | - | - | - | - | - |
-| Canal Málaga Radio | - | - | - | - | - |
-| Radio Mijas | - | - | - | - | - |
-| Radio Marbella | - | - | - | - | - |
+| Onda Cadiz Radio | [mp3](http://adc-radio-stream.flumotion.com/adc/live-radio.mp3) | [web](https://tv.ocadizdigital.es/radio) | [logo](http://graph.facebook.com/ondacadiz/picture?width=320&height=320) | - | - |
+| TG7 Radio | - | [web](https://www.granada.org/inet/tg7.nsf/byclave/CA2MFQV) | [logo](http://graph.facebook.com/TG7tv/picture?width=320&height=320) | - | - |
+| Onda Sur | - | [web](http://www.ondasur1038.com/) | [logo](http://graph.facebook.com/ondasurradio/picture?width=320&height=320) | - | - |
+| Onda Jaén Radio | - | [web](http://ondajaen.es/web/radio/) | [logo](http://graph.facebook.com/1147341388638418/picture?width=320&height=320) | - | - |
+| Canal Málaga Radio | [mp3](http://195.55.74.203/canalmalaga/live.mp3) | [web](http://canalmalaga.es/radio-directo)| [logo](http://graph.facebook.com/canalmalagartv/picture?width=320&height=320) | - | - |
+| Radio Mijas | - | [web](http://www.mijascomunicacion.org/index.php/radio-mijas) | [logo](http://graph.facebook.com/Mijas340/picture?width=320&height=320) | - | - |
+| Radio Marbella | [Stream](http://radio1.todostreaming.es:8126/;str) | [web](http://rtvmarbella.tv/radio-en-directo/) | [logo](http://graph.facebook.com/RTVMarbella/picture?width=320&height=320) | - | - |
 
 ### Aragón
 
@@ -143,7 +144,6 @@
 | Radio Sele | - | [web](http://www.radiosele.com/) | [Logo](https://cdn.onlineradiobox.com/img/logo/8/54418.v3.png) | - | - |
 | Radio Ujo | [Stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | [Logo](http://graph.facebook.com/radioujo/picture?width=320&height=320) | - | - |
 | The Box FM | - | [web](http://www.theboxfm.net/player_web/index.html) | [Logo](http://graph.facebook.com/boxfmec/picture?width=320&height=320) | - | - |
-| Radio Langreo | - | - | - | - | - |
 
 ### Canarias
 
@@ -297,7 +297,7 @@
 | Radio Fene | [Stream](http://srv0490.lcinternet.com:8002/stream) | [web](https://www.radiofusion.eu/) | [Logo](http://graph.facebook.com/196309677056427/picture?width=320&height=320) | - | - |
 | Radio Obradoiro | - | - | - | - | - |
 | Radio Voz | - | [web](http://www.radiovoz.com/) | [Logo](http://graph.facebook.com/radiovoz/picture?width=320&height=320) | - | - |
-| Via Radio- | - | - | - | - | - |
+| Via Radio | - | - | - | - | - |
 
 ### Islas Baleares
 
