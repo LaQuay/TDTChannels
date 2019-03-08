@@ -241,8 +241,8 @@
 | ETB SAT Canal Vasco | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](http://www.eitb.eus/es/television/etb-sat/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/320px-ETBSat_Spain.svg.png) | ETB Sat.sp | - |
 | ETB 1 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/320px-ETB1_Spain.svg.png) | ETB 1.sp | - |
 | ETB 2 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/320px-ETB2_Spain.svg.png) | ETB 2.sp | - |
-| ETB 3 | - | - | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ETB3_Spain.svg/320px-ETB3_Spain.svg.png) | ETB 3.sp | - |
-| ETB 4 | - | - | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ETB4_Spain.svg/320px-ETB4_Spain.svg.png) | - | - |
+| ETB 3 | - | [web](https://www.eitb.eus/es/television/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ETB3_Spain.svg/320px-ETB3_Spain.svg.png) | ETB 3.sp | - |
+| ETB 4 | - | [web](https://www.eitb.eus/es/television/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ETB4_Spain.svg/320px-ETB4_Spain.svg.png) | - | - |
 
 ### Valencia
 
