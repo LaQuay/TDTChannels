@@ -260,7 +260,6 @@
 | Onda Algeciras TV | [m3u8](http://cls.provideo.es/algecirastv/livestream/playlist.m3u8) | [web](http://ondaalgecirastv.com/en-directo/) | [logo](http://graph.facebook.com/ondaalgecirastv/picture?width=320&height=320) | - | - |
 | Teleonuba | [m3u8](http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8) | [web](http://www.teleonuba.es/en-directo/) | [logo](http://graph.facebook.com/Teleonuba/picture?width=320&height=320) | - | - |
 | CanalCosta | [m3u8](http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8) | [web](http://www.canalcostatv.es/en-directo/) | [logo](http://graph.facebook.com/canalcosta/picture?width=320&height=320) | - | - |
-| Canal Costa 2 | - | [web](http://www.canalcostatv.es/en-directo/) | [logo](http://graph.facebook.com/canalcosta/picture?width=320&height=320) | - | - |
 | El Correo de Andalucía | [m3u8](http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8) | [web](http://elcorreoweb.es/elcorreotv) | [logo](http://graph.facebook.com/elcorreoweb/picture?width=320&height=320) | - | - |
 | interalmería HD | [m3u8](http://interalmeria.tv/directo/live.m3u8) | [web](http://www.interalmeria.tv/directo) | [logo](http://graph.facebook.com/Interalmeriatv/picture?width=320&height=320) | - | - |
 | Marbella TV | [m3u8](http://cls.todostreaming.eu/marbellatv/saldubatv/playlist.m3u8) | [web](http://rtvmarbella.tv/tv-en-directo/) | [logo](http://graph.facebook.com/RTVMarbella/picture?width=320&height=320) | - | - |
@@ -329,7 +328,6 @@
 | Jerez TV | - | [web](http://jereztelevision.com/) | [logo](http://graph.facebook.com/jerez.television/picture?width=320&height=320) | - | - |
 | Canal Sierra de Cádiz | - | [web](http://www.canalsierradecadiz.com/emision-en-directo/) | [logo](http://graph.facebook.com/canalsierradecadiz/picture?width=320&height=320) | - | - |
 | Telequivir | - | [web](https://www.youtube.com/channel/UCYFhCyhYMvNTR7hWrLUIGdg) | [logo](http://graph.facebook.com/telequivirtv/picture?width=320&height=320) | - | - |
-| Cadena Local | - | [web](http://www.cadenalocal.tv/) | - | - | - |
 
 ### Aragón
 
@@ -349,7 +347,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal 10 | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](http://www.canal10tv.com/) | [logo](https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_400x400.png) | - | - |
+| Canal 10 HD | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](http://www.canal10tv.com/) | [logo](https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_400x400.png) | - | - |
 | ORT | - | [web](https://www.ort-ort.com/) | [logo](http://graph.facebook.com/ORTSerOccidente/picture?width=320&height=320) | - | - |
 
 ### Canarias
