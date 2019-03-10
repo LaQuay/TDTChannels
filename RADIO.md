@@ -330,6 +330,8 @@
 | Cadena SER - Sierra | [MP3](http://217.126.244.152:7000/;stream.mp3) | [web#1](https://play.cadenaser.com/emisora/ser_madrid_sierra/) - [web#2](http://www.lavozdelasierra.es/ser-sierra/player.php) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | ECO Leganés | - | [web](http://ecoleganes.org/) | [Logo](http://graph.facebook.com/ecoleganes/picture?width=320&height=320) | - | - |
 | Gestiona Radio | - | [web](http://www.gestionaradio.com/) | [Logo](http://graph.facebook.com/GestionaRadioValencia/picture?width=320&height=320) | - | - |
+| Inforadio | [ogg](http://stream00.inforadio.ccinf.es:8000/inforadio01.ogg) | [web](http://inforadioucm.blogspot.com/p/escuchanos-en-directo.html) | [Logo](http://graph.facebook.com/inforadiocomplutense/picture?width=320&height=320) | - |
+
 | Radio Inter | - | [web](https://www.radiointer.es/) | [Logo](http://graph.facebook.com/RadioIntEs/picture?width=320&height=320) | - | - |
 | M21 Radio | - | [web](https://www.m21radio.es/ahora) | [Logo](http://graph.facebook.com/m21madrid/picture?width=320&height=320) | - | - |
 | Onda Diamante | [M3U](http://www.avvcanillejas.org/docs/ondadiamante.ogg.m3u) | [web](http://graph.facebook.com/OndaDiamanteOD/picture?width=320&height=320) | [Logo](http://www.avvcanillejas.org/img/radio.jpg) | - | - |
