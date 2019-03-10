@@ -5,22 +5,21 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | Onda Cero | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) | [web](https://www.ondacero.es/directo/) | [Logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - | - |
-| Melodía FM | - | [web](http://www.melodia-fm.com/directo/) | [Logo](http://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - | - |
 | Europa FM | [m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8) - [aac](https://livefastly-webs.europafm.com/europafm/audio/media-ulzd6rwtd_224747.aac) | [web](https://www.europafm.com/directo/) | [Logo](http://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - | - |
+| Melodía FM | - | [web](http://www.melodia-fm.com/directo/) | [Logo](http://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - | - |
 | RNE | [MP3](http://195.55.74.203/rtve/rtve-rne.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
-| RNE 3 | [MP3 # 1](http://195.55.74.208/rtve/rtve-radio3.mp3) - [MP3 # 2](http://195.55.74.207/rtve/rtve-radio3.mp3) | [web#1](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) - [web#2](http://www.rtve.es/radio/radio3/directo/?pais=ES) | [Logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
-| RNE 5 | [MP3](http://195.10.10.223/rtve/rtve-radio5.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radio5_rne/picture?width=320&height=320) | - | - |
+| RNE 3 | [MP3 # 1](http://195.55.74.208/rtve/rtve-radio3.mp3) - [MP3 # 2](http://195.55.74.207/rtve/rtve-radio3.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
+| RNE 5 | [MP3](http://195.10.10.223/rtve/rtve-radio5.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](https://pbs.twimg.com/profile_images/1104150542828343298/whV78eaD_400x400.jpg) | - | - |
 | RNE Clásica | [MP3](http://195.10.10.221/rtve/rtve-radioclasica.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404&v=undefined&vp=&lang=es) | [Logo](http://graph.facebook.com/radioclasicartve/picture?width=320&height=320) | - | - |
 | RNE Exterior | [MP3](http://195.10.10.222/rtve/radioexterior.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/RadioExterior/picture?width=320&height=320) | - | - |
 | LOS40 | [Stream](http://19983.live.streamtheworld.com/LOS40_SC) | [web](https://play.los40.com/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
-| LOS40 Classic | [aac](https://20043.live.streamtheworld.com/LOS40_CLASSICAAC.aac) | [web](https://play.los40.com/emisora/los40_classic/) | [Logo](http://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - | - |
-| LOS40 Party | [aac](https://20073.live.streamtheworld.com/LOS40_05AAC.aac) | [web](https://play.los40.com/emisora/los40_party/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
-| LOS40 Latin | [aac](https://19993.live.streamtheworld.com/LOS40_03AAC.aac) | [web](https://play.los40.com/emisora/los40_latin/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
-| LOS40 Working | [aac](https://20423.live.streamtheworld.com/LOS40_02AAC.aac) | [web](https://play.los40.com/emisora/los40_working/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
-| LOS40 Runners | [aac](https://19993.live.streamtheworld.com/LOS40_01AAC.aac) | [web](https://play.los40.com/emisora/los40_runners/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
+| LOS40 Classic | [Stream](http://20043.live.streamtheworld.com/LOS40_SC) | [web](https://play.los40.com/emisora/los40_classic/) | [Logo](http://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - | - |
+| LOS40 Party | [Stream](http://20073.live.streamtheworld.com/LOS40_SC) | [web](https://play.los40.com/emisora/los40_party/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
+| LOS40 Latin | [Stream](http://19993.live.streamtheworld.com/LOS40_SC) | [web](https://play.los40.com/emisora/los40_latin/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
+| LOS40 Working | [Stream](http://20423.live.streamtheworld.com/LOS40_SC) | [web](https://play.los40.com/emisora/los40_working/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
 | Cadena 100 | [MP3 # 1](http://195.55.74.203/cope/cadena100.mp3) - [MP3 # 2](http://cadena100-streamers-mp3-low.flumotion.com/cope/cadena100-low.mp3) | [web](http://www.cadena100.es/) | [Logo](http://graph.facebook.com/CADENA100/picture?width=320&height=320) | - | - |
 | Cadena Dial | [aac](https://19513.live.streamtheworld.com/CADENADIALAAC.aac) | [web](https://play.cadenadial.com/) | [Logo](http://graph.facebook.com/cadenadial/picture?width=320&height=320) | - | - |
-| Cadena SER | - | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER | [Stream](https://19393.live.streamtheworld.com/CADENASERAAC.aac) | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | Cadena SER Alternativo | - | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | Cadena COPE | - | [web](https://www.cope.es/directos/net1) | [Logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - | - |
 | esRadio | [aac](http://livestreaming9.esradio.fm/aaclive32) - [MP3](https://livestreaming3.esradio.fm/stream64.mp3) | [web](https://esradio.libertaddigital.com/directo.html) | [Logo](http://graph.facebook.com/esradio/picture?width=320&height=320) | - | - |
@@ -34,6 +33,7 @@
 | Radiolé | [aac](https://19393.live.streamtheworld.com/RADIOLEAAC.aac) | [web](https://play.radiole.com/) | [Logo](http://graph.facebook.com/radiole/picture?width=320&height=320) | - | - |
 | Loca FM | [Stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | [Logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - | - |
 | Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | [Logo](http://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - | - |
+| Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com/) | [logo](http://graph.facebook.com/Radio4GOficial/picture?width=320&height=320) | - |
 
 ## Autonómicos
 
@@ -80,13 +80,13 @@
 | Sevilla FC Radio | - | [web](http://live.sevillafc.es/) | [Logo](http://graph.facebook.com/sevillafc/picture?width=320&height=320) | - | - |
 | Spectrum FM | - | [web](https://spectrumfm.net/spectrum-fm-live/) | [Logo](http://graph.facebook.com/SpectrumFMSpain/picture?width=320&height=320) | - | - |
 | Beach Grooves | [Stream](http://stream.beachgrooves.com:8000/stream) | - | [Logo](http://graph.facebook.com/beach.grooves/picture?width=320&height=320) | - | - |
-| Onda Cadiz Radio | - | - | - | - | - |
-| TG7 Radio | - | - | - | - | - |
-| Onda Sur | - | - | - | - | - |
-| Onda Jaén Radio | - | - | - | - | - |
-| Canal Málaga Radio | - | - | - | - | - |
-| Radio Mijas | - | - | - | - | - |
-| Radio Marbella | - | - | - | - | - |
+| Onda Cadiz Radio | [mp3](http://adc-radio-stream.flumotion.com/adc/live-radio.mp3) | [web](https://tv.ocadizdigital.es/radio) | [logo](http://graph.facebook.com/ondacadiz/picture?width=320&height=320) | - | - |
+| TG7 Radio | - | [web](https://www.granada.org/inet/tg7.nsf/byclave/CA2MFQV) | [logo](http://graph.facebook.com/TG7tv/picture?width=320&height=320) | - | - |
+| Onda Sur | - | [web](http://www.ondasur1038.com/) | [logo](http://graph.facebook.com/ondasurradio/picture?width=320&height=320) | - | - |
+| Onda Jaén Radio | - | [web](http://ondajaen.es/web/radio/) | [logo](http://graph.facebook.com/1147341388638418/picture?width=320&height=320) | - | - |
+| Canal Málaga Radio | [mp3](http://195.55.74.203/canalmalaga/live.mp3) | [web](http://canalmalaga.es/radio-directo)| [logo](http://graph.facebook.com/canalmalagartv/picture?width=320&height=320) | - | - |
+| Radio Mijas | - | [web](http://www.mijascomunicacion.org/index.php/radio-mijas) | [logo](http://graph.facebook.com/Mijas340/picture?width=320&height=320) | - | - |
+| Radio Marbella | [Stream](http://radio1.todostreaming.es:8126/;str) | [web](http://rtvmarbella.tv/radio-en-directo/) | [logo](http://graph.facebook.com/RTVMarbella/picture?width=320&height=320) | - | - |
 
 ### Aragón
 
@@ -143,7 +143,6 @@
 | Radio Sele | - | [web](http://www.radiosele.com/) | [Logo](https://cdn.onlineradiobox.com/img/logo/8/54418.v3.png) | - | - |
 | Radio Ujo | [Stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | [Logo](http://graph.facebook.com/radioujo/picture?width=320&height=320) | - | - |
 | The Box FM | - | [web](http://www.theboxfm.net/player_web/index.html) | [Logo](http://graph.facebook.com/boxfmec/picture?width=320&height=320) | - | - |
-| Radio Langreo | - | - | - | - | - |
 
 ### Canarias
 
@@ -296,8 +295,8 @@
 | Radio Eume | - | - | - | - | - |
 | Radio Fene | [Stream](http://srv0490.lcinternet.com:8002/stream) | [web](https://www.radiofusion.eu/) | [Logo](http://graph.facebook.com/196309677056427/picture?width=320&height=320) | - | - |
 | Radio Obradoiro | - | - | - | - | - |
-| Radio Voz | - | [web](http://www.radiovoz.com/) | [Logo](http://graph.facebook.com/radiovoz/picture?width=320&height=320) | - | - |
-| Via Radio- | - | - | - | - | - |
+| Radio Voz | [MP3](http://live.radiovoz.es/mp3/stream_santiago.mp3) | [web](http://www.radiovoz.com/) | [Logo](http://graph.facebook.com/radiovoz/picture?width=320&height=320) | - | - |
+| Via Radio | - | - | - | - | - |
 
 ### Islas Baleares
 
@@ -331,6 +330,7 @@
 | Cadena SER - Sierra | [MP3](http://217.126.244.152:7000/;stream.mp3) | [web#1](https://play.cadenaser.com/emisora/ser_madrid_sierra/) - [web#2](http://www.lavozdelasierra.es/ser-sierra/player.php) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | ECO Leganés | - | [web](http://ecoleganes.org/) | [Logo](http://graph.facebook.com/ecoleganes/picture?width=320&height=320) | - | - |
 | Gestiona Radio | - | [web](http://www.gestionaradio.com/) | [Logo](http://graph.facebook.com/GestionaRadioValencia/picture?width=320&height=320) | - | - |
+| Inforadio | [ogg](http://stream00.inforadio.ccinf.es:8000/inforadio01.ogg) | [web](http://inforadioucm.blogspot.com/p/escuchanos-en-directo.html) | [Logo](http://graph.facebook.com/inforadiocomplutense/picture?width=320&height=320) | - |
 | Radio Inter | - | [web](https://www.radiointer.es/) | [Logo](http://graph.facebook.com/RadioIntEs/picture?width=320&height=320) | - | - |
 | M21 Radio | - | [web](https://www.m21radio.es/ahora) | [Logo](http://graph.facebook.com/m21madrid/picture?width=320&height=320) | - | - |
 | Onda Diamante | [M3U](http://www.avvcanillejas.org/docs/ondadiamante.ogg.m3u) | [web](http://graph.facebook.com/OndaDiamanteOD/picture?width=320&height=320) | [Logo](http://www.avvcanillejas.org/img/radio.jpg) | - | - |
@@ -390,7 +390,7 @@
 | Radio Nervión | - | [web](http://www.radionervion.com/) | [Logo](http://graph.facebook.com/RadioNervion/picture?width=320&height=320) | - | - |
 | Onda Vasca | [Stream](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | [Logo](http://graph.facebook.com/ondavasca/picture?width=320&height=320) | - | - |
 | Onda Vasca Gipuzcoa | [Stream](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | [Logo](http://graph.facebook.com/ondavasca/picture?width=320&height=320) | - | - |
-| Radio 7 | - | [web](https://tele7.tv/radio-7-en-directo/) | [Logo](http://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - | - |
+| Radio 7 | [mp3](http://radio7.streaming-pro.com:7501/;stream.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [Logo](http://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - | - |
 
 ### Valencia
 
@@ -407,7 +407,7 @@
 | Ràdio Klara | [MP3](http://cervera.eldialdigital.com:8048/;#mp3) | [web](http://www.radioklara.org/radioklara/) | [Logo](http://graph.facebook.com/radioklara/picture?width=320&height=320) | - | - |
 | La 97.7 Radio | - | [web](http://www.la977.com/estaticos/la977.html) | [Logo](http://graph.facebook.com/la977/picture?width=320&height=320) | - | - |
 | UPV Radio | - | [web](http://www.upv.es/rtv/radio/directo) | [Logo](http://graph.facebook.com/UPVTV/picture?width=320&height=320) | - | - |
-| Radio Vega Baja | - | - | - | - | - |
+| Vega Baja Radio | - | [web](https://vegabajaradio.com/) | [logo](http://graph.facebook.com/vegabajaradio/picture?width=320&height=320) | - | - |
 
 ### Internacionales
 

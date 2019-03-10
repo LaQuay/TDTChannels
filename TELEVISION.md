@@ -7,10 +7,10 @@
 | La 1 HD | [m3u8 # 1](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 # 2](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) | [web](http://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | TVE ASTRA SD 2.sp | GEO |
 | La 2 HD | [m3u8 # 1](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) - [m3u8 # 2](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@584099/master.m3u8) | [web](http://www.rtve.es/directo/la-2/) | [logo](http://graph.facebook.com/la2detve/picture?width=320&height=320) | LA2 ASTRA SD 1.sp | GEO |
 | Antena 3 HD | [m3u8 # 1](https://livestartover.atresmedia.com/antena3/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geoantena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/) | [logo](http://graph.facebook.com/antena3/picture?width=320&height=320) | A3 ASTRA HD 1.sp | - |
-| Cuatro | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/cuatro) | [logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | C4 ASTRA SD 1.sp | REPRO,CODEC |
+| Cuatro | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/cuatro) | [logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | C4 ASTRA HD 1.sp | REPRO,CODEC |
 | Cuatro HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/cuatro) | [logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | C4 ASTRA HD 1.sp | REPRO,CODEC |
-| Telecinco | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/telecinco) | [logo](http://graph.facebook.com/tele5/picture?width=320&height=320) | T5 ASTRA SD 1.sp | REPRO,CODEC |
-| Telecinco HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/telecinco) | [logo](http://graph.facebook.com/tele5/picture?width=320&height=320) | T5 ASTRA HD 1.sp | REPRO,CODEC |
+| Telecinco | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/telecinco) | [logo](http://graph.facebook.com/tele5/picture?width=320&height=320) | T5 ASTRA HD 1.sp | REPRO,CODEC |
+| Telecinco HD | [m3u8 ](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8)) | [web](http://www.mitele.es/directo/telecinco) | [logo](http://graph.facebook.com/tele5/picture?width=320&height=320) | T5 ASTRA HD 1.sp | REPRO,CODEC |
 | laSexta HD | [m3u8 # 1](https://livestartover.atresmedia.com/lasexta/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geolasexta/master.m3u8) | [web](https://www.atresplayer.com/directos/lasexta/) | [logo](http://graph.facebook.com/laSexta/picture?width=320&height=320) | SEXTA ASTRA HD 1.sp | - |
 | Neox HD | [m3u8 # 1](https://livestartover.atresmedia.com/neox/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geoneox/master.m3u8) | [web](https://www.atresplayer.com/directos/neox/) | [logo](http://graph.facebook.com/neox/picture?width=320&height=320) | NEOX ASTRA SD 1.sp | - |
 | Nova HD | [m3u8 # 1](https://livestartover.atresmedia.com/nova/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geonova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/) | [logo](http://graph.facebook.com/novatdt/picture?width=320&height=320) | NOVA ASTRA SD 1.sp | - |
@@ -18,11 +18,11 @@
 | Atreseries HD | [m3u8 # 1](https://livestartover.atresmedia.com/a3series/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geoa3series/master.m3u8) | [web](https://www.atresplayer.com/directos/atreseries/) | [logo](http://graph.facebook.com/atreseries/picture?width=320&height=320) | ATRESS TDT HD 1.sp | - |
 | FDF | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/fdf) | [logo](http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320) | FDFIC ASTRA SD 1.sp | REPRO,CODEC |
 | FDF HD | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/fdf) | [logo](http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320) | FDFIC ASTRA SD 1.sp | REPRO,CODEC |
-| Energy | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/energy) | [logo](http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | ENERGY ASTRA SD 1.sp | REPRO,CODEC |
+| Energy | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/energy) | [logo](http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | ENERGY ASTRA HD 1.sp | REPRO,CODEC |
 | Energy HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/energy) | [logo](http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | ENERGY ASTRA HD 1.sp | REPRO,CODEC |
-| Divinity | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/divinity) | [logo](http://graph.facebook.com/divinityes/picture?width=320&height=320) | DIVINI ASTRA SD 1.sp | REPRO,CODEC |
+| Divinity | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/divinity) | [logo](http://graph.facebook.com/divinityes/picture?width=320&height=320) | DIVINI ASTRA HD 1.sp | REPRO,CODEC |
 | Divinity HD | [m3u8](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/divinity) | [logo](http://graph.facebook.com/divinityes/picture?width=320&height=320) | DIVINI ASTRA HD 1.sp | REPRO,CODEC |
-| Be Mad | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/bemad) | [logo](http://graph.facebook.com/BeMadTV/picture?width=320&height=320) | BEMAD ASTRA SD 1.sp | - |
+| Be Mad | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/bemad) | [logo](http://graph.facebook.com/BeMadTV/picture?width=320&height=320) | BEMAD ASTRA HD 1.sp | - |
 | Be Mad HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/bemad) | [logo](http://graph.facebook.com/BeMadTV/picture?width=320&height=320) | BEMAD ASTRA HD 1.sp | - |
 | Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/playlist.m3u8) | [web](http://www.paramountnetwork.es/programacion/en-directo) | [logo](http://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320) | PARCH ASTRA SD 1.sp | REPRO |
 | TRECE | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo) | [logo](http://graph.facebook.com/TRECEtves/picture?width=320&height=320) | 13TV TDT SD 1.sp | - |
@@ -35,8 +35,8 @@
 | Atresplayer Original 2 HD | [m3u8 # 1](https://livestartover.atresmedia.com/eventos26/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geoeventos26/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-26/) | [logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - | - |
 | Atresplayer Original 3 HD | [m3u8 # 1](https://livestartover.atresmedia.com/eventos37/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | [logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - | - |
 | Webcam Onda Cero HD | [m3u8 # 1](https://livestartover.atresmedia.com/eventos37/master.m3u8) - [m3u8 # 2](https://livestartover.atresmedia.com/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - | - |
-| GH Dúo 24h | [m3u8 # 1](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8) - [m3u8 # 2](https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_2.m3u8) | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) - [web # 3](https://www.youtube.com/watch?v=cHtKunPYuhg) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
-| GH Dúo 24h HD | [m3u8 # 1](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8) - [m3u8 # 2](https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8) | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) - [web # 3](https://www.youtube.com/watch?v=cHtKunPYuhg) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
+| GH Dúo 24h | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8) - [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_2.m3u8) | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) - [web # 3](https://www.youtube.com/watch?v=cHtKunPYuhg) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
+| GH Dúo 24h HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8) - [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8) | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) - [web # 3](https://www.youtube.com/watch?v=cHtKunPYuhg) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
 | playz HD | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/playz/directo/) | [logo](http://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
 | Webcam RNE | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/radio/directo/) | [logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
 | Webcam RNE 3 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/radio/radio3/directo/) | [logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
@@ -92,8 +92,8 @@
 | Canal Andalucia Flamenco | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Andalucia Cocina | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Sur La Banda | [m3u8](https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8) | [web](http://labanda.canalsur.es/) | [logo](http://graph.facebook.com/LaBandaClub/picture?width=320&height=320) | - | - |
-| Canal Sur Eventos 1 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_01/master.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
-| Canal Sur Eventos 2 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_02/master.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| Canal Sur Eventos 1 HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/master.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| Canal Sur Eventos 2 HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_02/master.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 
 ### Aragón
 
@@ -180,7 +180,7 @@
 | TVG 2 | [m3u8](http://amodino-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG América | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Infantil | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG Musigal | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Musigal HD | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Cultura HD | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Momentos G | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Evento 1 HD | [m3u8](http://events1-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento1) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
@@ -241,8 +241,8 @@
 | ETB SAT Canal Vasco | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](http://www.eitb.eus/es/television/etb-sat/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/320px-ETBSat_Spain.svg.png) | ETB Sat.sp | - |
 | ETB 1 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/320px-ETB1_Spain.svg.png) | ETB 1.sp | - |
 | ETB 2 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/320px-ETB2_Spain.svg.png) | ETB 2.sp | - |
-| ETB 3 | - | - | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ETB3_Spain.svg/320px-ETB3_Spain.svg.png) | ETB 3.sp | - |
-| ETB 4 | - | - | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ETB4_Spain.svg/320px-ETB4_Spain.svg.png) | - | - |
+| ETB 3 | - | [web](https://www.eitb.eus/es/television/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ETB3_Spain.svg/320px-ETB3_Spain.svg.png) | ETB 3.sp | - |
+| ETB 4 | - | [web](https://www.eitb.eus/es/television/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ETB4_Spain.svg/320px-ETB4_Spain.svg.png) | - | - |
 
 ### Valencia
 
@@ -267,7 +267,6 @@
 | Onda Algeciras TV | [m3u8](http://cls.provideo.es/algecirastv/livestream/playlist.m3u8) | [web](http://ondaalgecirastv.com/en-directo/) | [logo](http://graph.facebook.com/ondaalgecirastv/picture?width=320&height=320) | - | - |
 | Teleonuba | [m3u8](http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8) | [web](http://www.teleonuba.es/en-directo/) | [logo](http://graph.facebook.com/Teleonuba/picture?width=320&height=320) | - | - |
 | CanalCosta | [m3u8](http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8) | [web](http://www.canalcostatv.es/en-directo/) | [logo](http://graph.facebook.com/canalcosta/picture?width=320&height=320) | - | - |
-| Canal Costa 2 | - | [web](http://www.canalcostatv.es/en-directo/) | [logo](http://graph.facebook.com/canalcosta/picture?width=320&height=320) | - | - |
 | El Correo de Andalucía | [m3u8](http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8) | [web](http://elcorreoweb.es/elcorreotv) | [logo](http://graph.facebook.com/elcorreoweb/picture?width=320&height=320) | - | - |
 | interalmería HD | [m3u8](http://interalmeria.tv/directo/live.m3u8) | [web](http://www.interalmeria.tv/directo) | [logo](http://graph.facebook.com/Interalmeriatv/picture?width=320&height=320) | - | - |
 | Marbella TV | [m3u8](http://cls.todostreaming.eu/marbellatv/saldubatv/playlist.m3u8) | [web](http://rtvmarbella.tv/tv-en-directo/) | [logo](http://graph.facebook.com/RTVMarbella/picture?width=320&height=320) | - | - |
@@ -336,7 +335,6 @@
 | Jerez TV | - | [web](http://jereztelevision.com/) | [logo](http://graph.facebook.com/jerez.television/picture?width=320&height=320) | - | - |
 | Canal Sierra de Cádiz | - | [web](http://www.canalsierradecadiz.com/emision-en-directo/) | [logo](http://graph.facebook.com/canalsierradecadiz/picture?width=320&height=320) | - | - |
 | Telequivir | - | [web](https://www.youtube.com/channel/UCYFhCyhYMvNTR7hWrLUIGdg) | [logo](http://graph.facebook.com/telequivirtv/picture?width=320&height=320) | - | - |
-| Cadena Local | - | [web](http://www.cadenalocal.tv/) | - | - | - |
 
 ### Aragón
 
@@ -356,7 +354,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal 10 | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](http://www.canal10tv.com/) | [logo](https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_400x400.png) | - | - |
+| Canal 10 HD | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](http://www.canal10tv.com/) | [logo](https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_400x400.png) | - | - |
 | ORT | - | [web](https://www.ort-ort.com/) | [logo](http://graph.facebook.com/ORTSerOccidente/picture?width=320&height=320) | - | - |
 
 ### Canarias
