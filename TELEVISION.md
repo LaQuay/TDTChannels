@@ -92,8 +92,8 @@
 | Canal Andalucia Flamenco | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Andalucia Cocina | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Sur La Banda | [m3u8](https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8) | [web](http://labanda.canalsur.es/) | [logo](http://graph.facebook.com/LaBandaClub/picture?width=320&height=320) | - | - |
-| Canal Sur Eventos 1 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_01/master.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
-| Canal Sur Eventos 2 HD | [m3u8](http://canalsur-new-live.hls.adaptive.level3.net/egress/bhandler/canalsur_live/eventos_02/master.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| Canal Sur Eventos 1 HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/master.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| Canal Sur Eventos 2 HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_02/master.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 
 ### Aragón
 
