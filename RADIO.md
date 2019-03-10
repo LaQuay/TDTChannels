@@ -19,7 +19,7 @@
 | LOS40 Working | [Stream](http://20423.live.streamtheworld.com/LOS40_SC) | [web](https://play.los40.com/emisora/los40_working/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
 | Cadena 100 | [MP3 # 1](http://195.55.74.203/cope/cadena100.mp3) - [MP3 # 2](http://cadena100-streamers-mp3-low.flumotion.com/cope/cadena100-low.mp3) | [web](http://www.cadena100.es/) | [Logo](http://graph.facebook.com/CADENA100/picture?width=320&height=320) | - | - |
 | Cadena Dial | [aac](https://19513.live.streamtheworld.com/CADENADIALAAC.aac) | [web](https://play.cadenadial.com/) | [Logo](http://graph.facebook.com/cadenadial/picture?width=320&height=320) | - | - |
-| Cadena SER | - | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER | [Stream](https://19393.live.streamtheworld.com/CADENASERAAC.aac) | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | Cadena SER Alternativo | - | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | Cadena COPE | - | [web](https://www.cope.es/directos/net1) | [Logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - | - |
 | esRadio | [aac](http://livestreaming9.esradio.fm/aaclive32) - [MP3](https://livestreaming3.esradio.fm/stream64.mp3) | [web](https://esradio.libertaddigital.com/directo.html) | [Logo](http://graph.facebook.com/esradio/picture?width=320&height=320) | - | - |
@@ -295,7 +295,7 @@
 | Radio Eume | - | - | - | - | - |
 | Radio Fene | [Stream](http://srv0490.lcinternet.com:8002/stream) | [web](https://www.radiofusion.eu/) | [Logo](http://graph.facebook.com/196309677056427/picture?width=320&height=320) | - | - |
 | Radio Obradoiro | - | - | - | - | - |
-| Radio Voz | - | [web](http://www.radiovoz.com/) | [Logo](http://graph.facebook.com/radiovoz/picture?width=320&height=320) | - | - |
+| Radio Voz | [MP3](http://live.radiovoz.es/mp3/stream_santiago.mp3) | [web](http://www.radiovoz.com/) | [Logo](http://graph.facebook.com/radiovoz/picture?width=320&height=320) | - | - |
 | Via Radio | - | - | - | - | - |
 
 ### Islas Baleares
