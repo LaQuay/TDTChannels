@@ -231,7 +231,6 @@
 | Ràdio Caldes | [MP3](http://streaming.enantena.com:8000/radiocaldes56.mp3) - [Stream](https://enacast.com/radiocaldes/streams/SD) | [web](http://www.radiocaldes.cat/) | [Logo](http://graph.facebook.com/RadioCaldes107.8fm/picture?width=320&height=320) | - | - |
 | Ràdio Granollers | [Stream](http://eu7.fastcast4u.com/proxy/radiogranollers/?mp=/stream) | [web](http://www.gasl.cat/) | [Logo](http://graph.facebook.com/174942455863314/picture?width=320&height=320) | - | - |
 | Ràdio Capital | [Stream](http://streaming.martiproduccions.com:8000/capitalhd) | [web](https://www.radiocapital.cat/endirecte/) | [Logo](http://graph.facebook.com/capitalemporda/picture?width=320&height=320) | - | - |
-| Segre Ràdio | - | - | - | - | - |
 | PròximaFM | [Stream](http://91.187.93.115:8000/;stream/1) | [web](http://www.proxima.cat/) | [Logo](http://graph.facebook.com/proximafm/picture?width=320&height=320) | - | - |
 | Altafulla Ràdio | [MP3](http://streaming.enantena.com:8000/altafulla128.mp3MP3) - [Stream](https://enacast.com/altafullaradio/streams/HD) | [web](http://altafullaradio.cat/) | [Logo](http://graph.facebook.com/altafulla.radio/picture?width=320&height=320) | - | - |
 | Tarragona Ràdio | [MP3](http://streaming.enantena.com:8000/tarragona128.mp3) - [Stream](https://enacast.com/tarragonaradio/streams/HD) | [web](https://www.tarragonaradio.cat/) | [Logo](http://graph.facebook.com/tarragonaradio/picture?width=320&height=320) | - | - |
@@ -244,7 +243,6 @@
 | digitalHits FM | [Stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](http://www.digitalhits.cat/directe/) | [Logo](http://graph.facebook.com/digitalhits/picture?width=320&height=320) | - | - |
 | Ràdio Terrassa | [Stream](http://5.189.181.203:9306/;) | [web](http://terrassadigital.cat/radio/) | [Logo](http://graph.facebook.com/canalterrassa/picture?width=320&height=320) | - | - |
 | Canal Blau Ràdio | [MP3](http://streaming.enantena.com:8000/canalblau128.mp3) - [Stream](https://enacast.com/canalblau/streams/SD) | [web](http://podcast.canalblau.cat/) | [Logo](http://graph.facebook.com/CanalBlau/picture?width=320&height=320) | - | - |
-| Ràdio Ribes | - | - | - | - | - |
 | Ràdio Cubelles | [MP3](http://streaming.enantena.com:8000/cubelles128.mp3) - [Stream](https://enacast.com/radiocubelles/streams/HD) | [web](http://www.radiocubelles.cat/) | [Logo](http://graph.facebook.com/radiocubelles/picture?width=320&height=320) | - | - |
 | Ràdio Vilafranca | - | [web](https://www.rtvvilafranca.cat/radio-vilafranca/radio-en-directe/) | [Logo](http://graph.facebook.com/rtvvilafranca/picture?width=320&height=320) | - | - |
 | Ràdio El Vendrell | [MP3](http://streaming.enantena.com:8000/rtvelvendrell128.mp3) -  [Stream](https://enacast.com/rtvelvendrell/streams/HD) | [web](http://www.rtvelvendrell.cat/radio-online/) | [Logo](http://graph.facebook.com/rtvelvendrell/picture?width=320&height=320) | - | - |
