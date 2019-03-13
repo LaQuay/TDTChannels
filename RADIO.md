@@ -45,16 +45,16 @@
 | Canal Fiesta Radio | [MP3](http://195.55.74.208/rtva/canalsurradio_sevilla.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_fiesta) | [Logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Flamenco Radio | [MP3](http://195.10.10.206/rtva/canalsurradio_sevilla.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_flamenco) | [Logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Radio Andalucía Información | [MP3](http://195.10.10.206/rtva/radioandalucia.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_rai) | [Logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
-| Cadena COPE Sevilla | - | [web](https://www.cope.es/directos/sevilla) | [Logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - | - |
-| Cadena COPE Sierra Norte | - | [web](https://radiosierranorte.es/radio-sierra-norte-en-directo-2/) | [Logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - | - |
+| Cadena COPE Sevilla | [MP3](https://flucast-b05-05.flumotion.com/copesedes/sevilla.mp3) | [web](https://www.cope.es/directos/sevilla) | [Logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - | - |
+| Cadena COPE Sierra Norte | [Stream](http://5.135.183.124:8100/stream) | [web](https://radiosierranorte.es/radio-sierra-norte-en-directo-2/) | [Logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - | - |
 | Cadena Digital | [MP3](http://185.23.192.118:8006/;stream.mp3) | [web](http://www.cadenadigital.com/) | [Logo](http://graph.facebook.com/CadenaDigitalMalaga/picture?width=320&height=320) | - | - |
 | Cadena Latino | [MP3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es/) | [Logo](http://graph.facebook.com/LatinoFMmalaga/picture?width=320&height=320) | - | - |
-| Cadena SER Almería | - | [web](https://play.cadenaser.com/emisora/ser_almeria/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
-| Cadena SER - Radio Cádiz | - | [web](https://play.cadenaser.com/emisora/radio_cadiz/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
-| Cadena SER - Radio Córdoba | - | [web](https://play.cadenaser.com/emisora/radio_cordoba) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
-| Cadena SER - Radio Granada | - | [web](https://play.cadenaser.com/emisora/radio_granada) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
-| Cadena SER - Levante | - | [web](https://play.cadenaser.com/emisora/ser_levante) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
-| Cadena SER - Radio Sevilla | - | [web](https://play.cadenaser.com/emisora/radio_sevilla) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER Almería | [aac](https://19393.live.streamtheworld.com/CADENASERAAC.aac) | [web](https://play.cadenaser.com/emisora/ser_almeria/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER - Radio Cádiz | [aac](https://20403.live.streamtheworld.com/CADENASERAAC.aac) | [web](https://play.cadenaser.com/emisora/radio_cadiz/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER - Radio Córdoba | [aac](https://20043.live.streamtheworld.com/CADENASERAAC.aac) | [web](https://play.cadenaser.com/emisora/radio_cordoba) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER - Radio Granada | [aac](https://20853.live.streamtheworld.com/CADENASERAAC.aac) | [web](https://play.cadenaser.com/emisora/radio_granada) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER - Levante | [aac](https://20043.live.streamtheworld.com/CADENASERAAC.aac) | [web](https://play.cadenaser.com/emisora/ser_levante) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER - Radio Sevilla | [aac](https://19993.live.streamtheworld.com/CADENASERAAC.aac) | [web](https://play.cadenaser.com/emisora/radio_sevilla) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | Candil Radio | [Stream](http://s6.viastreaming.net:7100/;) | [web](http://candilradio.com//modules/mod_rar_radio/tmpl/player/player.php?d=aHR0cDovL3M2LnZpYXN0cmVhbWluZy5uZXQ6NzEwMC87LGh0dHA6Ly9jYW5kaWxyYWRpby5jb20vLC9pbWFnZXMvbG9nb3MvbG9nby1jYW5kaWwucG5nLHB1Yi02ODI0NDk0OTQyNzA0NjkxLEVsIGxvZ28gZGUgQ2FuZGlsIFJhZGlvLDQwMCwzLDMsaHR0cDovL215ZG9tYWluLmNvbS90aXRsZS9jdXJyZW50U29uZy50eHQsUkFESU8gQVBBR0FEQSxObyBoYXkgdGl0dWxvcyxFc2N1Y2hhczosMCww) | [Logo](http://graph.facebook.com/890332081024749/picture?width=320&height=320) | - | - |
 | Central FM | - | [web](http://www.centralfm.com/) | [Logo](http://graph.facebook.com/131322746891532/picture?width=320&height=320) | - | - |
 | Radio Dance | [Stream](https://listen.radionomy.com/1-radio-dance) | [web](https://www.radionomy.com/en/radio/1-radio-dance/listen/) | [Logo](http://graph.facebook.com/radiodance.net/picture?width=320&height=320) | - | - |
@@ -209,7 +209,6 @@
 | La Marina FM | [Stream](http://endirecte.amcl.cat:8000/lamarinafm) | [web](http://lamarina.cat/endirecte/) | [Logo](http://graph.facebook.com/lamarinacat/picture?width=320&height=320) | - | - |
 | LOS40 Catalunya | [aac](https://19393.live.streamtheworld.com/LOS40_CATAAC.aac) | [web](https://play.los40.com/emisora/los40_catalunya/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
 | Mataró Ràdio | - | [web](https://enacast.com/iframe_directe/49/?theme=standard&autostart=yes) | [Logo](http://graph.facebook.com/mataroaudiovisual/picture?width=320&height=320) | - | - |
-| Onda Rambla | - | - | - | - | - |
 | RAC1 | [nsv](http://rac1.radiocat.net/;*.nsv) | [web](https://www.rac1.cat) | [Logo](http://graph.facebook.com/rac1oficial/picture?width=320&height=320) | - | - |
 | RAC 105 | [nsv](http://rac105.radiocat.net/;*.nsv) | [web](http://www.rac105.cat) | [Logo](http://graph.facebook.com/rac105/picture?width=320&height=320) | - | - |
 | RNE Ràdio 4 | [MP3](http://195.55.74.208/rtve/rtve-radio4.mp3) | [web](http://www.rtve.es/radio/radio4-endirecto/) | [Logo](http://graph.facebook.com/Radio4RNE/picture?width=320&height=320) | - | - |
@@ -222,44 +221,36 @@
 | Ràdio Marca Barcelona | [Stream](https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream) | [web](https://www.marca.com/radio.html?intcmp=BOTONPORTADA&s_kw=radiomarca#) | [Logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - | - |
 | Ràdio Tele-Taxi | - | [web](https://www.radioteletaxi.com/reproductor/) | [Logo](http://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - | - |
 | Ràdio Vilamajor | - | [web](http://www.radiovilamajor.cat/) | [Logo](http://graph.facebook.com/radio.vilamajor/picture?width=320&height=320) | - | - |
-| Ràdio L'Hospitalet | - | - | - | - | - |
-| Radio Cooltura | - | - | - | - | - |
-| e-radio | - | - | - | - | - |
-| Vinilo FM | - | - | - | - | - |
-| Ràdio Mollet | - | - | - | - | - |
-| RAP107 | - | - | - | - | - |
-| Ràdio Montornès | - | - | - | - | - |
-| Ràdio Silenci | - | - | - | - | - |
-| Ràdio Caldes | - | - | - | - | - |
-| Ràdio Granollers | - | - | - | - | - |
-| Onda Rambla | - | - | - | - | - |
-| Ràdio Capital Empordà | - | - | - | - | - |
-| Ràdio l'Escola | - | - | - | - | - |
+| Ràdio L'Hospitalet | - | [web](https://lhdigital.cat/web/digital-h/radio) | [Logo](http://graph.facebook.com/lhdigital/picture?width=320&height=320) | - | - |
+| Radio Cooltura | [MP3](http://streamserver1.somosdigital.net:8415/;stream.mp3) | [web](http://coolturafm.com/) | [Logo](http://graph.facebook.com/coolturafm/picture?width=320&height=320) | - | - |
+| Vinilo FM | [Stream](http://server9.emitironline.com:10923/;) | [web](http://vinilofm.es/player/) | [Logo](http://graph.facebook.com/vinilofm/picture?width=320&height=320) | - | - |
+| Ràdio Mollet | [MP3](http://streaming.enantena.com:8000/radiomollet56.mp3) - [Stream](https://enacast.com/radiomollet/streams/SD) | [web](http://www.radiomollet.com) | [Logo](http://graph.facebook.com/radiomollet963/picture?width=320&height=320) | - | - |
+| RAP107 | [MP3](http://streaming.enantena.com:8000/rap56.mp3) - [Stream](https://enacast.com/rap107/streams/SD) | [web](https://enacast.com/rap107/) | [Logo](http://graph.facebook.com/rap107/picture?width=320&height=320) | - | - |
+| Ràdio Montornès | [Stream](http://188.165.187.84:8008/stream) | [web](http://radio.montornes.cat/radios/directe) | [Logo](http://graph.facebook.com/radiomontornes/picture?width=320&height=320) | - | - |
+| Ràdio Silenci | [MP3](http://streaming.enacast.com:8000/radiosilenci56.mp3) - [Stream](https://enacast.com/radiosilenci/streams/SD) | [web](http://www.radiosilenci.cat) | [Logo](http://graph.facebook.com/rsilenci/picture?width=320&height=320) | - | - |
+| Ràdio Caldes | [MP3](http://streaming.enantena.com:8000/radiocaldes56.mp3) - [Stream](https://enacast.com/radiocaldes/streams/SD) | [web](http://www.radiocaldes.cat/) | [Logo](http://graph.facebook.com/RadioCaldes107.8fm/picture?width=320&height=320) | - | - |
+| Ràdio Granollers | [Stream](http://eu7.fastcast4u.com/proxy/radiogranollers/?mp=/stream) | [web](http://www.gasl.cat/) | [Logo](http://graph.facebook.com/174942455863314/picture?width=320&height=320) | - | - |
+| Ràdio Capital | [Stream](http://streaming.martiproduccions.com:8000/capitalhd) | [web](https://www.radiocapital.cat/endirecte/) | [Logo](http://graph.facebook.com/capitalemporda/picture?width=320&height=320) | - | - |
 | Segre Ràdio | - | - | - | - | - |
-| Proxima FM | - | - | - | - | - |
-| Ràdio Principal | - | - | - | - | - |
-| Altafulla Ràdio | - | - | - | - | - |
-| Tarragona Ràdio | - | - | - | - | - |
-| Ràdio Montblanc | - | - | - | - | - |
-| Ona La Torre | - | - | - | - | - |
-| Constantí Ràdio | - | - | - | - | - |
-| Ràdio Sant Pere i Sant Pau | - | - | - | - | - |
-| Imagina Ràdio | - | - | - | - | - |
-| Cadena SER - Ràdio Manresa | - | - | - | - | - |
-| Digital Hits FM | - | - | - | - | - |
-| Amb 2 FM | - | - | - | - | - |
-| Noucinc.2 Ràdio | - | - | - | - | - |
-| Canal Blau Ràdio | - | - | - | - | - |
+| PròximaFM | [Stream](http://91.187.93.115:8000/;stream/1) | [web](http://www.proxima.cat/) | [Logo](http://graph.facebook.com/proximafm/picture?width=320&height=320) | - | - |
+| Altafulla Ràdio | [MP3](http://streaming.enantena.com:8000/altafulla128.mp3MP3) - [Stream](https://enacast.com/altafullaradio/streams/HD) | [web](http://altafullaradio.cat/) | [Logo](http://graph.facebook.com/altafulla.radio/picture?width=320&height=320) | - | - |
+| Tarragona Ràdio | [MP3](http://streaming.enantena.com:8000/tarragona128.mp3) - [Stream](https://enacast.com/tarragonaradio/streams/HD) | [web](https://www.tarragonaradio.cat/) | [Logo](http://graph.facebook.com/tarragonaradio/picture?width=320&height=320) | - | - |
+| Ràdio Montblanc | [MP3](http://streaming.enantena.com:8000/radiomontblanc56.mp3) | [web](http://www.radiomontblanc.cat/) | [Logo](http://graph.facebook.com/139643876226143/picture?width=320&height=320) | - | - |
+| Ona La Torre | [aac](http://liveingesta118.cdnmedia.tv//onalatorrelive/smil:live.smil/media-ujhwa1bm9_b150000_22071.aac) - [m3u8](http://liveingesta118.cdnmedia.tv//onalatorrelive/smil:live.smil/master.m3u8) | [web](http://onalatorre.alacarta.cat/) | [Logo](http://graph.facebook.com/ona.latorre/picture?width=320&height=320) | - | - |
+| Constantí Ràdio | [aac](http://live10.cdnmedia.tv/ocasionalradio2live/smil:live.smil/media-ukyzbijv3_b100000_52363.aac) - [m3u8](http://live10.cdnmedia.tv/ocasionalradio2live/smil:live.smil/master.m3u8) | [web](http://www.constantiradio.cat/) | [Logo](http://graph.facebook.com/ConstantiRadio/picture?width=320&height=320) | - | - |
+| Ràdio Sant Pere i Sant Pau | [MP3](http://212.83.151.18:36686/;stream/1?1552499879263.mp3) | [web](http://www.radiospsp.com/) | [Logo](http://graph.facebook.com/Radio101.0/picture?width=320&height=320) | - | - |
+| Imagina Ràdio | [Stream](http://server8.emitironline.com:8038/radio) | [web](http://www.imaginaradio.cat/directe/) | [Logo](http://graph.facebook.com/ImaginaRadio103/picture?width=320&height=320) | - | - |
+| Cadena SER - Ràdio Manresa | [aac](https://19513.live.streamtheworld.com/CADENASERAAC.aac) | [web](https://play.cadenaser.com/emisora/radio_manresa/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| digitalHits FM | [Stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](http://www.digitalhits.cat/directe/) | [Logo](http://graph.facebook.com/digitalhits/picture?width=320&height=320) | - | - |
+| Ràdio Terrassa | [Stream](http://5.189.181.203:9306/;) | [web](http://terrassadigital.cat/radio/) | [Logo](http://graph.facebook.com/canalterrassa/picture?width=320&height=320) | - | - |
+| Canal Blau Ràdio | [MP3](http://streaming.enantena.com:8000/canalblau128.mp3) - [Stream](https://enacast.com/canalblau/streams/SD) | [web](http://podcast.canalblau.cat/) | [Logo](http://graph.facebook.com/CanalBlau/picture?width=320&height=320) | - | - |
 | Ràdio Ribes | - | - | - | - | - |
-| Ràdio Cubelles | - | - | - | - | - |
-| Ràdio Vilafranca | - | - | - | - | - |
-| Ràdio El Vendrell | - | - | - | - | - |
-| Ràdio Maricel | - | - | - | - | - |
-| Ràdio Ripoll | - | - | - | - | - |
-| Ràdio Olot | - | - | - | - | - |
-| Joy FM | - | - | - | - | - |
-| Joy 24h | - | - | - | - | - |
-| Joy somreggae | - | - | - | - | - |
+| Ràdio Cubelles | [MP3](http://streaming.enantena.com:8000/cubelles128.mp3) - [Stream](https://enacast.com/radiocubelles/streams/HD) | [web](http://www.radiocubelles.cat/) | [Logo](http://graph.facebook.com/radiocubelles/picture?width=320&height=320) | - | - |
+| Ràdio Vilafranca | - | [web](https://www.rtvvilafranca.cat/radio-vilafranca/radio-en-directe/) | [Logo](http://graph.facebook.com/rtvvilafranca/picture?width=320&height=320) | - | - |
+| Ràdio El Vendrell | [MP3](http://streaming.enantena.com:8000/rtvelvendrell128.mp3) -  [Stream](https://enacast.com/rtvelvendrell/streams/HD) | [web](http://www.rtvelvendrell.cat/radio-online/) | [Logo](http://graph.facebook.com/rtvelvendrell/picture?width=320&height=320) | - | - |
+| Ràdio Maricel | [MP3](http://94.23.87.98:8065/;&type=mp3) | [web](http://www.radiomaricel.cat/) | [Logo](http://graph.facebook.com/radiomaricel/picture?width=320&height=320) | - | - |
+| Ràdio Ripoll | [Stream](http://5.135.183.124:8151/stream) | [web](https://www.corisamediagrup.com/mitjans/r%C3%A0dio-ripoll-ona-90/) | [Logo](http://graph.facebook.com/334511563914/picture?width=320&height=320) | - | - |
+| Ràdio Olot | [Stream](http://chrome.frilab.com:8000/radiolot) | [web](http://www.radiolot.cat/) | [Logo](http://graph.facebook.com/Radiolot/picture?width=320&height=320) | - | - |
 
 ### Ceuta
 
@@ -285,6 +276,8 @@
 | Cadena SER - Radio Vigo | - | [web](https://play.cadenaser.com/emisora/radio_vigo/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | Cadena SER - Baixo Miño | - | [web](https://play.cadenaser.com/emisora/ser_baixo_mino/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | Cadena SER - Mariña | - | [web](https://play.cadenaser.com/emisora/radio_mariña/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER - Radio Principal Monforte | [Stream](http://srv0510.lcinternet.com:8007/stream) | [web](http://www.radioytele.es/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER - Radio Principal Vilalba | [Stream](http://srv0510.lcinternet.com:8006/stream) | [web](http://www.radioytele.es/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | Cuac FM | [ogg](https://streaming.cuacfm.org/cuacfm.ogg) | [web](https://cuacfm.org/directo/) | [Logo](http://graph.facebook.com/cuacfm/picture?width=320&height=320) | - | - |
 | Radio Municipal de Tui | - | [web](http://www.concellotui.org/php/radio.php) | [Logo](http://graph.facebook.com/RadioMunicipaldeTui/picture?width=320&height=320) | - | - |
 | Radiofusión | [Stream](http://srv0411.lcinternet.com:9005/stream) | [web](https://www.radiofusion.eu/) | [Logo](http://graph.facebook.com/Radiofusionga/picture?width=320&height=320) | - | - |
