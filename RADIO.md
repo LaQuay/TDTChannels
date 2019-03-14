@@ -271,9 +271,7 @@
 | Cuac FM | [ogg](https://streaming.cuacfm.org/cuacfm.ogg) | [web](https://cuacfm.org/directo/) | [Logo](http://graph.facebook.com/cuacfm/picture?width=320&height=320) | - | - |
 | Radio Municipal de Tui | [Stream](http://srv01.redsanmarcos.com:8022/stream) | [web](http://www.concellotui.org/php/radio.php) | [Logo](http://graph.facebook.com/RadioMunicipaldeTui/picture?width=320&height=320) | - | - |
 | Radiofusión | [Stream](http://srv0411.lcinternet.com:9005/stream) | [web](https://www.radiofusion.eu/) | [Logo](http://graph.facebook.com/Radiofusionga/picture?width=320&height=320) | - | - |
-| Radio Eume | - | - | - | - | - |
 | Radio Fene | [Stream](http://srv0490.lcinternet.com:8002/stream) | [web](https://www.radiofusion.eu/) | [Logo](http://graph.facebook.com/196309677056427/picture?width=320&height=320) | - | - |
-| Radio Obradoiro | - | - | - | - | - |
 | Radio Voz | [MP3](http://live.radiovoz.es/mp3/stream_santiago.mp3) | [web](http://www.radiovoz.com/) | [Logo](http://graph.facebook.com/radiovoz/picture?width=320&height=320) | - | - |
 | Via Radio | [nsv](http://radioserver9.profesionalhosting.com:35223/;stream.nsv) | [web](https://viaradio.es/) | [logo](http://graph.facebook.com/viaradiohavuelto/picture?width=320&height=320) | - | - |
 
@@ -308,23 +306,22 @@
 | Onda Madrid | [m3u8 # 1](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 2](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid/) | [Logo](http://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - | - |
 | Cadena SER - Sierra | [MP3](http://217.126.244.152:7000/;stream.mp3) | [web # 1](https://play.cadenaser.com/emisora/ser_madrid_sierra/) - [web # 2](http://www.lavozdelasierra.es/ser-sierra/player.php) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | ECO Leganés | - | [web](http://ecoleganes.org/) | [Logo](http://graph.facebook.com/ecoleganes/picture?width=320&height=320) | - | - |
-| Gestiona Radio | - | [web](http://www.gestionaradio.com/) | [Logo](http://graph.facebook.com/GestionaRadioValencia/picture?width=320&height=320) | - | - |
+| Gestiona Radio | [Stream](http://185.165.0.13:8004/stream/;) | [web](http://www.gestionaradio.com/) | [Logo](http://graph.facebook.com/GestionaRadioValencia/picture?width=320&height=320) | - | - |
 | Inforadio | [ogg](http://stream00.inforadio.ccinf.es:8000/inforadio01.ogg) | [web](http://inforadioucm.blogspot.com/p/escuchanos-en-directo.html) | [Logo](http://graph.facebook.com/inforadiocomplutense/picture?width=320&height=320) | - |
-| Radio Inter | - | [web](https://www.radiointer.es/) | [Logo](http://graph.facebook.com/RadioIntEs/picture?width=320&height=320) | - | - |
-| M21 Radio | - | [web](https://www.m21radio.es/ahora) | [Logo](http://graph.facebook.com/m21madrid/picture?width=320&height=320) | - | - |
+| Radio Internacional | [MP3](http://195.55.74.203/rinternacional/audio-fme.mp3) | [web](http://www.radiointernacional.es/) | [Logo](http://graph.facebook.com/RadioIntEs/picture?width=320&height=320) | - | - |
+| M21 Radio | [MP3](https://streamer92.store.aranova.cloud/mp3/live/m21radio_m21radio_128.mp3) | [web](https://www.m21radio.es/ahora) | [Logo](http://graph.facebook.com/m21madrid/picture?width=320&height=320) | - | - |
 | Onda Diamante | [M3U](http://www.avvcanillejas.org/docs/ondadiamante.ogg.m3u) | [web](http://graph.facebook.com/OndaDiamanteOD/picture?width=320&height=320) | [Logo](http://www.avvcanillejas.org/img/radio.jpg) | - | - |
 | Onda Cero Sierra | [MP3](http://ondacerosierra.ddns.net:7000/;stream.mp3) | [web](http://www.lavozdelasierra.es/onda-cero-sierra/) | [Logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - | - |
 | OMC Radio | [Stream](http://cervera.eldialdigital.com:8104/;) | [web](https://www.omcradio.org/escuchanos/) | [Logo](http://graph.facebook.com/OmcRadio/picture?width=320&height=320) | - | - |
-| Onda Polígono | - | [web](http://www.ondapoligono.org/) | [Logo](http://graph.facebook.com/WEBEBGGWEGE/picture?width=320&height=320) | - | - |
+| Onda Polígono | [Stream](http://marconi.eldialdigital.com:6230/;) | [web](http://www.ondapoligono.org/) | [Logo](http://graph.facebook.com/WEBEBGGWEGE/picture?width=320&height=320) | - | - |
 | Radio Almenara | [Stream](http://185.50.197.212:9986/;) | [web](http://www.radioalmenara.net/) | [Logo](http://graph.facebook.com/RadioAlmenara/picture?width=320&height=320) | - | - |
-| Radio Cigüeña | - | [web](http://streamserver2.somosdigital.net:2199/start/sd0211a/) | [Logo](http://graph.facebook.com/297157036138/picture?width=320&height=320) | - | - |
-| Radio Enlace | - | [web](http://www.radioenlace.org/) | [Logo](http://graph.facebook.com/radioenlacemadrid/picture?width=320&height=320) | - | - |
+| Radio Cigüeña | [pls](http://streamserver2.somosdigital.net:2199/system/images/tunein-pls.png) | [web](http://streamserver2.somosdigital.net:2199/start/sd0211a/) | [Logo](http://graph.facebook.com/297157036138/picture?width=320&height=320) | - | - |
+| Radio Enlace | [Stream](http://cervera.eldialdigital.com:8100/;) | [web](http://www.radioenlace.org/) | [Logo](http://graph.facebook.com/radioenlacemadrid/picture?width=320&height=320) | - | - |
 | Radio Fuga | [Stream](http://radiogestion.com:7090/radiofuga) | [web](http://radio-fuga.com/escuchanosaqui/) | [Logo](http://graph.facebook.com/RadioFuga/picture?width=320&height=320) | - | - |
 | Radio Jabato | - | [web](https://www.ivoox.com/escuchar-radio-jabato_nq_219448_1.html) | [Logo](http://graph.facebook.com/RadioJabato/picture?width=320&height=320) | - | - |
-| Radio Las Águilas | - | [web](http://www.radiolasaguilas.es/) | [Logo](https://pbs.twimg.com/profile_images/564877578943864832/0WaT4f5B_400x400.jpeg) | - | - |
+| Radio Las Águilas | [Stream](http://server2.crearradio.com:8306/;stream) | [web](http://www.radiolasaguilas.es/) | [Logo](https://pbs.twimg.com/profile_images/564877578943864832/0WaT4f5B_400x400.jpeg) | - | - |
 | Radio Morata | [MP3](http://cervera.eldialdigital.com:8132/codec=mp3) | [web](http://www.radiomorata.com/lavoz/) | [Logo](http://graph.facebook.com/radiomorata/picture?width=320&height=320) | - | - |
-| Radio Paloma | - | [web](https://schlager.radio/) | [Logo](http://graph.facebook.com/RadioPaloma.de/picture?width=320&height=320) | - | - |
-| Radio Romanul | - | [web](http://www.radioromanul.es/live/) | [Logo](http://graph.facebook.com/RadioRomanul/picture?width=320&height=320) | - | - |
+| Radio Romanul | [Stream](http://streaming.radioromanul.es:55556/radioromanul) | [web](http://www.radioromanul.es/live/) | [Logo](http://graph.facebook.com/RadioRomanul/picture?width=320&height=320) | - | - |
 | Radio Utopía | [MP3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](http://www.radioutopia.org.es/) | [Logo](http://graph.facebook.com/179099278878655/picture?width=320&height=320) | - | - |
 | Radio Vallekas | [Stream](http://cervera.eldialdigital.com:8032/;) - [M3U](http://www.radiovallekas.org/emision.m3u) | [web](http://www.radiovallekas.org/spip/spip.php?rubrique30) | [Logo](http://graph.facebook.com/radiovallekas/picture?width=320&height=320) | - | - |
 | Radio Vallekas 2 | [Stream](http://rvk2.radiovallekas.org:6020/;) | [web](http://www.radiovallekas.org/spip/spip.php?rubrique30) | [Logo](http://graph.facebook.com/radiovallekas/picture?width=320&height=320) | - | - |
