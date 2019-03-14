@@ -41,7 +41,7 @@
 | Webcam RNE | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/radio/directo/) | [logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
 | Webcam RNE 3 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/radio/radio3/directo/) | [logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
 | Yu No Te Pierdas Nada HD | [m3u8](https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8) | [web](https://yu.los40.com/) | [logo](http://graph.facebook.com/VodafoneYU/picture?width=320&height=320) | - | - |
-| Intereconomía | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](http://www.intereconomia.tv/) | [logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | Intereconomia.sp | - |
+| El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](http://www.intereconomia.tv/) | [logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | Intereconomia.sp | - |
 
 ## Informativos
 
@@ -369,7 +369,7 @@
 | Este Canal TV | [m3u8](https://api.new.livestream.com/accounts/8817409/events/7051352/videos/185182785.secure.m3u8) | [web](https://livestream.com/estecanaltv/events/7051352) | [logo](http://graph.facebook.com/estecanaltv/picture?width=320&height=320) | - | - |
 | Canal 13 Digital | [m3u8](http://212.40.234.65/live/canal13/playlist.m3u8) | [web](https://rtvos5.wixsite.com/canal13) | [logo](http://graph.facebook.com/RTVCANAL13/picture?width=320&height=320) | - | - |
 | Gigante TV | [m3u8](http://85.214.130.95:8080/live/stream.m3u8) | [web](http://gigantetv.es/) | [logo](http://graph.facebook.com/741011612731578/picture?width=320&height=320) | - | - |
-| Mi Tierra Televisión | - | [web](http://www.mitierratelevision.com/directo/) | [logo](http://graph.facebook.com/minortetv/picture?width=320&height=320) | - | - |
+| Mi Tierra Televisión | [m3u8](https://5940924978228.streamlock.net:443/8171/8171/playlist.m3u8) | [web](http://www.mitierratelevision.com/directo/) | [logo](http://graph.facebook.com/minortetv/picture?width=320&height=320) | - | - |
 | Televisión Mogán | [m3u8](https://5b38ce71f1f00.streamlock.net/8162/8162/master.m3u8) | [web](http://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | [logo](http://graph.facebook.com/radiotelevisionmogan/picture?width=320&height=320) | - | - |
 | Fuerteventura TV | - | [web](https://www.fuerteventuratv.net/es/) | [logo](http://graph.facebook.com/canalguadalajara/picture?width=320&height=320) | - | - |
 | Canal 8 TIC | - | [web](http://www.canal8tic.es/) | [logo](http://graph.facebook.com/189913141058898/picture?width=320&height=320) | - | - |
