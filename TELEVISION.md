@@ -318,7 +318,7 @@
 | Alternativa TV | [m3u8](https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8) | [web](https://www.alternativartv.eu/) | [logo](https://lh3.googleusercontent.com/reK_4oh88GRPldelDZd4R09-qb45thX1p48RoRqLtRwYWfmjuDA5p8L59GC3WuVILOt6=w170-rw) | - | - |
 | 9 la Loma | - | [web](https://9laloma.tv/directo/) | [logo](http://graph.facebook.com/9laloma/picture?width=320&height=320) | - | - |
 | LaSierra TV | - | [web](https://lasierratv.wordpress.com/) | [logo](https://secure.gravatar.com/avatar/8869d8fe1b0a7caef203304039bad180?s=100&r=pg&d=mm) | - | - |
-| Torrevisión | [m3u8](https://api.new.livestream.com/accounts/2614936/events/1848989/videos/188553578.secure.m3u8) | [web](http://www.torrevisiontelevision.es/directo/) | [logo](http://graph.facebook.com/229475603752318/picture?width=320&height=320) | - | - |
+| Torrevisión | - | [web](http://www.torrevisiontelevision.es/directo/) | [logo](http://graph.facebook.com/229475603752318/picture?width=320&height=320) | - | - |
 | Axarquía TV | - | [web](http://axarquiatv.es/) | [logo](http://graph.facebook.com/AxarquiaTV/picture?width=320&height=320) | - | - |
 | Axarquía Plus TV | - | [web](https://www.axarquiaplus.es/axarquiaplus-tv/) | [logo](http://graph.facebook.com/axarquiaplusinformacion/picture?width=320&height=320) | - | - |
 | Ronda TV | - | [web](http://www.rondacomunicacion.com/) | [logo](http://graph.facebook.com/1430706660515547/picture?width=320&height=320) | - | - |
@@ -327,7 +327,7 @@
 | Telécija | - | [web](https://www.youtube.com/user/TELECIJA) | [logo](http://graph.facebook.com/telecija.televisioncomarcal/picture?width=320&height=320) | - | - |
 | Canal Coín | [m3u8](http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8) | [web](http://canalcoin.com/tv-directo) | [logo](http://canalcoin.com/wp-content/uploads/2017/03/logoHQblanco-300x284.jpg) | - | - |
 | M95 Marbella | - | [web](http://m95tv.es/) | [logo](http://graph.facebook.com/m95tvmarbella/picture?width=320&height=320) | - | - |
-| Torremolinos Televisión | [m3u8](https://api.new.livestream.com/accounts/2614936/events/1848989/videos/188553578.secure.m3u8) | [web](https://torremolinostv.com/tv-en-directo/) | [logo](http://graph.facebook.com/torremolinostv/picture?width=320&height=320) | - | - |
+| Torremolinos Televisión | - | [web](https://torremolinostv.com/tv-en-directo/) | [logo](http://graph.facebook.com/torremolinostv/picture?width=320&height=320) | - | - |
 | Canal San Roque | [m3u8](https://common01.todostreaming.es/live/sanroque-livestream.m3u8) | [web](http://multimediasanroque.com/) | [logo](http://graph.facebook.com/296307903714631/picture?width=320&height=320) | - | - |
 | Canal Bom | - | [web](http://www.canalbom.com) | [logo](http://graph.facebook.com/canalbomtv/picture?width=320&height=320) | - | - |
 | Indalo Channel | - | [web](http://www.indalochannel.es/Index_Tdt_TVOnline.html) | [logo](http://graph.facebook.com/indalo.almeria.33/picture?width=320&height=320) | - | - |
@@ -366,7 +366,7 @@
 | Tindaya TV | [m3u8](https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live.smil/master.m3u8) | [web](https://www.tindayatv.com/) | [logo](http://graph.facebook.com/TindayaTV/picture?width=320&height=320) | - | - |
 | Canal 4 TV | - | [web](https://canal4tvtelde.es/en-directo) | [logo](http://graph.facebook.com/canal4tvtelde/picture?width=320&height=320) | - | - |
 | Biosfera TV | - | [web](http://www.biosferatv.es/) | [logo](http://graph.facebook.com/biosferatelevision/picture?width=320&height=320) | - | - |
-| Este Canal TV | [m3u8](https://api.new.livestream.com/accounts/8817409/events/7051352/videos/185182785.secure.m3u8) | [web](https://livestream.com/estecanaltv/events/7051352) | [logo](http://graph.facebook.com/estecanaltv/picture?width=320&height=320) | - | - |
+| Este Canal TV | - | [web](https://livestream.com/estecanaltv/events/7051352) | [logo](http://graph.facebook.com/estecanaltv/picture?width=320&height=320) | - | - |
 | Canal 13 Digital | [m3u8](http://212.40.234.65/live/canal13/playlist.m3u8) | [web](https://rtvos5.wixsite.com/canal13) | [logo](http://graph.facebook.com/RTVCANAL13/picture?width=320&height=320) | - | - |
 | Gigante TV | [m3u8](http://85.214.130.95:8080/live/stream.m3u8) | [web](http://gigantetv.es/) | [logo](http://graph.facebook.com/741011612731578/picture?width=320&height=320) | - | - |
 | Mi Tierra Televisión | [m3u8](https://5940924978228.streamlock.net:443/8171/8171/playlist.m3u8) | [web](http://www.mitierratelevision.com/directo/) | [logo](http://graph.facebook.com/minortetv/picture?width=320&height=320) | - | - |
