@@ -605,7 +605,7 @@
 | PequeRadio TV | [m3u8](http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8) | [web](http://www.pequeradio.com/tvv2.php) | [logo](http://graph.facebook.com/Pequeradio/picture?width=320&height=320) | - | - |
 | Cetelmon | - | [web](http://www.cetelmon.tv/) | [logo](http://graph.facebook.com/cetelmon.television/picture?width=320&height=320) | - | - |
 | 12TV | - | [web](http://www.12tv.es/12tv-directo/) | [logo](http://graph.facebook.com/12tv.es/picture?width=320&height=320) | - | - |
-| Canal 10 Millones HD | [m3u8](https://59b782181fb20.streamlock.net:455/yowi2/live-1000/master.m3u8) | [web](http://www.canal10millones.es/en-directo/) | [logo](http://graph.facebook.com/TxingudiOnline/picture?width=320&height=320) | - | - |
+| Canal 10 Millones HD | - | [web](http://www.canal10millones.es/en-directo/) | [logo](http://www.canal10millones.es/wp-content/uploads/2019/03/Mosca-Canal-10-Milllones-Yowi.png) | - | - |
 | Comarcal Televisió | - | [web](http://www.comarcal.tv/) | [logo](http://graph.facebook.com/televisiocomarcalcostera/picture?width=320&height=320) | - | - |
 | Alicantí TV | [m3u8](http://5.39.65.105/hls/alacantixa.m3u8) | [web](http://www.alacantitv.com/en-directo/) | [logo](http://graph.facebook.com/alacantitv/picture?width=320&height=320) | - | - |
 | Enlace TV | [m3u8](https://api.new.livestream.com/accounts/2675843/events/1839332/videos/186663669.secure.m3u8) | [web](https://www.enlace.org/envivo/) | [logo](http://graph.facebook.com/enlacetv/picture?width=320&height=320) | - | - |
