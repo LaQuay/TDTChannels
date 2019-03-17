@@ -34,6 +34,7 @@
 | Loca FM | [Stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | [Logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - | - |
 | Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | [Logo](http://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - | - |
 | Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com/) | [logo](http://graph.facebook.com/Radio4GOficial/picture?width=320&height=320) | - |
+| Clásica FM Radio | [Stream](http://listen1.mixlr.com/bbf7a7693e4601235e8bcfe46c4bb3a9) | [web](http://clasicafmradio.es/cfm-escucha/) | [Logo](http://graph.facebook.com/clasicafmradio/picture?width=320&height=320) | - |
 
 ## Autonómicos
 
