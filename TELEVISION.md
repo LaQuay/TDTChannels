@@ -193,6 +193,7 @@
 | - | - | - | - | - | - |
 | IB3 | [m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8) | [web](http://ib3tv.com/directe) | [logo](http://graph.facebook.com/IB3org/picture?width=320&height=320) | IB3.sp | - |
 | Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master_DVR.m3u8) | [web](https://ib3.org/directe?c=bondia) | [logo](https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png) | - | - |
+| Fibwi HD | [m3u8](http://178.132.6.97/fibwiLIVE1/playlist.m3u8) | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
 
 ### La Rioja
 
@@ -517,8 +518,6 @@
 | Ibiza Global TV | [m3u8](http://server10.streaming-pro.com:1937/live/ibgtvlive/master.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](http://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320) | - | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | [logo](http://graph.facebook.com/LuxMallorca/picture?width=320&height=320) | - | - |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/master.m3u8) | [web](http://canal4televisio.com/canal-4-en-directo/) | [logo](http://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - | - |
-| Fibwi HD | [m3u8](http://178.132.6.97/fibwiLIVE1/playlist.m3u8) | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
-| Fibwi Clips HD | - | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
 | Inselradio TV | [m3u8](http://185.19.217.171:1935/live/inselradio/playlist.m3u8) | [web](https://www.inselradio.com/player/?tv) | [Logo](http://graph.facebook.com/DasInselradio/picture?width=320&height=320) | - | - |
 
 ### La Rioja
