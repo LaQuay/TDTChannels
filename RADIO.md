@@ -120,7 +120,7 @@
 | Radio Galega | [MP3](http://195.10.10.206/radiogalega/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/radio-galega) | [Logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - | - |
 | Radio Galega Música | [MP3](http://195.10.10.213/radiogalega-musica/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/rg-musica) | [Logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - | - |
 | Son Galicia Radio | [MP3](http://195.10.10.201/songalicia/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/son-galicia) | [Logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - | - |
-| Radio Picariña | [Stream](http://ondemand-crtvg-origin.flumotion.com/videos/rg_infantil/flumotion/amodino.mp3)) | [web](http://www.crtvg.es/en-directo/canles-directos-rg/radio-picarina) | [Logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - | - |
+| Radio Picariña | [Stream](http://ondemand-crtvg-origin.flumotion.com/videos/rg_infantil/flumotion/amodino.mp3) | [web](http://www.crtvg.es/en-directo/canles-directos-rg/radio-picarina) | [Logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - | - |
 
 ### Islas Baleares
 
@@ -332,7 +332,6 @@
 | Ràdio Ciutat de Badalona | [MP3](http://streaming.enantena.com:8000/radiob128.mp3) - [Stream](https://enacast.com/radiob/streams/HD) | [web](https://enacast.com/iframe_directe/39/?theme=standard) | [Logo](http://graph.facebook.com/Badalona-Tv/picture?width=320&height=320) | - | - |
 | Ràdio Despí | [Stream](http://178.33.161.57:17234/stream) | [web](https://radiodespi.net/directo/) | [Logo](http://graph.facebook.com/radiodespi/picture?width=320&height=320) | - | - |
 | Ràdio Estel | [Stream/PLS](http://srv3021.lcinternet.com:8019/stream) | [web](http://player.lcinternet.es/v9/cc232_id415/) | [Logo](http://graph.facebook.com/Radioestelbcn/picture?width=320&height=320) | - | - |
-| Ràdio Flaixbac | [Stream](https://www.flaixbac.cat/ca/api/player/live) | [web](https://www.flaixbac.cat/) | [Logo](http://graph.facebook.com/flaixbac/picture?width=320&height=320) | - | - |
 | Ràdio Gràcia | [MP3](http://streaming.enantena.com:8000/radiograciaHD.mp3) - [Stream](https://enacast.com/radiogracia/streams/HD) | [web](https://ajuntament.barcelona.cat/gracia/ca/coneixeu-el-districte/radio-gracia) | [Logo](http://graph.facebook.com/RadioGraciaBarcelona/picture?width=320&height=320) | - | - |
 | Ràdio Marca Barcelona | [Stream](https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream) | [web](https://www.marca.com/radio.html?intcmp=BOTONPORTADA&s_kw=radiomarca#) | [Logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - | - |
 | Ràdio Tele-Taxi | [MP3](https://radioteletaxi2-adswizz.grupott.stream.flumotion.com/gtt/radioteletaxi2.mp3) | [web](https://www.radioteletaxi.com/reproductor/) | [Logo](http://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - | - |
@@ -438,9 +437,7 @@
 | Radio Morata | [MP3](http://cervera.eldialdigital.com:8132/codec=mp3) | [web](http://www.radiomorata.com/lavoz/) | [Logo](http://graph.facebook.com/radiomorata/picture?width=320&height=320) | - | - |
 | Radio Romanul | [Stream](http://streaming.radioromanul.es:55556/radioromanul) | [web](http://www.radioromanul.es/live/) | [Logo](http://graph.facebook.com/RadioRomanul/picture?width=320&height=320) | - | - |
 | Radio Utopía | [MP3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](http://www.radioutopia.org.es/) | [Logo](http://graph.facebook.com/179099278878655/picture?width=320&height=320) | - | - |
-| Radio Vallekas | [Stream](http://cervera.eldialdigital.com:8032/;) - [M3U](http://www.radiovallekas.org/emision.m3u) | [web](http://www.radiovallekas.org/spip/spip.php?rubrique30) | [Logo](http://graph.facebook.com/radiovallekas/picture?width=320&height=320) | - | - |
-| Radio Vallekas 2 | [Stream](http://rvk2.radiovallekas.org:6020/;) | [web](http://www.radiovallekas.org/spip/spip.php?rubrique30) | [Logo](http://graph.facebook.com/radiovallekas/picture?width=320&height=320) | - | - |
-| Radio Vallekas Eventos | [Stream](http://tesla.eldialdigital.com:6002/;) | [web](http://www.radiovallekas.org/spip/spip.php?rubrique30) | [Logo](http://graph.facebook.com/radiovallekas/picture?width=320&height=320) | - | - |
+| Radio Vallekas | [Stream](http://cervera.eldialdigital.com:8032/;) | [web](http://www.radiovallekas.org/) | [Logo](http://graph.facebook.com/radiovallekas/picture?width=320&height=320) | - | - |
 
 ### Melilla
 
