@@ -149,7 +149,7 @@
 | Esport 3 | [m3u8](https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:es3_web/master_DVR.m3u8) | [web](http://www.ccma.cat/tv3/directe-avancat/esport3) | [logo](http://graph.facebook.com/Esport3/picture?width=320&height=320) | Esport 3.sp | - |
 | Super3 | [m3u8](https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:c33_web/master_DVR.m3u8) | [web](http://www.ccma.cat/tv3/directe-avancat/super3) | [logo](http://graph.facebook.com/clubsuper3/picture?width=320&height=320) | 33.sp | - |
 | CCMA Exclusiu 1 | [m3u8](https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:oca1_web/master_DVR.m3u8) | [web](http://www.ccma.cat/tv3/directe-avancat/exclusiu/oca1/) | [logo](https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_400x400.jpg) | - | - |
-| CCMA Exclusiu 2 | [m3u8](https://ccma-tva-cat-cellnex-live-hls.secure.footprint.net/cat/ngrp:oca2_web/master_DVR.m3u8) | [web](http://www.ccma.cat/tv3/directe-avancat/exclusiu/oca2/) | [logo](https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_400x400.jpg) | - | - |
+| CCMA Exclusiu 2 | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:oca2_web/master_DVR.m3u8) | [web](http://www.ccma.cat/tv3/directe-avancat/exclusiu/oca2/) | [logo](https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_400x400.jpg) | - | - |
 | Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master_DVR.m3u8) | [web](https://www.ccma.cat/bondiatv/) | [logo](https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png) | - | - |
 | TV3 Càmeres | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:beauties_web/master.m3u8) | [web](http://www.ccma.cat/el-temps/cameres/) | [logo](http://graph.facebook.com/tv3/picture?width=320&height=320) | - | - |
 | La 1 Catalunya | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8) | [web](http://www.rtve.es/television/catalunya/directo/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | La 1 Catalunya.sp | - |
@@ -193,6 +193,7 @@
 | - | - | - | - | - | - |
 | IB3 | [m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8) | [web](http://ib3tv.com/directe) | [logo](http://graph.facebook.com/IB3org/picture?width=320&height=320) | IB3.sp | - |
 | Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master_DVR.m3u8) | [web](https://ib3.org/directe?c=bondia) | [logo](https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png) | - | - |
+| Fibwi HD | [m3u8](http://178.132.6.97/fibwiLIVE1/playlist.m3u8) | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
 
 ### La Rioja
 
@@ -237,11 +238,11 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| ETB SAT Canal Vasco | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](http://www.eitb.eus/es/television/etb-sat/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/320px-ETBSat_Spain.svg.png) | ETB Sat.sp | - |
-| ETB 1 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/320px-ETB1_Spain.svg.png) | ETB 1.sp | - |
-| ETB 2 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/320px-ETB2_Spain.svg.png) | ETB 2.sp | - |
-| ETB 3 | - | [web](https://www.eitb.eus/es/television/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ETB3_Spain.svg/320px-ETB3_Spain.svg.png) | ETB 3.sp | - |
-| ETB 4 | - | [web](https://www.eitb.eus/es/television/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ETB4_Spain.svg/320px-ETB4_Spain.svg.png) | - | - |
+| ETB SAT Canal Vasco | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](http://www.eitb.eus/es/television/etb-sat/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETB Sat.sp | - |
+| ETB 1 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETB 1.sp | - |
+| ETB 2 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETB 2.sp | - |
+| ETB 3 | - | [web](https://www.eitb.eus/es/television/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETB 3.sp | - |
+| ETB 4 | - | [web](https://www.eitb.eus/es/television/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | - | - |
 
 ### Valencia
 
@@ -517,8 +518,6 @@
 | Ibiza Global TV | [m3u8](http://server10.streaming-pro.com:1937/live/ibgtvlive/master.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](http://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320) | - | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | [logo](http://graph.facebook.com/LuxMallorca/picture?width=320&height=320) | - | - |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/master.m3u8) | [web](http://canal4televisio.com/canal-4-en-directo/) | [logo](http://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - | - |
-| Fibwi HD | [m3u8](http://178.132.6.97/fibwiLIVE1/playlist.m3u8) | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
-| Fibwi Clips HD | - | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
 | Inselradio TV | [m3u8](http://185.19.217.171:1935/live/inselradio/playlist.m3u8) | [web](https://www.inselradio.com/player/?tv) | [Logo](http://graph.facebook.com/DasInselradio/picture?width=320&height=320) | - | - |
 
 ### La Rioja
@@ -636,7 +635,7 @@
 | franceinfo: | - | [web](https://www.francetvinfo.fr/en-direct/tv.html) | [logo](http://graph.facebook.com/franceinfo/picture?width=320&height=320) | - | - |
 | Euronews | - | [web](https://es.euronews.com/live) | [logo](http://graph.facebook.com/es.euronews/picture?width=320&height=320) | - | - |
 | ABC News HD | [m3u8](http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8) | [web](https://abcnews.go.com/Live/) | [logo](http://graph.facebook.com/ABCNews/picture?width=320&height=320) | - | - |
-| France 24 | [m3u8](http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) | [web](https://www.france24.com/en/live) | [logo](http://graph.facebook.com/FRANCE24/picture?width=320&height=320) | - | - |
+| France 24 | [m3u8 # Francés](http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) - [m3u8 # Árabe](http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8) | [web](https://www.france24.com/en/live) | [logo](http://graph.facebook.com/FRANCE24/picture?width=320&height=320) | - | - |
 | CBS News HD | [m3u8](http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | [logo](http://graph.facebook.com/CBSNews/picture?width=320&height=320) | - | - |
 | CNN | - | [web](https://www.youtube.com/watch?v=OSVmblr0tP0) | [logo](http://graph.facebook.com/CNNee/picture?width=320&height=320) | - | - |
 | Bloomberg Europe HD | [m3u8](https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8) | [web](https://www.bloomberg.com/live/europe) | [logo](http://graph.facebook.com/bloombergbusiness/picture?width=320&height=320) | - | - |
