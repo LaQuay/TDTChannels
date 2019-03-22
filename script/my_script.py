@@ -30,8 +30,11 @@ spain.add_ambit(Ambito("Deportivos", get_channels_from_part(canales_deportivos))
 canales_infantiles = stringbetween(content_nacional, "## Infantiles", "## Musicales")
 spain.add_ambit(Ambito("Infantiles", get_channels_from_part(canales_infantiles)))
 
-canales_musicales = stringbetween(content_nacional, "## Musicales", "## Autonómicos")
+canales_musicales = stringbetween(content_nacional, "## Musicales", "## Webcams")
 spain.add_ambit(Ambito("Musicales", get_channels_from_part(canales_musicales)))
+
+canales_webcams = stringbetween(content_nacional, "## Webcams", "## Autonómicos")
+spain.add_ambit(Ambito("Webcams", get_channels_from_part(canales_webcams)))
 
 canales_autonomicos_andalucia = stringbetween(content_nacional, "### Andalucía", "### Aragón")
 spain.add_ambit(Ambito("Andalucía", get_channels_from_part(canales_autonomicos_andalucia)))
