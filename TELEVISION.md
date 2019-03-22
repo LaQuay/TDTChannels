@@ -81,14 +81,14 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Webcam RNE | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/radio/directo/) | [logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
-| Webcam RNE 3 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/radio/radio3/directo/) | [logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
-| Webcam Onda Cero HD | [m3u8](https://livestartover.atresmedia.com/eventos37/master.m3u8) - [m3u8 # GEO](https://livestartover.atresmedia.com/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - | - |
-| Webcam LOS40 | [m3u8](https://40-live-hd-f.akamaihd.net/i/CAM40_X@86149/master.m3u8) | [web](https://los40.com/webcam/) | [logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
-| Webcam Del 40 al 1 HD | [m3u8](https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](http://graph.facebook.com/del40al1/picture?width=320&height=320) | - | - |
-| Webcam Anda Ya HD | - | [web](https://andaya.los40.com/) | [logo](http://graph.facebook.com/andayaenlos40/picture?width=320&height=320) | - | - |
-| Webcam Yu No Te Pierdas Nada HD | [m3u8](https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8) | [web](https://yu.los40.com/) | [logo](http://graph.facebook.com/VodafoneYU/picture?width=320&height=320) | - | - |
-| Webcam Del 40 al 1 HD | [m3u8](https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](http://graph.facebook.com/VodafoneYU/picture?width=320&height=320) | - | - |
+| RNE | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/radio/directo/) | [logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
+| RNE 3 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/radio/radio3/directo/) | [logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
+| Onda Cero HD | [m3u8](https://livestartover.atresmedia.com/eventos37/master.m3u8) - [m3u8 # GEO](https://livestartover.atresmedia.com/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - | - |
+| LOS40 | [m3u8](https://40-live-hd-f.akamaihd.net/i/CAM40_X@86149/master.m3u8) | [web](https://los40.com/webcam/) | [logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
+| Del 40 al 1 HD | [m3u8](https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](http://graph.facebook.com/del40al1/picture?width=320&height=320) | - | - |
+| Anda Ya HD | - | [web](https://andaya.los40.com/) | [logo](http://graph.facebook.com/andayaenlos40/picture?width=320&height=320) | - | - |
+| Yu No Te Pierdas Nada HD | [m3u8](https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8) | [web](https://yu.los40.com/) | [logo](http://graph.facebook.com/VodafoneYU/picture?width=320&height=320) | - | - |
+| Del 40 al 1 HD | [m3u8](https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](http://graph.facebook.com/VodafoneYU/picture?width=320&height=320) | - | - |
 
 ## Autonómicos
 
