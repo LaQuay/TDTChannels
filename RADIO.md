@@ -5,7 +5,7 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | Onda Cero | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) | [web](https://www.ondacero.es/directo/) | [Logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - | - |
-| Europa FM | [m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8) - [aac](https://livefastly-webs.europafm.com/europafm/audio/media-ulzd6rwtd_224747.aac) | [web](https://www.europafm.com/directo/) | [Logo](http://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - | - |
+| Europa FM | [m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8) | [web](https://www.europafm.com/directo/) | [Logo](http://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - | - |
 | Melodía FM | - | [web](http://www.melodia-fm.com/directo/) | [Logo](http://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - | - |
 | RNE | [MP3](http://195.55.74.203/rtve/rtve-rne.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
 | RNE 3 | [MP3](http://195.55.74.208/rtve/rtve-radio3.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
@@ -65,7 +65,7 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| RPA | [aac](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/media_b500000_74062.aac) - [m3u8](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8) | [web](https://rtpa.es/radio) | [Logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - | - |
+| RPA | [m3u8](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8) | [web](https://rtpa.es/radio) | [Logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - | - |
 
 ### Canarias
 
