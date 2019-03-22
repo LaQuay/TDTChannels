@@ -5,7 +5,7 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | Onda Cero | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) | [web](https://www.ondacero.es/directo/) | [Logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - | - |
-| Europa FM | [m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8) - [aac](https://livefastly-webs.europafm.com/europafm/audio/media-ulzd6rwtd_224747.aac) | [web](https://www.europafm.com/directo/) | [Logo](http://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - | - |
+| Europa FM | [m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8) | [web](https://www.europafm.com/directo/) | [Logo](http://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - | - |
 | Melodía FM | - | [web](http://www.melodia-fm.com/directo/) | [Logo](http://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - | - |
 | RNE | [MP3](http://195.55.74.203/rtve/rtve-rne.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
 | RNE 3 | [MP3](http://195.55.74.208/rtve/rtve-radio3.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
@@ -20,7 +20,8 @@
 | Cadena 100 | [MP3 # 1](http://195.55.74.203/cope/cadena100.mp3) - [MP3 # 2](http://cadena100-streamers-mp3-low.flumotion.com/cope/cadena100-low.mp3) | [web](http://www.cadena100.es/) | [Logo](http://graph.facebook.com/CADENA100/picture?width=320&height=320) | - | - |
 | Cadena Dial | [aac](https://19513.live.streamtheworld.com/CADENADIALAAC.aac) | [web](https://play.cadenadial.com/) | [Logo](http://graph.facebook.com/cadenadial/picture?width=320&height=320) | - | - |
 | Cadena SER | [Stream](https://19393.live.streamtheworld.com/CADENASERAAC.aac) | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
-| Cadena SER Alternativo | - | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER Alternativo 1 | [mp3 # 1](http://19093.live.streamtheworld.com/CADENASER_ALT1.mp3) - [mp3 # 2](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3) | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER Alternativo 2 | [mp3 # 1](http://19093.live.streamtheworld.com/CADENASER_ALT1.mp3) - [mp3 # 2](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3) | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | Cadena COPE | [MP3](https://flucast-m04-06.flumotion.com/cope/net1.mp3) | [web](https://www.cope.es/directos/net1) | [Logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - | - |
 | esRadio | [aac](http://livestreaming9.esradio.fm/aaclive32) - [MP3](https://livestreaming3.esradio.fm/stream64.mp3) | [web](https://esradio.libertaddigital.com/directo.html) | [Logo](http://graph.facebook.com/esradio/picture?width=320&height=320) | - | - |
 | Radio Intereconomía | [M3U8](https://streaming-fr04.enetres.net/16011939C62D44ED91350508FB25828B022/smil:live.smil/master.m3u8) | [web](https://intereconomia.com/radio/) | [Logo](http://graph.facebook.com/RadioIntereconomia/picture?width=320&height=320) | - | - |
@@ -65,7 +66,7 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| RPA | [aac](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/media_b500000_74062.aac) - [m3u8](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8) | [web](https://rtpa.es/radio) | [Logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - | - |
+| RPA | [m3u8](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8) | [web](https://rtpa.es/radio) | [Logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - | - |
 
 ### Canarias
 
