@@ -178,17 +178,19 @@ function filterChannelsList() {
 }
 
 function reproduceChannel(channel_options) {
-    options = channel_options;
-
     document.getElementById("option-buttons").innerHTML = ""
-    if (options.length == 1) {
-        reproduceVideo(channel['options'][0]['url'])
-    } else if (options.length > 1) {
-        for (i = 0; i < options.length; ++i) {
-            var url = options[i]['url'];
-            document.getElementById("option-buttons").innerHTML +=
-                "<a href='javascript:reproduceVideo(\"" + url + "\")' class='btn btn-secondary btn-sm' style='margin-right: 10px'>Opción " + (i+1) + "</a>";
+    if (channel_options.length > 0) {
+        reproduceVideo(channel_options[0]['url'])
+
+        if (channel_options.length > 1) {
+            for (i = 0; i < channel_options.length; ++i) {
+                var url = channel_options[i]['url'];
+                document.getElementById("option-buttons").innerHTML +=
+                    "<a href='javascript:reproduceVideo(\"" + url + "\")' class='btn btn-secondary btn-sm' style='margin-right: 10px'>Opción " + (i+1) + "</a>";
+            }
         }
+    } else {
+        reproduceVideo("no_video_found.m3u8")
     }
 }
 
