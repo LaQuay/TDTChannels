@@ -90,7 +90,7 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| esRadio - Castilla y León | [Stream](http://livecyl.esradio.fm/cyl) | [web](http://www.castillayleonesradio.es/) | [Logo](http://graph.facebook.com/esradio/picture?width=320&height=320)| - | - |
+| esRadio - Castilla y León | [Stream](http://livecyl.esradio.fm/cyl) | [web](http://www.castillayleonesradio.es/) | [Logo](http://graph.facebook.com/esradio/picture?width=320&height=320) | - |
 
 ### Cataluña
 
