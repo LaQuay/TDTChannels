@@ -80,7 +80,7 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 
-### Castilla-La Mancha
+### Castilla La-Mancha
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
@@ -305,7 +305,7 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 
-### Castilla-La Mancha
+### Castilla La-Mancha
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
