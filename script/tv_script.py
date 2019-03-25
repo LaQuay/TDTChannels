@@ -11,6 +11,8 @@ page = requests.get('https://raw.githubusercontent.com/LaQuay/TDTChannels/master
                     headers={'Cache-Control': 'no-cache'})
 content = str(page.text)
 
+print("Updating TV files")
+
 spain = Country("Spain")
 andorra = Country("Andorra")
 international = Country("International")
