@@ -17,13 +17,11 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 #### Descargar listas de reproducción
 *(Última actualización: 25/03/2019)*
 
-- [json](http://91.121.64.179/tdt_project/output/channels.json)
+| Media 	| Format 	|      	|     	|        	|
+|-------	|--------	|------	|-----	|--------	|
+| **TV**    	| [json](http://91.121.64.179/tdt_project/output/channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/channels.m3u) | [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)	|
+| **Radio** 	| [json](http://91.121.64.179/tdt_project/output/radio_channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/radio_channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/radio_channels.m3u) | -	|
 
-- [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8)
-
-- [m3u](http://91.121.64.179/tdt_project/output/channels.m3u)
-
-- [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)
 
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
