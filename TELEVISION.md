@@ -66,7 +66,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Disney Channel | [m3u8](http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/.m3u8) | [web](http://tv.disney.es/disney-channel) | [logo](http://graph.facebook.com/DisneyChannelESP/picture?width=320&height=320) | DCH ASTRA HD 1.sp | - |
+| Disney Channel | [m3u8](http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/.m3u8) | [web](http://tv.disney.es/disney-channel) | [logo](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d1/91/44/d19144d8-3725-6a09-3f4e-ab72a89a850c/source/320x320bb.jpg) | DCH ASTRA HD 1.sp | - |
 | Boing | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/boing) | [logo](http://graph.facebook.com/boinges/picture?width=320&height=320) | BOING ASTRA SD 1.sp | - |
 | Boing HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/boing) | [logo](http://graph.facebook.com/boinges/picture?width=320&height=320) | BOING ASTRA HD 1.sp | - |
 | Clan | - | [web](http://www.rtve.es/infantil/) | [logo](http://graph.facebook.com/clantve/picture?width=320&height=320) | CLANTV ASTRA SD 1.sp | - |
@@ -125,6 +125,7 @@
 | - | - | - | - | - | - |
 | Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](http://graph.facebook.com/RadioTelevisionCanaria/picture?width=320&height=320) | Canarias.sp | - |
 | Mírame TV | [m3u8](https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8) | [web](https://mirametv.com/) | [logo](http://graph.facebook.com/MirameTVCanarias/picture?width=320&height=320) | - | - |
+| Loca TV | [m3u8](https://5790d294af2dc.streamlock.net:443/8022/8022/playlist.m3u8) | [web](http://locatv.es/) | [logo](http://graph.facebook.com/701434753589363/picture?width=320&height=320) | - | - |
 
 ### Cantabria
 
@@ -132,7 +133,6 @@
 | - | - | - | - | - | - |
 | Cantabria TV | - | [web](http://www.vegavision.tv/) | [logo](http://graph.facebook.com/vegavisiontvcantabria/picture?width=320&height=320) | - | - |
 | Popular TV Cantabria | [m3u8](https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](http://populartvcantabria.com/livetv/) | [logo](http://graph.facebook.com/populartvcantabria/picture?width=320&height=320) | - | - |
-| Loca TV | [m3u8](https://5790d294af2dc.streamlock.net:443/8022/8022/playlist.m3u8) | [web](http://locatv.es/) | [logo](http://graph.facebook.com/701434753589363/picture?width=320&height=320) | - | - |
 
 ### Castilla La-Mancha
 
@@ -223,7 +223,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Melilla TV | - | [web](http://inmusa.es/directo/) | [logo](http://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320) | - | - |
+| Melilla TV HD | [m3u8](http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/live_source/playlist.m3u8) | [web](http://inmusa.es/directo/) | [logo](http://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320) | - | - |
 | Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/8009/master.m3u8) | [web](https://populartvmelilla.es/tv-online/) | [logo](http://graph.facebook.com/populartvml/picture?width=320&height=320) | - | - |
 
 ### Murcia
@@ -400,8 +400,8 @@
 | Imás TV | [m3u8](http://cls.todostreaming.eu/imastv/livestream/playlist.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | [logo](http://graph.facebook.com/television.imas/picture?width=320&height=320) | - | - |
 | Alcarria TV | [m3u8](http://217.182.77.27/live/alcarriatv-livestream.m3u8) | [web](http://www.alcarria.tv/htmlPlayer.html) | [logo](http://graph.facebook.com/AlcarriaTV/picture?width=320&height=320) | - | - |
 | Canal Diocesano Toledo | [m3u8](http://178.32.53.254/rtvd/livestream/playlist.m3u8) | [web](http://rtvd.org/) | [logo](http://graph.facebook.com/radiotelevisiondiocesanatoledo/picture?width=320&height=320) | - | - |
-| TV Almansa | [m3u8](http://emision2.tvalmansa.es/stream/_XsWLYw9tqSh6N2SUbWS0xHwpyYtxj.m3u8) | [web](https://zonacliente.almatelecom.es/videos/canalimagen) | [logo](http://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | - |
-| InfoCanal TV Almansa | [m3u8](http://emision2.tvalmansa.es/stream/e_-UsDQGh0-06PuVK0BVkKoNewQR8A.m3u8) | [web](https://zonacliente.almatelecom.es/videos/infocanal) | [logo](http://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | - |
+| TV Almansa | - | [web](https://zonacliente.almatelecom.es/videos/canalimagen) | [logo](http://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | - |
+| InfoCanal TV Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | [logo](http://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | - |
 | Guada TV | - | [web](https://www.youtube.com/channel/UC4oPWmhiUTekfM5vcWsORLg/live) | [logo](http://graph.facebook.com/GuadaTV.TV/picture?width=320&height=320) | - | - |
 | Ciudad Real TV | - | [web # 1](http://www.ustream.tv/channel/17022458) - [web # 2](https://www.youtube.com/channel/UCNxFBlUBOaI3iQW37T3hFww/live) | [logo](http://graph.facebook.com/1765736930414544/picture?width=320&height=320) | - | - |
 | Visión 6 | [m3u8](https://secure.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | [logo](http://graph.facebook.com/104927246235553/picture?width=320&height=320) | - | - |
