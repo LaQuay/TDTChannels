@@ -86,7 +86,6 @@
 | Onda Cero HD | [m3u8](https://livestartover.atresmedia.com/eventos37/master.m3u8) - [m3u8 # GEO](https://livestartover.atresmedia.com/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - | - |
 | LOS40 | [m3u8](https://40-live-hd-f.akamaihd.net/i/CAM40_X@86149/master.m3u8) | [web](https://los40.com/webcam/) | [logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
 | Del 40 al 1 HD | [m3u8](https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](http://graph.facebook.com/del40al1/picture?width=320&height=320) | - | - |
-| Anda Ya HD | - | [web](https://andaya.los40.com/) | [logo](http://graph.facebook.com/andayaenlos40/picture?width=320&height=320) | - | - |
 | Yu No Te Pierdas Nada HD | [m3u8](https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8) | [web](https://yu.los40.com/) | [logo](http://graph.facebook.com/VodafoneYU/picture?width=320&height=320) | - | - |
 
 ## Autonómicos
@@ -184,7 +183,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TVG | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG 2 | [m3u8](http://amodino-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG 2 HD | [m3u8](http://events2-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG América | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Infantil | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Musigal HD | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
@@ -194,6 +193,7 @@
 | TVG Evento 2 HD | [m3u8](http://events2-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento2) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Evento 3 HD | [m3u8](http://events3-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento3) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Evento 4 HD | [m3u8](http://events4-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento4) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Evento 5 | [m3u8](http://amodino-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento4) | [logo](http://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 
 ### Islas Baleares
 
@@ -656,14 +656,14 @@
 | NASA TV - HD ISS Views | - | [web](https://www.nasa.gov/multimedia/nasatv/#iss) | [logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
 | XITE HD | [m3u8](http://highvolume03.streampartner.nl/vleugels_hd6/livestream/master.m3u8) | [web](https://xite.nl/live) | [logo](http://graph.facebook.com/XITENL/picture?width=320&height=320) | - | - |
 | Hispan TV | [m3u8](https://5a61de8ed719d.streamlock.net/live/smil:live.smil/master.m3u8) | [web](https://www.hispantv.com/directo) | [logo](http://graph.facebook.com/Hispantv/picture?width=320&height=320) | - | - |
-| M2O | [m3u8](http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | [logo](https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o.png) | - | - |
-| DJing - Live | [m3u8](https://www.djing.com/tv/live.m3u8) | [web](https://www.djing.com) | [logo](https://djing.com/newimages/content/c01.jpg) | - | - |
-| DJing - Karaoke | [m3u8](https://www.djing.com/tv/karaoke.m3u8) | [web](https://www.djing.com) | [logo](https://djing.com/newimages/content/c01.jpg) | - | - |
-| DJing - Hits | [m3u8](https://www.djing.com/tv/hits.m3u8) | [web](https://www.djing.com) | [logo](https://djing.com/newimages/content/c01.jpg) | - | - |
-| DJing - Dancefloor | [m3u8](https://www.djing.com/tv/dancefloor.m3u8) | [web](https://www.djing.com) | [logo](https://djing.com/newimages/content/c01.jpg) | - | - |
-| DJing - Underground | [m3u8](https://www.djing.com/tv/underground.m3u8) | [web](https://www.djing.com) | [logo](https://djing.com/newimages/content/c01.jpg) | - | - |
-| DJing - Electro Rock | [m3u8](https://www.djing.com/tv/session_electro-rock.m3u8) | [web](https://www.djing.com) | [logo](https://djing.com/newimages/content/c01.jpg) | - | - |
-| DJing - Animation | [m3u8](https://www.djing.com/tv/animation.m3u8) | [web](https://www.djing.com) | [logo](https://djing.com/newimages/content/c01.jpg) | - | - |
+| m2o | [m3u8](http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | [logo](http://graph.facebook.com/radiom2o/picture?width=320&height=320) | - | - |
+| DJing - Live | [m3u8](https://www.djing.com/tv/live.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
+| DJing - Karaoke | [m3u8](https://www.djing.com/tv/karaoke.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
+| DJing - Hits | [m3u8](https://www.djing.com/tv/hits.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
+| DJing - Dancefloor | [m3u8](https://www.djing.com/tv/dancefloor.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
+| DJing - Underground | [m3u8](https://www.djing.com/tv/underground.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
+| DJing - Electro Rock | [m3u8](https://www.djing.com/tv/session_electro-rock.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
+| DJing - Animation | [m3u8](https://www.djing.com/tv/animation.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
 | TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/44/cf/9f/44cf9fb7-dc61-bd74-2238-1f6d6b11925f/source/320x320bb.jpg) | - | - |
 | Deluxe Music | [m3u8](https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8) | [web](https://www.deluxemusic.tv/tv.html) | [logo](http://graph.facebook.com/deluxe.music/picture?width=320&height=320) | - | - |
 
