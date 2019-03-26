@@ -94,7 +94,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Sur TV HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | ANTV ASTRA SD 1.sp | - |
+| Canal Sur HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | ANTV ASTRA SD 1.sp | - |
 | Canal Andalucia Turismo HD | [m3u8](https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8) | [web](http://canalandaluciaturismo.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Andalucia Flamenco | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Andalucia Cocina | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
@@ -176,7 +176,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Extremadura | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8) | [web](http://www.canalextremadura.es/tv/directo#ahora) | [logo](http://graph.facebook.com/CanalExtremadura/picture?width=320&height=320) | Extremadura.sp | - |
+| Canal Extremadura | [m3u8](http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist_DVR.m3u8) | [web](http://www.canalextremadura.es/tv/directo#ahora) | [logo](http://graph.facebook.com/CanalExtremadura/picture?width=320&height=320) | Extremadura.sp | - |
 
 ### Galicia
 
