@@ -7,11 +7,11 @@
 | Onda Cero | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) | [web](https://www.ondacero.es/directo/) | [Logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - | - |
 | Europa FM | [m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8) | [web](https://www.europafm.com/directo/) | [Logo](http://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - | - |
 | Melodía FM | - | [web](http://www.melodia-fm.com/directo/) | [Logo](http://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - | - |
-| RNE | [mp3](http://195.55.74.203/rtve/rtve-rne.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
-| RNE 3 | [mp3](http://195.55.74.208/rtve/rtve-radio3.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
-| RNE 5 | [mp3](http://195.10.10.223/rtve/rtve-radio5.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](https://pbs.twimg.com/profile_images/1104150542828343298/whV78eaD_400x400.jpg) | - | - |
-| RNE Clásica | [mp3](http://195.10.10.221/rtve/rtve-radioclasica.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404&v=undefined&vp=&lang=es) | [Logo](http://graph.facebook.com/radioclasicartve/picture?width=320&height=320) | - | - |
-| RNE Exterior | [mp3](http://195.10.10.222/rtve/radioexterior.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/RadioExterior/picture?width=320&height=320) | - | - |
+| Radio Nacional | [mp3](http://195.55.74.203/rtve/rtve-rne.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
+| Radio 3 | [mp3](http://195.55.74.208/rtve/rtve-radio3.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
+| Radio 5 | [mp3](http://195.10.10.223/rtve/rtve-radio5.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](https://pbs.twimg.com/profile_images/1104150542828343298/whV78eaD_400x400.jpg) | - | - |
+| Radio Clásica | [mp3](http://195.10.10.221/rtve/rtve-radioclasica.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404&v=undefined&vp=&lang=es) | [Logo](http://graph.facebook.com/radioclasicartve/picture?width=320&height=320) | - | - |
+| Radio Exterior | [mp3](http://195.10.10.222/rtve/radioexterior.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/RadioExterior/picture?width=320&height=320) | - | - |
 | LOS40 | [aac](https://20043.live.streamtheworld.com/LOS40AAC.aac) | [web](https://play.los40.com/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
 | LOS40 Classic | [aac](https://20043.live.streamtheworld.com/LOS40_CLASSICAAC.aac) | [web](https://play.los40.com/emisora/los40_classic/) | [Logo](http://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - | - |
 | LOS40 Party | [aac](https://19373.live.streamtheworld.com/LOS40_05AAC.aac) | [web](https://play.los40.com/emisora/los40_party/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
@@ -105,7 +105,7 @@
 | LOS40 Catalunya | [mp3](https://20073.live.streamtheworld.com/LOS40_CAT.mp3) | [web](https://play.los40.com/emisora/los40_catalunya/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
 | RAC1 | [nsv](http://rac1.radiocat.net/;*.nsv) | [web](https://www.rac1.cat) | [Logo](http://graph.facebook.com/rac1oficial/picture?width=320&height=320) | - | - |
 | RAC 105 | [nsv](http://rac105.radiocat.net/;*.nsv) | [web](http://www.rac105.cat) | [Logo](http://graph.facebook.com/rac105/picture?width=320&height=320) | - | - |
-| RNE Ràdio 4 | [mp3](http://195.55.74.208/rtve/rtve-radio4.mp3) | [web](http://www.rtve.es/radio/radio4-endirecto/) | [Logo](http://graph.facebook.com/Radio4RNE/picture?width=320&height=320) | - | - |
+| Ràdio 4 | [mp3](http://195.55.74.208/rtve/rtve-radio4.mp3) | [web](http://www.rtve.es/radio/radio4-endirecto/) | [Logo](http://graph.facebook.com/Radio4RNE/picture?width=320&height=320) | - | - |
 | Ràdio Flaixbac | [stream](https://www.flaixbac.cat/ca/api/player/live) | [web](https://www.flaixbac.cat/) | [Logo](http://graph.facebook.com/flaixbac/picture?width=320&height=320) | - | - |
 
 ### Ceuta
