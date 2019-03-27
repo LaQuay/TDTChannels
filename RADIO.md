@@ -4,24 +4,24 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Onda Cero | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) | [web](https://www.ondacero.es/directo/) | [Logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - | - |
-| Europa FM | [m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8) | [web](https://www.europafm.com/directo/) | [Logo](http://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - | - |
-| Melodía FM | - | [web](http://www.melodia-fm.com/directo/) | [Logo](http://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - | - |
+| Onda Cero | [stream](http://icecast-streaming.nice264.com/ondacero) | [web](https://www.ondacero.es/directo/) | [Logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - | - |
+| Europa FM | [stream](http://icecast-streaming.nice264.com/europafm) | [web](https://www.europafm.com/directo/) | [Logo](http://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - | - |
+| Melodía FM | [stream](http://icecast-streaming.nice264.com/melodiafm) | [web](http://www.melodia-fm.com/directo/) | [Logo](http://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - | - |
 | Radio Nacional | [mp3](http://195.55.74.203/rtve/rtve-rne.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
 | Radio 3 | [mp3](http://195.55.74.208/rtve/rtve-radio3.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
 | Radio 5 | [mp3](http://195.10.10.223/rtve/rtve-radio5.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](https://pbs.twimg.com/profile_images/1104150542828343298/whV78eaD_400x400.jpg) | - | - |
 | Radio Clásica | [mp3](http://195.10.10.221/rtve/rtve-radioclasica.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404&v=undefined&vp=&lang=es) | [Logo](http://graph.facebook.com/radioclasicartve/picture?width=320&height=320) | - | - |
 | Radio Exterior | [mp3](http://195.10.10.222/rtve/radioexterior.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [Logo](http://graph.facebook.com/RadioExterior/picture?width=320&height=320) | - | - |
-| LOS40 | [aac](https://20043.live.streamtheworld.com/LOS40AAC.aac) | [web](https://play.los40.com/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
-| LOS40 Classic | [aac](https://20043.live.streamtheworld.com/LOS40_CLASSICAAC.aac) | [web](https://play.los40.com/emisora/los40_classic/) | [Logo](http://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - | - |
-| LOS40 Party | [aac](https://19373.live.streamtheworld.com/LOS40_05AAC.aac) | [web](https://play.los40.com/emisora/los40_party/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
-| LOS40 Latin | [aac](https://20423.live.streamtheworld.com/LOS40_03AAC.aac) | [web](https://play.los40.com/emisora/los40_latin/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
-| LOS40 Working | [aac](https://19993.live.streamtheworld.com/LOS40_02AAC.aac) | [web](https://play.los40.com/emisora/los40_working/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
+| LOS40 | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3) | [web](https://play.los40.com/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
+| LOS40 Classic | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3) | [web](https://play.los40.com/emisora/los40_classic/) | [Logo](http://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - | - |
+| LOS40 Party | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_05.mp3) | [web](https://play.los40.com/emisora/los40_party/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
+| LOS40 Latin | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_03.mp3) | [web](https://play.los40.com/emisora/los40_latin/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
+| LOS40 Working | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_02.mp3) | [web](https://play.los40.com/emisora/los40_working/) | [Logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - | - |
 | Cadena 100 | [mp3 # 1](http://195.55.74.203/cope/cadena100.mp3) - [mp3 # 2](http://cadena100-streamers-mp3-low.flumotion.com/cope/cadena100-low.mp3) | [web](http://www.cadena100.es/) | [Logo](http://graph.facebook.com/CADENA100/picture?width=320&height=320) | - | - |
-| Cadena Dial | [aac](https://19513.live.streamtheworld.com/CADENADIALAAC.aac) | [web](https://play.cadenadial.com/) | [Logo](http://graph.facebook.com/cadenadial/picture?width=320&height=320) | - | - |
-| Cadena SER | [mp3](https://19393.live.streamtheworld.com/CADENASER.mp3) | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
-| Cadena SER Alternativo 1 | [mp3 # 1](http://19093.live.streamtheworld.com/CADENASER_ALT1.mp3) - [mp3 # 2](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3) | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
-| Cadena SER Alternativo 2 | [mp3 # 1](http://19093.live.streamtheworld.com/CADENASER_ALT2.mp3) - [mp3 # 2](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3) | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena Dial | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3) | [web](https://play.cadenadial.com/) | [Logo](http://graph.facebook.com/cadenadial/picture?width=320&height=320) | - | - |
+| Cadena SER | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3) | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER Alternativo 1 | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3) | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER Alternativo 2 | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3) | [web](http://play.cadenaser.com/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
 | Cadena COPE | [mp3](https://flucast-m04-06.flumotion.com/cope/net1.mp3) | [web](https://www.cope.es/directos/net1) | [Logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - | - |
 | esRadio | [aac](http://livestreaming9.esradio.fm/aaclive32) - [mp3](https://livestreaming3.esradio.fm/stream64.mp3) | [web](https://esradio.libertaddigital.com/directo.html) | [Logo](http://graph.facebook.com/esradio/picture?width=320&height=320) | - | - |
 | Radio Intereconomía | [m3u8](https://streaming-fr04.enetres.net/16011939C62D44ED91350508FB25828B022/smil:live.smil/master.m3u8) | [web](https://intereconomia.com/radio/) | [Logo](http://graph.facebook.com/RadioIntereconomia/picture?width=320&height=320) | - | - |
@@ -29,9 +29,9 @@
 | Rock FM | [mp3](http://195.55.74.203/cope/rockfm.mp3) | [web](http://player.rockfm.fm/) | [Logo](http://graph.facebook.com/RockFM/picture?width=320&height=320) | - | - |
 | Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) | [web](https://www.radiomaria.es/directo) | [Logo](http://graph.facebook.com/RadioMariaSpa/picture?width=320&height=320) | - | - |
 | Hit FM | [m3u](http://streams.kissfmradio.cires21.com/hitfm.m3u) | [web](http://www.hitfm.es/) | [Logo](http://graph.facebook.com/hitfm.es/picture?width=320&height=320) | - | - |
-| Máxima FM | [aac](https://19393.live.streamtheworld.com/MAXIMAFMAAC.aac) | [web](https://play.maxima.fm/) | [Logo](http://graph.facebook.com/radio.maxima.fm//picture?width=320&height=320) | - | - |
+| Máxima FM | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/MAXIMAFM.mp3) | [web](https://play.maxima.fm/) | [Logo](http://graph.facebook.com/radio.maxima.fm//picture?width=320&height=320) | - | - |
 | MegaStar FM | [mp3](http://195.10.10.223/cope/megastar.mp3) | [web](http://www.megastar.fm/) | [Logo](http://graph.facebook.com/MegaStarFM/picture?width=320&height=320) | - | - |
-| Radiolé | [aac](https://19393.live.streamtheworld.com/RADIOLEAAC.aac) | [web](https://play.radiole.com/) | [Logo](http://graph.facebook.com/radiole/picture?width=320&height=320) | - | - |
+| Radiolé | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3) | [web](https://play.radiole.com/) | [Logo](http://graph.facebook.com/radiole/picture?width=320&height=320) | - | - |
 | Loca FM | [stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | [Logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - | - |
 | Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | [Logo](http://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - | - |
 | Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com/) | [logo](http://graph.facebook.com/Radio4GOficial/picture?width=320&height=320) | - |
