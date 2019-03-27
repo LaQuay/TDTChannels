@@ -123,13 +123,6 @@ function getURLsFromPLS(sUrl, fn_callback) {
             }
         });
         fn_callback($urls)
-
-        //$.each($urls, function( index, value ) {
-        //    if (checkIfWebsiteWorks(value)) {
-        //        fn_callback(value);
-        //        break;
-        //    }
-        //});
     });
 };
 
@@ -166,16 +159,8 @@ function getUrlParameter(sParam) {
     }
 };
 
-// Check an URL is valid or broken
-// FIXME: For streams if it works it keeps loading infinite time
-function checkIfWebsiteWorks(sUrl){
-    $.get(sUrl, function(data, status){
-        alert("Data: " + data + "\nStatus: " + status);
-    });
-}
-
 function filterChannelsList() {
-    var input, filter, div, li, a, i, txtValue;
+    var input, filter, div, elements, txtValue;
 
     input = document.getElementById("searchInput");
     filter = input.value.toUpperCase();
@@ -192,11 +177,26 @@ function filterChannelsList() {
     }
 }
 
-function onChannelClick(channel){
-    channel = JSON.parse(channel);
-    reproduceVideo(channel['options'][0]['url'])
+function reproduceChannel(channel_options) {
+    document.getElementById("option-buttons").innerHTML = ""
+    if (channel_options.length > 0) {
+        reproduceVideo(channel_options[0]['url'])
 
-    //document.getElementById("titleh1").innerText = document.getElementById("container").offsetWidth
+        if (channel_options.length > 1) {
+            for (i = 0; i < channel_options.length; ++i) {
+                var url = channel_options[i]['url'];
+                document.getElementById("option-buttons").innerHTML +=
+                    "<a href='javascript:reproduceVideo(\"" + url + "\")' class='btn btn-secondary btn-sm' style='margin-right: 10px'>Opción " + (i+1) + "</a>";
+            }
+        }
+    } else {
+        reproduceVideo("no_video_found.m3u8")
+    }
+}
+
+function onChannelClick(channel) {
+    channel = JSON.parse(channel);
+    reproduceChannel(channel['options'])
 
     if (document.getElementById("container").offsetWidth < 720) {
         document.getElementById("video").scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
@@ -209,13 +209,12 @@ function loadChannelsInList() {
         return response.json();
       })
       .then(function(myJson) {
-        console.log(myJson);
         nacionales = myJson[1];
 
         var items = [];
         $.each(nacionales["ambits"], function( ambit, ambit_val ) {
             $.each(ambit_val["channels"], function( key, val ) {
-                items.push("<a href='javascript:onChannelClick("+ JSON.stringify(JSON.stringify(val)) + ")' class='list-group-item list-group-item-action'>" + val["name"] + "</a>")
+                items.push("<a href='javascript:onChannelClick(" + JSON.stringify(JSON.stringify(val)) + ")' class='list-group-item list-group-item-action'>" + val["name"] + "</a>")
             });
         });
 

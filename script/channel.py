@@ -1,4 +1,5 @@
-﻿class Channel:
+﻿# TODO Create TVChannel and RadioChannel
+class Channel:
     def __init__(self, name, web, resolution, logo, epg_id, extra_info):
         self.name = name
         self.web = web
