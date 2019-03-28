@@ -169,7 +169,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Ceuta TV | [m3u8](http://cls.todostreaming.eu/anguloce/livestream/playlist.m3u8) | [web](http://ceutatv.com/pag/ceuta-tv-en-directo/) | [logo](http://graph.facebook.com/CeutaTV/picture?width=320&height=320) | - | - |
+| Ceuta TV | [m3u8](https://secure.todostreaming.es/live/anguloce-livestream.m3u8) | [web](http://ceutatv.com/pag/ceuta-tv-en-directo/) | [logo](http://graph.facebook.com/CeutaTV/picture?width=320&height=320) | - | - |
 | RTVCE HD | [m3u8](http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8) | [web](http://www.rtvce.es/tv-directo) | [logo](http://graph.facebook.com/RTVCE/picture?width=320&height=320) | - | - |
 
 ### Extremadura
