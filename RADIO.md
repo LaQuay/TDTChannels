@@ -164,7 +164,7 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | Bit FM Pamplona | [pls](http://server1.emitironline.com:8024/) | [web](http://bitfm.es/player/) | [logo](http://graph.facebook.com/bitfm.es/picture?width=320&height=320) | - |
-| Cadena SER - Radio Pamplona | [mp3](https://19393.live.streamtheworld.com/SER_PAMPLONA.mp3) | [web](https://play.cadenaser.com/emisora/radio_pamplona/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - | - |
+| Cadena SER - Radio Pamplona | [mp3](https://19393.live.streamtheworld.com/SER_PAMPLONA.mp3) | [web](https://play.cadenaser.com/emisora/radio_pamplona/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Eguzki Irratia | [mp3](http://51.68.46.71:9000/eguzki.mp3) | [web](https://eguzki.eus/) | [logo](http://graph.facebook.com/293039954137807/picture?width=320&height=320) | - |
 | Emisora Municipal de Pamplona | - | [web](https://pamplona.es/radio) | [logo](http://graph.facebook.com/pamplona.es/picture?width=320&height=320) | - |
 | Euskalerria Irratia | [stream](http://server4.beatproducciones.com:8014/;) | [web](https://euskalerriairratia.eus/irratia/zuzenekoa) | [logo](http://graph.facebook.com/euskalerriairratia/picture?width=320&height=320) | - |
@@ -426,7 +426,7 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | Cadena SER - Sierra | [mp3](http://217.126.244.152:7000/;stream.mp3) | [web](https://play.cadenaser.com/emisora/ser_madrid_sierra/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| ECO Leganés | - | [web](http://ecoleganes.org/) | [logo](http://graph.facebook.com/ecoleganes/picture?width=320&height=320) | - | - |
+| ECO Leganés | - | [web](http://ecoleganes.org/) | [logo](http://graph.facebook.com/ecoleganes/picture?width=320&height=320) | - |
 | Gestiona Radio | [stream](http://185.165.0.13:8004/stream/;) | [web](http://www.gestionaradio.com/) | [logo](http://graph.facebook.com/GestionaRadioValencia/picture?width=320&height=320) | - |
 | Inforadio | [ogg](http://stream00.inforadio.ccinf.es:8000/inforadio01.ogg) | [web](http://inforadioucm.blogspot.com/p/escuchanos-en-directo.html) | [logo](http://graph.facebook.com/inforadiocomplutense/picture?width=320&height=320) | - |
 | Radio Internacional | [mp3](http://195.55.74.203/rinternacional/audio-fme.mp3) | [web](http://www.radiointernacional.es/) | [logo](http://graph.facebook.com/RadioIntEs/picture?width=320&height=320) | - |
