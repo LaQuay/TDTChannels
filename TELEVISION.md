@@ -544,7 +544,7 @@
 | Enlace TV | [m3u8](https://api.new.livestream.com/accounts/2675843/events/1839332/videos/186663669.secure.m3u8) | [web](https://www.enlace.org/envivo/) | [logo](http://graph.facebook.com/enlacetv/picture?width=320&height=320) | - | - |
 | Logos TV | [m3u8](https://streamer1.streamhost.org/salive/logosH/master.m3u8) | [web](https://logostv.es/) | [logo](http://graph.facebook.com/logostvespana/picture?width=320&height=320) | - | - |
 | Déjate de Historias TV | [m3u8](https://secure.todostreaming.es/live/tvstream-DH.m3u8) | [web](www.dejatedehistorias.es/wordpress/dejate-tv-on-line/) | [logo](http://graph.facebook.com/DejateDeHistoriasTV/picture?width=320&height=320) | - | - |
-| Libertad Digital TV | [m3u8](https://stream-05.dc3.dailymotion.com/dm/3/xnm032/live-2.m3u8) | [web](https://tv.libertaddigital.com/directo.html) | [logo](http://graph.facebook.com/libertad.digital.tv/picture?width=320&height=320) | - | - |
+| Libertad Digital TV | - | [web](https://tv.libertaddigital.com/directo.html) | [logo](http://graph.facebook.com/libertad.digital.tv/picture?width=320&height=320) | - | - |
 | Pride Channel | [m3u8](http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8) | [web](http://www.pridechanneltv.com/tv-en-directo.html) | [logo](http://graph.facebook.com/PrideChannelTV/picture?width=320&height=320) | - | - |
 | Tele-K | - | [web](http://tele-k.org) | [logo](http://graph.facebook.com/Tele.K.org/picture?width=320&height=320) | - | - |
 | Canal Bom | - | [web](http://www.canalbom.com) | [logo](http://graph.facebook.com/canalbomtv/picture?width=320&height=320) | - | - |
