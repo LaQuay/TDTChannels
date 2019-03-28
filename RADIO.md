@@ -163,13 +163,6 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Bit FM Pamplona | [pls](http://server1.emitironline.com:8024/) | [web](http://bitfm.es/player/) | [logo](http://graph.facebook.com/bitfm.es/picture?width=320&height=320) | - |
-| Cadena SER - Radio Pamplona | [mp3](https://19393.live.streamtheworld.com/SER_PAMPLONA.mp3) | [web](https://play.cadenaser.com/emisora/radio_pamplona/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| Eguzki Irratia | [mp3](http://51.68.46.71:9000/eguzki.mp3) | [web](https://eguzki.eus/) | [logo](http://graph.facebook.com/293039954137807/picture?width=320&height=320) | - |
-| Emisora Municipal de Pamplona | - | [web](https://pamplona.es/radio) | [logo](http://graph.facebook.com/pamplona.es/picture?width=320&height=320) | - |
-| Euskalerria Irratia | [stream](http://server4.beatproducciones.com:8014/;) | [web](https://euskalerriairratia.eus/irratia/zuzenekoa) | [logo](http://graph.facebook.com/euskalerriairratia/picture?width=320&height=320) | - |
-| Radio Universidad de Navarra | [mp3](http://s37.myradiostream.com/8638/listen.mp3) | [web](https://www.unav.edu/radioplayer/endirecto.html) | [logo](http://graph.facebook.com/radiouniversidaddenavarra/picture?width=320&height=320) | - |
-| Trak FM Pamplona | [mp3](http://91.121.77.67:8070/;stream.mp3) | [web](http://trakfm.com/) | [logo](http://graph.facebook.com/trakfmpamplona/picture?width=320&height=320) | - |
 
 ### País Vasco
 
