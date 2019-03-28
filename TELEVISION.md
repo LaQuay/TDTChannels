@@ -637,7 +637,8 @@
 | ETB SAT Canal Vasco | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](http://www.eitb.eus/es/television/etb-sat/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETB Sat.sp | - |
 | Travel TV HD | [m3u8](http://194.179.53.124:1935/live/traveltv/playlist.m3u8) | [web](http://www.traveltve.com/) | [logo](http://graph.facebook.com/TravelTVSpain/picture?width=320&height=320) | - | - |
 | Vaughan TV | - | [web](https://grupovaughan.com/vaughan-tv/) | [logo](http://graph.facebook.com/GrupoVaughan/picture?width=320&height=320) | - | - |
-| Miami TV España HD | [m3u8](https://59ec5453559f0.streamlock.net/miamitvspain/smil:miamitvspain/master.m3u8) | [web](https://miamitvhd.com/) | [logo](http://graph.facebook.com/miamitv/picture?width=320&height=320) | - | - |
+| Miami TV HD | [m3u8](https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/master.m3u8) | [web](https://miamitvhd.com/) | [logo](http://graph.facebook.com/miamitv/picture?width=320&height=320) | - | - |
+| Miami TV Latino HD | [m3u8](https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8) | [web](https://miamitvhd.com/) | [logo](http://graph.facebook.com/miamitv/picture?width=320&height=320) | - | - |
 | Venezolana de Televisión | [m3u8](https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/master.m3u8) | [web](http://vtv.gob.ve/en-vivo/) | [logo](http://graph.facebook.com/VTVtuCanal/picture?width=320&height=320) | - | - |
 | franceinfo: | - | [web](https://www.francetvinfo.fr/en-direct/tv.html) | [logo](http://graph.facebook.com/franceinfo/picture?width=320&height=320) | - | - |
 | Euronews | - | [web](https://es.euronews.com/live) | [logo](http://graph.facebook.com/es.euronews/picture?width=320&height=320) | - | - |
