@@ -7,6 +7,7 @@ A continuación se indica lo que deben cumplir los aportes hacia este repositori
 - Añadir la información que se conozca. 
   - Web, Formato, Resolución (Si es de TV), Logo ... .
 - Si es posible, el m3u8 indicado para el canal debería ser "master.m3u8" o "playlist.m3u8".
+- No se pueden enlazar M3U8 extraidos de plataformas como _Youtube_ o _Dailymotion_, pues caducan muy rápido.
 
 #### Resolución
 - Puede ser comprobada con el reproductor que tenemos [aquí](http://marcvila.me/tdt/)
