@@ -106,7 +106,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Aragón TV | [m3u8](http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8) | [web](http://www.aragontelevision.es/) | [logo](http://graph.facebook.com/AragonTV/picture?width=320&height=320) | Aragon TV Int.sp | - |
+| Aragón TV | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8) | [web](http://www.aragontelevision.es/) | [logo](http://graph.facebook.com/AragonTV/picture?width=320&height=320) | Aragon TV Int.sp | - |
 
 ### Asturias
 
