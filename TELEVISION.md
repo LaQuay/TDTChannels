@@ -322,7 +322,7 @@
 | Condavisión HD | [m3u8](http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8) | [web](http://www.condavision.es/) | [logo](http://graph.facebook.com/condavision/picture?width=320&height=320) | - | - |
 | ESNE TV | [m3u8](http://162.241.240.249:1935/esne-live/esnetv.smil/playlist.m3u8) | [web](http://elsembradorministries.com/tv/) | [logo](http://graph.facebook.com/elsembradoresne/picture?width=320&height=320) | - | - |
 | Diez TV | - | [web](http://www.dieztv.es/) | [logo](http://graph.facebook.com/dieztv/picture?width=320&height=320) | - | - |
-| Alternativa TV | [m3u8](https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8) | [web](https://www.alternativartv.eu/) | [logo](https://lh3.googleusercontent.com/reK_4oh88GRPldelDZd4R09-qb45thX1p48RoRqLtRwYWfmjuDA5p8L59GC3WuVILOt6=w170-rw) | - | - |
+| Alternativa TV | [m3u8](https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8) | [web](https://www.alternativartv.eu/) | [logo](https://lh3.googleusercontent.com/reK_4oh88GRPldelDZd4R09-qb45thX1p48RoRqLtRwYWfmjuDA5p8L59GC3WuVILOt6=s320) | - | - |
 | 9 la Loma | - | [web](https://9laloma.tv/directo/) | [logo](http://graph.facebook.com/9laloma/picture?width=320&height=320) | - | - |
 | LaSierra TV | - | [web](https://lasierratv.wordpress.com/) | [logo](https://secure.gravatar.com/avatar/8869d8fe1b0a7caef203304039bad180?s=100&r=pg&d=mm) | - | - |
 | Torrevisión | [m3u8](https://api.new.livestream.com/accounts/2614936/events/1848989/videos/188553578.secure.m3u8) | [web](http://www.torrevisiontelevision.es/directo/) | [logo](http://graph.facebook.com/229475603752318/picture?width=320&height=320) | - | - |
