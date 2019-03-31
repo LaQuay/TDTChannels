@@ -260,7 +260,7 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | Cadena SER - Radio Asturias | [mp3](http://188.93.73.98:8118/;stream.mp3) | [web](https://play.cadenaser.com/emisora/radio_asturias/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| Cadena SER Oriente | [mp3](http://seroriente.com:8000/seroriente.mp3) | [web](https://play.cadenaser.com/emisora/ser_oriente/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Oriente | [mp3](http://seroriente.com:8000/seroriente.mp3) | [web](https://play.cadenaser.com/emisora/ser_oriente/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Carrussel FM | [pls](https://server10.emitironline.com:2199/tunein/carruselfm.pls) | [web](https://players.emitironline.com/v5/index.php?url=http%3A%2F%2Fserver10.emitironline.com%3A8921%2Fradio&codec=mp3&volume=80&autoplay=true&buffering=2&user=carruselfm&server=server10&title=Carrusel+FM) | [logo](http://graph.facebook.com/467719623356931/picture?width=320&height=320) | - |
 | cSTRadio | [stream](http://srv3021.lcinternet.com:8012/live) | [web](http://www.cstradio.org/v_portal/apartados/apartado.asp) | [Logo](http://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - |
 | Master FM | [stream](http://lamaster.es:8002/;) | [web](http://lamaster.es/) | [logo](http://graph.facebook.com/lamasterfm/picture?width=320&height=320) | - |
@@ -322,7 +322,7 @@
 | Bas Ràdio | [mp3](http://s1streamingradio.desafiohosting.com:8130/listen.mp3) | [web](https://basradioweb.wordpress.com/) | [logo](http://graph.facebook.com/RADIOENBASONLINE2/picture?width=320&height=320) | - |
 | betevé ràdio | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/0_qzjz9cja/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/radio/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - |
 | Cadena SER - Ràdio Barcelona | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3) | [web](https://play.cadenaser.com/emisora/radio_barcelona/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| Cadena SER - Ràdio Manresa | [aac](http://streaming.enantena.com:8000/taronjadigital-bages56.mp3) | [web](https://play.cadenaser.com/emisora/radio_manresa/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Ràdio Manresa | [mp3](http://streaming.enantena.com:8000/taronjadigital-bages56.mp3) | [web](https://play.cadenaser.com/emisora/radio_manresa/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Ràdio Reus | [stream](http://emisoras.cadenaser.com:8085/reus) | [web](https://play.cadenaser.com/emisora/radio_reus/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | COPE Barcelona | [mp3](https://flucast-b05-06.flumotion.com/copesedes/barcelona.mp3) | [web](https://www.cope.es/directos/barcelona) | [logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Equinox Radio | [stream](http://listen.radionomy.com/absolutevintage) | [web](https://www.equinoxmagazine.fr/2018/04/13/ecouter-6-radios-equinox-barcelone/) | [logo](http://graph.facebook.com/equinoxradio.barcelone/picture?width=320&height=320) | - |
