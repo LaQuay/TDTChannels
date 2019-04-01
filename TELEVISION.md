@@ -605,7 +605,7 @@
 | Bous TV | - | [web](https://www.boustv.es/) | [logo](https://pbs.twimg.com/profile_images/468813580310028288/kBS92Vx7_400x400.png) | - | - |
 | TV4 La Vall | [m3u8](https://common01.todostreaming.es/live/tarson-livestream.m3u8) | [web](http://teve4lavall.com/) | [logo](http://graph.facebook.com/TV4LaVall/picture?width=320&height=320) | - | - |
 | TeVe4 | [m3u8](https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8) | [web](http://teve4.es/) | [logo](http://graph.facebook.com/teve4televisio/picture?width=320&height=320) | - | - |
-| Información TV | - | [web](http://www.informaciontv.es/) | [logo](http://graph.facebook.com/103588046375790/picture?width=320&height=320) | - | - |
+| Información TV | [m3u8](http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8) | [web](http://www.informaciontv.es/) | [logo](http://graph.facebook.com/103588046375790/picture?width=320&height=320) | - | - |
 | TeleOrihuela | - | [web](http://hemeroteca.teleorihuela.com/tv-en-directo/) | [logo](http://graph.facebook.com/teleorihuela/picture?width=320&height=320) | - | - |
 | PequeRadio TV | [m3u8](http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8) | [web](http://www.pequeradio.com/tvv2.php) | [logo](http://graph.facebook.com/Pequeradio/picture?width=320&height=320) | - | - |
 | Cetelmon | - | [web](http://www.cetelmon.tv/) | [logo](http://graph.facebook.com/cetelmon.television/picture?width=320&height=320) | - | - |
