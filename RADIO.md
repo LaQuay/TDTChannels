@@ -476,11 +476,15 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
+| Cadena Dial Castellón | [stream](http://stream.radiocastellon.com/dial) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](http://graph.facebook.com/cadenadial/picture?width=320&height=320) | - |
 | Cadena SER - Radio Castellón | [stream](http://stream.radiocastellon.com/ser) | [web](https://play.cadenaser.com/emisora/radio_castellon/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Radio Valencia | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_valencia/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Radio Gandia | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GANDIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_gandia/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Ràdio Klara | [mp3](http://cervera.eldialdigital.com:8048/;#mp3) | [web](http://www.radioklara.org/radioklara/) | [logo](http://graph.facebook.com/radioklara/picture?width=320&height=320) | - |
 | La 97.7 Radio | [aac](http://teledifusion.tv:1935/977live/mp4:la977stream/media_w1606995350_363652.aac) | [web](http://www.la977.com/estaticos/la977.html) | [logo](http://graph.facebook.com/la977/picture?width=320&height=320) | - |
+| LOS40 Castellón | [stream](http://stream.radiocastellon.com/40) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Classic Castellón | [stream](http://stream.radiocastellon.com/40cl) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](http://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - |
+| Máxima FM Castellón | [stream](http://stream.radiocastellon.com/maximafm) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](http://graph.facebook.com/radio.maxima.fm/picture?width=320&height=320) | - |
 | UPV Radio | - | [web](http://www.upv.es/rtv/radio/directo) | [logo](http://graph.facebook.com/UPVTV/picture?width=320&height=320) | - |
 | Vega Baja Radio | [stream](http://185.223.216.183:8000/;stream/1) | [web](https://vegabajaradio.com/) | [logo](http://graph.facebook.com/vegabajaradio/picture?width=320&height=320) | - |
 
