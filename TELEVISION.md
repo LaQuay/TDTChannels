@@ -44,7 +44,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 24h | [m3u8](http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) | [web](http://www.rtve.es/directo/canal-24h/) | [logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | 24H ASTRA SD 1.sp | - |
-| +24 | [m3u8 # 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 2](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve04_lv3_aosv4_gl0/irtve04_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 3](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 5](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve25_lv3_aosv4_gl0/irtve25_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/noticias/mas-24/) | [logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | - | - |
+| +24 | [m3u8 # 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 2](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve25_lv3_aosv4_gl0/irtve25_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 3](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve04_lv3_aosv4_gl0/irtve04_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 4](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 5](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve14_lv3_aosv4_gl0/irtve14_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/noticias/mas-24/) | [logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | - | - |
 | Canal Parlamento | [m3u8](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8) | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) | [logo](https://yt3.ggpht.com/a-/AAuE7mACmvgDvj5xdVeMXQI9kQSmU0A2Zw5nJEjR8A=s320) | Parlamento.sp | - |
 | EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) | [web](https://www.europapress.tv/) | [logo](http://graph.facebook.com/europapress.es/picture?width=320&height=320) | - | - |
 
@@ -464,7 +464,6 @@
 | TV Hospitalet | - | [web](https://lhdigital.cat/web/digital-h/televisio) | [logo](http://graph.facebook.com/lhdigital/picture?width=320&height=320) | - | - |
 | Gavà Televisió | - | [web](http://www.gavatv.cat/) | [logo](http://graph.facebook.com/gavatv/picture?width=320&height=320) | - | - |
 | TV10 | [m3u8](https://liveingesta118.cdnmedia.tv/tvstestevelive/smil:tv10.smil/playlist.m3u8) | [web](https://rtv10.alacarta.cat/) | [logo](http://graph.facebook.com/TV10TelevisionMongolia/picture?width=320&height=320) | - | - |
-| Manresa TV | - | [web](http://www.manresa.tv/indexc.html) | [logo](http://www.manresa.tv/Banda_Superior_ManresaTV_01.jpg) | - | - |
 | TV Ripollés | [m3u8](https://liveingesta118.cdnmedia.tv/tvripolleslive/smil:live.smil/master.m3u8) | [web](https://www.corisamediagrup.com/tvr-en-directe/) | [logo](http://graph.facebook.com/televisiodelripolles/picture?width=320&height=320) | - | - |
 | TV Berguedà | [m3u8](http://liveingesta118.cdnmedia.tv//berguedatvlive/smil:live.smil/master.m3u8) | [web](http://tvbergueda.alacarta.cat/) | [logo](http://graph.facebook.com/televisiodelbergueda/picture?width=320&height=320) | - | - |
 | Tot TV | - | [web](http://www.tottv.cat/) | [logo](http://www.tottv.cat/Scripts/images/TOTtv_LOGOpetitREFLEX.jpg) | - | - |
@@ -604,8 +603,9 @@
 | tv-A | [m3u8](http://5.39.65.105/hls/tvaxa.m3u8) | [web](http://www.tv-a.es/) | [logo](http://graph.facebook.com/tvArtequatre/picture?width=320&height=320) | - | - |
 | Ribera TV | [m3u8](http://orion.comelson.es/ribera/livestream/playlist.m3u8) | [web](http://www.riberatelevisio.com/) | [logo](http://graph.facebook.com/ribera.televisio/picture?width=320&height=320) | - | - |
 | Bous TV | - | [web](https://www.boustv.es/) | [logo](https://pbs.twimg.com/profile_images/468813580310028288/kBS92Vx7_400x400.png) | - | - |
-| TV4 La Vall | [m3u8](https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8) | [web](http://teve4lavall.com/) | [logo](http://graph.facebook.com/teve4lavall/picture?width=320&height=320) | - | - |
-| Información TV | - | [web](http://www.informaciontv.es/) | [logo](http://graph.facebook.com/103588046375790/picture?width=320&height=320) | - | - |
+| TV4 La Vall | [m3u8](https://common01.todostreaming.es/live/tarson-livestream.m3u8) | [web](http://teve4lavall.com/) | [logo](http://graph.facebook.com/TV4LaVall/picture?width=320&height=320) | - | - |
+| TeVe4 | [m3u8](https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8) | [web](http://teve4.es/) | [logo](http://graph.facebook.com/teve4televisio/picture?width=320&height=320) | - | - |
+| Información TV | [m3u8](http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8) | [web](http://www.informaciontv.es/) | [logo](http://graph.facebook.com/103588046375790/picture?width=320&height=320) | - | - |
 | TeleOrihuela | - | [web](http://hemeroteca.teleorihuela.com/tv-en-directo/) | [logo](http://graph.facebook.com/teleorihuela/picture?width=320&height=320) | - | - |
 | PequeRadio TV | [m3u8](http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8) | [web](http://www.pequeradio.com/tvv2.php) | [logo](http://graph.facebook.com/Pequeradio/picture?width=320&height=320) | - | - |
 | Cetelmon | - | [web](http://www.cetelmon.tv/) | [logo](http://graph.facebook.com/cetelmon.television/picture?width=320&height=320) | - | - |
