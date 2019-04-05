@@ -238,7 +238,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Navarra TV | - | [web](http://www.natv.es/Directo) | [logo](http://graph.facebook.com/NavarraTelevision/picture?width=320&height=320) | Navarra TV.sp | - |
+| Navarra TV | [m3u8](http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/master.m3u8) | [web](http://www.natv.es/Directo) | [logo](http://graph.facebook.com/NavarraTelevision/picture?width=320&height=320) | Navarra TV.sp | - |
 | Navarra TV 2 | - | [web](http://www.natv.es/Directo) | [logo](http://graph.facebook.com/NavarraTelevision/picture?width=320&height=320) | - | - |
 
 ### País Vasco
