@@ -32,6 +32,8 @@
 | esRadio | [aac](http://livestreaming9.esradio.fm/aaclive32) - [mp3](https://livestreaming3.esradio.fm/stream64.mp3) | [web](https://esradio.libertaddigital.com/directo.html) | [logo](http://graph.facebook.com/esradio/picture?width=320&height=320) | - |
 | Radio Intereconomía | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B022/023/playlist.m3u8) | [web](https://intereconomia.com/radio/) | [logo](http://graph.facebook.com/RadioIntereconomia/picture?width=320&height=320) | - |
 | Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) | [web](https://www.radiomaria.es/directo) | [logo](http://graph.facebook.com/RadioMariaSpa/picture?width=320&height=320) | - |
+| Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com/) | [logo](http://graph.facebook.com/Radio4GOficial/picture?width=320&height=320) | - |
+| Clásica FM Radio | [Stream](http://listen1.mixlr.com/bbf7a7693e4601235e8bcfe46c4bb3a9) | [web](http://clasicafmradio.es/cfm-escucha/) | [Logo](http://graph.facebook.com/clasicafmradio/picture?width=320&height=320) | - |
 
 ## Deportivos
 
