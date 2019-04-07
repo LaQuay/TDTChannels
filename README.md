@@ -2,57 +2,54 @@
 
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
-**TV** [Listado completo de los canales de TV](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md)
+**TV**: [Listado completo](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md)
 
-**Radio** [Listado completo de las emisoras de Radio](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md)
+**Radio**: [Listado completo](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md)
 
-[Reproductor oficial - TDTChannels](http://marcvila.me/tdt/)
+**Web con reproductor oficial**: [Web TDTChannels](http://marcvila.me/tdt/)
 
-[Chat oficial - Canales TDT - en Telegram](https://t.me/canales_tdt)
+**Aplicación Android oficial**: [Repositorio TDTChannels-APP](https://github.com/LaQuay/TDTChannels-APP)
 
-#### Listado en formato M3U8 y JSON
-*(Última actualización: 24/12/2018)*
+**Chat Telegram**: [Telegram TDTChannels - Canales TDT](https://t.me/canales_tdt)
 
-[Descargar el .m3u8 completo](http://91.121.64.179/tdt_project/output/channels.m3u8)
+**Chat de Avisos por Telegram**: [Telegram TDTChannels - Canales TDT Avisos](https://t.me/canales_tdt_avisos)
 
-[Descargar el .json completo](http://91.121.64.179/tdt_project/output/channels.json)
+#### Descargar listas de reproducción
+*(Última actualización: 03/04/2019)*
 
-### Notícias
+| Media 	| Format 	|      	|     	|        	|
+|-------	|--------	|------	|-----	|--------	|
+| **TV**    	| [json](http://91.121.64.179/tdt_project/output/channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/channels.m3u) | [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)	|
+| **Radio** 	| [json](http://91.121.64.179/tdt_project/output/radio_channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/radio_channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/radio_channels.m3u) | -	|
+
+
+### Ayuda
+_Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
+
+### Noticias
+*03/2019* - [El Androide Libre - Cómo ver la tele en un reproductor con Android TV](https://elandroidelibre.elespanol.com/2019/03/como-ver-tele-reproductor-television-android-tv.html)
+
+*02/2019* - [Softonic - Cómo usar Kodi para ver la TV gratis en tu teléfono móvil](https://www.softonic.com/articulos/usar-kodi-ver-tv-gratis-telefono-movil)
+
+*01/2019* - [El Androide Libre - Ver la tele en tu Android, una manera muy sencilla y completa](https://elandroidelibre.elespanol.com/2019/01/ver-tele-android-manera-sencilla-completa.html)
+
+*01/2019* - [El Androide Feliz - Cómo configurar KODI para ver TV gratis (y legal) en Android](https://elandroidefeliz.com/configurar-kodi-para-ver-tv-gratis/)
+
+*01/2019* - [El Androide Libre - Cómo usar Kodi para ver la televisión gratis en tu Android](https://elandroidelibre.elespanol.com/2019/01/como-usar-kodi-ver-television-gratis-android.html)
+
 *12/2018* - [El Androide Libre - Cómo ver la televisión gratis en tu móvil, las mejores aplicaciones](https://elandroidelibre.elespanol.com/2018/12/como-ver-television-gratis-movil-mejores-aplicaciones.html)
 
 *08/2018* - [Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
 
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
-### Ayuda
-Algunos canales sólo pueden visualizarse cuando se visitan desde España, debido a que emiten contenido geolocalizado, o no emiten en ciertos momentos cuando no poseen los derechos de emisión del contenido fuera de España o por Internet.
+### Licencia del proyecto
+Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que se debe poder ver que la información que está utilizando procede de este repositorio. En el caso de _software_, la atribución debe ser visible explicitamente en el mismo.
 
-#### Cómo reproducir en el navegador
-Abrir la web oficial del proyecto. Una vez en la web tienes dos opciones de funcionamiento.
+Únicamente está permitido enlazar directamente los enlaces que aparecen en la sección '*Descargar listados*' para uso particular.
 
-##### Opción 1
-Introducir el enlace del *stream* deseado en el campo de introducción de texto y dar click en cargar.
-
-##### Opción 2
-Indicar en la URL el canal a reproducir, por ejemplo:
-
-```http://marcvila.me/tdt/index.html?type=video&channel=http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8```
-
-```http://marcvila.me/tdt/index.html?type=audio&channel=http://rac105.radiocat.net/;*.nsv```
-
-#### Cómo reproducir en un ordenador
-Algunos enlaces funcionan directamente bajándolos con botón derecho y guardar. Posteriormente haciendo doble click en ellos y abriéndolos en un reproductor. Los que no funcionen con ese método se han de abrir con VLC: [Abrir enlaces en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc) (por *Softzone*).
-
-#### Cómo reproducir en un móvil o tableta
-Algunos enlaces funcionan directamente bajándolos manteniendo pulsado el enlace, *guardar/descargar*. Posteriormente haciendo doble click en ellos y abriéndolos en un reproductor. 
-
-#### Cómo reproducir en una Smart TV
-Utilizar, por ejemplo, [SSIPTV](https://www.achotv.com/ssiptv.php) (por *AchoTV*).
-
-### Licencia
-Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que debe poderse ver que la información que está utilizando procede de este repositorio.
-
-Únicamente se incluyen los enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web. Si posees los derechos de algún canal y deseas que lo retire, contactame.
+#### Ley de propiedad
+En este proyecto y en la web de reproducción **no** se almacena ningún *stream*, únicamente enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web o servicio público. Si posees los derechos de algún canal y deseas que lo retire, contáctame.
 
 ### Colaborar
 [CONTRIBUTING](https://github.com/LaQuay/TDTChannels/blob/master/CONTRIBUTING.md)

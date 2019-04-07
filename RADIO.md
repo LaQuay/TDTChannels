@@ -1,351 +1,501 @@
-## Emisoras de Radio
+# Emisoras de Radio
 
-### Nacionales
+## Nacionales
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Onda Cero | - | [web](https://www.ondacero.es/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/225px-Onda_Cero_logo.svg.png) | - |
-| Melodía FM | - | [web](http://www.melodia-fm.com/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MelodiaFM_logo.svg/180px-MelodiaFM_logo.svg.png) | - |
-| Europa FM | - | [web](https://www.europafm.com/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/EuropaFM_logo.svg/225px-EuropaFM_logo.svg.png) | - |
-| RNE Radio Nacional | - | [web](http://www.rtve.es/radio/radio-nacional/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_RNE.svg/225px-Logo_RNE.svg.png) | - |
-| RNE Radio 3 | - | [web](http://www.rtve.es/radio/radio3/directo/?pais=ES) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Radio_3_RNE_Spain.svg/120px-Radio_3_RNE_Spain.svg.png) | - |
-| RNE Radio 5 | - | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404&v=undefined&vp=&lang=es) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Radio_5_RNE_Spain.svg/150px-Radio_5_RNE_Spain.svg.png) | - |
-| RNE Radio Clásica | - | [web](http://www.rtve.es/radio/radio-clasica/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Radio_Cl%C3%A1sica_RNE_Spain.svg/150px-Radio_Cl%C3%A1sica_RNE_Spain.svg.png) | - |
-| RNE Radio Exterior de España | - | [web](http://www.rtve.es/radio/radioexterior-endirecto/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Radio_Exterior_RNE_Spain.svg/150px-Radio_Exterior_RNE_Spain.svg.png) | - |
-| LOS40 | [Stream](http://19983.live.streamtheworld.com/LOS40_SC) | [web](https://play.los40.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/175px-Los_40.svg.png) | - |
-| LOS40 Classic | - | [web](https://play.los40.com/emisora/los40_classic/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LOS40_Classic.svg/250px-LOS40_Classic.svg.png) | - |
-| LOS40 Party | - | [web](https://play.los40.com/emisora/los40_party/) | - | [Logo](https://recursosweb.prisaradio.com/fotos/original/010002413727.jpg) | - |
-| LOS40 Latin | - | [web](https://play.los40.com/emisora/los40_latin/) | - | [Logo](https://recursosweb.prisaradio.com/fotos/original/010002344852.jpg) | - |
-| LOS40 Working | - | [web](https://play.los40.com/emisora/los40_working/) | - | [Logo](https://recursosweb.prisaradio.com/fotos/original/010002344870.jpg) | - |
-| LOS40 Runners | - | [web](https://play.los40.com/emisora/los40_runners/) | - | [Logo](https://recursosweb.prisaradio.com/fotos/original/010002344864.jpg) | - |
-| Cadena 100 | - | [web](http://www.cadena100.es/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Cadena100.svg/115px-Cadena100.svg.png) | - |
-| Cadena Dial | - | [web](https://play.cadenadial.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/225px-Cadena_Dial.svg.png) | - |
-| Cadena SER | - | [web](http://play.cadenaser.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER Alternativo | - | [web](http://play.cadenaser.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena COPE | - | [web](https://www.cope.es/directos/net1) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_Cadena_COPE.png/100px-Logo_Cadena_COPE.png) | - |
-| esRadio | - | [web](https://esradio.libertaddigital.com/directo.html) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/EsRadio_logo.svg/225px-EsRadio_logo.svg.png) | - |
-| Radio Intereconomía | - | [web](https://intereconomia.com/radio/) | - | [Logo](https://intereconomia.com/wp-content/themes/citynews-child/img/radio_intereconomia_logo.png) | - |
-| Radio Marca | [Stream](https://radiomarca.streaming-pro.com:8031/radiomarca.mp3) | [web](https://www.marca.com/radio.html) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/RadioMARCA.svg/180px-RadioMARCA.svg.png) | - |
-| Rock FM | - | [web](http://player.rockfm.fm/) | - | [Logo](http://www.rockfm.fm/img/rockfm/RFM_HEADER.jpg) | - |
-| Radio María | - | [web](https://www.radiomaria.es/) | - | [Logo](https://www.radiomaria.es/assets/img/logoCabecera.jpg) | - |
-| Hit FM | [m3u](http://streams.kissfmradio.cires21.com/hitfm.m3u) | [web](http://www.hitfm.es/) | - | [Logo](https://vignette.wikia.nocookie.net/radios/images/5/5c/Hit_FM_%28KISS_Media%29.png/revision/latest?cb=20141010112659&path-prefix=es) | - |
-| Máxima FM | [aac](https://19393.live.streamtheworld.com/MAXIMAFMAAC.aac) | [web](https://play.maxima.fm/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M%C3%A1xima_FM.svg/200px-M%C3%A1xima_FM.svg.png) | - |
-| MegaStar FM | - | [web](http://www.megastar.fm/) | - | [Logo](https://vignette.wikia.nocookie.net/radios/images/b/bd/MegaStarFM_2013_color.png/revision/latest?cb=20140604221531&path-prefix=es) | - |
-| Radiolé | - | [web](https://play.radiole.com/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Radiol%C3%A9.jpg/225px-Radiol%C3%A9.jpg) | - |
-| Loca FM | [Stream](http://audio-online.net:2300/live) | - | - | - | - |
-| Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | - | [Logo](http://kissfm.es/player/img/logokiss.png) | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Onda Cero | [stream](http://icecast-streaming.nice264.com/ondacero) | [web](https://www.ondacero.es/directo/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Europa FM | [stream](http://icecast-streaming.nice264.com/europafm) | [web](https://www.europafm.com/directo/) | [logo](http://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - |
+| Melodía FM | [stream](http://icecast-streaming.nice264.com/melodiafm) | [web](http://www.melodia-fm.com/directo/) | [logo](http://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - |
+| Radio Nacional | [mp3](http://195.55.74.203/rtve/rtve-rne.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
+| Radio 3 | [mp3](http://195.55.74.208/rtve/rtve-radio3.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - |
+| Radio 5 | [mp3](http://195.10.10.223/rtve/rtve-radio5.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](https://pbs.twimg.com/profile_images/1107968053491453952/k4W17qFC_400x400.png) | - |
+| Radio Clásica | [mp3](http://195.10.10.221/rtve/rtve-radioclasica.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404&v=undefined&vp=&lang=es) | [logo](http://graph.facebook.com/radioclasicartve/picture?width=320&height=320) | - |
+| Radio Exterior | [mp3](http://195.10.10.222/rtve/radioexterior.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](http://graph.facebook.com/RadioExterior/picture?width=320&height=320) | - |
+| Cadena SER | [mp3 # 1](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3) - [mp3 # 2](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3) - [mp3 # 3](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3) | [web](http://play.cadenaser.com/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| LOS40 | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3) | [web](https://play.los40.com/) | [logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Classic | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3) | [web](https://play.los40.com/emisora/los40_classic/) | [logo](http://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - |
+| LOS40 Party | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_05.mp3) | [web](https://play.los40.com/emisora/los40_party/) | [logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Latin | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_03.mp3) | [web](https://play.los40.com/emisora/los40_latin/) | [logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Working | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_02.mp3) | [web](https://play.los40.com/emisora/los40_working/) | [logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| Cadena Dial | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3) | [web](https://play.cadenadial.com/) | [logo](http://graph.facebook.com/cadenadial/picture?width=320&height=320) | - |
+| Máxima FM | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/MAXIMAFM.mp3) | [web](https://play.maxima.fm/) | [logo](http://graph.facebook.com/radio.maxima.fm/picture?width=320&height=320) | - |
+| Radiolé | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3) | [web](https://play.radiole.com/) | [logo](http://graph.facebook.com/radiole/picture?width=320&height=320) | - |
+| Cadena 100 | [mp3 # 1](http://195.55.74.203/cope/cadena100.mp3) - [mp3 # 2](http://cadena100-streamers-mp3-low.flumotion.com/cope/cadena100-low.mp3) | [web](http://www.cadena100.es/) | [logo](http://graph.facebook.com/CADENA100/picture?width=320&height=320) | - |
+| Cadena COPE | [mp3](https://flucast-m04-06.flumotion.com/cope/net1.mp3) | [web](https://www.cope.es/directos/net1) | [logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| MegaStar FM | [mp3](http://195.10.10.223/cope/megastar.mp3) | [web](http://www.megastar.fm/) | [logo](http://graph.facebook.com/MegaStarFM/picture?width=320&height=320) | - |
+| Rock FM | [mp3](http://195.55.74.203/cope/rockfm.mp3) | [web](http://player.rockfm.fm/) | [logo](http://graph.facebook.com/RockFM/picture?width=320&height=320) | - |
+| Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | [logo](http://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
+| Hit FM | [m3u](http://streams.kissfmradio.cires21.com/hitfm.m3u) | [web](http://www.hitfm.es/) | [logo](http://graph.facebook.com/hitfm.es/picture?width=320&height=320) | - |
+| Radio Marca | [mp3](https://radiomarca.streaming-pro.com:8031/radiomarca.mp3) | [web](https://www.marca.com/radio.html) | [logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
+| Loca FM | [stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| esRadio | [aac](http://livestreaming9.esradio.fm/aaclive32) - [mp3](https://livestreaming3.esradio.fm/stream64.mp3) | [web](https://esradio.libertaddigital.com/directo.html) | [logo](http://graph.facebook.com/esradio/picture?width=320&height=320) | - |
+| Radio Intereconomía | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B022/023/playlist.m3u8) | [web](https://intereconomia.com/radio/) | [logo](http://graph.facebook.com/RadioIntereconomia/picture?width=320&height=320) | - |
+| Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) | [web](https://www.radiomaria.es/directo) | [logo](http://graph.facebook.com/RadioMariaSpa/picture?width=320&height=320) | - |
 
-### Autonómicos
+## Deportivos
 
-#### Andalucía
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Sevilla FC Radio | - | [web](http://live.sevillafc.es/) | [logo](http://graph.facebook.com/sevillafc/picture?width=320&height=320) | - |
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Canal Sur Radio | - | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_csr) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Canal_Sur_Radio.png/120px-Canal_Sur_Radio.png) | - |
-| Canal Fiesta | - | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_fiesta) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CANAL_FIESTA_RADIO-copia6.jpg/150px-CANAL_FIESTA_RADIO-copia6.jpg) | - |
-| Flamenco Radio | - | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_flamenco) | - | [Logo](https://mytuner.global.ssl.fastly.net/media/tvos_radios/GNHjZVC5Cb.png) | - |
-| Radio Andalucía Información | - | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_rai) | - | [Logo](https://mytuner.global.ssl.fastly.net/media/tvos_radios/p6PR6vtFtm.png) | - |
-| Cadena COPE Sevilla | - | [web](https://www.cope.es/directos/sevilla) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_Cadena_COPE.png/100px-Logo_Cadena_COPE.png) | - |
-| Cadena COPE Sierra Norte | - | [web](https://radiosierranorte.es/radio-sierra-norte-en-directo-2/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_Cadena_COPE.png/100px-Logo_Cadena_COPE.png) | - |
-| Cadena Digital | [MP3](http://185.23.192.118:8006/;stream.mp3) | [web](http://www.cadenadigital.com/) | - | [Logo](http://www.cadenadigital.com/cabecera.jpg) | - |
-| Cadena Latino | [MP3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es/) | - | [Logo](http://www.latinofm.es/imagenes/cabecera-latino.png) | - |
-| Cadena SER Almería | - | [web](https://play.cadenaser.com/emisora/ser_almeria/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - Radio Cádiz | - | [web](https://play.cadenaser.com/emisora/radio_cadiz/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - Radio Córdoba | - | [web](https://play.cadenaser.com/emisora/radio_cordoba) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - Radio Granada | - | [web](https://play.cadenaser.com/emisora/radio_granada) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - Levante | - | [web](https://play.cadenaser.com/emisora/ser_levante) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - Radio Sevilla | - | [web](https://play.cadenaser.com/emisora/radio_sevilla) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Candil Radio | [Stream](http://s6.viastreaming.net:7100/;) | [web](http://candilradio.com//modules/mod_rar_radio/tmpl/player/player.php?d=aHR0cDovL3M2LnZpYXN0cmVhbWluZy5uZXQ6NzEwMC87LGh0dHA6Ly9jYW5kaWxyYWRpby5jb20vLC9pbWFnZXMvbG9nb3MvbG9nby1jYW5kaWwucG5nLHB1Yi02ODI0NDk0OTQyNzA0NjkxLEVsIGxvZ28gZGUgQ2FuZGlsIFJhZGlvLDQwMCwzLDMsaHR0cDovL215ZG9tYWluLmNvbS90aXRsZS9jdXJyZW50U29uZy50eHQsUkFESU8gQVBBR0FEQSxObyBoYXkgdGl0dWxvcyxFc2N1Y2hhczosMCww) | - | [Logo](http://candilradio.com//images/logos/logo-candil.png) | - |
-| Central FM | - | [web](http://www.centralfm.com/) | - | [Logo](http://www.centralfm.com/centralfm.png) | - |
-| Radio Dance | - | [web](https://www.radionomy.com/en/radio/1-radio-dance/listen/) | - | [Logo](https://www.radiodance.net/img/logo_portada.png) | - |
-| Elite Radio | - | [web](https://eliteradiosevilla.es/) | - | [Logo](https://eliteradiosevilla.es/images/elite_vertical.png) | - |
-| Fiebre Latina FM | [Stream](http://5.135.183.124:8255/stream) | [web](http://www.fiebrelatinaradio.com/emisora.html) | - | [Logo](http://www.fiebrelatinaradio.com/wp-content/uploads/2018/04/Logo.png) | - |
-| Global Radio | [MP4](http://stream.seav.co.uk:8000/stream.mp4) | [web](https://global.fm/streamwindow/) | - | [Logo](https://global.fm/images/2016/93_6_Global_Radio_Site_Header_Logo.png) | - |
-| Integración Radio | - | [web](http://www.integracionradio.com/) | - | [Logo](http://www.integracionradio.com/images/baner.jpg) | - |
-| Kust Radion | - | [web](http://www.kustradion.fm/lyssna-pa-kustradion/) | - | [Logo](http://www.kustradion.fm/wp-content/uploads/2013/08/cropped-Logga-web_fm_2.jpg) | - |
-| Onda Capital | - | [web](https://ondacapital.es/) | - | [Logo](http://ondacapital.es/wp-content/uploads/2018/10/logo-capital.png) | - |
-| Onda Cero Sevilla | - | [web](https://www.ondacero.es/emisoras/andalucia/sevilla/directo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/225px-Onda_Cero_logo.svg.png) | - |
-| Onda Punta Radio | - | [web](http://ondapuntaradio.net/) | - | [Logo](http://ondapuntaradio.net/wp-content/uploads/2015/01/logo_opr.png) | - |
-| Onda Mencía Radio | - | [web](http://escucha.ondamenciaradio.com/) | - | [Logo](http://www.ondamenciaradio.com/images/logos/logo_omr_355_130.png) | - |
-| La Fresca FM | - | [web](http://www.lafresca.fm/) | - | [Logo](https://assets.lafresca.es/static/images/logo.png) | - |
-| La Mega FM | - | [web](http://www.lamegacostadelsol.com/) | - | [Logo](http://www.lamegacostadelsol.com/wp-content/uploads/2018/05/logo_lamega2018_Dial887.png) | - |
-| Radio Oro Marbella | [MP3](http://185.23.192.118:8004/;stream.mp3) | [web](http://www.radiooro.es/) | - | [Logo](https://static.radio.es/images/broadcasts/11/0e/2691/c300.png) | - |
-| Radio Oro Málaga | [MP3](http://185.23.192.118:8002/;stream.mp3) | [web](http://www.radiooro.es/) | - | [Logo](https://static.radio.es/images/broadcasts/11/0e/2691/c300.png) | - |
-| Radio Planeta | [Stream](http://5.79.66.113:8004/stream) | [web](https://www.radioplaneta.com/#) | - | [Logo](https://www.radioplaneta.com/resources/images/logo.png) | - |
-| Radio Poniente | - | [web](https://www.radioponiente.com/) | - | [Logo](https://www.radioponiente.com/imagenes/logocabecera.png) | - |
-| Radio Sierra | - | [web](http://www.radiosierra.es/) | - | [Logo](http://www.radiosierra.es/wp-content/themes/multinews/images/logo.png) | - |
-| Radio Marca Sevilla | - | [web](https://www.marca.com/radio.html?intcmp=BOTONPORTADA&s_kw=radiomarca#) | - | [Logo](https://pbs.twimg.com/profile_images/1053407501788561411/ulEog-n4_400x400.jpg) | - |
-| Radio Marca Málaga | [Stream](https://malagafm.streaming-pro.com:8131/malagafmmobile) | [web](https://www.marca.com/radio.html?intcmp=BOTONPORTADA&s_kw=radiomarca#) | - | [Logo](https://pbs.twimg.com/profile_images/1053407501788561411/ulEog-n4_400x400.jpg) | - |
-| Radio Martos | [Stream](http://streaming6.elitecomunicacion.es:8234/;) | [web](http://www.radiomartos.com/radioplayer.html) | - | [Logo](http://www.radiomartos.com/imagenes/logo_radio_25_aniversario.jpg.jpg) | - |
-| Radio Luz | [MP3](http://ns100.emisionlocal.com:8022/;stream.mp3) | [web](http://www.fmradioluz.com/) | - | [Logo](http://www.tusalvador.com/wp-content/uploads/2017/01/LOGO.png) | - |
-| Sevilla FC Radio | - | [web](http://live.sevillafc.es/) | - | [Logo](http://live.sevillafc.es/sites/live-sevillafc-redisenoweb.emergya.com/files/inline-images/sevilla-fc-radio.png) | - |
-| Spectrum FM | - | [web](https://spectrumfm.net/spectrum-fm-live/) | - | [Logo](https://spectrumfm.net/wp-content/uploads/2017/11/Spectrum-Costa-del-Sol-Logo.png) | - |
+## Autonómicos
 
-#### Aragón
+### Andalucía
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Aragón Radio | - | [web](http://www.aragonradio.es/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/a/a3/Arag%C3%B3nRadio.png) | - |
-| Aragón Radio 2.com | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Arag%C3%B3n2Radio.png/225px-Arag%C3%B3n2Radio.png) | - |
-| All You Need Radio | - | [web](https://www.radioallyouneed.nl/) | - | [Logo](https://www.radioallyouneed.nl/assets/images/allyouneed_board.jpg) | - |
-| COPE Pirineos | [Stream](http://85.25.217.22:8110/stream) | [web](http://www.radioribagorza.es/copeonline.html) | - | - | - |
-| Hit Pirineos | [Stream](http://85.25.217.22:8310/stream) | [web](http://www.radioribagorza.es/hitpirineos.html) | - | - | - |
-| LOS40 Huesca | [Stream](https://streamingradio.radiohuesca.com:8061/radio40principales) | [web](https://www.radiohuesca.com/en-directo.html) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/175px-Los_40.svg.png) | - |
-| Tea FM | [MP3](http://cervera.eldialdigital.com:8052/;stream.mp3) | [web](http://www.teafm.net/) | - | [Logo](http://www.teafm.net/images/logo2016.png) | - |
-| Radio Chinchilla | [Stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | - | [Logo](http://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/radio-chinchilla-m2727663.JPG) | - |
-| Radio Ebro | - | [web](https://diarioaragones.com/) | - | [Logo](http://diarioaragones.com/wp-content/uploads/2018/08/ebrofm-escucha.jpeg) | - |
-| Radio Huesca AM | [Stream](https://streamingradio.radiohuesca.com:8011/radiohuescaam) | [web](https://www.radiohuesca.com/en-directo.html) | - | - | - |
-| Radio Huesca FM | [Stream](https://streamingradio.radiohuesca.com:8021/radiohuescafm) | [web](https://www.radiohuesca.com/en-directo.html) | - | - | - |
-| Radio Aínsa | [Stream](https://streamingradio.radiohuesca.com:8071/radiobarbastro) | [web](https://www.radiohuesca.com/en-directo.html) | - | - | - |
-| Radio Barbastro | [Stream](https://streamingradio.radiohuesca.com:8071/radiobarbastro) | [web](https://www.radiohuesca.com/en-directo.html) | - | - | - |
-| Radio Graus | [Stream](https://streamingradio.radiohuesca.com:8051/radiograus) | [web](https://www.radiohuesca.com/en-directo.html) | - | - | - |
-| Radio Jaca | [Stream](https://streamingradio.radiohuesca.com:8041/radiojaca) | [web](https://www.radiohuesca.com/en-directo.html) | - | - | - |
-| Radio Mai | [M3U](http://radio.indaloweb.es:8001/live.m3u) | [web](http://radiomai.com/online/) | - | [Logo](http://radiomai.com/online/logoradiomai.gif) | - |
-| Radio Mai (Backup) | [M3U](http://radiomai.ddns.net:8020/live.m3u) | [web](http://radiomai.com/online/) | - | [Logo](http://radiomai.com/online/logoradiomai.gif) | - |
-| Radio Monzón | [Stream](https://streamingradio.radiohuesca.com:8091/radiomonzon) | [web](https://www.radiohuesca.com/en-directo.html) | - | - | - |
-| Radio Ribagorza | [Stream](http://85.25.217.22:8210/stream) | [web](http://www.radioribagorza.es/radioonline.html) | - | - | - |
-| Radio Sabiñánigo | [Stream](https://streamingradio.radiohuesca.com:8031/radiosabinanigo) | [web](https://www.radiohuesca.com/en-directo.html) | - | - | - |
-| Radio Sariñena | [Stream](https://streamingradio.radiohuesca.com:8101/radiosarinena) | [web](https://www.radiohuesca.com/en-directo.html) | - | - | - |
-| Rumba FM | - | [web](http://gruporumba.com/) | - | [Logo](http://gruporumba.com/wp-content/uploads/2018/11/rumbalogo.png) | - |
-| ZFM | - | [web](http://www.zaragozafm.es/player/) | - | [Logo](http://www.zaragozafm.es/img/logo.png) | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Canal Sur Radio | [mp3](http://195.10.10.206/rtva/canalsurradio_sevilla.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_csr) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
+| Canal Fiesta Radio | [mp3](http://195.55.74.208/rtva/canalsurradio_sevilla.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_fiesta) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
+| Flamenco Radio | [mp3](http://195.10.10.206/rtva/canalsurradio_sevilla.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_flamenco) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
+| Radio Andalucía Información | [mp3](http://195.10.10.206/rtva/radioandalucia.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_rai) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
 
-#### Asturias
+### Aragón
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| RPA | - | [web](https://rtpa.es/radio) | - | [Logo](https://rtpa.es/v3_assets/logo-RPA.svg) | - |
-| Cadena Dial Asturias | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/225px-Cadena_Dial.svg.png) | - |
-| Cadena Dial Eo-Navia | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cadena_Dial.svg/225px-Cadena_Dial.svg.png) | - |
-| Cadena SER Asturias | - | [web](https://play.cadenaser.com/emisora/radio_asturias/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - Oriente | - | [web](https://play.cadenaser.com/emisora/ser_oriente/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Carrussel FM | - | [web](https://players.emitironline.com/v5/index.php?url=http%3A%2F%2Fserver10.emitironline.com%3A8921%2Fradio&codec=mp3&volume=80&autoplay=true&buffering=2&user=carruselfm&server=server10&title=Carrusel+FM) | - | [Logo](http://www.carruselfm.com/images/logo.png) | - |
-| cSTRadio | - | [web](http://www.cstradio.org/v_portal/apartados/apartado.asp) | - | [Logo](http://www.cstradio.org/v_portal/inc/imagen.asp?f=banner_t4_0555.jpg&w=1060&h=215&c=2&a=3) | - |
-| Laviana FM | - | [web](https://www.ivoox.com/escuchar-online-laviana-fm_tw_29762_1.html) | - | - | - |[Logo](https://static-1.ivoox.com/radios/2/1/0/1/2741432911012_MD.jpg)
-| Los 40 Asturias| - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/175px-Los_40.svg.png) | - |
-| Los 40 Eo | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/175px-Los_40.svg.png) | - |
-| Los 40 Classic Asturias | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/175px-Los_40.svg.png) | - |
-| Master FM | - | [web](http://lamaster.es/) | - | [Logo](http://lamaster.es/wp-content/uploads/2018/03/fav.png) | - |
-| Máxima FM Asturias | - | - | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M%C3%A1xima_FM.svg/200px-M%C3%A1xima_FM.svg.png) | - |
-| Onda Peñes | - | [web](http://www.gaxarte.com/emisiononline.htm) | - | [Logo](http://www.gaxarte.com/Logo%20Onda%20Penes%202009%20JPG.jpg) | - |
-| Radio QK | - | [web](http://www.radioqk.org/) | - | [Logo](http://www.radioqk.org/wp-content/themes/oldradio/img/logo-radioqk.png) | - |
-| Radio Fantasía | [Stream](http://81.94.198.122:9280/;) | [web](http://radiofantasiafm.com//modules/mod_rar_radio/tmpl/player/player.php?d=aHR0cDovLzgxLjk0LjE5OC4xMjI6OTI4MC87LGh0dHA6Ly9yYWRpb2ZhbnRhc2lhZm0uY29tLywvaW1hZ2VzL3JhZGlvb25saW5lLmpwZyxwdWItNjgyNDQ5NDk0MjcwNDY5MSxFbCBsb2dvIGRlIGxhIFJhZGlvLDIwMCwzLDEsaHR0cDovL215ZG9tYWluLmNvbS90aXRsZS9jdXJyZW50U29uZy50eHQsUkFESU8gQVBBR0FEQSxObyBoYXkgdGl0dWxvcyxFc2N1Y2hhczosMSww) | - | [Logo](http://radiofantasiafm.com//images/radioonline.jpg) | - |
-| Radio San Martín Sotrondio | [Stream](http://91.126.223.28:9890/;) | [web](https://sanmartinradio.blogspot.com/) | - | [Logo](https://radiosanmartindotcom.files.wordpress.com/2018/08/logo-rsm.png) | - |
-| Radio Sele | - | [web](http://www.radiosele.com/) | - | [Logo](http://4.bp.blogspot.com/-T-a-jacAxic/VbHrJNL4eMI/AAAAAAAAAa4/sC66hX-w7k0/s1600/LOGOTIPO%2BRADIO%2BSELE%255B1%255D%255B1%255D.jpg) | - |
-| Radio Ujo | [Stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | - | [Logo](https://static.wixstatic.com/media/fff70e_789cf4c8a7cf4425b4e02a41cadc1508~mv2.jpg/v1/fill/w_281,h_145,al_c,q_80,usm_0.66_1.00_0.01/fff70e_789cf4c8a7cf4425b4e02a41cadc1508~mv2.webp) | - |
-| The Box FM | - | [web](http://www.theboxfm.net/player_web/index.html) | - | [Logo](http://www.theboxfm.net/wp-content/uploads/2014/01/Logo_274x100.jpg) | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Aragón Radio (Zaragoza) | [m3u8](http://195.10.10.201/zaragoza/live-web/playlist.m3u8) | [web](http://www.aragonradio.es/) | [logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
+| Aragón Radio (Huesca) | [m3u8](http://195.55.74.204/huesca/live-web/playlist.m3u8) | [web](http://www.aragonradio.es/) | [logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
+| Aragón Radio (Teruel) | [m3u8](http://195.55.74.208/teruel/live-web/playlist.m3u8) | [web](http://www.aragonradio.es/) | [logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
 
-#### Canarias
+### Asturias
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Canarias Radio | - | [web](http://www.rtvc.es/canariasradio/directo.aspx) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_de_Canarias_Radio.svg/1280px-Logo_de_Canarias_Radio.svg.png) | - |
-| Atlántica FM | - | [web](https://www.radioatlantica.com.bo/) | - | - | - |
-| Canal 4 Tenerife | - | [web](http://www.canal4tenerife.tv/radio/) | - | [Logo](http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png) | - |
-| Radio El Día | - | [web](https://eldia.fm/online.htm) | - | [Logo](http://eldia.fm/wp-content/uploads/2013/02/logoradio1.png) | - |
-| Cadena SER - Radio Club Tenerife | - | [web](https://play.cadenaser.com/emisora/radio_club_tenerife) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Kiss FM Canarias | [MP3](http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3) | [web](http://kissfm.es/player/canarias.html) | - | [Logo](http://kissfm.es/player/img/logokiss.png) | - |
-| Radio ECCA | [MP3](http://audio1.ipercast.net/endirecto22.es/mp3) | [web](http://www2.radioecca.org/radio/online) | - | [Logo](http://www2.radioecca.org/img/logo.png?v=1) | - |
-| Radio Guiniguada | [Stream](http://185.129.248.251:9874/;) | [web](http://www.radioguiniguada.com) | - | [Logo](http://www.radioguiniguada.com/wp-content/uploads/2018/06/unnamed.jpg) | - |
-| Radio Guiniguada Internacional | [Stream](http://185.129.248.251:9876/;) | [web](http://www.radioguiniguada.com) | - | [Logo](http://www.radioguiniguada.com/wp-content/uploads/2018/06/unnamed.jpg) | - |
-| Radio La Guancha | - | [web](http://www.radiolaguancha.com/?page_id=23) | - | [Logo](http://www.radiolaguancha.com/wp-content/uploads/2014/02/boton_radio.png) | - |
-| Radio San Borondón | [pls](http://srv0435.lcinternet.com/tunein.php/sanboron/playlist.pls) | [web](http://www.sanborondon.info/images/_streamer/rsb.html) | - | [Logo](http://www.sanborondon.info/images/_logos/logo.png) | - |
-| Q FM | - | [web](https://www.qmusica.com/es) | - | [Logo](https://www.qmusica.com/sites/all/themes/custom/images/top.png) | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| RPA | [m3u8](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8) | [web](https://rtpa.es/radio) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
 
-#### Cantabria
+### Canarias
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Canarias Radio | - | [web](http://www.rtvc.es/canariasradio/directo.aspx) | [logo](http://graph.facebook.com/CanariasRadioLaAutonomica/picture?width=320&height=320) | - |
+| Kiss FM Canarias | [mp3](http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3) | [web](http://kissfm.es/player/canarias.html) | [logo](http://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
 
-#### Castilla-La Mancha
+### Cantabria
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Cadena SER - Radio Albacete | - | [web](https://play.cadenaser.com/emisora/radio_albacete/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Radio Arrebato | - | [web](https://www.radioarrebato.net/escuchar/) | - | [Logo](http://www.radioarrebato.net/wp-content/uploads/2008/01/cartel-radio-arrebato.jpg) | - |
-| Radio Chinchilla | [Stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | - | [Logo](http://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/radio-chinchilla-m2727663.JPG) | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
 
-#### Castilla y León
+### Castilla La-Mancha
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Castilla y León Radio | - | [web](http://www.castillayleonesradio.es/) | - | - | - |
-| Cadena SER - Radio Castilla | - | [web](https://play.cadenaser.com/emisora/radio_castilla/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - Radio Valladolid | - | [web](https://play.cadenaser.com/emisora/radio_valladolid/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - Radio Zamora | - | [web](https://play.cadenaser.com/emisora/radio_zamora/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Mortal FM | - | [web](http://www.mortalfm.es/online) | - | [Logo](http://www.mortalfm.es/archivos/logo.png) | - |
-| Radio Valdivielso | - | [web](http://radiovaldivielso.es) | - | [Logo](http://radiovaldivielso.es/imagenes/LOGO%20RADIO%20VALDIVIELSO%20copia40%20[320x200].jpg) | - |
-| Vive! Radio | - | [web](http://www.viveradio.es/ReproductorLive.aspx) | - | [Logo](http://www.viveradio.es/Entorno/LogoVive2.gif) | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| CMM Radio | [m3u8](http://klive.kaltura.com/s/dc-1/live/hls/p/2288691/e/1_qilzwlkz/sd/6000/t/8BpiW31Kxx-d8yW8A_SjGQ/index-s32.m3u8) | [web](http://www.cmmedia.es/en-directo/radio/) | [logo](http://graph.facebook.com/CMMediaes/picture?width=320&height=320) | - |
 
-#### Catalunya
+### Castilla y León
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Catalunya Ràdio | - | [web](https://www.ccma.cat/catradio/directe/catalunya-radio/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Catalunya_R%C3%A0dio.svg/250px-Catalunya_R%C3%A0dio.svg.png) | - |
-| Catalunya Informació | - | [web](https://www.ccma.cat/catradio/directe/catalunya-informacio/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Catalunya_Informaci%C3%B3.svg/250px-Catalunya_Informaci%C3%B3.svg.png) | - |
-| Cat Música | - | [web](https://www.ccma.cat/catradio/directe/catmusica/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Catalunya_M%C3%BAsica.svg/2000px-Catalunya_M%C3%BAsica.svg.png) | - |
-| Cat Clàssica | - | [web](https://www.ccma.cat/catradio/directe/catclassica/) | - | [Logo](http://db.radioline.fr/pictures/radio_d82bacb209dfd93cad66ea1e7789b040/logo200.jpg?size=200) | - |
-| iCat | - | [web](https://www.ccma.cat/catradio/directe/icat/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ICat.cat.svg/225px-ICat.cat.svg.png) | - |
-| Antena 2000 | - | - | - | - | - |
-| Bas Ràdio | - | [web](https://basradioweb.wordpress.com/) | - | [Logo](http://webspobles2.ddgi.cat/lavalldenbas/media/sites/31/logo_radio_vall.gif) | - |
-| betevé ràdio | - | [web](https://beteve.cat/en-directe/radio/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotip_beteve.svg/150px-Logotip_beteve.svg.png) | - |
-| Cadena SER - Ràdio Barcelona | - | [web](https://play.cadenaser.com/emisora/radio_barcelona/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - Ràdio Reus | - | [web](https://play.cadenaser.com/emisora/radio_reus/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| COPE Barcelona | - | [web](https://www.cope.es/directos/barcelona) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_Cadena_COPE.png/100px-Logo_Cadena_COPE.png) | - |
-| Equinox Radio | - | [web](https://www.equinoxmagazine.fr/2017/03/24/ecouter-equinox-radio-francaise-barcelone-direct/) | - | [Logo](https://www.equinoxmagazine.fr/wp-content/uploads/2016/06/LOGO-1.jpg) | - |
-| Flaix FM | - | [web](https://www.flaixfm.cat/) | - | [Logo](https://www.flaixfm.cat/img/flaixfm/logo.svg?1) | - |
-| La Marina FM | [Stream](http://endirecte.amcl.cat:8000/lamarinafm) | [web](http://lamarina.cat/endirecte/) | - | [Logo](http://lamarina.cat/wp-content/uploads/LAMARINAweb.png) | - |
-| Mataró Ràdio | - | [web](https://enacast.com/iframe_directe/49/?theme=standard&autostart=yes) | - | [Logo](http://mataroaudiovisual.cat/sites/all/themes/mataroaudiovisual07/images/icon-radio.png) | - |
-| Onda Rambla | - | - | - | - | - |
-| RAC1 | [nsv](http://rac1.radiocat.net/;*.nsv) | [web](https://www.rac1.cat) | - | - | - |
-| RAC 105 | [nsv](http://rac105.radiocat.net/;*.nsv) | [web](http://www.rac105.cat) | - | - | - |
-| RNE Ràdio 4 | - | [web](http://www.rtve.es/radio/radio4-endirecto/) | - | - | - |
-| Radio Bronka | - | [web](http://radiobronka.info/escuchanos/emision-online/) | - | [Logo](http://dinamoespai.info/wp-content/uploads/palantebronka-boca-oberta-300x300.jpg) | - |
-| Ràdio Ciutat de Badalona | - | [web](https://enacast.com/iframe_directe/39/?theme=standard) | - | [Logo](https://www.radiociutatdebadalona.cat/img/logoRadiob.png) | - |
-| Ràdio Despí | [Stream](http://178.33.161.57:17234/stream) | [web](https://radiodespi.net/directo/) | - | [Logo](https://radiodespi.net/wp/wp-content/uploads/2018/02/Logo-107.2-3D-Transparente-300x167.png) | - |
-| Ràdio Estel | [Stream/PLS](http://srv3021.lcinternet.com:8019/stream) | [web](http://player.lcinternet.es/v9/cc232_id415/) | - | [Logo](http://www.radioestel.com/imatges/zona_cabecera2.png) | - |
-| Ràdio Flaixbac | - | [web](https://www.flaixbac.cat/) | - | [Logo](https://www.flaixbac.cat/img/radioflaixbac/logo-white.svg?2) | - |
-| Ràdio Gràcia | - | [web](https://ajuntament.barcelona.cat/gracia/ca/coneixeu-el-districte/radio-gracia) | - | [Logo](https://ajuntament.barcelona.cat/gracia/sites/default/files/styles/gallery/public/gallery/radio_gracia_800x450.jpg) | - |
-| Ràdio Marca Barcelona | [Stream](https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream) | [web](https://www.marca.com/radio.html?intcmp=BOTONPORTADA&s_kw=radiomarca#) | - | [Logo](https://pbs.twimg.com/profile_images/1053407501788561411/ulEog-n4_400x400.jpg) | - |
-| Ràdio Principal | - | - | - | - | - |
-| Ràdio Tele-Taxi | - | [web](https://www.radioteletaxi.com/reproductor/) | - | [Logo](https://mytuner.global.ssl.fastly.net/media/tvos_radios/HtCRgjSUTH.png) | - |
-| Ràdio Vilamajor | - | [web](http://www.radiovilamajor.cat/) | - | [Logo](http://www.radiovilamajor.cat/wp-content/uploads/2018/11/cropped-portada3-2.png) | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| esRadio - Castilla y León | [stream](http://livecyl.esradio.fm/cyl) | [web](http://www.castillayleonesradio.es/) | [logo](http://graph.facebook.com/esradio/picture?width=320&height=320)| - |
 
-#### Ceuta
+### Cataluña
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Catalunya Ràdio | [m3u8](https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:catradio/playlist_DVR.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-radio/) | [logo](http://graph.facebook.com/catradio/picture?width=320&height=320) | - |
+| Catalunya Informació | [m3u8](https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:catinform/playlist_DVR.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-informacio/) | [logo](https://pbs.twimg.com/profile_images/899576741819232256/lV41m8zq_400x400.jpg) | - |
+| Cat Música | [m3u8](https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:catmusica/playlist_DVR.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catmusica/) | [logo](http://graph.facebook.com/catmusica/picture?width=320&height=320) | - |
+| Cat Clàssica | [m3u8](https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:catclassica/playlist_DVR.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catclassica/) | [logo](http://graph.facebook.com/catmusica/picture?width=320&height=320) | - |
+| iCat | [aac](https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:icatfm/media-udrzgig6o_DVR_13792448.aac) - [m3u8](https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:icatfm/playlist_DVR.m3u8) | [web](https://www.ccma.cat/catradio/directe/icat/) | [logo](http://graph.facebook.com/icatpuntcat/picture?width=320&height=320) | - |
+| Cadena SER Catalunya | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CAT.mp3) | [web](https://play.cadenaser.com/emisora/sercat/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| LOS40 Catalunya | [mp3](https://20073.live.streamtheworld.com/LOS40_CAT.mp3) | [web](https://play.los40.com/emisora/los40_catalunya/) | [logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| RAC1 | [nsv](http://rac1.radiocat.net/;*.nsv) | [web](https://www.rac1.cat) | [logo](http://graph.facebook.com/rac1oficial/picture?width=320&height=320) | - |
+| RAC 105 | [nsv](http://rac105.radiocat.net/;*.nsv) | [web](http://www.rac105.cat) | [logo](http://graph.facebook.com/rac105/picture?width=320&height=320) | - |
+| Ràdio 4 | [mp3](http://195.55.74.208/rtve/rtve-radio4.mp3) | [web](http://www.rtve.es/radio/radio4-endirecto/) | [logo](http://graph.facebook.com/Radio4RNE/picture?width=320&height=320) | - |
+| Flaix FM | [stream](https://www.flaixfm.cat/ca/api/player/live) | [web](https://www.flaixfm.cat/) | [logo](http://graph.facebook.com/flaixfm/picture?width=320&height=320) | - |
+| Ràdio Flaixbac | [stream](https://www.flaixbac.cat/ca/api/player/live) | [web](https://www.flaixbac.cat/) | [logo](http://graph.facebook.com/flaixbac/picture?width=320&height=320) | - |
 
-#### Extremadura
+### Ceuta
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Canal Extremadura Radio | - | [web](http://www.canalextremadura.es/radio/directo) | - | [Logo](https://cdn-profiles.tunein.com/s126406/images/bannerx.jpg) | - |
-| Radio Miajadas | [Stream](http://srv0410.lcinternet.com:8013/stream) | [web](http://player.lcinternet.es/v9/cc023_063/) | - | [Logo](https://i0.wp.com/rtvmiajadas.es/wp-content/uploads/2018/12/navidad-2019x-1.png) | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| RTVCE | - | [web](http://www.rtvce.es/radio_online) | [logo](http://graph.facebook.com/RTVCE/picture?width=320&height=320) | - |
 
-#### Galicia
+### Extremadura
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Radio Galega | - | [web](http://www.crtvg.es/rg/rg-en-directo/canle/radio-galega) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
-| Radio Galega Música | - | [web](http://www.crtvg.es/rg/rg-en-directo/canle/rg-musica) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
-| Son Galicia Radio | - | [web](http://www.crtvg.es/rg/rg-en-directo/canle/son-galicia) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
-| Radio Picariña | - | [web](http://www.crtvg.es/en-directo/canles-directos-rg/radio-picarina) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png) | - |
-| Cadena SER - Radio Vigo | - | [web](https://play.cadenaser.com/emisora/radio_vigo/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - Baixo Miño | - | [web](https://play.cadenaser.com/emisora/ser_baixo_mino/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - Mariña | - | [web](https://play.cadenaser.com/emisora/radio_mariña/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cuac FM | [ogg](https://streaming.cuacfm.org/cuacfm.ogg) | [web](https://cuacfm.org/directo/) | - | [Logo](https://cuacfm.org/wp-content/uploads/2015/04/cuacfm-banner-top.png) | - |
-| Radio Municipal de Tui | - | [web](http://www.concellotui.org/php/radio.php) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/b/b9/RadioDeTui.jpg) | - |
-| Radiofusión | [Stream](http://srv0411.lcinternet.com:9005/stream) | [web](https://www.radiofusion.eu/) | - | [Logo](https://www.radiofusion.eu/sites/all/themes/radiofusion/logo.png) | - |
-| Radio Fene | [Stream](http://srv0490.lcinternet.com:8002/stream) | [web](https://www.radiofusion.eu/) | - | [Logo](https://www.radiofusion.eu/sites/all/themes/radiofusion/images/logo-radioFene.png) | - |
-| Radio Voz | - | [web](http://www.radiovoz.com/) | - | [Logo](http://www.radiovoz.com/img/logoradiovoz.png) | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Canal Extremadura Radio | [m3u8](http://hlsradio.canalextremadura.es/liveradio/streamrd01/playlist_DVR.m3u8) | [web](http://www.canalextremadura.es/radio/directo) | [logo](http://graph.facebook.com/CanalExtremadura/picture?width=320&height=320) | - |
 
-#### Islas Baleares
+### Galicia
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| IB3 Ràdio | - | [web](https://ib3.org/directe?c=radio) | - | [Logo](https://upload.wikimedia.org/wikipedia/ca/7/7e/Ib3_logo2008-1.png) | - |
-| Cadena SER - Radio Mallorca | - | [web](https://play.cadenaser.com/emisora/radio_mallorca/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Radio Balear | [Stream](http://server6.20comunicacion.com:8076/;) | [web](http://www.radiobalear.es/directo/) | - | [Logo](http://radiobalear.net/wp-content/uploads/2017/11/nuevo-logo.png) | - |
-| Radio Manía Mallorca | - | [web](https://radiomania.es/) | - | [Logo](https://radiomania.es/wp-content/themes/radiomaniad/images/3899b712819a09079c84983638a6772f_logobot.png) | - |
-| Última Hora Radio | [Stream](http://stream.fibwi.com:9020/stream) | [web](http://radio.gsstatic.es/) | - | [Logo](http://radio.gsstatic.es/player.png) | - |
-| Ibiza Global Radio | [Stream](http://ibizaglobalradio.streaming-pro.com:8024/stream) | [web](http://ibizaglobalradio.com/) | - | [Logo](http://ibizaglobalradio.com/wp-content/themes/igr-theme/img/igr-logo-new.png) | - |
-| ibizaSonica | [Stream/MP3](http://s1.sonicabroadcast.com:7005/;stream/1) | [web](https://www.ibizasonica.com/) | - | [Logo](https://static.radio.es/images/broadcasts/59/b1/5208/2/c300.png) | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Radio Galega | [mp3](http://195.10.10.206/radiogalega/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/radio-galega) | [logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
+| Radio Galega Música | [mp3](http://195.10.10.213/radiogalega-musica/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/rg-musica) | [logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
+| Son Galicia Radio | [mp3](http://195.10.10.201/songalicia/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/son-galicia) | [logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
+| Radio Picariña | [stream](http://ondemand-crtvg-origin.flumotion.com/videos/rg_infantil/flumotion/amodino.mp3) | [web](http://www.crtvg.es/en-directo/canles-directos-rg/radio-picarina) | [logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
 
-#### Madrid
+### Islas Baleares
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Onda Madrid | - | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/225px-OndaMadrid.svg.png) | - |
-| Cadena SER - Sierra | [MP3](http://217.126.244.152:7000/;stream.mp3) | [web#1](https://play.cadenaser.com/emisora/ser_madrid_sierra/) - [web#2](http://www.lavozdelasierra.es/ser-sierra/player.php) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| ECO Leganés | - | [web](http://ecoleganes.org/) | - | [Logo](http://ecoleganes.org/wp-content/uploads/2018/03/logo.png) | - |
-| Gestiona Radio | - | [web](http://www.gestionaradio.com/) | - | [Logo](http://www.gestionaradio.com/wp-content/uploads/2015/09/logo_radio-e1444234296424.png) | - |
-| Radio Inter | - | [web](https://www.radiointer.es/) | - | [Logo](https://www.radiointer.es/wp-content/uploads/2015/11/logo-inter.png) | - |
-| M21 Radio | - | [web](https://www.m21radio.es/ahora) | - | [Logo](https://www.m21radio.es/sites/all/themes/custom/m21radio_static/logo.png) | - |
-| Onda Diamante | [M3U](http://www.avvcanillejas.org/docs/ondadiamante.ogg.m3u) | [web](http://www.avvcanillejas.org/radio.htm) | - | [Logo](http://www.avvcanillejas.org/img/radio.jpg) | - |
-| Onda Cero Sierra | [MP3](http://ondacerosierra.ddns.net:7000/;stream.mp3) | [web](http://www.lavozdelasierra.es/onda-cero-sierra/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/225px-Onda_Cero_logo.svg.png) | - |
-| OMC Radio | [Stream](http://cervera.eldialdigital.com:8104/;) | [web](https://www.omcradio.org/escuchanos/) | - | [Logo](https://www.omcradio.org/wp-content/uploads/2018/02/logo2018.png) | - |
-| Onda Polígono | - | [web](http://www.ondapoligono.org/) | - | [Logo](http://www.ondapoligono.org/img_estructura/ondapollogo2018.png) | - |
-| Radio Almenara | [Stream](http://185.50.197.212:9986/;) | [web](http://www.radioalmenara.net/) | - | [Logo](http://www.radioalmenara.net/local/cache-vignettes/L800xH97/siteon0-e2cdf.png) | - |
-| Radio Cigüeña | - | [web](http://streamserver2.somosdigital.net:2199/start/sd0211a/) | - | [Logo](http://www.radiociguena.org/images/Logos_Radio_Ciguena/LogonuevoRC_Portada.jpg) | - |
-| Radio Enlace | - | [web](http://www.radioenlace.org/) | - | [Logo](http://www.radioenlace.org/images/titulo-2015.png) | - |
-| Radio Fuga | [Stream](http://radiogestion.com:7090/radiofuga) | [web](http://radio-fuga.com/escuchanosaqui/) | - | [Logo](http://radio-fuga.com/wp-content/uploads/2014/02/LogoRadioWeb.png) | - |
-| Radio Jabato | - | [web](https://www.ivoox.com/escuchar-radio-jabato_nq_219448_1.html) | - | [Logo](https://pbs.twimg.com/profile_images/748361935050113027/zMSVPvrx_400x400.jpg) | - |
-| Radio Las Águilas | - | [web](http://www.radiolasaguilas.es/) | - | [Logo](http://www.radiolasaguilas.es/wp-content/uploads/2015/04/Logo-radio-nuevo-definitivo2.jpg) | - |
-| Radio Morata | [MP3](http://cervera.eldialdigital.com:8132/codec=mp3) | [web](http://www.radiomorata.com/lavoz/) | - | [Logo](http://lavoz.radiomorata.com/img/logo_radio_lavoz.png) | - |
-| Radio Paloma | - | [web](https://schlager.radio/) | - | [Logo](https://schlager.radio/wp-content/uploads/2015/09/radio-paloma-logo.png) | - |
-| Radio Romanul | - | [web](http://www.radioromanul.es/live/) | - | [Logo](http://www.radioromanul.es/wp-content/uploads/2014/10/RadioRomanul-Logo2.png) | - |
-| Radio Utopía | [MP3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](http://www.radioutopia.org.es/) | - | [Logo](http://s320914904.mialojamiento.es/wp-content/uploads/2017/02/lru120px-1.png) | - |
-| Radio Vallekas | [Stream](http://cervera.eldialdigital.com:8032/;) - [M3U](http://www.radiovallekas.org/emision.m3u) | [web](http://www.radiovallekas.org/spip/spip.php?rubrique30) | - | [Logo](http://www.radiovallekas.org/spip/imagenes/logoRVK.png) | - |
-| Radio Vallekas 2 | [Stream](http://rvk2.radiovallekas.org:6020/;) | [web](http://www.radiovallekas.org/spip/spip.php?rubrique30) | - | [Logo](http://www.radiovallekas.org/radiovallekas2/RVK2.png) | - |
-| Radio Vallekas Eventos | [Stream](http://tesla.eldialdigital.com:6002/;) | [web](http://www.radiovallekas.org/spip/spip.php?rubrique30) | - | [Logo](http://www.radiovallekas.org/eventos/RVKeventos.png) | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| IB3 Ràdio | [mp3](http://streaming01.ib3radio.com:8000/ib3radio.mp3) | [web](https://ib3.org/directe?c=radio) | [logo](http://graph.facebook.com/IB3org/picture?width=320&height=320) | - |
+| Fibwi Radio | [stream](http://stream.fibwi.com:9000/stream) | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - |
 
+### La Rioja
 
-#### Melilla
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| COPE Rioja | [stream](https://www.cope.es/api/es/appbeta/streaming/logrono) | [web](https://www.cope.es/directos/logrono) | [logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
+### Madrid
 
-#### Murcia
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Onda Madrid | [m3u8 # 1](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 2](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid/) | [logo](http://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - |
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Cadena SER - Radio Murcia | - | [web](https://play.cadenaser.com/emisora/radio_murcia/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Onda Regional de Murcia | [aac](https://live.redctnet.es/live/orm/orm/media_w885381291_148.aac) | [web](https://www.orm.es/directo/orm/) | - | [Logo](https://mytuner.global.ssl.fastly.net/media/tvos_radios/dQZbA8FwvK.png) | - |
-| Radio Calasparra | [Stream](http://213.96.195.21:8000/;) | [web](https://tunein.com/radio/Radio-Calasparra-1075-s113080/) | - | [Logo](http://www.lareferencia.net/wp-content/uploads/2014/10/radio-calasparra.jpg) | - |
+### Melilla
 
-#### Navarra
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Bit FM Pamplona | [pls](http://server1.emitironline.com:8024/) | [web](http://bitfm.es/player/) | - | [Logo](http://www.bitfm.es/wp-content/uploads/2018/10/blanco.png) | - |
-| Eguzki Irratia | - | [web](https://eguzki.eus/) | - | [Logo](https://eguzki.eus/wp-content/uploads/2017/07/cropped-LOGO.jpg) | - |
-| Emisora Municipal de Pamplona | - | [web](https://pamplona.es/radio) | - | - | - |
-| Euskalerria Irratia | [Stream](http://server4.beatproducciones.com:8014/;) | [web](https://euskalerriairratia.eus/irratia/zuzenekoa) | - | [Logo](https://euskalerriairratia.eus/static/img/logoa.png) | - |
-| Radio Universidad de Navarra | [MP3](http://s37.myradiostream.com/8638/listen.mp3) | [web](https://www.unav.edu/radioplayer/endirecto.html) | - | [Logo](https://www.unav.edu/radioplayer/radio-universidad-de-navarra-en-directo.jpg) | - |
-| Trak FM Pamplona | [MP3](http://91.121.77.67:8070/;stream.mp3) | [web](http://trakfm.com/) | - | [Logo](http://trakfmco-cp44.wordpresstemporal.com/wordpress/wp-content/uploads/2017/01/Trak-FM-Logo-Main.jpg) | - |
+### Murcia
 
-#### País Vasco
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Onda Regional de Murcia | [aac](https://live.redctnet.es/live/orm/orm/media_w885381291_148.aac) | [web](https://www.orm.es/directo/orm/) | [logo](http://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
+| Onda Regional Música | [aac](https://live.redctnet.es/live/ormmusical/ormmusical/media_w1180626724_20243.aac) | [web](https://www.orm.es/directo/or-musica/) | [logo](http://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| EITB Musika | - | [web](https://www.eitb.eus/eu/irratia/eitb-musika/irratia-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eitbmusika.png/280px-Eitbmusika.png) | - |
-| Euskadi Irratia | - | [web](https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Euskadiirratia.png/280px-Euskadiirratia.png) | - |
-| Gaztea | - | [web](https://www.eitb.eus/eu/gaztea/gaztea-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gaztea_Spain.svg/200px-Gaztea_Spain.svg.png) | - |
-| Radio Euskadi | - | [web](https://www.eitb.eus/es/radio/radio-euskadi/radio-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Radioeuskadi.png/280px-Radioeuskadi.png) | - |
-| Radio Vitoria | - | [web](https://www.eitb.eus/es/radio/radio-vitoria/radio-online/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Radiovitoria.png/280px-Radiovitoria.png) | - |
-| Herri Irratia | - | [web](https://radiopopular.com/) | - | [Logo](http://radiopopular.com/wp-content/uploads/2017/01/logoradiopopwebeusk.jpg) | - |
-| Radio Nervión | - | [web](http://www.radionervion.com/) | - | [Logo](http://www.radionervion.com/images/LOGOweb130.png) | - |
-| Onda Vasca | - | [web](https://www.ondavasca.com/) | - | [Logo](https://www.ondavasca.com/wp-content/themes/OndaVasca/img/logos/OndaVasca.png) | - |
-| Onda Vasca Gipuzcoa | - | [web](https://www.ondavasca.com/) | - | [Logo](https://www.ondavasca.com/wp-content/themes/OndaVasca/img/logos/OndaVasca.png) | - |
+### Navarra
 
-#### La Rioja
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
+### País Vasco
 
-#### Valencia
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| EITB Musika | [m3u8](https://etbaeitbmusnogeo-lh.akamaihd.net/i/EITBMUSIKA_1@594815/index_128_a-b.m3u8) | [web](https://www.eitb.eus/eu/irratia/eitb-musika/irratia-online/) | [logo](http://graph.facebook.com/eitbmusika/picture?width=320&height=320) | - |
+| Euskadi Irratia | [m3u8](https://etbaeirratinogeo-lh.akamaihd.net/i/EIRRATIA_1@594816/index_128_a-b.m3u8) | [web](https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online/) | [logo](http://graph.facebook.com/Euskadi.Irratia/picture?width=320&height=320) | - |
+| Gaztea | [m3u8](https://etbagazteanogeo-lh.akamaihd.net/i/GAZTEA_1@349778/index_128_a-p.m3u8) | [web](https://www.eitb.eus/eu/gaztea/gaztea-online/) | [logo](http://graph.facebook.com/gaztea/picture?width=320&height=320) | - |
+| Radio Euskadi | [m3u8](https://etbareuskadnogeo-lh.akamaihd.net/i/REUSKADI_1@594818/index_128_a-p.m3u8) | [web](https://www.eitb.eus/es/radio/radio-euskadi/radio-online/) | [logo](http://graph.facebook.com/radiovitoria.eitb/picture?width=320&height=320) | - |
+| Radio Vitoria | [m3u8](https://etbavitorianogeo-lh.akamaihd.net/i/RVITORIA_1@594819/index_128_a-b.m3u8) | [web](https://www.eitb.eus/es/radio/radio-vitoria/radio-online/) | [logo](http://graph.facebook.com/radioeuskadi.RE/picture?width=320&height=320) | - |
+| Euskadi Irratia + | - | [web](https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online-plus/) | [logo](http://graph.facebook.com/Euskadi.Irratia/picture?width=320&height=320) | - |
+| Radio Euskadi + | - | [web](https://www.eitb.eus/es/radio/radio-euskadi/radio-online-plus/) | [logo](http://graph.facebook.com/radiovitoria.eitb/picture?width=320&height=320) | - |
+| Radio Vitoria + | - | [web](https://www.eitb.eus/es/radio/radio-vitoria/radio-online-plus/) | [logo](http://graph.facebook.com/radioeuskadi.RE/picture?width=320&height=320) | - |
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| À Punt FM | - | [web](https://apuntmedia.es/va/directe/radio) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_%C3%A0PuntFM.svg/150px-Logo_%C3%A0PuntFM.svg.png) | - |
-| Alzira Radio | - | - | - | - | - |
-| Cadena SER - Radio Castellón | - | [web](https://play.cadenaser.com/emisora/radio_castellon/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Cadena SER - Radio Valencia | - | [web](https://play.cadenaser.com/emisora/radio_valencia/) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/225px-Cadena_Ser_logo.svg.png) | - |
-| Radio Expres Elche | - | - | - | - | - |
-| Ràdio Klara | [MP3](http://cervera.eldialdigital.com:8048/;#mp3) | [web](http://www.radioklara.org/radioklara/) | - | [Logo](http://www.radioklara.org/radioklara/wp-content/uploads/2014/10/cropped-cabecerarkl-1.jpg) | - |
-| La 97.7 Radio | - | [web](http://www.la977.com/estaticos/la977.html) | - | [Logo](http://www.la977.com/elementosWeb/gestionCajas/977/Image/programas97/Nuevo_logo_entradasombraverde.jpg) | - |
-| UPV Radio | - | [web](http://www.upv.es/rtv/radio/directo) | - | [Logo](http://www.upv.es/imagenes/marcaUPVN1.png) | - |
+### Valencia
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| À Punt FM | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/c3NG45ZjE6mgkM4CVO9xBB9NjSSe-_Lr/cs/9dcea2f8edf84bb4ba446f5e25615b51_1.m3u8) | [web](https://apuntmedia.es/va/directe/radio) | [logo](http://graph.facebook.com/apuntmedia/picture?width=320&height=320) | - |
+
+## Locales
+
+### Andalucía
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Onda Cero Sevilla | [m3u8](https://livefastly-webs.ondacero.es/sevilla-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/sevilla/directo/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Cadena COPE Sevilla | [mp3](https://flucast-b05-05.flumotion.com/copesedes/sevilla.mp3) | [web](https://www.cope.es/directos/sevilla) | [logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| Cadena COPE Sierra Norte | [stream](http://5.135.183.124:8100/stream) | [web](https://radiosierranorte.es/radio-sierra-norte-en-directo-2/) | [logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| Cadena Digital | [mp3](http://185.23.192.118:8006/;stream.mp3) | [web](http://www.cadenadigital.com/) | [logo](http://graph.facebook.com/CadenaDigitalMalaga/picture?width=320&height=320) | - |
+| Cadena Latino | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es/) | [logo](http://graph.facebook.com/LatinoFMmalaga/picture?width=320&height=320) | - |
+| Cadena SER Almería | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALMERIA.mp3) | [web](https://play.cadenaser.com/emisora/ser_almeria/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Cádiz | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CADIZ.mp3) | [web](https://play.cadenaser.com/emisora/radio_cadiz/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Córdoba | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CORDOBA.mp3) | [web](https://play.cadenaser.com/emisora/radio_cordoba) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Granada | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GRANADA.mp3) | [web](https://play.cadenaser.com/emisora/radio_granada) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Levante | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_LEVANTE.mp3) | [web](https://play.cadenaser.com/emisora/ser_levante) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Sevilla | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3) | [web](https://play.cadenaser.com/emisora/radio_sevilla) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Candil Radio | [stream](http://s6.viastreaming.net:7100/;) | [web](http://candilradio.com/) | [Logo](http://graph.facebook.com/890332081024749/picture?width=320&height=320) | - |
+| Central FM | - | [web](http://www.centralfm.com/) | [logo](http://graph.facebook.com/131322746891532/picture?width=320&height=320) | - |
+| Radio Dance | [stream](https://listen.radionomy.com/1-radio-dance) | [web](https://www.radionomy.com/en/radio/1-radio-dance/listen/) | [logo](http://graph.facebook.com/radiodance.net/picture?width=320&height=320) | - |
+| Elite Radio | [stream](http://srv0625.lcinternet.com:8005/stream) | [web](https://eliteradiosevilla.es/) | [logo](http://graph.facebook.com/eliteradiosevilla/picture?width=320&height=320) | - |
+| Fiebre Latina FM | [stream](http://5.135.183.124:8255/stream) | [web](http://www.fiebrelatinaradio.com/emisora.html) | [logo](http://graph.facebook.com/fiebrelatinaradio/picture?width=320&height=320) | - |
+| Global Radio | [mp4](http://stream.seav.co.uk:8000/stream.mp4) | [web](https://global.fm/streamwindow/) | [logo](http://graph.facebook.com/loveglobalradio/picture?width=320&height=320) | - |
+| Integración Radio | [stream](http://5.135.183.124:8023/stream) | [web](http://www.integracionradio.com/) | [logo](http://graph.facebook.com/integracionradio/picture?width=320&height=320) | - |
+| Onda Capital | [nsv](http://grupobit.media:8022/web/;stream.nsv) | [web](https://ondacapital.es/) | [logo](http://graph.facebook.com/ondacapitalfm/picture?width=320&height=320) | - |
+| Onda Punta Radio | - | [web](http://ondapuntaradio.net/) | [logo](http://graph.facebook.com/OndaPunta/picture?width=320&height=320) | - |
+| Onda Mencía Radio | [stream](http://srv0411.lcinternet.com:9000/stream) | [web](http://escucha.ondamenciaradio.com/) | [logo](http://graph.facebook.com/OndaMenciaRadio/picture?width=320&height=320) | - |
+| La Fresca FM | [stream](http://stream.produccionesdale.com:8899/altacalidad) | [web](http://www.lafresca.fm/) | [logo](http://graph.facebook.com/lafresca.es/picture?width=320&height=320) | - |
+| La Mega FM | [mp3](http://streaming5.elitecomunicacion.es:8220/stream?type=.mp3) | [web](http://www.lamegacostadelsol.com/) | [logo](http://graph.facebook.com/lamegacostadelsol/picture?width=320&height=320) | - |
+| Radio Oro Marbella | [mp3](http://185.23.192.118:8004/;stream.mp3) | [web](http://www.radiooro.es/) | [logo](http://graph.facebook.com/189831851070928/picture?width=320&height=320) | - |
+| Radio Oro Málaga | [mp3](http://185.23.192.118:8002/;stream.mp3) | [web](http://www.radiooro.es/) | [logo](http://graph.facebook.com/189831851070928/picture?width=320&height=320) | - |
+| Radio Planeta | [stream](http://5.79.66.113:8004/stream) | [web](https://www.radioplaneta.com/#) | [logo](http://graph.facebook.com/RadioPlaneta92.8/picture?width=320&height=320) | - |
+| Radio Poniente | [pls](http://94.23.85.189:7855/;listen.pls) | [web](https://www.radioponiente.com/) | [logo](http://graph.facebook.com/radioponientedeportes/picture?width=320&height=320) | - |
+| Radio Sierra | - | [web](http://www.radiosierra.es/) | [logo](http://graph.facebook.com/RadioSierraFM/picture?width=320&height=320) | - |
+| Radio Marca Sevilla | [m3u8](https://liveradio.akamaized.net/live/hls/0_zkamo5t3_1/index-audio.m3u8) | [web](https://www.marca.com/radio.html?intcmp=BOTONPORTADA&s_kw=radiomarca#) | [logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
+| Radio Marca Málaga | [stream](https://malagafm.streaming-pro.com:8131/malagafmmobile) | [web](https://www.marca.com/radio.html?intcmp=BOTONPORTADA&s_kw=radiomarca#) | [logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
+| Radio Martos | [stream](http://streaming6.elitecomunicacion.es:8234/;) | [web](http://www.radiomartos.com/radioplayer.html) | [logo](http://graph.facebook.com/radiomartos/picture?width=320&height=320) | - |
+| Radio Luz | [mp3](http://ns100.emisionlocal.com:8022/;stream.mp3) | [web](http://www.fmradioluz.com/) | [logo](http://graph.facebook.com/fmluzalasnaciones/picture?width=320&height=320) | - |
+| Spectrum FM | [stream](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1) | [web](https://spectrumfm.net/spectrum-fm-live/) | [logo](http://graph.facebook.com/SpectrumFMSpain/picture?width=320&height=320) | - |
+| Beach Grooves | [stream](http://stream.beachgrooves.com:8000/stream) | [web](https://beachgrooves.com/) | [logo](http://graph.facebook.com/beach.grooves/picture?width=320&height=320) | - |
+| Onda Cadiz Radio | [mp3](http://adc-radio-stream.flumotion.com/adc/live-radio.mp3) | [web](https://tv.ocadizdigital.es/radio) | [logo](http://graph.facebook.com/ondacadiz/picture?width=320&height=320) | - |
+| TG7 Radio | - | [web](https://www.granada.org/inet/tg7.nsf/byclave/CA2MFQV) | [logo](http://graph.facebook.com/TG7tv/picture?width=320&height=320) | - |
+| Onda Sur | [mp3](http://streaming8.elitecomunicacion.es:8206/;stream.mp3) | [web](http://www.ondasur1038.com/) | [logo](http://graph.facebook.com/ondasurradio/picture?width=320&height=320) | - |
+| Onda Jaén Radio | [stream](http://87.117.208.118:15067/stream) | [web](http://ondajaen.es/web/radio/) | [logo](http://graph.facebook.com/ondajaenradioytelevision/picture?width=320&height=320) | - |
+| Canal Málaga Radio | [mp3](http://195.55.74.203/canalmalaga/live.mp3) | [web](http://canalmalaga.es/radio-directo)| [logo](https://pbs.twimg.com/profile_images/971928392592449536/dXg0E5Ga_400x400.jpg) | - |
+| Radio Mijas | - | [web](http://www.mijascomunicacion.org/index.php/radio-mijas-seccion) | [logo](http://graph.facebook.com/Mijas340/picture?width=320&height=320) | - |
+| Radio Marbella | [stream](http://radio1.todostreaming.es:8126/;str) | [web](http://rtvmarbella.tv/radio-en-directo/) | [logo](http://graph.facebook.com/RTVMarbella/picture?width=320&height=320) | - |
+
+### Aragón
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Cadena SER - Radio Huesca | [stream # FM](http://streaming.radiohuesca.com:8021/radiohuescafm) - [Stream # AM](http://streaming.radiohuesca.com:8010/radiohuescaam) | [web](https://play.cadenaser.com/emisora/radio_huesca/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| COPE Pirineos | [stream](http://85.25.217.22:8110/stream) | [web](http://www.radioribagorza.es/copeonline.html) | [logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| Hit Pirineos | [stream](http://85.25.217.22:8310/stream) | [web](http://www.radioribagorza.es/hitpirineos.html) | [logo](http://graph.facebook.com/hitpirineos/picture?width=320&height=320) | - |
+| LOS40 Huesca | [stream](https://streamingradio.radiohuesca.com:8061/radio40principales) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| Tea FM | [mp3](http://cervera.eldialdigital.com:8052/;stream.mp3) | [web](http://www.teafm.net/) | [logo](http://graph.facebook.com/TeaFM1027/picture?width=320&height=320) | - |
+| Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](http://graph.facebook.com/RadioChinchilla/picture?width=320&height=320) | - |
+| Radio Ebro | [stream](http://s2.prositel.net:7000/radioebro) | [web](https://diarioaragones.com/) | [logo](http://graph.facebook.com/1217846044997421/picture?width=320&height=320) | - |
+| Radio Aínsa | [stream](https://streamingradio.radiohuesca.com:8071/radiobarbastro) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](http://graph.facebook.com/ainsasobrarbeayuntamiento/picture?width=320&height=320) | - |
+| Radio Barbastro | [stream](https://streamingradio.radiohuesca.com:8071/radiobarbastro) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
+| Radio Graus | [stream](https://streamingradio.radiohuesca.com:8051/radiograus) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
+| Radio Jaca | [stream](https://streamingradio.radiohuesca.com:8041/radiojaca) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
+| Radio Mai | [m3u](http://radio.indaloweb.es:8001/live.m3u) | [web](http://radiomai.com/online/) | [logo](http://graph.facebook.com/radiomai/picture?width=320&height=320) | - |
+| Radio Mai (Backup) | [m3u](http://radiomai.ddns.net:8020/live.m3u) | [web](http://radiomai.com/online/) | [logo](http://graph.facebook.com/radiomai/picture?width=320&height=320) | - |
+| Radio Monzón | [stream](https://streamingradio.radiohuesca.com:8091/radiomonzon) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Radio Ribagorza | [stream](http://85.25.217.22:8210/stream) | [web](http://www.radioribagorza.es/radioonline.html) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Radio Sabiñánigo | [stream](https://streamingradio.radiohuesca.com:8031/radiosabinanigo) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Radio Sariñena | [stream](https://streamingradio.radiohuesca.com:8101/radiosarinena) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Rumba FM | [stream](https://server2.ejeserver.com:8470/stream) | [web](http://gruporumba.com/) | [logo](http://gruporumba.com/wp-content/uploads/2018/11/rumbalogo.png) | - |
+| ZFM | [mp3](http://streaming.zarastudio.es/zfm.mp3) | [web](http://www.zaragozafm.es/player/) | [logo](http://www.zaragozafm.es/player/tmp/images/default.png) | - |
+
+### Asturias
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Cadena SER - Radio Asturias | [mp3](http://188.93.73.98:8118/;stream.mp3) | [web](https://play.cadenaser.com/emisora/radio_asturias/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Oriente | [mp3](http://seroriente.com:8000/seroriente.mp3) | [web](https://play.cadenaser.com/emisora/ser_oriente/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Carrussel FM | [pls](https://server10.emitironline.com:2199/tunein/carruselfm.pls) | [web](https://players.emitironline.com/v5/index.php?url=http%3A%2F%2Fserver10.emitironline.com%3A8921%2Fradio&codec=mp3&volume=80&autoplay=true&buffering=2&user=carruselfm&server=server10&title=Carrusel+FM) | [logo](http://graph.facebook.com/467719623356931/picture?width=320&height=320) | - |
+| cSTRadio | [stream](http://srv3021.lcinternet.com:8012/live) | [web](http://www.cstradio.org/v_portal/apartados/apartado.asp) | [Logo](http://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - |
+| Master FM | [stream](http://lamaster.es:8002/;) | [web](http://lamaster.es/) | [logo](http://graph.facebook.com/lamasterfm/picture?width=320&height=320) | - |
+| Onda Peñes | [m3u](http://5.135.183.124:9279/stream.m3u) | [web](http://www.gaxarte.com/emisiononline.htm) | [logo](http://graph.facebook.com/onda.penes/picture?width=320&height=320) | - |
+| Radio QK | [mp3](http://35.241.175.84:8000/radioqk_live.mp3) | [web](http://www.radioqk.org/) | [logo](http://graph.facebook.com/radioqkRadioLibre/picture?width=320&height=320) | - |
+| Radio Fantasía | [stream](http://81.94.198.122:9280/;) | [web](http://radiofantasiafm.com/) | [logo](http://graph.facebook.com/radiofantasia/picture?width=320&height=320) | - |
+| Radio San Martín Sotrondio | [stream](http://91.126.223.28:9890/;) | [web](https://sanmartinradio.blogspot.com/) | [logo](http://graph.facebook.com/RadioSanMartin107.1FM/picture?width=320&height=320) | - |
+| Radio Sele | - | [web](http://www.radiosele.com/) | [Logo](https://cdn.onlineradiobox.com/img/logo/8/54418.v3.png) | - |
+| Radio Ujo | [stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | [logo](http://graph.facebook.com/radioujo/picture?width=320&height=320) | - |
+| The Box FM | [stream](http://listen128.radionomy.com/thebox) | [web](http://www.theboxfm.net/player_web/index.html) | [logo](http://graph.facebook.com/boxfmec/picture?width=320&height=320) | - |
+
+### Canarias
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Atlántica FM | - | [web](https://www.radioatlantica.com.bo/) | [logo](http://graph.facebook.com/radioatlanticabolivia/picture?width=320&height=320) | - |
+| Canal 4 Tenerife | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal4tenerife.tv/radio/) | [logo](http://graph.facebook.com/CANAL4TENERIFE/picture?width=320&height=320) | - |
+| Radio El Día | [mp3](http://185.50.197.212:9974/;stream.mp3) | [web](https://eldia.fm/online.htm) | [logo](http://graph.facebook.com/RadioELDIA/picture?width=320&height=320) | - |
+| Cadena SER - Radio Club Tenerife | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TENERIFE.mp3) | [web](https://play.cadenaser.com/emisora/radio_club_tenerife) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Radio ECCA | [mp3](http://audio1.ipercast.net/endirecto22.es/mp3) | [web](http://www2.radioecca.org/radio/online) | [logo](http://graph.facebook.com/RadioECCA/picture?width=320&height=320) | - |
+| Radio Guiniguada | [stream](http://185.129.248.251:9874/;) | [web](http://www.radioguiniguada.com) | [logo](http://graph.facebook.com/radioguiniguada/picture?width=320&height=320) | - |
+| Radio Guiniguada Internacional | [stream](http://185.129.248.251:9876/;) | [web](http://www.radioguiniguada.com) | [logo](http://graph.facebook.com/radioguiniguada/picture?width=320&height=320) | - |
+| Radio La Guancha | [nsv](http://81.36.88.219:8002/;stream.nsv) | [web](http://www.radiolaguancha.com/?page_id=23) | [logo](http://graph.facebook.com/radiolaguancha/picture?width=320&height=320) | - |
+| Radio San Borondón | [pls](http://srv0435.lcinternet.com/tunein.php/sanboron/playlist.pls) | [web](http://www.sanborondon.info/images/_streamer/rsb.html) | [logo](http://graph.facebook.com/413581508699797/picture?width=320&height=320) | - |
+| Q FM | [stream](http://51.255.235.165:5092/;) | [web](https://www.qmusica.com/es) | [logo](http://graph.facebook.com/100005645714744/picture?width=320&height=320) | - |
+| Teide Radio | [stream](http://217.114.211.190:8102/stream/1/) | [web](https://www.radio.es/s/teide) | [logo](http://graph.facebook.com/182679585480117/picture?width=320&height=320) | - |
+| O2 Radio | [stream](http://62.210.141.18:8000/o2radio) | [web](http://www.elpejeverde.com/) | [logo](http://graph.facebook.com/185094361671027/picture?width=320&height=320) | - |
+| Radio Gigante | [stream](http://85.214.130.95:8000/stream/1/) | [web](http://rtvgigante.com/) | [logo](http://graph.facebook.com/741011612731578/picture?width=320&height=320) | - |
+| Canal 11 Radio | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal11lapalma.net/escuchanos.html) | [logo](http://graph.facebook.com/189726651071598/picture?width=320&height=320) | - |
+
+### Cantabria
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+
+### Castilla La-Mancha
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Cadena SER - Radio Albacete | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALBACETE.mp3) | [web](https://play.cadenaser.com/emisora/radio_albacete/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net/) | [logo](http://graph.facebook.com/radioarrebato107.4/picture?width=320&height=320) | - |
+| Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](http://graph.facebook.com/RadioChinchilla/picture?width=320&height=320) | - |
+
+### Castilla y León
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Cadena SER - Radio Castilla | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS.mp3) | [web](https://play.cadenaser.com/emisora/radio_castilla/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Valladolid | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3) | [web](https://play.cadenaser.com/emisora/radio_valladolid/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Zamora | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3) | [web](https://play.cadenaser.com/emisora/radio_zamora/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Mortal FM | [stream](http://server6.20comunicacion.com:8044/;) | [web](http://www.mortalfm.es/online) | [logo](http://graph.facebook.com/mortalfm/picture?width=320&height=320) | - |
+| Radio Valdivielso | - | [web](http://radiovaldivielso.es) | [logo](http://graph.facebook.com/124228874264567/picture?width=320&height=320) | - |
+| Vive! Radio | [aac](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/media_w1875322187_74945.aac) - [m3u8](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/chunklist_w1875322187.m3u8) | [web](http://www.viveradio.es/ReproductorLive.aspx) | [logo](http://graph.facebook.com/158974217473244/picture?width=320&height=320) | - |
+
+### Cataluña
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Bas Ràdio | [mp3](http://s1streamingradio.desafiohosting.com:8130/listen.mp3) | [web](https://basradioweb.wordpress.com/) | [logo](http://graph.facebook.com/RADIOENBASONLINE2/picture?width=320&height=320) | - |
+| betevé ràdio | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/0_qzjz9cja/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/radio/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - |
+| Cadena SER - Ràdio Barcelona | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3) | [web](https://play.cadenaser.com/emisora/radio_barcelona/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Ràdio Manresa | [mp3](http://streaming.enantena.com:8000/taronjadigital-bages56.mp3) | [web](https://play.cadenaser.com/emisora/radio_manresa/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Ràdio Reus | [stream](http://emisoras.cadenaser.com:8085/reus) | [web](https://play.cadenaser.com/emisora/radio_reus/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| COPE Barcelona | [mp3](https://flucast-b05-06.flumotion.com/copesedes/barcelona.mp3) | [web](https://www.cope.es/directos/barcelona) | [logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| Equinox Radio | [stream](http://listen.radionomy.com/absolutevintage) | [web](https://www.equinoxmagazine.fr/2018/04/13/ecouter-6-radios-equinox-barcelone/) | [logo](http://graph.facebook.com/equinoxradio.barcelone/picture?width=320&height=320) | - |
+| La Marina FM | [stream](http://endirecte.amcl.cat:8000/lamarinafm) | [web](http://lamarina.cat/endirecte/) | [Logo](http://graph.facebook.com/lamarinacat/picture?width=320&height=320) | - |
+| Mataró Ràdio | [m3u8](http://liveingesta118.cdnmedia.tv//m1tvlive/smil:mataroradio.smil/playlist.m3u8) | [web](http://mataroaudiovisual.alacarta.cat/directeR) | [logo](http://graph.facebook.com/mataroaudiovisual/picture?width=320&height=320) | - |
+| Radio Bronka | [ogg](http://stream.nonfqdn.net:8000/rbronka.ogg) | [web](http://radiobronka.info/) | [logo](http://graph.facebook.com/RadioBronka/picture?width=320&height=320) | - |
+| Ràdio Ciutat de Badalona | [mp3](http://streaming.enantena.com:8000/radiob128.mp3) - [Stream](https://enacast.com/radiob/streams/HD) | [web](https://enacast.com/iframe_directe/39/?theme=standard) | [logo](https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_400x400.jpg) | - |
+| Ràdio Despí | [stream](http://178.33.161.57:17234/stream) | [web](https://radiodespi.net/directo/) | [logo](http://graph.facebook.com/radiodespi/picture?width=320&height=320) | - |
+| Ràdio Estel | [stream](http://srv3021.lcinternet.com:8019/stream) | [web](http://player.lcinternet.es/v9/cc232_id415/) | [logo](http://graph.facebook.com/Radioestelbcn/picture?width=320&height=320) | - |
+| Ràdio Gràcia | [mp3](http://streaming.enantena.com:8000/radiograciaHD.mp3) - [Stream](https://enacast.com/radiogracia/streams/HD) | [web](https://ajuntament.barcelona.cat/gracia/ca/coneixeu-el-districte/radio-gracia) | [logo](http://graph.facebook.com/RadioGraciaBarcelona/picture?width=320&height=320) | - |
+| Ràdio Marca Barcelona | [stream](https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream) | [web](https://www.marca.com/radio.html?intcmp=BOTONPORTADA&s_kw=radiomarca#) | [logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
+| Ràdio Tele-Taxi | [mp3](https://radioteletaxi2-adswizz.grupott.stream.flumotion.com/gtt/radioteletaxi2.mp3) | [web](https://www.radioteletaxi.com/reproductor/) | [logo](http://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - |
+| Ràdio Vilamajor | [mp3](http://80.37.181.205:8000/;audio.mp3) | [web](http://www.radiovilamajor.cat/) | [logo](http://graph.facebook.com/radio.vilamajor/picture?width=320&height=320) | - |
+| Ràdio L'Hospitalet | - | [web](https://lhdigital.cat/web/digital-h/radio) | [logo](http://graph.facebook.com/lhdigital/picture?width=320&height=320) | - |
+| Radio Cooltura | [mp3](http://streamserver1.somosdigital.net:8415/;stream.mp3) | [web](http://coolturafm.com/) | [logo](http://graph.facebook.com/coolturafm/picture?width=320&height=320) | - |
+| Vinilo FM | [stream](http://server9.emitironline.com:10923/;) | [web](http://vinilofm.es/player/) | [logo](http://graph.facebook.com/vinilofm/picture?width=320&height=320) | - |
+| Ràdio Mollet | [mp3](http://streaming.enantena.com:8000/radiomollet56.mp3) - [Stream](https://enacast.com/radiomollet/streams/SD) | [web](http://www.radiomollet.com) | [logo](http://graph.facebook.com/radiomollet963/picture?width=320&height=320) | - |
+| RAP107 | [mp3](http://streaming.enantena.com:8000/rap56.mp3) - [Stream](https://enacast.com/rap107/streams/SD) | [web](https://enacast.com/rap107/) | [logo](http://graph.facebook.com/rap107/picture?width=320&height=320) | - |
+| Ràdio Montornès | [stream](http://188.165.187.84:8008/stream) | [web](http://radio.montornes.cat/radios/directe) | [logo](http://graph.facebook.com/radiomontornes/picture?width=320&height=320) | - |
+| Ràdio Silenci | [mp3](http://streaming.enacast.com:8000/radiosilenci56.mp3) - [Stream](https://enacast.com/radiosilenci/streams/SD) | [web](http://www.radiosilenci.cat) | [logo](http://graph.facebook.com/rsilenci/picture?width=320&height=320) | - |
+| Ràdio Caldes | [mp3](http://streaming.enantena.com:8000/radiocaldes56.mp3) - [Stream](https://enacast.com/radiocaldes/streams/SD) | [web](http://www.radiocaldes.cat/) | [logo](http://graph.facebook.com/RadioCaldes107.8fm/picture?width=320&height=320) | - |
+| Ràdio Granollers | [stream](http://eu7.fastcast4u.com/proxy/radiogranollers/?mp=/stream) | [web](http://www.gasl.cat/) | [logo](http://graph.facebook.com/174942455863314/picture?width=320&height=320) | - |
+| Ràdio Capital | [stream](http://streaming.martiproduccions.com:8000/capitalhd) | [web](https://www.radiocapital.cat/endirecte/) | [logo](http://graph.facebook.com/capitalemporda/picture?width=320&height=320) | - |
+| PròximaFM | [stream](http://91.187.93.115:8000/;stream/1) | [web](http://www.proxima.cat/) | [logo](http://graph.facebook.com/proximafm/picture?width=320&height=320) | - |
+| Altafulla Ràdio | [mp3](http://streaming.enantena.com:8000/altafulla128.mp3MP3) - [Stream](https://enacast.com/altafullaradio/streams/HD) | [web](http://altafullaradio.cat/) | [logo](http://graph.facebook.com/altafulla.radio/picture?width=320&height=320) | - |
+| Tarragona Ràdio | [mp3](http://streaming.enantena.com:8000/tarragona128.mp3) - [Stream](https://enacast.com/tarragonaradio/streams/HD) | [web](https://www.tarragonaradio.cat/) | [logo](http://graph.facebook.com/tarragonaradio/picture?width=320&height=320) | - |
+| Ràdio Montblanc | [mp3](http://streaming.enantena.com:8000/radiomontblanc56.mp3) | [web](http://www.radiomontblanc.cat/) | [logo](http://graph.facebook.com/139643876226143/picture?width=320&height=320) | - |
+| Ona La Torre | [aac](http://liveingesta118.cdnmedia.tv//onalatorrelive/smil:live.smil/media-ujhwa1bm9_b150000_22071.aac) - [m3u8](http://liveingesta118.cdnmedia.tv//onalatorrelive/smil:live.smil/master.m3u8) | [web](http://onalatorre.alacarta.cat/) | [logo](http://graph.facebook.com/ona.latorre/picture?width=320&height=320) | - |
+| Constantí Ràdio | [aac](http://live10.cdnmedia.tv/ocasionalradio2live/smil:live.smil/media-ukyzbijv3_b100000_52363.aac) - [m3u8](http://live10.cdnmedia.tv/ocasionalradio2live/smil:live.smil/master.m3u8) | [web](http://www.constantiradio.cat/) | [logo](http://graph.facebook.com/ConstantiRadio/picture?width=320&height=320) | - |
+| Ràdio Sant Pere i Sant Pau | [mp3](http://212.83.151.18:36686/;stream/1?1552499879263.mp3) | [web](http://www.radiospsp.com/) | [logo](http://graph.facebook.com/Radio101.0/picture?width=320&height=320) | - |
+| Imagina Ràdio | [stream](http://server8.emitironline.com:8038/radio) | [web](http://www.imaginaradio.cat/directe/) | [logo](http://graph.facebook.com/ImaginaRadio103/picture?width=320&height=320) | - |
+| digitalHits FM | [stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](http://www.digitalhits.cat/directe/) | [logo](http://graph.facebook.com/digitalhits/picture?width=320&height=320) | - |
+| Ràdio Terrassa | [stream](http://5.189.181.203:9306/;) | [web](http://terrassadigital.cat/radio/) | [logo](http://graph.facebook.com/canalterrassa/picture?width=320&height=320) | - |
+| Canal Blau Ràdio | [mp3](http://streaming.enantena.com:8000/canalblau128.mp3) - [Stream](https://enacast.com/canalblau/streams/SD) | [web](http://podcast.canalblau.cat/) | [logo](http://graph.facebook.com/CanalBlau/picture?width=320&height=320) | - |
+| Ràdio Cubelles | [mp3](http://streaming.enantena.com:8000/cubelles128.mp3) - [Stream](https://enacast.com/radiocubelles/streams/HD) | [web](http://www.radiocubelles.cat/) | [logo](http://graph.facebook.com/radiocubelles/picture?width=320&height=320) | - |
+| Ràdio Vilafranca | - | [web](https://www.rtvvilafranca.cat/radio-vilafranca/radio-en-directe/) | [logo](http://graph.facebook.com/rtvvilafranca/picture?width=320&height=320) | - |
+| Ràdio El Vendrell | [mp3](http://streaming.enantena.com:8000/rtvelvendrell128.mp3) -  [Stream](https://enacast.com/rtvelvendrell/streams/HD) | [web](http://www.rtvelvendrell.cat/radio-online/) | [logo](http://graph.facebook.com/rtvelvendrell/picture?width=320&height=320) | - |
+| Ràdio Maricel | [mp3](http://94.23.87.98:8065/;&type=mp3) | [web](http://www.radiomaricel.cat/) | [logo](http://graph.facebook.com/radiomaricel/picture?width=320&height=320) | - |
+| Ràdio Ripoll | [stream](http://5.135.183.124:8151/stream) | [web](https://www.corisamediagrup.com/mitjans/r%C3%A0dio-ripoll-ona-90/) | [logo](http://graph.facebook.com/334511563914/picture?width=320&height=320) | - |
+| Ràdio Olot | [stream](http://chrome.frilab.com:8000/radiolot) | [web](http://www.radiolot.cat/) | [logo](http://graph.facebook.com/Radiolot/picture?width=320&height=320) | - |
+| Ràdio Sabadell | [stream](http://online.radiosabadell.fm:8013/stream) | [web](https://radiosabadell.fm/) | [logo](http://graph.facebook.com/RadioSabadell/picture?width=320&height=320) | - |
+
+### Ceuta
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+
+### Extremadura
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Radio Miajadas | [stream](http://srv0410.lcinternet.com:8013/stream) | [web](http://player.lcinternet.es/v9/cc023_063/) | [logo](http://graph.facebook.com/489965251169138/picture?width=320&height=320) | - |
+
+### Galicia
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Cadena SER - Radio Vigo | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3) | [web](https://play.cadenaser.com/emisora/radio_vigo/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Baixo Miño | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BAIXOMINO.mp3) | [web](https://play.cadenaser.com/emisora/ser_baixo_mino/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Principal Monforte | [stream](http://srv0510.lcinternet.com:8007/stream) | [web](http://www.radioytele.es/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Principal Vilalba | [stream](http://srv0510.lcinternet.com:8006/stream) | [web](http://www.radioytele.es/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cuac FM | [ogg](https://streaming.cuacfm.org/cuacfm.ogg) | [web](https://cuacfm.org/directo/) | [logo](http://graph.facebook.com/cuacfm/picture?width=320&height=320) | - |
+| Radio Municipal de Tui | [stream](http://srv01.redsanmarcos.com:8022/stream) | [web](http://www.concellotui.org/php/radio.php) | [logo](http://graph.facebook.com/RadioMunicipaldeTui/picture?width=320&height=320) | - |
+| Radiofusión | [stream](http://srv0411.lcinternet.com:9005/stream) | [web](https://www.radiofusion.eu/) | [logo](http://graph.facebook.com/Radiofusionga/picture?width=320&height=320) | - |
+| Radio Fene | [stream](http://srv0490.lcinternet.com:8002/stream) | [web](https://www.radiofusion.eu/) | [logo](http://graph.facebook.com/196309677056427/picture?width=320&height=320) | - |
+| Radio Voz | [mp3](http://live.radiovoz.es/mp3/stream_santiago.mp3) | [web](http://www.radiovoz.com/) | [logo](http://graph.facebook.com/radiovoz/picture?width=320&height=320) | - |
+| Via Radio | [nsv](http://radioserver9.profesionalhosting.com:35223/;stream.nsv) | [web](https://viaradio.es/) | [logo](http://graph.facebook.com/viaradiohavuelto/picture?width=320&height=320) | - |
+
+### Islas Baleares
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Cadena SER - Radio Mallorca | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALLORCA.mp3) | [web](https://play.cadenaser.com/emisora/radio_mallorca/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Radio Balear | [stream](http://server6.20comunicacion.com:8076/;) | [web](http://www.radiobalear.es/directo/) | [logo](http://graph.facebook.com/rbalear.interbaleares/picture?width=320&height=320) | - |
+| Última Hora Radio | [stream](http://stream.fibwi.com:9020/stream) | [web](http://radio.gsstatic.es/) | [logo](http://graph.facebook.com/UltimaHora.Mallorca/picture?width=320&height=320) | - |
+| Ibiza Global Radio | [stream](http://ibizaglobalradio.streaming-pro.com:8024/stream) | [web](http://ibizaglobalradio.com/) | [logo](http://graph.facebook.com/ibiza.radio/picture?width=320&height=320) | - |
+| ibizaSonica | [stream](http://s1.sonicabroadcast.com:7005/;stream/1) | [web](https://www.ibizasonica.com/) | [logo](http://graph.facebook.com/ibizasonicaradio/picture?width=320&height=320) | - |
+| Radio Murta | [stream](http://91.121.156.27:8013/stream) | [web](http://grup4.com/radio-murta/) | [logo](http://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - |
+| Canal 4 Ràdio | [stream](http://91.121.156.27:8011/stream) | [web](http://grup4.com/radio-murta/) | [logo](http://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - |
+| Das Inselradio | [stream](https://stream.inselradio.com/high.inselradio.opus) | [web](https://www.inselradio.com/player/) | [logo](http://graph.facebook.com/DasInselradio/picture?width=320&height=320) | - |
+| Mallorca Sunshine Radio | [stream](https://stream.inselradio.com/high.sunshine.opus) | [web](https://www.inselradio.com/player/) | [logo](http://graph.facebook.com/DasInselradio/picture?width=320&height=320) | - |
+| Russkoe Radio Mallorca | [mp3](http://icecast.russkoeradio.cdnvideo.ru:8000/rr_m.mp3) | [web](https://www.liveonlineradio.net/es/russia/russkoe-radio-mallorca.htm) | [logo](https://www.liveonlineradio.net/wp-content/uploads/2013/09/Russkoe-Radio-Mallorca.jpg) | - |
+| Fibwi Radio | [stream](http://stream.fibwi.com:9000/stream) | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - |
+| Radio One Mallorca | [stream](http://80.32.132.126:8000/;) | [web](http://www.radioonemallorca.com/) | [logo](http://graph.facebook.com/RadioOneMallorca/picture?width=320&height=320) | - |
+
+### La Rioja
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+
+### Madrid
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Cadena SER - Sierra | [mp3](http://217.126.244.152:7000/;stream.mp3) | [web](https://play.cadenaser.com/emisora/ser_madrid_sierra/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| ECO Leganés | - | [web](http://ecoleganes.org/) | [logo](http://graph.facebook.com/ecoleganes01/picture?width=320&height=320) | - |
+| Gestiona Radio | [stream](http://185.165.0.13:8004/stream/;) | [web](http://www.gestionaradio.com/) | [logo](https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg) | - |
+| Inforadio | [ogg](http://stream00.inforadio.ccinf.es:8000/inforadio01.ogg) | [web](http://inforadioucm.blogspot.com/p/escuchanos-en-directo.html) | [logo](http://graph.facebook.com/inforadiocomplutense/picture?width=320&height=320) | - |
+| Radio Internacional | [mp3](http://195.55.74.203/rinternacional/audio-fme.mp3) | [web](http://www.radiointernacional.es/) | [logo](http://graph.facebook.com/RadioIntEs/picture?width=320&height=320) | - |
+| M21 Radio | [mp3](https://streamer92.store.aranova.cloud/mp3/live/m21radio_m21radio_128.mp3) | [web](https://www.m21radio.es/ahora) | [logo](http://graph.facebook.com/m21madrid/picture?width=320&height=320) | - |
+| Onda Diamante | [m3u](http://www.avvcanillejas.org/docs/ondadiamante.ogg.m3u) | [web](http://graph.facebook.com/OndaDiamanteOD/picture?width=320&height=320) | [logo](http://www.avvcanillejas.org/img/radio.jpg) | - |
+| Onda Cero Sierra | [mp3](http://ondacerosierra.ddns.net:7000/;stream.mp3) | [web](http://www.lavozdelasierra.es/onda-cero-sierra/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| OMC Radio | [stream](http://cervera.eldialdigital.com:8104/;) | [web](https://www.omcradio.org/escuchanos/) | [logo](http://graph.facebook.com/OmcRadio/picture?width=320&height=320) | - |
+| Onda Polígono | [stream](http://marconi.eldialdigital.com:6230/;) | [web](http://www.ondapoligono.org/) | [logo](http://graph.facebook.com/ondapoligono/picture?width=320&height=320) | - |
+| Radio Almenara | [stream](http://185.50.197.212:9986/;) | [web](http://www.radioalmenara.net/) | [logo](http://graph.facebook.com/RadioAlmenara/picture?width=320&height=320) | - |
+| Radio Cigüeña | [pls](http://streamserver2.somosdigital.net:2199/system/images/tunein-pls.png) | [web](http://streamserver2.somosdigital.net:2199/start/sd0211a/) | [logo](http://graph.facebook.com/297157036138/picture?width=320&height=320) | - |
+| Radio Enlace | [stream](http://cervera.eldialdigital.com:8100/;) | [web](http://www.radioenlace.org/) | [logo](http://graph.facebook.com/radioenlacemadrid/picture?width=320&height=320) | - |
+| Radio Fuga | [stream](http://radiogestion.com:7090/radiofuga) | [web](http://radio-fuga.com/escuchanosaqui/) | [logo](http://graph.facebook.com/RadioFuga/picture?width=320&height=320) | - |
+| Radio Jabato | - | [web](https://www.ivoox.com/escuchar-radio-jabato_nq_219448_1.html) | [logo](http://graph.facebook.com/RadioJabato/picture?width=320&height=320) | - |
+| Radio Las Águilas | [stream](http://server2.crearradio.com:8306/;stream) | [web](http://www.radiolasaguilas.es/) | [logo](https://pbs.twimg.com/profile_images/564877578943864832/0WaT4f5B_400x400.jpeg) | - |
+| Radio Morata | [mp3](http://cervera.eldialdigital.com:8132/codec=mp3) | [web](http://www.radiomorata.com/lavoz/) | [logo](http://graph.facebook.com/radiomorata/picture?width=320&height=320) | - |
+| Radio Romanul | [stream](http://streaming.radioromanul.es:55556/radioromanul) | [web](http://www.radioromanul.es/live/) | [logo](http://graph.facebook.com/RadioRomanul/picture?width=320&height=320) | - |
+| Radio Utopía | [mp3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](http://www.radioutopia.org.es/) | [logo](http://graph.facebook.com/179099278878655/picture?width=320&height=320) | - |
+| Radio Vallekas | [stream](http://cervera.eldialdigital.com:8032/;) | [web](http://www.radiovallekas.org/) | [logo](http://graph.facebook.com/radiovallekas/picture?width=320&height=320) | - |
+
+### Melilla
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+
+### Murcia
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Cadena SER - Radio Murcia | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_murcia/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](https://tunein.com/radio/Radio-Calasparra-1075-s113080/) | [logo](http://graph.facebook.com/349014238632372/picture?width=320&height=320) | - |
+
+### Navarra
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Bit FM Pamplona | [pls](http://server1.emitironline.com:8024/) | [web](http://bitfm.es/player/) | [logo](http://graph.facebook.com/bitfm.es/picture?width=320&height=320) | - |
+| Cadena SER - Radio Pamplona | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_PAMPLONA.mp3) | [web](https://play.cadenaser.com/emisora/radio_pamplona/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Eguzki Irratia | [mp3](http://51.68.46.71:9000/eguzki.mp3) | [web](https://eguzki.eus/) | [logo](http://graph.facebook.com/293039954137807/picture?width=320&height=320) | - |
+| Emisora Municipal de Pamplona | - | [web](https://pamplona.es/radio) | [logo](http://graph.facebook.com/pamplona.es/picture?width=320&height=320) | - |
+| Euskalerria Irratia | [stream](http://server4.beatproducciones.com:8014/;) | [web](https://euskalerriairratia.eus/irratia/zuzenekoa) | [logo](http://graph.facebook.com/euskalerriairratia/picture?width=320&height=320) | - |
+| Radio Universidad de Navarra | [mp3](http://s37.myradiostream.com/8638/listen.mp3) | [web](https://www.unav.edu/radioplayer/endirecto.html) | [logo](http://graph.facebook.com/radiouniversidaddenavarra/picture?width=320&height=320) | - |
+| Trak FM Pamplona | [mp3](http://91.121.77.67:8070/;stream.mp3) | [web](http://trakfm.com/) | [logo](http://graph.facebook.com/trakfmpamplona/picture?width=320&height=320) | - |
+
+### País Vasco
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Radio Popular - Herri Irratia | [stream](http://79.137.33.224:8000/radiopopular1) | [web](https://radiopopular.com/) | [logo](http://graph.facebook.com/herriirratia/picture?width=320&height=320) | - |
+| Radio Nervión | [stream](http://radionervion.streaming-pro.com:6015/radionervion) | [web](http://www.radionervion.com/) | [logo](http://graph.facebook.com/RadioNervion/picture?width=320&height=320) | - |
+| Onda Vasca | [stream](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | [logo](http://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
+| Onda Vasca Gipuzcoa | [stream](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | [logo](http://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
+| Radio 7 | [mp3](http://radio7.streaming-pro.com:7501/;stream.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](http://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - |
+
+### Valencia
+
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Cadena Dial Castellón | [stream](http://stream.radiocastellon.com/dial) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](http://graph.facebook.com/cadenadial/picture?width=320&height=320) | - |
+| Cadena SER - Radio Castellón | [stream](http://stream.radiocastellon.com/ser) | [web](https://play.cadenaser.com/emisora/radio_castellon/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Valencia | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_valencia/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Gandia | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GANDIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_gandia/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Ràdio Klara | [mp3](http://cervera.eldialdigital.com:8048/;#mp3) | [web](http://www.radioklara.org/radioklara/) | [logo](http://graph.facebook.com/radioklara/picture?width=320&height=320) | - |
+| La 97.7 Radio | [aac](http://teledifusion.tv:1935/977live/mp4:la977stream/media_w1606995350_363652.aac) | [web](http://www.la977.com/estaticos/la977.html) | [logo](http://graph.facebook.com/la977/picture?width=320&height=320) | - |
+| LOS40 Castellón | [stream](http://stream.radiocastellon.com/40) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Classic Castellón | [stream](http://stream.radiocastellon.com/40cl) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](http://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - |
+| Máxima FM Castellón | [stream](http://stream.radiocastellon.com/maximafm) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](http://graph.facebook.com/radio.maxima.fm/picture?width=320&height=320) | - |
+| UPV Radio | - | [web](http://www.upv.es/rtv/radio/directo) | [logo](http://graph.facebook.com/UPVTV/picture?width=320&height=320) | - |
+| Vega Baja Radio | [stream](http://185.223.216.183:8000/;stream/1) | [web](https://vegabajaradio.com/) | [logo](http://graph.facebook.com/vegabajaradio/picture?width=320&height=320) | - |
 
 ### Internacionales
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| Beach Grooves | [Stream](http://stream.beachgrooves.com:8000/stream) | - | - | - | - |
-| Pioneer DJ Radio | [Stream](http://listen.pioneerdjradio.com:8550/stream) | - | - | - | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| Pioneer DJ Radio | [stream](http://listen.pioneerdjradio.com:8550/stream) | [web](https://pioneerdjradio.com) | [logo](http://graph.facebook.com/pioneerdjradio/picture?width=320&height=320) | - |
 
 ### Andorra
 
-| Emisoras | Stream | Web | Calidad | Logo | EPG ID |
-| - | - | - | - | - | - |
-| RNA | - | [web](http://www.andorradifusio.ad/endirecte/rna) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
-| AM | - | [web](http://www.andorradifusio.ad/endirecte/am) | - | [Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Andorra_tv.png) | - |
+| Emisoras | Stream | Web | Logo | Info |
+| - | - | - | - | - |
+| RNA | [m3u8](http://videos.rtva.ad:1935/live/rna/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/rna) | [logo](http://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | - |
+| AM | [m3u8](http://videos.rtva.ad:1935/live/am/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/am) | [logo](http://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | - |
+| Cadena SER - Ràdio Principat d'Andorra | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3) | [web](https://play.cadenaser.com/emisora/radio_ser_principat_d_andorra/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
