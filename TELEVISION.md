@@ -101,6 +101,7 @@
 | Canal Sur La Banda | [m3u8](https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8) | [web](http://labanda.canalsur.es/) | [logo](http://graph.facebook.com/LaBandaClub/picture?width=320&height=320) | - | - |
 | Canal Sur Eventos 1 HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/master.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Sur Eventos 2 HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_02/master.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| 7TV Andalucía | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-andalucia.m3u8) | [web](https://7tvandalucia.es/portada/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
 
 ### Aragón
 
@@ -298,20 +299,19 @@
 | Écija Comarca TV | - | [web](http://tvm.ecija.es/) | [logo](http://graph.facebook.com/ecijacomarcatelevision/picture?width=320&height=320) | - | - |
 | TG7 | - | [web](https://www.granada.org/inet/tg7.nsf/byclave/endirecto) | [logo](http://graph.facebook.com/TG7tv/picture?width=320&height=320) | - | - |
 | Más Jerez | - | [web](https://www.masjerez.com/) | [logo](http://graph.facebook.com/masjerez/picture?width=320&height=320) | - | - |
-| 7TV Andalucía | [m3u8](https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8) | [web](https://7tvandalucia.es/portada/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
 | 7TV Andalucía - Almería | [m3u8](https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8) | [web](https://7tvandalucia.es/almeria/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Cádiz | [m3u8](https://secure.todostreaming.es/live/ondaluz-olcadiz.m3u8) | [web](https://7tvandalucia.es/cadiz/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Algeciras | [m3u8](https://secure.todostreaming.es/live/ondaluz-olcadiz.m3u8) | [web](https://7tvandalucia.es/algeciras/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Bahía | [m3u8](https://secure.todostreaming.es/live/ondaluz-olcadiz.m3u8) | [web](https://7tvandalucia.es/bahia/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Costa Noroeste | [m3u8](https://secure.todostreaming.es/live/ondaluz-olcosta.m3u8) | [web](https://7tvandalucia.es/costa/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía - Cádiz | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-cadiz.m3u8) | [web](https://7tvandalucia.es/cadiz/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía - Algeciras | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-cadiz.m3u8) | [web](https://7tvandalucia.es/algeciras/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía - Bahía | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-cadiz.m3u8) | [web](https://7tvandalucia.es/bahia/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía - Córdoba | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-andalucia.m3u8) | [web](https://7tvandalucia.es/cordoba/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía - Costa Noroeste | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-costa.m3u8) | [web](https://7tvandalucia.es/costa/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía - Granada | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-granada.m3u8) | [web](https://7tvandalucia.es/granada/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía - Huelva | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-andalucia.m3u8) | [web](https://7tvandalucia.es/huelva/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía - Jaén | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-andalucia.m3u8) | [web](https://7tvandalucia.es/jaen/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
 | 7TV Andalucía - Jerez | [m3u8](https://secure.todostreaming.es/live/ondaluz-oljerez.m3u8) | [web](https://7tvandalucia.es/jerez/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Córdoba | [m3u8](https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8) | [web](https://7tvandalucia.es/cordoba/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Granada | [m3u8](https://secure.todostreaming.es/live/ondaluz-olgranada.m3u8) | [web](https://7tvandalucia.es/granada/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Huelva | [m3u8](https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8) | [web](https://7tvandalucia.es/huelva/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Jaén | [m3u8](https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8) | [web](https://7tvandalucia.es/jaen/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Marbella | [m3u8](https://secure.todostreaming.es/live/ondaluz-olmarbella.m3u8) | [web](https://7tvandalucia.es/marbella/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Málaga | [m3u8](https://secure.todostreaming.es/live/ondaluz-olmalaga.m3u8) | [web](https://7tvandalucia.es/malaga/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Sevilla | [m3u8](https://secure.todostreaming.es/live/ondaluz-olsevilla.m3u8) | [web](https://7tvandalucia.es/sevilla/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía - Marbella | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-marbella.m3u8) | [web](https://7tvandalucia.es/marbella/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía - Málaga | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-malaga.m3u8) | [web](https://7tvandalucia.es/malaga/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía - Sevilla | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-sevilla.m3u8) | [web](https://7tvandalucia.es/sevilla/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
 | Canal 28 TV | - | [web](http://www.almeriacanal28.es/) | [logo](https://graph.facebook.com/149656178408041/picture?width=320&height=320) | - | - |
 | Yatv | - | [web](http://yatv.es/) | [logo](http://graph.facebook.com/Yatvonline/picture?width=320&height=320) | - | - |
 | Televisión Municipal de Córdoba | [m3u8](http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8) | [web](https://www.cordoba.es/emision_directo/index.html) | [logo](https://pbs.twimg.com/profile_images/862638528848646145/ApXqGpWS_400x400.jpg) | - | - |
