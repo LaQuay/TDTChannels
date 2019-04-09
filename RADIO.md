@@ -24,7 +24,7 @@
 | Cadena 100 | [mp3 # 1](http://195.55.74.203/cope/cadena100.mp3) - [mp3 # 2](http://cadena100-streamers-mp3-low.flumotion.com/cope/cadena100-low.mp3) | [web](http://www.cadena100.es/) | [logo](http://graph.facebook.com/CADENA100/picture?width=320&height=320) | - |
 | Cadena COPE | [mp3](https://flucast-m04-06.flumotion.com/cope/net1.mp3) | [web](https://www.cope.es/directos/net1) | [logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | MegaStar FM | [mp3](http://195.10.10.223/cope/megastar.mp3) | [web](http://www.megastar.fm/) | [logo](http://graph.facebook.com/MegaStarFM/picture?width=320&height=320) | - |
-| Rock FM | [mp3](http://195.55.74.203/cope/rockfm.mp3) | [web](http://player.rockfm.fm/) | [logo](http://graph.facebook.com/RockFM/picture?width=320&height=320) | - |
+| Rock FM | [m3u8](https://rockfm-cope.flumotion.com/playlist.m3u8) | [web](http://player.rockfm.fm/) | [logo](http://graph.facebook.com/RockFM/picture?width=320&height=320) | - |
 | Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | [logo](http://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
 | Hit FM | [m3u](http://streams.kissfmradio.cires21.com/hitfm.m3u) | [web](http://www.hitfm.es/) | [logo](http://graph.facebook.com/hitfm.es/picture?width=320&height=320) | - |
 | Radio Marca | [mp3](https://radiomarca.streaming-pro.com:8031/radiomarca.mp3) | [web](https://www.marca.com/radio.html) | [logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
@@ -48,8 +48,8 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | Canal Sur Radio | [mp3](http://195.10.10.206/rtva/canalsurradio_sevilla.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_csr) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
-| Canal Fiesta Radio | [mp3](http://195.55.74.208/rtva/canalsurradio_sevilla.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_fiesta) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
-| Flamenco Radio | [mp3](http://195.10.10.206/rtva/canalsurradio_sevilla.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_flamenco) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
+| Canal Fiesta Radio | [mp3](http://195.55.74.204/rtva/canalfiestaradio_master.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_fiesta) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
+| Flamenco Radio | [mp3](http://195.55.74.203/rtva/canalflamenco.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_flamenco) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
 | Radio Andalucía Información | [mp3](http://195.10.10.206/rtva/radioandalucia.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_rai) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
 
 ### Aragón
