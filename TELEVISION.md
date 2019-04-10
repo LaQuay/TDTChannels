@@ -281,7 +281,7 @@
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](http://graph.facebook.com/139595216095381/picture?width=320&height=320) | - | - |
 | Canal Málaga | [m3u8](http://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://pbs.twimg.com/profile_images/971928392592449536/dXg0E5Ga_400x400.jpg) | - | - |
 | Mijas Comunicación | [m3u8](http://195.55.74.208/mijas/live-hls/playlist.m3u8) | [web](http://www.mijascomunicacion.org/) | [logo](http://graph.facebook.com/Mijas340/picture?width=320&height=320) | - | - |
-| PTV Córdoba HD | [m3u8](http://149.91.98.146:1935/cordoba/stream/master.m3u8) | [web](http://www.ptvcordoba.com/) | [logo](http://graph.facebook.com/PTV.Cordoba/picture?width=320&height=320) | - | - |
+| PTV Córdoba HD | [m3u8](http://149.91.98.146:1935/cordoba/stream/master.m3u8) | [web](http://www.ptvcordoba.com/) | [logo](https://pbs.twimg.com/profile_images/824584001096679425/vKVIOvEs_400x400.jpg) | - | - |
 | PTV Málaga HD | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) | [web](http://www.ptvmalaga.com/) | [logo](https://graph.facebook.com/PTV.Malaga/picture?width=320&height=320) | - | - |
 | Cancionero TV | [m3u8](http://89.140.99.41/hls/1080.m3u8) | [web](http://www.cancionero.es/tv/) | [logo](https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png) | - | - |
 | Costa Noroeste TV | - | [web](http://www.costanoroestetv.net/) | [logo](http://graph.facebook.com/Costanoroestetv/picture?width=320&height=320) | - | - |
