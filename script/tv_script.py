@@ -174,8 +174,8 @@ print("JSON Updated")
 
 # Save data to M3U8 file	
 text_file = open('./public/output/channels.m3u8', "w+")
-text_file.write("#EXTM3U url-tvg=\"https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CanalesTDT_EPG.xml\"" + "\n")
 text_file.write("# @LaQuay https://github.com/LaQuay/TDTChannels" + "\n")
+text_file.write("#EXTM3U url-tvg=\"https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CanalesTDT_EPG.xml\"" + "\n")
 text_file.write(spain.to_m3u8())
 text_file.write(international.to_m3u8())
 text_file.write(andorra.to_m3u8())
@@ -184,8 +184,8 @@ print("M3U8 Updated")
 
 # Save data to M3U file
 text_file = open('./public/output/channels.m3u', "w+")
-text_file.write("#EXTM3U url-tvg=\"https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CanalesTDT_EPG.xml\"" + "\n")
 text_file.write("# @LaQuay https://github.com/LaQuay/TDTChannels" + "\n")
+text_file.write("#EXTM3U url-tvg=\"https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CanalesTDT_EPG.xml\"" + "\n")
 text_file.write(spain.to_m3u8())
 text_file.write(international.to_m3u8())
 text_file.write(andorra.to_m3u8())
