@@ -30,8 +30,8 @@
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](http://graph.facebook.com/DMAXes/picture?width=320&height=320) | DMax.TDTChannelsEPG | - |
 | DKISS HD | [m3u8](http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8) | [web](https://es.dplay.com/dkiss/) | [logo](http://graph.facebook.com/DKissTV/picture?width=320&height=320) | DKISS.TDTChannelsEPG | - |
 | mtmad 24h HD | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8) | [web # 1](https://www.mitele.es/directo/mtmad-24h) - [web # 2](https://www.youtube.com/watch?v=hXQ8NuM1xQw) | [logo](http://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - | - |
-| GH Dúo 24h | [m3u8 # 1](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8) - [m3u8 # 2](https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_2.m3u8) | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
-| GH Dúo 24h HD | [m3u8 # 1](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8) - [m3u8 # 2](https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8) | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
+| Sálvame Okupa 24h | [m3u8 # 1](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8) - [m3u8 # 2](https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_2.m3u8) | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
+| Sálvame Okupa 24h HD | [m3u8 # 1](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8) - [m3u8 # 2](https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8) | [web # 1](https://www.mitele.es/directo/gh-duo-24h-senal-1) - [web # 2](https://www.mitele.es/directo/gh-duo-24h-senal-2) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
 | playz HD | [m3u8 # 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins4_lv3_aosv4_gl0/ins4_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 2](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/playz/directo/) | [logo](http://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
 | El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | ElToroTV.TDTChannelsEPG | - |
 
@@ -111,8 +111,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TPA7 | [m3u8](https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8) | [web](http://www.rtpa.es/television) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | TPA 7.sp | - |
-| TPA8 | - | [web](http://www.rtpa.es/television) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | TPA.TDTChannelsEPG | - |
+| TPA7 | [m3u8](https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8) | [web](http://www.rtpa.es/television) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | TPA.TDTChannelsEPG | - |
+| TPA8 | - | [web](http://www.rtpa.es/television) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - | - |
 | TPA9 | - | [web](http://www.rtpa.es/television) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - | - |
 | TeleAsturias | - | [web](http://tvonline.teleasturias.com/) | [logo](http://graph.facebook.com/TeleAsturiasTV/picture?width=320&height=320) | - | - |
 | EsAsturiasTV | - | [web](https://mips.tv/esAsturiasTelevision) | [logo](http://graph.facebook.com/EsAsturiasTV/picture?width=320&height=320) | - | - |
