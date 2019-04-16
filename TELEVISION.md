@@ -97,7 +97,7 @@
 | Canal Sur La Banda | [m3u8](https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8) | [web](http://labanda.canalsur.es/) | [logo](http://graph.facebook.com/LaBandaClub/picture?width=320&height=320) | - | - |
 | Canal Sur Eventos 1 HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/master.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Sur Eventos 2 HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_02/master.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
-| 7TV Andalucía | [m3u8](https://7tvandalucia.todostreaming.es/live/ondaluz-andalucia.m3u8) | [web](https://7tvandalucia.es/portada/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía | - | [web](https://7tvandalucia.es/portada/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
 
 ### Aragón
 
