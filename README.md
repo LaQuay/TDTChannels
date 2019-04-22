@@ -56,6 +56,9 @@ En este proyecto y en la web de reproducción **no** se almacena ningún *stream
 
 Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*. Recuerda por favor incluir la fuente original de la emisión.
 
+> <a href="https://www.buymeacoffee.com/mLaQuay"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>   
+> Si te es útil este proyecto, considera realizar una pequeña donación. :relaxed:
+
 ### Agradecimientos
 [AUTHORS](https://github.com/LaQuay/TDTChannels/blob/master/AUTHORS.md)
 
