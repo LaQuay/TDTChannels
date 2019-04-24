@@ -502,6 +502,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| Auria Televisión | - | [web](http://www.auria.es/) | [logo](https://yt3.ggpht.com/a-/AAuE7mBbJ5XfzqqDgg1IkOk23GJ6JZntYZtYT-n1CA=s288-mo-c-c0xffffffff-rj-k-no) | - | - |
 | Via Televisión | - | [web](http://grupoviartv.blogspot.com/p/via-television-en-directo.html) | [logo](http://graph.facebook.com/ViaTelevision/picture?width=320&height=320) | - | - |
 | Telemiño | - | [web](http://www.teleminho.com/video/en-directo/emision-directo-telemino/20171121182242026296.html) | [logo](http://graph.facebook.com/teleminho/picture?width=320&height=320) | - | - |
 | TV Ferrol | - | [web](http://www.tvferrol.es/es/) | [logo](http://graph.facebook.com/tvferrol/picture?width=320&height=320) | - | - |
@@ -542,6 +543,7 @@
 | Déjate de Historias TV | [m3u8](https://secure.todostreaming.es/live/tvstream-DH.m3u8) | [web](www.dejatedehistorias.es/wordpress/dejate-tv-on-line/) | [logo](http://graph.facebook.com/DejateDeHistoriasTV/picture?width=320&height=320) | - | - |
 | Libertad Digital TV | - | [web](https://tv.libertaddigital.com/directo.html) | [logo](http://graph.facebook.com/libertad.digital.tv/picture?width=320&height=320) | - | - |
 | Pride Channel | [m3u8](http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8) | [web](http://www.pridechanneltv.com/tv-en-directo.html) | [logo](http://graph.facebook.com/PrideChannelTV/picture?width=320&height=320) | - | - |
+| Canal 11 TV | [m3u8](http://178.132.6.97/11Madrid/index.m3u8) | [web](http://canal11tv.es/) | [logo](http://canal11tv.es/wp-content/uploads/cropped-logo-1-270x270.png) | - | - |
 | Tele-K | - | [web](http://tele-k.org) | [logo](http://graph.facebook.com/Tele.K.org/picture?width=320&height=320) | - | - |
 | Canal Bom | - | [web](http://www.canalbom.com) | [logo](http://graph.facebook.com/canalbomtv/picture?width=320&height=320) | - | - |
 
@@ -616,7 +618,7 @@
 | Une Vionalopó | [m3u8](http://37.187.225.46/hls/unesd.m3u8) | [web](https://www.unevinalopo.es/directo/) | [logo](http://graph.facebook.com/UneVinalopo/picture?width=320&height=320) | - | - |
 | Gestiona TV | [m3u8](http://37.187.7.106/gestionatv/live.m3u8) | [web](http://www.gestionaradiovalencia.com/television/) | [logo](https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg) | - | - |
 | RTV Vida HD | [m3u8](http://188.165.135.22/radiovida/livestream/master.m3u8) | [web](http://vidartv.com/index.php/ve-television-vida) | [logo](http://graph.facebook.com/vidartv/picture?width=320&height=320) | - | - |
-| Elche TV | - | [web](http://www.radioelche.com) | [logo](http://graph.facebook.com/Elche7Tv/picture?width=320&height=320) | - | - |
+| Elche 7 TV | [m3u8](http://154.60.248.32/hls/canal1.m3u8) | [web](https://elche7tv.es/) | [logo](http://graph.facebook.com/Elche7Tv/picture?width=320&height=320) | - | - |
 | Canal Bom | - | [web](http://www.canalbom.com) | [logo](http://graph.facebook.com/canalbomtv/picture?width=320&height=320) | - | - |
 
 ## Internacionales
