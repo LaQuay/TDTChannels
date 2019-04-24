@@ -27,6 +27,8 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
+*04/2019* - [Canales TDT España para ver online desde cualquier parte](https://www.meneame.net/story/canales-tdt-espana-ver-online-desde-cualquier-parte-formato-m3u8)
+
 *03/2019* - [El Androide Libre - Cómo ver la tele en un reproductor con Android TV](https://elandroidelibre.elespanol.com/2019/03/como-ver-tele-reproductor-television-android-tv.html)
 
 *02/2019* - [Softonic - Cómo usar Kodi para ver la TV gratis en tu teléfono móvil](https://www.softonic.com/articulos/usar-kodi-ver-tv-gratis-telefono-movil)
