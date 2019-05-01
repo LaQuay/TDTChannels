@@ -55,7 +55,7 @@
 | RealMadrid TV | [m3u8 # Español](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | [logo](http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320) | RMTV.TDTChannelsEPG | - |
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es/) | [logo](http://graph.facebook.com/fcbarcelona/picture?width=320&height=320) | BarcaTV.TDTChannelsEPG | - |
 | Betis TV HD | [m3u8](https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320) | BetisTV.TDTChannelsEPG | - |
-| Sevilla TV | [m3u8](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8) | [web](http://live.sevillafc.es/) | [logo](http://graph.facebook.com/sevillafc/picture?width=320&height=320) | - | - |
+| Sevilla TV | [m3u8](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8) | [web](http://live.sevillafc.es/) | [logo](http://graph.facebook.com/sevillafc/picture?width=320&height=320) | Sevilla.TDTChannelsEPG | - |
 | UD Las Palmas HD | [m3u8](https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtvlive) | [logo](http://graph.facebook.com/udlaspalmasoficial/picture?width=320&height=320) | - | - |
 | Redbull TV HD | [m3u8](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](http://graph.facebook.com/RedBull/picture?width=320&height=320) | - | - |
 
@@ -122,7 +122,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](http://graph.facebook.com/RadioTelevisionCanaria/picture?width=320&height=320) | Canarias.TDTChannelsEPG | - |
-| Mírame TV | [m3u8](https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8) | [web](https://mirametv.com/) | [logo](http://graph.facebook.com/MirameTVCanarias/picture?width=320&height=320) | - | - |
+| Mírame TV | [m3u8](https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8) | [web](https://mirametv.com/) | [logo](http://graph.facebook.com/MirameTVCanarias/picture?width=320&height=320) | MirameTV.TDTChannelsEPG | - |
 | Loca TV | [m3u8](https://5790d294af2dc.streamlock.net:443/8022/8022/playlist.m3u8) | [web](http://locatv.es/) | [logo](http://graph.facebook.com/701434753589363/picture?width=320&height=320) | - | - |
 
 ### Cantabria
