@@ -55,7 +55,7 @@
 | RealMadrid TV | [m3u8 # Español](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | [logo](http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320) | RMTV.TDTChannelsEPG | - |
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es/) | [logo](http://graph.facebook.com/fcbarcelona/picture?width=320&height=320) | BarcaTV.TDTChannelsEPG | - |
 | Betis TV HD | [m3u8](https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320) | BetisTV.TDTChannelsEPG | - |
-| Sevilla TV | [m3u8](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8) | [web](http://live.sevillafc.es/) | [logo](http://graph.facebook.com/sevillafc/picture?width=320&height=320) | Sevilla.TDTChannelsEPG | - |
+| Sevilla TV | [m3u8](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8) | [web](http://live.sevillafc.es/) | [logo](http://graph.facebook.com/sevillafc/picture?width=320&height=320) | SevillaTV.TDTChannelsEPG | - |
 | UD Las Palmas HD | [m3u8](https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtvlive) | [logo](http://graph.facebook.com/udlaspalmasoficial/picture?width=320&height=320) | - | - |
 | Redbull TV HD | [m3u8](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](http://graph.facebook.com/RedBull/picture?width=320&height=320) | - | - |
 
@@ -130,7 +130,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Cantabria TV | - | [web](http://www.vegavision.tv/) | [logo](http://graph.facebook.com/vegavisiontvcantabria/picture?width=320&height=320) | - | - |
-| Popular TV Cantabria | [m3u8](https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](http://populartvcantabria.com/livetv/) | [logo](http://graph.facebook.com/populartvcantabria/picture?width=320&height=320) | - | - |
+| - | [m3u8](https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](http://populartvcantabria.com/livetv/) | [logo](http://graph.facebook.com/populartvcantabria/picture?width=320&height=320) | PopularTV_S.TDTChannelsEPG | - |
 
 ### Castilla La-Mancha
 
@@ -204,8 +204,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | [logo](http://graph.facebook.com/tvrtelevision/picture?width=320&height=320) | - | - |
-| Popular TV La Rioja | - | [web](http://www.populartvlarioja.com/directo/) | [logo](http://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - | - |
+| TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | [logo](http://graph.facebook.com/tvrtelevision/picture?width=320&height=320) | TVR.TDTChannelsEPG | - |
+| Popular TV La Rioja | - | [web](http://www.populartvlarioja.com/directo/) | [logo](http://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | PopularTv_LO.TDTChannelsEPG | - |
 
 ### Madrid
 
@@ -220,7 +220,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Melilla TV HD | [m3u8](http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/live_source/playlist.m3u8) | [web](http://inmusa.es/directo/) | [logo](http://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320) | - | - |
+| Melilla TV HD | [m3u8](http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/live_source/playlist.m3u8) | [web](http://inmusa.es/directo/) | [logo](http://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320) | MelillaTV.TDTChannelsEPG | - |
 | Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/8009/master.m3u8) | [web](https://populartvmelilla.es/tv-online/) | [logo](http://graph.facebook.com/populartvml/picture?width=320&height=320) | - | - |
 
 ### Murcia
@@ -228,7 +228,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 7 RM | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | [logo](http://graph.facebook.com/La7TVRegiondeMurcia/picture?width=320&height=320) | 7RM.TDTChannelsEPG | - |
-| TV Murciana | - | [web](http://www.televisionmurciana.es/) | [logo](http://graph.facebook.com/televisionmurciana/picture?width=320&height=320) | - | - |
+| TV Murciana | - | [web](http://www.televisionmurciana.es/) | [logo](http://graph.facebook.com/televisionmurciana/picture?width=320&height=320) | Murciana.TDTChannelsEPG | - |
 | Popular TV Murcia | [m3u8](https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8) | [web](https://www.populartvrm.com/) | [logo](http://graph.facebook.com/poptvregiondemurcia/picture?width=320&height=320) | Popular TV Murcia.sp | - |
 | Canal 8 Murcia | - | [web](http://www.canal8murcia.com/) | [logo](http://graph.facebook.com/Canal8Murcia/picture?width=320&height=320) | - | - |
 
@@ -236,7 +236,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Navarra TV | [m3u8](http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/master.m3u8) | [web](http://www.natv.es/Directo) | [logo](http://graph.facebook.com/NavarraTelevision/picture?width=320&height=320) | - | - |
+| Navarra TV | [m3u8](http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/master.m3u8) | [web](http://www.natv.es/Directo) | [logo](http://graph.facebook.com/NavarraTelevision/picture?width=320&height=320) | NaTV.TDTChannelsEPG | - |
 | Navarra TV 2 | - | [web](http://www.natv.es/Directo) | [logo](http://graph.facebook.com/NavarraTelevision/picture?width=320&height=320) | - | - |
 
 ### País Vasco
