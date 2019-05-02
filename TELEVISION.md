@@ -44,6 +44,7 @@
 | Atresplayer Original 3 HD | [m3u8](https://livestartover.atresmedia.com/eventos37/master.m3u8) - [m3u8 # GEO](https://livestartover.atresmedia.com/geoeventos37/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-37/) | [logo](http://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - | - |
 | Canal Parlamento | [m3u8](http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8) | [web](http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/CanPar) | [logo](https://yt3.ggpht.com/a-/AAuE7mACmvgDvj5xdVeMXQI9kQSmU0A2Zw5nJEjR8A=s320) | - | - |
 | EuropaPress | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) | [web](https://www.europapress.tv/) | [logo](http://graph.facebook.com/europapress.es/picture?width=320&height=320) | - | - |
+| Público TV | - | [web](https://www.publico.es/videos/tag/streaming) | [logo](http://graph.facebook.com/diario.publico/picture?width=320&height=320) | - | - |
 
 ## Deportivos
 
