@@ -31,6 +31,7 @@
 | DKISS HD | [m3u8](http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8) | [web](https://es.dplay.com/dkiss/) | [logo](http://graph.facebook.com/DKissTV/picture?width=320&height=320) | DKISS.TDTChannelsEPG | - |
 | mtmad 24h HD | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8) | [web # 1](https://www.mitele.es/directo/mtmad-24h) - [web # 2](https://www.youtube.com/watch?v=hXQ8NuM1xQw) | [logo](http://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - | - |
 | playz HD | [m3u8 # 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins4_lv3_aosv4_gl0/ins4_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 2](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/playz/directo/) | [logo](http://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
+| Público TV | - | [web](https://www.publico.es/videos/tag/streaming) | [logo](http://graph.facebook.com/diario.publico/picture?width=320&height=320) | - | - |
 | El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | ElToroTV.TDTChannelsEPG | - |
 
 ## Informativos
@@ -91,8 +92,6 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Canal Sur Andalucía HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | CanalsurA.TDTChannelsEPG | - |
-| Canal Sur 2 HD | - | [web](https://www.youtube.com/channel/UCQTkDyaDOyqAk6fFuUdEgCg/live) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
-| Andalucía TV HD | - | [web](https://www.youtube.com/channel/UCW9GI9UwtDwmOXo7I2exbAQ/live) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Andalucia Turismo HD | [m3u8](https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8) | [web](http://canalandaluciaturismo.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Andalucia Flamenco | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Andalucia Cocina | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
@@ -213,6 +212,7 @@
 | - | - | - | - | - | - |
 | Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | [logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | Telemadrid.TDTChannelsEPG | - |
 | LaOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | [logo](https://pbs.twimg.com/profile_images/971894509972967429/gu-7VRg2_400x400.jpg) | LaOtra.TDTChannelsEPG | - |
+| Canal 30 Años | [m3u8](https://593fa17dec176.streamlock.net/telemadrid/telemadrid.stream/playlist.m3u8) | [web](http://30aniversario.telemadrid.es/) | [logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | - | - |
 | Webcam OndaMadrid | [m3u8 # 1](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 2](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](http://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - | - |
 | TN en Lengua de Signos | [m3u8](http://eventos-telemadridhls-live.hls.adaptive.level3.net/telemadrid/eventos1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-lengua-de-signos/) | [logo](http://graph.facebook.com/informativostelemadrid/picture?width=320&height=320) | - | - |
 
