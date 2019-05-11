@@ -214,7 +214,6 @@
 | LaOtra | [m3u8](http://live-laotra.cellnextelecom.net/laotra/smil:laotra/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | [logo](https://pbs.twimg.com/profile_images/971894509972967429/gu-7VRg2_400x400.jpg) | LaOtra.TDTChannelsEPG | - |
 | Canal 30 Años | [m3u8](https://593fa17dec176.streamlock.net/telemadrid/telemadrid.stream/playlist.m3u8) | [web](http://30aniversario.telemadrid.es/) | [logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | - | - |
 | Webcam OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106 FM](http://live-ondamadrid.cellnextelecom.net/ondamadrid/radio/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](http://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - | - |
-| TN en Lengua de Signos | [m3u8](http://eventos-telemadridhls-live.hls.adaptive.level3.net/telemadrid/eventos1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-lengua-de-signos/) | [logo](http://graph.facebook.com/informativostelemadrid/picture?width=320&height=320) | - | - |
 
 ### Melilla
 
