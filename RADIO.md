@@ -145,7 +145,7 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Onda Madrid | [m3u8 # 1](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 2](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid/) | [logo](http://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - |
+| OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106 FM](http://live-ondamadrid.cellnextelecom.net/ondamadrid/radio/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](http://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - | - |
 
 ### Melilla
 
