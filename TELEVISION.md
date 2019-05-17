@@ -4,8 +4,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 1 HD | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8) - [m3u8 # GEO](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@584097/master.m3u8) | [web](http://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | La1.TDTChannelsEPG | GEO |
-| La 2 HD | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8) - [m3u8 # GEO](http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@584099/master.m3u8) | [web](http://www.rtve.es/directo/la-2/) | [logo](http://graph.facebook.com/la2detve/picture?width=320&height=320) | La2.TDTChannelsEPG | GEO |
+| La 1 HD | [m3u8](http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) - [m3u8 # GEO](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) | [web](http://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | La1.TDTChannelsEPG | GEO |
+| La 2 HD | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8) - [m3u8 # GEO](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8) | [web](http://www.rtve.es/directo/la-2/) | [logo](http://graph.facebook.com/la2detve/picture?width=320&height=320) | La2.TDTChannelsEPG | GEO |
 | Antena 3 HD | [m3u8](https://livestartover.atresmedia.com/antena3/master.m3u8) - [m3u8 # GEO](https://livestartover.atresmedia.com/geoantena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/) | [logo](http://graph.facebook.com/antena3/picture?width=320&height=320) | Antena3.TDTChannelsEPG | - |
 | Cuatro | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/cuatro) | [logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | Cuatro.TDTChannelsEPG | REPRO,CODEC |
 | Cuatro HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/cuatro) | [logo](http://graph.facebook.com/cuatro/picture?width=320&height=320) | Cuatro.TDTChannelsEPG | REPRO,CODEC |
@@ -210,10 +210,10 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Telemadrid | [m3u8](http://live-telemadrid.cellnextelecom.net/telemadrid/smil:telemadrid/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | [logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | Telemadrid.TDTChannelsEPG | - |
+| Telemadrid | [m3u8 # 1](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) - [m3u8 # 2](http://live-telemadrid.cellnextelecom.net/telemadrid/smil:telemadrid/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | [logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | Telemadrid.TDTChannelsEPG | - |
 | LaOtra | [m3u8](http://live-laotra.cellnextelecom.net/laotra/smil:laotra/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | [logo](https://pbs.twimg.com/profile_images/971894509972967429/gu-7VRg2_400x400.jpg) | LaOtra.TDTChannelsEPG | - |
 | Canal 30 Años | [m3u8](https://593fa17dec176.streamlock.net/telemadrid/telemadrid.stream/playlist.m3u8) | [web](http://30aniversario.telemadrid.es/) | [logo](http://graph.facebook.com/telemadrid/picture?width=320&height=320) | - | - |
-| Webcam OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106 FM](http://live-ondamadrid.cellnextelecom.net/ondamadrid/radio/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](http://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - | - |
+| Webcam OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106 FM](http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](http://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - | - |
 
 ### Melilla
 
