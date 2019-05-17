@@ -111,10 +111,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TPA7 | [m3u8](https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8) | [web](http://www.rtpa.es/television) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | TPA.TDTChannelsEPG | - |
-| TPA8 | - | [web](http://www.rtpa.es/television) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - | - |
-| TPA9 | - | [web](http://www.rtpa.es/television) | [logo](http://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - | - |
-| TeleAsturias | - | [web](http://tvonline.teleasturias.com/) | [logo](http://graph.facebook.com/TeleAsturiasTV/picture?width=320&height=320) | - | - |
-| EsAsturiasTV | - | [web](https://mips.tv/esAsturiasTelevision) | [logo](http://graph.facebook.com/EsAsturiasTV/picture?width=320&height=320) | - | - |
+
 
 ### Canarias
 
