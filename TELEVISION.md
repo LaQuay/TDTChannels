@@ -196,7 +196,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | IB3 | [m3u8](http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8) | [web](http://ib3tv.com/directe) | [logo](http://graph.facebook.com/IB3org/picture?width=320&height=320) | IB3.TDTChannelsEPG | - |
-| Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/playlist.m3u8) | [web](https://ib3.org/directe?c=bondia) | [logo](https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png) | - | - |
+| Bon Dia TV | [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/playlist.m3u8) | [web](https://ib3.org/directe?c=bondia) | [logo](https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png) | BonDiaTV_IB.TDTChannelsEPG | - |
 | Fibwi HD | [m3u8](http://178.132.6.97/fibwiLIVE1/playlist.m3u8) | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
 
 ### La Rioja
