@@ -204,7 +204,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | [logo](http://graph.facebook.com/tvrtelevision/picture?width=320&height=320) | TVR.TDTChannelsEPG | - |
-| Popular TV La Rioja | - | [web](http://www.populartvlarioja.com/directo/) | [logo](http://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | PopularTV_LO.TDTChannelsEPG | - |
+| Popular TV La Rioja | - | [web](http://www.populartvlarioja.com/directo/) | [logo](http://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - | - |
 
 ### Madrid
 
