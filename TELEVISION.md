@@ -387,7 +387,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Hellin TV | [m3u8](http://hellin.hls.flumotion.com/hellin/hellin-hls/playlist.m3u8) | [web](http://www.televisionhellin.com/tv-en-directo) | [logo](http://graph.facebook.com/tvhellin/picture?width=320&height=320) | - | - |
+| Hellin TV | [m3u8](http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8) | [web](http://www.televisionhellin.com/tv-en-directo) | [logo](http://graph.facebook.com/tvhellin/picture?width=320&height=320) | - | - |
 | TeleToledo | [m3u8](https://cdn01.yowi.tv/1H23S04G4M/master.m3u8) | [web](http://www.teletoledo.tv/index.php/tv-en-directo) | [logo](http://graph.facebook.com/Teletoledo/picture?width=320&height=320) | - | - |
 | Imás TV | [m3u8](https://secure3.todostreaming.es/live/imastv-livestream.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | [logo](http://graph.facebook.com/television.imas/picture?width=320&height=320) | - | - |
 | Alcarria TV | [m3u8](http://217.182.77.27/live/alcarriatv-livestream.m3u8) | [web](http://www.alcarria.tv/htmlPlayer.html) | [logo](http://graph.facebook.com/AlcarriaTV/picture?width=320&height=320) | - | - |
@@ -423,7 +423,7 @@
 | - | - | - | - | - | - |
 | betevé | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
 | betevé web | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_8o1kikzi/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/web/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
-| betevé xarxes |  [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_hysmp9b4/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/xarxes/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
+| betevé xarxes | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_hysmp9b4/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/xarxes/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
 | betevé càmera del temps | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_2jb8lihv/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/temps-barcelona/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
 | El Punt Avui TV | [m3u8](http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8) | [web](http://www.elpuntavui.tv/directe.html) | [logo](http://graph.facebook.com/elpuntavuitv/picture?width=320&height=320) | - | - |
 | BDN | [m3u8](http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8) | [web](https://www.bdncom.cat/directe/) | [logo](https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_400x400.jpg) | - | - |
