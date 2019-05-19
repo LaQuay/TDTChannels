@@ -15,7 +15,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 **Chat de Avisos por Telegram**: [Telegram TDTChannels - Canales TDT Avisos](https://t.me/tdtchannels_avisos)
 
 #### Descargar listas de reproducción
-*(Última actualización: 12/05/2019)*
+*(Última actualización: 20/05/2019)*
 
 | Media | Format |  |  |  |
 | -	| -	| -	| -	| -	|
