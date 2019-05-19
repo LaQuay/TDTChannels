@@ -224,8 +224,8 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 7 RM | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | [logo](http://graph.facebook.com/La7TVRegiondeMurcia/picture?width=320&height=320) | 7RM.TDTChannelsEPG | - |
-| TV Murciana | - | [web](http://www.televisionmurciana.es/) | [logo](http://graph.facebook.com/televisionmurciana/picture?width=320&height=320) | Murciana.TDTChannelsEPG | - |
-| Popular TV Murcia | [m3u8](https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8) | [web](https://www.populartvrm.com/) | [logo](http://graph.facebook.com/poptvregiondemurcia/picture?width=320&height=320) | Popular TV Murcia.sp | - |
+| TV Murciana | - | [web](http://www.televisionmurciana.es/) | [logo](http://graph.facebook.com/televisionmurciana/picture?width=320&height=320) | - | - |
+| Popular TV Murcia | [m3u8](https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8) | [web](https://www.populartvrm.com/) | [logo](http://graph.facebook.com/poptvregiondemurcia/picture?width=320&height=320) | - | - |
 | Canal 8 Murcia | - | [web](http://www.canal8murcia.com/) | [logo](http://graph.facebook.com/Canal8Murcia/picture?width=320&height=320) | - | - |
 
 ### Navarra
