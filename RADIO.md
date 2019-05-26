@@ -156,9 +156,10 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Onda Cero Murcia | [stream](https://icecast-streaming.nice264.com/murcia) | [web](https://www.ondacero.es/emisoras/murcia/murcia/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
-| Onda Regional de Murcia | [aac](https://live.redctnet.es/live/orm/orm/media_w885381291_148.aac) | [web](https://www.orm.es/directo/orm/) | [logo](http://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
-| Onda Regional Música | [aac](https://live.redctnet.es/live/ormmusical/ormmusical/media_w1180626724_20243.aac) | [web](https://www.orm.es/directo/or-musica/) | [logo](http://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
+| Onda Cero Murcia | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/chunklist.m3u8) | [web](https://www.ondacero.es/emisoras/murcia/murcia/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Cero Noroeste | [m3u8](http://stream.ondaceronoroeste.es/ondacero-64.mp3) | [web](https://www.ondaceronoroeste.es/directo.html) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Regional de Murcia | - | [web](https://www.orm.es/directo/orm/) | [logo](http://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
+| Onda Regional Música | - | [web](https://www.orm.es/directo/or-musica/) | [logo](http://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
 
 ### Navarra
 
