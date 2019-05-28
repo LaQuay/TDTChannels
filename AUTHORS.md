@@ -12,6 +12,6 @@
 - Jorge [@jaguaza](https://github.com/jaguaza)
 - Juan [@okelet](https://github.com/okelet)
 - Valentin [@vk496](https://github.com/vk496)
-- Carlos [@profesorasix] (https://github.com/profesorasix)
+- Carlos [@profesorasix](https://github.com/profesorasix)
 
 Si haces una *Pull Request*, no olvides incluirte en este fichero. 
