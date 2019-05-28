@@ -397,7 +397,7 @@
 | Guada TV | - | [web](https://www.youtube.com/channel/UC4oPWmhiUTekfM5vcWsORLg/live) | [logo](http://graph.facebook.com/GuadaTV.TV/picture?width=320&height=320) | - | - |
 | Ciudad Real TV | - | [web # 1](http://www.ustream.tv/channel/17022458) - [web # 2](https://www.youtube.com/channel/UCNxFBlUBOaI3iQW37T3hFww/live) | [logo](http://graph.facebook.com/1765736930414544/picture?width=320&height=320) | - | - |
 | Visión 6 | [m3u8](https://secure3.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | [logo](http://graph.facebook.com/104927246235553/picture?width=320&height=320) | - | - |
-| Canal 4 Mancha Centro HD | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/master.m3u8) | [web](http://villarrobledo.com/canal4.php) | [logo](http://graph.facebook.com/518952731468846/picture?width=320&height=320) | - | - |
+| Canal 4 Mancha Centro HD | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8) | [web](http://villarrobledo.com/canal4.php) | [logo](http://graph.facebook.com/518952731468846/picture?width=320&height=320) | - | - |
 | TV La Mancha | - | [web](http://www.radiosurco.es/tv-la-mancha.html) | [logo](http://graph.facebook.com/radiosurco/picture?width=320&height=320) | - | - |
 | Televaldepeñas | - | [web](http://www.televal.com/tvv/) | [logo](http://graph.facebook.com/205812466235710/picture?width=320&height=320) | - | - |
 | Tele Taracón | - | [web](http://www.taranconalacarta.es/) | [logo](http://graph.facebook.com/429542800548807/picture?width=320&height=320) | - | - |
