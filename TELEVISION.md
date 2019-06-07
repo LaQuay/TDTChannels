@@ -414,7 +414,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| betevé | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
+| betevé | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | BTV.TDTChannelsEPG | - |
 | betevé web | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_8o1kikzi/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/web/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
 | betevé xarxes | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_hysmp9b4/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/xarxes/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
 | betevé càmera del temps | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_2jb8lihv/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/temps-barcelona/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
