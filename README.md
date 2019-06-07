@@ -5,16 +5,10 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 ### Listas de reproducción
 *(Última actualización: 31/05/2019)*
 
-| Media | Format |  |  |  |
-| -	| -	| -	| -	| -	|
-| **TV** | [json](http://91.121.64.179/tdt_project/output/channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/channels.m3u) | [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)	|
-| **Radio** | [json](http://91.121.64.179/tdt_project/output/radio_channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/radio_channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/radio_channels.m3u) | - |
-
-### Listas de emisiones
-| | Enlace |
-| -	| -	|
-| **TV** | [Listado de TV](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) |
-| **Radio** | [Listado de Radio](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) |
+| Media | Format | | | | |
+| -	| - | -	| -	| -	| -	|
+| **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](http://91.121.64.179/tdt_project/output/channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/channels.m3u) | [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)	|
+| **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](http://91.121.64.179/tdt_project/output/radio_channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/radio_channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/radio_channels.m3u) | - |
 
 ### Herramientas
 | | Enlace |
