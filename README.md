@@ -2,17 +2,26 @@
 
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
-**TV**: [Listado completo](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md)
+### Listados
 
-**Radio**: [Listado completo](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md)
+| Media | Link |
+| -	| -	|
+| **TV** | [Haz click para acceder al listado de TV](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) |
+| **Radio** | [Haz click para acceder al listado de Radio](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) |
 
-**Web con reproductor oficial**: [Web TDTChannels](http://marcvila.me/tdt/)
+### Herramientas
 
-**Aplicación Android oficial**: [Repositorio TDTChannels-APP](https://github.com/LaQuay/TDTChannels-APP)
+|  | Link |
+| -	| -	|
+| **Web-Reproductor** | [Haz click para acceder al reproductor oficial](http://marcvila.me/tdt/) |
+| **App Android Oficial** | [Haz click para acceder al repositorio de la app](https://github.com/LaQuay/TDTChannels-APP) |
 
-**Chat Telegram**: [Telegram TDTChannels - Canales TDT](https://t.me/tdtchannels)
+### Telegram
 
-**Chat de Avisos por Telegram**: [Telegram TDTChannels - Canales TDT Avisos](https://t.me/tdtchannels_avisos)
+| Chats | Link |
+| -	| -	|
+| **Chat** | [Haz click para acceder al chat](https://t.me/tdtchannels) |
+| **Chat de Avisos** | [Haz click para acceder al chat de Avisos](https://t.me/tdtchannels_avisos) |
 
 #### Descargar listas de reproducción
 *(Última actualización: 31/05/2019)*
@@ -20,7 +29,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | Media | Format |  |  |  |
 | -	| -	| -	| -	| -	|
 | **TV** | [json](http://91.121.64.179/tdt_project/output/channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/channels.m3u) | [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)	|
-| **Radio** | [json](http://91.121.64.179/tdt_project/output/radio_channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/radio_channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/radio_channels.m3u) | -	|
+| **Radio** | [json](http://91.121.64.179/tdt_project/output/radio_channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/radio_channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/radio_channels.m3u) | - |
 
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
