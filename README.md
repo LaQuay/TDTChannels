@@ -2,25 +2,31 @@
 
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
-**TV**: [Listado completo](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md)
-
-**Radio**: [Listado completo](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md)
-
-**Web con reproductor oficial**: [Web TDTChannels](http://marcvila.me/tdt/)
-
-**Aplicación Android oficial**: [Repositorio TDTChannels-APP](https://github.com/LaQuay/TDTChannels-APP)
-
-**Chat Telegram**: [Telegram TDTChannels - Canales TDT](https://t.me/tdtchannels)
-
-**Chat de Avisos por Telegram**: [Telegram TDTChannels - Canales TDT Avisos](https://t.me/tdtchannels_avisos)
-
-#### Descargar listas de reproducción
+### Listas de reproducción
 *(Última actualización: 31/05/2019)*
 
 | Media | Format |  |  |  |
 | -	| -	| -	| -	| -	|
 | **TV** | [json](http://91.121.64.179/tdt_project/output/channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/channels.m3u) | [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)	|
-| **Radio** | [json](http://91.121.64.179/tdt_project/output/radio_channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/radio_channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/radio_channels.m3u) | -	|
+| **Radio** | [json](http://91.121.64.179/tdt_project/output/radio_channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/radio_channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/radio_channels.m3u) | - |
+
+### Listas de emisiones
+| | Enlace |
+| -	| -	|
+| **TV** | [Listado de TV](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) |
+| **Radio** | [Listado de Radio](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) |
+
+### Herramientas
+| | Enlace |
+| -	| -	|
+| **Reproductor online** | [Reproductor web oficial](http://marcvila.me/tdt/) |
+| **Aplicación Android** | [Repositorio de la Aplicación Android oficial](https://github.com/LaQuay/TDTChannels-APP) |
+
+### Chats
+| | Enlace |
+| -	| -	|
+| **Grupo en Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
+| **Canal de Avisos en Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
 
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
