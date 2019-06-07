@@ -2,26 +2,23 @@
 
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
-### Listados
-
-| Media | Link |
+### Listados de emisiones
+| | Enlace |
 | -	| -	|
-| **TV** | [Haz click para acceder al listado de TV](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) |
-| **Radio** | [Haz click para acceder al listado de Radio](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) |
+| **TV** | [Listado de TV](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) |
+| **Radio** | [Listado de Radio](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) |
 
 ### Herramientas
-
-|  | Link |
+| | Enlace |
 | -	| -	|
-| **Web-Reproductor** | [Haz click para acceder al reproductor oficial](http://marcvila.me/tdt/) |
-| **App Android Oficial** | [Haz click para acceder al repositorio de la app](https://github.com/LaQuay/TDTChannels-APP) |
+| **Web-Reproductor** | [Reproductor web oficial](http://marcvila.me/tdt/) |
+| **App Android Oficial** | [Repositorio de la Aplicación Android oficial](https://github.com/LaQuay/TDTChannels-APP) |
 
-### Telegram
-
-| Chats | Link |
+### Chats
+| | Enlace |
 | -	| -	|
-| **Chat** | [Haz click para acceder al chat](https://t.me/tdtchannels) |
-| **Chat de Avisos** | [Haz click para acceder al chat de Avisos](https://t.me/tdtchannels_avisos) |
+| **Grupo en Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
+| **Canal de Avisos en Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
 
 #### Descargar listas de reproducción
 *(Última actualización: 31/05/2019)*
