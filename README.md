@@ -15,10 +15,6 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | -	| -	|
 | **Reproductor online** | [Reproductor web oficial](http://marcvila.me/tdt/) |
 | **Aplicación Android** | [Repositorio de la Aplicación Android oficial](https://github.com/LaQuay/TDTChannels-APP) |
-
-### Chats
-| | Enlace |
-| -	| -	|
 | **Grupo en Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
 | **Canal de Avisos en Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
 
