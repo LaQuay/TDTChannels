@@ -1,5 +1,5 @@
 #### Lead
-- Marc Vila [@LaQuay](https://github.com/LaQuay)
+- Marc [@LaQuay](https://github.com/LaQuay)
 
 #### Team
 - Antonio [@atnbueno](https://github.com/atnbueno)
