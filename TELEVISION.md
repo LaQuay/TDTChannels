@@ -390,7 +390,7 @@
 | TV Almansa | - | [web](https://zonacliente.almatelecom.es/videos/canalimagen) | [logo](http://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | - |
 | InfoCanal TV Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | [logo](http://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | - |
 | Guada TV | - | [web](https://www.youtube.com/channel/UC4oPWmhiUTekfM5vcWsORLg/live) | [logo](http://graph.facebook.com/GuadaTV.TV/picture?width=320&height=320) | - | - |
-| Ciudad Real TV | - | [web # 1](http://www.ustream.tv/channel/17022458) - [web # 2](https://www.youtube.com/channel/UCNxFBlUBOaI3iQW37T3hFww/live) | [logo](http://graph.facebook.com/1765736930414544/picture?width=320&height=320) | - | - |
+| Ciudad Real TV | - | [web](http://www.ustream.tv/channel/17022458) | [logo](http://graph.facebook.com/1765736930414544/picture?width=320&height=320) | - | - |
 | Visión 6 | [m3u8](https://secure3.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | [logo](http://graph.facebook.com/104927246235553/picture?width=320&height=320) | - | - |
 | Canal 4 Mancha Centro HD | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8) | [web](http://villarrobledo.com/canal4.php) | [logo](http://graph.facebook.com/518952731468846/picture?width=320&height=320) | - | - |
 | Televaldepeñas | - | [web](http://www.televal.com/tvv/) | [logo](http://graph.facebook.com/205812466235710/picture?width=320&height=320) | - | - |
@@ -468,7 +468,7 @@
 | RAC105 | - | [web](https://www.rac105.cat) | [logo](http://graph.facebook.com/rac105/picture?width=320&height=320) | - | - |
 | Banyoles Televisió | - | [web](https://www.banyolestv.cat) | [logo](http://graph.facebook.com/banyolestelevisio/picture?width=320&height=320) | - | - |
 | Canal Camp | - | [web](http://canalcamp.alacarta.cat/) | [logo](http://graph.facebook.com/CanalCamp/picture?width=320&height=320) | - | - |
-| elprat.tv | - | [web # 1](http://el-prat-tv.alacarta.cat/) - [web # 2](https://www.elprat.tv/) | [logo](http://graph.facebook.com/104927627038101/picture?width=320&height=320) | - | - |
+| elprat.tv | - | [web](http://el-prat-tv.alacarta.cat/) | [logo](http://graph.facebook.com/104927627038101/picture?width=320&height=320) | - | - |
 | Maricel TV | - | [web](http://mariceltv.alacarta.cat/) | [logo](https://pbs.twimg.com/profile_images/512158777156460544/TBuXPuD2_400x400.jpeg) | - | - |
 | TV Vandellós | - | [web](http://tvvandellos.alacarta.cat/) | [logo](http://graph.facebook.com/televisiodevandellos/picture?width=320&height=320) | - | - |
 | Sant Andreu Televisió | - | [web](http://santandreutv.com/satv/) | [logo](http://graph.facebook.com/sabtelevisio/picture?width=320&height=320) | - | - |
