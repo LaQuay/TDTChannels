@@ -5,7 +5,7 @@ import requests
 
 from ambit import Ambito
 from country import Country
-from utils import stringbetween, get_radio_channels_from_part, get_license_info
+from utils import stringbetween, get_radio_channels_from_part, get_license_info, get_current_timestamp
 
 page = requests.get('https://raw.githubusercontent.com/LaQuay/TDTChannels/master/RADIO.md',
                     headers={'Cache-Control': 'no-cache'})
@@ -147,16 +147,14 @@ canales_andorra = stringbetween(content, "## Andorra", "")
 andorra.add_ambit(Ambito("Andorra", get_radio_channels_from_part(canales_andorra)))
 
 # Save data to JSON file
+json_result = {"license": get_license_info(),
+			   "countries": [spain.to_json(), 
+			   				international.to_json(), 
+			   				andorra.to_json()],
+   				"updated": get_current_timestamp()
+			  }
 json_file = open('./public/output/radio_channels.json', "w+")
-json_file.write("[")
-json_file.write(json.dumps(get_license_info()))
-json_file.write(", ")
-json_file.write(json.dumps(spain.to_json()))
-json_file.write(", ")
-json_file.write(json.dumps(international.to_json()))
-json_file.write(", ")
-json_file.write(json.dumps(andorra.to_json()))
-json_file.write("]")
+json_file.write(json.dumps(json_result, indent=4, sort_keys=False))
 json_file.close()
 print("JSON Updated")
 

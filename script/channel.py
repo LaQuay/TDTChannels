@@ -1,6 +1,6 @@
 ﻿# TODO Create TVChannel and RadioChannel
 class Channel:
-    def __init__(self, name, web, resolution, logo, epg_id, extra_info):
+    def __init__(self, name, web, resolution, logo, epg_id, extra_info, type):
         self.name = name
         self.web = web
         self.resolution = resolution
@@ -8,9 +8,10 @@ class Channel:
         self.epg_id = epg_id
         self.options = []
         self.extra_info = extra_info
+        self.type = type
 
-    def add_option(self, format, url):
-        self.options.append(self.Web(format, url))
+    def add_option(self, format, url, info):
+        self.options.append(self.Web(format, url, info))
 
     def get_name(self):
         return self.name
@@ -50,7 +51,8 @@ class Channel:
             "resolution": self.resolution,
             "epg_id": self.epg_id,
             "options": self.__options_to_json__(),
-            "extra_info": self.extra_info
+            "extra_info": self.extra_info,
+            "type": self.type
         }
 
     def to_m3u8(self, ambit_name, option):
@@ -76,9 +78,10 @@ class Channel:
         return info
 
     class Web:
-        def __init__(self, format, url):
+        def __init__(self, format, url, info):
             self.format = format
             self.url = url
+            self.info = info
 
         def is_m3u8_valid(self):
             return self.format == "m3u8"
@@ -98,5 +101,6 @@ class Channel:
         def to_json(self):
             return {
                 "format": self.format,
-                "url": self.url
+                "url": self.url,
+                "extra_info": self.info
             }
