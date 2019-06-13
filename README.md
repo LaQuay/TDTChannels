@@ -17,6 +17,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | **Aplicación Android** | [Repositorio de la Aplicación Android oficial](https://github.com/LaQuay/TDTChannels-APP) |
 | **Grupo en Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
 | **Canal de Avisos en Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
+| **EPG Oficial** | [EPG.TDTChannels](https://github.com/HelmerLuzo/TDTChannels_EPG) |
 
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
