@@ -23,6 +23,8 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
+*05/2019* - [El Androide Feliz - Servicios IPTV para ver la TV autonómica y local desde el móvil](https://elandroidefeliz.com/lista-servicios-iptv-para-ver-tv-autonomica-local-espanola/)
+
 *04/2019* - [Canales TDT España para ver online desde cualquier parte](https://www.meneame.net/story/canales-tdt-espana-ver-online-desde-cualquier-parte-formato-m3u8)
 
 *03/2019* - [El Androide Libre - Cómo ver la tele en un reproductor con Android TV](https://elandroidelibre.elespanol.com/2019/03/como-ver-tele-reproductor-television-android-tv.html)
