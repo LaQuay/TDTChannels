@@ -5,7 +5,7 @@ import requests
 
 from ambit import Ambito
 from country import Country
-from utils import stringbetween, get_tv_channels_from_part, get_license_info
+from utils import stringbetween, get_tv_channels_from_part, get_license_info, get_current_timestamp
 
 page = requests.get('https://raw.githubusercontent.com/LaQuay/TDTChannels/master/TELEVISION.md',
                     headers={'Cache-Control': 'no-cache'})
@@ -159,20 +159,19 @@ canales_andorra = stringbetween(content, "## Andorra", "")
 andorra.add_ambit(Ambito("Andorra", get_tv_channels_from_part(canales_andorra)))
 
 # Save data to JSON file
+json_result = {"license": get_license_info(),
+			   "epg_url": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml",
+			   "countries": [spain.to_json(), 
+			   				international.to_json(), 
+			   				andorra.to_json()],
+			   	"updated": get_current_timestamp()
+			  }
 json_file = open('./public/output/channels.json', "w+")
-json_file.write("[")
-json_file.write(json.dumps(get_license_info()))
-json_file.write(", ")
-json_file.write(json.dumps(spain.to_json()))
-json_file.write(", ")
-json_file.write(json.dumps(international.to_json()))
-json_file.write(", ")
-json_file.write(json.dumps(andorra.to_json()))
-json_file.write("]")
+json_file.write(json.dumps(json_result, indent=4, sort_keys=False))
 json_file.close()
 print("JSON Updated")
 
-# Save data to M3U8 file	
+# Save data to M3U8 file
 text_file = open('./public/output/channels.m3u8', "w+")
 text_file.write("#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels" + "\n")
 text_file.write(

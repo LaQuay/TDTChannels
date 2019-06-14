@@ -9,8 +9,8 @@ class Channel:
         self.options = []
         self.extra_info = extra_info
 
-    def add_option(self, format, url):
-        self.options.append(self.Web(format, url))
+    def add_option(self, format, url, info):
+        self.options.append(self.Web(format, url, info))
 
     def get_name(self):
         return self.name
@@ -76,9 +76,10 @@ class Channel:
         return info
 
     class Web:
-        def __init__(self, format, url):
+        def __init__(self, format, url, info):
             self.format = format
             self.url = url
+            self.info = info
 
         def is_m3u8_valid(self):
             return self.format == "m3u8"
@@ -98,5 +99,6 @@ class Channel:
         def to_json(self):
             return {
                 "format": self.format,
-                "url": self.url
+                "url": self.url,
+                "extra_info": self.info
             }
