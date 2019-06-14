@@ -50,7 +50,7 @@ class Channel:
             "resolution": self.resolution,
             "epg_id": self.epg_id,
             "options": self.__options_to_json__(),
-            "extra_info": self.extra_info,
+            "extra_info": self.extra_info
         }
 
     def to_m3u8(self, ambit_name, option):
