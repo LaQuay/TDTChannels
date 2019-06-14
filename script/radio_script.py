@@ -148,6 +148,7 @@ andorra.add_ambit(Ambito("Andorra", get_radio_channels_from_part(canales_andorra
 
 # Save data to JSON file
 json_result = {"license": get_license_info(),
+			   "epg_url": None,
 			   "countries": [spain.to_json(), 
 			   				international.to_json(), 
 			   				andorra.to_json()],
