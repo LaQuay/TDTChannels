@@ -64,7 +64,7 @@ def get_tv_channels_from_part(text):
         else:
             item_extra_info = item_extra_info.split(",")
 
-        channel = Channel(item_name, item_web, item_resolution, item_logo, item_epg, item_extra_info, "Video")
+        channel = Channel(item_name, item_web, item_resolution, item_logo, item_epg, item_extra_info)
         item_options = item_options.split(" - ")
         if len(item_options) > 0 and item_options[0] != "-":
             for option in item_options:
@@ -109,7 +109,7 @@ def get_radio_channels_from_part(text):
         else:
             item_extra_info = item_extra_info.split(",")
 
-        channel = Channel(item_name, item_web, "", item_logo, "", item_extra_info, "Audio")
+        channel = Channel(item_name, item_web, "", item_logo, "", item_extra_info)
         item_options = item_options.split(" - ")
         if len(item_options) > 0 and item_options[0] != "-":
             for option in item_options:
