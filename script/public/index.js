@@ -209,7 +209,7 @@ function loadChannelsInList() {
         return response.json();
       })
       .then(function(myJson) {
-        nacionales = myJson[1];
+        nacionales = myJson["countries"][0]; //Spain is the [0] country
 
         var items = [];
         $.each(nacionales["ambits"], function( ambit, ambit_val ) {

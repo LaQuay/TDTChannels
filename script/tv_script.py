@@ -160,12 +160,12 @@ andorra.add_ambit(Ambito("Andorra", get_tv_channels_from_part(canales_andorra)))
 
 # Save data to JSON file
 json_result = {"license": get_license_info(),
-			   "epg_url": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml",
-			   "countries": [spain.to_json(), 
-			   				international.to_json(), 
-			   				andorra.to_json()],
-			   	"updated": get_current_timestamp()
-			  }
+               "epg_url": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml",
+               "countries": [spain.to_json(),
+                             international.to_json(),
+                             andorra.to_json()],
+               "updated": get_current_timestamp()
+               }
 json_file = open('./public/output/channels.json', "w+")
 json_file.write(json.dumps(json_result, indent=4, sort_keys=False))
 json_file.close()

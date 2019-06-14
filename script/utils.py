@@ -1,5 +1,5 @@
-import re
 import calendar
+import re
 import time
 
 from channel import Channel
@@ -73,7 +73,7 @@ def get_tv_channels_from_part(text):
                 if "# GEO" in option:
                     more_info = ["GEO"]
                 else:
-                    more_info =[]
+                    more_info = []
                 channel.add_option(format, url, more_info)
         channel_list.append(channel)
     return channel_list
