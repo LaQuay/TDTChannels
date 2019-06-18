@@ -3,7 +3,7 @@
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
 
 ### Listas de reproducción
-*(Última actualización: 09/06/2019)*
+*(Última actualización: 18/06/2019)*
 
 | Media | Format | | | | |
 | -	| - | -	| -	| -	| -	|
