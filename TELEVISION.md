@@ -501,7 +501,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TEF | - | [web](https://teftv.com/la-tef-en-directe/) | [logo](http://graph.facebook.com/TEFTV/picture?width=320&height=320) | - | - |
+| TEF | [m3u8](http://server10.streaming-pro.com:1937/live/teftvlive/teftvlive/chunklist_w1911834351.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](http://graph.facebook.com/TEFTV/picture?width=320&height=320) | - | - |
 | Ibiza Global TV | [m3u8](http://server10.streaming-pro.com:1937/live/ibgtvlive/master.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](http://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320) | - | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | [logo](http://graph.facebook.com/LuxMallorca/picture?width=320&height=320) | - | - |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/master.m3u8) | [web](http://canal4televisio.com/canal-4-en-directo/) | [logo](http://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - | - |
