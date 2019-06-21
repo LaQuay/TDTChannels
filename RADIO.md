@@ -6,7 +6,7 @@
 | - | - | - | - | - |
 | Onda Cero | [stream](http://icecast-streaming.nice264.com/ondacero) | [web](https://www.ondacero.es/directo/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Europa FM | [stream](http://icecast-streaming.nice264.com/europafm) | [web](https://www.europafm.com/directo/) | [logo](http://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - |
-| Melodía FM | [stream](http://icecast-streaming.nice264.com/melodiafm) | [web](http://www.melodia-fm.com/directo/) | [logo](http://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - |
+| Melodía FM | [mp3](http://icecast-streaming.nice264.com/melodiafm?hash=.mp3) | [web](http://www.melodia-fm.com/directo/) | [logo](http://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - |
 | Radio Nacional | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](http://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 3 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](http://graph.facebook.com/radio3/picture?width=320&height=320) | - |
 | Radio 5 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](https://pbs.twimg.com/profile_images/1107968053491453952/k4W17qFC_400x400.png) | - |
