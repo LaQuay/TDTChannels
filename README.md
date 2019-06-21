@@ -9,15 +9,15 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | -	| - | -	| -	| -	| -	|
 | **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](http://91.121.64.179/tdt_project/output/channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/channels.m3u) | [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)	|
 | **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](http://91.121.64.179/tdt_project/output/radio_channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/radio_channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/radio_channels.m3u) | - |
+| **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml) | - | - | - |
 
 ### Herramientas
 | | Enlace |
 | -	| -	|
-| **Reproductor online** | [Reproductor web oficial](http://marcvila.me/tdt/) |
-| **Aplicación Android** | [Repositorio de la Aplicación Android oficial](https://github.com/LaQuay/TDTChannels-APP) |
+| **Reproductor online** | [Reproductor web](http://marcvila.me/tdt/) |
+| **Aplicación Android** | [Repositorio de la Aplicación Android](https://github.com/LaQuay/TDTChannels-APP) |
 | **Grupo en Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
 | **Canal de Avisos en Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
-| **EPG Oficial** | [EPG.TDTChannels](https://github.com/HelmerLuzo/TDTChannels_EPG) |
 
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
