@@ -46,9 +46,11 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Licencia del proyecto
+[LICENSE](https://github.com/LaQuay/TDTChannels/blob/master/LICENSE) 
+
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que se debe poder ver que la información que está utilizando procede de este repositorio. En el caso de _software_, la atribución debe ser visible explicitamente en el mismo.
 
-Únicamente está permitido enlazar directamente los enlaces que aparecen en la sección '*Descargar listados*' para uso particular.
+Únicamente está permitido enlazar directamente los enlaces que aparecen en la sección '*Listas de reproducción*' para uso particular.
 
 #### Ley de propiedad
 En este proyecto y en la web de reproducción **no** se almacena ningún *stream*, únicamente enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web o servicio público. Si posees los derechos de algún canal y deseas que lo retire, contáctame.
