@@ -55,6 +55,7 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Aplicaciones que consumen este repositorio
+- [TDTChannels-APP](https://github.com/LaQuay/TDTChannels-APP): Aplicación oficial del reposiorio. Gratuita, open source, sin anuncios. 
 - [SMARTDT](https://play.google.com/store/apps/details?id=com.smartdt): Aplicación gratuita, sin anuncios. 
 
 ### Licencia del proyecto
