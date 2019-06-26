@@ -30,6 +30,8 @@ En este apartado se incluyen las listas de los canales. Para **TV** y **Radio** 
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
+*06/2019* - [El Androide Libre - La mejor app para ver la tele en tu Android y la más actualizada](https://elandroidelibre.elespanol.com/2019/06/mejor-app-ver-tele-android-mas-actualizada-apk.html)
+
 *06/2019* - [El Androide Libre - Cómo ver la tele en tu Android utilizando listas IPTV](https://elandroidelibre.elespanol.com/2019/06/como-ver-tele-android-listas-iptv.html)
 
 *05/2019* - [El Androide Feliz - Servicios IPTV para ver la TV autonómica y local desde el móvil](https://elandroidefeliz.com/lista-servicios-iptv-para-ver-tv-autonomica-local-espanola/)
@@ -51,6 +53,9 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 *08/2018* - [Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
 
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
+
+### Aplicaciones que consumen este repositorio
+- [SMARTDT](https://play.google.com/store/apps/details?id=com.smartdt): Aplicación gratuita, sin anuncios. 
 
 ### Licencia del proyecto
 [LICENSE](https://github.com/LaQuay/TDTChannels/blob/master/LICENSE) 
