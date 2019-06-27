@@ -489,6 +489,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| Televigo | [m3u8](http://5.189.181.203:1935/gcm4/gcm4/playlist.m3u8) | [web](http://www.televigo.com/) | [logo](http://graph.facebook.com/televigo/picture?width=320&height=320) | - | - |
 | Auria Televisión | - | [web](http://www.auria.es/) | [logo](https://yt3.ggpht.com/a-/AAuE7mBbJ5XfzqqDgg1IkOk23GJ6JZntYZtYT-n1CA=s288-mo-c-c0xffffffff-rj-k-no) | - | - |
 | Via Televisión | - | [web](http://grupoviartv.blogspot.com/p/via-television-en-directo.html) | [logo](http://graph.facebook.com/ViaTelevision/picture?width=320&height=320) | - | - |
 | Telemiño | - | [web](http://www.teleminho.com/video/en-directo/emision-directo-telemino/20171121182242026296.html) | [logo](http://graph.facebook.com/teleminho/picture?width=320&height=320) | - | - |
@@ -497,7 +498,6 @@
 | Canal 26 TV Carballiño | - | [web](http://www.carballinotv.com/) | [logo](http://graph.facebook.com/carballinotv/picture?width=320&height=320) | - | - |
 | Canal Barbanza | - | [web](http://www.canalbarbanza.com/WCBar/) | [logo](http://graph.facebook.com/CanalBarbanza/picture?width=320&height=320) | - | - |
 | Nós TV | - | [web](https://nostelevision.gal/) | [logo](http://graph.facebook.com/NosTelevision/picture?width=320&height=320) | - | - |
-| Televigo | - | [web](http://www.televigo.com/contenido_web/index.html) | [logo](http://graph.facebook.com/televigo/picture?width=320&height=320) | - | - |
 
 ### Islas Baleares
 
