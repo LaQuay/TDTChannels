@@ -23,6 +23,7 @@ En este apartado se incluyen las listas de los canales. Para **TV** y **Radio** 
 | -	| -	|
 | **Reproductor online** | [Reproductor web](http://marcvila.me/tdt/) |
 | **Aplicación Android** | [Repositorio de la Aplicación Android](https://github.com/LaQuay/TDTChannels-APP) |
+| **Aplicación iOS** | [Beta en TestFlight](https://testflight.apple.com/join/Vub5KWM1) |
 | **Grupo en Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
 | **Canal de Avisos en Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
 
