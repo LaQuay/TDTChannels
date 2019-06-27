@@ -447,6 +447,7 @@
 | Canal 10 Empordà | [m3u8](http://ventdelnord.tv:8080/escala/directe.m3u8) | [web](http://www.canal10.cat/endirecte) | [logo](http://graph.facebook.com/canal10emporda/picture?width=320&height=320) | - | - |
 | Televisió de Cardedeu | [m3u8](https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8) | [web](https://www.rtvc.cat/tele/) | [logo](http://graph.facebook.com/TelevisioCardedeu/picture?width=320&height=320) | - | - |
 | Olot Televisió | [m3u8](https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8) | [web](https://www.olot.tv/olot-televisio-en-directe/) | [logo](http://graph.facebook.com/olotelevisio/picture?width=320&height=320) | - | - |
+| Cugat TV | [m3u8](https://liveingesta360.cdnmedia.tv/cugatcatlive/smil:live.smil/playlist.m3u8) | [web](http://www.cugat.cat/tv/directe) | [logo](http://graph.facebook.com/cugat.cat/picture?width=320&height=320) | - | - |
 | TV Hospitalet | - | [web](https://lhdigital.cat/web/digital-h/televisio) | [logo](http://graph.facebook.com/lhdigital/picture?width=320&height=320) | - | - |
 | Gavà Televisió | - | [web](http://www.gavatv.cat/) | [logo](http://graph.facebook.com/gavatv/picture?width=320&height=320) | - | - |
 | TV10 | [m3u8](https://liveingesta360.cdnmedia.tv/tvstestevelive/smil:tv10.smil/playlist.m3u8) | [web](https://rtv10.alacarta.cat/) | [logo](http://graph.facebook.com/TV10TelevisionMongolia/picture?width=320&height=320) | - | - |
