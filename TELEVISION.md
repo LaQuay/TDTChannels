@@ -532,7 +532,6 @@
 | Pride Channel | [m3u8](http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8) | [web](http://www.pridechanneltv.com/tv-en-directo.html) | [logo](http://graph.facebook.com/PrideChannelTV/picture?width=320&height=320) | - | - |
 | Canal 11 TV | [m3u8](http://178.132.6.97/11Madrid/index.m3u8) | [web](http://canal11tv.es/) | [logo](http://canal11tv.es/wp-content/uploads/cropped-logo-1-270x270.png) | - | - |
 | Tele-K | - | [web](http://tele-k.org) | [logo](http://graph.facebook.com/Tele.K.org/picture?width=320&height=320) | - | - |
-| 5 Madrid | [m3u8](https://livelist01.yowi.tv/lista/137719ca69478839fed9868a52e5969e03ccae6b/master.m3u8) | [web](https://yowi.tv/browser/live) | [logo](http://www.espai.jazztel.es/images/5madrid.png) | - | - |
 
 ### Melilla
 
