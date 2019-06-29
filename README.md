@@ -23,7 +23,6 @@ En este apartado se incluyen las listas de los canales. Para **TV** y **Radio** 
 | -	| -	|
 | **Reproductor online** | [Reproductor web](http://marcvila.me/tdt/) |
 | **Aplicación Android** | [Repositorio de la Aplicación Android](https://github.com/LaQuay/TDTChannels-APP) |
-| **Aplicación iOS** | [Beta en TestFlight](https://testflight.apple.com/join/Vub5KWM1) |
 | **Grupo en Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
 | **Canal de Avisos en Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
 
@@ -56,8 +55,9 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Aplicaciones que consumen este repositorio
-- [TDTChannels-APP](https://github.com/LaQuay/TDTChannels-APP): Aplicación oficial del reposiorio. Gratuita, open source, sin anuncios. 
-- [SMARTDT](https://play.google.com/store/apps/details?id=com.smartdt): Aplicación gratuita, sin anuncios. 
+- [TDTChannels-APP](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del reposiorio. Gratuita, open source, sin anuncios. 
+- [tvRadio ES](https://testflight.apple.com/join/Vub5KWM1): Aplicación iOS. Gratuita, sin anuncios.
+- [SMARTDT](https://play.google.com/store/apps/details?id=com.smartdt): Aplicación Android. Gratuita, sin anuncios. 
 
 ### Licencia del proyecto
 [LICENSE](https://github.com/LaQuay/TDTChannels/blob/master/LICENSE) 
