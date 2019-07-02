@@ -64,7 +64,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Disney Channel | [m3u8](http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/.m3u8) | [web](http://tv.disney.es/disney-channel) | [logo](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d1/91/44/d19144d8-3725-6a09-3f4e-ab72a89a850c/source/320x320bb.jpg) | Disney.TDTChannelsEPG | - |
+| Disney Channel | [m3u8](http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8) | [web](http://tv.disney.es/disney-channel) | [logo](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d1/91/44/d19144d8-3725-6a09-3f4e-ab72a89a850c/source/320x320bb.jpg) | Disney.TDTChannelsEPG | - |
 | Boing | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/boing) | [logo](http://graph.facebook.com/boinges/picture?width=320&height=320) | Boing.TDTChannelsEPG | - |
 | Boing HD | [m3u8](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) | [web](http://www.mitele.es/directo/boing) | [logo](http://graph.facebook.com/boinges/picture?width=320&height=320) | Boing.TDTChannelsEPG | - |
 | Clan | - | [web](http://www.rtve.es/infantil/) | [logo](http://graph.facebook.com/clantve/picture?width=320&height=320) | - | - |
