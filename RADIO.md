@@ -23,7 +23,7 @@
 | Radiolé | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3) | [web](https://play.radiole.com/) | [logo](http://graph.facebook.com/radiole/picture?width=320&height=320) | - |
 | Cadena 100 | [mp3 # 1](http://195.55.74.203/cope/cadena100.mp3) - [mp3 # 2](http://cadena100-streamers-mp3-low.flumotion.com/cope/cadena100-low.mp3) | [web](http://www.cadena100.es/) | [logo](http://graph.facebook.com/CADENA100/picture?width=320&height=320) | - |
 | Cadena COPE | [mp3](https://flucast-m04-06.flumotion.com/cope/net1.mp3) | [web](https://www.cope.es/directos/net1) | [logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - |
-| MegaStar FM | [mp3](http://195.10.10.223/cope/megastar.mp3) | [web](http://www.megastar.fm/) | [logo](http://graph.facebook.com/MegaStarFM/picture?width=320&height=320) | - |
+| MegaStar FM | [m3u8](https://megastar-cope.flumotion.com/playlist.m3u8) | [web](http://www.megastar.fm/) | [logo](http://graph.facebook.com/MegaStarFM/picture?width=320&height=320) | - |
 | Rock FM | [m3u8](https://rockfm-cope.flumotion.com/playlist.m3u8) | [web](http://player.rockfm.fm/) | [logo](http://graph.facebook.com/RockFM/picture?width=320&height=320) | - |
 | Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | [logo](http://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
 | Hit FM | [m3u](http://streams.kissfmradio.cires21.com/hitfm.m3u) | [web](http://www.hitfm.es/) | [logo](http://graph.facebook.com/hitfm.es/picture?width=320&height=320) | - |
