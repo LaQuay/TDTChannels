@@ -48,7 +48,7 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | Canal Sur Radio | [mp3](http://195.10.10.206/rtva/canalsurradio_sevilla.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_csr) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
-| Canal Fiesta Radio | [mp3](http://195.55.74.204/rtva/canalfiestaradio_master.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_fiesta) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
+| Canal Fiesta Radio | [mp3](http://195.55.74.203/rtva/canalfiestaradio_master.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_fiesta) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
 | Flamenco Radio | [mp3](http://195.55.74.203/rtva/canalflamenco.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_flamenco) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
 | Radio Andalucía Información | [mp3](http://195.10.10.206/rtva/radioandalucia.mp3) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_rai) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
 
