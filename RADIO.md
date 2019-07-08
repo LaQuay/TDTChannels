@@ -56,9 +56,9 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Aragón Radio (Zaragoza) | [m3u8](http://195.10.10.201/zaragoza/live-web/playlist.m3u8) | [web](http://www.aragonradio.es/) | [logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
-| Aragón Radio (Huesca) | [m3u8](http://195.55.74.204/huesca/live-web/playlist.m3u8) | [web](http://www.aragonradio.es/) | [logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
-| Aragón Radio (Teruel) | [m3u8](http://195.55.74.208/teruel/live-web/playlist.m3u8) | [web](http://www.aragonradio.es/) | [logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
+| Aragón Radio (Zaragoza) | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8) | [web](http://www.aragonradio.es/) | [logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
+| Aragón Radio (Huesca) | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_huesca.m3u8) | [web](http://www.aragonradio.es/) | [logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
+| Aragón Radio (Teruel) | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_teruel.m3u8) | [web](http://www.aragonradio.es/) | [logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
 
 ### Asturias
 
