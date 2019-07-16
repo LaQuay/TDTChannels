@@ -30,7 +30,7 @@ En este apartado se incluyen las listas de los canales. Para **TV** y **Radio** 
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
-*06/2019/ - [Cómo ver los canales de televisión de la TDT en un móvil Android usando TDT Channels](https://www.xatakandroid.com/aplicaciones-android/como-ver-canales-television-tdt-movil-usando-tdt-channels)
+*06/2019* - [Cómo ver los canales de televisión de la TDT en un móvil Android usando TDT Channels](https://www.xatakandroid.com/aplicaciones-android/como-ver-canales-television-tdt-movil-usando-tdt-channels)
 
 *06/2019* - [El Androide Libre - La mejor app para ver la tele en tu Android y la más actualizada](https://elandroidelibre.elespanol.com/2019/06/mejor-app-ver-tele-android-mas-actualizada-apk.html)
 
