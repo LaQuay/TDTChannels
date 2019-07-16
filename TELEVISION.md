@@ -362,7 +362,6 @@
 | Lancelot TV | [m3u8](http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8) | [web](http://www.lancelot.tv/directo) | [logo](http://graph.facebook.com/288850935035196/picture?width=320&height=320) | - | - |
 | Canal 4 Tenerife | [m3u8](https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8) | [web](http://www.canal4tenerife.tv/) | [logo](http://graph.facebook.com/CANAL4TENERIFE/picture?width=320&height=320) | - | - |
 | Canal 4 TV | - | [web](https://canal4tvtelde.es/en-directo) | [logo](http://graph.facebook.com/canal4tvtelde/picture?width=320&height=320) | - | - |
-| Biosfera TV | - | [web](http://www.biosferatv.es/) | [logo](http://graph.facebook.com/biosferatelevision/picture?width=320&height=320) | - | - |
 | Este Canal TV | - | [web](https://livestream.com/estecanaltv/events/7051352) | [logo](http://graph.facebook.com/estecanaltv/picture?width=320&height=320) | - | - |
 | Canal 13 Digital | [m3u8](http://212.40.234.65/live/canal13/playlist.m3u8) | [web](https://rtvos5.wixsite.com/canal13) | [logo](http://graph.facebook.com/RTVCANAL13/picture?width=320&height=320) | - | - |
 | Gigante TV | [m3u8](http://85.214.130.95:8080/live/stream.m3u8) | [web](http://gigantetv.es/) | [logo](http://graph.facebook.com/741011612731578/picture?width=320&height=320) | - | - |
@@ -447,7 +446,7 @@
 | Canal 10 Empordà | [m3u8](http://ventdelnord.tv:8080/escala/directe.m3u8) | [web](http://www.canal10.cat/endirecte) | [logo](http://graph.facebook.com/canal10emporda/picture?width=320&height=320) | - | - |
 | Televisió de Cardedeu | [m3u8](https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8) | [web](https://www.rtvc.cat/tele/) | [logo](http://graph.facebook.com/TelevisioCardedeu/picture?width=320&height=320) | - | - |
 | Olot Televisió | [m3u8](https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8) | [web](https://www.olot.tv/olot-televisio-en-directe/) | [logo](http://graph.facebook.com/olotelevisio/picture?width=320&height=320) | - | - |
-| Cugat TV | [m3u8](https://liveingesta360.cdnmedia.tv/cugatcatlive/smil:live.smil/playlist.m3u8) | [web](http://www.cugat.cat/tv/directe) | [logo](http://graph.facebook.com/cugat.cat/picture?width=320&height=320) | - | - |
+| Cugat TV | [m3u8](https://liveingesta360.cdnmedia.tv/cugatcatlive/smil:live.smil/playlist.m3u8) | [web](http://www.cugat.cat/tv/directe) | [logo](http://graph.facebook.com/cugatmedia/picture?width=320&height=320) | - | - |
 | TV Hospitalet | - | [web](https://lhdigital.cat/web/digital-h/televisio) | [logo](http://graph.facebook.com/lhdigital/picture?width=320&height=320) | - | - |
 | Gavà Televisió | - | [web](http://www.gavatv.cat/) | [logo](http://graph.facebook.com/gavatv/picture?width=320&height=320) | - | - |
 | TV10 | [m3u8](https://liveingesta360.cdnmedia.tv/tvstestevelive/smil:tv10.smil/playlist.m3u8) | [web](https://rtv10.alacarta.cat/) | [logo](http://graph.facebook.com/TV10TelevisionMongolia/picture?width=320&height=320) | - | - |
@@ -552,7 +551,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TeleRibera | [m3u8](http://37.187.7.106/teleribera/live.m3u8) | [web](http://www.teleribera.com/) | [logo](http://graph.facebook.com/estaestutelevision/picture?width=320&height=320) | - | - |
+| TeleRibera | [m3u8](http://37.187.7.106/teleribera/live.m3u8) | [web](http://www.teleribera.com/) | [logo](https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg) | - | - |
 | Xaloa Telebista | - | [web](https://xaloatelebista.eus/zuzenean/) | [logo](http://graph.facebook.com/Xaloatb/picture?width=320&height=320) | - | - |
 | Zona Media TV | - | [web](https://www.zonamediatv.com/videos-2/hemeroteca/) | [logo](http://graph.facebook.com/ZonaMediaTelevision/picture?width=320&height=320) | - | - |
 
