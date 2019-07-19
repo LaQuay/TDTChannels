@@ -50,7 +50,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Teledeporte HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) | [web](http://www.rtve.es/directo/teledeporte/) | [logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDP.TDTChannelsEPG | - |
+| Teledeporte HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) | [web](http://www.rtve.es/directo/teledeporte/) | [logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDP.TDTChannelsEPG | GEO |
 | +tdp | [m3u8 # 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve17_lv3_aosv4_gl1/irtve17_lv3_aosv4_gl1.isml/master.m3u8) - [m3u8 # 2](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve18_lv3_aosv4_gl1/irtve18_lv3_aosv4_gl1.isml/master.m3u8) - [m3u8 # 3](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve19_lv3_aosv4_gl0/irtve19_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 4](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins4_lv3_aosv4_gl0/ins4_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 5](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve20_lv3_aosv4_gl1/irtve20_lv3_aosv4_gl1.isml/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | [logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | - | - |
 | GOL HD | - | [web](http://www.goltelevision.com/live) | [logo](http://graph.facebook.com/goltv.es/picture?width=320&height=320) | GOL.TDTChannelsEPG | - |
 | RealMadrid TV | [m3u8](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | [logo](http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320) | RMTV.TDTChannelsEPG | - |
@@ -405,7 +405,7 @@
 | - | - | - | - | - | - |
 | Telemedina Canal 9 | - | [web](http://www.telemedina.com/) | [logo](http://graph.facebook.com/telemedinacanal9/picture?width=320&height=320) | - | - |
 | Canal 54 Burgos | - | [web](http://www.canal54.es/emision-en-directo/) | [logo](http://graph.facebook.com/Canal54Burgos/picture?width=320&height=320) | - | - |
-| TV Benavente | - | [web](http://www.tvbenavente.es/television-online/) | [logo](http://graph.facebook.com/benaventetv/picture?width=320&height=320) | Benavente.TDTChannelsEPG | - |
+| TV Benavente HD | - | [web](http://www.tvbenavente.es/television-online/) | [logo](http://graph.facebook.com/benaventetv/picture?width=320&height=320) | Benavente.TDTChannelsEPG | - |
 | Telearanda | [m3u8](https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8) | [web](http://www.telearanda.es/) | [logo](http://graph.facebook.com/575943555801687/picture?width=320&height=320) | - | - |
 | ViveMiranda Televisión | - | [web](https://www.vivemiranda.com/television/) | [logo](http://graph.facebook.com/vivemirandacom/picture?width=320&height=320) | - | - |
 
