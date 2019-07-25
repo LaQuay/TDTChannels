@@ -358,7 +358,6 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| El Día TV | [m3u8](http://vs8.live.opencaster.com/opencaster/zmyrfjHztaoj/playlist.m3u8) | [web](http://eldia.tv/) | [logo](http://graph.facebook.com/eldiatelevision/picture?width=320&height=320) | - | - |
 | Tindaya TV | [m3u8](https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live.smil/master.m3u8) | [web](https://www.tindayatv.com/) | [logo](http://graph.facebook.com/TindayaTV/picture?width=320&height=320) | - | - |
 | Lancelot TV | [m3u8](http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8) | [web](http://www.lancelot.tv/directo) | [logo](http://graph.facebook.com/288850935035196/picture?width=320&height=320) | - | - |
 | Canal 4 Tenerife | [m3u8](https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8) | [web](http://www.canal4tenerife.tv/) | [logo](http://graph.facebook.com/CANAL4TENERIFE/picture?width=320&height=320) | - | - |
