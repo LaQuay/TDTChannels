@@ -59,6 +59,7 @@
 | Aragón Radio (Zaragoza) | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8) | [web](http://www.aragonradio.es/) | [logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
 | Aragón Radio (Huesca) | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_huesca.m3u8) | [web](http://www.aragonradio.es/) | [logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
 | Aragón Radio (Teruel) | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_teruel.m3u8) | [web](http://www.aragonradio.es/) | [logo](http://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
+| Radio Zaragoza | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3) | [web](https://play.cadenaser.com/emisora/radio_zaragoza/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 
 ### Asturias
 
