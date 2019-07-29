@@ -495,6 +495,8 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | Pioneer DJ Radio | [stream](http://listen.pioneerdjradio.com:8550/stream) | [web](https://pioneerdjradio.com) | [logo](http://graph.facebook.com/pioneerdjradio/picture?width=320&height=320) | - |
+| CodeRadio | [mp3](https://coderadio-admin.freecodecamp.org/radio/8010/low.mp3) | [web](https://coderadio.freecodecamp.org/) | [logo](https://s3.amazonaws.com/freecodecamp/favicons/android-chrome-144x144.png) | - |
+
 
 ### Andorra
 
