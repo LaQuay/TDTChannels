@@ -374,6 +374,7 @@
 | Tenerife 2030 TV HD | [m3u8](http://livestream.iter.es:9876/tdt/tdt.m3u8) | [web](http://www.tenerife2030tv.es/) | [logo](http://graph.facebook.com/876348079083751/picture?width=320&height=320) | - | - |
 | Noroeste Televisión | [m3u8](https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8) | [web](http://www.noroestetv.es/) | [logo](http://graph.facebook.com/noroestetelevision/picture?width=320&height=320) | - | - |
 | Canal 11 Televisión | - | [web](http://www.canal11lapalma.net/miranos.html) | [logo](http://graph.facebook.com/189726651071598/picture?width=320&height=320) | - | - |
+| NORTEvisión | [m3u8](http://ad.mysisli.com/live/aljoamy/tracks-v1a1/mono.m3u8) | [web](http://nortevision.es/directo/) | [logo](http://graph.facebook.com/aljoamyvisual/picture?width=320&height=320) | - | - |
 
 ### Cantabria
 
@@ -505,7 +506,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TEF | [m3u8](http://server10.streaming-pro.com:1937/live/teftvlive/teftvlive/master.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](http://graph.facebook.com/TEFTV/picture?width=320&height=320) | - | - |
+| TEF | [m3u8](http://server10.streaming-pro.com:1937/live/teftvlive/teftvlive/chunklist_w1986194974.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](http://graph.facebook.com/TEFTV/picture?width=320&height=320) | - | - |
 | Ibiza Global TV | [m3u8](http://server10.streaming-pro.com:1937/live/ibgtvlive/master.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](http://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320) | - | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | [logo](http://graph.facebook.com/LuxMallorca/picture?width=320&height=320) | - | - |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/master.m3u8) | [web](http://canal4televisio.com/canal-4-en-directo/) | [logo](http://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - | - |
