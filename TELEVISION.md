@@ -52,8 +52,6 @@
 | - | - | - | - | - | - |
 | Teledeporte HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) | [web](http://www.rtve.es/directo/teledeporte/) | [logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDP.TDTChannelsEPG | GEO |
 | +tdp | [m3u8 # 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve17_lv3_aosv4_gl1/irtve17_lv3_aosv4_gl1.isml/master.m3u8) - [m3u8 # 2](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve18_lv3_aosv4_gl1/irtve18_lv3_aosv4_gl1.isml/master.m3u8) - [m3u8 # 3](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve19_lv3_aosv4_gl0/irtve19_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 4](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins4_lv3_aosv4_gl0/ins4_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 5](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve20_lv3_aosv4_gl1/irtve20_lv3_aosv4_gl1.isml/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | [logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | - | - |
-| Mundobasket | [m3u8 # 1](https://mdslivehlsb-i.akamaihd.net/hls/live/623619/live01/bitrate_2.m3u8) - [m3u8 # 2](https://mdslivehlsb-i.akamaihd.net/hls/live/623620/live02/bitrate_2.m3u8) - [m3u8 # 3](https://mdslivehlsb-i.akamaihd.net/hls/live/623621/live03/bitrate_2.m3u8) | [web # 1](https://www.mitele.es/directo/basket-mitele/) - [web # 2](https://www.mitele.es/directo/basket-mitele-1/) - [web # 3](https://www.mitele.es/directo/basket-mitele-2/) | [logo](http://graph.facebook.com/FIBAWC/picture?width=320&height=320) | - | REPRO,CODEC |
-| Mundobasket HD | [m3u8 # 1](https://mdslivehlsb-i.akamaihd.net/hls/live/623619/live01/bitrate_4.m3u8) - [m3u8 # 2](https://mdslivehlsb-i.akamaihd.net/hls/live/623620/live02/bitrate_4.m3u8) - [m3u8 # 3](https://mdslivehlsb-i.akamaihd.net/hls/live/623621/live03/bitrate_4.m3u8) | [web # 1](https://www.mitele.es/directo/basket-mitele/) - [web # 2](https://www.mitele.es/directo/basket-mitele-1/) - [web # 3](https://www.mitele.es/directo/basket-mitele-2/) | [logo](http://graph.facebook.com/FIBAWC/picture?width=320&height=320) | - | REPRO,CODEC |
 | GOL HD | [m3u8](https://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?hash=d42cf517e574d2610e20e9aa36f0848a&laq=hel&taker=01webgol&source=c0f4e15f46013aefc0bf596fb1834129&token=07ff62474099dafd9ca494998d852e00) | [web](http://www.goltelevision.com/live) | [logo](http://graph.facebook.com/goltv.es/picture?width=320&height=320) | GOL.TDTChannelsEPG | - |
 | RealMadrid TV | [m3u8](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | [logo](http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320) | RMTV.TDTChannelsEPG | - |
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es/) | [logo](http://graph.facebook.com/fcbarcelona/picture?width=320&height=320) | - | - |
@@ -95,9 +93,9 @@
 | - | - | - | - | - | - |
 | Canal Sur Andalucía HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8?.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | CanalsurA.TDTChannelsEPG | - |
 | Canal Andalucia Turismo | [m3u8](https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8) | [web](http://canalandaluciaturismo.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
-| Canal Andalucia Flamenco | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| Canal Andalucia Flamenco | - | [web](http://canalandaluciaflamenco.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Andalucia Cocina HD | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
-| Canal Sur La Banda | [m3u8](https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8) | [web](http://labanda.canalsur.es/) | [logo](http://graph.facebook.com/LaBandaClub/picture?width=320&height=320) | - | - |
+| Canal Sur La Banda | - | [web](http://labanda.canalsur.es/) | [logo](http://graph.facebook.com/LaBandaClub/picture?width=320&height=320) | - | - |
 | Canal Sur Eventos 1 HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/playlist.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Sur Eventos 2 HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_02/playlist.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | 7TV Andalucía | - | [web](https://7tvandalucia.es/portada/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
@@ -122,7 +120,7 @@
 | - | - | - | - | - | - |
 | Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](http://graph.facebook.com/RadioTelevisionCanaria/picture?width=320&height=320) | Canarias.TDTChannelsEPG | - |
 | Mírame TV | [m3u8](https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8) | [web](https://mirametv.com/) | [logo](http://graph.facebook.com/MirameTVCanarias/picture?width=320&height=320) | MirameTV.TDTChannelsEPG | - |
-| Loca TV | [m3u8](https://5790d294af2dc.streamlock.net:443/8022/8022/playlist.m3u8) | [web](http://locatv.es/) | [logo](http://graph.facebook.com/701434753589363/picture?width=320&height=320) | - | - |
+| Loca TV | - | [web](http://locatv.es/) | [logo](http://graph.facebook.com/701434753589363/picture?width=320&height=320) | - | - |
 
 ### Cantabria
 
@@ -142,7 +140,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | La 7 HD | [m3u8](http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8) | [web](https://www.rtvcyl.es/DirectoCylTV) | [logo](http://graph.facebook.com/rtvcyl/picture?width=320&height=320) | La7.TDTChannelsEPG | - |
-| La 8 | - | [web](https://www.rtvcyl.es/DirectoCylTV) | [logo](http://graph.facebook.com/rtvcyl/picture?width=320&height=320) | - | - |
+| La 8 | - | [web](https://www.rtvcyl.es/La8EnTuProvincia) | [logo](http://graph.facebook.com/rtvcyl/picture?width=320&height=320) | - | - |
 
 ### Cataluña
 
@@ -199,14 +197,14 @@
 | - | - | - | - | - | - |
 | IB3 | - | [web](http://ib3tv.com/directe) | [logo](http://graph.facebook.com/IB3org/picture?width=320&height=320) | IB3.TDTChannelsEPG | - |
 | Bon Dia TV | [m3u8 # GEO](https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:bnd_web/master_DVR.m3u8) - [m3u8 # GEO CAT](https://ccma-tva-cat-cellnex-live-hls.secure.footprint.net/cat/ngrp:bnd_web/master_DVR.m3u8) - [m3u8](https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master_DVR.m3u8) | [web](https://ib3.org/directe?c=bondia) | [logo](https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png) | BonDiaTV_IB.TDTChannelsEPG | - |
-| Fibwi HD | [m3u8](http://178.132.6.97/fibwiLIVE1/playlist.m3u8) | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
+| Fibwi HD | - | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
 
 ### La Rioja
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | [logo](http://graph.facebook.com/tvrtelevision/picture?width=320&height=320) | TVR.TDTChannelsEPG | - |
-| Popular TV La Rioja | - | [web](http://www.populartvlarioja.com/directo/) | [logo](http://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - | - |
+| Popular TV La Rioja | [m3u8](https://live.vimeocdn.com/1569168790-0x88a43c7fe857571fea5dfd352188bc530b0dbcf7/f2c828c5-ea64-49bc-90bd-fd266f2bc4de/chunklist_b416000.m3u8) | [web](http://www.populartvlarioja.com/directo/) | [logo](http://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - | - |
 
 ### Madrid
 
@@ -246,8 +244,6 @@
 | - | - | - | - | - | - |
 | ETB 1 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETB1.TDTChannelsEPG | - |
 | ETB 2 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETB2.TDTChannelsEPG | - |
-| ETB 3 | - | [web](https://www.eitb.eus/es/television/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | - | - |
-| ETB 4 | - | [web](https://www.eitb.eus/es/television/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | - | - |
 | ETB Deportes | [m3u8](https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETBD.TDTChannelsEPG | - |
 
 ### Valencia
