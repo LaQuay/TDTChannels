@@ -33,6 +33,8 @@
 | playz HD | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/playz/directo/) | [logo](http://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
 | Público TV | - | [web](https://www.publico.es/videos/tag/streaming) | [logo](http://graph.facebook.com/diario.publico/picture?width=320&height=320) | - | - |
 | El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | ElToroTV.TDTChannelsEPG | - |
+| Gran Hermano | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_1.m3u8) | [web](https://www.telecinco.es/granhermanovip/) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
+| Gran Hermano HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8) | [web](https://www.telecinco.es/granhermanovip/) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
 
 ## Informativos
 
