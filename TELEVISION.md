@@ -220,7 +220,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Melilla TV HD | [m3u8](http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/live_source/playlist.m3u8) | [web](http://inmusa.es/directo/) | [logo](http://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320) | MelillaTV.TDTChannelsEPG | - |
+| Melilla TV HD | [m3u8](https://tvmelilla-hls-rm-lw.flumotion.com/chunklist_b2112000.m3u8) | [web](http://inmusa.es/directo/) | [logo](http://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320) | MelillaTV.TDTChannelsEPG | - |
 | Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/8009/master.m3u8) | [web](https://populartvmelilla.es/tv-online/) | [logo](http://graph.facebook.com/populartvml/picture?width=320&height=320) | - | - |
 | El Faro | [m3u8](https://livelist01.yowi.tv/lista/f086a6f43eb34591ebf89d42497a144413d0782d/master.m3u8) | [web](https://farotv.es/) | [logo](http://graph.facebook.com/ElFarodeMelilla/picture?width=320&height=320) | - | - |
 
