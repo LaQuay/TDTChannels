@@ -35,6 +35,8 @@
 | El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | ElToroTV.TDTChannelsEPG | - |
 | Gran Hermano | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_1.m3u8) | [web](https://www.telecinco.es/granhermanovip/) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
 | Gran Hermano HD | [m3u8](https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8) | [web](https://www.telecinco.es/granhermanovip/) | [logo](http://graph.facebook.com/granhermano/picture?width=320&height=320) | - | - |
+| La Voz 24H HD | [m3u8](https://pull12.atresmedia.com/lavoz/master.m3u8) | [web](https://www.antena3.com/programas/la-voz/) | [logo](http://graph.facebook.com/LaVozAntena3/picture?width=320&height=320) | - | - |
+
 
 ## Informativos
 
