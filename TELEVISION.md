@@ -255,7 +255,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | À Punt HD | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae.m3u8) | [web](https://apuntmedia.es/va/directe/tv) | [logo](http://graph.facebook.com/apuntmedia/picture?width=320&height=320) | APUNT.TDTChannelsEPG | - |
-| Webcam Notícies del Matí | - | [web](https://apuntmedia.es/va/directe/les-noticies-del-mati) | [logo](http://graph.facebook.com/apuntmedia/picture?width=320&height=320) | - | - |
+| À Punt (Emissió Web) | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/41dW5paTE6HYfN_ejwZuDUv5alUkrfUr/cs/1a2630c94d394d72a84169eaf765be89.m3u8) | [web](https://apuntmedia.es/va/directe/les-noticies-del-mati) | [logo](http://graph.facebook.com/apuntmedia/picture?width=320&height=320) | - | - |
 | La 8 Mediterráneo HD | [m3u8](https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8) | [web](http://www.laocho.tv/es/directo/) | [logo](http://graph.facebook.com/LaOcho.tv/picture?width=320&height=320) | 8M.TDTChannelsEPG | - |
 
 ## Locales
@@ -630,7 +630,7 @@
 | franceinfo: | - | [web](https://www.francetvinfo.fr/en-direct/tv.html) | [logo](http://graph.facebook.com/franceinfo/picture?width=320&height=320) | - | - |
 | Euronews | - | [web](https://es.euronews.com/live) | [logo](http://graph.facebook.com/es.euronews/picture?width=320&height=320) | - | - |
 | ABC News HD | [m3u8](http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8) | [web](https://abcnews.go.com/Live/) | [logo](http://graph.facebook.com/ABCNews/picture?width=320&height=320) | - | - |
-| France 24 | [m3u8](http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8) - [m3u8 # Inglés](http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) | [web](https://www.france24.com/en/live) | [logo](http://graph.facebook.com/FRANCE24/picture?width=320&height=320) | - | - |
+| France 24 | [m3u8](http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8) - [m3u8 # Francés](http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8) - [m3u8 # Inglés](http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) - [m3u8 # Árabe](http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8) | [web](https://www.france24.com/en/live) | [logo](http://graph.facebook.com/FRANCE24/picture?width=320&height=320) | - | - |
 | CBS News HD | [m3u8](http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | [logo](http://graph.facebook.com/CBSNews/picture?width=320&height=320) | - | - |
 | CNN | - | [web](https://www.youtube.com/watch?v=OSVmblr0tP0) | [logo](http://graph.facebook.com/CNNee/picture?width=320&height=320) | - | - |
 | Bloomberg Europe HD | [m3u8](https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8) | [web](https://www.bloomberg.com/live/europe) | [logo](http://graph.facebook.com/bloombergbusiness/picture?width=320&height=320) | - | - |
