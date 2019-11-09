@@ -95,11 +95,10 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Catalunya Ràdio | [m3u8](https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:catradio/playlist_DVR.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-radio/) | [logo](http://graph.facebook.com/catradio/picture?width=320&height=320) | - |
-| Catalunya Informació | [m3u8](https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:catinform/playlist_DVR.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-informacio/) | [logo](https://pbs.twimg.com/profile_images/899576741819232256/lV41m8zq_400x400.jpg) | - |
-| Cat Música | [m3u8](https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:catmusica/playlist_DVR.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catmusica/) | [logo](http://graph.facebook.com/catmusica/picture?width=320&height=320) | - |
-| Cat Clàssica | [m3u8](https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:catclassica/playlist_DVR.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catclassica/) | [logo](http://graph.facebook.com/catmusica/picture?width=320&height=320) | - |
-| iCat | [aac](https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:icatfm/media-udrzgig6o_DVR_13792448.aac) - [m3u8](https://ccma-radioa-int-abertis-live-hls.secure.footprint.net/int/mp4:icatfm/playlist_DVR.m3u8) | [web](https://www.ccma.cat/catradio/directe/icat/) | [logo](http://graph.facebook.com/icatpuntcat/picture?width=320&height=320) | - |
+| Catalunya Ràdio | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-radio/) | [logo](http://graph.facebook.com/catradio/picture?width=320&height=320) | - |
+| Catalunya Informació | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-informacio/) | [logo](https://pbs.twimg.com/profile_images/899576741819232256/lV41m8zq_400x400.jpg) | - |
+| Cat Música | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catmusica/) | [logo](http://graph.facebook.com/catmusica/picture?width=320&height=320) | - |
+| iCat | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:icatfm/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe/icat/) | [logo](http://graph.facebook.com/icatpuntcat/picture?width=320&height=320) | - |
 | Cadena SER Catalunya | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CAT.mp3) | [web](https://play.cadenaser.com/emisora/sercat/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | LOS40 Catalunya | [mp3](https://20073.live.streamtheworld.com/LOS40_CAT.mp3) | [web](https://play.los40.com/emisora/los40_catalunya/) | [logo](http://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | RAC1 | [nsv](http://rac1.radiocat.net/;*.nsv) | [web](https://www.rac1.cat) | [logo](http://graph.facebook.com/rac1oficial/picture?width=320&height=320) | - |
