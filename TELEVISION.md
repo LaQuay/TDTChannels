@@ -246,8 +246,9 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| ETB 1 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETB1.TDTChannelsEPG | - |
-| ETB 2 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETB2.TDTChannelsEPG | - |
+| ETB 1 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8?sd=8&rebase=on) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETB1.TDTChannelsEPG | - |
+| ETB 2 HD | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8?sd=8&rebase=on
+) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETB2.TDTChannelsEPG | - |
 | ETB Deportes | [m3u8](https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](http://graph.facebook.com/eitb/picture?width=320&height=320) | ETBD.TDTChannelsEPG | - |
 
 ### Valencia
