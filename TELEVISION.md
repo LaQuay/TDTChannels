@@ -266,7 +266,7 @@
 | 101TV Málaga | [m3u8](http://secure.todostreaming.es/live/101tv-web101tv.m3u8) | [web](http://www.101tv.es/directo.aspx) | [logo](http://graph.facebook.com/101tvmalaga/picture?width=320&height=320) | - | - |
 | Onda Cádiz | [m3u8](http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8) | [web](http://tv.ocadizdigital.es/tv/directo) | [logo](http://graph.facebook.com/ondacadiz/picture?width=320&height=320) | OndaCadiz.TDTChannelsEPG | - |
 | 8 Cádiz | [m3u8](https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8) | [web](http://www.8cadiz.es/directo/) | [logo](http://graph.facebook.com/8tvcadiz/picture?width=320&height=320) | - | - |
-| 8 La Janda | - | [web](https://www.youtube.com/user/8lajanda/live) | [logo](http://graph.facebook.com/8lajanda/picture?width=320&height=320) | - | - |
+| 8 La Janda | [m3u8](http://185.171.10.3:8081/0.m3u8) | [web](https://www.youtube.com/user/8lajanda/live) | [logo](http://graph.facebook.com/8lajanda/picture?width=320&height=320) | - | - |
 | Huelva TV | - | [web](http://huelvatv.com/directo/) | [logo](http://graph.facebook.com/Huelvatv/picture?width=320&height=320) | - | - |
 | El Correo de Andalucía | [m3u8](http://common01.todostreaming.es/live/elcorreotv-livestream.m3u8) | [web](http://elcorreoweb.es/elcorreotv) | [logo](http://graph.facebook.com/elcorreoweb/picture?width=320&height=320) | - | - |
 | Canal 45 TV | [m3u8](https://cdn01.yowi.tv/503L6OKTE2/master.m3u8) | [web](http://www.canal45tv.com/) | [logo](http://graph.facebook.com/canal45television/picture?width=320&height=320) | - | - |
