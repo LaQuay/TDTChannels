@@ -27,7 +27,6 @@
 | Rock FM | [m3u8](https://rockfm-cope.flumotion.com/playlist.m3u8) | [web](http://player.rockfm.fm/) | [logo](http://graph.facebook.com/RockFM/picture?width=320&height=320) | - |
 | Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | [logo](http://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
 | Hit FM | [m3u](http://streams.kissfmradio.cires21.com/hitfm.m3u) | [web](http://www.hitfm.es/) | [logo](http://graph.facebook.com/hitfm.es/picture?width=320&height=320) | - |
-| Radio Marca | [mp3](https://radiomarca.streaming-pro.com:8031/radiomarca.mp3) | [web](https://www.marca.com/radio.html) | [logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Loca FM | [stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | esRadio | [aac](http://livestreaming9.esradio.fm/aaclive32) - [mp3](https://livestreaming3.esradio.fm/stream64.mp3) | [web](https://esradio.libertaddigital.com/directo.html) | [logo](http://graph.facebook.com/esradio/picture?width=320&height=320) | - |
 | Radio Intereconomía | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B022/023/playlist.m3u8) | [web](https://intereconomia.com/radio/) | [logo](http://graph.facebook.com/RadioIntereconomia/picture?width=320&height=320) | - |
@@ -39,6 +38,8 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
+| Radio Marca | [mp3](https://radiomarca.streaming-pro.com:8031/radiomarca.mp3) | [web](https://www.marca.com/radio.html) | [logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
+| Cadena COPE Deportes | [mp3](http://net2.cope.stream.flumotion.com/cope/net2.mp3.m3u) | [web](https://www.cope.es/directos/net2) | [logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Sevilla FC Radio | - | [web](http://live.sevillafc.es/) | [logo](http://graph.facebook.com/sevillafc/picture?width=320&height=320) | - |
 
 ## Autonómicos
@@ -313,7 +314,10 @@
 | Cadena SER - Radio Castilla | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS.mp3) | [web](https://play.cadenaser.com/emisora/radio_castilla/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Radio Valladolid | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3) | [web](https://play.cadenaser.com/emisora/radio_valladolid/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Radio Zamora | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3) | [web](https://play.cadenaser.com/emisora/radio_zamora/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| Mortal FM | [stream](http://server6.20comunicacion.com:8044/;) | [web](http://www.mortalfm.es/online) | [logo](http://graph.facebook.com/mortalfm/picture?width=320&height=320) | - |
+| Radio Marca Valladolid | [stream](http://radiomarcavalladolid.streaming-pro.com:8067) | [web](http://radiomarcavalladolid.com/) | [logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
+| COPE Valladolid | [mp3](https://wecast-b03-04.flumotion.com/copesedes/valladolid.mp3) | [web](https://www.cope.es/directos/valladolid) | [logo](http://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| esRadio - Castilla y León | [stream](http://livestreaming2.esradio.fm:8000/cylrdo16) | [web](https://esradio.libertaddigital.com/castilla-y-leon/) | [logo](http://graph.facebook.com/esradio/picture?width=320&height=320) | - |
+| Mortal FM | [stream](http://server6.20comunicacion.com:8044/) | [web](http://www.mortalfm.es/online) | [logo](http://graph.facebook.com/mortalfm/picture?width=320&height=320) | - |
 | Radio Valdivielso | - | [web](http://radiovaldivielso.es) | [logo](http://graph.facebook.com/124228874264567/picture?width=320&height=320) | - |
 | Vive! Radio | [aac](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/media_w1875322187_74945.aac) - [m3u8](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/chunklist_w1875322187.m3u8) | [web](http://www.viveradio.es/ReproductorLive.aspx) | [logo](http://graph.facebook.com/158974217473244/picture?width=320&height=320) | - |
 
