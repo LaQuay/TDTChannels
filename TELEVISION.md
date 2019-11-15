@@ -444,7 +444,7 @@
 | Canal Taronja Osona i Moianés | [m3u8](http://ventdelnord.tv:8080/taronja/directe.m3u8) | [web](http://www.canaltaronja.cat/central/canal-taronja-en-directe/) | [logo](http://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320) | - | - |
 | TV Costa Brava | [m3u8](https://liveingesta118.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8) | [web](http://www.tvcostabrava.com/tvcb-online) | [logo](http://graph.facebook.com/tvcostabrava/picture?width=320&height=320) | - | - |
 | Canal 10 Empordà | [m3u8](http://ventdelnord.tv:8080/escala/directe.m3u8) | [web](http://www.canal10.cat/endirecte) | [logo](http://graph.facebook.com/canal10emporda/picture?width=320&height=320) | - | - |
-| Televisió de Cardedeu | [m3u8](https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8) | [web](https://www.rtvc.cat/tele/) | [logo](http://graph.facebook.com/TelevisioCardedeu/picture?width=320&height=320) | - | - |
+| rtvc Cardedeu | [m3u8](https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8) | [web](https://www.rtvc.cat/tele/) | [logo](http://graph.facebook.com/TelevisioCardedeu/picture?width=320&height=320) | - | - |
 | Olot Televisió | [m3u8](https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8) | [web](https://www.olot.tv/olot-televisio-en-directe/) | [logo](http://graph.facebook.com/olotelevisio/picture?width=320&height=320) | - | - |
 | Cugat TV | [m3u8](https://liveingesta360.cdnmedia.tv/cugatcatlive/smil:live.smil/playlist.m3u8) | [web](http://www.cugat.cat/tv/directe) | [logo](http://graph.facebook.com/cugatmedia/picture?width=320&height=320) | - | - |
 | TV Hospitalet | - | [web](https://lhdigital.cat/web/digital-h/televisio) | [logo](http://graph.facebook.com/lhdigital/picture?width=320&height=320) | - | - |
@@ -469,6 +469,7 @@
 | elprat.tv | - | [web](http://el-prat-tv.alacarta.cat/) | [logo](http://graph.facebook.com/104927627038101/picture?width=320&height=320) | - | - |
 | Maricel TV | - | [web](http://mariceltv.alacarta.cat/) | [logo](https://pbs.twimg.com/profile_images/512158777156460544/TBuXPuD2_400x400.jpeg) | - | - |
 | TV Vandellós | - | [web](http://tvvandellos.alacarta.cat/) | [logo](http://graph.facebook.com/televisiodevandellos/picture?width=320&height=320) | - | - |
+| Mollerussa TV | - | [web](http://www.mollerussa.tv/) | [logo](http://graph.facebook.com/mollerussatv/picture?width=320&height=320) | - | - |
 
 ### Ceuta
 
