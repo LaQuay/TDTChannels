@@ -3,20 +3,20 @@
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales. Además la programación está disponible e integrada automáticamente en los ficheros generados.
 
 ### Listas de reproducción
-*(Última actualización: 15/11/2019)*
+*(Última actualización: 23/11/2019)*
 
 En este apartado se incluyen las listas de los canales.
 
 - *Navegador*: Visionado "manual" en el navegador.
 - *JSON*: Formato de datos especial para otros programas de lectura de datos.
 - *M3U8* y *M3U*: Listado completo de las emisoras, listo para introducir en tu reproductor deseado.
-  - *EPG*: Si no te carga de forma automática, deberás incluir la ruta en tu reproductor. 
 - *ENIGMA2*: Formato especial para el receptor Linux Enigma2.
-- *W3U*: Formato especial para [Wiseplay](https://play.google.com/store/apps/details?id=com.wiseplay). *En construcción*.
+- *W3U*: Formato especial para [Wiseplay](https://play.google.com/store/apps/details?id=com.wiseplay).
+- *EPG*: Si no te carga de forma automática, deberás incluir la ruta en tu reproductor. 
 
 | Tipo | Formato | | | | | |
 | -	| - | -	| -	| -	| -	| -	|
-| **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](http://91.121.64.179/tdt_project/output/channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/channels.m3u) | [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)	| w3u |
+| **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](http://91.121.64.179/tdt_project/output/channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/channels.m3u) | [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)	| [w3u](http://91.121.64.179/tdt_project/output/channels.w3u) |
 | **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](http://91.121.64.179/tdt_project/output/radio_channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/radio_channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/radio_channels.m3u) | - | - |
 | **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml) | - | - | - | - |
 
