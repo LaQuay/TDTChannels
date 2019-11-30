@@ -121,7 +121,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](http://graph.facebook.com/RadioTelevisionCanaria/picture?width=320&height=320) | Canarias.TDTChannelsEPG | - |
+| Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](https://graph.facebook.com/298467293624925/picture?width=320&height=320) | Canarias.TDTChannelsEPG | - |
 | Mírame TV | [m3u8](https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8) | [web](https://mirametv.com/) | [logo](http://graph.facebook.com/MirameTVCanarias/picture?width=320&height=320) | MirameTV.TDTChannelsEPG | - |
 | Loca TV | - | [web](http://locatv.es/) | [logo](http://graph.facebook.com/701434753589363/picture?width=320&height=320) | - | - |
 
