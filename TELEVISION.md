@@ -121,7 +121,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](https://graph.facebook.com/298467293624925/picture?width=320&height=320) | Canarias.TDTChannelsEPG | - |
+| Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](http://graph.facebook.com/RadioTelevisionCanaria/picture?width=320&height=320) | Canarias.TDTChannelsEPG | - |
 | Mírame TV | [m3u8](https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8) | [web](https://mirametv.com/) | [logo](http://graph.facebook.com/MirameTVCanarias/picture?width=320&height=320) | MirameTV.TDTChannelsEPG | - |
 | Loca TV | - | [web](http://locatv.es/) | [logo](http://graph.facebook.com/701434753589363/picture?width=320&height=320) | - | - |
 
@@ -309,7 +309,7 @@
 | 7TV Andalucía - Málaga | - | [web](https://7tvandalucia.es/malaga/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
 | 7TV Andalucía - Sevilla | - | [web](https://7tvandalucia.es/sevilla/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
 | Yatv | - | [web](http://yatv.es/) | [logo](http://graph.facebook.com/Yatvonline/picture?width=320&height=320) | - | - |
-| Televisión Municipal de Córdoba | [m3u8](http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8) | [web](https://www.cordoba.es/emision_directo/index.html) | [logo](https://pbs.twimg.com/profile_images/862638528848646145/ApXqGpWS_400x400.jpg) | - | - |
+| TVM Córdoba | [m3u8](http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8) | [web](https://www.cordoba.es/emision_directo/index.html) | [logo](http://graph.facebook.com/TVM.Cordoba/picture?width=320&height=320) | - | - |
 | TV Centro Andalucía | - | [web](http://tvcentroandalucia.com/) | [logo](http://graph.facebook.com/TVCentroAndalucia/picture?width=320&height=320) | - | - |
 | Granada Channel | - | [web # 1](https://www.youtube.com/watch?v=GqEIjlETgCk) - [web # 2](https://www.youtube.com/watch?v=LZcSuvnM24I) | [logo](http://graph.facebook.com/GranadaChannelTV/picture?width=320&height=320) | - | - |
 | TeleMotril | - | [web](http://telemotril.tv/) | [logo](http://graph.facebook.com/telemotriltv/picture?width=320&height=320) | - | - |
