@@ -525,7 +525,7 @@
 | Déjate de Historias TV | [m3u8](https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8) | [web](http://www.dejatedehistorias.es/wordpress/dejate-tv-on-line/) | [logo](http://graph.facebook.com/DejateDeHistoriasTV/picture?width=320&height=320) | - | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | [logo](http://graph.facebook.com/enlacetv/picture?width=320&height=320) | - | - |
 | Logos TV | [m3u8](https://streamer1.streamhost.org/salive/logosH/master.m3u8) | [web](https://logostv.es/) | [logo](http://graph.facebook.com/logostvespana/picture?width=320&height=320) | - | - |
-| Pride Channel | - | [web](http://www.pridechanneltv.com/tv-en-directo.html) | [logo](http://graph.facebook.com/PrideChannelTV/picture?width=320&height=320) | - | - |
+| Pride Channel | [m3u8](http://212.8.243.68:8877/pridetv/tracks-v1a1/playlist.m3u8) | [web](http://pridechanneltv.com/#endirecto) | [logo](http://graph.facebook.com/PrideChannelTV/picture?width=320&height=320) | - | - |
 | TBN España | - | [web](https://xn--tbnespaa-j3a.es/) | [logo](http://graph.facebook.com/TBNEspana/picture?width=320&height=320) | - | - |
 | Tele-K | - | [web](http://tele-k.org) | [logo](http://graph.facebook.com/Tele.K.org/picture?width=320&height=320) | - | - |
 
