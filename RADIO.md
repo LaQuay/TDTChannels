@@ -97,7 +97,7 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | Catalunya Ràdio | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-radio/) | [logo](http://graph.facebook.com/catradio/picture?width=320&height=320) | - |
-| Catalunya Informació | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-informacio/) | [logo](https://pbs.twimg.com/profile_images/899576741819232256/lV41m8zq_400x400.jpg) | - |
+| Catalunya Informació | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-informacio/) | [logo](https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_400x400.png) | - |
 | Cat Música | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catmusica/) | [logo](http://graph.facebook.com/catmusica/picture?width=320&height=320) | - |
 | iCat | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:icatfm/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe/icat/) | [logo](http://graph.facebook.com/icatpuntcat/picture?width=320&height=320) | - |
 | Cadena SER Catalunya | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CAT.mp3) | [web](https://play.cadenaser.com/emisora/sercat/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
