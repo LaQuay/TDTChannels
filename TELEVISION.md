@@ -94,7 +94,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Sur Andalucía HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8?.m3u8) | [web](https://www.youtube.com/watch?v=voFKwoEpOT0) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | CanalsurA.TDTChannelsEPG | - |
+| Canal Sur Andalucía HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8?.m3u8) | [web](http://www.canalsur.es/tv_directo-1193.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | CanalsurA.TDTChannelsEPG | - |
 | Canal Andalucia Turismo | [m3u8](https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8) | [web](http://canalandaluciaturismo.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | AndaluciaT.TDTChannelsEPG | - |
 | Canal Andalucia Flamenco | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | AndaluciaF.TDTChannelsEPG | - |
 | Canal Andalucia Cocina HD | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | AndaluciaC.TDTChannelsEPG | - |
@@ -285,7 +285,7 @@
 | TG7 | - | [web](https://www.granada.org/inet/tg7.nsf/byclave/endirecto) | [logo](http://graph.facebook.com/TG7tv/picture?width=320&height=320) | - | - |
 | Onda Mezquita TV HD | [m3u8](https://593fa17dec176.streamlock.net/mezquita/mezquita/master.m3u8) | [web](http://www.ahoracordoba.es/ahoracordoba-en-vivo/) | [logo](http://graph.facebook.com/OndaMezquitaTV/picture?width=320&height=320) | - | - |
 | Condavisión HD | [m3u8](http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8) | [web](http://www.condavision.es/) | [logo](http://graph.facebook.com/condavision/picture?width=320&height=320) | Condavision.TDTChannelsEPG | - |
-| Cancionero TV | [m3u8](http://89.140.99.41/hls/1080.m3u8) | [web](http://www.cancionero.es/tv/) | [logo](https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png) | - | - |
+| Cancionero TV | [m3u8](http://89.140.99.41/hls/cancionero.m3u8) | [web](http://www.cancionero.es/tv/) | [logo](https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png) | - | - |
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](http://graph.facebook.com/139595216095381/picture?width=320&height=320) | FuengirolaTV.TDTChannelsEPG | - |
 | Canal Málaga | [m3u8](http://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](http://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=320&height=320) | - | - |
 | Onda Jerez TV | - | [web](http://www.ondajerez.com/television/television-en-directo/) | [logo](https://pbs.twimg.com/profile_images/687528682378924032/JvVmQjOT_400x400.jpg) | - | - |
