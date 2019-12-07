@@ -500,6 +500,7 @@
 | TVU | - | [web](https://www.youtube.com/channel/UCONoC_N5uhMiorZWmDQ2XRg/live) | [logo](http://graph.facebook.com/radioulldecona/picture?width=320&height=320) | - | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | [logo](http://graph.facebook.com/enlacetv/picture?width=320&height=320) | - | - |
 | RTV Vida HD | [m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](http://vidartv.com/index.php/ve-television-vida) | [logo](http://graph.facebook.com/vidartv/picture?width=320&height=320) | - | - |
+| Latinos TV | [m3u8](https://5c21f7ec1999d.streamlock.net/8212/8212/playlist.m3u8) | [web](https://latinosfm.es/latinostv/) | [logo](http://graph.facebook.com/latinostvvlc/picture?width=320&height=320) | - | - |
 
 ## Internacionales
 
