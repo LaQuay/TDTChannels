@@ -311,7 +311,7 @@
 | TV Sant Cugat | - | [web](https://www.youtube.com/user/tvsantcugat/live) | [logo](http://graph.facebook.com/tvsantcugat/picture?width=320&height=320) | - | - |
 | Penedès TV | [m3u8](https://liveingesta118.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8) | [web](https://www.rtvvilafranca.cat/penedes-televisio-en-directe/) | [logo](http://graph.facebook.com/rtvvilafranca/picture?width=320&height=320) | - | - |
 | Canal Reus TV | [m3u8](https://liveingesta118.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8) | [web](http://www.canalreustv.cat/) | [logo](http://graph.facebook.com/canalreustelevisio/picture?width=320&height=320) | - | - |
-| Canal Taronja Central | [m3u8](https://player.cdnmedia.tv/undefined/taronjaanoialive/smil:live.smil/playlist.m3u8) | [web](http://www.canaltaronja.cat/central/canal-taronja-en-directe/) | [logo](http://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320) | - | - |
+| Canal Taronja Central | [m3u8](https://liveingesta119.cdnmedia.tv/taronjacentrallive/smil:live.smil/playlist.m3u8) | [web](http://www.canaltaronja.cat/central/canal-taronja-en-directe/) | [logo](http://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320) | - | - |
 | Canal Taronja Anoia | [m3u8](https://liveingesta118.cdnmedia.tv/taronjacentrallive/smil:live.smil/playlist.m3u8) | [web](http://www.canaltaronja.cat/anoia/canal-taronja-en-directe/) | [logo](http://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320) | - | - |
 | Canal Taronja Osona i Moianés | [m3u8](http://ventdelnord.tv:8080/taronja/directe.m3u8) | [web](http://www.canaltaronja.cat/central/canal-taronja-en-directe/) | [logo](http://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320) | - | - |
 | TV Costa Brava | [m3u8](https://liveingesta118.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8) | [web](http://www.tvcostabrava.com/tvcb-online) | [logo](http://graph.facebook.com/tvcostabrava/picture?width=320&height=320) | - | - |
@@ -395,7 +395,7 @@
 | TEF | [m3u8](https://5940924978228.streamlock.net/8273/smil:8273.smil/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](http://graph.facebook.com/TEFTV/picture?width=320&height=320) | - | - |
 | Ibiza Global TV | [m3u8](http://server10.streaming-pro.com:1937/live/ibgtvlive/master.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](http://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320) | - | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | [logo](http://graph.facebook.com/LuxMallorca/picture?width=320&height=320) | - | - |
-| Canal 4 | - | [web](http://canal4televisio.com/canal-4-en-directo/) | [logo](http://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - | - |
+| Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/playlist.m3u8) | [web](http://canal4televisio.com/canal-4-en-directo/) | [logo](http://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - | - |
 | Inselradio TV | - | [web](https://www.inselradio.com/player/?tv) | [logo](http://graph.facebook.com/DasInselradio/picture?width=320&height=320) | - | - |
 
 ### La Rioja
