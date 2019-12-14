@@ -144,7 +144,7 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Canarias Radio | - | [web](http://www.rtvc.es/canariasradio/directo.aspx) | [logo](http://graph.facebook.com/CanariasRadioLaAutonomica/picture?width=320&height=320) | - |
+| Canarias Radio | [m3u8](http://streaming2.mad.idec.net/rtvcradio/rtvcradio.drb.stream/playlist.m3u8) | [web](http://www.rtvc.es/canariasradio/directo.aspx) | [logo](http://graph.facebook.com/CanariasRadioLaAutonomica/picture?width=320&height=320) | - |
 | Kiss FM Canarias | [mp3](http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3) | [web](http://kissfm.es/player/canarias.html) | [logo](http://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
 | Atlántica FM | - | [web](https://www.radioatlantica.com.bo/) | [logo](http://graph.facebook.com/radioatlanticabolivia/picture?width=320&height=320) | - |
 | Canal 4 Tenerife | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal4tenerife.tv/radio/) | [logo](http://graph.facebook.com/CANAL4TENERIFE/picture?width=320&height=320) | - |
