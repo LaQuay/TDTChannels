@@ -107,7 +107,7 @@
 | Canal Sur Eventos 2 HD | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_02/playlist.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | 7TV Andalucía | - | [web](https://7tvandalucia.es/portada/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
 | 101TV Málaga | [m3u8](http://secure.todostreaming.es/live/101tv-web101tv.m3u8) | [web](http://www.101tv.es/directo.aspx) | [logo](http://graph.facebook.com/101tvmalaga/picture?width=320&height=320) | - | - |
-| Onda Cádiz | [m3u8](http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8) | [web](http://tv.ocadizdigital.es/tv/directo) | [logo](http://graph.facebook.com/ondacadiz/picture?width=320&height=320) | OndaCadiz.TDTChannelsEPG | - |
+| Onda Cádiz | [m3u8](https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8) | [web](http://tv.ocadizdigital.es/tv/directo) | [logo](http://graph.facebook.com/ondacadiz/picture?width=320&height=320) | OndaCadiz.TDTChannelsEPG | - |
 | 8 Cádiz | [m3u8](https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8) | [web](http://www.8cadiz.es/directo/) | [logo](http://graph.facebook.com/8tvcadiz/picture?width=320&height=320) | - | - |
 | 8 La Janda | [m3u8](http://185.171.10.3:8081/0.m3u8) | [web](https://www.youtube.com/user/8lajanda/live) | [logo](http://graph.facebook.com/8lajanda/picture?width=320&height=320) | - | - |
 | Huelva TV | [youtube](https://youtu.be/2I7v-O36Dns) | [web](http://huelvatv.com/directo/) | [logo](http://graph.facebook.com/Huelvatv/picture?width=320&height=320) | - | - |
