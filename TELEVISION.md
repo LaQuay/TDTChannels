@@ -59,7 +59,7 @@
 | - | - | - | - | - | - |
 | Teledeporte HD | [m3u8](http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) | [web](http://www.rtve.es/directo/teledeporte/) | [logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDP.TDTChannelsEPG | GEO |
 | +tdp | [m3u8 # 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve17_lv3_aosv4_gl1/irtve17_lv3_aosv4_gl1.isml/master.m3u8) - [m3u8 # 2](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve18_lv3_aosv4_gl1/irtve18_lv3_aosv4_gl1.isml/master.m3u8) - [m3u8 # 3](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve19_lv3_aosv4_gl0/irtve19_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 4](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins4_lv3_aosv4_gl0/ins4_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 5](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve20_lv3_aosv4_gl1/irtve20_lv3_aosv4_gl1.isml/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | [logo](http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | - | - |
-| GOL HD | [m3u8](https://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?hash=d42cf517e574d2610e20e9aa36f0848a&laq=hel&taker=01webgol&source=c0f4e15f46013aefc0bf596fb1834129&token=07ff62474099dafd9ca494998d852e00) | [web](http://www.goltelevision.com/live) | [logo](http://graph.facebook.com/goltv.es/picture?width=320&height=320) | GOL.TDTChannelsEPG | - |
+| GOL HD | [m3u8](https://www.goltelevision.com/futbol-en-directo) | [web](http://www.goltelevision.com/live) | [logo](http://graph.facebook.com/goltv.es/picture?width=320&height=320) | GOL.TDTChannelsEPG | - |
 | RealMadrid TV | [m3u8](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](http://www.realmadrid.com/real-madrid-tv) | [logo](http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320) | RMTV.TDTChannelsEPG | - |
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es/) | [logo](http://graph.facebook.com/fcbarcelona/picture?width=320&height=320) | - | - |
 | Betis TV HD | [m3u8](https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320) | BetisTV.TDTChannelsEPG | - |
@@ -136,29 +136,18 @@
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](http://graph.facebook.com/139595216095381/picture?width=320&height=320) | FuengirolaTV.TDTChannelsEPG | - |
 | Canal Málaga | [m3u8](http://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](http://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=320&height=320) | - | - |
 | Onda Jerez TV | - | [web](http://www.ondajerez.com/television/television-en-directo/) | [logo](https://pbs.twimg.com/profile_images/687528682378924032/JvVmQjOT_400x400.jpg) | - | - |
-| Málaga 24h Noticias TV | - | [web](http://malaga24h.com/directo-de-malaga-24-horas/) | [logo](http://graph.facebook.com/Malaga24hTv/picture?width=320&height=320) | - | - |
+| Málaga 24h Noticias TV | [youtube](https://youtu.be/CACzF0iYB3E) | [web](http://malaga24h.com/directo-de-malaga-24-horas/) | [logo](http://graph.facebook.com/Malaga24hTv/picture?width=320&height=320) | - | - |
 | Cadena Elite | [m3u8](https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8) | [web](http://www.cadenaelite.es/) | [logo](http://graph.facebook.com/cadenaelite.exitos/picture?width=320&height=320) | - | - |
 | Écija Comarca TV | - | [web](http://tvm.ecija.es/) | [logo](http://graph.facebook.com/ecijacomarcatelevision/picture?width=320&height=320) | - | - |
 | Uvitel TV | - | [web](https://www.uvitel.tv/directo/) | [logo](http://graph.facebook.com/uviteltv/picture?width=320&height=320) | - | - |
 | Más Jerez | - | [web](https://www.masjerez.com/) | [logo](http://graph.facebook.com/masjerez/picture?width=320&height=320) | - | - |
 | Diez TV | - | [web](http://www.dieztv.es/) | [logo](http://graph.facebook.com/dieztv/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Almería | - | [web](https://7tvandalucia.es/almeria/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Cádiz | - | [web](https://7tvandalucia.es/cadiz/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Algeciras | - | [web](https://7tvandalucia.es/algeciras/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Bahía | - | [web](https://7tvandalucia.es/bahia/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Córdoba | - | [web](https://7tvandalucia.es/cordoba/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Costa Noroeste | - | [web](https://7tvandalucia.es/costa/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Granada | - | [web](https://7tvandalucia.es/granada/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Huelva | - | [web](https://7tvandalucia.es/huelva/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Jaén | - | [web](https://7tvandalucia.es/jaen/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Jerez | - | [web](https://7tvandalucia.es/jerez/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Marbella | - | [web](https://7tvandalucia.es/marbella/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Málaga | - | [web](https://7tvandalucia.es/malaga/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
-| 7TV Andalucía - Sevilla | - | [web](https://7tvandalucia.es/sevilla/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
+| 7TV Andalucía | [web](https://7tvandalucia.es/portada/) | [web](https://7tvandalucia.es/portada/) | [logo](http://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | - |
 | Yatv | - | [web](http://yatv.es/) | [logo](http://graph.facebook.com/Yatvonline/picture?width=320&height=320) | - | - |
 | TVM Córdoba | [m3u8](http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8) | [web](https://www.cordoba.es/emision_directo/index.html) | [logo](http://graph.facebook.com/TVM.Cordoba/picture?width=320&height=320) | - | - |
 | TV Centro Andalucía | - | [web](http://tvcentroandalucia.com/) | [logo](http://graph.facebook.com/TVCentroAndalucia/picture?width=320&height=320) | - | - |
-| Granada Channel | - | [web # 1](https://www.youtube.com/watch?v=GqEIjlETgCk) - [web # 2](https://www.youtube.com/watch?v=LZcSuvnM24I) | [logo](http://graph.facebook.com/GranadaChannelTV/picture?width=320&height=320) | - | - |
+| Granada Channel 1 | [youtube](https://youtu.be/GqEIjlETgCk) | [web # 1](https://www.youtube.com/watch?v=GqEIjlETgCk) - [web # 2](https://www.youtube.com/watch?v=LZcSuvnM24I) | [logo](https://live-tv-channels.org/pt-data/uploads/logo/es-granada-channel-tv-canal-1.jpg) | - | - |
+| Granada Channel 2 | [youtube](https://youtu.be/4YjMBBPbyA0) | [web # 1](https://www.youtube.com/watch?v=GqEIjlETgCk) - [web # 2](https://www.youtube.com/watch?v=LZcSuvnM24I) | [logo](https://live-tv-channels.org/pt-data/uploads/logo/es-granada-channel-tv-canal-2.jpg) | - | - |
 | TeleMotril | - | [web](http://telemotril.tv/) | [logo](http://graph.facebook.com/telemotriltv/picture?width=320&height=320) | - | - |
 | ESNE TV | [m3u8](https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8) | [web](http://elsembradorministries.com/tv/) | [logo](http://graph.facebook.com/elsembradoresne/picture?width=320&height=320) | - | - |
 | 9 la Loma | - | [web](https://9laloma.tv/directo/) | [logo](http://graph.facebook.com/9laloma/picture?width=320&height=320) | - | - |
@@ -285,9 +274,9 @@
 | Bon Dia TV | [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8) | [web](https://www.ccma.cat/bondiatv/) | [logo](https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png) | BonDiaTV_CAT.TDTChannelsEPG | - |
 | 8tv | - | [web](http://www.8tv.cat/directe/) | [logo](http://graph.facebook.com/8tvcat/picture?width=320&height=320) | - | - |
 | Canal Parlament | [m3u8](https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/master.m3u8) | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) | [logo](http://graph.facebook.com/parlamentcat/picture?width=320&height=320) | - | - |
-| betevé | - | [web](https://beteve.cat/en-directe/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | BTV.TDTChannelsEPG | - |
-| betevé web | - | [web](https://beteve.cat/en-directe/web/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
-| betevé xarxes | - | [web](https://beteve.cat/en-directe/xarxes/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
+| betevé | [web](https://beteve.cat/en-directe/#) | [web](https://beteve.cat/en-directe/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | BTV.TDTChannelsEPG | - |
+| betevé web | [web](https://beteve.cat/ciencia-i-tecnologia/web-area-metropolitana-open-data/#) | [web](https://beteve.cat/en-directe/web/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
+| betevé xarxes | [web](https://beteve.cat/en-directe/xarxes/) | [web](https://beteve.cat/en-directe/xarxes/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
 | betevé càmera del temps | - | [web](https://beteve.cat/temps-barcelona/) | [logo](http://graph.facebook.com/betevecat/picture?width=320&height=320) | - | - |
 | El Punt Avui TV | [m3u8](https://liveingesta119.cdnmedia.tv/puntavuitvlive/smil:live.smil/playlist.m3u8) | [web](http://www.elpuntavui.tv/directe.html) | [logo](http://graph.facebook.com/elpuntavuitv/picture?width=320&height=320) | - | - |
 | BDN | [m3u8](http://liveingesta119.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8) | [web](https://www.bdncom.cat/directe/) | [logo](https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_400x400.jpg) | - | - |
@@ -361,6 +350,7 @@
 | ViaPlata TV | - | [web](http://viaplatatv.es/) | [logo](http://graph.facebook.com/viaplata.television/picture?width=320&height=320) | - | - |
 | Zafra TV | - | [web](https://www.zafratv.com/) | [logo](http://graph.facebook.com/GrupoRadioTelevisionZafra/picture?width=320&height=320) | - | - |
 | Televisión Extremeña | - | [web](https://www.youtube.com/user/TELEVISIONEXTREMENA/) | [logo](https://pbs.twimg.com/profile_images/1053956922523705344/7B0DTMHw_400x400.jpg) | - | - |
+| Cáceres Tevé | [m3u8](https://ce2019100818001.dnssw.net/hls/ceres.m3u8) | [web](https://caceresteve.es/directo-caceres-teve/) | [logo](https://caceresteve.es/wp-content/uploads/2019/12/Logo_web_cabecera_2020.png) | - | - |
 
 ### Galicia
 
@@ -391,7 +381,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| IB3 | - | [web](http://ib3tv.com/directe) | [logo](http://graph.facebook.com/IB3org/picture?width=320&height=320) | IB3.TDTChannelsEPG | - |
+| IB3 | [youtube](https://youtu.be/pBc1tnsXxAA) | [web](http://ib3tv.com/directe) | [logo](http://graph.facebook.com/IB3org/picture?width=320&height=320) | IB3.TDTChannelsEPG | - |
 | Fibwi HD | - | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
 | TEF | [m3u8](https://5940924978228.streamlock.net/8273/smil:8273.smil/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](http://graph.facebook.com/TEFTV/picture?width=320&height=320) | - | - |
 | Ibiza Global TV | [m3u8](https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](http://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320) | - | - |
@@ -439,7 +429,7 @@
 | - | - | - | - | - | - |
 | 7 RM | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | [logo](http://graph.facebook.com/La7TVRegiondeMurcia/picture?width=320&height=320) | 7RM.TDTChannelsEPG | - |
 | Popular TV Murcia | [m3u8](https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8) | [web](https://www.populartvrm.com/) | [logo](http://graph.facebook.com/poptvregiondemurcia/picture?width=320&height=320) | - | - |
-| TV Murciana | - | [web](https://www.youtube.com/channel/UCdcVjtfRbyMvpBDjBj44xyA/live) | [logo](http://graph.facebook.com/televisionmurciana/picture?width=320&height=320) | - | - |
+| TV Murciana | [youtube](https://youtu.be/obi6fPNtWmI) | [web](https://www.youtube.com/channel/UCdcVjtfRbyMvpBDjBj44xyA/live) | [logo](http://graph.facebook.com/televisionmurciana/picture?width=320&height=320) | - | - |
 | Canal 1 Mar Menor - Torre Pacheco | - | [web](https://www.canal1tv.es/) | [logo](http://graph.facebook.com/tuwebtv/picture?width=320&height=320) | - | - |
 | Comarcal TV | - | [web](https://comarcaltv.es/) | [logo](http://graph.facebook.com/comarcaltv/picture?width=320&height=320) | - | - |
 | RTV Vida HD | [m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/tv/) | [logo](http://graph.facebook.com/vidartv/picture?width=320&height=320) | - | - |
