@@ -294,13 +294,13 @@
 | etv | [m3u8](https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/playlist.m3u8) | [web](http://www.etv.cat/en-directe) | [logo](http://graph.facebook.com/etv.llobregat/picture?width=320&height=320) | - | - |
 | Mataró TV | [m3u8](http://liveingesta119.cdnmedia.tv/m1tvlive/smil:live.smil/master.m3u8) | [web](http://mataroaudiovisual.alacarta.cat/directe) | [logo](http://graph.facebook.com/mataroaudiovisual/picture?width=320&height=320) | - | - |
 | Mola TV | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | [web](http://www.molatv.cat/) | [logo](http://graph.facebook.com/molaTV/picture?width=320&height=320) | - | - |
-| Lleida TV | [m3u8](https://liveingesta119-ahoramedia-tv.akamaized.net/lleidatvlive/smil:live.smil/master.m3u8) | [web](https://www.segre.com/suplements/lleida_tv/portada/streaming.html) | [logo](http://graph.facebook.com/LleidaTV/picture?width=320&height=320) | - | - |
+| Lleida TV | [m3u8](https://liveingesta119.cdnmedia.tv//lleidatvlive/smil:live.smil/playlist.m3u8) | [web](https://www.segre.com/suplements/lleida_tv/portada/streaming.html) | [logo](http://graph.facebook.com/LleidaTV/picture?width=320&height=320) | - | - |
 | Vallès Visió | [m3u8](https://liveingesta119.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8) | [web](http://www.vallesvisio.cat/directe/) | [logo](http://graph.facebook.com/tvvallesvisio/picture?width=320&height=320) | - | - |
 | TV Girona | [m3u8](http://ventdelnord.tv:8080/girona/directe.m3u8) | [web](http://tvgirona.alacarta.cat/) | [logo](http://graph.facebook.com/tvgirona/picture?width=320&height=320) | - | - |
 | El Vendrell TV | [m3u8](http://liveingesta119.cdnmedia.tv/tvvendrelllive/smil:live.smil/playlist.m3u8) | [web](http://www.rtvelvendrell.cat/televisio-online/) | [logo](http://graph.facebook.com/rtvelvendrell/picture?width=320&height=320) | - | - |
 | votv | [m3u8](https://liveingesta119.cdnmedia.tv/votvlive/smil:live.smil/playlist.m3u8) | [web](http://votv.xiptv.cat/votv-en-directe) | [logo](http://graph.facebook.com/votv.cat/picture?width=320&height=320) | - | - |
 | El 9 TV | [m3u8](https://liveingesta119.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8) | [web](http://el9nou.cat/el9tv/) | [logo](http://graph.facebook.com/el9nou/picture?width=320&height=320) | - | - |
-| Canal Terrassa | [m3u8](http://5.189.181.203:1935/terrassaweb/terrassaweb/playlist.m3u8) | [web](http://terrassadigital.cat/televisio/) | [logo](http://graph.facebook.com/canalterrassa/picture?width=320&height=320) | - | - |
+| Canal Terrassa | [m3u8](https://liveingesta119.cdnmedia.tv/canalterrassatvlive/smil:canalterrassatv.smil/playlist.m3u8) | [web](http://terrassadigital.cat/televisio/) | [logo](http://graph.facebook.com/canalterrassa/picture?width=320&height=320) | - | - |
 | 25 TV | [m3u8](http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8) | [web](http://www.25televisio.com/streaming.php) | [logo](http://graph.facebook.com/298335373532952/picture?width=320&height=320) | - | - |
 | Canal Blau | [m3u8](https://liveingesta119.cdnmedia.tv/blautvlive/smil:blautv.smil/playlist.m3u8) | [web](http://www.canalblau.cat/televisio/televisio-en-directe/) | [logo](http://graph.facebook.com/CanalBlau/picture?width=320&height=320) | - | - |
 | Mar TV | [m3u8](http://k4.usastreams.com/martv/martv/playlist.m3u8) | [web](http://martv.tv/emissio-en-directe/) | [logo](http://graph.facebook.com/martelevisio/picture?width=320&height=320) | - | - |
@@ -393,7 +393,7 @@
 | IB3 | - | [web](http://ib3tv.com/directe) | [logo](http://graph.facebook.com/IB3org/picture?width=320&height=320) | IB3.TDTChannelsEPG | - |
 | Fibwi HD | - | [web](https://fibwiradio.com/) | [logo](http://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
 | TEF | [m3u8](https://5940924978228.streamlock.net/8273/smil:8273.smil/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](http://graph.facebook.com/TEFTV/picture?width=320&height=320) | - | - |
-| Ibiza Global TV | [m3u8](http://server10.streaming-pro.com:1937/live/ibgtvlive/master.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](http://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320) | - | - |
+| Ibiza Global TV | [m3u8](https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](http://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320) | - | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | [logo](http://graph.facebook.com/LuxMallorca/picture?width=320&height=320) | - | - |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/playlist.m3u8) | [web](http://canal4televisio.com/canal-4-en-directo/) | [logo](http://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - | - |
 | Inselradio TV | - | [web](https://www.inselradio.com/player/?tv) | [logo](http://graph.facebook.com/DasInselradio/picture?width=320&height=320) | - | - |
