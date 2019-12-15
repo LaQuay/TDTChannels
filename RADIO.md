@@ -268,7 +268,7 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Radio Galega | [mp3](http://195.10.10.206/radiogalega/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/radio-galega) | [logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
+| Radio Galega | [mp3](http://wecast-b01-03.flumotion.com/radiogalega/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/radio-galega) | [logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
 | Radio Galega Música | [mp3](http://195.10.10.213/radiogalega-musica/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/rg-musica) | [logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
 | Son Galicia Radio | [mp3](http://195.10.10.201/songalicia/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/son-galicia) | [logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
 | Radio Picariña | [stream](http://ondemand-crtvg-origin.flumotion.com/videos/rg_infantil/flumotion/amodino.mp3) | [web](http://www.crtvg.es/en-directo/canles-directos-rg/radio-picarina) | [logo](http://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
