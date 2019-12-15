@@ -13,6 +13,7 @@
 - Carratraka [@carratraka](https://github.com/carratraka)
 - Jacobo [@poborp](https://github.com/poborp)
 - Jorge [@jaguaza](https://github.com/jaguaza)
+- José Antonio [@nomentero](https://github.com/nomenteros)
 - Juan [@okelet](https://github.com/okelet)
 - Valentin [@vk496](https://github.com/vk496)
 
