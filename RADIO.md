@@ -261,7 +261,7 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Canal Extremadura Radio | [m3u8](http://hlsradio.canalextremadura.es/liveradio/streamrd01/playlist_DVR.m3u8) | [web](http://www.canalextremadura.es/radio/directo) | [logo](http://graph.facebook.com/CanalExtremadura/picture?width=320&height=320) | - |
+| Canal Extremadura Radio | [m3u8](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel3DVR.smil/playlist.m3u8) | [web](http://www.canalextremadura.es/radio/directo) | [logo](http://graph.facebook.com/CanalExtremadura/picture?width=320&height=320) | - |
 | Radio Miajadas | [stream](http://srv0410.lcinternet.com:8013/stream) | [web](http://player.lcinternet.es/v9/cc023_063/) | [logo](http://graph.facebook.com/489965251169138/picture?width=320&height=320) | - |
 
 ### Galicia

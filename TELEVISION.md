@@ -176,6 +176,7 @@
 | Ejea TV | - | [web](http://www.cincovillas.com/bienvenida-a-ejea-television/) | [logo](http://graph.facebook.com/177987645710754/picture?width=320&height=320) | - | - |
 | Digital Fraga TV | - | [web](https://vimeo.com/channels/digitalfragatv) | [logo](http://graph.facebook.com/digitalfragatelevision/picture?width=320&height=320) | - | - |
 | 15TV | - | [web](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/) | [logo](http://graph.facebook.com/1266272630094067/picture?width=320&height=320) | - | - |
+| Canal 44 | - | [web](http://www.canal44.tv/endirecto/directo.php) | [logo](http://www.canal44.tv/canal44-2-0-1/images/stories/Logo_c44_175.jpg) | - | - |
 | lacomarca.tv | - | [web](https://www.lacomarca.net/television/comarca-tv/) | [logo](http://graph.facebook.com/lacomarcanews/picture?width=320&height=320) | - | - |
 
 ### Asturias
