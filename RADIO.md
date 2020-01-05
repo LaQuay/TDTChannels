@@ -48,7 +48,7 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Canal Sur Radio | [m3u8](http://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/chunklist_b250000.m3u8) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_csr) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
+| Canal Sur Radio | [m3u8](https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/chunklist_b250000.m3u8) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_csr) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
 | Canal Fiesta Radio | [m3u8](https://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/chunklist_b250000.m3u8) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_fiesta) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
 | Flamenco Radio | [m3u8](https://cdnlive.shooowit.net/rtvalive/smil:channel7.smil/chunklist_b250000.m3u8) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_flamenco) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
 | Radio Andalucía Información | [m3u8](https://cdnlive.shooowit.net/rtvalive/smil:channel6.smil/chunklist_b250000.m3u8) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_rai) | [logo](http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - |
