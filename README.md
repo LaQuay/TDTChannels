@@ -32,6 +32,10 @@ En este apartado se incluyen las listas de los canales.
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
+*01/2020* [Tecnocincuentones - Episodio 69.- TDT Channels o la sencillez para ver todos los canales](https://www.ivoox.com/episodio-69-tdt-channels-o-sencillez-para-audios-mp3_rf_46098498_1.html)
+
+*12/2019* - [Androidsis - ¡¡La mejor app para ver la Televisión en directo!!](https://youtu.be/PV3N39rfkjE)
+
 *06/2019* - [Cómo ver los canales de televisión de la TDT en un móvil Android usando TDT Channels](https://www.xatakandroid.com/aplicaciones-android/como-ver-canales-television-tdt-movil-usando-tdt-channels)
 
 *06/2019* - [El Androide Libre - La mejor app para ver la tele en tu Android y la más actualizada](https://elandroidelibre.elespanol.com/2019/06/mejor-app-ver-tele-android-mas-actualizada-apk.html)
