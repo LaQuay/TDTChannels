@@ -32,11 +32,15 @@ En este apartado se incluyen las listas de los canales.
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
-*01/2020* [Tecnocincuentones - Episodio 69.- TDT Channels o la sencillez para ver todos los canales](https://www.ivoox.com/episodio-69-tdt-channels-o-sencillez-para-audios-mp3_rf_46098498_1.html)
+*01/2020* - [Tecnocincuentones - Episodio 69.- TDT Channels o la sencillez para ver todos los canales](https://www.ivoox.com/episodio-69-tdt-channels-o-sencillez-para-audios-mp3_rf_46098498_1.html)
+
+*12/2019* - [Xataka Android - Las mejores apps Android en 2019 según el equipo de Xataka Android](https://www.xatakandroid.com/aplicaciones-android/mejores-apps-android-2019-equipo-xataka-android)
 
 *12/2019* - [Androidsis - ¡¡La mejor app para ver la Televisión en directo!!](https://youtu.be/PV3N39rfkjE)
 
-*06/2019* - [Cómo ver los canales de televisión de la TDT en un móvil Android usando TDT Channels](https://www.xatakandroid.com/aplicaciones-android/como-ver-canales-television-tdt-movil-usando-tdt-channels)
+*11/2019* - [Xataka Móvil - Cómo ver la tele en tu móvil Android o iPhone: las mejores formas de acceder a la TDT](https://www.xatakamovil.com/aplicaciones/como-ver-tele-tu-movil-android-iphone-mejores-formas-acceder-a-tdt)
+
+*06/2019* - [Xataka Android - Cómo ver los canales de televisión de la TDT en un móvil Android usando TDT Channels](https://www.xatakandroid.com/aplicaciones-android/como-ver-canales-television-tdt-movil-usando-tdt-channels)
 
 *06/2019* - [El Androide Libre - La mejor app para ver la tele en tu Android y la más actualizada](https://elandroidelibre.elespanol.com/2019/06/mejor-app-ver-tele-android-mas-actualizada-apk.html)
 
@@ -44,7 +48,7 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *05/2019* - [El Androide Feliz - Servicios IPTV para ver la TV autonómica y local desde el móvil](https://elandroidefeliz.com/lista-servicios-iptv-para-ver-tv-autonomica-local-espanola/)
 
-*04/2019* - [Canales TDT España para ver online desde cualquier parte](https://www.meneame.net/story/canales-tdt-espana-ver-online-desde-cualquier-parte-formato-m3u8)
+*04/2019* - [Meneame - Canales TDT España para ver online desde cualquier parte](https://www.meneame.net/story/canales-tdt-espana-ver-online-desde-cualquier-parte-formato-m3u8)
 
 *03/2019* - [El Androide Libre - Cómo ver la tele en un reproductor con Android TV](https://elandroidelibre.elespanol.com/2019/03/como-ver-tele-reproductor-television-android-tv.html)
 
