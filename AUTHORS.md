@@ -8,6 +8,7 @@
 
 #### Contributions (in alphabetical order)
 - Aitor [@aitorillo](https://github.com/aitorillo)
+- Alex Gabriel [97carmine](https://github.com/97carmine)
 - CaRLymx [@carlymx](https://github.com/carlymx)
 - Carlos [@profesorasix](https://github.com/profesorasix)
 - Carratraka [@carratraka](https://github.com/carratraka)
