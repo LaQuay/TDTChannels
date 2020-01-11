@@ -28,8 +28,29 @@
 | Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | [logo](http://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
 | Hit FM | [m3u](http://streams.kissfmradio.cires21.com/hitfm.m3u) | [web](http://www.hitfm.es/) | [logo](http://graph.facebook.com/hitfm.es/picture?width=320&height=320) | - |
 | Loca FM | [stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Latino | [stream](http://audio-online.net:8012/live) | [web](http://www.locafm.com/loca-latino/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Dance | [stream](http://audio-online.net:8004/live) | [web](http://www.locafm.com/dance/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Remember | [stream](http://audio-online.net:8006/live) | [web](http://www.locafm.com/remember/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM House | [stream](http://audio-online.net:8005/live) | [web](http://www.locafm.com/house/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Chill out | [stream](http://audio-online.net:8002/live) | [web](http://www.locafm.com/chill-out/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Tech House | [stream](http://audio-online.net:8008/live) | [web](http://www.locafm.com/tech-house/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Trance | [stream](http://audio-online.net:8010/live) | [web](http://www.locafm.com/trance/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Techno | [stream](http://audio-online.net:8009/live) | [web](http://www.locafm.com/techno/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Big Room | [stream](http://audio-online.net:8001/live) | [web](http://www.locafm.com/big-room/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Dub Techno | [stream](http://audio-online.net:8015/live) | [web](http://www.locafm.com/dub-techno/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Hard | [stream](http://audio-online.net:8003/live) | [web](http://www.locafm.com/hard/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Sessions | [stream](http://audio-online.net:8013/live) | [web](http://www.locafm.com/sessions/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Ambient | [stream](http://audio-online.net:8007/live) | [web](http://www.locafm.com/ambient/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Loca 80's | [stream](http://audio-online.net:8018/live) | [web](http://www.locafm.com/loca-80-s/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Loca 90's | [stream](http://audio-online.net:8000/live) | [web](http://www.locafm.com/loca-90-s/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Melodic Techno | [stream](http://audio-online.net:8011/live) | [web](http://www.locafm.com/melodic-techno/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Trap | [stream](http://audio-online.net:8014/live) | [web](http://www.locafm.com/trap/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Magnetic Plug&Play | [stream](http://audio-online.net:8016/live) | [web](http://www.locafm.com/magnetic-plug-play/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Loca Pride | [stream](http://audio-online.net:8017/live) | [web](http://www.locafm.com/loca-pride/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Industrial | [stream](http://audio-online.net:8019/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Loca FM Drum&Bass | [stream](http://audio-online.net:8021/live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](http://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | esRadio | [aac](http://livestreaming9.esradio.fm/aaclive32) - [mp3](https://livestreaming3.esradio.fm/stream64.mp3) | [web](https://esradio.libertaddigital.com/directo.html) | [logo](http://graph.facebook.com/esradio/picture?width=320&height=320) | - |
-| Radio Intereconomía | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B022/023/playlist.m3u8) | [web](https://intereconomia.com/radio/) | [logo](http://graph.facebook.com/RadioIntereconomia/picture?width=320&height=320) | - |
+| Radio Intereconomía | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B022/023/playlist.m3u8) | [web](https://intereconomia.com/directo/) | [logo](http://graph.facebook.com/RadioIntereconomia/picture?width=320&height=320) | - |
 | Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) | [web](https://www.radiomaria.es/directo) | [logo](http://graph.facebook.com/RadioMariaSpa/picture?width=320&height=320) | - |
 | Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com/) | [logo](http://graph.facebook.com/Radio4GOficial/picture?width=320&height=320) | - |
 | Clásica FM Radio | [Stream](http://listen1.mixlr.com/bbf7a7693e4601235e8bcfe46c4bb3a9) | [web](http://clasicafmradio.es/cfm-escucha/) | [Logo](http://graph.facebook.com/clasicafmradio/picture?width=320&height=320) | - |
@@ -80,7 +101,7 @@
 | Radio Planeta | [stream](http://5.79.66.113:8004/stream) | [web](https://www.radioplaneta.com/#) | [logo](http://graph.facebook.com/RadioPlaneta92.8/picture?width=320&height=320) | - |
 | Radio Poniente | [pls](http://94.23.85.189:7855/;listen.pls) | [web](https://www.radioponiente.com/) | [logo](http://graph.facebook.com/radioponientedeportes/picture?width=320&height=320) | - |
 | Radio Sierra | - | [web](http://www.radiosierra.es/) | [logo](http://graph.facebook.com/RadioSierraFM/picture?width=320&height=320) | - |
-| Radio Marca Sevilla | [m3u8](https://liveradio.akamaized.net/live/hls/0_zkamo5t3_1/index-audio.m3u8) | [web](https://www.marca.com/radio.html?intcmp=BOTONPORTADA&s_kw=radiomarca#) | [logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
+| Radio Marca Sevilla | [mp3](https://relay.stream.enacast-cloud.com:40219/radiomarcasevillaHD.mp3) | [web](https://www.marca.com/radio.html?intcmp=BOTONPORTADA&s_kw=radiomarca#) | [logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Radio Marca Málaga | [stream](https://malagafm.streaming-pro.com:8131/malagafmmobile) | [web](https://www.marca.com/radio.html?intcmp=BOTONPORTADA&s_kw=radiomarca#) | [logo](http://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Radio Martos | [stream](http://streaming6.elitecomunicacion.es:8234/;) | [web](http://www.radiomartos.com/radioplayer.html) | [logo](http://graph.facebook.com/radiomartos/picture?width=320&height=320) | - |
 | Radio Luz | [mp3](http://ns100.emisionlocal.com:8022/;stream.mp3) | [web](http://www.fmradioluz.com/) | [logo](http://graph.facebook.com/fmradioluz/picture?width=320&height=320) | - |
@@ -317,6 +338,8 @@
 | ECO Leganés | - | [web](http://ecoleganes.org/) | [logo](http://graph.facebook.com/ecoleganes01/picture?width=320&height=320) | - |
 | Gestiona Radio | [stream](http://185.165.0.13:8004/stream/;) | [web](http://www.gestionaradio.com/) | [logo](https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg) | - |
 | Inforadio | [ogg](http://stream00.inforadio.ccinf.es:8000/inforadio01.ogg) | [web](http://inforadioucm.blogspot.com/p/escuchanos-en-directo.html) | [logo](http://graph.facebook.com/inforadiocomplutense/picture?width=320&height=320) | - |
+| KeBuena | [aac](https://19393.live.streamtheworld.com/KEBUENA_ESAAC.aac) | [web](https://play.kebuena.es/) | [logo](http://graph.facebook.com/kebuena103.9fm/picture?width=320&height=320) | - |
+| Onda Latina | [m3u](https://www.nodo50.org/ondalatina/A061ondalatina.m3u) | [web](https://www.nodo50.org/ondalatina/) | [logo](http://graph.facebook.com/ondalatina.com.es/picture?width=320&height=320) | - |
 | Radio Internacional | [mp3](http://195.55.74.203/rinternacional/audio-fme.mp3) | [web](http://www.radiointernacional.es/) | [logo](http://graph.facebook.com/RadioIntEs/picture?width=320&height=320) | - |
 | M21 Radio | [mp3](https://streamer92.store.aranova.cloud/mp3/live/m21radio_m21radio_128.mp3) | [web](https://www.m21radio.es/ahora) | [logo](http://graph.facebook.com/m21madrid/picture?width=320&height=320) | - |
 | Onda Diamante | [m3u](http://www.avvcanillejas.org/docs/ondadiamante.ogg.m3u) | [web](http://graph.facebook.com/OndaDiamanteOD/picture?width=320&height=320) | [logo](http://www.avvcanillejas.org/img/radio.jpg) | - |
@@ -406,5 +429,5 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | RNA | [m3u8](http://videos.rtva.ad:1935/live/rna/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/rna) | [logo](http://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | - |
-| AM | [m3u8](http://videos.rtva.ad:1935/live/am/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/am) | [logo](http://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | - |
+| AM | [m3u8](https://videos.rtva.ad/live/am/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/am) | [logo](http://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | - |
 | Cadena SER - Ràdio Principat d'Andorra | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3) | [web](https://play.cadenaser.com/emisora/radio_ser_principat_d_andorra/) | [logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
