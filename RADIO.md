@@ -4,6 +4,11 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
+| Babyradio | [stream](http://sd396babyradio1.lcinternet.com:8000/stream) | [web](https://babyradio.es/emision-espana/) | [logo](http://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
+| Babyradio - Música para bailar | [stream](http://sd396babyradio1.lcinternet.com:8009/live) | [web](https://babyradio.es/emision-espana/) | [logo](http://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
+| Babyradio - Nanas | [stream](http://sd396babyradio1.lcinternet.com:8004/live) | [web](https://babyradio.es/emision-espana/) | [logo](http://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
+| Babyradio - Cuentos infantiles | [stream](http://sd396babyradio1.lcinternet.com:8008/live) | [web](https://babyradio.es/emision-espana/) | [logo](http://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
+
 | Onda Cero | [stream](http://icecast-streaming.nice264.com/ondacero) | [web](https://www.ondacero.es/directo/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Europa FM | [stream](http://icecast-streaming.nice264.com/europafm) | [web](https://www.europafm.com/directo/) | [logo](http://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - |
 | Melodía FM | [mp3](http://icecast-streaming.nice264.com/melodiafm?hash=.mp3) | [web](http://www.melodia-fm.com/directo/) | [logo](http://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - |
