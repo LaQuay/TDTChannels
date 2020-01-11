@@ -361,6 +361,7 @@
 | Radio Romanul | [stream](http://streaming.radioromanul.es:55556/radioromanul) | [web](http://www.radioromanul.es/live/) | [logo](http://graph.facebook.com/RadioRomanul/picture?width=320&height=320) | - |
 | Radio Utopía | [mp3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](http://www.radioutopia.org.es/) | [logo](http://graph.facebook.com/179099278878655/picture?width=320&height=320) | - |
 | Radio Vallekas | [stream](http://cervera.eldialdigital.com:8032/;) | [web](http://www.radiovallekas.org/) | [logo](http://graph.facebook.com/radiovallekas/picture?width=320&height=320) | - |
+| Swing FM | [stream](http://ns3.mycloud-apps.es:8003/live) | [web](https://www.swingfmradio.com/) | [logo](http://graph.facebook.com/swingfm/picture?width=320&height=320) | - |
 | Top Radio | [m3u8](http://18003.live.streamtheworld.com/TOPRADIO_SC) | [web](http://www.mmradio.com/topradio/) | [logo](http://graph.facebook.com/topradioes/picture?width=320&height=320) | - |
 
 ### Melilla
