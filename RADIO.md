@@ -5,9 +5,9 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | Babyradio | [stream](http://sd396babyradio1.lcinternet.com:8000/stream) | [web](https://babyradio.es/emision-espana/) | [logo](http://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
-| Babyradio Música para bailar | [stream](http://sd396babyradio1.lcinternet.com:8009/live) | [web](https://babyradio.es/emision-espana/) | [logo](http://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
-| Babyradio Nanas | [stream](http://sd396babyradio1.lcinternet.com:8004/live) | [web](https://babyradio.es/emision-espana/) | [logo](http://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
-| Babyradio Cuentos infantiles | [stream](http://sd396babyradio1.lcinternet.com:8008/live) | [web](https://babyradio.es/emision-espana/) | [logo](http://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
+| Babyradio - Música para bailar | [stream](http://sd396babyradio1.lcinternet.com:8009/live) | [web](https://babyradio.es/emision-espana/) | [logo](http://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
+| Babyradio - Nanas | [stream](http://sd396babyradio1.lcinternet.com:8004/live) | [web](https://babyradio.es/emision-espana/) | [logo](http://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
+| Babyradio - Cuentos infantiles | [stream](http://sd396babyradio1.lcinternet.com:8008/live) | [web](https://babyradio.es/emision-espana/) | [logo](http://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
 | Onda Cero | [stream](http://icecast-streaming.nice264.com/ondacero) | [web](https://www.ondacero.es/directo/) | [logo](http://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Europa FM | [stream](http://icecast-streaming.nice264.com/europafm) | [web](https://www.europafm.com/directo/) | [logo](http://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - |
 | Melodía FM | [mp3](http://icecast-streaming.nice264.com/melodiafm?hash=.mp3) | [web](http://www.melodia-fm.com/directo/) | [logo](http://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - |
@@ -339,7 +339,7 @@
 | - | - | - | - | - |
 | OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106 FM](http://live-ondamadrid.cellnextelecom.net/ondamadrid/radio/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](http://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - |
 | Cadena SER - Sierra | [mp3](http://217.126.244.152:7000/;stream.mp3) | [web](https://play.cadenaser.com/emisora/ser_madrid_sierra/) | [Logo](http://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| ECO Leganés | - | [web](http://ecoleganes.org/) | [logo](http://graph.facebook.com/ecoleganes01/picture?width=320&height=320) | - |
+| ECO Leganés | [stream](http://cervera.eldialdigital.com:8076/stream) | [web](http://ecoleganes.org/) | [logo](http://graph.facebook.com/ecoleganes01/picture?width=320&height=320) | - |
 | Gestiona Radio | [stream](http://185.165.0.13:8004/stream/;) | [web](http://www.gestionaradio.com/) | [logo](https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg) | - |
 | Inforadio | [ogg](http://stream00.inforadio.ccinf.es:8000/inforadio01.ogg) | [web](http://inforadioucm.blogspot.com/p/escuchanos-en-directo.html) | [logo](http://graph.facebook.com/inforadiocomplutense/picture?width=320&height=320) | - |
 | KeBuena | [aac](https://19393.live.streamtheworld.com/KEBUENA_ESAAC.aac) | [web](https://play.kebuena.es/) | [logo](http://graph.facebook.com/kebuena103.9fm/picture?width=320&height=320) | - |
