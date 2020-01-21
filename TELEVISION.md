@@ -513,7 +513,7 @@
 | Miami TV | [m3u8](https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/master.m3u8) | [web](https://miamitvhd.com/) | [logo](http://graph.facebook.com/miamitv/picture?width=320&height=320) | - | - |
 | Miami TV Latino | [m3u8](https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8) | [web](https://miamitvhd.com/) | [logo](http://graph.facebook.com/miamitv/picture?width=320&height=320) | - | - |
 | franceinfo: | - | [web](https://www.francetvinfo.fr/en-direct/tv.html) | [logo](http://graph.facebook.com/franceinfo/picture?width=320&height=320) | - | - |
-| Euronews | - | [web](https://es.euronews.com/live) | [logo](http://graph.facebook.com/es.euronews/picture?width=320&height=320) | - | - |
+| Euronews | - | [web](https://es.euronews.com/embed/live) | [logo](http://graph.facebook.com/es.euronews/picture?width=320&height=320) | - | W3U |
 | ABC News | - | [web](https://abcnews.go.com/Live/) | [logo](http://graph.facebook.com/ABCNews/picture?width=320&height=320) | - | - |
 | France 24 | [m3u8](http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8) - [m3u8 # Inglés](http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) | [web](https://www.france24.com/en/live) | [logo](http://graph.facebook.com/FRANCE24/picture?width=320&height=320) | - | - |
 | CBS News HD | [m3u8](http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | [logo](http://graph.facebook.com/CBSNews/picture?width=320&height=320) | - | - |
