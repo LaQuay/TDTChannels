@@ -160,6 +160,7 @@
 | Radio Sele | - | [web](http://www.radiosele.com/) | [Logo](https://cdn.onlineradiobox.com/img/logo/8/54418.v3.png) | - |
 | Radio Ujo | [stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | [logo](http://graph.facebook.com/radioujo/picture?width=320&height=320) | - |
 | The Box FM | [stream](http://listen128.radionomy.com/thebox) | [web](http://www.theboxfm.net/player_web/index.html) | [logo](http://graph.facebook.com/boxfmec/picture?width=320&height=320) | - |
+| OndaLangreo | [mp3](http://ondalangreo.com:3097/ondalangreo.mp3) | [web](https://ondalangreo.com/) | [logo](http://graph.facebook.com/ondalangreo/picture?width=320&height=320) | - |
 
 ### Canarias
 
