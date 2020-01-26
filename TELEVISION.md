@@ -529,7 +529,7 @@
 | NASA TV ISS Views | [m3u8](http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8) | [web](http://www.ustream.tv/channel/live-iss-stream) | [logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
 | NASA TV HD ISS Views | [m3u8](http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#iss) | [logo](http://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
 | XITE HD | [m3u8](http://highvolume03.streampartner.nl/vleugels_hd6/livestream/master.m3u8) | [web](https://xite.nl/live) | [logo](http://graph.facebook.com/XITENL/picture?width=320&height=320) | - | - |
-| Hispan TV | [m3u8](https://5a61de8ed719d.streamlock.net:1443/live/smil:live.smil/master.m3u8) | [web](https://www.hispantv.com/directo) | [logo](http://graph.facebook.com/Hispantv/picture?width=320&height=320) | - | - |
+| Hispan TV | [m3u8](https://live.hispantv.com/live/smil:live.smil/playlist.m3u8) | [web](https://www.hispantv.com/directo) | [logo](http://graph.facebook.com/Hispantv/picture?width=320&height=320) | - | - |
 | m2o | [m3u8](http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | [logo](http://graph.facebook.com/radiom2o/picture?width=320&height=320) | - | - |
 | DJing Live | [m3u8](https://www.djing.com/tv/live.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
 | DJing Karaoke | [m3u8](https://www.djing.com/tv/karaoke.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
