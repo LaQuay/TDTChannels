@@ -192,7 +192,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](https://graph.facebook.com/298467293624925/picture?width=320&height=320) | Canarias.TDTChannelsEPG | - |
+| Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](http://graph.facebook.com/225265760833908/picture?width=320&height=320) | Canarias.TDTChannelsEPG | - |
 | La 1 Canarias | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl7/la1can_lv3_aosv4_gl7/la1can_lv3_aosv4_gl7.isml/la1can_lv3_aosv4_gl7.m3u8) | [web](http://www.rtve.es/television/tve-canarias/directo/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | La1_CAT.TDTChannelsEPG | - |
 | La 2 Canarias | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2can_lv3_aosv4_gl0/la2can_lv3_aosv4_gl0.isml/la2can_lv3_aosv4_gl0.m3u8) | [web](http://www.rtve.es/television/tve-canarias/directo/) | [logo](http://graph.facebook.com/la2detve/picture?width=320&height=320) | La2_CAT.TDTChannelsEPG | - |
 | 24h Canarias | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hcan_lv3_aosv4_gl8/24hcan_lv3_aosv4_gl8.isml/24hcan_lv3_aosv4_gl8.m3u8) | [web](http://www.rtve.es/television/tve-canarias/directo/) | [logo](http://graph.facebook.com/24htve/picture?width=320&height=320) | - | - |
