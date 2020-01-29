@@ -17,7 +17,7 @@ En este apartado se incluyen las listas de los canales.
 | Tipo | Formato | | | | | |
 | -	| - | -	| -	| -	| -	| -	|
 | **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](http://91.121.64.179/tdt_project/output/channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/channels.m3u) | [enigma2](http://91.121.64.179/tdt_project/output/userbouquet.tdtchannels.tv)	| [w3u](http://91.121.64.179/tdt_project/output/channels.w3u) |
-| **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](http://91.121.64.179/tdt_project/output/radio_channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/radio_channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/radio_channels.m3u) | - | - |
+| **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](http://91.121.64.179/tdt_project/output/radio_channels.json) | [m3u8](http://91.121.64.179/tdt_project/output/radio_channels.m3u8) | [m3u](http://91.121.64.179/tdt_project/output/radio_channels.m3u) | - | [w3u](http://91.121.64.179/tdt_project/output/radio_channels.w3u) |
 | **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml) | - | - | - | - |
 
 ### Herramientas
