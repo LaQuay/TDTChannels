@@ -467,10 +467,9 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | À Punt HD | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae.m3u8) | [web](https://apuntmedia.es/va/directe/tv) | [logo](http://graph.facebook.com/apuntmedia/picture?width=320&height=320) | APUNT.TDTChannelsEPG | - |
-| À Punt (Streaming) | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/41dW5paTE6HYfN_ejwZuDUv5alUkrfUr/cs/1a2630c94d394d72a84169eaf765be89.m3u8) | [web](https://apuntmedia.es/va/directe/les-noticies-del-mati) | [logo](http://graph.facebook.com/apuntmedia/picture?width=320&height=320) | - | - |
 | La 8 Mediterráneo HD | [m3u8](https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8) | [web](http://www.laocho.tv/es/directo/) | [logo](http://graph.facebook.com/LaOcho.tv/picture?width=320&height=320) | 8M.TDTChannelsEPG | - |
 | 7 TeleValencia | [m3u8](https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8) | [web](http://7televalencia.com/directo-7televalencia) | [logo](https://pbs.twimg.com/profile_images/839481452920193024/R04ozlyG_400x400.jpg) | - | - |
-| Levante TV | [m3u8](http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/master.m3u8) | [web](http://www.levantetv.es/default.jsp) | [logo](http://graph.facebook.com/levantetv/picture?width=320&height=320) | - | - |
+| Levante TV | [m3u8](https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8) | [web](http://www.levantetv.es/default.jsp) | [logo](http://graph.facebook.com/levantetv/picture?width=320&height=320) | - | - |
 | Intercomarcal TV | [m3u8](http://78.41.83.88:8880/hls/tvixa.m3u8) | [web](http://www.intercomarcal.com) | [logo](http://graph.facebook.com/Intercomarcal.Television/picture?width=320&height=320) | - | - |
 | TeleElx | - | [web](https://teleelx.es/directo/) | [logo](http://graph.facebook.com/teleelx/picture?width=320&height=320) | - | - |
 | telesafor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](http://telesafor.com) | [logo](http://graph.facebook.com/Tele7Safor/picture?width=320&height=320) | - | - |
