@@ -28,6 +28,7 @@ En este apartado se incluyen las listas de los canales.
 | **Grupo en Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
 | **Canal de Avisos en Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
 
+
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
@@ -67,7 +68,8 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Aplicaciones que consumen este repositorio
-- [TDTChannels-APP](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del reposiorio. Gratuita, open source, sin anuncios. 
+- [TDTChannels-APP](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del reposiorio. Gratuita, open source, sin anuncios.
+- [FeedTV](https://github.com/juanro49/FeedTV): Aplicación que te permite leer noticias mediante RSS además de poder ver canales de este repositorio. Gratuita y de código abierto
 - [tvRadio ES](https://testflight.apple.com/join/Vub5KWM1): Aplicación iOS. Gratuita, sin anuncios.
 - [SMARTDT](https://play.google.com/store/apps/details?id=com.smartdt): Aplicación Android. Gratuita, sin anuncios. 
 
