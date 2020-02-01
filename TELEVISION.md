@@ -32,7 +32,7 @@
 | mtmad 24h HD | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8) | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](http://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - | - |
 | playz HD | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/playz/directo/) | [logo](http://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
 | Público TV | - | [web](https://www.publico.es/videos/tag/streaming) | [logo](http://graph.facebook.com/diario.publico/picture?width=320&height=320) | - | - |
-| El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | ElToroTV.TDTChannelsEPG | - |
+| El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png) | ElToroTV.TDTChannelsEPG | - |
 
 ## Informativos
 
@@ -299,7 +299,7 @@
 | TV Sant Cugat | [youtube](https://youtu.be/Bh_IozUtqU0) | [web](http://www.tvsantcugat.cat/) | [logo](http://graph.facebook.com/tvsantcugat/picture?width=320&height=320) | - | - |
 | Penedès TV | [m3u8](https://liveingesta119.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8) | [web](https://www.rtvvilafranca.cat/penedes-televisio-en-directe/) | [logo](http://graph.facebook.com/rtvvilafranca/picture?width=320&height=320) | - | - |
 | Canal Reus TV | [m3u8](https://liveingesta119.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8) | [web](http://www.canalreustv.cat/) | [logo](http://graph.facebook.com/canalreustelevisio/picture?width=320&height=320) | - | - |
-| Canal Taronja Central | [m3u8](https://liveingesta119.cdnmedia.tv/taronjacentrallive/smil:live.smil/playlist.m3u8) | [web](http://www.canaltaronja.cat/central/canal-taronja-en-directe/) | [logo](http://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320) | - | - |
+| Canal Taronja Central | [m3u8](https://liveingesta119.cdnmedia.tv//taronjaanoialive/smil:live.smil/playlist.m3u8) | [web](http://www.canaltaronja.cat/central/canal-taronja-en-directe/) | [logo](http://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320) | - | - |
 | Canal Taronja Anoia | [m3u8](https://liveingesta119.cdnmedia.tv/taronjacentrallive/smil:live.smil/playlist.m3u8) | [web](http://www.canaltaronja.cat/anoia/canal-taronja-en-directe/) | [logo](http://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320) | - | - |
 | Canal Taronja Osona i Moianés | [m3u8](http://ventdelnord.tv:8080/taronja/directe.m3u8) | [web](http://www.canaltaronja.cat/central/canal-taronja-en-directe/) | [logo](http://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320) | - | - |
 | TV Costa Brava | [m3u8](https://liveingesta119.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8) | [web](http://www.tvcostabrava.com/tvcb-online) | [logo](http://graph.facebook.com/tvcostabrava/picture?width=320&height=320) | - | - |
