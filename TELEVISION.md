@@ -32,7 +32,7 @@
 | mtmad 24h HD | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8) | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](http://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - | - |
 | playz HD | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/playz/directo/) | [logo](http://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
 | Público TV | - | [web](https://www.publico.es/videos/tag/streaming) | [logo](http://graph.facebook.com/diario.publico/picture?width=320&height=320) | - | - |
-| El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](http://graph.facebook.com/GrupoIntereconomia/picture?width=320&height=320) | ElToroTV.TDTChannelsEPG | - |
+| El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](https://pbs.twimg.com/profile_images/1222133236689539073/cY7ZQiRB_400x400.jpg) | ElToroTV.TDTChannelsEPG | - |
 
 ## Informativos
 
@@ -151,7 +151,6 @@
 | Axarquía TV | [youtube](https://youtu.be/K0aOsKp3DeQ) | [web](http://axarquiatv.es/) | [logo](http://graph.facebook.com/AxarquiaTV/picture?width=320&height=320) | - | - |
 | Axarquía Plus TV | [youtube](https://youtu.be/5QnOyjiGwIE) | [web](https://www.axarquiaplus.es/axarquiaplus-tv/) | [logo](http://graph.facebook.com/axarquiaplusinformacion/picture?width=320&height=320) | - | - |
 | Axartel TV | [youtube](https://youtu.be/3KxVKzq4Ots) | [web](https://www.youtube.com/channel/UCF_F5pKUhSSU9PFNhypcksA) | [logo](http://graph.facebook.com/AXARTELTELEVISION/picture?width=320&height=320) | - | - |
-| VillaFranca TV | - | [web](https://www.youtube.com/user/villafrancatv/) | [logo](http://graph.facebook.com/villafrancatv.vtv/picture?width=320&height=320) | - | - |
 | Telécija | - | [web](https://www.youtube.com/user/TELECIJA) | [logo](http://graph.facebook.com/telecija.televisioncomarcal/picture?width=320&height=320) | - | - |
 | Canal Coín | [m3u8](http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8) | [web](http://canalcoin.com/tv-directo) | [logo](http://canalcoin.com/wp-content/uploads/2017/03/logoHQblanco-300x284.jpg) | - | - |
 | M95 Marbella | [m3u8](https://limited2.todostreaming.es/live/m95-livestream.m3u8) | [web](http://m95tv.es/) | [logo](http://graph.facebook.com/m95tvmarbella/picture?width=320&height=320) | - | - |
@@ -177,7 +176,6 @@
 | Ejea TV | - | [web](http://www.cincovillas.com/bienvenida-a-ejea-television/) | [logo](http://graph.facebook.com/177987645710754/picture?width=320&height=320) | - | - |
 | Digital Fraga TV | - | [web](https://vimeo.com/channels/digitalfragatv) | [logo](http://graph.facebook.com/digitalfragatelevision/picture?width=320&height=320) | - | - |
 | 15TV | - | [web](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/) | [logo](http://graph.facebook.com/1266272630094067/picture?width=320&height=320) | - | - |
-| Canal 44 | - | [web](http://www.canal44.tv/endirecto/directo.php) | [logo](http://www.canal44.tv/canal44-2-0-1/images/stories/Logo_c44_175.jpg) | - | - |
 | lacomarca.tv | - | [web](https://www.lacomarca.net/television/comarca-tv/) | [logo](http://graph.facebook.com/lacomarcanews/picture?width=320&height=320) | - | - |
 
 ### Asturias
@@ -479,7 +477,7 @@
 | tv-A | [m3u8](http://5.39.65.105/hls/tvaxa.m3u8) | [web](http://www.tv-a.es/) | [logo](http://graph.facebook.com/tvArtequatre/picture?width=320&height=320) | - | - |
 | Alicantí TV | [m3u8](http://5.39.65.105/hls/alacantixa.m3u8) | [web](http://www.alacantitv.com/en-directo/) | [logo](http://graph.facebook.com/alacantitv/picture?width=320&height=320) | - | - |
 | RiberaTV | [m3u8](https://common01.todostreaming.es/live/ribera-livestream.m3u8) | [web](http://www.riberatelevisio.com/) | [logo](http://graph.facebook.com/ribera.televisio/picture?width=320&height=320) | - | - |
-| Punt 3 | - | [web](https://www.boustv.es/) | [logo](https://pbs.twimg.com/profile_images/468813580310028288/kBS92Vx7_400x400.png) | - | - |
+| Punt 3 | - | [web](https://www.punt3.es/) | [logo](http://graph.facebook.com/Punt3Television/picture?width=320&height=320) | - | - |
 | TV4 La Vall | [m3u8](https://common01.todostreaming.es/live/tarson-livestream.m3u8) | [web](http://teve4lavall.com/) | [logo](http://graph.facebook.com/TV4LaVall/picture?width=320&height=320) | - | - |
 | TeVe4 | [m3u8](https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8) | [web](http://teve4.es/) | [logo](http://graph.facebook.com/teve4televisio/picture?width=320&height=320) | - | - |
 | Información TV | [m3u8](http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/master.m3u8) | [web](http://www.informaciontv.es/) | [logo](http://graph.facebook.com/103588046375790/picture?width=320&height=320) | - | - |
