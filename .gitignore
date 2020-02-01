@@ -1,5 +1,3 @@
 venv/
 .idea/
 __pycache__/
-script/public/output/
-script
