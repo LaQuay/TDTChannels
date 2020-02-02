@@ -487,6 +487,7 @@
 | Comarcal Televisió | - | [web](http://www.comarcal.tv/#tv_online) | [logo](https://graph.facebook.com/televisiocomarcalcostera/picture?width=320&height=320) | - | - |
 | 8 La Marina TV | - | [web](http://8lamarinatv.com/) | [logo](https://graph.facebook.com/420993761384692/picture?width=320&height=320) | - | - |
 | Une Vinalopó | [m3u8](http://78.41.83.88:8880/hls/unesd.m3u8) | [web](https://www.unevinalopo.es/directo/) | [logo](https://graph.facebook.com/UneVinalopo/picture?width=320&height=320) | - | - |
+| Burriana TV | - | [web](https://www.ok.ru/videoembed/1259912502784?nochat=1&autoplay=1) | [logo](http://graph.facebook.com/burrianateve/picture?width=320&height=320) | - | W3U |
 | Gestiona TV | [m3u8](http://37.187.7.106/gestionatv/live.m3u8) | [web](http://www.gestionaradiovalencia.com/television/) | [logo](https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg) | - | - |
 | Elche 7 TV | [m3u8](http://154.60.248.32/hls/canal1.m3u8) | [web](https://elche7tv.es/) | [logo](https://graph.facebook.com/Elche7Tv/picture?width=320&height=320) | - | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | [logo](https://graph.facebook.com/enlacetv/picture?width=320&height=320) | - | - |
