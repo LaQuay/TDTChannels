@@ -1,11 +1,16 @@
 # TDTChannels - Canales IPTV en abierto
-
-Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales. Además la programación está disponible e integrada automáticamente en los ficheros generados.
+Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y a los principales canales Internacionales del mundo. Además la programación EPG está disponible e integrada automáticamente en los ficheros generados.
 
 ### Listas de reproducción
 *(Última actualización: 02/02/2019)*
 
 En este apartado se incluyen las listas de los canales.
+
+| Tipo | Formato | | | | | |
+| -	| - | -	| -	| -	| -	| -	|
+| **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](http://www.tdtchannels.com/lists/channels.json) | [m3u8](http://www.tdtchannels.com/lists/channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/channels.m3u) | [enigma2](http://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv)	| [w3u](http://www.tdtchannels.com/lists/channels.w3u) |
+| **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](http://www.tdtchannels.com/lists/radio_channels.json) | [m3u8](http://www.tdtchannels.com/lists/radio_channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/radio_channels.m3u) | - | [w3u](http://www.tdtchannels.com/lists/radio_channels.w3u) |
+| **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml) | - | - | - | - |
 
 - *Navegador*: Visionado "manual" en el navegador.
 - *JSON*: Formato de datos especial para otros programas de lectura de datos.
@@ -14,20 +19,13 @@ En este apartado se incluyen las listas de los canales.
 - *W3U*: Formato especial para [Wiseplay](https://play.google.com/store/apps/details?id=com.wiseplay).
 - *EPG*: Si no te carga de forma automática, deberás incluir la ruta en tu reproductor. 
 
-| Tipo | Formato | | | | | |
-| -	| - | -	| -	| -	| -	| -	|
-| **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](http://www.tdtchannels.com/lists/channels.json) | [m3u8](http://www.tdtchannels.com/lists/channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/channels.m3u) | [enigma2](http://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv)	| [w3u](http://www.tdtchannels.com/lists/channels.w3u) |
-| **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](http://www.tdtchannels.com/lists/radio_channels.json) | [m3u8](http://www.tdtchannels.com/lists/radio_channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/radio_channels.m3u) | - | [w3u](http://www.tdtchannels.com/lists/radio_channels.w3u) |
-| **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml) | - | - | - | - |
-
 ### Herramientas
 | | Enlace |
 | -	| -	|
-| **Reproductor online** | [Reproductor web](http://marcvila.me/tdt/) |
+| **Web oficial** | [Reproductor web](http://marcvila.me/tdt/) |
 | **Aplicación Android** | [Repositorio de la Aplicación Android](https://github.com/LaQuay/TDTChannels-APP) |
 | **Grupo en Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
 | **Canal de Avisos en Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
-
 
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
@@ -67,11 +65,17 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
-### Aplicaciones que consumen este repositorio
-- [TDTChannels-APP](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del reposiorio. Gratuita, open source, sin anuncios.
-- [FeedTV](https://github.com/juanro49/FeedTV): Aplicación que te permite leer noticias mediante RSS además de poder ver canales de este repositorio. Gratuita y de código abierto
-- [tvRadio ES](https://testflight.apple.com/join/Vub5KWM1): Aplicación iOS. Gratuita, sin anuncios.
-- [SMARTDT](https://play.google.com/store/apps/details?id=com.smartdt): Aplicación Android. Gratuita, sin anuncios. 
+### Aplicaciones/Webs que consumen este repositorio
+#### Android
+- [TDTChannels-APP](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del repositorio. Gratuita, de código abierto, sin anuncios.
+- [FeedTV](https://github.com/juanro49/FeedTV): Aplicación que te permite leer noticias mediante RSS además de poder ver canales de este repositorio. Gratuita y de código abierto.
+- [.TV España](https://play.google.com/store/apps/details?id=fixnowitcompanytv.com.tvspain)
+
+#### iOS
+- [tvRadio ES](https://testflight.apple.com/join/rvIHQRLj): Se le da soporte en nuestro grupo de Telegram. Gratuita, sin anuncios.
+
+#### Web
+- [TELE ONLINE](http://teleonline.org/)
 
 ### Licencia del proyecto
 [LICENSE](https://github.com/LaQuay/TDTChannels/blob/master/LICENSE) 
