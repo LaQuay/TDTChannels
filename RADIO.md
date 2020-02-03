@@ -116,7 +116,7 @@
 | Onda Sur | [mp3](http://streaming8.elitecomunicacion.es:8206/;stream.mp3) | [web](http://www.ondasur1038.com/) | [logo](https://graph.facebook.com/ondasurradio/picture?width=320&height=320) | - |
 | Onda Jaén Radio | [stream](http://87.117.208.118:15067/stream) | [web](http://ondajaen.es/web/radio/) | [logo](https://graph.facebook.com/ondajaenradioytelevision/picture?width=320&height=320) | - |
 | Canal Málaga Radio | [mp3](http://195.55.74.203/canalmalaga/live.mp3) | [web](http://canalmalaga.es/radio-directo)| [logo](https://pbs.twimg.com/profile_images/971928392592449536/dXg0E5Ga_400x400.jpg) | - |
-| Radio Mijas | - | [web](http://www.mijascomunicacion.org/index.php/radio-mijas-seccion) | [logo](https://graph.facebook.com/Mijas340/picture?width=320&height=320) | - |
+| Radio Mijas | [mp3](https://wecast-b03-03.flumotion.com/mijas-radio/shoutcast.mp3) | [web](http://www.mijascomunicacion.org/index.php/radio-mijas-seccion) | [logo](https://graph.facebook.com/Mijas340/picture?width=320&height=320) | - |
 | Radio Marbella | [stream](http://radio1.todostreaming.es:8126/;str) | [web](http://rtvmarbella.tv/radio-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=320&height=320) | - |
 
 ### Aragón
