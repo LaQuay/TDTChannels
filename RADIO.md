@@ -89,7 +89,7 @@
 | Cadena SER - Levante | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_LEVANTE.mp3) | [web](https://play.cadenaser.com/emisora/ser_levante) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Radio Sevilla | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3) | [web](https://play.cadenaser.com/emisora/radio_sevilla) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Candil Radio | [stream](http://s6.viastreaming.net:7100/;) | [web](http://candilradio.com/) | [Logo](https://graph.facebook.com/890332081024749/picture?width=320&height=320) | - |
-| Central FM | - | [web](http://www.centralfm.com/) | [logo](https://graph.facebook.com/131322746891532/picture?width=320&height=320) | - |
+| Central FM | [mp3](http://s29.myradiostream.com:4922/;listen.mp3) | [web](http://www.centralfm.com/) | [logo](https://graph.facebook.com/131322746891532/picture?width=320&height=320) | - |
 | Radio Dance | [stream](https://listen.radionomy.com/1-radio-dance) | [web](https://www.radionomy.com/en/radio/1-radio-dance/listen/) | [logo](https://graph.facebook.com/radiodance.net/picture?width=320&height=320) | - |
 | Elite Radio | [stream](http://srv0625.lcinternet.com:8005/stream) | [web](https://eliteradiosevilla.es/) | [logo](https://graph.facebook.com/eliteradiosevilla/picture?width=320&height=320) | - |
 | Fiebre Latina FM | [stream](http://5.135.183.124:8255/stream) | [web](http://www.fiebrelatinaradio.com/emisora.html) | [logo](https://graph.facebook.com/fiebrelatinaradio/picture?width=320&height=320) | - |
