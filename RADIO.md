@@ -172,7 +172,7 @@
 | - | - | - | - | - |
 | Canarias Radio | [m3u8](http://streaming2.mad.idec.net/rtvcradio/rtvcradio.drb.stream/playlist.m3u8) | [web](http://www.rtvc.es/canariasradio/directo.aspx) | [logo](https://graph.facebook.com/CanariasRadioLaAutonomica/picture?width=320&height=320) | - |
 | Kiss FM Canarias | [mp3](http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3) | [web](http://kissfm.es/player/canarias.html) | [logo](https://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
-| Atlántica FM | - | [web](https://www.radioatlantica.com.bo/) | [logo](https://graph.facebook.com/radioatlanticabolivia/picture?width=320&height=320) | - |
+| Atlántica FM | [stream](https://s07.maxcast.com.br:8300/live) | [web](http://www.radioatlanticafm.com/) | [logo](https://graph.facebook.com/radioatlanticabolivia/picture?width=320&height=320) | - |
 | Canal 4 Tenerife | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal4tenerife.tv/radio/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=320&height=320) | - |
 | Radio El Día | [mp3](http://185.50.197.212:9974/;stream.mp3) | [web](https://eldia.fm/online.htm) | [logo](https://graph.facebook.com/RadioELDIA/picture?width=320&height=320) | - |
 | Cadena SER - Radio Club Tenerife | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TENERIFE.mp3) | [web](https://play.cadenaser.com/emisora/radio_club_tenerife) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
