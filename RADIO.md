@@ -376,7 +376,7 @@
 | - | - | - | - | - |
 | Onda Cero Murcia | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/chunklist.m3u8) | [web](https://www.ondacero.es/emisoras/murcia/murcia/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Onda Cero Noroeste | [m3u8](http://stream.ondaceronoroeste.es/ondacero-64.mp3) | [web](https://www.ondaceronoroeste.es/directo.html) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
-| Onda Regional de Murcia | - | [web](https://www.orm.es/directo/orm/) | [logo](https://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
+| Onda Regional de Murcia | [m3u8](https://live.redctnet.es/live/orm/orm/playlist.m3u8) | [web](https://www.orm.es/directo/orm/) | [logo](https://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
 | Onda Regional Música | [m3u8](https://live.redctnet.es/live/ormmusical/ormmusical/playlist.m3u8) | [web](https://www.orm.es/directo/or-musica/) | [logo](https://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
 | Cadena SER - Radio Murcia | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_murcia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](https://tunein.com/radio/Radio-Calasparra-1075-s113080/) | [logo](https://graph.facebook.com/349014238632372/picture?width=320&height=320) | - |
