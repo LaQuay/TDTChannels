@@ -4,7 +4,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 ### Listas de reproducción
 *(Última actualización: 02/02/2019)*
 
-En este apartado se incluyen las listas de los canales.
+[Aquí](http://www.tdtchannels.com/lists/) podéis comprobar la última actualización de los canales, así como el listado de todos los disponibles. 
 
 | Tipo | Formato | | | | | |
 | -	| - | -	| -	| -	| -	| -	|
