@@ -281,7 +281,7 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| RTVCE | - | [web](http://www.rtvce.es/radio_online) | [logo](https://graph.facebook.com/RTVCE/picture?width=320&height=320) | - |
+| RTVCE | [m3u8](https://5924d3ad0efcf.streamlock.net/ceutaradio/ceutaradiolive/chunklist_w753025196.m3u8) | [web](https://www.rtvce.es/seccion/radio/) | [logo](https://graph.facebook.com/RTVCE/picture?width=320&height=320) | - |
 
 ### Extremadura
 
