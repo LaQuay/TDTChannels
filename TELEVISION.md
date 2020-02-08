@@ -356,11 +356,11 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TVG | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](https://graph.facebook.com/CRTVG/picture?width=320&height=320) | TVGAL.TDTChannelsEPG | - |
+| TVG HD | [m3u8](http://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](https://graph.facebook.com/CRTVG/picture?width=320&height=320) | TVGAL.TDTChannelsEPG | - |
 | TVG 2 HD | [m3u8 # 1](http://events2-crtvg.flumotion.com/playlist.m3u8) - [m3u8 # 2](http://events3-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](https://i.ibb.co/2jtvMq0/TVG-GALICIA-2.png) | - | - |
-| TVG Infantil | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | [logo](https://graph.facebook.com/oxabarinclub/picture?width=320&height=320) | - | - |
-| TVG Musigal HD | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | [logo](https://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
-| TVG Cultura HD | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura) | [logo](https://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Infantil HD | [m3u8](http://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | [logo](https://graph.facebook.com/oxabarinclub/picture?width=320&height=320) | - | - |
+| TVG Musigal | [m3u8](http://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | [logo](https://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| TVG Cultura | [m3u8](http://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura) | [logo](https://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Momentos G | [m3u8](http://momentog-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG) | [logo](https://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Evento 1 HD | [m3u8](http://events1-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento1) | [logo](https://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | TVG Evento 2 HD | [m3u8](http://events2-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento2) | [logo](https://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
