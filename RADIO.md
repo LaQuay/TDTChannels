@@ -228,7 +228,7 @@
 | LOS40 Catalunya | [mp3](https://20073.live.streamtheworld.com/LOS40_CAT.mp3) | [web](https://play.los40.com/emisora/los40_catalunya/) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | RAC1 | [nsv](http://rac1.radiocat.net/;*.nsv) | [web](https://www.rac1.cat) | [logo](https://graph.facebook.com/rac1oficial/picture?width=320&height=320) | - |
 | RAC 105 | [nsv](http://rac105.radiocat.net/;*.nsv) | [web](http://www.rac105.cat) | [logo](https://graph.facebook.com/rac105/picture?width=320&height=320) | - |
-| Ràdio 4 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne4_1@793569/master.m3u8) | [web](http://www.rtve.es/radio/radio4-endirecto/) | [logo](https://graph.facebook.com/Radio4RNE/picture?width=320&height=320) | - |
+| Ràdio 4 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne4_1@793569/master.m3u8) | [web](http://www.rtve.es/radio/radio4-endirecto/) | [logo](https://pbs.twimg.com/profile_images/463278104547303424/pjD8VKWi_400x400.jpeg) | - |
 | Flaix FM | [stream](https://www.flaixfm.cat/ca/api/player/live) | [web](https://www.flaixfm.cat/) | [logo](https://graph.facebook.com/flaixfm/picture?width=320&height=320) | - |
 | Ràdio Flaixbac | [stream](https://www.flaixbac.cat/ca/api/player/live) | [web](https://www.flaixbac.cat/) | [logo](https://graph.facebook.com/flaixbac/picture?width=320&height=320) | - |
 | Bas Ràdio | [mp3](http://s1streamingradio.desafiohosting.com:8130/listen.mp3) | [web](https://basradioweb.wordpress.com/) | [logo](https://graph.facebook.com/RADIOENBASONLINE2/picture?width=320&height=320) | - |
