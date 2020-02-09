@@ -10,7 +10,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | -	| - | -	| -	| -	| -	| -	|
 | **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](http://www.tdtchannels.com/lists/channels.json) | [m3u8](http://www.tdtchannels.com/lists/channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/channels.m3u) | [enigma2](http://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv)	| [w3u](http://www.tdtchannels.com/lists/channels.w3u) |
 | **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](http://www.tdtchannels.com/lists/radio_channels.json) | [m3u8](http://www.tdtchannels.com/lists/radio_channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/radio_channels.m3u) | - | [w3u](http://www.tdtchannels.com/lists/radio_channels.w3u) |
-| **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml) | - | - | - | - |
+| **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](http://www.tdtchannels.com/epg/TV.xml) | - | - | - | - |
 
 - *Navegador*: Visionado "manual" en el navegador.
 - *JSON*: Formato de datos especial para otros programas de lectura de datos.
