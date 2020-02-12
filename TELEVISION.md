@@ -230,7 +230,7 @@
 | TeleToledo | [m3u8](https://cdn01.yowi.tv/1H23S04G4M/master.m3u8) | [web](http://www.teletoledo.tv/index.php/tv-en-directo) | [logo](https://graph.facebook.com/Teletoledo/picture?width=320&height=320) | - | - |
 | Imás TV HD | [m3u8](https://secure3.todostreaming.es/live/imastv-livestream.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | [logo](https://graph.facebook.com/television.imas/picture?width=320&height=320) | - | - |
 | Alcarria TV | [m3u8](http://217.182.77.27/live/alcarriatv-livestream.m3u8) | [web](http://www.alcarria.tv/htmlPlayer.html) | [logo](https://graph.facebook.com/AlcarriaTV/picture?width=320&height=320) | - | - |
-| Canal Diocesano Toledo | [m3u8](https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8) | [web](http://rtvd.org/) | [logo](https://graph.facebook.com/radiotelevisiondiocesanatoledo/picture?width=320&height=320) | - | - |
+| Canal Diocesano Toledo | [m3u8](https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8) | [web](http://rtvd.org/) | [logo](https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_400x400.jpg) | - | - |
 | TV Almansa | - | [web](https://zonacliente.almatelecom.es/videos/canalimagen) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | - |
 | InfoCanal TV Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | - |
 | Guada TV | [m3u8](http://95.216.150.122:1935/gcm2/gcm2/master.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=320&height=320) | - | - |
