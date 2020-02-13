@@ -78,6 +78,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Hit TV | - | [web](http://www.hittv.es/) | [logo](https://graph.facebook.com/hittv.es/picture?width=320&height=320) | - | - |
+| EuroLatina TV | [m3u8](https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8) | [web](https://www.eurolatinatv.com/) | [logo](https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320) | - | - |
 
 ## Webcams
 
