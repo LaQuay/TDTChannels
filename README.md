@@ -69,7 +69,6 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 #### Android
 - [TDTChannels](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del repositorio. Gratuita, de código abierto, sin anuncios.
 - [FeedTV](https://github.com/juanro49/FeedTV): Aplicación que te permite leer noticias mediante RSS además de poder ver canales de este repositorio. Gratuita y de código abierto.
-- [.TV España](https://play.google.com/store/apps/details?id=fixnowitcompanytv.com.tvspain)
 
 #### iOS
 - [tvRadio ES](https://testflight.apple.com/join/rvIHQRLj): Se le da soporte en nuestro grupo de Telegram. Gratuita, sin anuncios.
