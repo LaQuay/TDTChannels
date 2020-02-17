@@ -72,6 +72,8 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 #### iOS
 - [tvRadio ES](https://testflight.apple.com/join/rvIHQRLj): Se le da soporte en nuestro grupo de Telegram. Gratuita, sin anuncios.
+- [TDTChannels](https://github.com/Rubenfer/TDTChannels): De Rubenfer. Gratuita, de código abierto, sin anuncios.
+- [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Gratuita, sin anuncios.
 
 #### Web
 - [TDTChannels](http://www.tdtchannels.com/): Web oficial para reproducir la lista de este proyecto.
