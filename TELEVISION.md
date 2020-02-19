@@ -558,6 +558,11 @@
 | HqM Arabic | [m3u8](https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8) | [web](https://hqm.es/hqm-arabic/) | [logo](https://hqm.es/wp-content/uploads/2019/11/arabic-1080-1024x614.png) | - | W3U |
 | Retro Music TV | [m3u8 # Checo](http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8) | [web](http://retromusic.cz/#retro_tv) | [logo](https://graph.facebook.com/retromusic/picture?width=320&height=320) | - | - |
 | California Music Channel | [m3u8 # Inglés](https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8) | [web](https://www.cmc-tv.com/) | [logo](https://graph.facebook.com/CaliforniaMusicChannel/picture?width=320&height=320) | - | - |
+| Indie Wave | [m3u8 # Inglés](https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8) | [web](https://indiewaveentertainment.com/) | [logo](https://graph.facebook.com/IndieWaveEntertainment/picture?width=320&height=320) | - | - |
+| V2Beat TV | [m3u8 # Inglés](https://abr.de1se01.v2beat.live/playlist.m3u8) | [web](https://www.vibee.tv/) | [logo](https://graph.facebook.com/vtwobeat/picture?width=320&height=320) | - | - |
+| 30A Music | [m3u8 # Inglés](http://30a-tv.com/music.m3u8) | [web](http://30a-tv.com/30a/) | [logo](https://graph.facebook.com/30atv/picture?width=320&height=320) | - | - |
+| Music Top | [m3u8](http://30a-tv.com/music.m3u8) | [web](https://www.diario26.com/musictop/) | [logo](https://graph.facebook.com/MusictopArgentina/picture?width=320&height=320) | - | - |
+| Portalfoxmix | [m3u8](https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8) | [web](https://www.portalfoxmix.cl/web/) | [logo](https://graph.facebook.com/portalfoxmixtv/picture?width=320&height=320) | - | - |
 
 ## Andorra
 
