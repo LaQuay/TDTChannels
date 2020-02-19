@@ -561,6 +561,7 @@
 | Indie Wave | [m3u8 # Inglés](https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8) | [web](https://indiewaveentertainment.com/) | [logo](https://graph.facebook.com/IndieWaveEntertainment/picture?width=320&height=320) | - | - |
 | V2Beat TV | [m3u8 # Inglés](https://abr.de1se01.v2beat.live/playlist.m3u8) | [web](https://www.vibee.tv/) | [logo](https://graph.facebook.com/vtwobeat/picture?width=320&height=320) | - | - |
 | 30A Music | [m3u8 # Inglés](http://30a-tv.com/music.m3u8) | [web](http://30a-tv.com/30a/) | [logo](https://graph.facebook.com/30atv/picture?width=320&height=320) | - | - |
+| DanceStar TV | [m3u8 # Inglés](https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8) | [web](http://dancestartv.com/) | [logo](https://graph.facebook.com/DancestarTV/picture?width=320&height=320) | - | - |
 | Music Top | [m3u8](http://30a-tv.com/music.m3u8) | [web](https://www.diario26.com/musictop/) | [logo](https://graph.facebook.com/MusictopArgentina/picture?width=320&height=320) | - | - |
 | Portalfoxmix | [m3u8](https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8) | [web](https://www.portalfoxmix.cl/web/) | [logo](https://graph.facebook.com/portalfoxmixtv/picture?width=320&height=320) | - | - |
 | Telemusica | [m3u8](https://5b464b69d264e.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8) | [web](https://webcache.googleusercontent.com/search?q=cache:FPi-eFGpBY0J:https://www.telemusica.tv/) | [logo](https://graph.facebook.com/telemusica.hit/picture?width=320&height=320) | - | - |
