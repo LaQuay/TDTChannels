@@ -514,6 +514,7 @@
 | CNN | - | [web](https://www.youtube.com/watch?v=OSVmblr0tP0) | [logo](https://graph.facebook.com/CNNee/picture?width=320&height=320) | - | - |
 | Bloomberg Europe | [m3u8](https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8) | [web](https://www.bloomberg.com/live/europe) | [logo](https://graph.facebook.com/bloombergbusiness/picture?width=320&height=320) | - | - |
 | RT | [m3u8](https://rt-esp.secure.footprint.net/1102.m3u8) | [web](https://actualidad.rt.com/en_vivo2) | [logo](https://graph.facebook.com/ActualidadRT/picture?width=320&height=320) | - | - |
+| RT Documentary Channel | [m3u8](https://rt-doc-gd.secure2.footprint.net/1101.m3u8) | [web](https://rtd.rt.com/on-air/) | [logo](https://en.wikipedia.org/wiki/RT_Documentary#/media/File:RTD-TV-logo.png) | - | - |
 | DW | [m3u8](https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) - [m3u8 # Inglés](https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8) | [web](https://www.dw.com/es/multimedia/tv-en-vivo/s-100837) | [logo](https://graph.facebook.com/dw.espanol/picture?width=320&height=320) | - | - |
 | Venezolana de Televisión | - | [web](http://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=320&height=320) | - | - |
 | CGTN (China Global Television Network) | [m3u8](https://livees.cgtn.com/1000e/prog_index.m3u8) | [web](https://www.cgtn.com/) | [logo](https://graph.facebook.com/cgtnenespanol/picture?width=320&height=320) | - | - |
