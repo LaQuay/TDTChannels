@@ -519,6 +519,7 @@
 | RT USA | [m3u8](https://rt-usa.secure.footprint.net/1105.m3u8) | [web](https://www.rt.com/on-air/) | [logo](https://graph.facebook.com/ActualidadRT/picture?width=320&height=320) | - | - |
 | RT Documentary Channel | [m3u8](https://rt-doc-gd.secure2.footprint.net/1101.m3u8) | [web](https://rtd.rt.com/on-air/) | [logo](https://en.wikipedia.org/wiki/RT_Documentary#/media/File:RTD-TV-logo.png) | - | - |
 | DW | [m3u8](https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) - [m3u8 # Inglés](https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8) | [web](https://www.dw.com/es/multimedia/tv-en-vivo/s-100837) | [logo](https://graph.facebook.com/dw.espanol/picture?width=320&height=320) | - | - |
+| Al Jazeera | [m3u8](https://live-hls-web-aje.getaj.net/AJE/index.m3u8) | [web](https://www.aljazeera.com/live/) | [logo](https://graph.facebook.com/aljazeera/picture?width=320&height=320) | - | - |
 | Venezolana de Televisión | - | [web](http://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=320&height=320) | - | - |
 | CGTN (China Global Television Network) | [m3u8](https://livees.cgtn.com/1000e/prog_index.m3u8) | [web](https://www.cgtn.com/) | [logo](https://graph.facebook.com/cgtnenespanol/picture?width=320&height=320) | - | - |
 | NASA TV Public Education| - | [web](https://www.nasa.gov/multimedia/nasatv/#public) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
