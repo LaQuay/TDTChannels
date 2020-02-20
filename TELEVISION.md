@@ -566,6 +566,9 @@
 | Music Top | [m3u8](https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8) | [web](https://www.diario26.com/musictop/) | [logo](https://graph.facebook.com/MusictopArgentina/picture?width=320&height=320) | - | - |
 | Portalfoxmix | [m3u8](https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8) | [web](https://www.portalfoxmix.cl/web/) | [logo](https://graph.facebook.com/portalfoxmixtv/picture?width=320&height=320) | - | - |
 | Telemusica | [m3u8](https://5b464b69d264e.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8) | [web](https://www.telemusica.tv/) | [logo](https://graph.facebook.com/telemusica.hit/picture?width=320&height=320) | - | - |
+| Melody Channel | [m3u8](https://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8) | [web](https://melodychannel.tv/) | [logo](https://graph.facebook.com/melodychanneltv/picture?width=320&height=320) | - | - |
+| Ready TV | [m3u8](http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8) | [web](http://readytelevision.com/envivo/) | [logo](https://twitter.com/readycanal6/photo) | - | - |
+| Top Latino TV | [m3u8](http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8) | [web](http://readytelevision.com/envivo/) | [logo](https://twitter.com/readycanal6/photo) | - | - |
 
 ## Andorra
 
