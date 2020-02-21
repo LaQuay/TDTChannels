@@ -17,5 +17,6 @@
 - José Antonio [@nomentero](https://github.com/nomenteros)
 - Juan [@okelet](https://github.com/okelet)
 - Valentin [@vk496](https://github.com/vk496)
+- [PIC16f841](https://github.com/PIC16f841)
 
 Si haces una *Pull Request*, no olvides incluirte en este fichero. 
