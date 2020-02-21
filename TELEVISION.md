@@ -555,6 +555,11 @@
 | Retro Music TV | [m3u8 # Checo](http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8) | [web](http://retromusic.cz/#retro_tv) | [logo](https://graph.facebook.com/retromusic/picture?width=320&height=320) | - | - |
 | California Music Channel | [m3u8 # Inglés](https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8) | [web](https://www.cmc-tv.com/) | [logo](https://graph.facebook.com/CaliforniaMusicChannel/picture?width=320&height=320) | - | - |
 | Zee Mundo | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://zeemundo.com/) | [logo](https://graph.facebook.com/zeemundo/picture?width=320&height=320) | - | - |
+| Olympic Channel | [m3u8 # Inglés](http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
+| Olympic Channel 2 | [m3u8 # Inglés](http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
+| Olympic Channel 3 | [m3u8 # Inglés](http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
+| Olympic Channel 4 | [m3u8 # Inglés](http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
+| Olympic Channel 5 | [m3u8 # Inglés](http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
 
 ## Andorra
 
