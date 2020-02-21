@@ -569,6 +569,7 @@
 | Melody Channel | [m3u8](https://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8) | [web](https://melodychannel.tv/) | [logo](https://graph.facebook.com/melodychanneltv/picture?width=320&height=320) | - | - |
 | Ready TV | [m3u8](http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8) | [web](http://readytelevision.com/envivo/) | [logo](https://twitter.com/readycanal6/photo) | - | - |
 | Top Latino TV | [m3u8](http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8) | [web](http://readytelevision.com/envivo/) | [logo](https://twitter.com/readycanal6/photo) | - | - |
+| La Mega Mundial | [m3u8](https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8) | [web](https://www.lamegamundial.com/) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320) | - | - |
 
 ## Andorra
 
