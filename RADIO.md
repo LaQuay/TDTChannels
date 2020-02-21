@@ -424,6 +424,7 @@
 | LOS40 Castellón | [stream](http://stream.radiocastellon.com/40) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | LOS40 Classic Castellón | [stream](http://stream.radiocastellon.com/40cl) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - |
 | Máxima FM Castellón | [stream](http://stream.radiocastellon.com/maximafm) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/radio.maxima.fm/picture?width=320&height=320) | - |
+| Teleelx Radio | [mp3](http://95.211.109.206:8140/start/;stream.mp3) | [web](https://teleelx.es/radio/) | [logo](http://graph.facebook.com/teleelx/picture?width=320&height=320) | - |
 | UPV Radio | - | [web](http://www.upv.es/rtv/radio/directo) | [logo](https://graph.facebook.com/UPVTV/picture?width=320&height=320) | - |
 | Vega Baja Radio | [stream](http://185.223.216.183:8000/;stream/1) | [web](https://vegabajaradio.com/) | [logo](https://graph.facebook.com/vegabajaradio/picture?width=320&height=320) | - |
 
