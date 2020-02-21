@@ -517,8 +517,8 @@
 | DW | [m3u8](https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) | [web](https://www.dw.com/es/multimedia/tv-en-vivo/s-100837) | [logo](https://graph.facebook.com/dw.espanol/picture?width=320&height=320) | - | - |
 | Venezolana de Televisión | - | [web](http://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=320&height=320) | - | - |
 | CGTN (China Global Television Network) | [m3u8](https://livees.cgtn.com/1000e/prog_index.m3u8) | [web](https://www.cgtn.com/) | [logo](https://graph.facebook.com/cgtnenespanol/picture?width=320&height=320) | - | - |
-| NASA TV Public Education| - | [web](https://www.nasa.gov/multimedia/nasatv/#public) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
-| NASA TV Media | - | [web](https://www.nasa.gov/multimedia/nasatv/#media) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
+| NASA TV Public Education| [m3u8](https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
+| NASA TV Media | [m3u8](https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#media) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
 | NASA TV ISS Views | [m3u8](http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8) | [web](http://www.ustream.tv/channel/live-iss-stream) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
 | NASA TV HD ISS Views | [m3u8](http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#iss) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
 | XITE | [m3u8](http://highvolume03.streampartner.nl/vleugels_hd6/livestream/master.m3u8) | [web](https://xite.nl/live) | [logo](https://graph.facebook.com/XITENL/picture?width=320&height=320) | - | - |
@@ -554,6 +554,12 @@
 | HqM Arabic | [m3u8](https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8) | [web](https://hqm.es/hqm-arabic/) | [logo](https://hqm.es/wp-content/uploads/2019/11/arabic-1080-1024x614.png) | - | W3U |
 | Retro Music TV | [m3u8 # Checo](http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8) | [web](http://retromusic.cz/#retro_tv) | [logo](https://graph.facebook.com/retromusic/picture?width=320&height=320) | - | - |
 | California Music Channel | [m3u8 # Inglés](https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8) | [web](https://www.cmc-tv.com/) | [logo](https://graph.facebook.com/CaliforniaMusicChannel/picture?width=320&height=320) | - | - |
+| Zee Mundo | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://zeemundo.com/) | [logo](https://graph.facebook.com/zeemundo/picture?width=320&height=320) | - | - |
+| Olympic Channel | [m3u8 # Inglés](http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
+| Olympic Channel 2 | [m3u8 # Inglés](http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
+| Olympic Channel 3 | [m3u8 # Inglés](http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
+| Olympic Channel 4 | [m3u8 # Inglés](http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
+| Olympic Channel 5 | [m3u8 # Inglés](http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
 
 ## Andorra
 
