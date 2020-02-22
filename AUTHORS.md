@@ -9,6 +9,7 @@
 #### Contributions (in alphabetical order)
 - Aitor [@aitorillo](https://github.com/aitorillo)
 - Alex Gabriel [97carmine](https://github.com/97carmine)
+- Angel [PIC16f841](https://github.com/PIC16f841)
 - CaRLymx [@carlymx](https://github.com/carlymx)
 - Carlos [@profesorasix](https://github.com/profesorasix)
 - Carratraka [@carratraka](https://github.com/carratraka)
@@ -17,6 +18,5 @@
 - José Antonio [@nomentero](https://github.com/nomenteros)
 - Juan [@okelet](https://github.com/okelet)
 - Valentin [@vk496](https://github.com/vk496)
-- [PIC16f841](https://github.com/PIC16f841)
 
 Si haces una *Pull Request*, no olvides incluirte en este fichero. 
