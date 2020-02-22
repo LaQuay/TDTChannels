@@ -568,7 +568,7 @@
 | Portalfoxmix | [m3u8](https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8) | [web](https://www.portalfoxmix.cl/web/) | [logo](https://graph.facebook.com/portalfoxmixtv/picture?width=320&height=320) | - | - |
 | Telemusica | [m3u8](https://5b464b69d264e.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8) | [web](https://www.telemusica.tv/) | [logo](https://graph.facebook.com/telemusica.hit/picture?width=320&height=320) | - | - |
 | Melody Channel | [m3u8](https://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8) | [web](https://melodychannel.tv/) | [logo](https://graph.facebook.com/melodychanneltv/picture?width=320&height=320) | - | - |
-| Ready TV | [m3u8](http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8) | [web](http://readytelevision.com/envivo/) | [logo](https://twitter.com/readycanal6/photo) | - | - |
+| Ready TV | [m3u8](http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8) | [web](http://readytelevision.com/envivo/) | [logo](https://graph.facebook.com/ReadyTelevision/picture?width=320&height=320) | - | - |
 | Top Latino TV | [m3u8](http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8) | [web](https://www.toplatino.net/) | [logo](https://graph.facebook.com/toplatinotv/picture?width=320&height=320) | - | - |
 | La Mega Mundial | [m3u8](https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8) | [web](https://www.lamegamundial.com/) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320) | - | - |
 | Zee Mundo | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://zeemundo.com/) | [logo](https://graph.facebook.com/zeemundo/picture?width=320&height=320) | - | - |
