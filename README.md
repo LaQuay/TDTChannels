@@ -76,11 +76,11 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 #### iOS
 - [tvRadio ES](https://testflight.apple.com/join/rvIHQRLj): Soporte en Telegram. Gratuita, sin anuncios.
-- [TDTChannels](https://github.com/Rubenfer/TDTChannels): De [RubenApps](https://ruben.app/). Soporte en Telegram. Gratuita, de código abierto, sin anuncios.
+- [TDTChannels](https://github.com/Rubenfer/TDTChannels) - de [RubenApps](https://ruben.app/): Soporte en Telegram. Gratuita, de código abierto, sin anuncios. 
 - [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Soporte en Telegram. Gratuita, sin anuncios.
 
 #### MacOS
-- [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels)
+- [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels) - de [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps).
 
 ### Licencia del proyecto
 [LICENSE](https://github.com/LaQuay/TDTChannels/blob/master/LICENSE) 
