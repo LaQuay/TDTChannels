@@ -66,6 +66,10 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Aplicaciones/Webs que consumen este repositorio
+#### Web
+- [TDTChannels](http://www.tdtchannels.com/): Soporte en Telegram. Web oficial para reproducir la lista de este proyecto.
+- [TELE ONLINE](http://teleonline.org/)
+
 #### Android
 - [TDTChannels](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del repositorio. Soporte en Telegram. Gratuita, de código abierto, sin anuncios.
 - [FeedTV](https://github.com/juanro49/FeedTV): Aplicación que te permite leer noticias mediante RSS además de poder ver canales de este repositorio. Gratuita y de código abierto.
@@ -75,9 +79,8 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 - [TDTChannels](https://github.com/Rubenfer/TDTChannels): De [RubenApps](https://ruben.app/). Soporte en Telegram. Gratuita, de código abierto, sin anuncios.
 - [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Soporte en Telegram. Gratuita, sin anuncios.
 
-#### Web
-- [TDTChannels](http://www.tdtchannels.com/): Soporte en Telegram. Web oficial para reproducir la lista de este proyecto.
-- [TELE ONLINE](http://teleonline.org/)
+#### MacOS
+- [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels)
 
 ### Licencia del proyecto
 [LICENSE](https://github.com/LaQuay/TDTChannels/blob/master/LICENSE) 
