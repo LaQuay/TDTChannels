@@ -535,6 +535,7 @@
 | Hispan TV | [m3u8](https://live.hispantv.com/live/smil:live.smil/playlist.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://graph.facebook.com/Hispantv/picture?width=320&height=320) | - | - |
 | Locomotion TV | [m3u8](http://locomotiontv.com/envivo/loco_channel/stream.m3u8) | [web](http://locomotiontv.com/envivo) | [logo](https://graph.facebook.com/locomotionxtv/picture?width=320&height=320) | - | - |
 | Cachipum TV | [m3u8](http://23.236.180.26/11580409776/live/playlist.m3u8) | [web](http://cachipum.tv/) | [logo](https://graph.facebook.com/cachipumtv/picture?width=320&height=320) | - | - |
+| Adult Swim - Rick and Morty 24/7 | [m3u8](https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8) | [web](https://www.adultswim.com/streams/rick-and-morty) | [logo](https://graph.facebook.com/adultswim/picture?width=320&height=320) | - | - |
 | United Nations TV | [m3u8](https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8) | [web](http://webtv.un.org/) | [logo](https://graph.facebook.com/unitednations/picture?width=320&height=320) | - | - |
 | Dabl | [m3u8](https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8) | [web](https://www.dabl.com/schedule) | [logo](https://graph.facebook.com/DablNetwork/picture?width=320&height=320) | - | - |
 | ET Live | [m3u8](https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8) | [web](https://www.etonline.com/live) | [logo](https://graph.facebook.com/EntertainmentTonight/picture?width=320&height=320) | - | - |
