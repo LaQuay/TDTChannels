@@ -64,13 +64,6 @@
 | Boing | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](http://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=320&height=320) | Boing.TDTChannelsEPG | - |
 | Clan | - | [web](http://www.rtve.es/infantil/) | [logo](https://graph.facebook.com/clantve/picture?width=320&height=320) | - | - |
 
-## Musicales
-
-| Canal | M3U8 | Web | Logo | EPG ID | Info |
-| - | - | - | - | - | - |
-| Hit TV | - | [web](http://www.hittv.es/) | [logo](https://graph.facebook.com/hittv.es/picture?width=320&height=320) | - | - |
-| EuroLatina TV | [m3u8](https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8) | [web](https://www.eurolatinatv.com/) | [logo](https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320) | - | - |
-
 ## Webcams
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
@@ -537,7 +530,16 @@
 | BUZZR TV | [m3u8 # Inglés](https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8) | [web](https://buzzrtv.com/watch) | [logo](https://graph.facebook.com/BUZZRtv/picture?width=320&height=320) | - | - |
 | 24/7 Retro TV | [m3u8 # Inglés](http://hlsdpi-cdn-rtx01.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8) | [web](http://www.247retro.com/) | [logo](https://graph.facebook.com/247retro/picture?width=320&height=320) | - | - |
 | Classic Arts Showcase | [m3u8 # Inglés](https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8) | [web](http://www.classicartsshowcase.org/) | [logo](https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_400x400.jpg) | - | - |
-| American Horrors Movies | [m3u8 # Inglés](http://170.178.189.70:1935/live/Stream1/playlist.m3u8) | [web](http://www.americanhorrors.com/ | [logo](https://graph.facebook.com/AMERICANHORRORS/picture?width=320&height=320) | - | - |
+| American Horrors Movies | [m3u8 # Inglés](http://170.178.189.70:1935/live/Stream1/playlist.m3u8) | [web](http://www.americanhorrors.com/) | [logo](https://graph.facebook.com/AMERICANHORRORS/picture?width=320&height=320) | - | - |
+| Olympic Channel | [m3u8 # 1 Inglés](http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8) - [m3u8 # 2 Inglés](http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8) - [m3u8 # 3 Inglés](http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8) - [m3u8 # 4 Inglés](http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8) - [m3u8 # 5 Inglés](http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
+| Zee Mundo | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://go.zeemundo.com/canal/zee-mundo-en-vivo) | [logo](https://graph.facebook.com/zeemundo/picture?width=320&height=320) | - | - |
+
+## Musicales
+
+| Canal | M3U8 | Web | Logo | EPG ID | Info |
+| - | - | - | - | - | - |
+| Hit TV | - | [web](http://www.hittv.es/) | [logo](https://graph.facebook.com/hittv.es/picture?width=320&height=320) | - | - |
+| EuroLatina TV | [m3u8](https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8) | [web](https://www.eurolatinatv.com/) | [logo](https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320) | - | - |
 | m2o | [m3u8](http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | [logo](https://graph.facebook.com/radiom2o/picture?width=320&height=320) | - | - |
 | DJing Live | [m3u8](https://www.djing.com/tv/live.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
 | DJing Karaoke | [m3u8](https://www.djing.com/tv/karaoke.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
@@ -591,8 +593,6 @@
 | Vintage Music Radio | [m3u8](https://streamingserver000.viewtvgroup.com/kapanglivetv-playout-vintage-musicradio/tracks-v1a1/mono.m3u8) | [web](https://vintagemusic.group/live-tv/vintagemusicradio/) | [logo](https://graph.facebook.com/vintagemusicgroup/picture?width=320&height=320) | - | - |
 | Vintage Music TV | [m3u8](https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-vintagemusictv.m3u8?chname=kapanglivetv-playout-vintagemusictv&pub=69038e81-0143-4fef-be11-a73feb5d0344&ctype=0&acsurl=viewtv-acs-lb) | [web](https://vintagemusic.group/live-tv/watchvintagetv/) | [logo](https://graph.facebook.com/vintagemusicgroup/picture?width=320&height=320) | - | - |
 | Hit Music Channel | [m3u8](http://hitmusic.hu/hitmusic.m3u8) | [web](http://hitmusic.hu/) | [logo](https://graph.facebook.com/hitmusichu/picture?width=320&height=320) | - | - |
-| Zee Mundo | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://zeemundo.com/) | [logo](https://graph.facebook.com/zeemundo/picture?width=320&height=320) | - | - |
-| Olympic Channel | [m3u8 # 1 Inglés](http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8) - [m3u8 # 2 Inglés](http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8) - [m3u8 # 3 Inglés](http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8) - [m3u8 # 4 Inglés](http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8) - [m3u8 # 5 Inglés](http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
 
 ## Andorra
 
