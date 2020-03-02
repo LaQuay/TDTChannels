@@ -269,7 +269,6 @@
 | betevé web | - | [web](https://beteve.cat/en-directe/web/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | - | W3U |
 | betevé xarxes | - | [web](https://beteve.cat/en-directe/xarxes/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | - | W3U |
 | betevé càmera del temps | - | [web](https://beteve.cat/temps-barcelona/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | - | W3U |
-| El Punt Avui TV | [m3u8](https://liveingesta119.cdnmedia.tv/puntavuitvlive/smil:live.smil/playlist.m3u8) | [web](http://www.elpuntavui.tv/directe.html) | [logo](https://graph.facebook.com/elpuntavuitv/picture?width=320&height=320) | - | - |
 | BDN | [m3u8](http://liveingesta119.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8) | [web](https://www.bdncom.cat/directe/) | [logo](https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_400x400.jpg) | - | - |
 | etv | [m3u8](https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/playlist.m3u8) | [web](http://www.etv.cat/en-directe) | [logo](https://graph.facebook.com/etv.llobregat/picture?width=320&height=320) | - | - |
 | Mataró TV | [m3u8](http://liveingesta119.cdnmedia.tv/m1tvlive/smil:live.smil/master.m3u8) | [web](http://mataroaudiovisual.alacarta.cat/directe) | [logo](https://graph.facebook.com/mataroaudiovisual/picture?width=320&height=320) | - | - |
