@@ -72,6 +72,7 @@
 | RNE 3 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/radio/radio3/directo/) | [logo](https://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
 | RNE 5 | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/rne_c102_lv3_aosv4_gl0.m3u8) | [web](https://www.rtve.es/radio/directo/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
 | Del 40 al 1 | [m3u8](https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](https://graph.facebook.com/del40al1/picture?width=320&height=320) | - | - |
+| Fallas Valencia | [youtube](https://www.youtube.com/watch?v=kOXMgFA_UfI) | - | [logo](https://graph.facebook.com/fallasvlc/picture?width=320&height=320) | - | - |
 
 ## Autonómicos
 
@@ -590,7 +591,6 @@
 | Vintage Music Radio | [m3u8](https://streamingserver000.viewtvgroup.com/kapanglivetv-playout-vintage-musicradio/tracks-v1a1/mono.m3u8) | [web](https://vintagemusic.group/live-tv/vintagemusicradio/) | [logo](https://graph.facebook.com/vintagemusicgroup/picture?width=320&height=320) | - | - |
 | Vintage Music TV | [m3u8](https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-vintagemusictv.m3u8?chname=kapanglivetv-playout-vintagemusictv&pub=69038e81-0143-4fef-be11-a73feb5d0344&ctype=0&acsurl=viewtv-acs-lb) | [web](https://vintagemusic.group/live-tv/watchvintagetv/) | [logo](https://graph.facebook.com/vintagemusicgroup/picture?width=320&height=320) | - | - |
 | Hit Music Channel | [m3u8](http://hitmusic.hu/hitmusic.m3u8) | [web](http://hitmusic.hu/) | [logo](https://graph.facebook.com/hitmusichu/picture?width=320&height=320) | - | - |
-| Kronehit | [m3u8](https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8) | [web](https://www.kronehit.at/) | [logo](https://graph.facebook.com/kronehit/picture?width=320&height=320) | - | - |
 
 ## Andorra
 
