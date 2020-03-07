@@ -474,7 +474,7 @@
 | Elche 7 TV | [m3u8](http://154.60.248.32/hls/canal1.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://graph.facebook.com/Elche7Tv/picture?width=320&height=320) | - | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | [logo](https://graph.facebook.com/enlacetv/picture?width=320&height=320) | - | - |
 | RTV Vida | [m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/tv) | [logo](https://graph.facebook.com/vidartv/picture?width=320&height=320) | - | - |
-| Latinos TV | [m3u8](https://5c21f7ec1999d.streamlock.net/8212/8212/playlist.m3u8) | [web](https://latinosfm.es/latinostv/) | [logo](https://graph.facebook.com/latinostvvlc/picture?width=320&height=320) | - | - |
+| Latinos TV | [m3u8](https://5c21f7ec1999d.streamlock.net/8210/8210/playlist.m3u8) | [web](https://latinosfm.es/latinostv/) | [logo](https://graph.facebook.com/latinostvvlc/picture?width=320&height=320) | - | - |
 
 ## Internacionales
 
