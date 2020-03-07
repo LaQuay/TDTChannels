@@ -431,7 +431,7 @@
 ## Internacionales
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| QMusic | [m3u8](https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_audio.m3u8) | [web](https://qmusic.nl/player/qmusic_nl/index.html) | [logo](https://graph.facebook.com/QmusicNL/picture?width=320&height=320) | - | - |
+| QMusic | [m3u8](https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_audio.m3u8) | [web](https://qmusic.nl/player/qmusic_nl/index.html) | [logo](https://graph.facebook.com/QmusicNL/picture?width=320&height=320) | - |
 
 ## Andorra
 
