@@ -121,7 +121,7 @@
 | Écija Comarca TV | - | [web](http://tvm.ecija.es/) | [logo](https://graph.facebook.com/ecijacomarcatelevision/picture?width=320&height=320) | - | - |
 | Uvitel TV | - | [web](https://www.uvitel.tv/directo/) | [logo](https://graph.facebook.com/uviteltv/picture?width=320&height=320) | - | - |
 | Más Jerez | - | [web](https://masjerez.com/programas-tv) | [logo](https://graph.facebook.com/masjerez/picture?width=320&height=320) | - | - |
-| Diez TV | - | [web](http://www.dieztv.es/) | [logo](https://graph.facebook.com/dieztv/picture?width=320&height=320) | - | - |
+| Diez TV | [m3u8](https://streaming.cloud.innovasur.es/mmj/index.m3u8) | [web](http://www.dieztv.es/) | [logo](https://graph.facebook.com/dieztv/picture?width=320&height=320) | - | - |
 | Yatv | - | [web](http://yatv.es/) | [logo](https://graph.facebook.com/Yatvonline/picture?width=320&height=320) | - | - |
 | TVM Córdoba | [m3u8](http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8) | [web](https://www.cordoba.es/emision_directo/index.html) | [logo](https://graph.facebook.com/TVM.Cordoba/picture?width=320&height=320) | - | - |
 | TV Centro Andalucía | [m3u8](https://5b59c7a47236a.streamlock.net/TVCENTRO/TVCENTRO/master.m3u8) | [web](http://tvcentroandalucia.com/) | [logo](https://graph.facebook.com/TVCentroAndalucia/picture?width=320&height=320) | - | - |
