@@ -81,10 +81,10 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Canal Sur Andalucía | [m3u8](https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8) | [web](http://www.canalsur.es/tv_directo-1193.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | CanalsurA.TDTChannelsEPG | - |
-| Canal Andalucia Turismo | [m3u8](https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8) | [web](http://canalandaluciaturismo.es/) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | AndaluciaT.TDTChannelsEPG | - |
-| Canal Andalucia Flamenco | [m3u8](https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8) | [web](http://canalandaluciaflamenco.es/) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | AndaluciaF.TDTChannelsEPG | - |
-| Canal Andalucia Cocina | [m3u8](https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8) | [web](http://canalandaluciacocina.es/) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | AndaluciaC.TDTChannelsEPG | - |
-| Canal Sur La Banda | [m3u8](https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8) | [web](http://labanda.canalsur.es/) | [logo](https://graph.facebook.com/LaBandaClub/picture?width=320&height=320) | - | - |
+| Canal Andalucia Turismo | - | [web](http://canalandaluciaturismo.es/) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| Canal Andalucia Flamenco | - | [web](http://canalandaluciaflamenco.es/) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| Canal Andalucia Cocina | - | [web](http://canalandaluciacocina.es/) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| Canal Sur La Banda | - | [web](http://labanda.canalsur.es/) | [logo](https://graph.facebook.com/LaBandaClub/picture?width=320&height=320) | - | - |
 | Canal Sur Eventos 1 | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/playlist.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Sur Eventos 2 | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_02/playlist.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | 7TV Andalucía | - | [web](https://7tvandalucia.es/portada/) | [logo](https://graph.facebook.com/7TVSevilla/picture?width=320&height=320) | - | W3U |
