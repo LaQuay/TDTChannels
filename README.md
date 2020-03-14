@@ -29,6 +29,16 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
+*03/2020* - [SoftZone - Esta lista IPTV te permite ver 350 canales de la TDT en VLC y Kodi](https://www.softzone.es/programas/multimedia/ver-tdt-online-vlc-kodi/)
+
+*03/2020* - [Xataka Android - Cómo usar Kodi en Android para ver los canales de la TDT](https://www.xatakandroid.com/aplicaciones-android/como-usar-kodi-android-para-ver-canales-tdt)
+
+*02/2020* - [Xataka Android - La mejor app para ver la tele en Android se renueva: favoritos, filtrado de radios y más](https://www.xatakandroid.com/aplicaciones-android/mejor-app-para-ver-tele-android-se-renueva-favoritos-filtrado-radios)
+
+*02/2020* - [ElAndroideFeliz - Cómo ver la TV en un Chromecast usando KODI](https://elandroidefeliz.com/como-ver-la-tv-en-un-chromecast-usando-kodi/)
+
+*02/2020* - [AndroidPhoria - Esta es la mejor app para ver la TV gratis en 2020](https://androidphoria.com/aplicaciones/mejor-app-ver-tv-gratis-2020)
+
 *01/2020* - [Tecnocincuentones - Episodio 69.- TDT Channels o la sencillez para ver todos los canales](https://www.ivoox.com/episodio-69-tdt-channels-o-sencillez-para-audios-mp3_rf_46098498_1.html)
 
 *12/2019* - [Xataka Android - Las mejores apps Android en 2019 según el equipo de Xataka Android](https://www.xatakandroid.com/aplicaciones-android/mejores-apps-android-2019-equipo-xataka-android)
