@@ -185,6 +185,7 @@
 | O2 Radio | [stream](http://62.210.141.18:8000/o2radio) | [web](http://www.elpejeverde.com/) | [logo](https://graph.facebook.com/185094361671027/picture?width=320&height=320) | - |
 | Radio Gigante | [stream](http://85.214.130.95:8000/stream/1/) | [web](http://rtvgigante.com/) | [logo](https://graph.facebook.com/741011612731578/picture?width=320&height=320) | - |
 | Canal 11 Radio | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal11lapalma.net/escuchanos.html) | [logo](https://graph.facebook.com/189726651071598/picture?width=320&height=320) | - |
+| Inolvidable FM | [stream](https://uk1.streamingpulse.com/ssl/inolvidablefm) | [web](https://inolvidablefm.es/) | [logo](https://graph.facebook.com//inolvidablefmradio/picture?width=320&height=320) | - |
 
 ### Cantabria
 
