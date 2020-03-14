@@ -62,7 +62,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Boing | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=320&height=320) | Boing.TDTChannelsEPG | - |
-| Clan | [m3u8](https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8) | [web](https://www.rtve.es/alacarta/videos/programa/tve-clan/5466990/) | [logo](https://graph.facebook.com/clantve/picture?width=320&height=320) | - | - |
+| Clan | [m3u8](https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8) | [web](https://www.rtve.es/alacarta/videos/programa/tve-clan/5466990/) | [logo](https://graph.facebook.com/clantve/picture?width=320&height=320) | Clan.TDTChannelsEPG | - |
 
 ## Webcams
 
