@@ -4,7 +4,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 1 | [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | La1.TDTChannelsEPG | - |
+| La 1 | [m3u8 # GEO](https://rtvelivestream.akamaized.net/la1_ak_dvr.m3u8) - [m3u8](https://rtvelivestream.akamaized.net/la1_dvr.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | La1.TDTChannelsEPG | - |
 | La 2 | [m3u8 # GEO](https://rtvelivestream.akamaized.net/la2_ak_dvr.m3u8) - [m3u8](https://rtvelivestream.akamaized.net/la2_dvr.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=320&height=320) | La2.TDTChannelsEPG | - |
 | Antena 3 | [m3u8 # GEO](https://livestartover-i.akamaized.net/geoantena3/master.m3u8) - [m3u8](https://livestartover-i.akamaized.net/antena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/) | [logo](https://graph.facebook.com/antena3/picture?width=320&height=320) | Antena3.TDTChannelsEPG | - |
 | Cuatro | [m3u8 # HD](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) - [m3u8 # SD](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=320&height=320) | Cuatro.TDTChannelsEPG | REPRO,CODEC |
@@ -46,7 +46,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Teledeporte | [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) | [web](https://www.rtve.es/directo/teledeporte/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDP.TDTChannelsEPG | - |
+| Teledeporte | [m3u8 # GEO](https://rtvelivestream.akamaized.net/tdp_dvr.m3u8) | [web](https://www.rtve.es/directo/teledeporte/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDP.TDTChannelsEPG | - |
 | +TDP | [m3u8 # 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve17_lv3_aosv4_gl1/irtve17_lv3_aosv4_gl1.isml/master.m3u8) - [m3u8 # 2](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve18_lv3_aosv4_gl1/irtve18_lv3_aosv4_gl1.isml/master.m3u8) - [m3u8 # 3](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve19_lv3_aosv4_gl0/irtve19_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 4](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl1/irtve20_lv3_aosv4_gl1/irtve20_lv3_aosv4_gl1.isml/master.m3u8) - [m3u8 # 5](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins4_lv3_aosv4_gl0/ins4_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | - | - |
 | Fight Time | [m3u8](https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8) | [web](http://fight-time.com/) | [logo](https://graph.facebook.com/FightTimeEntertainment/picture?width=320&height=320) | - | - |
 | GOL | - | [web](https://www.goltelevision.com/live) | [logo](https://graph.facebook.com/goltv.es/picture?width=320&height=320) | GOL.TDTChannelsEPG | W3U |
@@ -256,8 +256,6 @@
 | Canal Parlament | [m3u8](https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/master.m3u8) | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) | [logo](https://graph.facebook.com/parlamentcat/picture?width=320&height=320) | - | - |
 | betevé | - | [web](https://beteve.cat/en-directe/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | BTV.TDTChannelsEPG | W3U |
 | betevé web | - | [web](https://beteve.cat/en-directe/web/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | - | W3U |
-| betevé xarxes | - | [web](https://beteve.cat/en-directe/xarxes/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | - | W3U |
-| betevé càmera del temps | - | [web](https://beteve.cat/temps-barcelona/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | - | W3U |
 | RAC105 | - | [web](https://www.rac105.cat) | [logo](https://graph.facebook.com/rac105/picture?width=320&height=320) | - | - |
 | BDN | [m3u8](http://liveingesta119.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8) | [web](https://www.bdncom.cat/directe/) | [logo](https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_400x400.jpg) | - | - |
 | etv | [m3u8](https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/playlist.m3u8) | [web](http://www.etv.cat/index.php/en-directe-etv.html) | [logo](https://graph.facebook.com/etv.llobregat/picture?width=320&height=320) | - | - |
