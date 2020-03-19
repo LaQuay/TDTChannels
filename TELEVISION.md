@@ -168,6 +168,7 @@
 | TPA7 | [m3u8](https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8) | [web](http://www.rtpa.es/television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | TPA.TDTChannelsEPG | - |
 | EsAsturiasTV | [m3u8](https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8) | [web](http://www.esasturias.tv/directo) | [logo](https://graph.facebook.com/EsAsturiasTV/picture?width=320&height=320) | - | - |
 | Canal 10 | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](http://www.canal10tv.com/) | [logo](https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_400x400.png) | - | - |
+| VinxTV | [youtube](https://youtu.be/8djMvgMr9CU) | [web](https://www.youtube.com/channel/UCJDjXO0kv_ZOtLntIO0d4bw) | [logo](https://graph.facebook.com//VinxTV/picture?width=320&height=320) | - | - |
 
 ### Canarias
 
