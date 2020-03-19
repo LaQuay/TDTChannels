@@ -346,6 +346,7 @@
 | KeBuena | [aac](https://19393.live.streamtheworld.com/KEBUENA_ESAAC.aac) | [web](https://play.kebuena.es/) | [logo](https://graph.facebook.com/kebuena103.9fm/picture?width=320&height=320) | - |
 | Onda Latina | [m3u](https://www.nodo50.org/ondalatina/A061ondalatina.m3u) | [web](https://www.nodo50.org/ondalatina/) | [logo](https://graph.facebook.com/ondalatina.com.es/picture?width=320&height=320) | - |
 | Máster FM Madrid | [m3u8](http://82.223.102.59:8002/;) | [web](https://lamaster.es/radiochannel/madrid-93-7-fm/) | [logo](https://graph.facebook.com/masterfmmadrid/picture?width=320&height=320) | - |
+| Peperadio | [stream](http://server10.emitironline.com:8000/stream) | [web](https://peperadio.es/) | [logo](https://pbs.twimg.com/profile_images/905319409992044544/x35XzF3A_400x400.jpg) | - |
 | Radio Internacional | [mp3](http://195.55.74.203/rinternacional/audio-fme.mp3) | [web](http://www.radiointernacional.es/) | [logo](https://graph.facebook.com/RadioIntEs/picture?width=320&height=320) | - |
 | M21 Radio | [mp3](https://streamer92.store.aranova.cloud/mp3/live/m21radio_m21radio_128.mp3) | [web](https://www.m21radio.es/ahora) | [logo](https://graph.facebook.com/m21madrid/picture?width=320&height=320) | - |
 | Onda Diamante | [m3u](http://www.avvcanillejas.org/docs/ondadiamante.ogg.m3u) | [web](https://graph.facebook.com/OndaDiamanteOD/picture?width=320&height=320) | [logo](http://www.avvcanillejas.org/img/radio.jpg) | - |
