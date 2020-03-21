@@ -153,6 +153,7 @@
 | - | - | - | - | - |
 | RPA | [m3u8](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8) | [web](https://rtpa.es/radio) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
 | Cadena SER - Radio Asturias | [mp3](http://188.93.73.98:8118/;stream.mp3) | [web](https://play.cadenaser.com/emisora/radio_asturias/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER Gijon | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJON.mp3) | [web](https://play.cadenaser.com/emisora/ser_gijon/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Oriente | [mp3](http://seroriente.com:8000/seroriente.mp3) | [web](https://play.cadenaser.com/emisora/ser_oriente/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Carrussel FM | [pls](https://server10.emitironline.com:2199/tunein/carruselfm.pls) | [web](https://players.emitironline.com/v5/index.php?url=http%3A%2F%2Fserver10.emitironline.com%3A8921%2Fradio&codec=mp3&volume=80&autoplay=true&buffering=2&user=carruselfm&server=server10&title=Carrusel+FM) | [logo](https://graph.facebook.com/467719623356931/picture?width=320&height=320) | - |
 | cSTRadio | [stream](http://srv3021.lcinternet.com:8012/live) | [web](http://www.cstradio.org/v_portal/apartados/apartado.asp) | [Logo](https://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - |
