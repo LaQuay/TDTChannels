@@ -430,6 +430,15 @@
 | UPV Radio | - | [web](http://www.upv.es/rtv/radio/directo) | [logo](https://graph.facebook.com/UPVTV/picture?width=320&height=320) | - |
 | Radio Benicarló | [mp3](http://streaming.enacast.com:8000/radiobenicarlo56.mp3) | [web](https://www.radiobenicarlo.org/) | [logo](https://pbs.twimg.com/profile_images/986172333802098688/1n42_pIB_400x400.jpg) | - |
 | Vox UJI Ràdio | [mp3](http://radiouji.uji.es:8000/high.mp3) | [web](https://www.radio.uji.es/) | [logo](https://pbs.twimg.com/profile_images/915478760299868160/FACNin_P_400x400.jpg) | - |
+| Activa FM | [mp3](http://emisorasmusicales.es:8006/activafmonline.mp3) | [web](https://emisorasmusicales.net/activa/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=320&height=320) | - |
+| La Mega FM | [mp3](http://emisorasmusicales.es:8000/lamegaalicante.mp3) | [web](https://emisorasmusicales.net/lamega/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-LaMega-web.png) | - |
+| MuyBuena FM | [mp3](http://emisorasmusicales.es:8006/muybuenaalicante.mp3) | [web](https://emisorasmusicales.net/muybuena/) | [logo](https://graph.facebook.com/MuyBuena/picture?width=320&height=320) | - |
+| Bikini FM | [mp3](http://emisorasmusicales.es:8000/bikinialicante.mp3) | [web](https://emisorasmusicales.net/bikini/) | [logo](https://graph.facebook.com/1079520952102512/picture?width=320&height=320) | - |
+| Esencia FM | [mp3](http://emisorasmusicales.es:8000/esenciafmalicante.mp3) | [web](https://emisorasmusicales.net/esencia/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-EsenciaFM-web.png) | - |
+| Gold FM | [mp3](http://emisorasmusicales.es:8000/goldfmalicante.mp3) | [web](https://emisorasmusicales.net/gold/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-GoldFM-web.png) | - |
+| Rockstar FM | [mp3](http://emisorasmusicales.es:8000/rockstaralicante.mp3) | [web](https://emisorasmusicales.net/rockstar/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-Rockstar-web.png) | - |
+| La Flamenca FM | [mp3](http://emisorasmusicales.es:8000/la_flamenca_benidorm.mp3) | [web](https://emisorasmusicales.net/laflamenca/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-La-flamenca-web.png0) | - |
+| La que Suena FM | [mp3](http://emisorasmusicales.es:8000/laquesuenaalicante.mp3) | [web](https://emisorasmusicales.net/laquesuena/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2018/01/logo100x100-1.png) | - |
 
 ## Internacionales
 | Emisoras | Stream | Web | Logo | Info |
