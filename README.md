@@ -83,7 +83,7 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 - [FeedTV](https://github.com/juanro49/FeedTV): Aplicación que te permite leer noticias mediante RSS además de poder ver canales de este repositorio. Gratuita y de código abierto.
 
 #### iOS
-- [tvRadio ES](https://testflight.apple.com/join/rvIHQRLj): Soporte en Telegram. Gratuita, sin anuncios.
+- [TDTChannels](https://testflight.apple.com/join/rvIHQRLj) - de Jako88: Soporte en Telegram. Gratuita, sin anuncios.
 - [TDTChannels](https://github.com/Rubenfer/TDTChannels) - de [RubenApps](https://ruben.app/): Soporte en Telegram. Gratuita, de código abierto, sin anuncios. 
 - [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Soporte en Telegram. Gratuita, sin anuncios.
 
