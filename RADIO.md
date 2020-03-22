@@ -152,19 +152,19 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | RPA | [m3u8](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8) | [web](https://rtpa.es/radio) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
-| Cadena SER - Radio Asturias | [mp3](http://188.93.73.98:8118/;stream.mp3) | [web](https://play.cadenaser.com/emisora/radio_asturias/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Asturias | [mp3](https://19373.live.streamtheworld.com/SER_ASO_ASTURIAS.mp3) | [web](https://play.cadenaser.com/emisora/radio_asturias/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Oriente | [mp3](http://seroriente.com:8000/seroriente.mp3) | [web](https://play.cadenaser.com/emisora/ser_oriente/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| Carrussel FM | [pls](https://server10.emitironline.com:2199/tunein/carruselfm.pls) | [web](https://players.emitironline.com/v5/index.php?url=http%3A%2F%2Fserver10.emitironline.com%3A8921%2Fradio&codec=mp3&volume=80&autoplay=true&buffering=2&user=carruselfm&server=server10&title=Carrusel+FM) | [logo](https://graph.facebook.com/467719623356931/picture?width=320&height=320) | - |
+| COPE Oviedo | [mp3](https://wecast-m01-02.flumotion.com/copesedes/asturias.mp3) | [web](https://www.cope.es/directos/oviedo) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| Carrussel FM | [mp3](http://server10.emitironline.com:8921/radio?1584744975456.mp3) | [web](http://www.carruselfm.com/) | [logo](https://graph.facebook.com/467719623356931/picture?width=320&height=320) | - |
 | cSTRadio | [stream](http://srv3021.lcinternet.com:8012/live) | [web](http://www.cstradio.org/v_portal/apartados/apartado.asp) | [Logo](https://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - |
-| Master FM | [stream](http://lamaster.es:8002/;) | [web](http://lamaster.es/) | [logo](https://graph.facebook.com/lamasterfm/picture?width=320&height=320) | - |
-| Onda Peñes | [m3u](http://5.135.183.124:9279/stream.m3u) | [web](http://www.gaxarte.com/emisiononline.htm) | [logo](https://graph.facebook.com/onda.penes/picture?width=320&height=320) | - |
-| Radio QK | [mp3](http://35.241.175.84:8000/radioqk_live.mp3) | [web](http://www.radioqk.org/) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=320&height=320) | - |
-| Radio Fantasía | [stream](http://81.94.198.122:9280/;) | [web](http://radiofantasiafm.com/) | [logo](https://graph.facebook.com/radiofantasia/picture?width=320&height=320) | - |
+| Master FM | [stream](https://radios.lamaster.es:8000/asturias) | [web](https://lamaster.es/asturias/) | [logo](https://graph.facebook.com/lamasterfm/picture?width=320&height=320) | - |
+| Onda Peñes | [mp3](http://5.135.183.124:9279/stream?type=.mp3) | [web](http://www.gaxarte.com/emisiononline.htm) | [logo](https://graph.facebook.com/onda.penes/picture?width=320&height=320) | - |
+| Radio QK | [mp3](http://34.77.177.144:8000/radioqk_master.mp3) | [web](http://www.radioqk.org/) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=320&height=320) | - |
 | Radio San Martín Sotrondio | [stream](http://91.126.223.28:9890/;) | [web](https://sanmartinradio.blogspot.com/) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=320&height=320) | - |
 | Radio Sele | - | [web](http://www.radiosele.com/) | [Logo](https://cdn.onlineradiobox.com/img/logo/8/54418.v3.png) | - |
 | Radio Ujo | [stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | [logo](https://graph.facebook.com/radioujo/picture?width=320&height=320) | - |
 | The Box FM | [stream](http://listen128.radionomy.com/thebox) | [web](http://www.theboxfm.net/player_web/index.html) | [logo](https://graph.facebook.com/boxfmec/picture?width=320&height=320) | - |
-| OndaLangreo | [mp3](http://ondalangreo.com:3097/ondalangreo.mp3) | [web](https://ondalangreo.com/) | [logo](https://graph.facebook.com/ondalangreo/picture?width=320&height=320) | - |
+| OndaLangreo | [stream](http://37.59.121.120:10025/stream) | [web](https://ondalangreo.com/) | [logo](https://graph.facebook.com/ondalangreo/picture?width=320&height=320) | - |
 
 ### Canarias
 
