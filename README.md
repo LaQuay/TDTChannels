@@ -71,6 +71,8 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *08/2018* - [Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
 
+*01/2018* - [Nueve aplicaciones para ver la televisión gratis en un móvil Android](https://www.xatakandroid.com/aplicaciones-android/nueve-aplicaciones-para-ver-la-television-gratis-en-un-movil-android)
+
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Aplicaciones/Webs que consumen este repositorio
