@@ -154,6 +154,7 @@
 | - | - | - | - | - |
 | RPA | [m3u8](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8) | [web](https://rtpa.es/radio) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
 | Cadena SER - Radio Asturias | [mp3](https://19373.live.streamtheworld.com/SER_ASO_ASTURIAS.mp3) | [web](https://play.cadenaser.com/emisora/radio_asturias/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER Gijon | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJON.mp3) | [web](https://play.cadenaser.com/emisora/ser_gijon/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Oriente | [mp3](http://seroriente.com:8000/seroriente.mp3) | [web](https://play.cadenaser.com/emisora/ser_oriente/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | COPE Oviedo | [mp3](https://wecast-m01-02.flumotion.com/copesedes/asturias.mp3) | [web](https://www.cope.es/directos/oviedo) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Carrussel FM | [mp3](http://server10.emitironline.com:8921/radio?1584744975456.mp3) | [web](http://www.carruselfm.com/) | [logo](https://graph.facebook.com/467719623356931/picture?width=320&height=320) | - |
