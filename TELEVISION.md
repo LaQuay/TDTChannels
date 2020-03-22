@@ -24,6 +24,7 @@
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=320&height=320) | DKISS.TDTChannelsEPG | - |
 | TRECE | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo) | [logo](https://graph.facebook.com/TRECEtves/picture?width=320&height=320) | 13.TDTChannelsEPG | - |
 | mtmad 24h | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8) | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - | - |
+ OT 24H | [youtube](https://youtu.be/4ZCaP09p2Tc) | [web](https://www.youtube.com/channel/UCc1sAhdaLjfJi11X1awO-yg) | [logo](https://graph.facebook.com/operaciontriunfo/picture?width=320&height=320) | - | - |
 | playz | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/playz/directo/) | [logo](https://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
 | Público TV | - | [web](https://www.publico.es/videos/tag/streaming) | [logo](https://graph.facebook.com/diario.publico/picture?width=320&height=320) | - | - |
 | El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](https://pbs.twimg.com/profile_images/1222133236689539073/cY7ZQiRB_400x400.jpg) | ElToroTV.TDTChannelsEPG | - |
