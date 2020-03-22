@@ -43,9 +43,17 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *12/2019* - [Xataka Android - Las mejores apps Android en 2019 según el equipo de Xataka Android](https://www.xatakandroid.com/aplicaciones-android/mejores-apps-android-2019-equipo-xataka-android)
 
+*12/2019* - [Xataka Android - Las mejores apps Android de 2019 (hasta ahora)](https://www.xatakandroid.com/aplicaciones-android/mejores-apps-android-2019-ahora)
+
 *12/2019* - [Androidsis - ¡¡La mejor app para ver la Televisión en directo!!](https://youtu.be/PV3N39rfkjE)
 
 *11/2019* - [Xataka Móvil - Cómo ver la tele en tu móvil Android o iPhone: las mejores formas de acceder a la TDT](https://www.xatakamovil.com/aplicaciones/como-ver-tele-tu-movil-android-iphone-mejores-formas-acceder-a-tdt)
+
+*07/2019* - [Android Ayuda - Las mejores apps para ver la televisión gratis en tu móvil](https://androidayuda.com/aplicaciones/listas/ver-television-gratis/)
+
+*07/2019* - [El Androide Feliz - TDTChannels, la mejor app para ver la TDT gratis (+300 canales)](https://elandroidefeliz.com/tdtchannels-la-mejor-app-para-ver-la-tdt-gratis-en-android/)
+
+*07/2019* - [El Androide Libre - La mejor app para ver la TDT gratis en tu móvil llega a Google Play](https://elandroidelibre.elespanol.com/2019/07/la-mejor-app-para-ver-la-tdt-gratis-en-tu-movil-llega-a-google-play.html)
 
 *06/2019* - [Xataka Android - Cómo ver los canales de televisión de la TDT en un móvil Android usando TDT Channels](https://www.xatakandroid.com/aplicaciones-android/como-ver-canales-television-tdt-movil-usando-tdt-channels)
 
@@ -59,6 +67,8 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *03/2019* - [El Androide Libre - Cómo ver la tele en un reproductor con Android TV](https://elandroidelibre.elespanol.com/2019/03/como-ver-tele-reproductor-television-android-tv.html)
 
+*03/2019* - [El Androide Feliz - Cómo ver la TV desde tu Android TV Box (canales TDT España)](https://elandroidefeliz.com/como-ver-la-tv-desde-tu-android-tv-box-canales-tdt-espana/)
+
 *02/2019* - [Softonic - Cómo usar Kodi para ver la TV gratis en tu teléfono móvil](https://www.softonic.com/articulos/usar-kodi-ver-tv-gratis-telefono-movil)
 
 *01/2019* - [El Androide Libre - Ver la tele en tu Android, una manera muy sencilla y completa](https://elandroidelibre.elespanol.com/2019/01/ver-tele-android-manera-sencilla-completa.html)
@@ -70,6 +80,8 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 *12/2018* - [El Androide Libre - Cómo ver la televisión gratis en tu móvil, las mejores aplicaciones](https://elandroidelibre.elespanol.com/2018/12/como-ver-television-gratis-movil-mejores-aplicaciones.html)
 
 *08/2018* - [Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
+
+*01/2018* - [Xataka Android - Nueve aplicaciones para ver la televisión gratis en un móvil Android](https://www.xatakandroid.com/aplicaciones-android/nueve-aplicaciones-para-ver-la-television-gratis-en-un-movil-android)
 
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
