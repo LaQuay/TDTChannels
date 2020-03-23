@@ -42,6 +42,7 @@
 | Agencia EFE | [youtube](https://www.youtube.com/watch?v=fRgValDOJQk) | [web](https://www.efe.com/efe/espana/1) | [logo](https://graph.facebook.com/AgenciaEFEnoticias/picture?width=320&height=320) | - | - |
 | EuropaPress TV | [m3u8](http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) | [web](https://www.europapress.tv/) | [logo](https://graph.facebook.com/europapress.es/picture?width=320&height=320) | - | - |
 | Público TV | - | [web](https://www.publico.es/videos/tag/streaming) | [logo](https://graph.facebook.com/diario.publico/picture?width=320&height=320) | - | - |
+| Canal Moncloa | - | [web](https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=o0RCNMRf-BPdBiuDSId7vbxANj4YFVpbXkxNkFKm35s&output=z3mwepuDBMOnja63VsgAcCGwmmOPD-I5yFYOiyCvBcc&channel=FBDoImE2NP77XpNbdycjnwCkI0YjxLeqTKr8QGV9bAI&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg) | [logo](https://yt3.ggpht.com/a/AATXAJypqORblPSvUjaVwSYfqE2wzLcwmII9S8g_JQ=s288-c-k-c0xffffffff-no-rj-mo) | - | - |
 
 ## Deportivos
 
