@@ -19,9 +19,10 @@ Si el canal emite:
 - [geolocalizado](https://github.com/LaQuay/TDTChannels/wiki/FAQs#diferencia-entre-una-emisi%C3%B3n-geo-y-no-geo) a **nivel catalán**, se deberá añadir la coletilla `# GEOCAT`. 
 - Diferentes calidades vía enlace para forzar el _SD_ o _HD_, entonces se podrán indicar con las coletillas `# SD` o `# HD`.
 - Varias opciones de emisión `p.e. +24 de TVE`, estas se podrán indicar con las coletillas `# 1`, `# 2`, etc.
-- En otro idioma que no sea el español, se deberá indicar con el código [ISO_3166-1](https://es.wikipedia.org/wiki/ISO_3166-1)
+- En otro idioma que no sea el español, se deberá indicar con el código [ISO_3166-1](https://es.wikipedia.org/wiki/ISO_3166-1). Por ejemplo, si emite en inglés del Reino Unido sería `[m3u8 # UK]`.
 
 Excepciones:
+
 No se pueden subir enlaces convertidos a _m3u8_ de _Youtube_, _Vimeo_, _Dailymotion_, pues caducan muy rápido.
 
 #### Web
