@@ -11,8 +11,8 @@ El nombre oficial del canal.
 #### M3U8
 Aunque el campo se llame m3u8, se aceptan **dos** posibles formatos de _stream_. Ambos formatos tienen obligatoria su obtención a través de la plataforma oficial del emisor.
 
-- **m3u8**: Priorizando las opciones _master.m3u8_ y _playlist.m3u8_. 
-- **youtube**: En caso que la cadena emita vía _YouTube_. Priorizando el formato _https://youtu.be/XXXXXX_
+- **m3u8**: Priorizando las opciones `master.m3u8` y `playlist.m3u8`. 
+- **youtube**: En caso que la cadena emita vía _YouTube_. Priorizando el formato `https://youtu.be/XXXXXX`.
 
 Si el canal emite:
 - [geolocalizado](https://github.com/LaQuay/TDTChannels/wiki/FAQs#diferencia-entre-una-emisi%C3%B3n-geo-y-no-geo) a **nivel español**, se deberá añadir la coletilla `# GEO`. 
@@ -39,7 +39,7 @@ En este apartado se debería indicar la web de dónde sale el _stream_.
 No indiques nada en este campo, lo modificaremos nosotros a posterior.
 
 #### Info
-Indica `W3U` si la emisión introducida en el apartado `WEB` es reproducible por Wiseplay. De esta forma se incluirá como _stream_ en dicha lista.
+Indica `W3U` si la emisión introducida en el apartado `WEB` es reproducible por _Wiseplay_. De esta forma se incluirá como _stream_ en dicha lista.
 
 ### Radio
 Igual que la televisión a excepción que el campo `EPG ID` no existe, y de los formatos aceptados
