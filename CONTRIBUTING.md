@@ -1,24 +1,52 @@
-A continuación se indica lo que deben cumplir los aportes hacia este repositorio, en la medida de lo posible.
+Para hacer más sencillas las contribuciones, a continuación indico lo que deben cumplir los aportes hacia este repositorio, en la medida de lo posible.
 
-### Enlaces
-- Obligatoria obtención a través de la plataforma oficial del emisor.
-- Únicamente se recoje información externa, no se permite subir contenidos al repositorio.
-- Añadir la información que se conozca. 
-  - Web, Formato, Resolución (Si es de TV), Logo ... .
-- Si es posible, el m3u8 indicado para el canal debería ser "master.m3u8" o "playlist.m3u8".
-- No se pueden enlazar M3U8 extraidos de plataformas como _Youtube_ o _Dailymotion_, pues caducan muy rápido.
+Si no te atreves a lanzarlo como _Pull Request_, puedes incluirlo como Issue, pero siempre tratando de dar la mayor información posible, y, como mínimo, enlace de _stream_ y web de procedencia.
 
-#### Enlaces a Youtube
-Si una emisora emite exclusivamente por _Youtube_, indicarlo en el campo _m3u8_. Esta emisión se introducirá en todas las listas compatibles (json, w3u).
+## Explicación de cada columna y posibles valores
 
-#### Enlaces a Web (Únicamente W3U)
-Indicar en la columna TAG el contenido "W3U". Y se introducirá la WEB como emisión para la lista w3u.
+### TV
+#### Canal
+El nombre oficial del canal.
+
+#### M3U8
+Aunque el campo se llame m3u8, se aceptan **dos** posibles formatos de _stream_. Ambos formatos tienen obligatoria su obtención a través de la plataforma oficial del emisor.
+
+- **m3u8**: Priorizando las opciones _master.m3u8_ y _playlist.m3u8_. 
+- **youtube**: En caso que la cadena emita vía _YouTube_. Priorizando el formato _https://youtu.be/XXXXXX_
+
+Si el canal emite:
+- [geolocalizado](https://github.com/LaQuay/TDTChannels/wiki/FAQs#diferencia-entre-una-emisi%C3%B3n-geo-y-no-geo) a **nivel español**, se deberá añadir la coletilla `# GEO`. 
+- [geolocalizado](https://github.com/LaQuay/TDTChannels/wiki/FAQs#diferencia-entre-una-emisi%C3%B3n-geo-y-no-geo) a **nivel catalán**, se deberá añadir la coletilla `# GEOCAT`. 
+- Diferentes calidades vía enlace para forzar el _SD_ o _HD_, entonces se podrán indicar con las coletillas `# SD` o `# HD`.
+- Varias opciones de emisión `p.e. +24 de TVE`, estas se podrán indicar con las coletillas `# 1`, `# 2`, etc.
+- En otro idioma que no sea el español, se deberá indicar con el código [ISO_3166-1](https://es.wikipedia.org/wiki/ISO_3166-1)
+
+Excepciones:
+No se pueden subir enlaces convertidos a _m3u8_ de _Youtube_, _Vimeo_, _Dailymotion_, pues caducan muy rápido.
+
+#### Web
+En este apartado se debería indicar la web de dónde sale el _stream_.
 
 #### Logo
-- Medida recomendada de 320x320.
+- Fuentes de datos, en orden de preferencia: Redes sociales del canal (_Facebook_, _Twitter_), Wikipedia, propio canal, etc.
+- Medida recomendada de 320x320, máximo 400x400.
 - Formato PNG, y si no es posible JPG.
-- Fuentes de datos, en orden de preferencia: Redes sociales del canal, Wikipedia, propio canal, etc.
 - Preferiblemente sin transparencias y con fondo blanco.
-- No es necesaria la indicación explicita del nombre del canal en el logo.
+- No es necesaria la aparición explicita del nombre del canal en el logo.
+
+#### EPG ID
+No indiques nada en este campo, lo modificaremos nosotros a posterior.
+
+#### Info
+Indica `W3U` si la emisión introducida en el apartado `WEB` es reproducible por Wiseplay. De esta forma se incluirá como _stream_ en dicha lista.
+
+### Radio
+Igual que la televisión a excepción que el campo `EPG ID` no existe, y de los formatos aceptados
+
+#### Stream
+_En construcción_
+
+## Aviso general
+- Únicamente se recoje información externa, no se permite subir contenidos al repositorio.
 
 Gracias por colaborar!
