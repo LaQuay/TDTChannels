@@ -440,7 +440,7 @@
 | Esencia FM | [mp3](http://emisorasmusicales.es:8000/esenciafmalicante.mp3) | [web](https://emisorasmusicales.net/esencia/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-EsenciaFM-web.png) | - |
 | Gold FM | [mp3](http://emisorasmusicales.es:8000/goldfmalicante.mp3) | [web](https://emisorasmusicales.net/gold/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-GoldFM-web.png) | - |
 | Rockstar FM | [mp3](http://emisorasmusicales.es:8000/rockstaralicante.mp3) | [web](https://emisorasmusicales.net/rockstar/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-Rockstar-web.png) | - |
-| La Flamenca FM | [mp3](http://emisorasmusicales.es:8000/la_flamenca_benidorm.mp3) | [web](https://emisorasmusicales.net/laflamenca/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-La-flamenca-web.png0) | - |
+| La Flamenca FM | [mp3](http://emisorasmusicales.es:8000/la_flamenca_benidorm.mp3) | [web](https://emisorasmusicales.net/laflamenca/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-La-flamenca-web.png) | - |
 | La que Suena FM | [mp3](http://emisorasmusicales.es:8000/laquesuenaalicante.mp3) | [web](https://emisorasmusicales.net/laquesuena/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2018/01/logo100x100-1.png) | - |
 
 ## Internacionales
