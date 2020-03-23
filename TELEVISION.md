@@ -488,7 +488,7 @@
 | Cincomas | - | [web](https://www.cincomas.com/) | [logo](https://graph.facebook.com/CincoMasTV/picture?width=320&height=320) | - | - |
 | ¡Hola! TV | - | [web](https://www.hola.tv/) | [logo](https://graph.facebook.com/HolaTvAmerica/picture?width=320&height=320) | - | - |
 | TVE Internacional | - | [web](http://www.rtve.es/television/tve-internacional/) | [logo](https://graph.facebook.com/tveInternacional/picture?width=320&height=320) | - | - |
-| TV3CAT | [m3u8](https://directes-tv-es.ccma.cat/es/ngrp:tvc_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/tv3cat/) | [logo](https://graph.facebook.com/tv3/picture?width=320&height=320) | - | - |
+| TV3CAT | [m3u8 # GEO CAT](https://directes-tv-ca.ccma.cat/ca/ngrp:tvc_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:tvc_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:tvc_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/tv3cat/) | [logo](https://graph.facebook.com/tv3/picture?width=320&height=320) | - | - |
 | ETB SAT Canal Vasco | [m3u8](http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](http://www.eitb.eus/es/television/etb-sat/) | [logo](https://graph.facebook.com/eitb/picture?width=320&height=320) | - | - |
 | TVG América | [m3u8](http://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](https://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
 | Travel TV | [m3u8](http://194.179.53.124:1935/live/traveltv/playlist.m3u8) | [web](http://www.traveltve.com/) | [logo](https://graph.facebook.com/TravelTVSpain/picture?width=320&height=320) | - | - |
