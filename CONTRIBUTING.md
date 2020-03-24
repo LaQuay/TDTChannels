@@ -44,6 +44,8 @@ No indiques nada en este campo, lo modificaremos nosotros a posterior.
 - `W3U` si la emisión introducida en el apartado `WEB` es reproducible por _Wiseplay_. De esta forma se incluirá como _stream_ en dicha lista.
 - `CORS` si la emisión no funciona en navegadores por CORS.
 
+En caso de tener más de un `TAG` de información, concatenar con comas y sin espacios.
+
 ### Radio
 Igual que la televisión a excepción que el campo `EPG ID` no existe, y de los formatos aceptados
 
