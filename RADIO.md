@@ -442,6 +442,7 @@
 | Rockstar FM | [mp3](http://emisorasmusicales.es:8000/rockstaralicante.mp3) | [web](https://emisorasmusicales.net/rockstar/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-Rockstar-web.png) | - |
 | La Flamenca FM | [mp3](http://emisorasmusicales.es:8000/la_flamenca_benidorm.mp3) | [web](https://emisorasmusicales.net/laflamenca/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-La-flamenca-web.png) | - |
 | La que Suena FM | [mp3](http://emisorasmusicales.es:8000/laquesuenaalicante.mp3) | [web](https://emisorasmusicales.net/laquesuena/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2018/01/logo100x100-1.png) | - |
+| Radio Plaza | [mp3](https://stream1.solstreaming.com:8112/stream) | [web](https://plazaradio.es/onair) | [logo](https://pbs.twimg.com/profile_images/971744498270330882/yPlqpkeP_400x400.jpg) | - |
 
 ## Internacionales
 | Emisoras | Stream | Web | Logo | Info |
