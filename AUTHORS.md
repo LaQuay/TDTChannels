@@ -13,6 +13,7 @@
 - CaRLymx [@carlymx](https://github.com/carlymx)
 - Carlos [@profesorasix](https://github.com/profesorasix)
 - Carratraka [@carratraka](https://github.com/carratraka)
+- David [@david-cp](https://github.com/David-cp)
 - Jacobo [@poborp](https://github.com/poborp)
 - Jorge [@jaguaza](https://github.com/jaguaza)
 - José Antonio [@nomentero](https://github.com/nomenteros)
