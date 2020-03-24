@@ -17,7 +17,7 @@ Aunque el campo se llame m3u8, se aceptan **dos** posibles formatos de _stream_.
 Si el canal emite:
 - [geolocalizado](https://github.com/LaQuay/TDTChannels/wiki/FAQs#diferencia-entre-una-emisi%C3%B3n-geo-y-no-geo) a **nivel español**, se deberá añadir la coletilla `# GEO`. 
 - [geolocalizado](https://github.com/LaQuay/TDTChannels/wiki/FAQs#diferencia-entre-una-emisi%C3%B3n-geo-y-no-geo) a **nivel catalán**, se deberá añadir la coletilla `# GEOCAT`. 
-- En otro idioma que no sea el español, se deberá indicar con el código [ISO_3166-1](https://es.wikipedia.org/wiki/ISO_3166-1). Por ejemplo, si emite en inglés del Reino Unido sería `[m3u8 # UK]`.
+- En otro idioma que no sea el español, se deberá indicar con el código [ISO_639-1](https://es.wikipedia.org/wiki/ISO_639-1). Por ejemplo, si emite en Inglés será `[m3u8 # EN]`.
 - Diferentes calidades vía enlace para forzar el _SD_ o _HD_, entonces se podrán indicar con las coletillas `# SD` o `# HD`.
 - Varias opciones de emisión `p.e. +24 de TVE`, estas se podrán indicar con las coletillas `# 1`, `# 2`, etc.
 
