@@ -334,7 +334,9 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| COPE Rioja | [stream](https://www.cope.es/api/es/appbeta/streaming/logrono) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Rioja | [mp3](https://wecast-b01-01.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| SER-Radio Arnedo | [mp3](http://streaming2.formulaclick.com:8094/radioarnedo.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/ondarioja.radioarnedo/picture?width=320&height=320) | - |
+| Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/canalebro/picture?width=320&height=320) | - |
 
 ### Madrid
 
