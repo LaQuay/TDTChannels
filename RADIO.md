@@ -59,7 +59,7 @@
 | Babyradio - Nanas | [stream](http://sd396babyradio1.lcinternet.com:8004/live) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
 | Babyradio - Cuentos infantiles | [stream](http://sd396babyradio1.lcinternet.com:8008/live) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
 
-## Deportivos
+## Deportivas
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
@@ -67,7 +67,7 @@
 | Cadena COPE Deportes | [mp3](http://net2.cope.stream.flumotion.com/cope/net2.mp3.m3u) | [web](https://www.cope.es/directos/net2) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Sevilla FC Radio | - | [web](http://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=320&height=320) | - |
 
-## Autonómicos
+## Autonómicas
 
 ### Andalucía
 
