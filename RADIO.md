@@ -154,7 +154,8 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | Radio Nacional Canarias | [mp3](https://rnecnr.rtveradio.cires21.com/rnecnr.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
-| Radio 5 Canarias | [mp3 # Las Palmas](https://radio5cnr.rtveradio.cires21.com/radio5cnr.mp3) [mp3 # Santa Cruz de Tenerife](https://radio5ten.rtveradio.cires21.com/radio5ten.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
+| Radio 5 Canarias - Las Palmas | [mp3 # Las Palmas](https://radio5cnr.rtveradio.cires21.com/radio5cnr.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
+| Radio 5 Canarias - Santa Cruz de Tenerife | [mp3](https://radio5ten.rtveradio.cires21.com/radio5ten.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | Canarias Radio | [m3u8](http://streaming2.mad.idec.net/rtvcradio/rtvcradio.drb.stream/playlist.m3u8) | [web](http://www.rtvc.es/canariasradio/directo.aspx) | [logo](https://graph.facebook.com/CanariasRadioLaAutonomica/picture?width=320&height=320) | - |
 | Kiss FM Canarias | [mp3](http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3) | [web](http://kissfm.es/player/canarias.html) | [logo](https://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
 | Canal 4 Tenerife | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal4tenerife.tv/radio/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=320&height=320) | - |
