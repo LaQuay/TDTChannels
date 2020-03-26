@@ -445,7 +445,7 @@
 | Onda Vasca Gipuzcoa | [stream](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
 | Radio 7 | [mp3](http://radio7.streaming-pro.com:7501/;stream.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - |
 
-### Principado de Asturias
+### Princ. de Asturias
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
