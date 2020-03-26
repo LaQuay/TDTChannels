@@ -308,7 +308,7 @@
 | - | - | - | - | - | - |
 | Ceuta TV | [m3u8](https://secure.todostreaming.es/live/anguloce-livestream.m3u8) | [web](http://ceutatv.com/pag/ceuta-tv-en-directo/) | [logo](https://graph.facebook.com/CeutaTV/picture?width=320&height=320) | - | - |
 | RTVCE | [m3u8](http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8) | [web](https://www.rtvce.es/seccion/television/) | [logo](https://graph.facebook.com/RTVCE/picture?width=320&height=320) | - | - |
-| El Faro | [m3u8](https://livelist01.yowi.tv/lista/f086a6f43eb34591ebf89d42497a144413d0782d/master.m3u8) | [web](https://farotv.es/) | [logo](https://graph.facebook.com/ElFarodeCeuta/picture?width=320&height=320) | - | - |
+| El Faro | - | [web](https://farotv.es/) | [logo](https://graph.facebook.com/ElFarodeCeuta/picture?width=320&height=320) | - | - |
 
 ### Com. de Madrid
 
