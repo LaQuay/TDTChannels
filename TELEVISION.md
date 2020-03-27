@@ -123,8 +123,8 @@
 | Yatv | - | [web](http://yatv.es/) | [logo](https://graph.facebook.com/Yatvonline/picture?width=320&height=320) | - | - |
 | TVM Córdoba | [m3u8](http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8) | [web](https://www.cordoba.es/emision_directo/index.html) | [logo](https://graph.facebook.com/TVM.Cordoba/picture?width=320&height=320) | - | - |
 | TV Centro Andalucía | [m3u8](https://5b59c7a47236a.streamlock.net/TVCENTRO/TVCENTRO/master.m3u8) | [web](http://tvcentroandalucia.com/) | [logo](https://graph.facebook.com/TVCentroAndalucia/picture?width=320&height=320) | - | - |
-| Granada Channel 1 | [youtube](https://youtu.be/GqEIjlETgCk) | [web](http://www.granadachannel.es/directo/) | [logo](https://live-tv-channels.org/pt-data/uploads/logo/es-granada-channel-tv-canal-1.jpg) | - | - |
-| Granada Channel 2 | [youtube](https://youtu.be/4YjMBBPbyA0) | [web](http://www.granadachannel.es/directo/) | [logo](https://live-tv-channels.org/pt-data/uploads/logo/es-granada-channel-tv-canal-2.jpg) | - | - |
+| Granada Channel 1 | [youtube](https://youtu.be/GqEIjlETgCk) | [web](http://www.granadachannel.es/directo/) | [logo](https://graph.facebook.com/GranadaChannelTV/picture?width=320&height=320) | - | - |
+| Granada Channel 2 | [youtube](https://youtu.be/4YjMBBPbyA0) | [web](http://www.granadachannel.es/directo/) | [logo](https://graph.facebook.com/GranadaChannelTV/picture?width=320&height=320) | - | - |
 | TeleMotril | - | [web](http://telemotril.tv/) | [logo](https://graph.facebook.com/telemotriltv/picture?width=320&height=320) | - | - |
 | ESNE TV | [m3u8](https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8) | [web](http://elsembradorministries.com/tv/) | [logo](https://graph.facebook.com/elsembradoresne/picture?width=320&height=320) | - | - |
 | 9 la Loma | [m3u8](https://directo.9laloma.es/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=320&height=320) | - | - |
