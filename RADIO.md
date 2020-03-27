@@ -137,16 +137,16 @@
 | Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=320&height=320) | - |
 | Radio Ebro | [stream](http://s2.prositel.net:7000/radioebro) | [web](https://diarioaragones.com/) | [logo](https://graph.facebook.com/1217846044997421/picture?width=320&height=320) | - |
 | Radio Aínsa | [stream](https://streamingradio.radiohuesca.com:8071/radiobarbastro) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/ainsasobrarbeayuntamiento/picture?width=320&height=320) | - |
-| Radio Barbastro | [stream](https://streamingradio.radiohuesca.com:8071/radiobarbastro) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
-| Radio Graus | [stream](https://streamingradio.radiohuesca.com:8051/radiograus) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
-| Radio Jaca | [stream](https://streamingradio.radiohuesca.com:8041/radiojaca) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
+| Radio Barbastro | [stream](https://streamingradio.radiohuesca.com:8071/radiobarbastro) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/RadioBarbastroyAinsa/picture?width=320&height=320) | - |
+| Radio Graus | [stream](https://streamingradio.radiohuesca.com:8051/radiograus) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Radio Jaca | [stream](https://streamingradio.radiohuesca.com:8041/radiojaca) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Radio Mai | [m3u](http://radio.indaloweb.es:8001/live.m3u) | [web](http://radiomai.com/online/) | [logo](https://graph.facebook.com/radiomai/picture?width=320&height=320) | - |
 | Radio Mai (Backup) | [m3u](http://radiomai.ddns.net:8020/live.m3u) | [web](http://radiomai.com/online/) | [logo](https://graph.facebook.com/radiomai/picture?width=320&height=320) | - |
 | Radio Monzón | [stream](https://streamingradio.radiohuesca.com:8091/radiomonzon) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Radio Ribagorza | [stream](http://85.25.217.22:8210/stream) | [web](http://www.radioribagorza.es/radioonline.html) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Radio Sabiñánigo | [stream](https://streamingradio.radiohuesca.com:8031/radiosabinanigo) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Radio Sariñena | [stream](https://streamingradio.radiohuesca.com:8101/radiosarinena) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| Rumba FM | [stream](https://server2.ejeserver.com:8470/stream) | [web](http://gruporumba.com/) | [logo](http://gruporumba.com/wp-content/uploads/2018/11/rumbalogo.png) | - |
+| Rumba FM | [mp3](https://securestream.hdserver.biz:9348/stream.mp3) | [web](http://www.rumba93.es/) | [logo](https://graph.facebook.com/RumbaOrgulloLatino/picture?width=320&height=320) | - |
 | ZFM | [mp3](http://streaming.zarastudio.es/zfm.mp3) | [web](http://www.zaragozafm.es/player/) | [logo](http://www.zaragozafm.es/player/tmp/images/default.png) | - |
 
 ### Canarias
