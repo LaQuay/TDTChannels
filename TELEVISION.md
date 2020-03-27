@@ -26,7 +26,6 @@
 | mtmad 24h | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8) | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - | - |
  OT 24H | [youtube](https://youtu.be/4ZCaP09p2Tc) | [web](https://www.youtube.com/channel/UCc1sAhdaLjfJi11X1awO-yg) | [logo](https://graph.facebook.com/operaciontriunfo/picture?width=320&height=320) | - | - |
 | playz | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/playz/directo/) | [logo](https://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
-| El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](https://pbs.twimg.com/profile_images/1222133236689539073/cY7ZQiRB_400x400.jpg) | ElToroTV.TDTChannelsEPG | - |
 
 ## Informativos
 
@@ -317,6 +316,7 @@
 | Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | [logo](https://graph.facebook.com/telemadrid/picture?width=320&height=320) | Telemadrid.TDTChannelsEPG | - |
 | LaOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | [logo](https://pbs.twimg.com/profile_images/971894509972967429/gu-7VRg2_400x400.jpg) | LaOtra.TDTChannelsEPG | - |
 | Webcam OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106 FM](http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - | - |
+| El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](https://pbs.twimg.com/profile_images/1222133236689539073/cY7ZQiRB_400x400.jpg) | ElToroTV.TDTChannelsEPG | - |
 | C33 Madrid | [m3u8](https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8) | [web](http://www.canal33.info/) | [logo](https://graph.facebook.com/434470346582124/picture?width=320&height=320) | - | - |
 | Distrito TV | [m3u8](https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8) | [web](http://distritotv.es/videos/) | [logo](https://graph.facebook.com/2004860103163343/picture?width=320&height=320) | - | - |
 | Solidaria TV | [m3u8](http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](http://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=320&height=320) | - | - |
@@ -345,6 +345,7 @@
 | À Punt | [m3u8](https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8) | [web](https://apuntmedia.es/va/directe/tv) | [logo](https://graph.facebook.com/apuntmedia/picture?width=320&height=320) | APUNT.TDTChannelsEPG | - |
 | La 8 Mediterráneo | [m3u8](https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8) | [web](http://www.laocho.tv/es/directo/) | [logo](https://graph.facebook.com/la8mediterraneo/picture?width=320&height=320) | 8M.TDTChannelsEPG | - |
 | 7 TeleValencia | [m3u8](https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8) | [web](http://7televalencia.com/directo-7televalencia) | [logo](https://pbs.twimg.com/profile_images/839481452920193024/R04ozlyG_400x400.jpg) | - | - |
+| El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](https://pbs.twimg.com/profile_images/1222133236689539073/cY7ZQiRB_400x400.jpg) | ElToroTV.TDTChannelsEPG | - |
 | Levante TV | [m3u8](https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8) | [web](http://www.levantetv.es/default.jsp) | [logo](https://graph.facebook.com/levantetv/picture?width=320&height=320) | - | - |
 | Intercomarcal TV | [m3u8](http://78.41.83.88:8880/hls/tvixa.m3u8) | [web](http://www.intercomarcal.com) | [logo](https://graph.facebook.com/Intercomarcal.Television/picture?width=320&height=320) | - | - |
 | telesafor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](http://telesafor.com) | [logo](https://graph.facebook.com/Tele7Safor/picture?width=320&height=320) | - | - |
@@ -419,6 +420,7 @@
 | IB3 | [youtube](https://youtu.be/QTa5jt61MnQ) | [web](http://ib3tv.com/directe) | [logo](https://graph.facebook.com/IB3org/picture?width=320&height=320) | IB3.TDTChannelsEPG | - |
 | Fibwi | [m3u8](https://directo.fibwi.com/stream/stream_fibwiLIVE/fibwiLIVEtv.m3u8) | [web](https://fibwiradio.com/) | [logo](https://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
 | TEF | [m3u8](https://5940924978228.streamlock.net/8273/smil:8273.smil/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](https://graph.facebook.com/TEFTV/picture?width=320&height=320) | - | - |
+| El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](https://pbs.twimg.com/profile_images/1222133236689539073/cY7ZQiRB_400x400.jpg) | ElToroTV.TDTChannelsEPG | - |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/playlist.m3u8) | [web](http://canal4televisio.com/canal-4-en-directo/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | [logo](https://graph.facebook.com/LuxMallorca/picture?width=320&height=320) | - | W3U |
 | Inselradio TV | - | [web](https://www.inselradio.com/player/?tv) | [logo](https://graph.facebook.com/DasInselradio/picture?width=320&height=320) | - | - |
