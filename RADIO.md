@@ -205,13 +205,12 @@
 | - | - | - | - | - |
 | Radio Nacional Castilla y León | [mp3](https://rnecyl.rtveradio.cires21.com/rnecyl.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Castilla y León | [mp3](https://radio5cyl.rtveradio.cires21.com/radio5cyl.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
-| esRadio - Castilla y León | [stream](http://livecyl.esradio.fm/cyl) | [web](http://www.castillayleonesradio.es/) | [logo](https://graph.facebook.com/esradio/picture?width=320&height=320)| - |
+| esRadio - Castilla y León | [aac](https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-low.aac) | [web](https://esradio.libertaddigital.com/castilla-y-leon/directo.html) | [logo](https://graph.facebook.com/esradio/picture?width=320&height=320) | - |
 | Cadena SER - Radio Castilla | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS.mp3) | [web](https://play.cadenaser.com/emisora/radio_castilla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Radio Valladolid | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3) | [web](https://play.cadenaser.com/emisora/radio_valladolid/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Radio Zamora | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3) | [web](https://play.cadenaser.com/emisora/radio_zamora/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Radio Marca Valladolid | [stream](http://radiomarcavalladolid.streaming-pro.com:8067) | [web](http://radiomarcavalladolid.com/) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | COPE Valladolid | [mp3](https://wecast-b03-04.flumotion.com/copesedes/valladolid.mp3) | [web](https://www.cope.es/directos/valladolid) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
-| esRadio - Castilla y León | [stream](http://livestreaming2.esradio.fm:8000/cylrdo16) | [web](https://esradio.libertaddigital.com/castilla-y-leon/) | [logo](https://graph.facebook.com/esradio/picture?width=320&height=320) | - |
 | Mortal FM | [stream](http://server6.20comunicacion.com:8044/) | [web](http://www.mortalfm.es/online) | [logo](https://graph.facebook.com/mortalfm/picture?width=320&height=320) | - |
 | Radio Valdivielso | - | [web](http://radiovaldivielso.es) | [logo](https://graph.facebook.com/124228874264567/picture?width=320&height=320) | - |
 | Vive! Radio | [aac](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/media_w1875322187_74945.aac) - [m3u8](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/chunklist_w1875322187.m3u8) | [web](http://www.viveradio.es/ReproductorLive.aspx) | [logo](https://graph.facebook.com/158974217473244/picture?width=320&height=320) | - |
@@ -493,6 +492,7 @@
 | Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](https://tunein.com/radio/Radio-Calasparra-1075-s113080/) | [logo](https://graph.facebook.com/349014238632372/picture?width=320&height=320) | - |
 
 ## Internacionales
+
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | QMusic | [m3u8](https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_audio.m3u8) | [web](https://qmusic.nl/player/qmusic_nl/index.html) | [logo](https://graph.facebook.com/QmusicNL/picture?width=320&height=320) | - |
