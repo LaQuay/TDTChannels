@@ -112,7 +112,7 @@
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](https://graph.facebook.com/139595216095381/picture?width=320&height=320) | FuengirolaTV.TDTChannelsEPG | - |
 | Canal Málaga | [m3u8](http://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=320&height=320) | - | - |
 | Onda Jerez TV | - | [web](http://www.ondajerez.com/television/) | [logo](https://pbs.twimg.com/profile_images/687528682378924032/JvVmQjOT_400x400.jpg) | - | - |
-| Málaga 24h TV | [youtube](https://www.youtube.com/watch?v=GlS7mSQPUmk) | [web](http://malaga24h.com/directo-de-malaga-24-horas/) | [logo](https://graph.facebook.com/Malaga24hTv/picture?width=320&height=320) | - | - |
+| Málaga 24h TV |  | [web](http://malaga24h.com/directo-de-malaga-24-horas/) | [logo](https://graph.facebook.com/Malaga24hTv/picture?width=320&height=320) | - | - |
 | Cadena Elite | [m3u8](https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8) | [web](http://www.cadenaelite.es/) | [logo](https://graph.facebook.com/cadenaelite.exitos/picture?width=320&height=320) | - | - |
 | Écija Comarca TV | [youtube](https://www.youtube.com/channel/UCiL_dz_QnquAtO5LjvW-How/live) | [web](http://tvm.ecija.es/) | [logo](https://graph.facebook.com/ecijacomarcatelevision/picture?width=320&height=320) | - | - |
 | Uvitel TV | - | [web](https://www.uvitel.tv/directo/) | [logo](https://graph.facebook.com/uviteltv/picture?width=320&height=320) | - | - |
@@ -280,7 +280,7 @@
 | TV Berguedà | [m3u8](http://liveingesta119.cdnmedia.tv/berguedatvlive/smil:live.smil/playlist.m3u8) | [web](http://tvbergueda.alacarta.cat/) | [logo](https://graph.facebook.com/televisiodelbergueda/picture?width=320&height=320) | - | UAg |
 | Balaguer TV | [m3u8](https://liveingesta119.cdnmedia.tv/vsnxallive/smil:live.smil/playlist.m3u8) | [web](https://www.balaguer.tv/en-directe/) | [logo](https://graph.facebook.com/balaguertv/picture?width=320&height=320) | - | UAg |
 | Abadia de Montserrat | [m3u8 # 1](https://live-edge-lon-1.cdn.enetres.net/CDB35895D88B49599996A01201668E06022/live-misas/index.m3u8) - [m3u8 # 2](https://play.cdn.enetres.net/CDB35895D88B49599996A01201668E06022/022/playlist.m3u8) | [web](http://www.montserratcomunicacio.cat/(S(s5yhpzfkug1dtwcdsuhalrl4))/tvabadia.htm) | [logo](https://estatics.montserratvisita.com/img/imgTxtGenerals/foto_banners_nous_base117.jpg) | - | - |
-| Ulldecona TV | [youtube](https://youtu.be/vQar5LFPy9I) | [web](https://ulldecona.tv/) | [logo](https://graph.facebook.com/radioulldecona/picture?width=320&height=320) | - | - |
+| Ulldecona TV |  | [web](https://ulldecona.tv/) | [logo](https://graph.facebook.com/radioulldecona/picture?width=320&height=320) | - | - |
 | Televisió de Sant Martí | [youtube](https://www.youtube.com/watch?v=-KJ9WD-t6a0) | [web](https://www.youtube.com/watch?v=-KJ9WD-t6a0) | [logo](https://yt3.ggpht.com/a/AATXAJxI6prB1WVRmv60mvSZIyI4Sq7NRDLTMgLwsQ=s288-c-k-c0xffffffff-no-rj-mo) | - | - |
 | TV Sant Cugat | [youtube](https://youtu.be/XhfxG-Zpzek) | [web](http://www.tvsantcugat.cat/) | [logo](https://graph.facebook.com/tvsantcugat/picture?width=320&height=320) | - | - |
 | Gavà Televisió | - | [web](http://www.gavatv.cat/) | [logo](https://graph.facebook.com/gavatv/picture?width=320&height=320) | - | - |
