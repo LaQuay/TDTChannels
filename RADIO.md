@@ -279,7 +279,7 @@
 | Radio Nacional Ceuta | [mp3](https://rneceu.rtveradio.cires21.com/rneceu.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Ceuta | [mp3](https://radio5ceu.rtveradio.cires21.com/radio5ceu.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 
-### Com. de Madrid
+### C. de Madrid
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
@@ -313,7 +313,7 @@
 | Swing FM | [stream](http://ns3.mycloud-apps.es:8003/live) | [web](https://www.swingfmradio.com/) | [logo](https://graph.facebook.com/swingfm/picture?width=320&height=320) | - |
 | Top Radio | [m3u8](http://18003.live.streamtheworld.com/TOPRADIO_SC) | [web](http://www.mmradio.com/topradio/) | [logo](https://graph.facebook.com/topradioes/picture?width=320&height=320) | - |
 
-### Com. Foral de Navarra
+### C. Foral de Navarra
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
@@ -327,7 +327,7 @@
 | Radio Universidad de Navarra | [mp3](http://s37.myradiostream.com/8638/listen.mp3) | [web](https://www.unav.edu/radioplayer/endirecto.html) | [logo](https://graph.facebook.com/radiouniversidaddenavarra/picture?width=320&height=320) | - |
 | Trak FM Pamplona | [mp3](http://91.121.77.67:8070/;stream.mp3) | [web](http://trakfm.com/) | [logo](https://graph.facebook.com/trakfmpamplona/picture?width=320&height=320) | - |
 
-### Com. Valenciana
+### C. Valenciana
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
@@ -449,7 +449,7 @@
 | Onda Vasca Gipuzcoa | [stream](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
 | Radio 7 | [mp3](http://radio7.streaming-pro.com:7501/;stream.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - |
 
-### Princ. de Asturias
+### P. de Asturias
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
@@ -471,7 +471,7 @@
 | The Box FM | [stream](http://listen128.radionomy.com/thebox) | [web](http://www.theboxfm.net/player_web/index.html) | [logo](https://graph.facebook.com/boxfmec/picture?width=320&height=320) | - |
 | OndaLangreo | [stream](http://37.59.121.120:10025/stream) | [web](https://ondalangreo.com/) | [logo](https://graph.facebook.com/ondalangreo/picture?width=320&height=320) | - |
 
-### Región de Murcia
+### R. de Murcia
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
