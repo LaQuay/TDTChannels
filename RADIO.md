@@ -15,8 +15,6 @@
 | Europa FM | [m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8) | [web](https://www.europafm.com/directo/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=320&height=320) | - |
 | Cadena 100 | [mp3 # 1](http://195.55.74.203/cope/cadena100.mp3) - [mp3 # 2](http://cadena100-streamers-mp3-low.flumotion.com/cope/cadena100-low.mp3) | [web](http://www.cadena100.es/) | [logo](https://graph.facebook.com/CADENA100/picture?width=320&height=320) | - |
 | LOS40 | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3) | [web](https://play.los40.com/) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
-| LOS40 Classic | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3) | [web](https://play.los40.com/emisora/los40_classic/) | [logo](https://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - |
-| LOS40 Dance | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3) | [web](https://play.los40.com/emisora/los40_dance/) | [logo](https://graph.facebook.com/los40dance/picture?width=320&height=320) | - |
 | Radio 3 | [mp3](https://radio3.rtveradio.cires21.com/radio3_hc.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](https://graph.facebook.com/radio3/picture?width=320&height=320) | - |
 | Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | [logo](https://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
 | Rock FM | [m3u8](https://rockfm-cope.flumotion.com/playlist.m3u8) | [web](http://player.rockfm.fm/) | [logo](https://graph.facebook.com/RockFM/picture?width=320&height=320) | - |
@@ -26,9 +24,7 @@
 | Hit FM | [m3u](http://streams.kissfmradio.cires21.com/hitfm.m3u) | [web](http://www.hitfm.es/) | [logo](https://graph.facebook.com/hitfm.es/picture?width=320&height=320) | - |
 | Loca FM | [stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | Radio Exterior | [mp3](https://radioexterior.rtveradio.cires21.com/radioexterior_hc.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](https://graph.facebook.com/RadioExterior/picture?width=320&height=320) | - |
-| Radio Clásica | [mp3](https://radioclasica.rtveradio.cires21.com/radioclasica_hc.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](https://graph.facebook.com/radioclasicartve/picture?width=320&height=320) | - |
 | Radio Intereconomía | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B022/023/playlist.m3u8) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=320&height=320) | - |
-| Clásica FM Radio | [Stream](http://listen1.mixlr.com/bbf7a7693e4601235e8bcfe46c4bb3a9) | [web](http://clasicafmradio.es/cfm-escucha/) | [Logo](https://graph.facebook.com/clasicafmradio/picture?width=320&height=320) | - |
 | Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=320&height=320) | - |
 | Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com/) | [logo](https://graph.facebook.com/Radio4GOficial/picture?width=320&height=320) | - |
 | Babyradio | [stream](http://sd396babyradio1.lcinternet.com:8000/stream) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
@@ -47,6 +43,9 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
+| LOS40 Classic | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3) | [web](https://play.los40.com/emisora/los40_classic/) | [logo](https://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - |
+| LOS40 Dance | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3) | [web](https://play.los40.com/emisora/los40_dance/) | [logo](https://graph.facebook.com/los40dance/picture?width=320&height=320) | - |
+| Radio Clásica | [mp3](https://radioclasica.rtveradio.cires21.com/radioclasica_hc.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](https://graph.facebook.com/radioclasicartve/picture?width=320&height=320) | - |
 | Loca FM Latino | [stream](http://audio-online.net:8012/live) | [web](http://www.locafm.com/loca-latino/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | Loca FM Dance | [stream](http://audio-online.net:8004/live) | [web](http://www.locafm.com/dance/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | Loca FM Remember | [stream](http://audio-online.net:8006/live) | [web](http://www.locafm.com/remember/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
@@ -68,6 +67,7 @@
 | Loca FM Loca Pride | [stream](http://audio-online.net:8017/live) | [web](http://www.locafm.com/loca-pride/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | Loca FM Industrial | [stream](http://audio-online.net:8019/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | Loca FM Drum&Bass | [stream](http://audio-online.net:8021/live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
+| Clásica FM Radio | [Stream](http://listen1.mixlr.com/bbf7a7693e4601235e8bcfe46c4bb3a9) | [web](http://clasicafmradio.es/cfm-escucha/) | [Logo](https://graph.facebook.com/clasicafmradio/picture?width=320&height=320) | - |
 
 ## Autonómicas
 
