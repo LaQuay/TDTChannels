@@ -24,15 +24,15 @@
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=320&height=320) | DKISS.TDTChannelsEPG | - |
 | TRECE | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo) | [logo](https://graph.facebook.com/TRECEtves/picture?width=320&height=320) | 13.TDTChannelsEPG | - |
 | mtmad 24h | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8) | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - | - |
- OT 24H | [youtube](https://youtu.be/4ZCaP09p2Tc) | [web](https://www.youtube.com/channel/UCc1sAhdaLjfJi11X1awO-yg) | [logo](https://graph.facebook.com/operaciontriunfo/picture?width=320&height=320) | - | - |
-| playz | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/playz/directo/) | [logo](https://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
+| OT 24h | [youtube](https://youtu.be/4ZCaP09p2Tc) | [web](https://www.youtube.com/channel/UCc1sAhdaLjfJi11X1awO-yg) | [logo](https://graph.facebook.com/operaciontriunfo/picture?width=320&height=320) | - | - |
+| playz | [m3u8](https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586416/master.m3u8) | [web](https://www.rtve.es/playz/directo/) | [logo](https://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
 
 ## Informativos
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 24h | [m3u8](https://rtvelivestream.akamaized.net/24h_dvr.m3u8) | [web](https://www.rtve.es/directo/canal-24h/) | [logo](https://graph.facebook.com/24htve/picture?width=320&height=320) | 24Horas.TDTChannelsEPG | - |
-| +24 | [m3u8 # 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 2](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve25_lv3_aosv4_gl0/irtve25_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 3](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve04_lv3_aosv4_gl0/irtve04_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 4](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve14_lv3_aosv4_gl0/irtve14_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 5](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 6](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8) | [web](https://www.rtve.es/noticias/mas-24/) | [logo](https://graph.facebook.com/24htve/picture?width=320&height=320) | - | - |
+| +24 | [m3u8 # 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 2](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve25_lv3_aosv4_gl0/irtve25_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 3](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve04_lv3_aosv4_gl0/irtve04_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 4](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve14_lv3_aosv4_gl0/irtve14_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 5](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 6](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8) - [m3u8 # 7](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8)  | [web](https://www.rtve.es/noticias/mas-24/) | [logo](https://graph.facebook.com/24htve/picture?width=320&height=320) | - | - |
 | Nius | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8) | [web](https://www.niusdiario.es/) | [logo](https://graph.facebook.com/NiusDiario/picture?width=320&height=320) | - | - |
 | Atresplayer 1 | [m3u8 # GEO](https://livestartover-i.akamaized.net/geoeventos15/master.m3u8) - [m3u8](https://livestartover-i.akamaized.net/eventos15/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-15/) | [logo](https://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - | - |
 | Atresplayer 2 | [m3u8 # GEO](https://livestartover-i.akamaized.net/geoeventos26/master.m3u8) - [m3u8](https://livestartover-i.akamaized.net/eventos26/master.m3u8) | [web](https://www.atresplayer.com/directos/eventos-26/) | [logo](https://graph.facebook.com/Atresplayer/picture?width=320&height=320) | - | - |
@@ -72,9 +72,9 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| RNE | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/radio/directo/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
-| RNE 3 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/radio/radio3/directo/) | [logo](https://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
-| RNE 5 | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/rne_c102_lv3_aosv4_gl0.m3u8) | [web](https://www.rtve.es/radio/directo/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
+| Radio Nacional | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/radio/directo/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - | - |
+| Radio 3 | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/radio/radio3/directo/) | [logo](https://graph.facebook.com/radio3/picture?width=320&height=320) | - | - |
+| Radio 5 | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/rne_c102_lv3_aosv4_gl0.m3u8) | [web](https://www.rtve.es/radio/directo/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - | - |
 | Del 40 al 1 | [m3u8](https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](https://graph.facebook.com/del40al1/picture?width=320&height=320) | - | - |
 
 ## Autonómicos
@@ -115,7 +115,7 @@
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](https://graph.facebook.com/139595216095381/picture?width=320&height=320) | FuengirolaTV.TDTChannelsEPG | - |
 | Canal Málaga | [m3u8](http://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=320&height=320) | - | - |
 | Onda Jerez TV | - | [web](http://www.ondajerez.com/television/) | [logo](https://pbs.twimg.com/profile_images/687528682378924032/JvVmQjOT_400x400.jpg) | - | - |
-| Málaga 24h TV | [youtube](https://www.youtube.com/watch?v=GlS7mSQPUmk) | [web](http://malaga24h.com/directo-de-malaga-24-horas/) | [logo](https://graph.facebook.com/Malaga24hTv/picture?width=320&height=320) | - | - |
+| Málaga 24h TV | [youtube](https://www.youtube.com/user/Malaga24h/live) | [web](http://malaga24h.com/directo-de-malaga-24-horas/) | [logo](https://graph.facebook.com/Malaga24hTv/picture?width=320&height=320) | - | - |
 | Cadena Elite | [m3u8](https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8) | [web](http://www.cadenaelite.es/) | [logo](https://graph.facebook.com/cadenaelite.exitos/picture?width=320&height=320) | - | - |
 | Écija Comarca TV | [youtube](https://www.youtube.com/channel/UCiL_dz_QnquAtO5LjvW-How/live) | [web](http://tvm.ecija.es/) | [logo](https://graph.facebook.com/ecijacomarcatelevision/picture?width=320&height=320) | - | - |
 | Uvitel TV | - | [web](https://www.uvitel.tv/directo/) | [logo](https://graph.facebook.com/uviteltv/picture?width=320&height=320) | - | - |
@@ -144,7 +144,7 @@
 | Canal Sierra de Cádiz | [m3u8](http://217.125.136.93:8080/canalsierradecadiz.m3u8) | [web](http://www.canalsierradecadiz.com/emision-en-directo/) | [logo](https://graph.facebook.com/canalsierradecadiz/picture?width=320&height=320) | - | - |
 | Telequivir | - | [web](https://www.youtube.com/channel/UCYFhCyhYMvNTR7hWrLUIGdg) | [logo](https://graph.facebook.com/telequivirtv/picture?width=320&height=320) | - | - |
 | Trebujena TV | [m3u8](http://212.104.160.156:1935/live/trebujenatv2/master.m3u8) | [web](http://trebujena.tv/) | [logo](https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg) | - | - |
-| SalTV | [m3u8](http://live.controlstreams.com:1935/saltv/saltv/playlist.m3u8) | [web](http://saltv.es/) | [logo](http://saltv.es/wp-content/uploads/2019/06/cropped-logo-cabecera-3.png) | - | - |
+| SalTV | [m3u8](http://live.controlstreams.com:1935/saltv/saltv/playlist.m3u8) | [web](http://saltv.es/) | [logo](https://graph.facebook.com/saltv.es/picture?width=320&height=320) | - | - |
 
 ### Aragón
 
