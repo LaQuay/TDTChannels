@@ -18,7 +18,7 @@
 | Energy | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/energy) | [logo](https://graph.facebook.com/E.EnergyTV/picture?width=320&height=320) | Energy.TDTChannelsEPG | NONAV,CODEC |
 | Divinity | [m3u8 # HD](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8) - [m3u8 # SD](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/divinity) | [logo](https://graph.facebook.com/divinityes/picture?width=320&height=320) | Divinity.TDTChannelsEPG | NONAV,CODEC |
 | Be Mad | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/bemad) | [logo](https://graph.facebook.com/BeMadTV/picture?width=320&height=320) | Bemad.TDTChannelsEPG | NONAV,CODEC |
-| Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/playlist.m3u8) | [web](https://www.paramountnetwork.es/programacion/en-directo) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320) | Paramount.TDTChannelsEPG | NONAV |
+| Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/playlist.m3u8) | [web](https://www.paramountnetwork.es/programacion/en-directo) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320) | Paramount.TDTChannelsEPG | - |
 | Ten | - | [web](https://tentv.es/) | [logo](https://graph.facebook.com/televisionten/picture?width=320&height=320) | TEN.TDTChannelsEPG | - |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](https://graph.facebook.com/DMAXes/picture?width=320&height=320) | DMax.TDTChannelsEPG | - |
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=320&height=320) | DKISS.TDTChannelsEPG | - |
@@ -54,15 +54,15 @@
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es/) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=320&height=320) | - | - |
 | Betis TV | [m3u8](https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=320&height=320) | BetisTV.TDTChannelsEPG | - |
 | Sevilla TV | - | [web](https://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=320&height=320) | SevillaTV.TDTChannelsEPG | - |
-| UD Las Palmas TV | [m3u8](https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtv/udtvlive) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=320&height=320) | - | - |
-| Càdiz CF TV | [m3u8](https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8) | [web](https://www.cadizcf.com/cadizcf-tv) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=320&height=320) | - | - |
+| UD Las Palmas TV | [m3u8](https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtv/udtvlive) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=320&height=320) | - | NONAV |
+| Cádiz CF TV | [m3u8](https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8) | [web](https://www.cadizcf.com/cadizcf-tv) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=320&height=320) | - | - |
 | Redbull TV | [m3u8](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](https://graph.facebook.com/RedBull/picture?width=320&height=320) | - | - |
 
 ## Infantiles
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Boing | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=320&height=320) | Boing.TDTChannelsEPG | - |
+| Boing | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=320&height=320) | Boing.TDTChannelsEPG | NONAV |
 | Clan | [m3u8](https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8) | [web](https://www.rtve.es/alacarta/videos/programa/tve-clan/5466990/) | [logo](https://graph.facebook.com/clantve/picture?width=320&height=320) | Clan.TDTChannelsEPG | - |
 
 ## Webcams
