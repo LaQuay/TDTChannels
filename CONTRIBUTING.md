@@ -31,6 +31,7 @@ No se pueden subir enlaces convertidos a _m3u8_ de _Youtube_, _Vimeo_, _Dailymot
 En este apartado se debería indicar la web de dónde sale el _stream_.
 
 #### Logo
+- Incluir el que más represente la emisión a mostrar.
 - Fuentes de datos, en orden de preferencia: Redes sociales del canal (_Facebook_, _Twitter_), Wikipedia, propio canal, etc.
 - Medida recomendada de 320x320, máximo 400x400.
 - Formato PNG, y si no es posible JPG.
@@ -41,8 +42,9 @@ En este apartado se debería indicar la web de dónde sale el _stream_.
 No indiques nada en este campo, lo modificaremos nosotros a posterior.
 
 #### Info
-- `W3U` si la emisión introducida en el apartado `WEB` es reproducible por _Wiseplay_. De esta forma se incluirá como _stream_ en dicha lista.
-- `CORS` si la emisión no funciona en navegadores por CORS.
+- `W3U`: La emisión introducida en el apartado `WEB` es reproducible por _Wiseplay_. De esta forma se incluirá como _stream_ en dicha lista.
+- `NONAV`: La emisión no funciona en navegadores debido a [CORS](https://developer.mozilla.org/es/docs/Web/HTTP/Access_control_CORS).
+- `CODEC`: El canal necesita de un códec especial para ser reproducido.
 
 En caso de tener más de un `TAG` de información, concatenar con comas y sin espacios.
 
