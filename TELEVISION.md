@@ -284,8 +284,8 @@
 | Balaguer TV | [m3u8](https://liveingesta119.cdnmedia.tv/vsnxallive/smil:live.smil/playlist.m3u8) | [web](https://www.balaguer.tv/en-directe/) | [logo](https://graph.facebook.com/balaguertv/picture?width=320&height=320) | - | UAg |
 | Abadia de Montserrat | [m3u8 # 1](https://live-edge-lon-1.cdn.enetres.net/CDB35895D88B49599996A01201668E06022/live-misas/index.m3u8) - [m3u8 # 2](https://play.cdn.enetres.net/CDB35895D88B49599996A01201668E06022/022/playlist.m3u8) | [web](http://www.montserratcomunicacio.cat/(S(s5yhpzfkug1dtwcdsuhalrl4))/tvabadia.htm) | [logo](https://estatics.montserratvisita.com/img/imgTxtGenerals/foto_banners_nous_base117.jpg) | - | - |
 | Ulldecona TV | [youtube](https://youtu.be/vQar5LFPy9I) | [web](https://ulldecona.tv/) | [logo](https://graph.facebook.com/radioulldecona/picture?width=320&height=320) | - | - |
-| Televisió de Sant Martí | [youtube](https://www.youtube.com/watch?v=-KJ9WD-t6a0) | [web](https://www.youtube.com/watch?v=-KJ9WD-t6a0) | [logo](https://yt3.ggpht.com/a/AATXAJxI6prB1WVRmv60mvSZIyI4Sq7NRDLTMgLwsQ=s288-c-k-c0xffffffff-no-rj-mo) | - | - |
-| TV Sant Cugat | [youtube](https://youtu.be/XhfxG-Zpzek) | [web](http://www.tvsantcugat.cat/) | [logo](https://graph.facebook.com/tvsantcugat/picture?width=320&height=320) | - | - |
+| Televisió de Sant Martí | [youtube](https://youtu.be/LZuALZlwzbQ) | [web](https://www.youtube.com/channel/UCGXp77nMffJ9lk5If2dYj3w) | [logo](https://yt3.ggpht.com/a/AATXAJxI6prB1WVRmv60mvSZIyI4Sq7NRDLTMgLwsQ=s288-c-k-c0xffffffff-no-rj-mo) | - | - |
+| TV Sant Cugat | [youtube](https://youtu.be/5paUX0rVAr4) | [web](http://www.tvsantcugat.cat/) | [logo](https://graph.facebook.com/tvsantcugat/picture?width=320&height=320) | - | - |
 | Gavà Televisió | - | [web](http://www.gavatv.cat/) | [logo](https://graph.facebook.com/gavatv/picture?width=320&height=320) | - | - |
 | TV Hospitalet | - | [web](https://lhdigital.cat/web/digital-h/televisio) | [logo](https://graph.facebook.com/lhdigital/picture?width=320&height=320) | - | - |
 | Pirineus TV | - | [web](http://www.pirineustv.cat/) | [logo](https://graph.facebook.com/PirineusTV/picture?width=320&height=320) | - | - |
