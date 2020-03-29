@@ -19,7 +19,7 @@
 | Kiss FM | [mp3](http://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](http://kissfm.es/player/) | [logo](https://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
 | Rock FM | [m3u8](https://rockfm-cope.flumotion.com/playlist.m3u8) | [web](http://player.rockfm.fm/) | [logo](https://graph.facebook.com/RockFM/picture?width=320&height=320) | - |
 | Radiolé | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3) | [web](https://play.radiole.com/) | [logo](https://graph.facebook.com/radiole/picture?width=320&height=320) | - |
-| Melodía FM | [mp3](http://icecast-streaming.nice264.com/melodiafm?hash=.mp3) | [web](http://www.melodia-fm.com/directo/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - |
+| Melodía FM | [mp3](http://icecast-streaming.nice264.com/melodiafmback?hash=.mp3) | [web](http://www.melodia-fm.com/directo/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=320&height=320) | - |
 | MegaStar FM | [m3u8](https://megastar-cope.flumotion.com/playlist.m3u8) | [web](http://www.megastar.fm/) | [logo](https://graph.facebook.com/MegaStarFM/picture?width=320&height=320) | - |
 | Hit FM | [m3u](http://streams.kissfmradio.cires21.com/hitfm.m3u) | [web](http://www.hitfm.es/) | [logo](https://graph.facebook.com/hitfm.es/picture?width=320&height=320) | - |
 | Loca FM | [stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
