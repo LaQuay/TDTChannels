@@ -92,7 +92,7 @@
 | 8 La Janda | [m3u8](http://185.210.20.13:8080/0.m3u8) | [web](https://www.youtube.com/user/8lajanda/live) | [logo](https://graph.facebook.com/8lajanda/picture?width=320&height=320) | - | - |
 | Huelva TV | [youtube](https://youtu.be/MywLhCk3NoE) | [web](http://huelvatv.com/directo/) | [logo](https://graph.facebook.com/Huelvatv/picture?width=320&height=320) | - | - |
 | El Correo de Andalucía | [m3u8](https://elcorreotv.todostreaming.es/live/elcorreotv-livestream.m3u8) | [web](http://elcorreoweb.es/elcorreotv) | [logo](https://graph.facebook.com/elcorreoweb/picture?width=320&height=320) | - | - |
-| Canal 45 TV | [m3u8](https://cdn01.yowi.tv/503L6OKTE2/master.m3u8) | [web](http://www.canal45tv.com/) | [logo](https://graph.facebook.com/canal45television/picture?width=320&height=320) | - | - |
+| Canal 45 TV | [m3u8](https://cdn01.yowi.tv/503L6OKTE2/master.m3u8) | [web](http://www.canal45tv.com/) | [logo](https://graph.facebook.com/canal45television/picture?width=320&height=320) | - | NONAV |
 | Lebrija TV | [m3u8](https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8) | [web](http://www.lebrija.tv/directo/) | [logo](https://graph.facebook.com/lebrijatelevision/picture?width=320&height=320) | - | - |
 | Onda Algeciras TV | [m3u8](https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8) | [web](http://ondaalgecirastv.com/en-directo/) | [logo](https://graph.facebook.com/ondaalgecirastv/picture?width=320&height=320) | OndaAlgeciras.TDTChannelsEPG | - |
 | Teleonuba | [m3u8](http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8) | [web](https://www.teleonuba.es/en-directo/) | [logo](https://graph.facebook.com/Teleonuba/picture?width=320&height=320) | TeleOnuba.TDTChannelsEPG | - |
@@ -202,7 +202,7 @@
 | TeleToledo | - | [web](http://www.teletoledo.es/index.php/tv-en-directo) | [logo](https://graph.facebook.com/Teletoledo/picture?width=320&height=320) | - | - |
 | Imás TV | [m3u8](https://secure3.todostreaming.es/live/imastv-livestream.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | [logo](https://graph.facebook.com/television.imas/picture?width=320&height=320) | - | - |
 | Alcarria TV | [m3u8](http://217.182.77.27/live/alcarriatv-livestream.m3u8) | [web](http://www.alcarria.tv/htmlPlayer.html) | [logo](https://graph.facebook.com/AlcarriaTV/picture?width=320&height=320) | - | - |
-| TV Diocesana Toledo | [m3u8](https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8) | [web](http://rtvd.org/) | [logo](https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_400x400.jpg) | - | - |
+| TV Diocesana Toledo | [m3u8](https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8) | [web](http://rtvd.org/) | [logo](https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_400x400.jpg) | - | NONAV |
 | Canal Imagen Almansa | - | [web](https://zonacliente.almatelecom.es/videos/canalimagen) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | W3U |
 | InfoCanal Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | - |
 | Guada TV | [m3u8](http://95.216.150.122:1935/gcm2/gcm2/master.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=320&height=320) | - | - |
@@ -224,7 +224,7 @@
 | Telemedina Canal 9 | - | [web](http://www.telemedina.com/) | [logo](https://graph.facebook.com/telemedinacanal9/picture?width=320&height=320) | - | - |
 | Canal 54 Burgos | [m3u8](https://videocdn.mixer.com/hls/26772748-6ca363d050ffe07df63003449013a5c4_source/index.m3u8) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=320&height=320) | - | - |
 | TV Benavente | [m3u8](https://59b782181fb20.streamlock.net:455/gcm5/gcm5/playlist.m3u8) | [web](http://www.tvbenavente.es/television-online/) | [logo](https://graph.facebook.com/benaventetv/picture?width=320&height=320) | Benavente.TDTChannelsEPG | - |
-| Telearanda | [m3u8](https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8) | [web](http://www.telearanda.es/) | [logo](https://graph.facebook.com/575943555801687/picture?width=320&height=320) | - | - |
+| Telearanda | [m3u8](https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8) | [web](http://www.telearanda.es/) | [logo](https://graph.facebook.com/575943555801687/picture?width=320&height=320) | - | NONAV |
 | ViveMiranda Televisión | - | [web](https://www.vivemiranda.com/television/) | [logo](https://graph.facebook.com/vivemirandacom/picture?width=320&height=320) | - | - |
 
 ### Cataluña
@@ -320,7 +320,7 @@
 | Webcam OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106 FM](http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | - | - |
 | El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](https://pbs.twimg.com/profile_images/1222133236689539073/cY7ZQiRB_400x400.jpg) | ElToroTV.TDTChannelsEPG | - |
 | C33 Madrid | [m3u8](https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8) | [web](http://www.canal33.info/) | [logo](https://graph.facebook.com/434470346582124/picture?width=320&height=320) | - | - |
-| Distrito TV | [m3u8](https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8) | [web](http://distritotv.es/videos/) | [logo](https://graph.facebook.com/2004860103163343/picture?width=320&height=320) | - | - |
+| Distrito TV | [m3u8](https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8) | [web](http://distritotv.es/videos/) | [logo](https://graph.facebook.com/2004860103163343/picture?width=320&height=320) | - | NONAV |
 | Solidaria TV | [m3u8](http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](http://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=320&height=320) | - | - |
 | Déjate de Historias TV | [m3u8](https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8) | [web](http://www.dejatedehistorias.es/wordpress/dejate-tv-on-line/) | [logo](https://graph.facebook.com/DejateDeHistoriasTV/picture?width=320&height=320) | - | - |
 | Logos TV | [m3u8](https://streamer1.streamhost.org/salive/logosH/master.m3u8) | [web](https://logostv.es/) | [logo](https://graph.facebook.com/logostvespana/picture?width=320&height=320) | - | - |
@@ -352,12 +352,12 @@
 | Intercomarcal TV | [m3u8](http://78.41.83.88:8880/hls/tvixa.m3u8) | [web](http://www.intercomarcal.com) | [logo](https://graph.facebook.com/Intercomarcal.Television/picture?width=320&height=320) | - | - |
 | telesafor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](http://telesafor.com) | [logo](https://graph.facebook.com/Tele7Safor/picture?width=320&height=320) | - | - |
 | TV Vega Baja | [m3u8](https://streaming.tvt-datos.es:8080/hls/tvb/live.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=320&height=320) | - | - |
-| Canal 56 | [m3u8](https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8) | [web](http://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=320&height=320) | - | - |
+| Canal 56 | [m3u8](https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8) | [web](http://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=320&height=320) | - | NONAV |
 | tvA | [m3u8](http://5.39.65.105/hls/tvaxa.m3u8) | [web](http://www.tv-a.es/) | [logo](https://graph.facebook.com/tvArtequatre/picture?width=320&height=320) | - | - |
 | Alicantí TV | [m3u8](http://5.39.65.105/hls/alacantixa.m3u8) | [web](http://www.alacantitv.com/en-directo/) | [logo](https://graph.facebook.com/alacantitv/picture?width=320&height=320) | - | - |
 | RiberaTV | [m3u8](https://common01.todostreaming.es/live/ribera-livestream.m3u8) | [web](http://www.riberatelevisio.com/) | [logo](https://graph.facebook.com/grup.televisio/picture?width=320&height=320) | - | - |
 | TV 4 La Vall | [m3u8](https://common01.todostreaming.es/live/tarson-livestream.m3u8) | [web](http://teve4lavall.com/) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=320&height=320) | - | - |
-| TeVe4 | [m3u8](https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8) | [web](http://teve4.es/) | [logo](https://graph.facebook.com/teve4televisio/picture?width=320&height=320) | - | - |
+| TeVe4 | [m3u8](https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8) | [web](http://teve4.es/) | [logo](https://graph.facebook.com/teve4televisio/picture?width=320&height=320) | - | NONAV |
 | Información TV | - | [web](http://www.informaciontv.es/) | [logo](https://graph.facebook.com/103588046375790/picture?width=320&height=320) | - | - |
 | PequeRadio TV | [m3u8](http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8) | [web](http://www.pequeradio.com/tvv2.php) | [logo](https://graph.facebook.com/Pequeradio/picture?width=320&height=320) | - | - |
 | Tele Sagunto | [m3u8](https://5940924978228.streamlock.net/Directo1_1/smil:Directo1_1.smil/playlist.m3u8) | [web](https://telesagunto.com/directo) | [logo](https://graph.facebook.com/TeleSagunto/picture?width=320&height=320) | - | - |
@@ -474,7 +474,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 7 TV RM | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | [logo](https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=320&height=320) | 7RM.TDTChannelsEPG | - |
-| Popular TV Murcia | [m3u8](https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8) | [web](https://www.populartvrm.com/) | [logo](https://graph.facebook.com/poptvregiondemurcia/picture?width=320&height=320) | - | - |
+| Popular TV Murcia | [m3u8](https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8) | [web](https://www.populartvrm.com/) | [logo](https://graph.facebook.com/poptvregiondemurcia/picture?width=320&height=320) | - | NONAV |
 | RTV Vida | [m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/tv/) | [logo](https://graph.facebook.com/vidartv/picture?width=320&height=320) | - | - |
 | TV Murciana | - | [web](http://www.televisionmurciana.es/) | [logo](https://graph.facebook.com/televisionmurciana/picture?width=320&height=320) | - | - |
 | Canal 1 Mar Menor | - | [web](https://www.canal1tv.es/) | [logo](https://graph.facebook.com/tuwebtv/picture?width=320&height=320) | - | - |
@@ -558,23 +558,23 @@
 | DJing Hedonist | [m3u8 # EN](https://www.djing.com/tv/session_hedonist.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
 | DJing Summer Vibes | [m3u8 # EN](http://www.djing.com/tv/session_summer-vibes.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
 | DJing Wild EDM | [m3u8 # EN](http://www.djing.com/tv/session_wild-edm.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| HqM Hits | [m3u8](https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8) | [web](https://hqm.es/hqm-hits/) | [logo](https://hqm.es/wp-content/uploads/2020/03/HITS.jpg) | - | W3U |
-| HqM Spanish | [m3u8](https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8) | [web](https://hqm.es/hqm-spanish/) | [logo](https://hqm.es/wp-content/uploads/2020/03/SPANISH.jpg) | - | W3U |
-| HqM Rock | [m3u8](https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8) | [web](https://hqm.es/hqm-rock/) | [logo](https://hqm.es/wp-content/uploads/2020/03/ROCK.jpg) | - | W3U |
-| HqM Remember | [m3u8](https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8) | [web](https://hqm.es/hqm-remember/) | [logo](https://hqm.es/wp-content/uploads/2020/03/REMEMBER.jpg) | - | W3U |
-| HqM Relax | [m3u8](https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8) | [web](https://hqm.es/hqm-relax/) | [logo](https://hqm.es/wp-content/uploads/2020/03/RELAX.jpg) | - | W3U |
-| HqM Pop | [m3u8](https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8) | [web](https://hqm.es/hqm-pop/) | [logo](https://hqm.es/wp-content/uploads/2020/03/POP.jpg) | - | W3U |
-| HqM Latin | [m3u8](https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8) | [web](https://hqm.es/hqm-latin/) | [logo](https://hqm.es/wp-content/uploads/2020/03/LATIN.jpg) | - | W3U |
-| HqM Kids | [m3u8](https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8) | [web](https://hqm.es/hqm-kids/) | [logo](https://hqm.es/wp-content/uploads/2020/03/KIDS.jpg) | - | W3U |
-| HqM Jazz | [m3u8](https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8) | [web](https://hqm.es/hqm-jazz/) | [logo](https://hqm.es/wp-content/uploads/2020/03/JAZZ.jpg) | - | W3U |
-| HqM Hip Hop | [m3u8](https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8) | [web](https://hqm.es/hqm-hip-hop/) | [logo](https://hqm.es/wp-content/uploads/2020/03/HIP-HOP.jpg) | - | W3U |
-| HqM Folk | [m3u8](https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8) | [web](https://hqm.es/hqm-folk/) | [logo](https://hqm.es/wp-content/uploads/2020/03/FOLK.jpg) | - | W3U |
-| HqM Dance | [m3u8](https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8) | [web](https://hqm.es/hqm-dance/) | [logo](https://hqm.es/wp-content/uploads/2020/03/DANCE.jpg) | - | W3U |
-| HqM Classic | [m3u8](https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8) | [web](https://hqm.es/hqm-classic/) | [logo](https://hqm.es/wp-content/uploads/2020/03/CLASSIC.jpg) | - | W3U |
-| HqM Chill Out | [m3u8](https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8) | [web](https://hqm.es/hqm-chill-out/) | [logo](https://hqm.es/wp-content/uploads/2020/03/CHILL-OUT.jpg) | - | W3U |
-| HqM Blues | [m3u8](https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8) | [web](https://hqm.es/hqm-blues/) | [logo](https://hqm.es/wp-content/uploads/2020/03/BLUES.jpg) | - | W3U |
-| HqM Baladas | [m3u8](https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8) | [web](https://hqm.es/hqm-baladas/) | [logo](https://hqm.es/wp-content/uploads/2020/03/BALADAS.jpg) | - | W3U |
-| HqM Arabic | [m3u8](https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8) | [web](https://hqm.es/hqm-arabic/) | [logo](https://hqm.es/wp-content/uploads/2020/03/ARABIC.jpg) | - | W3U |
+| HqM Hits | [m3u8](https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8) | [web](https://hqm.es/hqm-hits/) | [logo](https://hqm.es/wp-content/uploads/2020/03/HITS.jpg) | - | NONAV |
+| HqM Spanish | [m3u8](https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8) | [web](https://hqm.es/hqm-spanish/) | [logo](https://hqm.es/wp-content/uploads/2020/03/SPANISH.jpg) | - | W3U,NONAV |
+| HqM Rock | [m3u8](https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8) | [web](https://hqm.es/hqm-rock/) | [logo](https://hqm.es/wp-content/uploads/2020/03/ROCK.jpg) | - | W3U,NONAV |
+| HqM Remember | [m3u8](https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8) | [web](https://hqm.es/hqm-remember/) | [logo](https://hqm.es/wp-content/uploads/2020/03/REMEMBER.jpg) | - | W3U,NONAV |
+| HqM Relax | [m3u8](https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8) | [web](https://hqm.es/hqm-relax/) | [logo](https://hqm.es/wp-content/uploads/2020/03/RELAX.jpg) | - | W3U,NONAV |
+| HqM Pop | [m3u8](https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8) | [web](https://hqm.es/hqm-pop/) | [logo](https://hqm.es/wp-content/uploads/2020/03/POP.jpg) | - | W3U,NONAV |
+| HqM Latin | [m3u8](https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8) | [web](https://hqm.es/hqm-latin/) | [logo](https://hqm.es/wp-content/uploads/2020/03/LATIN.jpg) | - | W3U,NONAV |
+| HqM Kids | [m3u8](https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8) | [web](https://hqm.es/hqm-kids/) | [logo](https://hqm.es/wp-content/uploads/2020/03/KIDS.jpg) | - | W3U,NONAV |
+| HqM Jazz | [m3u8](https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8) | [web](https://hqm.es/hqm-jazz/) | [logo](https://hqm.es/wp-content/uploads/2020/03/JAZZ.jpg) | - | W3U,NONAV |
+| HqM Hip Hop | [m3u8](https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8) | [web](https://hqm.es/hqm-hip-hop/) | [logo](https://hqm.es/wp-content/uploads/2020/03/HIP-HOP.jpg) | - | W3U,NONAV |
+| HqM Folk | [m3u8](https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8) | [web](https://hqm.es/hqm-folk/) | [logo](https://hqm.es/wp-content/uploads/2020/03/FOLK.jpg) | - | W3U,NONAV |
+| HqM Dance | [m3u8](https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8) | [web](https://hqm.es/hqm-dance/) | [logo](https://hqm.es/wp-content/uploads/2020/03/DANCE.jpg) | - | W3U,NONAV |
+| HqM Classic | [m3u8](https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8) | [web](https://hqm.es/hqm-classic/) | [logo](https://hqm.es/wp-content/uploads/2020/03/CLASSIC.jpg) | - | W3U,NONAV |
+| HqM Chill Out | [m3u8](https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8) | [web](https://hqm.es/hqm-chill-out/) | [logo](https://hqm.es/wp-content/uploads/2020/03/CHILL-OUT.jpg) | - | W3U,NONAV |
+| HqM Blues | [m3u8](https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8) | [web](https://hqm.es/hqm-blues/) | [logo](https://hqm.es/wp-content/uploads/2020/03/BLUES.jpg) | - | W3U,NONAV |
+| HqM Baladas | [m3u8](https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8) | [web](https://hqm.es/hqm-baladas/) | [logo](https://hqm.es/wp-content/uploads/2020/03/BALADAS.jpg) | - | W3U,NONAV |
+| HqM Arabic | [m3u8](https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8) | [web](https://hqm.es/hqm-arabic/) | [logo](https://hqm.es/wp-content/uploads/2020/03/ARABIC.jpg) | - | W3U,NONAV |
 | Retro Plus TV | [m3u8](https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8) | [web](https://retroplustv.com/) | [logo](https://graph.facebook.com/retroplustv/picture?width=320&height=320) | - | - |
 | Retro Music TV | [m3u8](http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8) | [web](http://retromusic.cz/#retro_tv) | [logo](https://graph.facebook.com/retromusic/picture?width=320&height=320) | - | - |
 | California Music Channel | [m3u8 # EN](https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8) | [web](https://www.cmc-tv.com/) | [logo](https://graph.facebook.com/CaliforniaMusicChannel/picture?width=320&height=320) | - | - |
