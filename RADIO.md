@@ -216,8 +216,8 @@
 | Radio Marca Valladolid | [stream](http://radiomarcavalladolid.streaming-pro.com:8067) | [web](http://radiomarcavalladolid.com/) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | COPE Valladolid | [mp3](https://wecast-b03-04.flumotion.com/copesedes/valladolid.mp3) | [web](https://www.cope.es/directos/valladolid) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Mortal FM | [stream](http://server6.20comunicacion.com:8044/) | [web](http://www.mortalfm.es/online) | [logo](https://graph.facebook.com/mortalfm/picture?width=320&height=320) | - |
-| Radio Valdivielso | - | [web](http://radiovaldivielso.es) | [logo](https://graph.facebook.com/124228874264567/picture?width=320&height=320) | - |
-| Vive! Radio | [aac](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/media_w1875322187_74945.aac) - [m3u8](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/chunklist_w1875322187.m3u8) | [web](http://www.viveradio.es/ReproductorLive.aspx) | [logo](https://static-1.ivoox.com/canales/2/5/6/3/5141470913652_XXL.jpg) | - |
+| Radio Valdivielso | - | [web](http://radiovaldivielso.es) | [logo](https://static-1.ivoox.com/canales/2/5/6/3/5141470913652_XXL.jpg) | - |
+| Vive! Radio | [aac](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/media_w1875322187_74945.aac) - [m3u8](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/chunklist_w1875322187.m3u8) | [web](http://www.viveradio.es/ReproductorLive.aspx) | [logo](https://graph.facebook.com/158974217473244/picture?width=320&height=320) | - |
 
 ### Cataluña
 
@@ -307,7 +307,7 @@
 | Peperadio | [stream](http://server10.emitironline.com:8000/stream) | [web](https://peperadio.es/) | [logo](https://pbs.twimg.com/profile_images/905319409992044544/x35XzF3A_400x400.jpg) | - |
 | Radio Internacional | [mp3](http://195.55.74.203/rinternacional/audio-fme.mp3) | [web](http://www.radiointernacional.es/) | [logo](https://graph.facebook.com/RadioIntEs/picture?width=320&height=320) | - |
 | M21 Radio | [mp3](https://streamer92.store.aranova.cloud/mp3/live/m21radio_m21radio_128.mp3) | [web](https://www.m21radio.es/ahora) | [logo](https://graph.facebook.com/m21madrid/picture?width=320&height=320) | - |
-| Onda Diamante | [m3u](http://www.avvcanillejas.org/docs/ondadiamante.ogg.m3u) | [web](https://www.avvcanillejas.org/radio.htm) | [logo](https://graph.facebook.com/OndaDiamanteOD/picture?width=320&height=320) | - |
+| Onda Diamante | [m3u](http://www.avvcanillejas.org/docs/ondadiamante.ogg.m3u) | [web](https://www.avvcanillejas.org/radio.htm) | [logo](https://pbs.twimg.com/profile_images/3117262741/c47fd5e51548aaa3ce1628d319d31e58_400x400.jpeg) | - |
 | Onda Cero Sierra | [mp3](http://ondacerosierra.ddns.net:7000/;stream.mp3) | [web](http://www.lavozdelasierra.es/onda-cero-sierra/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | OMC Radio | [stream](http://cervera.eldialdigital.com:8104/;) | [web](https://www.omcradio.org/escuchanos/) | [logo](https://graph.facebook.com/OmcRadio/picture?width=320&height=320) | - |
 | Onda Polígono | [stream](http://marconi.eldialdigital.com:6230/;) | [web](http://www.ondapoligono.org/) | [logo](https://graph.facebook.com/ondapoligono/picture?width=320&height=320) | - |
