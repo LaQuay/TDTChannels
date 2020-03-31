@@ -537,6 +537,9 @@
 | American Horrors Movies | [m3u8 # EN](http://170.178.189.70:1935/live/Stream1/playlist.m3u8) | [web](http://www.americanhorrors.com/) | [logo](https://graph.facebook.com/AMERICANHORRORS/picture?width=320&height=320) | - | - |
 | Olympic Channel | [m3u8 # 1 EN](http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8) - [m3u8 # 2 EN](http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8) - [m3u8 # 3 EN](http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8) - [m3u8 # 4 EN](http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8) - [m3u8 # 5 EN](http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
 | Zee Mundo | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://go.zeemundo.com/canal/zee-mundo-en-vivo) | [logo](https://graph.facebook.com/zeemundo/picture?width=320&height=320) | - | - |
+| Garage TV | [m3u8](http://186.0.233.76:1935/Garage/garage.smil/.m3u8) | [web](http://elgarage.com/tv-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_400x400.jpg) | - | - |
+| MsMotor TV | [m3u8 # IT](https://streaming.wim.tv/live/streamingautomototv/.m3u8) | [web](http://www.msmotor.tv/) | [logo](https://graph.facebook.com/msmotortv/picture?width=320&height=320) | - | - |
+| OnlyMotors | [m3u8 # EN](https://kapang000.broadcastcdn.net/kapanglivetv-playout-onlymotors/index.m3u8) | [web](https://kapang.com/onlymotors/live/) | [logo](https://2ztp623067el53wfyaf7sj1d-wpengine.netdna-ssl.com/onlymotors/wp-content/uploads/sites/19/2017/08/onlymotorsLOGO2.png) | - | - |
 
 ## Musicales
 
