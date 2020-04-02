@@ -104,7 +104,7 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 - [TDTChannels](https://github.com/Rubenfer/TDTChannels) - de [RubenApps](https://ruben.app/): Soporte en Telegram. Gratuita, de código abierto, sin anuncios. 
 - [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Soporte en Telegram. Gratuita, sin anuncios.
 
-#### MacOS
+#### macOS
 - [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels) - de [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps).
 
 ### Licencia del proyecto
