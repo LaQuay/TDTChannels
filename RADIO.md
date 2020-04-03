@@ -66,7 +66,7 @@
 | Loca FM Loca Pride | [stream](http://audio-online.net:8017/live) | [web](http://www.locafm.com/loca-pride/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | Loca FM Industrial | [stream](http://audio-online.net:8019/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | Loca FM Drum&Bass | [stream](http://audio-online.net:8021/live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
-| Clásica FM Radio | [Stream](http://listen1.mixlr.com/bbf7a7693e4601235e8bcfe46c4bb3a9) | [web](http://clasicafmradio.es/cfm-escucha/) | [Logo](https://graph.facebook.com/clasicafmradio/picture?width=320&height=320) | - |
+| Clásica FM Radio | [stream](http://listen1.mixlr.com/bbf7a7693e4601235e8bcfe46c4bb3a9) | [web](http://clasicafmradio.es/cfm-escucha/) | [Logo](https://graph.facebook.com/clasicafmradio/picture?width=320&height=320) | - |
 
 ## Autonómicas
 
@@ -135,7 +135,7 @@
 | Radio Nacional Aragón | [mp3](https://rneara.rtveradio.cires21.com/rrneara.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Aragón | [mp3](https://radio5ara.rtveradio.cires21.com/radio5ara.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | Radio Zaragoza | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3) | [web](https://play.cadenaser.com/emisora/radio_zaragoza/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| Cadena SER - Huesca | [stream # FM](http://streaming.radiohuesca.com:8021/radiohuescafm) - [Stream # AM](http://streaming.radiohuesca.com:8010/radiohuescaam) | [web](https://play.cadenaser.com/emisora/radio_huesca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Huesca | [stream # FM](http://streaming.radiohuesca.com:8021/radiohuescafm) - [stream # AM](http://streaming.radiohuesca.com:8010/radiohuescaam) | [web](https://play.cadenaser.com/emisora/radio_huesca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | COPE Pirineos | [stream](http://85.25.217.22:8110/stream) | [web](http://www.radioribagorza.es/copeonline.html) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Hit Pirineos | [stream](http://85.25.217.22:8310/stream) | [web](http://www.radioribagorza.es/hitpirineos.html) | [logo](https://graph.facebook.com/hitpirineos/picture?width=320&height=320) | - |
 | LOS40 Huesca | [stream](https://streamingradio.radiohuesca.com:8061/radio40principales) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
