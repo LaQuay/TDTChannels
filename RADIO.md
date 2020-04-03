@@ -23,7 +23,7 @@
 | MegaStar FM | [m3u8](https://megastar-cope.flumotion.com/playlist.m3u8) | [web](http://www.megastar.fm/) | [logo](https://graph.facebook.com/MegaStarFM/picture?width=320&height=320) | - |
 | Hit FM | [mp3](https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3) | [web](http://www.hitfm.es/) | [logo](https://graph.facebook.com/hitfm.es/picture?width=320&height=320) | - |
 | Loca FM | [stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
-| Radio Intereconomía | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B022/023/playlist.m3u8) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=320&height=320) | - |
+| Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=320&height=320) | - |
 | Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=320&height=320) | - |
 | Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com/) | [logo](https://graph.facebook.com/Radio4GOficial/picture?width=320&height=320) | - |
 | Babyradio | [stream](http://sd396babyradio1.lcinternet.com:8000/stream) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=320&height=320) | - |
@@ -66,7 +66,7 @@
 | Loca FM Loca Pride | [stream](http://audio-online.net:8017/live) | [web](http://www.locafm.com/loca-pride/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | Loca FM Industrial | [stream](http://audio-online.net:8019/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | Loca FM Drum&Bass | [stream](http://audio-online.net:8021/live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
-| Clásica FM Radio | [Stream](http://listen1.mixlr.com/bbf7a7693e4601235e8bcfe46c4bb3a9) | [web](http://clasicafmradio.es/cfm-escucha/) | [Logo](https://graph.facebook.com/clasicafmradio/picture?width=320&height=320) | - |
+| Clásica FM Radio | [Stream](http://listen.mixlr.com/623318c7207a03e6a03c72572f14c2c5) | [web](http://clasicafmradio.es/cfm-escucha/) | [Logo](https://graph.facebook.com/clasicafmradio/picture?width=320&height=320) | - |
 
 ## Autonómicas
 
