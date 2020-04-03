@@ -35,8 +35,9 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Cadena COPE Deportes | [mp3](http://net2.cope.stream.flumotion.com/cope/net2.mp3.m3u) | [web](https://www.cope.es/directos/net2) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
-| Sevilla FC Radio | - | [web](http://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=320&height=320) | - |
+| Cadena COPE Deportes | [mp3](http://net2.cope.stream.flumotion.com/cope/net2.mp3) | [web](https://www.cope.es/directos/net2) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| Sevilla FC Radio | [m3u8](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8) | [web](http://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=320&height=320) | - |
+| Real Betis Radio | [m3u8](https://cdnlive.shooowit.net/rbetislive/smil:radio.smil/playlist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-radio) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=320&height=320) | - |
 
 ## Musicales
 
