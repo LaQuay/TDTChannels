@@ -94,6 +94,14 @@
 | Cadena SER - Sevilla | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3) | [web](https://play.cadenaser.com/emisora/radio_sevilla) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena Dial Andalucia Este | [stream](http://streaming5.elitecomunicacion.es:8226/stream) | [web](http://dialandaluciaeste.com/) | [logo](https://graph.facebook.com/CadenaDialAndalucia/picture?width=320&height=320) | - |
 | LOS40 Guadix | [stream](http://20873.live.streamtheworld.com:3690/LOS40_ASO_GUADIX_SC) | [web](https://cadenaser.com/emisora/radio_guadix/) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Almería | [mp3](http://212.83.164.82:8001/40almeria.mp3) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Antequera | [stream](http://5.83.75.146:8000/cuarentaantequera) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Jerez | [stream](http://streaming6.elitecomunicacion.es:8634/;) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Poniente | [mp3](http://212.83.164.82:8007/40poniente.mp3) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Estepa | [stream](http://5.83.75.146:8000/cuarentaestepa) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Eo | [stream](http://5.135.183.124:8326/stream) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Guadix | [stream](http://streaming.enantena.com:8000/40principales128.mp3) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Indalo | [stream](http://212.83.164.82:8011/40indalo.mp3) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | Candil Radio | [stream](http://s6.viastreaming.net:7100/;) | [web](http://candilradio.com/) | [Logo](https://graph.facebook.com/890332081024749/picture?width=320&height=320) | - |
 | Central FM | [mp3](http://s29.myradiostream.com:4922/;listen.mp3) | [web](http://www.centralfm.com/) | [logo](https://graph.facebook.com/131322746891532/picture?width=320&height=320) | - |
 | Elite Radio | [stream](http://srv0625.lcinternet.com:8005/stream) | [web](https://eliteradiosevilla.es/) | [logo](https://graph.facebook.com/eliteradiosevilla/picture?width=320&height=320) | - |
@@ -215,6 +223,7 @@
 | Cadena SER - Castilla | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS.mp3) | [web](https://play.cadenaser.com/emisora/radio_castilla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Valladolid | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3) | [web](https://play.cadenaser.com/emisora/radio_valladolid/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Zamora | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3) | [web](https://play.cadenaser.com/emisora/radio_zamora/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| LOS40 León | [stream](http://www.radioleon.com:8000/radio) | [web](https://fans40madrid.blogspot.com/p/los40-castilla-y-leon.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | Radio Marca Valladolid | [stream](http://radiomarcavalladolid.streaming-pro.com:8067) | [web](http://radiomarcavalladolid.com/) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | COPE Valladolid | [mp3](https://wecast-b03-04.flumotion.com/copesedes/valladolid.mp3) | [web](https://www.cope.es/directos/valladolid) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Mortal FM | [stream](http://server6.20comunicacion.com:8044/) | [web](http://www.mortalfm.es/online) | [logo](https://graph.facebook.com/mortalfm/picture?width=320&height=320) | - |
@@ -300,6 +309,7 @@
 | Radio Nacional Madrid | [mp3](https://rnemad.rtveradio.cires21.com/rnemad.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Madrid | [mp3](https://radio5mad.rtveradio.cires21.com/radio5mad.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | Cadena SER - Sierra | [mp3](http://217.126.244.152:7000/;stream.mp3) | [web](https://play.cadenaser.com/emisora/ser_madrid_sierra/) | [Logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| LOS40 Madrid | [stream](http://emisoras.cadenaser.com:8085/Los40) | [web](https://fans40madrid.blogspot.com/p/los40-comunidad-de-madrid.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | ECO Leganés | [stream](http://cervera.eldialdigital.com:8076/stream) | [web](http://ecoleganes.org/) | [logo](https://graph.facebook.com/ecoleganes01/picture?width=320&height=320) | - |
 | Gestiona Radio | [stream](http://185.165.0.13:8004/stream/;) | [web](http://www.gestionaradio.com/) | [logo](https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg) | - |
 | Inforadio | [ogg](http://stream00.inforadio.ccinf.es:8000/inforadio01.ogg) | [web](http://inforadioucm.blogspot.com/p/escuchanos-en-directo.html) | [logo](https://graph.facebook.com/inforadiocomplutense/picture?width=320&height=320) | - |
@@ -353,8 +363,14 @@
 | Cadena SER - Gandia | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GANDIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_gandia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Ràdio Klara | [mp3](http://cervera.eldialdigital.com:8048/;#mp3) | [web](http://www.radioklara.org/radioklara/) | [logo](https://graph.facebook.com/radioklara/picture?width=320&height=320) | - |
 | La 97.7 Radio | [aac](http://teledifusion.tv:1935/977live/mp4:la977stream/media_w1606995350_363652.aac) | [web](http://www.la977.com/estaticos/la977.html) | [logo](https://graph.facebook.com/la977/picture?width=320&height=320) | - |
+| LOS40 Valencia | [stream](http://80.28.153.57:8000/40pvalencia) | [web](https://fans40madrid.blogspot.com/p/los40-comunidad-valenciana.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Benidorm | [mp3](http://20103.live.streamtheworld.com/LOS40_ASO_BENIDORM.mp3) | [web](https://fans40madrid.blogspot.com/p/los40-comunidad-valenciana.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Elda | [mp3](http://20103.live.streamtheworld.com/LOS40_ASO_ELDA.mp3) | [web](https://fans40madrid.blogspot.com/p/los40-comunidad-valenciana.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Gandia | [stream](http://stream.radiogandia.net:8661/stream) | [web](https://fans40madrid.blogspot.com/p/los40-comunidad-valenciana.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Ontinyent | [stream](http://62.43.204.232:8000/40p) | [web](https://fans40madrid.blogspot.com/p/los40-comunidad-valenciana.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | LOS40 Castellón | [stream](http://stream.radiocastellon.com/40) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | LOS40 Classic Castellón | [stream](http://stream.radiocastellon.com/40cl) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - |
+| LOS40 Dance Castellón | [stream](http://stream.radiocastellon.com/40dc) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/los40dance/picture?width=320&height=320) | - |
 | Play Radio Valencia | [stream](http://srv1.multiesfera.com:8002/stream) | [web](https://playradio.es/) | [logo](https://graph.facebook.com/Playradiovalencia/picture?width=320&height=320) | - |
 | Teleelx Radio | [mp3](http://95.211.109.206:8140/start/;stream.mp3) | [web](https://teleelx.es/radio/) | [logo](https://graph.facebook.com/teleelx/picture?width=320&height=320) | - |
 | Vega Baja Radio | [stream](http://185.223.216.183:8000/;stream/1) | [web](https://vegabajaradio.com/) | [logo](https://graph.facebook.com/vegabajaradio/picture?width=320&height=320) | - |
@@ -397,6 +413,7 @@
 | Cadena SER - Baixo Miño | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BAIXOMINO.mp3) | [web](https://play.cadenaser.com/emisora/ser_baixo_mino/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Monforte | [stream](http://srv0510.lcinternet.com:8007/stream) | [web](http://www.radioytele.es/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Vilalba | [stream](http://srv0510.lcinternet.com:8006/stream) | [web](http://www.radioytele.es/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| LOS40 Nordés | [stream](http://radiocoruna.lcinternet.com:9303/stream) | [web](https://fans40madrid.blogspot.com/p/los40_3.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | Radio Marca - Coruña | [mp3](https://relay.stream.enacast-cloud.com:40221/radiomarcacoruna.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Cuac FM | [ogg](https://streaming.cuacfm.org/cuacfm.ogg) | [web](https://cuacfm.org/directo/) | [logo](https://graph.facebook.com/cuacfm/picture?width=320&height=320) | - |
 | Radio Municipal de Tui | [stream](http://srv01.redsanmarcos.com:8022/stream) | [web](http://www.concellotui.org/php/radio.php) | [logo](https://graph.facebook.com/RadioMunicipaldeTui/picture?width=320&height=320) | - |
