@@ -207,8 +207,8 @@
 | Manzanares10TV | [m3u8](https://secure.todostreaming.es/live/manzanares-livestream.m3u8) | [web](http://www.manzanares10.tv/) | [logo](https://graph.facebook.com/Manzanares10TV/picture?width=320&height=320) | - | - |
 | RTV Diocesana Toledo | [m3u8](https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8) | [web](http://rtvd.org/) | [logo](https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_400x400.jpg) | - | NONAV |
 | Guadalajara Media | - | [web](https://www.youtube.com/channel/UCaEv8XC5Czu8vfV_QKUARLQ) | [logo](https://graph.facebook.com/canalguadalajara/picture?width=320&height=320) | - | - |
-| Canal Imagen Almansa | - | [web](https://zonacliente.almatelecom.es/videos/canalimagen) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | W3U |
-| InfoCanal Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | - |
+| CanalImagen Almansa | - | [web](https://zonacliente.almatelecom.es/videos/canalimagen) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | W3U |
+| InfoCanal Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | W3U |
 | TeleToledo | - | [web](http://www.teletoledo.es/index.php/tv-en-directo) | [logo](https://graph.facebook.com/Teletoledo/picture?width=320&height=320) | - | - |
 | Ciudad Real TV | - | [web](https://www.youtube.com/channel/UCNxFBlUBOaI3iQW37T3hFww) | [logo](https://graph.facebook.com/1765736930414544/picture?width=320&height=320) | - | - |
 | Televaldepeñas | - | [web](http://www.televal.com/tvv/) | [logo](https://graph.facebook.com/205812466235710/picture?width=320&height=320) | - | - |
