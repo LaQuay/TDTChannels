@@ -100,8 +100,8 @@
 | LOS40 Poniente | [mp3](http://212.83.164.82:8007/40poniente.mp3) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | LOS40 Estepa | [stream](http://5.83.75.146:8000/cuarentaestepa) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | LOS40 Eo | [stream](http://5.135.183.124:8326/stream) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
-| LOS40 Guadix | [stream](http://streaming.enantena.com:8000/40principales128.mp3) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
-| LOS40 Indalo | [stream](http://212.83.164.82:8011/40indalo.mp3) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Guadix | [mp3](http://streaming.enantena.com:8000/40principales128.mp3) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
+| LOS40 Indalo | [mp3](http://212.83.164.82:8011/40indalo.mp3) | [web](https://fans40madrid.blogspot.com/p/los40-andalucia.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | Candil Radio | [stream](http://s6.viastreaming.net:7100/;) | [web](http://candilradio.com/) | [Logo](https://graph.facebook.com/890332081024749/picture?width=320&height=320) | - |
 | Central FM | [mp3](http://s29.myradiostream.com:4922/;listen.mp3) | [web](http://www.centralfm.com/) | [logo](https://graph.facebook.com/131322746891532/picture?width=320&height=320) | - |
 | Elite Radio | [stream](http://srv0625.lcinternet.com:8005/stream) | [web](https://eliteradiosevilla.es/) | [logo](https://graph.facebook.com/eliteradiosevilla/picture?width=320&height=320) | - |
