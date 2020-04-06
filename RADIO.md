@@ -111,6 +111,7 @@
 | Radio Planeta | [stream](https://radioplaneta.emitironline.com/) | [web](https://www.radioplaneta.com/#) | [logo](https://graph.facebook.com/RadioPlaneta92.8/picture?width=320&height=320) | - |
 | Radio Poniente | [pls](http://94.23.85.189:7855/;listen.pls) | [web](https://www.radioponiente.com/) | [logo](https://graph.facebook.com/radioponientedeportes/picture?width=320&height=320) | - |
 | Radio Sierra | [stream](http://srv01.redsanmarcos.com:8000/stream) | [web](http://www.radiosierra.es/) | [logo](https://graph.facebook.com/RadioSierraFM/picture?width=320&height=320) | - |
+| Radio Marca Almería | - | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Radio Marca Sevilla | [mp3](https://relay.stream.enacast-cloud.com:40219/radiomarcasevillaHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Radio Marca Málaga | [stream](https://malagafm.streaming-pro.com:8131/malagafmmobile) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Radio Martos | [stream](http://streaming6.elitecomunicacion.es:8234/;) | [web](http://www.radiomartos.com/radioplayer.html) | [logo](https://graph.facebook.com/radiomartos/picture?width=320&height=320) | - |
@@ -135,6 +136,7 @@
 | Aragón Radio (Teruel) | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_teruel.m3u8) | [web](http://www.aragonradio.es/) | [logo](https://graph.facebook.com/aragonradio/picture?width=320&height=320) | - |
 | Radio Nacional Aragón | [mp3](https://rneara.rtveradio.cires21.com/rrneara.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Aragón | [mp3](https://radio5ara.rtveradio.cires21.com/radio5ara.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
+| Radio Marca Zaragoza | [stream](https://c6.auracast.net/radio/8020/rmzgz) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Radio Zaragoza | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3) | [web](https://play.cadenaser.com/emisora/radio_zaragoza/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Huesca | [stream # FM](http://streaming.radiohuesca.com:8021/radiohuescafm) - [stream # AM](http://streaming.radiohuesca.com:8010/radiohuescaam) | [web](https://play.cadenaser.com/emisora/radio_huesca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | COPE Pirineos | [stream](http://85.25.217.22:8110/stream) | [web](http://www.radioribagorza.es/copeonline.html) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
@@ -211,6 +213,7 @@
 | - | - | - | - | - |
 | Radio Nacional Castilla y León | [mp3](https://rnecyl.rtveradio.cires21.com/rnecyl.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Castilla y León | [mp3](https://radio5cyl.rtveradio.cires21.com/radio5cyl.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
+| Radio Marca León | [mp3](https://marcaleon.streaming-pro.com:6104/marca-le.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | esRadio - Castilla y León | [aac](https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-low.aac) | [web](https://esradio.libertaddigital.com/castilla-y-leon/directo.html) | [logo](https://graph.facebook.com/esradio/picture?width=320&height=320) | - |
 | Cadena SER - Castilla | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS.mp3) | [web](https://play.cadenaser.com/emisora/radio_castilla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Valladolid | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3) | [web](https://play.cadenaser.com/emisora/radio_valladolid/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
@@ -349,6 +352,7 @@
 | À Punt FM | [m3u8](https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/c3NG45ZjE6mgkM4CVO9xBB9NjSSe-_Lr/cs/9dcea2f8edf84bb4ba446f5e25615b51_1.m3u8) | [web](https://apuntmedia.es/va/directe/radio) | [logo](https://graph.facebook.com/apuntmedia/picture?width=320&height=320) | - |
 | Radio Nacional Comunidad Valenciana | [mp3](https://rneval.rtveradio.cires21.com/rneval.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Comunidad Valenciana | [mp3](https://radio5val.rtveradio.cires21.com/radio5val.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
+| Radio Marca Valencia | [mp3](https://relay.stream.enacast-cloud.com:40225/radiomarcavalenciaHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Cadena Dial Castellón | [stream](http://stream.radiocastellon.com/dial) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/cadenadial/picture?width=320&height=320) | - |
 | Cadena SER - Castellón | [stream](http://stream.radiocastellon.com/ser) | [web](https://play.cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Valencia | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_valencia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
@@ -394,6 +398,7 @@
 | Radio Picariña | [stream](http://ondemand-crtvg-origin.flumotion.com/videos/rg_infantil/flumotion/amodino.mp3) | [web](http://www.crtvg.es/en-directo/canles-directos-rg/radio-picarina) | [logo](https://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
 | Radio Nacional Galicia | [mp3](https://rnegal.rtveradio.cires21.com/rnegal.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Galicia | [mp3](https://radio5gal.rtveradio.cires21.com/radio5gal.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
+| Radio Marca Vigo | [mp3](https://streaming.enacast.com/radiomarcavigoHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Cadena SER - Vigo | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3) | [web](https://play.cadenaser.com/emisora/radio_vigo/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Coruña | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CORUNA.mp3) | [web](https://play.cadenaser.com/emisora/radio_coruna/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Baixo Miño | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BAIXOMINO.mp3) | [web](https://play.cadenaser.com/emisora/ser_baixo_mino/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
@@ -460,6 +465,8 @@
 | Radio Vitoria + | - | [web](https://www.eitb.eus/es/radio/radio-vitoria/radio-online-plus/) | [logo](https://graph.facebook.com/radioeuskadi.RE/picture?width=320&height=320) | - |
 | Radio Nacional País Vasco | [mp3](https://rneeus.rtveradio.cires21.com/rneeus.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 País Vasco | [mp3](https://radio5eus.rtveradio.cires21.com/radio5eus.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
+| Radio Marca Bilbao | [stream](https://cp12.shoutcheap.com:18030/stream) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
+| Radio Marca Donostia | [stream](https://marca-sansebastian.streaming-pro.com:6101/live) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Radio Popular - Herri Irratia | [stream](http://79.137.33.224:8000/radiopopular1) | [web](https://radiopopular.com/) | [logo](https://graph.facebook.com/herriirratia/picture?width=320&height=320) | - |
 | Radio Nervión | [stream](http://radionervion.streaming-pro.com:6015/radionervion) | [web](http://www.radionervion.com/) | [logo](https://graph.facebook.com/RadioNervion/picture?width=320&height=320) | - |
 | Onda Vasca | [stream](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
@@ -470,9 +477,10 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
+| RPA | [m3u8](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8) | [web](https://rtpa.es/radio) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
 | Radio Nacional Asturias | [mp3](https://rneast.rtveradio.cires21.com/rneast.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Asturias | [mp3](https://radio5ast.rtveradio.cires21.com/radio5ast.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
-| RPA | [m3u8](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8) | [web](https://rtpa.es/radio) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
+| Radio Marca Asturias | [mp3](https://streaming.enacast.com/radiomarcaasturiasHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | Cadena SER - Asturias | [mp3](https://19373.live.streamtheworld.com/SER_ASO_ASTURIAS.mp3) | [web](https://play.cadenaser.com/emisora/radio_asturias/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Gijon | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJON.mp3) | [web](https://play.cadenaser.com/emisora/ser_gijon/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Oriente | [mp3](http://seroriente.com:8000/seroriente.mp3) | [web](https://play.cadenaser.com/emisora/ser_oriente/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
