@@ -21,11 +21,11 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 ### Herramientas
 | | Enlace |
 | -	| -	|
-| **Web oficial** | [Reproductor web](http://www.tdtchannels.com/) |
-| **Aplicación Android** | [TDTChannels](http://www.tdtchannels.com) |
-| **Aplicación Android Open** | [Repositorio de la Aplicación Android](https://github.com/LaQuay/TDTChannels-APP) |
-| **Grupo en Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
-| **Canal de Avisos en Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
+| **Página web** | [Reproductor web](http://www.tdtchannels.com/) |
+| **Aplicación Android** | [TDTChannels](http://www.tdtchannels.com), botón Android |
+| **Aplicación Android Open** | [Repositorio](https://github.com/LaQuay/TDTChannels-APP) de la versión Open Source |
+| **Grupo - Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
+| **Canal de Avisos - Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
 
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
