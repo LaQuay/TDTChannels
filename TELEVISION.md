@@ -152,46 +152,45 @@
 | - | - | - | - | - | - |
 | Aragón TV | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8) | [web](http://www.aragontelevision.es/) | [logo](https://graph.facebook.com/AragonTV/picture?width=320&height=320) | AragonTV.TDTChannelsEPG | - |
 | Aragón Deporte | [m3u8](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8) | [web](https://www.cartv.es/aragondeporte/directo) | [logo](https://graph.facebook.com/AragonTV/picture?width=320&height=320) | - | - |
-| Huesca TV | [m3u8](https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8) | [web](http://www.radiohuesca.com/directo-htv) | [logo](https://pbs.twimg.com/profile_images/1417408328/HTV_400x400.JPG) | - | - |
+| Huesca TV | [m3u8](https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8) | [web](http://www.radiohuesca.com/directo-htv) | [logo](https://graph.facebook.com/Radiohuesca/picture?width=320&height=320) | - | - |
 | La Tele TV | [m3u8](https://secure3.todostreaming.es/live/generaltv-livestream1.m3u8) | [web](http://www.latele-tv.com/) | [logo](https://graph.facebook.com/LaTeleTVAragon/picture?width=320&height=320) | - | - |
 | Canal 25 Barbastro TV | [m3u8](https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8) | [web](http://www.canal25tv.es/index.php/ct-menu-item-5) | [logo](https://graph.facebook.com/tvbarbastro/picture?width=320&height=320) | - | - |
+| La Comarca | - | [web](https://www.lacomarca.net/television/comarca-tv/) | [logo](https://graph.facebook.com/lacomarcanews/picture?width=320&height=320) | - | - |
 | Calamocha TV | - | [web](http://www.mijilocatv.es/scd/index.php) | [logo](https://graph.facebook.com/CalamochaTV/picture?width=320&height=320) | - | - |
-| La 8 Zaragoza | - | [web](http://la8zaragoza.tv/directo.php) | [logo](https://graph.facebook.com/la8zaragozatv/picture?width=320&height=320) | - | - |
 | Digital Fraga TV | - | [web](https://vimeo.com/channels/digitalfragatv) | [logo](https://graph.facebook.com/digitalfragatelevision/picture?width=320&height=320) | - | - |
-| Canal 15tv | - | [web](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/) | [logo](https://graph.facebook.com/1266272630094067/picture?width=320&height=320) | - | - |
-| lacomarca.tv | - | [web](https://www.lacomarca.net/television/comarca-tv/) | [logo](https://graph.facebook.com/lacomarcanews/picture?width=320&height=320) | - | - |
+| La 8 Zaragoza | - | [web](http://la8zaragoza.tv/directo.php) | [logo](https://graph.facebook.com/la8zaragozatv/picture?width=320&height=320) | - | - |
+| Canal 15tv Zaragoza| - | [web](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/) | [logo](https://graph.facebook.com/1266272630094067/picture?width=320&height=320) | - | - |
 
 ### Canarias
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](https://graph.facebook.com/225265760833908/picture?width=320&height=320) | Canarias.TDTChannelsEPG | - |
+| Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](https://graph.facebook.com/188600904655/picture?width=320&height=320) | Canarias.TDTChannelsEPG | - |
+| Gran Canaria TV.com | [youtube](https://youtu.be/CDEwafrT1KE) | [web](https://www.grancanariatv.com/) | [logo](https://graph.facebook.com/GranCanariaTV/picture?width=320&height=320) | - | - |
+| Mírame TV | [m3u8](https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8) | [web](https://mirametv.com/) | [logo](https://graph.facebook.com/MirameTVCanarias/picture?width=320&height=320) | MirameTV.TDTChannelsEPG | - |
 | La 1 Canarias | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8) | [web](http://www.rtve.es/television/tve-canarias/directo/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | La1_CAT.TDTChannelsEPG | - |
 | La 2 Canarias | [m3u8](https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8) | [web](http://www.rtve.es/television/tve-canarias/directo/) | [logo](https://graph.facebook.com/la2detve/picture?width=320&height=320) | La2_CAT.TDTChannelsEPG | - |
 | 24h Canarias | [m3u8](https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8) | [web](http://www.rtve.es/television/tve-canarias/directo/) | [logo](https://graph.facebook.com/24htve/picture?width=320&height=320) | - | - |
-| Mírame TV | [m3u8](https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8) | [web](https://mirametv.com/) | [logo](https://graph.facebook.com/MirameTVCanarias/picture?width=320&height=320) | MirameTV.TDTChannelsEPG | - |
-| Loca TV | - | [web](http://locatv.es/) | [logo](https://graph.facebook.com/701434753589363/picture?width=320&height=320) | - | - |
-| Tindaya TV | [m3u8](https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live.smil/master.m3u8) | [web](https://www.tindayatv.com/) | [logo](https://graph.facebook.com/TindayaTV/picture?width=320&height=320) | - | - |
-| Lancelot TV | [m3u8](http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8) | [web](http://www.lancelot.tv/directo) | [logo](https://graph.facebook.com/288850935035196/picture?width=320&height=320) | - | - |
 | Canal 4 Tenerife | [m3u8](https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8) | [web](http://www.canal4tenerife.tv/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=320&height=320) | - | - |
-| Canal 4 TV | - | [web](https://canal4tvtelde.es/en-directo) | [logo](https://graph.facebook.com/canal4tvtelde/picture?width=320&height=320) | - | - |
-| Este Canal TV | - | [web](https://livestream.com/estecanaltv/events/7051352) | [logo](https://graph.facebook.com/estecanaltv/picture?width=320&height=320) | - | - |
-| Canal 13 | [m3u8](http://212.40.234.65/live/canal13/playlist.m3u8) | [web](https://rtvos5.wixsite.com/canal13) | [logo](https://graph.facebook.com/RTVCANAL13/picture?width=320&height=320) | - | - |
-| Gigante TV | [m3u8](http://85.214.130.95:8080/live/stream.m3u8) | [web](http://radiogigante.com/) | [logo](https://graph.facebook.com/741011612731578/picture?width=320&height=320) | - | - |
-| Ahora TV | [m3u8](https://5940924978228.streamlock.net/8171/8171/playlist.m3u8) | [web](https://www.ahoratelevision.es/directos/) | [logo](https://graph.facebook.com/ahoratvtenerife/picture?width=320&height=320) | - | - |
-| Televisión Mogán | [m3u8](https://5b38ce71f1f00.streamlock.net/8162/8162/playlist.m3u8) | [web](http://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | [logo](https://graph.facebook.com/radiotelevisionmogan/picture?width=320&height=320) | - | - |
-| Gran Canaria Televisión | [youtube](https://youtu.be/CDEwafrT1KE) | [web](https://www.grancanariatv.com/) | [logo](https://graph.facebook.com/205775469566390/picture?width=320&height=320) | - | - |
-| Canal 10 TV | [m3u8](https://5940924978228.streamlock.net/8269/smil:8269.smil/master.m3u8) | [web](https://canal10tv.es) | [logo](https://graph.facebook.com/Canal10Television/picture?width=320&height=320) | - | - |
-| Tenerife TV | [m3u8](http://livestream.iter.es:9876/tdt/tdt.m3u8) | [web](http://www.tenerife2030tv.es/) | [logo](https://graph.facebook.com/876348079083751/picture?width=320&height=320) | - | - |
+| Tindaya TV | [m3u8](https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live.smil/master.m3u8) | [web](https://www.tindayatv.com/) | [logo](https://graph.facebook.com/TindayaTV/picture?width=320&height=320) | - | - |
 | Noroeste Televisión | [m3u8](https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8) | [web](http://www.noroestetv.es/) | [logo](https://graph.facebook.com/noroestetelevision/picture?width=320&height=320) | - | - |
-| Canal 11 La Palma | - | [web](http://www.canal11lapalma.net/miranos.html) | [logo](https://graph.facebook.com/189726651071598/picture?width=320&height=320) | - | - |
 | NORTEvisión | [m3u8](http://amaru.dyndns.org:8835/0.m3u8) | [web](http://nortevision.es/directo/) | [logo](https://graph.facebook.com/aljoamyvisual/picture?width=320&height=320) | - | - |
+| RTV Mogán | [m3u8](https://5b38ce71f1f00.streamlock.net/8162/8162/playlist.m3u8) | [web](http://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | [logo](https://graph.facebook.com/radiotelevisionmogan/picture?width=320&height=320) | - | - |
+| Canal 10 TV | [m3u8](https://5940924978228.streamlock.net/8269/smil:8269.smil/master.m3u8) | [web](https://canal10tv.es) | [logo](https://graph.facebook.com/Canal10Television/picture?width=320&height=320) | - | - |
+| Canal 13 | [m3u8](http://212.40.234.65/live/canal13/playlist.m3u8) | [web](https://rtvos5.wixsite.com/canal13) | [logo](https://graph.facebook.com/RTVCANAL13/picture?width=320&height=320) | - | - |
+| Radio Gigante | [m3u8](http://85.214.130.95:8080/live/stream.m3u8) | [web](http://radiogigante.com/) | [logo](https://graph.facebook.com/741011612731578/picture?width=320&height=320) | - | - |
+| Ahora TV | [m3u8](https://5940924978228.streamlock.net/8171/8171/playlist.m3u8) | [web](https://www.ahoratelevision.es/directos/) | [logo](https://graph.facebook.com/ahoratvtenerife/picture?width=320&height=320) | - | - |
+| Tenerife 2030 TV | [m3u8](http://livestream.iter.es:9876/tdt/tdt.m3u8) | [web](http://www.tenerife2030tv.es/) | [logo](https://graph.facebook.com/876348079083751/picture?width=320&height=320) | - | - |
+| Lancelot TV | [m3u8](http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8) | [web](http://www.lancelot.tv/directo) | [logo](https://graph.facebook.com/288850935035196/picture?width=320&height=320) | - | - |
+| Este Canal TV | - | [web](https://livestream.com/estecanaltv/events/7051352) | [logo](https://graph.facebook.com/estecanaltv/picture?width=320&height=320) | - | - |
+| Canal 4 TV | - | [web](https://canal4tvtelde.es/en-directo) | [logo](https://graph.facebook.com/canal4tvtelde/picture?width=320&height=320) | - | - |
+| Canal 11 La Palma | - | [web](http://www.canal11lapalma.net/miranos.html) | [logo](https://graph.facebook.com/189726651071598/picture?width=320&height=320) | - | - |
 
 ### Cantabria
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Cantabria TV | - | [web](http://www.vegavision.tv/) | [logo](https://graph.facebook.com/vegavisiontvcantabria/picture?width=320&height=320) | - | - |
+| Cantabria TV | - | [web](http://www.vegavision.tv/blog/section/television1) | [logo](https://graph.facebook.com/vegavisiontvcantabria/picture?width=320&height=320) | - | - |
 | Popular TV Cantabria | [m3u8](https://secure5.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](http://populartvcantabria.com/en-directo/) | [logo](https://graph.facebook.com/populartvcantabria/picture?width=320&height=320) | PopularTV_S.TDTChannelsEPG | - |
 
 ### Castilla-La Mancha
@@ -199,21 +198,21 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | CMM | [m3u8](http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8) | [web](http://www.cmmedia.es/en-directo/tv/) | [logo](https://graph.facebook.com/CMMediaes/picture?width=320&height=320) | CMM.TDTChannelsEPG | - |
-| Hellin TV | [m3u8](http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8) | [web](http://www.televisionhellin.com/tv-en-directo) | [logo](https://graph.facebook.com/tvhellin/picture?width=320&height=320) | - | - |
-| TeleToledo | - | [web](http://www.teletoledo.es/index.php/tv-en-directo) | [logo](https://graph.facebook.com/Teletoledo/picture?width=320&height=320) | - | - |
+| TV Hellin | [m3u8](http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8) | [web](http://www.televisionhellin.com/tv-en-directo) | [logo](https://graph.facebook.com/tvhellin/picture?width=320&height=320) | - | - |
+| Guada TV | [m3u8](http://95.216.150.122:1935/gcm2/gcm2/master.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=320&height=320) | - | - |
+| Visión 6 TV | [m3u8](https://secure3.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | [logo](https://graph.facebook.com/104927246235553/picture?width=320&height=320) | - | - |
 | Imás TV | [m3u8](https://secure3.todostreaming.es/live/imastv-livestream.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | [logo](https://graph.facebook.com/television.imas/picture?width=320&height=320) | - | - |
 | Alcarria TV | [m3u8](http://217.182.77.27/live/alcarriatv-livestream.m3u8) | [web](http://www.alcarria.tv/htmlPlayer.html) | [logo](https://graph.facebook.com/AlcarriaTV/picture?width=320&height=320) | - | - |
-| TV Diocesana Toledo | [m3u8](https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8) | [web](http://rtvd.org/) | [logo](https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_400x400.jpg) | - | NONAV |
+| Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8) | [web](http://villarrobledo.com/canal4.php) | [logo](https://graph.facebook.com/canal4television/picture?width=320&height=320) | - | - |
+| Manzanares10TV | [m3u8](https://secure.todostreaming.es/live/manzanares-livestream.m3u8) | [web](http://www.manzanares10.tv/) | [logo](https://graph.facebook.com/Manzanares10TV/picture?width=320&height=320) | - | - |
+| RTV Diocesana Toledo | [m3u8](https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8) | [web](http://rtvd.org/) | [logo](https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_400x400.jpg) | - | NONAV |
+| Guadalajara Media | - | [web](https://www.youtube.com/channel/UCaEv8XC5Czu8vfV_QKUARLQ) | [logo](https://graph.facebook.com/canalguadalajara/picture?width=320&height=320) | - | - |
 | Canal Imagen Almansa | - | [web](https://zonacliente.almatelecom.es/videos/canalimagen) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | W3U |
 | InfoCanal Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=320&height=320) | - | - |
-| Guada TV | [m3u8](http://95.216.150.122:1935/gcm2/gcm2/master.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=320&height=320) | - | - |
-| Ciudad Real TV | - | [web](http://www.ustream.tv/channel/17022458) | [logo](https://graph.facebook.com/1765736930414544/picture?width=320&height=320) | - | - |
-| Visión 6 TV | [m3u8](https://secure3.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | [logo](https://graph.facebook.com/104927246235553/picture?width=320&height=320) | - | - |
-| Canal 4 Villarobledo | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8) | [web](http://villarrobledo.com/canal4.php) | [logo](https://graph.facebook.com/518952731468846/picture?width=320&height=320) | - | - |
+| TeleToledo | - | [web](http://www.teletoledo.es/index.php/tv-en-directo) | [logo](https://graph.facebook.com/Teletoledo/picture?width=320&height=320) | - | - |
+| Ciudad Real TV | - | [web](https://www.youtube.com/channel/UCNxFBlUBOaI3iQW37T3hFww) | [logo](https://graph.facebook.com/1765736930414544/picture?width=320&height=320) | - | - |
 | Televaldepeñas | - | [web](http://www.televal.com/tvv/) | [logo](https://graph.facebook.com/205812466235710/picture?width=320&height=320) | - | - |
 | Tele Taracón | - | [web](http://www.taranconalacarta.es/) | [logo](https://graph.facebook.com/429542800548807/picture?width=320&height=320) | - | - |
-| Guadalajara Media | - | [web](https://www.youtube.com/channel/UCaEv8XC5Czu8vfV_QKUARLQ) | [logo](https://graph.facebook.com/canalguadalajara/picture?width=320&height=320) | - | - |
-| Manzanares10TV | [m3u8](https://secure.todostreaming.es/live/manzanares-livestream.m3u8) | [web](http://www.manzanares10.tv/) | [logo](https://graph.facebook.com/Manzanares10TV/picture?width=320&height=320) | - | - |
 | Membrilla TV | - | [web](https://www.youtube.com/user/AYTOdeMEMBRILLA/) | [logo](http://www.aytomembrilla.org/cache/a/3a3dfa9e9686ab80de5b0e5ef317c4ef.jpg) | - | - |
 
 ### Castilla y León
@@ -233,8 +232,8 @@
 | La 8 Zamora | [m3u8](https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Zamora) | [logo](https://pbs.twimg.com/profile_images/1656832260/Logo_Zamora_400x400.JPG) | - | - |
 | TV Benavente | [m3u8](https://59b782181fb20.streamlock.net:455/gcm5/gcm5/playlist.m3u8) | [web](http://www.tvbenavente.es/television-online/) | [logo](https://graph.facebook.com/benaventetv/picture?width=320&height=320) | Benavente.TDTChannelsEPG | - |
 | Telearanda | [m3u8](https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8) | [web](http://www.telearanda.es/) | [logo](https://graph.facebook.com/575943555801687/picture?width=320&height=320) | - | NONAV |
+| ViveMiranda | - | [web](https://www.vivemiranda.com/television/) | [logo](https://graph.facebook.com/vivemirandacom/picture?width=320&height=320) | - | - |
 | Telemedina Canal 9 | - | [web](http://www.telemedina.com/) | [logo](https://graph.facebook.com/telemedinacanal9/picture?width=320&height=320) | - | - |
-| ViveMiranda Televisión | - | [web](https://www.vivemiranda.com/television/) | [logo](https://graph.facebook.com/vivemirandacom/picture?width=320&height=320) | - | - |
 | Canal 54 Burgos | - | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=320&height=320) | - | - |
 
 ### Cataluña
