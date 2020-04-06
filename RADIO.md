@@ -8,7 +8,7 @@
 | Cadena SER | [mp3 # 1](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3) - [mp3 # 2](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3) - [mp3 # 3](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3) | [web](http://play.cadenaser.com/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Onda Cero | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) | [web](https://www.ondacero.es/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Cadena Dial | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3) | [web](https://play.cadenadial.com/) | [logo](https://graph.facebook.com/cadenadial/picture?width=320&height=320) | - |
-| Cadena COPE | [mp3 # 1](https://flucast-m04-06.flumotion.com/cope/net1.mp3) - [mp3 # 2](https://flucast-m04-06.flumotion.com/cope/net2.mp3) | [web # 1](https://www.cope.es/directos/net1) - [web # 2](https://www.cope.es/directos/net2) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE | [mp3 # 1](https://flucast-m04-06.flumotion.com/cope/net1.mp3) - [mp3 # 2](https://flucast-m04-06.flumotion.com/cope/net2.mp3) | [web # 1](https://www.cope.es/directos/net1) - [web # 2](https://www.cope.es/directos/net2) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Radio Nacional | [mp3](https://rne.rtveradio.cires21.com/rne_hc.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 | [mp3](https://radio5.rtveradio.cires21.com/radio5_hc.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | esRadio | [aac](https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac) - [mp3](https://livestreaming3.esradio.fm/stream64.mp3) | [web](https://esradio.libertaddigital.com/directo.html) | [logo](https://graph.facebook.com/esradio/picture?width=320&height=320) | - |
@@ -35,7 +35,6 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Cadena COPE Deportes | [mp3](http://net2.cope.stream.flumotion.com/cope/net2.mp3) | [web](https://www.cope.es/directos/net2) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Sevilla FC Radio | [m3u8](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8) | [web](http://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=320&height=320) | - |
 | Real Betis Radio | [m3u8](https://cdnlive.shooowit.net/rbetislive/smil:radio.smil/playlist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-radio) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=320&height=320) | - |
 
@@ -82,7 +81,20 @@
 | Radio Nacional Andalucía | [mp3](https://rneand.rtveradio.cires21.com/rneand.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Andalucía | [mp3](https://radio5and.rtveradio.cires21.com/radio5and.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | Onda Cero Sevilla | [m3u8](https://livefastly-webs.ondacero.es/sevilla-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/sevilla/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
-| Cadena COPE Sevilla | [mp3](https://flucast-b05-05.flumotion.com/copesedes/sevilla.mp3) | [web](https://www.cope.es/directos/sevilla) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Almería | [mp3](https://wecast-b01-03.flumotion.com/copesedes/almeria.mp3) | [web](https://www.cope.es/directos/almeria) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Cádiz | [mp3](https://wecast-b01-03.flumotion.com/copesedes/cadiz.mp3) | [web](https://www.cope.es/directos/cadiz) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Córdoba | [mp3](https://wecast-b01-03.flumotion.com/copesedes/cordoba.mp3) | [web](https://www.cope.es/directos/cordoba) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE El Ejido | [mp3](https://wecast-b01-03.flumotion.com/copesedes/ejido.mp3) | [web](https://www.cope.es/directos/el-ejido) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Granada | [mp3](https://wecast-b01-03.flumotion.com/copesedes/granada.mp3) | [web](https://www.cope.es/directos/granada) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Guadix | [mp3](https://wecast-b01-03.flumotion.com/copesedes/guadix.mp3) | [web](https://www.cope.es/directos/guadix) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Huelva | [mp3](https://wecast-b01-03.flumotion.com/copesedes/huelva.mp3) | [web](https://www.cope.es/directos/huelva) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Jaca | [mp3](https://wecast-b01-03.flumotion.com/copesedes/jaca.mp3) | [web](https://www.cope.es/directos/jaca) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Jaén | [mp3](https://wecast-b01-03.flumotion.com/copesedes/jaen.mp3) | [web](https://www.cope.es/directos/jaen) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Jerez | [mp3](https://wecast-b01-03.flumotion.com/copesedes/jerez.mp3) | [web](https://www.cope.es/directos/jerez) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Málaga | [mp3](https://wecast-b01-03.flumotion.com/copesedes/malaga.mp3) | [web](https://www.cope.es/directos/malaga) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Motril | [mp3](https://wecast-b01-03.flumotion.com/copesedes/motril.mp3) | [web](https://www.cope.es/directos/motril) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Ronda | [mp3](http://83.61.19.89:8000/;copesedes/ronda.mp3) | [web](https://www.cope.es/directos/ronda) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Sevilla | [mp3](https://wecast-b01-03.flumotion.com/copesedes/sevilla.mp3) | [web](https://www.cope.es/directos/sevilla) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Cadena COPE Sierra Norte | [stream](http://5.135.183.124:8100/stream) | [web](https://radiosierranorte.es/radio-sierra-norte-en-directo-2/) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Cadena Digital | [mp3](http://185.23.192.118:8006/;stream.mp3) | [web](http://www.cadenadigital.com/) | [logo](https://graph.facebook.com/CadenaDigitalMalaga/picture?width=320&height=320) | - |
 | Cadena Latino | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es/) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=320&height=320) | - |
@@ -137,6 +149,9 @@
 | Radio 5 Aragón | [mp3](https://radio5ara.rtveradio.cires21.com/radio5ara.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | Radio Zaragoza | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3) | [web](https://play.cadenaser.com/emisora/radio_zaragoza/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Huesca | [stream # FM](http://streaming.radiohuesca.com:8021/radiohuescafm) - [stream # AM](http://streaming.radiohuesca.com:8010/radiohuescaam) | [web](https://play.cadenaser.com/emisora/radio_huesca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| COPE Huesca | [mp3](https://wecast-b01-03.flumotion.com/copesedes/huesca.mp3) | [web](https://www.cope.es/directos/huesca) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Teruel | [mp3](https://wecast-b01-03.flumotion.com/copesedes/teruel.mp3) | [web](https://www.cope.es/directos/teruel) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Zaragoza | [mp3](https://wecast-b01-03.flumotion.com/copesedes/zaragoza.mp3) | [web](https://www.cope.es/directos/zaragoza) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | COPE Pirineos | [stream](http://85.25.217.22:8110/stream) | [web](http://www.radioribagorza.es/copeonline.html) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Hit Pirineos | [stream](http://85.25.217.22:8310/stream) | [web](http://www.radioribagorza.es/hitpirineos.html) | [logo](https://graph.facebook.com/hitpirineos/picture?width=320&height=320) | - |
 | LOS40 Huesca | [stream](https://streamingradio.radiohuesca.com:8061/radio40principales) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
@@ -165,6 +180,8 @@
 | Radio 5 Canarias - Santa Cruz de Tenerife | [mp3](https://radio5ten.rtveradio.cires21.com/radio5ten.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | Canarias Radio | [m3u8](http://streaming2.mad.idec.net/rtvcradio/rtvcradio.drb.stream/playlist.m3u8) | [web](http://www.rtvc.es/canariasradio/directo.aspx) | [logo](https://graph.facebook.com/CanariasRadioLaAutonomica/picture?width=320&height=320) | - |
 | Kiss FM Canarias | [mp3](http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3) | [web](http://kissfm.es/player/canarias.html) | [logo](https://graph.facebook.com/kissfm.es/picture?width=320&height=320) | - |
+| COPE Gran Canaria | [mp3](https://wecast-b01-03.flumotion.com/copesedes/laspalmas.mp3) | [web](https://www.cope.es/directos/gran-canaria) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Tenerife | [mp3](https://wecast-b01-03.flumotion.com/copesedes/tenerife.mp3) | [web](https://www.cope.es/directos/tenerife) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Canal 4 Tenerife | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal4tenerife.tv/radio/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=320&height=320) | - |
 | Radio El Día | [mp3](http://185.50.197.212:9974/;stream.mp3) | [web](https://eldia.fm/online.htm) | [logo](https://graph.facebook.com/RadioELDIA/picture?width=320&height=320) | - |
 | Cadena SER - Club Tenerife | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TENERIFE.mp3) | [web](https://play.cadenaser.com/emisora/radio_club_tenerife) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
@@ -188,7 +205,7 @@
 | Radio Nacional Cantabria | [mp3](https://rnectb.rtveradio.cires21.com/rnectb.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Cantabria | [mp3](https://radio5ctb.rtveradio.cires21.com/radio5ctb.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | Onda Cero Santander | [m3u8](https://livefastly-webs.ondacero.es/santander-pull/audio/chunklist.m3u8) | [web](https://www.ondacero.es/emisoras/cantabria/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
-| Cope Santander | [mp3](https://santander-copesedes-rrcast.flumotion.com/copesedes/santander.mp3) | [web](https://www.cope.es/emisoras/cantabria/cantabria-provincia/santander) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Santander | [mp3](https://wecast-b01-03.flumotion.com/copesedes/santander.mp3) | [web](https://www.cope.es/directos/santander) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Radio Camargo | [mp3](http://91.121.77.67:8048/;stream.mp3) | [web](http://www.radiocamargo.es/) | [logo](https://graph.facebook.com/RadioCamargo100.4FM/picture?width=320&height=320) | - |
 | Top FM | [stream](http://topcantabriafm.myddns.me:8080/live) | [web](http://www.topcantabriafm.com) | [logo](https://pbs.twimg.com/profile_images/487651644083957760/GHc_1oji_400x400.png) | - |
 | Distinta FM | [mp3](http://ns100.emisionlocal.com:8050/;stream.mp3) | [web](http://distintafm.es/) | [logo](https://graph.facebook.com/distintafm/picture?width=320&height=320) | - |
@@ -202,6 +219,11 @@
 | Radio Nacional Castilla-La Mancha | [mp3](https://rneclm.rtveradio.cires21.com/rneclm.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Castilla-La Mancha | [mp3](https://radio5clm.rtveradio.cires21.com/radio5clm.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | Cadena SER - Albacete | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALBACETE.mp3) | [web](https://play.cadenaser.com/emisora/radio_albacete/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| COPE Albacete | [mp3](https://wecast-b01-03.flumotion.com/copesedes/albacete.mp3) | [web](https://www.cope.es/directos/albacete) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Ciudad Real | [mp3](https://wecast-b01-03.flumotion.com/copesedes/ciudadreal.mp3) | [web](https://www.cope.es/directos/ciudad-real) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Cuenca | [mp3](https://wecast-b01-03.flumotion.com/copesedes/cuenca.mp3) | [web](https://www.cope.es/directos/cuenca) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Guadalajara | [mp3](https://wecast-b01-03.flumotion.com/copesedes/guadalajara.mp3) | [web](https://www.cope.es/directos/guadalajara) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Toledo | [mp3](https://wecast-b01-03.flumotion.com/copesedes/toledo.mp3) | [web](https://www.cope.es/directos/toledo) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net/) | [logo](https://graph.facebook.com/radioarrebato107.4/picture?width=320&height=320) | - |
 | Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=320&height=320) | - |
 
@@ -216,7 +238,15 @@
 | Cadena SER - Valladolid | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3) | [web](https://play.cadenaser.com/emisora/radio_valladolid/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Zamora | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3) | [web](https://play.cadenaser.com/emisora/radio_zamora/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Radio Marca Valladolid | [stream](http://radiomarcavalladolid.streaming-pro.com:8067) | [web](http://radiomarcavalladolid.com/) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
-| COPE Valladolid | [mp3](https://wecast-b03-04.flumotion.com/copesedes/valladolid.mp3) | [web](https://www.cope.es/directos/valladolid) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Ávila | [mp3](https://wecast-b01-03.flumotion.com/copesedes/avila.mp3) | [web](https://www.cope.es/directos/avila) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Burgos | [mp3](https://wecast-b01-03.flumotion.com/copesedes/burgos.mp3) | [web](https://www.cope.es/directos/burgos) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Salamanca | [mp3](https://wecast-b01-03.flumotion.com/copesedes/salamanca.mp3) | [web](https://www.cope.es/directos/salamanca) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE León | [mp3](https://wecast-b01-03.flumotion.com/copesedes/leon.mp3) | [web](https://www.cope.es/directos/leon) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Palencia | [mp3](https://wecast-b01-03.flumotion.com/copesedes/palencia.mp3) | [web](https://www.cope.es/directos/palencia) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Segovia | [mp3](https://wecast-b01-03.flumotion.com/copesedes/segovia.mp3) | [web](https://www.cope.es/directos/segovia) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Soria | [mp3](https://wecast-b01-03.flumotion.com/copesedes/soria.mp3) | [web](https://www.cope.es/directos/soria) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Valladolid | [mp3](https://wecast-b01-03.flumotion.com/copesedes/valladolid.mp3) | [web](https://www.cope.es/directos/valladolid) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Zamora | [mp3](https://wecast-b01-03.flumotion.com/copesedes/zamora.mp3) | [web](https://www.cope.es/directos/zamora) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Mortal FM | [stream](http://server6.20comunicacion.com:8044/) | [web](http://www.mortalfm.es/online) | [logo](https://graph.facebook.com/mortalfm/picture?width=320&height=320) | - |
 | Radio Valdivielso | - | [web](http://radiovaldivielso.es) | [logo](https://static-1.ivoox.com/canales/2/5/6/3/5141470913652_XXL.jpg) | - |
 | Vive! Radio | [aac](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/media_w1875322187_74945.aac) - [m3u8](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/chunklist_w1875322187.m3u8) | [web](http://www.viveradio.es/ReproductorLive.aspx) | [logo](https://graph.facebook.com/158974217473244/picture?width=320&height=320) | - |
@@ -243,7 +273,10 @@
 | Cadena SER - Barcelona | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3) | [web](https://play.cadenaser.com/emisora/radio_barcelona/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Manresa | [mp3](http://streaming.enantena.com:8000/taronjadigital-bages56.mp3) | [web](https://play.cadenaser.com/emisora/radio_manresa/) | [Logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Reus | [stream](http://emisoras.cadenaser.com:8085/reus) | [web](https://play.cadenaser.com/emisora/radio_reus/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| COPE Barcelona | [mp3](https://flucast-b05-06.flumotion.com/copesedes/barcelona.mp3) | [web](https://www.cope.es/directos/barcelona) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Barcelona | [mp3](https://wecast-b01-03.flumotion.com/copesedes/barcelona.mp3) | [web](https://www.cope.es/directos/barcelona) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Girona | [mp3](https://wecast-b01-03.flumotion.com/copesedes/gerona.mp3) | [web](https://www.cope.es/directos/girona) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Lleida | [mp3](https://wecast-b01-03.flumotion.com/copesedes/lleida.mp3) | [web](https://www.cope.es/directos/lleida) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Tarragona | [mp3](https://wecast-b01-03.flumotion.com/copesedes/tarragona.mp3) | [web](https://www.cope.es/directos/tarragona) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Equinox Radio | [stream](http://listen.radionomy.com/absolutevintage) | [web](https://www.equinoxmagazine.fr/2018/04/13/ecouter-6-radios-equinox-barcelone/) | [logo](https://graph.facebook.com/equinoxradio.barcelone/picture?width=320&height=320) | - |
 | La Marina FM | [stream](http://endirecte.amcl.cat:8000/lamarinafm) | [web](http://lamarina.cat/endirecte/) | [Logo](https://graph.facebook.com/lamarinacat/picture?width=320&height=320) | - |
 | Mataró Ràdio | [m3u8](http://liveingesta118.cdnmedia.tv//m1tvlive/smil:mataroradio.smil/playlist.m3u8) | [web](http://mataroaudiovisual.alacarta.cat/directeR) | [logo](https://graph.facebook.com/mataroaudiovisual/picture?width=320&height=320) | - |
@@ -300,6 +333,8 @@
 | Radio Nacional Madrid | [mp3](https://rnemad.rtveradio.cires21.com/rnemad.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Madrid | [mp3](https://radio5mad.rtveradio.cires21.com/radio5mad.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | Cadena SER - Sierra | [mp3](http://217.126.244.152:7000/;stream.mp3) | [web](https://play.cadenaser.com/emisora/ser_madrid_sierra/) | [Logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| COPE Madrid | [mp3](https://flucast-m05-04.flumotion.com/cope/madrid.mp3) | [web](https://www.cope.es/directos/madrid) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Madrid COPE Más | [mp3](https://flucast-b03-04.flumotion.com/cope/net4.mp3) | [web](https://www.cope.es/directos/madrid-cope-mas) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | ECO Leganés | [stream](http://cervera.eldialdigital.com:8076/stream) | [web](http://ecoleganes.org/) | [logo](https://graph.facebook.com/ecoleganes01/picture?width=320&height=320) | - |
 | Gestiona Radio | [stream](http://185.165.0.13:8004/stream/;) | [web](http://www.gestionaradio.com/) | [logo](https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg) | - |
 | Inforadio | [ogg](http://stream00.inforadio.ccinf.es:8000/inforadio01.ogg) | [web](http://inforadioucm.blogspot.com/p/escuchanos-en-directo.html) | [logo](https://graph.facebook.com/inforadiocomplutense/picture?width=320&height=320) | - |
@@ -334,6 +369,8 @@
 | Radio 5 Navarra | [mp3](https://radio5nav.rtveradio.cires21.com/radio5nav.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | Bit FM Pamplona | [pls](http://server1.emitironline.com:8024/) | [web](http://bitfm.es/player/) | [logo](https://graph.facebook.com/bitfm.es/picture?width=320&height=320) | - |
 | Cadena SER - Pamplona | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_PAMPLONA.mp3) | [web](https://play.cadenaser.com/emisora/radio_pamplona/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| COPE Pamplona | [mp3](https://wecast-b01-03.flumotion.com/copesedes/pamplona.mp3) | [web](https://www.cope.es/directos/pamplona) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Tudela | [mp3](https://wecast-b01-03.flumotion.com/copesedes/tudela.mp3) | [web](https://www.cope.es/directos/tudela) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Eguzki Irratia | [mp3](http://51.68.46.71:9000/eguzki.mp3) | [web](https://eguzki.eus/) | [logo](https://graph.facebook.com/293039954137807/picture?width=320&height=320) | - |
 | Emisora Municipal de Pamplona | - | [web](https://pamplona.es/radio) | [logo](https://graph.facebook.com/aytopamplona/picture?width=320&height=320) | - |
 | Euskalerria Irratia | [stream](http://server4.beatproducciones.com:8014/;) | [web](https://euskalerriairratia.eus/irratia/zuzenekoa) | [logo](https://graph.facebook.com/euskalerriairratia/picture?width=320&height=320) | - |
@@ -351,6 +388,11 @@
 | Cadena SER - Castellón | [stream](http://stream.radiocastellon.com/ser) | [web](https://play.cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Valencia | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_valencia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Gandia | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GANDIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_gandia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| COPE Alicante | [mp3](https://wecast-b01-03.flumotion.com/copesedes/alicante.mp3) | [web](https://www.cope.es/directos/alicante) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Castellón | [mp3](https://wecast-b01-03.flumotion.com/copesedes/castellon.mp3) | [web](https://www.cope.es/directos/castellon) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Castellón-Vinaroz | [mp3](https://wecast-b01-03.flumotion.com/copesedes/vinaroz.mp3) | [web](https://www.cope.es/directos/castellon-vinaroz) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Denia | [mp3](https://wecast-b01-03.flumotion.com/copesedes/denia.mp3) | [web](https://www.cope.es/directos/denia) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Valencia | [mp3](https://wecast-b01-03.flumotion.com/copesedes/valencia.mp3) | [web](https://www.cope.es/directos/valencia) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Ràdio Klara | [mp3](http://cervera.eldialdigital.com:8048/;#mp3) | [web](http://www.radioklara.org/radioklara/) | [logo](https://graph.facebook.com/radioklara/picture?width=320&height=320) | - |
 | La 97.7 Radio | [aac](http://teledifusion.tv:1935/977live/mp4:la977stream/media_w1606995350_363652.aac) | [web](http://www.la977.com/estaticos/la977.html) | [logo](https://graph.facebook.com/la977/picture?width=320&height=320) | - |
 | LOS40 Castellón | [stream](http://stream.radiocastellon.com/40) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
@@ -380,6 +422,9 @@
 | Canal Extremadura Radio | [m3u8](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel3.smil/playlist.m3u8) | [web](http://www.canalextremadura.es/radio/directo) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320) | - |
 | Radio Nacional Extremadura | [mp3](https://rneext.rtveradio.cires21.com/rneext.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Extremadura | [mp3](https://radio5ext.rtveradio.cires21.com/radio5ext.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
+| COPE Badajoz | [mp3](https://wecast-b01-03.flumotion.com/copesedes/badajoz.mp3) | [web](https://www.cope.es/directos/badajoz) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Cáceres | [mp3](https://wecast-b01-03.flumotion.com/copesedes/caceres.mp3) | [web](https://www.cope.es/directos/caceres) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Mérida | [mp3](https://wecast-b01-03.flumotion.com/copesedes/merida.mp3) | [web](https://www.cope.es/directos/merida) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Radio Miajadas | [stream](http://srv0410.lcinternet.com:8013/stream) | [web](http://player.lcinternet.es/v9/cc023_063/) | [logo](https://graph.facebook.com/489965251169138/picture?width=320&height=320) | - |
 
 ### Galicia
@@ -398,6 +443,15 @@
 | Cadena SER - Monforte | [stream](http://srv0510.lcinternet.com:8007/stream) | [web](http://www.radioytele.es/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Vilalba | [stream](http://srv0510.lcinternet.com:8006/stream) | [web](http://www.radioytele.es/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Radio Marca - Coruña | [mp3](https://relay.stream.enacast-cloud.com:40221/radiomarcacoruna.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
+| COPE A Coruña | [mp3](https://wecast-b01-03.flumotion.com/copesedes/lacoruna.mp3) | [web](https://www.cope.es/directos/a-coruna) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Lugo | [mp3](https://wecast-b01-03.flumotion.com/copesedes/lugo.mp3) | [web](https://www.cope.es/directos/lugo) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Pontevedra | [mp3](https://wecast-b01-03.flumotion.com/copesedes/pontevedra.mp3) | [web](https://www.cope.es/directos/pontevedra) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Villalba | [mp3](https://wecast-b01-03.flumotion.com/copesedes/villalba.mp3) | [web](https://www.cope.es/directos/villalba) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Ferrol | [mp3](https://wecast-b01-03.flumotion.com/copesedes/ferrol.mp3) | [web](https://www.cope.es/directos/ferrol) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Ourense | [mp3](https://wecast-b01-03.flumotion.com/copesedes/orense.mp3) | [web](https://www.cope.es/directos/ourense) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Ribadeo | [mp3](https://wecast-b01-03.flumotion.com/copesedes/ribadeo.mp3) | [web](https://www.cope.es/directos/ribadeo) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Santiago | [mp3](https://wecast-b01-03.flumotion.com/copesedes/santiago.mp3) | [web](https://www.cope.es/directos/santiago) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Vigo | [mp3](https://wecast-b01-03.flumotion.com/copesedes/vigo.mp3) | [web](https://www.cope.es/directos/vigo) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Cuac FM | [ogg](https://streaming.cuacfm.org/cuacfm.ogg) | [web](https://cuacfm.org/directo/) | [logo](https://graph.facebook.com/cuacfm/picture?width=320&height=320) | - |
 | Radio Municipal de Tui | [stream](http://srv01.redsanmarcos.com:8022/stream) | [web](http://www.concellotui.org/php/radio.php) | [logo](https://graph.facebook.com/RadioMunicipaldeTui/picture?width=320&height=320) | - |
 | Radiofusión | [stream](http://srv0411.lcinternet.com:9005/stream) | [web](https://www.radiofusion.eu/) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=320&height=320) | - |
@@ -414,6 +468,8 @@
 | Radio 5 Islas Baleares | [mp3](https://radio5bal.rtveradio.cires21.com/radio5bal.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | Fibwi Radio | [stream](http://stream.fibwi.com:9000/stream) | [web](https://fibwiradio.com/) | [logo](https://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - |
 | Cadena SER - Mallorca | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALLORCA.mp3) | [web](https://play.cadenaser.com/emisora/radio_mallorca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| COPE Mallorca | [mp3](https://wecast-b01-03.flumotion.com/copesedes/mallorca.mp3) | [web](https://www.cope.es/directos/mallorca) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Menorca | [mp3](https://wecast-b01-03.flumotion.com/copesedes/menorca.mp3) | [web](https://www.cope.es/directos/menorca) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Radio Balear | [stream](http://server6.20comunicacion.com:8076/;) | [web](http://www.radiobalear.es/directo/) | [logo](https://graph.facebook.com/rbalear.interbaleares/picture?width=320&height=320) | - |
 | Última Hora Radio | [stream](http://stream.fibwi.com:9020/stream) | [web](http://radio.gsstatic.es/) | [logo](https://graph.facebook.com/UltimaHora.Mallorca/picture?width=320&height=320) | - |
 | Ibiza Global Radio | [stream](http://ibizaglobalradio.streaming-pro.com:8024/stream) | [web](http://ibizaglobalradio.com/) | [logo](https://graph.facebook.com/ibiza.radio/picture?width=320&height=320) | - |
@@ -433,7 +489,7 @@
 | - | - | - | - | - |
 | Radio Nacional La Rioja | [mp3](https://rnerio.rtveradio.cires21.com/rnerio.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 La Rioja | [mp3](https://radio5rio.rtveradio.cires21.com/radio5rio.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
-| COPE Rioja | [mp3](https://wecast-b01-01.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Logroño | [mp3](https://wecast-b01-03.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | SER-Radio Arnedo | [mp3](http://streaming2.formulaclick.com:8094/radioarnedo.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/ondarioja.radioarnedo/picture?width=320&height=320) | - |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/canalebro/picture?width=320&height=320) | - |
 
@@ -458,6 +514,9 @@
 | Radio Vitoria + | - | [web](https://www.eitb.eus/es/radio/radio-vitoria/radio-online-plus/) | [logo](https://graph.facebook.com/radioeuskadi.RE/picture?width=320&height=320) | - |
 | Radio Nacional País Vasco | [mp3](https://rneeus.rtveradio.cires21.com/rneeus.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 País Vasco | [mp3](https://radio5eus.rtveradio.cires21.com/radio5eus.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
+| COPE San Sebastián | [mp3](https://wecast-b01-03.flumotion.com/copesedes/ssebastian.mp3) | [web](https://www.cope.es/directos/san-sebastian) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Vitoria | [mp3](https://wecast-b01-03.flumotion.com/copesedes/vitoria.mp3) | [web](https://www.cope.es/directos/vitoria) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Bilbao | [mp3](https://wecast-b01-03.flumotion.com/copesedes/bilbao.mp3) | [web](https://www.cope.es/directos/bilbao) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Radio Popular - Herri Irratia | [stream](http://79.137.33.224:8000/radiopopular1) | [web](https://radiopopular.com/) | [logo](https://graph.facebook.com/herriirratia/picture?width=320&height=320) | - |
 | Radio Nervión | [stream](http://radionervion.streaming-pro.com:6015/radionervion) | [web](http://www.radionervion.com/) | [logo](https://graph.facebook.com/RadioNervion/picture?width=320&height=320) | - |
 | Onda Vasca | [stream](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
@@ -474,7 +533,9 @@
 | Cadena SER - Asturias | [mp3](https://19373.live.streamtheworld.com/SER_ASO_ASTURIAS.mp3) | [web](https://play.cadenaser.com/emisora/radio_asturias/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Gijon | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJON.mp3) | [web](https://play.cadenaser.com/emisora/ser_gijon/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Oriente | [mp3](http://seroriente.com:8000/seroriente.mp3) | [web](https://play.cadenaser.com/emisora/ser_oriente/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| COPE Oviedo | [mp3](https://wecast-m01-02.flumotion.com/copesedes/asturias.mp3) | [web](https://www.cope.es/directos/oviedo) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Asturias | [mp3](https://wecast-b01-03.flumotion.com/copesedes/asturias.mp3) | [web](https://www.cope.es/directos/asturias) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Gijón | [mp3](https://wecast-b01-03.flumotion.com/copesedes/gijon.mp3) | [web](https://www.cope.es/directos/gijon) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Oviedo | [mp3](https://wecast-b01-03.flumotion.com/copesedes/asturias.mp3) | [web](https://www.cope.es/directos/oviedo) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Carrussel FM | [mp3](http://server10.emitironline.com:8921/radio?1584744975456.mp3) | [web](http://www.carruselfm.com/) | [logo](https://graph.facebook.com/467719623356931/picture?width=320&height=320) | - |
 | cSTRadio | [stream](http://srv3021.lcinternet.com:8012/live) | [web](http://www.cstradio.org/v_portal/apartados/apartado.asp) | [Logo](https://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - |
 | Master FM | [stream](https://radios.lamaster.es:8000/asturias) | [web](https://lamaster.es/asturias/) | [logo](https://graph.facebook.com/lamasterfm/picture?width=320&height=320) | - |
@@ -497,6 +558,9 @@
 | Onda Regional de Murcia | [m3u8](https://live.redctnet.es/live/orm/orm/playlist.m3u8) | [web](https://www.orm.es/directo/orm/) | [logo](https://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
 | Onda Regional Música | [m3u8](https://live.redctnet.es/live/ormmusical/ormmusical/playlist.m3u8) | [web](https://www.orm.es/directo/or-musica/) | [logo](https://graph.facebook.com/OndaRegional/picture?width=320&height=320) | - |
 | Cadena SER - Murcia | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_murcia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| COPE Cartagena | [mp3](https://wecast-b01-03.flumotion.com/copesedes/cartagena.mp3) | [web](https://www.cope.es/directos/cartagena) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Lorca | [mp3](https://wecast-b01-03.flumotion.com/copesedes/lorca.mp3) | [web](https://www.cope.es/directos/lorca) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| COPE Murcia | [mp3](https://wecast-b01-03.flumotion.com/copesedes/murcia.mp3) | [web](https://www.cope.es/directos/murcia) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](https://tunein.com/radio/Radio-Calasparra-1075-s113080/) | [logo](https://graph.facebook.com/349014238632372/picture?width=320&height=320) | - |
 
 ## Internacionales
