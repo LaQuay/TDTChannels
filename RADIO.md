@@ -283,6 +283,8 @@
 | Ràdio Ripoll | [stream](http://5.135.183.124:8151/stream) | [web](https://www.corisamediagrup.com/mitjans/r%C3%A0dio-ripoll-ona-90/) | [logo](https://graph.facebook.com/334511563914/picture?width=320&height=320) | - |
 | Ràdio Olot | [stream](http://chrome.frilab.com:8000/radiolot) | [web](http://www.radiolot.cat/) | [logo](https://graph.facebook.com/Radiolot/picture?width=320&height=320) | - |
 | Ràdio Sabadell | [stream](http://online.radiosabadell.fm:8013/stream) | [web](https://radiosabadell.fm/) | [logo](https://graph.facebook.com/RadioSabadell/picture?width=320&height=320) | - |
+| Ràdio Sitges | [stream](https://s2.radio.co/s8e5dffe5e/listen) | [web](http://www.radiositges.com/) | [logo](https://graph.facebook.com/radiositges/picture?width=320&height=320) | - |
+| Jazz Radio BCN | [stream](http://listen64.radionomy.com/JazzRadioBcn) | [stream](https://www.jazzradiobcn.com/) | [logo](http://files.jazzradiobcn.webnode.es/system_preview_detail_200000029-183d119379/Jazz%20Radio%20300x300%202.jpg) | - |
 
 ### Ceuta
 
