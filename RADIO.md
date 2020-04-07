@@ -416,7 +416,7 @@
 | SER Madrid Oeste | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MADRID_OESTE.mp3) | [web](https://play.cadenaser.com/emisora/ser_madrid_oeste/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | SER Madrid Sierra | [mp3](http://217.126.244.152:7000/;stream.mp3) | [web](https://play.cadenaser.com/emisora/ser_madrid_sierra/) | [Logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | SER Madrid Sur | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MADRID_SUR.mp3) | [web](https://play.cadenaser.com/emisora/ser_madrid_sur/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| ECO Leganés | [stream](http://cervera.eldialdigital.com:8076/stream) | [web](http://ecoleganes.org/) | [logo](https://graph.facebook.com/ecoleganes01/picture?width=320&height=320) | - |
+| ECO Leganés | [stream](https://cervera.eldialdigital.com:25191/stream) | [web](http://ecoleganes.org/) | [logo](https://graph.facebook.com/ecoleganes01/picture?width=320&height=320) | - |
 | Gestiona Radio | [stream](http://185.165.0.13:8004/stream/;) | [web](http://www.gestionaradio.com/) | [logo](https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg) | - |
 | Inforadio | [ogg](http://stream00.inforadio.ccinf.es:8000/inforadio01.ogg) | [web](http://inforadioucm.blogspot.com/p/escuchanos-en-directo.html) | [logo](https://graph.facebook.com/inforadiocomplutense/picture?width=320&height=320) | - |
 | KeBuena | [aac](https://19393.live.streamtheworld.com/KEBUENA_ESAAC.aac) | [web](https://play.kebuena.es/) | [logo](https://graph.facebook.com/kebuena103.9fm/picture?width=320&height=320) | - |
@@ -434,7 +434,7 @@
 | Radio Fuga | [stream](http://radiogestion.com:7090/radiofuga) | [web](http://radio-fuga.com/escuchanosaqui/) | [logo](https://graph.facebook.com/RadioFuga/picture?width=320&height=320) | - |
 | Radio Jabato | - | [web](https://www.ivoox.com/escuchar-radio-jabato_nq_219448_1.html) | [logo](https://graph.facebook.com/RadioJabato/picture?width=320&height=320) | - |
 | Radio Las Águilas | [stream](http://server2.crearradio.com:8306/;stream) | [web](http://www.radiolasaguilas.es/) | [logo](https://pbs.twimg.com/profile_images/564877578943864832/0WaT4f5B_400x400.jpeg) | - |
-| Radio Morata | [mp3](http://cervera.eldialdigital.com:8132/codec=mp3) | [web](http://www.radiomorata.com/lavoz/) | [logo](https://graph.facebook.com/radiomorata/picture?width=320&height=320) | - |
+| Radio Morata | [stream](https://cervera.eldialdigital.com:25141/stream) | [web](http://www.radiomorata.com/lavoz/) | [logo](https://graph.facebook.com/radiomorata/picture?width=320&height=320) | - |
 | Radio Romanul | [stream](http://streaming.radioromanul.es:55556/radioromanul) | [web](http://www.radioromanul.es/live/) | [logo](https://graph.facebook.com/RadioRomanul/picture?width=320&height=320) | - |
 | Radio Utopía | [mp3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](http://www.radioutopia.org.es/) | [logo](https://graph.facebook.com/179099278878655/picture?width=320&height=320) | - |
 | Radio Vallekas | [stream](http://cervera.eldialdigital.com:8032/;) | [web](http://www.radiovallekas.org/) | [logo](https://graph.facebook.com/radiovallekas/picture?width=320&height=320) | - |
