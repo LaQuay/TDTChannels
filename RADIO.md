@@ -681,6 +681,7 @@
 | Radio Nacional Melilla | [mp3](https://rnemel.rtveradio.cires21.com/rnemel.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Melilla | [mp3](https://radio5mel.rtveradio.cires21.com/radio5mel.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | SER - Radio Melilla | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MELILLA.mp3) | [web](https://play.cadenaser.com/emisora/radio_melilla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Onda Cero Melilla | [pls](http://radioserver4.profesionalhosting.com:8146/listen.pls) | [web](http://www.ondaceromelilla.net/ml/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 
 ### País Vasco
 
