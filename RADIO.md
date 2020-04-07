@@ -430,7 +430,7 @@
 | Onda Polígono | [stream](http://marconi.eldialdigital.com:6230/;) | [web](http://www.ondapoligono.org/) | [logo](https://graph.facebook.com/ondapoligono/picture?width=320&height=320) | - |
 | Radio Almenara | [stream](http://185.50.197.212:9986/;) | [web](http://www.radioalmenara.net/) | [logo](https://graph.facebook.com/RadioAlmenara/picture?width=320&height=320) | - |
 | Radio Cigüeña | [pls](http://streamserver2.somosdigital.net:2199/system/images/tunein-pls.png) | [web](http://streamserver2.somosdigital.net:2199/start/sd0211a/) | [logo](https://graph.facebook.com/297157036138/picture?width=320&height=320) | - |
-| Radio Enlace | [stream](http://cervera.eldialdigital.com:8100/;) | [web](http://www.radioenlace.org/) | [logo](https://graph.facebook.com/radioenlacemadrid/picture?width=320&height=320) | - |
+| Radio Enlace | [stream](https://cervera.eldialdigital.com:25121/stream) | [web](http://www.radioenlace.org/) | [logo](https://graph.facebook.com/radioenlacemadrid/picture?width=320&height=320) | - |
 | Radio Fuga | [stream](http://radiogestion.com:7090/radiofuga) | [web](http://radio-fuga.com/escuchanosaqui/) | [logo](https://graph.facebook.com/RadioFuga/picture?width=320&height=320) | - |
 | Radio Jabato | - | [web](https://www.ivoox.com/escuchar-radio-jabato_nq_219448_1.html) | [logo](https://graph.facebook.com/RadioJabato/picture?width=320&height=320) | - |
 | Radio Las Águilas | [stream](http://server2.crearradio.com:8306/;stream) | [web](http://www.radiolasaguilas.es/) | [logo](https://pbs.twimg.com/profile_images/564877578943864832/0WaT4f5B_400x400.jpeg) | - |
