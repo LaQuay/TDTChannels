@@ -162,7 +162,8 @@
 | Global Radio | [mp4](http://stream.seav.co.uk:8000/stream.mp4) | [web](https://global.fm/streamwindow/) | [logo](https://graph.facebook.com/loveglobalradio/picture?width=320&height=320) | - |
 | Integración Radio | [stream](http://5.135.183.124:8023/stream) | [web](http://www.integracionradio.com/) | [logo](https://graph.facebook.com/integracionradio/picture?width=320&height=320) | - |
 | Onda Capital | [stream](https://server1.radiocast.es:8000/capital) | [web](https://ondacapital.es/) | [logo](https://graph.facebook.com/ondacapitalfm/picture?width=320&height=320) | - |
-| Onda Punta Radio | - | [web](http://ondapuntaradio.net/) | [logo](https://graph.facebook.com/OndaPunta/picture?width=320&height=320) | - |
+| Onda Punta Radio | [mp3](http://tesla.eldialdigital.com:7010/;mp3) | [web](http://ondapuntaradio.net/) | [logo](https://graph.facebook.com/OndaPunta/picture?width=320&height=320) | - |
+| OndaJerez Radio | [mp3](http://radio.ondajerez.com:8000/Ondajerez.mp3) | [web](https://www.jerez.es/webs_municipales/ondajerez/radio/) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=320&height=320) | - |
 | Onda Mencía Radio | [stream](http://srv0411.lcinternet.com:9000/stream) | [web](http://escucha.ondamenciaradio.com/) | [logo](https://graph.facebook.com/OndaMenciaRadio/picture?width=320&height=320) | - |
 | La Fresca FM | [stream](http://stream.produccionesdale.com:8899/altacalidad) | [web](http://www.lafresca.fm/) | [logo](https://graph.facebook.com/lafresca.es/picture?width=320&height=320) | - |
 | La Mega FM | [mp3](http://streaming5.elitecomunicacion.es:8220/stream?type=.mp3) | [web](http://www.lamegacostadelsol.com/) | [logo](https://graph.facebook.com/lamegacostadelsol/picture?width=320&height=320) | - |
