@@ -31,6 +31,10 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
+*04/2020* - [El Androide Libre - La mejor app para ver la televisión en directo se actualiza a lo bestia: modo oscuro y mucho más](https://elandroidelibre.elespanol.com/2020/04/tdtchannels-modo-oscuro.html)
+
+*04/2020* - [Xataka Android - TDT Channels, una de las mejores apps para ver la tele en Android, se actualiza con modo oscuro y mucho más](https://www.xatakandroid.com/aplicaciones-android/mejor-app-para-ver-tele-android-se-actualiza-modo-oscuro-interfaz-mejorada-nuevo-reproductor-radio)
+
 *03/2020* - [El Androide Libre - Ver la tele en el móvil: esta es nuestra aplicación preferida](https://elandroidelibre.elespanol.com/2020/03/ver-la-tele-en-el-movil-esta-es-nuestra-aplicacion-preferida.html)
 
 *03/2020* - [El Androide Feliz - Cómo configurar listas IPTV en VLC para ver TV en directo](https://elandroidefeliz.com/como-configurar-listas-iptv-en-vlc/)
