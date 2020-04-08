@@ -5,6 +5,8 @@ Si no te atreves a lanzarlo como _Pull Request_, puedes incluirlo como Issue, pe
 ## Explicación de cada columna y posibles valores
 
 ### TV
+Emplazarlo al final de su categoría, así es más sencillo para nosotros después moverlo a la posición correspondiente.
+
 #### Canal
 El nombre oficial del canal.
 
