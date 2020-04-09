@@ -349,7 +349,7 @@
 | esRadio - Castilla y León | [aac](https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-low.aac) | [web](https://esradio.libertaddigital.com/castilla-y-leon/directo.html) | [logo](https://graph.facebook.com/esradio/picture?width=320&height=320) | - |
 | Mortal FM | [stream](http://server6.20comunicacion.com:8044/) | [web](http://www.mortalfm.es/online) | [logo](https://graph.facebook.com/mortalfm/picture?width=320&height=320) | - |
 | Radio Valdivielso | - | [web](http://radiovaldivielso.es) | [logo](https://static-1.ivoox.com/canales/2/5/6/3/5141470913652_XXL.jpg) | - |
-| Vive! Radio | [aac](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/media_w1875322187_74945.aac) - [m3u8](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/chunklist_w1875322187.m3u8) | [web](http://www.viveradio.es/ReproductorLive.aspx) | [logo](https://graph.facebook.com/158974217473244/picture?width=320&height=320) | - |
+| Vive! Radio | [m3u8](https://nws.nice264.com/ilive/vr1/vr1_0692e02dc1baa5e2ede853398fa639fe/playlist.m3u8) - [m3u8](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/playlist.m3u8) | [web](http://www.viveradio.es/ReproductorLive.aspx) | [logo](https://graph.facebook.com/158974217473244/picture?width=320&height=320) | - |
 
 ### Cataluña
 
@@ -710,7 +710,7 @@
 | Onda Cero San Sebastián | [stream](http://icecast-streaming.nice264.com/sansebastian) | [web](https://www.ondacero.es/emisoras/pais-vasco/san-sebastian//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Onda Cero Vitoria | [stream](http://icecast-streaming.nice264.com/vitoria) | [web](https://www.ondacero.es/emisoras/pais-vasco/vitoria//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Radio Popular - Herri Irratia | [stream](http://79.137.33.224:8000/radiopopular1) | [web](https://radiopopular.com/) | [logo](https://graph.facebook.com/herriirratia/picture?width=320&height=320) | - |
-| Radio Nervión | [stream](http://radionervion.streaming-pro.com:6015/radionervion) | [web](http://www.radionervion.com/) | [logo](https://graph.facebook.com/RadioNervion/picture?width=320&height=320) | - |
+| Radio Nervión | [stream](https://radionervion.streaming-pro.com:6132/radionervion) | [web](http://www.radionervion.com/) | [logo](https://graph.facebook.com/RadioNervion/picture?width=320&height=320) | - |
 | Onda Vasca | [stream](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
 | Onda Vasca Gipuzcoa | [stream](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
 | Radio 7 | [mp3](http://radio7.streaming-pro.com:7501/;stream.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - |
