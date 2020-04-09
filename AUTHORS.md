@@ -18,6 +18,7 @@
 - Jorge [@jaguaza](https://github.com/jaguaza)
 - José Antonio [@nomentero](https://github.com/nomenteros)
 - Juan [@okelet](https://github.com/okelet)
+- Miguel A. [@MiguelAngel2345](https://github.com/MiguelAngel2345)
 - Ricardo [@RicardoVelaC](https://github.com/RicardoVelaC)
 - Valentin [@vk496](https://github.com/vk496)
 

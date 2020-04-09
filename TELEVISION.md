@@ -86,19 +86,19 @@
 | Canal Sur Eventos 1 | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/playlist.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Sur Eventos 2 | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_02/playlist.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | 7TV Andalucía | - | [web](https://7tvandalucia.es/portada/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
-| 7TV Andalucía - Almeria | - | [web](https://7tvandalucia.es/almeria/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
-| 7TV Andalucía - Cadiz | - | [web](https://7tvandalucia.es/almeria/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
-| 7TV Andalucía - Cadiz - Algeciras | - | [web](https://7tvandalucia.es/algeciras/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
-| 7TV Andalucía - Cadiz - Bahia | - | [web](https://7tvandalucia.es/bahia/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
-| 7TV Andalucía - Cadiz - Costa Noroeste | - | [web](https://7tvandalucia.es/costa-noroeste/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
-| 7TV Andalucía - Cadiz - Jerez | - | [web](https://7tvandalucia.es/jerez/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
-| 7TV Andalucía - Cadiz - Sierra | - | [web](https://7tvandalucia.es/sierra/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
+| 7TV Andalucía - Algeciras | - | [web](https://7tvandalucia.es/algeciras/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
+| 7TV Andalucía - Almería | - | [web](https://7tvandalucia.es/almeria/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
+| 7TV Andalucía - Bahía | - | [web](https://7tvandalucia.es/bahia/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
+| 7TV Andalucía - Córdoba | - | [web](https://7tvandalucia.es/cordoba/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
+| 7TV Andalucía - Costa Noroeste | - | [web](https://7tvandalucia.es/costa-noroeste/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
 | 7TV Andalucía - Granada | - | [web](https://7tvandalucia.es/granada/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
 | 7TV Andalucía - Huelva | - | [web](https://7tvandalucia.es/huelva/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
 | 7TV Andalucía - Jaen | - | [web](https://7tvandalucia.es/jaen/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
-| 7TV Andalucía - Malaga | - | [web](https://7tvandalucia.es/malaga/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
-| 7TV Andalucía - Malaga - Marbella | - | [web](https://7tvandalucia.es/marbella/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
+| 7TV Andalucía - Jerez | - | [web](https://7tvandalucia.es/jerez/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
+| 7TV Andalucía - Málaga | - | [web](https://7tvandalucia.es/malaga/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
+| 7TV Andalucía - Marbella | - | [web](https://7tvandalucia.es/marbella/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
 | 7TV Andalucía - Sevilla | - | [web](https://7tvandalucia.es/sevilla/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
+| 7TV Andalucía - Sierra | - | [web](https://7tvandalucia.es/sierra/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
 | 101TV Málaga | [m3u8](https://secure7.todostreaming.es/live/101tv-web101tv.m3u8) | [web](http://www.101tv.es/directo.aspx) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=320&height=320) | - | - |
 | El Correo de Andalucía | [m3u8](https://elcorreotv.todostreaming.es/live/elcorreotv-livestream.m3u8) | [web](http://elcorreoweb.es/elcorreotv) | [logo](https://graph.facebook.com/elcorreoweb/picture?width=320&height=320) | - | - |
 | Jerez Televisión | - | [web](https://jereztelevision.com/) | [logo](https://graph.facebook.com/jerez.television/picture?width=320&height=320) | - | - |
