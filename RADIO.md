@@ -369,7 +369,7 @@
 | Flaix FM | [mp3](https://flaixfm.streaming-pro.com:8001/flaixfm.mp3) | [web](https://www.flaixfm.cat/) | [logo](https://graph.facebook.com/flaixfm/picture?width=320&height=320) | - |
 | Ràdio Flaixbac | [mp3](https://flaixbac.streaming-pro.com:8007/flaixbac.mp3) | [web](https://www.flaixbac.cat/) | [logo](https://graph.facebook.com/flaixbac/picture?width=320&height=320) | - |
 | Bas Ràdio | [mp3](http://s1streamingradio.desafiohosting.com:8130/listen.mp3) | [web](https://basradioweb.wordpress.com/) | [logo](https://graph.facebook.com/RADIOENBASONLINE2/picture?width=320&height=320) | - |
-| betevé ràdio | - | [web](https://beteve.cat/en-directe/radio/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | - |
+| betevé ràdio | - | [web](https://beteve.cat/en-directe/radio/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | W3U |
 | Ràdio Marca Barcelona | [stream](https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=320&height=320) | - |
 | SER Ebre | [stream](http://cadenaserebre.streaming-pro.com:6021/stream) | [web](https://play.cadenaser.com/emisora/ser_ebre/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | SER Penedès-Garraf | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_PENEDES_GARRAF.mp3) | [web](https://play.cadenaser.com/emisora/ser_penedesgarraf/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
