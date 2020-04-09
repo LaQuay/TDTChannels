@@ -396,7 +396,7 @@
 | Ràdio Despí | [stream](https://streaming12.elitecomunicacion.es:8228/stream) - [mp3](https://streaming12.elitecomunicacion.es:8228/stream?type=.mp3) | [web](https://radiodespi.net/directo/) | [logo](https://graph.facebook.com/radiodespi/picture?width=320&height=320) | - |
 | Ràdio Estel | [stream](http://srv3021.lcinternet.com:8019/stream) | [web](http://player.lcinternet.es/v9/cc232_id415/) | [logo](https://graph.facebook.com/Radioestelbcn/picture?width=320&height=320) | - |
 | Ràdio Gràcia | [mp3](http://streaming.enantena.com:8000/radiograciaHD.mp3) - [stream](https://enacast.com/radiogracia/streams/HD) | [web](https://ajuntament.barcelona.cat/gracia/ca/coneixeu-el-districte/radio-gracia) | [logo](https://graph.facebook.com/RadioGraciaBarcelona/picture?width=320&height=320) | - |
-| Ràdio Tele-Taxi | [mp3](https://radioteletaxi2-adswizz.grupott.stream.flumotion.com/gtt/radioteletaxi2.mp3) | [web](https://www.radioteletaxi.com/reproductor/) | [logo](https://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - |
+| Ràdio Tele-Taxi | [mp3](https://radiott-web.streaming-pro.com:6003/radiott.mp3) | [web](https://www.radioteletaxi.com/reproductor/) | [logo](https://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - |
 | Ràdio Vilamajor | [mp3](http://80.37.181.205:8000/;audio.mp3) | [web](http://www.radiovilamajor.cat/) | [logo](https://graph.facebook.com/radio.vilamajor/picture?width=320&height=320) | - |
 | Ràdio L'Hospitalet | - | [web](https://lhdigital.cat/web/digital-h/radio) | [logo](https://graph.facebook.com/lhdigital/picture?width=320&height=320) | - |
 | Radio Cooltura | [mp3](http://streamserver1.somosdigital.net:8415/;stream.mp3) | [web](http://coolturafm.com/) | [logo](https://graph.facebook.com/coolturafm/picture?width=320&height=320) | - |
@@ -738,7 +738,7 @@
 | Onda Cero Luarca | [stream](http://icecast-streaming.nice264.com/luarca) | [web](https://www.ondacero.es/emisoras/asturias/luarca//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Onda Cero Oviedo | [stream](http://icecast-streaming.nice264.com/oviedo) | [web](https://www.ondacero.es/emisoras/asturias/oviedo//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Carrussel FM | [mp3](http://server10.emitironline.com:8921/radio?1584744975456.mp3) | [web](http://www.carruselfm.com/) | [logo](https://graph.facebook.com/467719623356931/picture?width=320&height=320) | - |
-| cSTRadio | [stream](http://srv3021.lcinternet.com:8012/live) | [web](http://www.cstradio.org/v_portal/apartados/apartado.asp) | [Logo](https://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - |
+| cSTRadio | [stream](http://srv3021.lcinternet.com:8012/live) | [web](http://www.cstradio.org/v_portal/apartados/apartado.asp) | [Logo](http://www.colegiosantotomas.org/v_portal/inc/imagen.asp?f=icono_cstradio81.jpg&w=320&h=320&c=3) | - |
 | Master FM | [stream](https://radios.lamaster.es:8000/asturias) | [web](https://lamaster.es/asturias/) | [logo](https://graph.facebook.com/lamasterfm/picture?width=320&height=320) | - |
 | Onda Peñes | [mp3](http://5.135.183.124:9279/stream?type=.mp3) | [web](http://www.gaxarte.com/emisiononline.htm) | [logo](https://graph.facebook.com/onda.penes/picture?width=320&height=320) | - |
 | Radio QK | [mp3](http://34.77.177.144:8000/radioqk_master.mp3) | [web](http://www.radioqk.org/) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=320&height=320) | - |
