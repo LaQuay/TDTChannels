@@ -559,6 +559,7 @@
 | La que Suena FM | [mp3](http://emisorasmusicales.es:8000/laquesuenaalicante.mp3) | [web](https://emisorasmusicales.net/laquesuena/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2018/01/logo100x100-1.png) | - |
 | Radio Plaza | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://plazaradio.es/onair) | [logo](https://graph.facebook.com/plazaradio/picture?width=320&height=320) | - |
 | Spektra FM | [stream](http://stm1.emiteonline.com:8008/spektrafm) | [web](http://www.spektrafm.es/index.php/es/) | [logo](https://pbs.twimg.com/profile_images/1198909425177841665/G5QnW0Um_400x400.jpg) | - |
+| Radio 7 Valencia | [m3u8](https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247024/027/playlist.m3u8) | [web](https://radiosiete.com/emision-en-directo/) | [logo](https://graph.facebook.com/radiosiete/picture?width=320&height=320) | - |
 
 ### Extremadura
 
