@@ -85,6 +85,7 @@
 | Canal Sur Andalucía | [m3u8](https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8) | [web](http://www.canalsur.es/tv_directo-1193.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | CanalsurA.TDTChannelsEPG | - |
 | Canal Sur Eventos 1 | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/playlist.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
 | Canal Sur Eventos 2 | [m3u8](http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_02/playlist.m3u8)  | [web](http://www.canalsur.es/portada-alternativdirectcarnaval-1140690.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320) | - | - |
+| 7TV Andalucía | - | [web](https://7tvandalucia.es/portada/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
 | 7TV Andalucía - Almeria | - | [web](https://7tvandalucia.es/almeria/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
 | 7TV Andalucía - Cadiz | - | [web](https://7tvandalucia.es/almeria/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
 | 7TV Andalucía - Cadiz - Algeciras | - | [web](https://7tvandalucia.es/algeciras/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=320&height=320) | - | W3U |
