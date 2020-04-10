@@ -8,6 +8,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | -	| - | -	| -	| -	| -	| -	|
 | **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](http://www.tdtchannels.com/lists/channels.json) | [m3u8](http://www.tdtchannels.com/lists/channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/channels.m3u) | [enigma2](http://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv)	| [w3u](http://www.tdtchannels.com/lists/channels.w3u) |
 | **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](http://www.tdtchannels.com/lists/radio_channels.json) | [m3u8](http://www.tdtchannels.com/lists/radio_channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/radio_channels.m3u) | - | [w3u](http://www.tdtchannels.com/lists/radio_channels.w3u) |
+| **TV+Radio** | - | - | [m3u8](http://www.tdtchannels.com/lists/combo_channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/combo_channels.m3u) | - | [w3u](http://www.tdtchannels.com/lists/combo_channels.w3u) |
 | **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](http://www.tdtchannels.com/epg/TV.xml) | - | - | - | - |
 
 - *Navegador*: Visionado "manual" en el navegador.
@@ -20,15 +21,24 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 ### Herramientas
 | | Enlace |
 | -	| -	|
-| **Web oficial** | [Reproductor web](http://www.tdtchannels.com/) |
-| **Aplicación Android** | [Repositorio de la Aplicación Android](https://github.com/LaQuay/TDTChannels-APP) |
-| **Grupo en Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
-| **Canal de Avisos en Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
+| **Página web** | [TDTChannels](http://www.tdtchannels.com/) |
+| **Aplicación Android** | [TDTChannels](http://www.tdtchannels.com), botón Android |
+| **Aplicación Android Open** | [Repositorio](https://github.com/LaQuay/TDTChannels-APP) de la versión Open Source |
+| **Grupo - Telegram** | [Acceder](https://t.me/tdtchannels) al grupo |
+| **Canal de Avisos - Telegram** | [Acceder](https://t.me/tdtchannels_avisos) al canal |
 
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
+*04/2020* - [El Androide Libre - La mejor app para ver la televisión en directo se actualiza a lo bestia: modo oscuro y mucho más](https://elandroidelibre.elespanol.com/2020/04/tdtchannels-modo-oscuro.html)
+
+*04/2020* - [Xataka Android - TDT Channels, una de las mejores apps para ver la tele en Android, se actualiza con modo oscuro y mucho más](https://www.xatakandroid.com/aplicaciones-android/mejor-app-para-ver-tele-android-se-actualiza-modo-oscuro-interfaz-mejorada-nuevo-reproductor-radio)
+
+*03/2020* - [El Androide Libre - Ver la tele en el móvil: esta es nuestra aplicación preferida](https://elandroidelibre.elespanol.com/2020/03/ver-la-tele-en-el-movil-esta-es-nuestra-aplicacion-preferida.html)
+
+*03/2020* - [El Androide Feliz - Cómo configurar listas IPTV en VLC para ver TV en directo](https://elandroidefeliz.com/como-configurar-listas-iptv-en-vlc/)
+
 *03/2020* - [SoftZone - Esta lista IPTV te permite ver 350 canales de la TDT en VLC y Kodi](https://www.softzone.es/programas/multimedia/ver-tdt-online-vlc-kodi/)
 
 *03/2020* - [Xataka Android - Cómo usar Kodi en Android para ver los canales de la TDT](https://www.xatakandroid.com/aplicaciones-android/como-usar-kodi-android-para-ver-canales-tdt)
@@ -43,9 +53,17 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *12/2019* - [Xataka Android - Las mejores apps Android en 2019 según el equipo de Xataka Android](https://www.xatakandroid.com/aplicaciones-android/mejores-apps-android-2019-equipo-xataka-android)
 
+*12/2019* - [Xataka Android - Las mejores apps Android de 2019 (hasta ahora)](https://www.xatakandroid.com/aplicaciones-android/mejores-apps-android-2019-ahora)
+
 *12/2019* - [Androidsis - ¡¡La mejor app para ver la Televisión en directo!!](https://youtu.be/PV3N39rfkjE)
 
 *11/2019* - [Xataka Móvil - Cómo ver la tele en tu móvil Android o iPhone: las mejores formas de acceder a la TDT](https://www.xatakamovil.com/aplicaciones/como-ver-tele-tu-movil-android-iphone-mejores-formas-acceder-a-tdt)
+
+*07/2019* - [Android Ayuda - Las mejores apps para ver la televisión gratis en tu móvil](https://androidayuda.com/aplicaciones/listas/ver-television-gratis/)
+
+*07/2019* - [El Androide Feliz - TDTChannels, la mejor app para ver la TDT gratis (+300 canales)](https://elandroidefeliz.com/tdtchannels-la-mejor-app-para-ver-la-tdt-gratis-en-android/)
+
+*07/2019* - [El Androide Libre - La mejor app para ver la TDT gratis en tu móvil llega a Google Play](https://elandroidelibre.elespanol.com/2019/07/la-mejor-app-para-ver-la-tdt-gratis-en-tu-movil-llega-a-google-play.html)
 
 *06/2019* - [Xataka Android - Cómo ver los canales de televisión de la TDT en un móvil Android usando TDT Channels](https://www.xatakandroid.com/aplicaciones-android/como-ver-canales-television-tdt-movil-usando-tdt-channels)
 
@@ -59,6 +77,8 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *03/2019* - [El Androide Libre - Cómo ver la tele en un reproductor con Android TV](https://elandroidelibre.elespanol.com/2019/03/como-ver-tele-reproductor-television-android-tv.html)
 
+*03/2019* - [El Androide Feliz - Cómo ver la TV desde tu Android TV Box (canales TDT España)](https://elandroidefeliz.com/como-ver-la-tv-desde-tu-android-tv-box-canales-tdt-espana/)
+
 *02/2019* - [Softonic - Cómo usar Kodi para ver la TV gratis en tu teléfono móvil](https://www.softonic.com/articulos/usar-kodi-ver-tv-gratis-telefono-movil)
 
 *01/2019* - [El Androide Libre - Ver la tele en tu Android, una manera muy sencilla y completa](https://elandroidelibre.elespanol.com/2019/01/ver-tele-android-manera-sencilla-completa.html)
@@ -71,6 +91,8 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *08/2018* - [Computer Hoy - Cómo ver la TDT online con Kodi y VLC por Internet y en directo](https://computerhoy.com/tutoriales/tecnologia/como-ver-tdt-online-kodi-vlc-internet-directo-291513)
 
+*01/2018* - [Xataka Android - Nueve aplicaciones para ver la televisión gratis en un móvil Android](https://www.xatakandroid.com/aplicaciones-android/nueve-aplicaciones-para-ver-la-television-gratis-en-un-movil-android)
+
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
 ### Aplicaciones/Webs que consumen este repositorio
@@ -79,15 +101,16 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 - [TELE ONLINE](http://teleonline.org/)
 
 #### Android
-- [TDTChannels](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del repositorio. Soporte en Telegram. Gratuita, de código abierto, sin anuncios.
+- [TDTChannels](http://www.tdtchannels.com): Aplicación Android oficial. Soporte en Telegram. Gratuita, sin anuncios.
+- [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del repositorio. Soporte en Telegram. Gratuita, de código abierto, sin anuncios.
 - [FeedTV](https://github.com/juanro49/FeedTV): Aplicación que te permite leer noticias mediante RSS además de poder ver canales de este repositorio. Gratuita y de código abierto.
 
 #### iOS
-- [tvRadio ES](https://testflight.apple.com/join/rvIHQRLj): Soporte en Telegram. Gratuita, sin anuncios.
+- [TDTChannels](https://testflight.apple.com/join/rvIHQRLj) - de Jako88: Soporte en Telegram. Gratuita, sin anuncios.
 - [TDTChannels](https://github.com/Rubenfer/TDTChannels) - de [RubenApps](https://ruben.app/): Soporte en Telegram. Gratuita, de código abierto, sin anuncios. 
 - [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Soporte en Telegram. Gratuita, sin anuncios.
 
-#### MacOS
+#### macOS
 - [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels) - de [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps).
 
 ### Licencia del proyecto

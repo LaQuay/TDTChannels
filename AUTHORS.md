@@ -13,10 +13,13 @@
 - CaRLymx [@carlymx](https://github.com/carlymx)
 - Carlos [@profesorasix](https://github.com/profesorasix)
 - Carratraka [@carratraka](https://github.com/carratraka)
+- David [@david-cp](https://github.com/David-cp)
 - Jacobo [@poborp](https://github.com/poborp)
 - Jorge [@jaguaza](https://github.com/jaguaza)
 - José Antonio [@nomentero](https://github.com/nomenteros)
 - Juan [@okelet](https://github.com/okelet)
+- Miguel A. [@MiguelAngel2345](https://github.com/MiguelAngel2345)
+- Ricardo [@RicardoVelaC](https://github.com/RicardoVelaC)
 - Valentin [@vk496](https://github.com/vk496)
 
 Si haces una *Pull Request*, no olvides incluirte en este fichero. 
