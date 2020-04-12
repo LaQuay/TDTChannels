@@ -383,11 +383,11 @@
 | COPE Girona | [mp3](https://wecast-b01-03.flumotion.com/copesedes/gerona.mp3) | [web](https://www.cope.es/directos/girona) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | COPE Lleida | [mp3](https://wecast-b01-03.flumotion.com/copesedes/lleida.mp3) | [web](https://www.cope.es/directos/lleida) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | COPE Tarragona | [mp3](https://wecast-b01-03.flumotion.com/copesedes/tarragona.mp3) | [web](https://www.cope.es/directos/tarragona) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
-| Onda Cero Barcelona | [stream](http://icecast-streaming.nice264.com/barcelona) | [web](https://www.ondacero.es/emisoras/catalunya/barcelona//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
-| Onda Cero Girona | [stream](http://icecast-streaming.nice264.com/girona) | [web](https://www.ondacero.es/emisoras/catalunya/girona//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
-| Onda Cero Lleida | [stream](http://icecast-streaming.nice264.com/lleida) | [web](https://www.ondacero.es/emisoras/catalunya/lleida//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
-| Onda Cero Tarragona | [stream](http://icecast-streaming.nice264.com/tarragona) | [web](https://www.ondacero.es/emisoras/catalunya/tarragona//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
-| Onda Cero Vilanova | [stream](http://icecast-streaming.nice264.com/vilanova) | [web](https://www.ondacero.es/emisoras/catalunya/vilanova//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Cero Barcelona | [m3u8](https://livefastly-webs.ondacero.es/barcelona-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/catalunya/barcelona//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Cero Girona | [m3u8](https://livefastly-webs.ondacero.es/girona-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/catalunya/girona//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Cero Lleida | [m3u8](https://livefastly-webs.ondacero.es/lleida-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/catalunya/lleida//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Cero Tarragona | [m3u8](https://livefastly-webs.ondacero.es/tarragona-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/catalunya/tarragona//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Cero Vilanova | [m3u8](https://livefastly-webs.ondacero.es/vilanoba-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/catalunya/vilanova//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Equinox Radio | [stream](http://listen.radionomy.com/absolutevintage) | [web](https://www.equinoxmagazine.fr/2018/04/13/ecouter-6-radios-equinox-barcelone/) | [logo](https://graph.facebook.com/equinoxradio.barcelone/picture?width=320&height=320) | - |
 | La Marina FM | [stream](http://endirecte.amcl.cat:8000/lamarinafm) | [web](http://lamarina.cat/endirecte/) | [Logo](https://graph.facebook.com/lamarinacat/picture?width=320&height=320) | - |
 | Mataró Ràdio | [m3u8](http://liveingesta118.cdnmedia.tv//m1tvlive/smil:mataroradio.smil/playlist.m3u8) | [web](http://mataroaudiovisual.alacarta.cat/directeR) | [logo](https://graph.facebook.com/mataroaudiovisual/picture?width=320&height=320) | - |
@@ -437,7 +437,7 @@
 | Radio Nacional Ceuta | [mp3](https://rneceu.rtveradio.cires21.com/rneceu.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Ceuta | [mp3](https://radio5ceu.rtveradio.cires21.com/radio5ceu.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
 | SER - Radio Ceuta | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CEUTA.mp3) | [web](https://play.cadenaser.com/emisora/radio_ceuta/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| Onda Cero Ceuta | [stream](http://icecast-streaming.nice264.com/ceuta) | [web](https://www.ondacero.es/emisoras/ceuta/ceuta//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Cero Ceuta | [m3u8](https://livefastly-webs.ondacero.es/ceuta-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/ceuta/ceuta//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 
 ### C. de Madrid
 
@@ -454,9 +454,9 @@
 | SER - Radio Madrid | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MADRID.mp3) | [web](https://play.cadenaser.com/emisora/radio_madrid/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | COPE Madrid | [mp3](https://flucast-m05-04.flumotion.com/cope/madrid.mp3) | [web](https://www.cope.es/directos/madrid) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | COPE Madrid COPE Más | [mp3](https://flucast-b03-04.flumotion.com/cope/net4.mp3) | [web](https://www.cope.es/directos/madrid-cope-mas) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
-| Onda Cero Alcalá de Henares | [stream](http://icecast-streaming.nice264.com/alcala) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/alcala-de-henares//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
-| Onda Cero Madrid | [stream](http://icecast-streaming.nice264.com/ondacero) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/madrid//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
-| Onda Cero Sierra | [mp3](http://ondacerosierra.ddns.net:7000/;stream.mp3) | [web](http://www.lavozdelasierra.es/onda-cero-sierra/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Cero Alcalá de Henares | [m3u8](https://livefastly-webs.ondacero.es/alcala-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/alcala-de-henares//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Cero Madrid | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/madrid//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Cero Sierra | [mp3](http://195.55.94.118:7000/;stream.mp3) | [web](https://lavozdelasierra.es/onda-cero-sierra/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | ECO Leganés | [stream](https://cervera.eldialdigital.com:25191/stream) | [web](http://ecoleganes.org/) | [logo](https://graph.facebook.com/ecoleganes01/picture?width=320&height=320) | - |
 | Inforadio | [stream](http://inforadio.hst.ucm.es:8000/inforadio01) | [web](http://inforadioucm.blogspot.com/p/escuchanos-en-directo.html) | [logo](https://graph.facebook.com/inforadiocomplutense/picture?width=320&height=320) | - |
 | KeBuena | [aac](https://19393.live.streamtheworld.com/KEBUENA_ESAAC.aac) | [web](https://play.kebuena.es/) | [logo](https://graph.facebook.com/kebuena103.9fm/picture?width=320&height=320) | - |
