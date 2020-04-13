@@ -2,14 +2,14 @@
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y a los principales canales Internacionales del mundo. Además la programación EPG está disponible e integrada automáticamente en los ficheros generados.
 
 ### Listas de reproducción
-[Fecha de última actualización](http://www.tdtchannels.com/lists/). Y listado de todas las listas disponibles.
+[Fecha de última actualización](https://www.tdtchannels.com/lists/). Y listado de todas las listas disponibles.
 
 | Tipo | Formato | | | | | |
 | -	| - | -	| -	| -	| -	| -	|
-| **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](http://www.tdtchannels.com/lists/channels.json) | [m3u8](http://www.tdtchannels.com/lists/channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/channels.m3u) | [enigma2](http://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv)	| [w3u](http://www.tdtchannels.com/lists/channels.w3u) |
-| **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](http://www.tdtchannels.com/lists/radio_channels.json) | [m3u8](http://www.tdtchannels.com/lists/radio_channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/radio_channels.m3u) | - | [w3u](http://www.tdtchannels.com/lists/radio_channels.w3u) |
-| **TV+Radio** | - | - | [m3u8](http://www.tdtchannels.com/lists/combo_channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/combo_channels.m3u) | - | [w3u](http://www.tdtchannels.com/lists/combo_channels.w3u) |
-| **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](http://www.tdtchannels.com/epg/TV.xml) | - | - | - | - |
+| **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](https://www.tdtchannels.com/lists/channels.json) | [m3u8](https://www.tdtchannels.com/lists/channels.m3u8) | [m3u](https://www.tdtchannels.com/lists/channels.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv)	| [w3u](https://www.tdtchannels.com/lists/channels.w3u) |
+| **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](https://www.tdtchannels.com/lists/radio_channels.json) | [m3u8](https://www.tdtchannels.com/lists/radio_channels.m3u8) | [m3u](https://www.tdtchannels.com/lists/radio_channels.m3u) | - | [w3u](https://www.tdtchannels.com/lists/radio_channels.w3u) |
+| **TV+Radio** | - | - | [m3u8](https://www.tdtchannels.com/lists/combo_channels.m3u8) | [m3u](https://www.tdtchannels.com/lists/combo_channels.m3u) | - | [w3u](https://www.tdtchannels.com/lists/combo_channels.w3u) |
+| **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://www.tdtchannels.com/epg/TV.xml) | - | - | - | - |
 
 - *Navegador*: Visionado "manual" en el navegador.
 - *JSON*: Formato de datos especial para otros programas de lectura de datos.
@@ -21,8 +21,8 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 ### Herramientas
 | | Enlace |
 | -	| -	|
-| **Página web** | [TDTChannels](http://www.tdtchannels.com/) |
-| **Aplicación Android** | [TDTChannels](http://www.tdtchannels.com), botón Android |
+| **Página web** | [TDTChannels](https://www.tdtchannels.com/) |
+| **Aplicación Android** | [TDTChannels](https://www.tdtchannels.com/android) |
 | **Aplicación Android Open** | [Repositorio](https://github.com/LaQuay/TDTChannels-APP) de la versión Open Source |
 | **Grupo - Telegram** | [Acceder](https://t.me/tdtchannels) al grupo |
 | **Canal de Avisos - Telegram** | [Acceder](https://t.me/tdtchannels_avisos) al canal |
@@ -97,11 +97,11 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Aplicaciones/Webs que consumen este repositorio
 #### Web
-- [TDTChannels](http://www.tdtchannels.com/): Soporte en Telegram. Web oficial para reproducir la lista de este proyecto.
+- [TDTChannels](https://www.tdtchannels.com/): Soporte en Telegram. Web oficial para reproducir la lista de este proyecto.
 - [TELE ONLINE](http://teleonline.org/)
 
 #### Android
-- [TDTChannels](http://www.tdtchannels.com): Aplicación Android oficial. Soporte en Telegram. Gratuita, sin anuncios.
+- [TDTChannels](https://www.tdtchannels.com): Aplicación Android oficial. Soporte en Telegram. Gratuita, sin anuncios.
 - [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del repositorio. Soporte en Telegram. Gratuita, de código abierto, sin anuncios.
 - [FeedTV](https://github.com/juanro49/FeedTV): Aplicación que te permite leer noticias mediante RSS además de poder ver canales de este repositorio. Gratuita y de código abierto.
 
