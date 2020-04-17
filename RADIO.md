@@ -263,7 +263,7 @@
 | Radio La Guancha | [nsv](http://81.36.88.219:8002/;stream.nsv) | [web](http://www.radiolaguancha.com/?page_id=23) | [logo](https://graph.facebook.com/radiolaguancha/picture?width=320&height=320) | - |
 | Radio San Borondón | [pls](http://srv0435.lcinternet.com/tunein.php/sanboron/playlist.pls) | [web](http://www.sanborondon.info/images/_streamer/rsb.html) | [logo](https://graph.facebook.com/413581508699797/picture?width=320&height=320) | - |
 | Q FM | [stream](http://51.255.235.165:5092/;) | [web](https://www.qmusica.com/es) | [logo](https://graph.facebook.com/100005645714744/picture?width=320&height=320) | - |
-| Teide Radio | [stream](http://217.114.211.190:8102/stream/1/) | [web](https://www.radio.es/s/teide) | [logo](https://graph.facebook.com/182679585480117/picture?width=320&height=320) | - |
+| Teide Radio | [stream](http://217.114.211.190:8102/stream/1/) | [web](https://www.radioteide.eu/) | [logo](https://graph.facebook.com/RadioTeide/picture?width=320&height=320) | - |
 | O2 Radio | [stream](http://62.210.141.18:8000/o2radio) | [web](http://www.elpejeverde.com/) | [logo](https://graph.facebook.com/185094361671027/picture?width=320&height=320) | - |
 | Radio Gigante | [stream](http://85.214.130.95:8000/stream/1/) | [web](http://rtvgigante.com/) | [logo](https://graph.facebook.com/741011612731578/picture?width=320&height=320) | - |
 | Canal 11 Radio | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal11lapalma.net/escuchanos.html) | [logo](https://graph.facebook.com/189726651071598/picture?width=320&height=320) | - |
