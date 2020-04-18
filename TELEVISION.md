@@ -590,7 +590,7 @@
 | DJing Hedonist | [m3u8 # EN](https://www.djing.com/tv/session_hedonist.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
 | DJing Summer Vibes | [m3u8 # EN](https://www.djing.com/tv/session_summer-vibes.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
 | DJing Wild EDM | [m3u8 # EN](https://www.djing.com/tv/session_wild-edm.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| HqM Hits | [m3u8](https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8) | [web](https://hqm.es/hqm-hits/) | [logo](https://hqm.es/wp-content/uploads/2020/03/HITS.jpg) | - | NONAV |
+| HqM Hits | [m3u8](https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8) | [web](https://hqm.es/hits-2/) | [logo](https://hqm.es/wp-content/uploads/2020/03/HITS.jpg) | - | W3U,NONAV |
 | HqM Spanish | [m3u8](https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8) | [web](https://hqm.es/hqm-spanish/) | [logo](https://hqm.es/wp-content/uploads/2020/03/SPANISH.jpg) | - | W3U,NONAV |
 | HqM Rock | [m3u8](https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8) | [web](https://hqm.es/hqm-rock/) | [logo](https://hqm.es/wp-content/uploads/2020/03/ROCK.jpg) | - | W3U,NONAV |
 | HqM Remember | [m3u8](https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8) | [web](https://hqm.es/hqm-remember/) | [logo](https://hqm.es/wp-content/uploads/2020/03/REMEMBER.jpg) | - | W3U,NONAV |
@@ -602,6 +602,7 @@
 | HqM Hip Hop | [m3u8](https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8) | [web](https://hqm.es/hqm-hip-hop/) | [logo](https://hqm.es/wp-content/uploads/2020/03/HIP-HOP.jpg) | - | W3U,NONAV |
 | HqM Folk | [m3u8](https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8) | [web](https://hqm.es/hqm-folk/) | [logo](https://hqm.es/wp-content/uploads/2020/03/FOLK.jpg) | - | W3U,NONAV |
 | HqM Dance | [m3u8](https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8) | [web](https://hqm.es/hqm-dance/) | [logo](https://hqm.es/wp-content/uploads/2020/03/DANCE.jpg) | - | W3U,NONAV |
+| HqM Gym | [m3u8](https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8) | [web](https://hqm.es/hqm-gym/) | [logo](https://hqm.es/wp-content/uploads/2020/03/DANCE.jpg) | - | W3U,NONAV |
 | HqM Classic | [m3u8](https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8) | [web](https://hqm.es/hqm-classic/) | [logo](https://hqm.es/wp-content/uploads/2020/03/CLASSIC.jpg) | - | W3U,NONAV |
 | HqM Chill Out | [m3u8](https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8) | [web](https://hqm.es/hqm-chill-out/) | [logo](https://hqm.es/wp-content/uploads/2020/03/CHILL-OUT.jpg) | - | W3U,NONAV |
 | HqM Blues | [m3u8](https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8) | [web](https://hqm.es/hqm-blues/) | [logo](https://hqm.es/wp-content/uploads/2020/03/BLUES.jpg) | - | W3U,NONAV |
