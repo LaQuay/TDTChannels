@@ -67,7 +67,7 @@
 | Loca FM Loca Pride | [stream](http://audio-online.net:8017/live) | [web](http://www.locafm.com/loca-pride/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | Loca FM Industrial | [stream](http://audio-online.net:8019/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
 | Loca FM Drum&Bass | [stream](http://audio-online.net:8021/live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=320&height=320) | - |
-| Clásica FM Radio | [stream](https://listen.mixlr.com/623318c7207a03e6a03c72572f14c2c5) | [web](https://clasicafmradio.es/cfm-escucha/) | [logo](https://graph.facebook.com/clasicafmradio/picture?width=320&height=320) | - |
+| Clásica FM Radio | [mp3](https://radio.garden/api/ara/content/listen/UG3FmZly/channel.mp3) | [web](https://clasicafmradio.es/cfm-escucha/) | [logo](https://graph.facebook.com/clasicafmradio/picture?width=320&height=320) | - |
 
 ## Infantiles
 
