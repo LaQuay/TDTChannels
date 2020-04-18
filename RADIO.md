@@ -436,6 +436,8 @@
 | Ràdio Sabadell | [stream](http://online.radiosabadell.fm:8013/stream) | [web](https://radiosabadell.fm/) | [logo](https://graph.facebook.com/RadioSabadell/picture?width=320&height=320) | - |
 | Ràdio Sitges | [stream](https://s2.radio.co/s8e5dffe5e/listen) | [web](http://www.radiositges.com/) | [logo](https://graph.facebook.com/radiositges/picture?width=320&height=320) | - |
 | Jazz Radio BCN | [stream](http://listen64.radionomy.com/JazzRadioBcn) | [stream](https://www.jazzradiobcn.com/) | [logo](http://files.jazzradiobcn.webnode.es/system_preview_detail_200000029-183d119379/Jazz%20Radio%20300x300%202.jpg) | - |
+| Styl Classics Manresa | [stream](http://s2.nexuscast.com:8042/;) | [stream](http://www.stylclassics.com/) | [logo](https://graph.facebook.com/stylfm/picture?width=320&height=320) | - |
+| Gum FM Vielha | [stream](http://gum-fm01.streaming-pro.com:8018/;) | [stream](https://gum.cat/) | [logo](https://graph.facebook.com/gumfm/picture?width=320&height=320) | - |
 
 ### Ceuta
 
@@ -571,6 +573,8 @@
 | Radio Plaza | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://plazaradio.es/onair) | [logo](https://graph.facebook.com/plazaradio/picture?width=320&height=320) | - |
 | Spektra FM | [stream](http://stm1.emiteonline.com:8008/spektrafm) | [web](http://www.spektrafm.es/index.php/es/) | [logo](https://pbs.twimg.com/profile_images/1198909425177841665/G5QnW0Um_400x400.jpg) | - |
 | Radio 7 Valencia | [m3u8](https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247024/027/playlist.m3u8) | [web](https://radiosiete.com/emision-en-directo/) | [logo](https://graph.facebook.com/radiosiete/picture?width=320&height=320) | - |
+| Xtra FM | [stream](https://streams.dynamicradiogroup.com/xtrafm) | [web](https://xtrafm.es/player/#South) | [logo](https://graph.facebook.com/XtraHits/picture?width=320&height=320) | - |
+| Xtra Hits FM | [stream](https://srv1.multiesfera.com:8020/stream) | [web](https://xtrahits.es/directo/) | [logo](https://graph.facebook.com/XtraHits/picture?width=320&height=320) | - |
 
 ### Extremadura
 
@@ -725,6 +729,7 @@
 | Onda Vasca | [stream](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
 | Onda Vasca Gipuzcoa | [stream](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
 | Radio 7 | [mp3](https://radio7.streaming-pro.com:6146/radio7.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - |
+| Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com/) | [logo](https://graph.facebook.com/radioformulahit/picture?width=320&height=320) | - |
 
 ### P. de Asturias
 
