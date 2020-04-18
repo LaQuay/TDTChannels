@@ -31,7 +31,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
-*04/2020* - [SatCESC - TDT Channels, una app para ver la televisión por internet](https://satcesc.com/2020/04/15/tdt-channels-una-app-para-ver-la-television-por-internet/#.XpnlZ-txfIV)
+*04/2020* - [SatCESC - TDT Channels, una app para ver la televisión por internet](https://satcesc.com/2020/04/15/tdt-channels-una-app-para-ver-la-television-por-internet/)
 
 *04/2020* - [El Androide Libre - La mejor app para ver la televisión en directo se actualiza a lo bestia: modo oscuro y mucho más](https://elandroidelibre.elespanol.com/2020/04/tdtchannels-modo-oscuro.html)
 
