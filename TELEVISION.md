@@ -541,6 +541,7 @@
 | Al Jazeera | [m3u8 # EN](https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8) | [web](https://www.aljazeera.com/live/) | [logo](https://graph.facebook.com/aljazeera/picture?width=320&height=320) | - | - |
 | TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/44/cf/9f/44cf9fb7-dc61-bd74-2238-1f6d6b11925f/source/320x320bb.jpg) | - | - |
 | CBN | [m3u8](https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8) | [web](https://www1.cbn.com/tv/cbn-live) | [logo](https://graph.facebook.com/cbnonline/picture?width=320&height=320) | - | - |
+| NTN24 | [m3u8](https://rcnhd.cdn.net.co/live04/ntn24.m3u8) | [web](https://www.ntn24.com/en-vivo/) | [logo](https://graph.facebook.com/NTN24/picture?width=320&height=320) | - | - |
 | Todo Noticias Argentina | [youtube](https://www.youtube.com/watch?v=wHn1_QVoXGM) | [web](https://tn.com.ar/) | [logo](https://graph.facebook.com/todonoticias/picture?width=320&height=320) | - | - |
 | C5N Argentina | [youtube](https://www.youtube.com/watch?v=6x4w5z9S7WQ) | [web](https://www.youtube.com/user/c5n) | [logo](https://graph.facebook.com/C5N.Noticias/picture?width=320&height=320) | - | - |
 | Milenio Mexico | [youtube](https://www.youtube.com/watch?v=X6ubsLny_uk) | [web](https://www.milenio.com/mileniotv) | [logo](https://graph.facebook.com/MilenioDiario/picture?width=320&height=320) | - | - |

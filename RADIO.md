@@ -653,6 +653,7 @@
 | Radio Fene | [stream](http://srv0490.lcinternet.com:8002/stream) | [web](https://www.radiofusion.eu/) | [logo](https://graph.facebook.com/196309677056427/picture?width=320&height=320) | - |
 | Radio Voz | [mp3](http://live.radiovoz.es/mp3/stream_santiago.mp3) | [web](http://www.radiovoz.com/) | [logo](https://graph.facebook.com/radiovoz/picture?width=320&height=320) | - |
 | Via Radio | [nsv](http://radioserver9.profesionalhosting.com:35223/;stream.nsv) | [web](https://viaradio.es/) | [logo](https://graph.facebook.com/viaradiohavuelto/picture?width=320&height=320) | - |
+| Fórmula Fun | [stream](http://s30.myradiostream.com:30464/) | [web](http://www.formulafungalicia.es/) | [logo](https://graph.facebook.com/FormulaFunGalicia/picture?width=320&height=320) | - |
 
 ### Illes Balears
 
