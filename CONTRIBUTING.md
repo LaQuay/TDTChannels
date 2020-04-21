@@ -14,7 +14,7 @@ El nombre oficial del canal.
 Aunque el campo se llame m3u8, se aceptan **dos** posibles formatos de _stream_. Ambos formatos tienen obligatoria su obtención a través de la plataforma oficial del emisor.
 
 - **m3u8**: Priorizando las opciones `master.m3u8` y `playlist.m3u8`. 
-- **youtube**: En caso que la cadena emita vía _YouTube_. Priorizando el formato `https://youtu.be/XXXXXX`.
+- **youtube**: En caso que la cadena emita vía _YouTube_. Con formato `https://youtu.be/XXXXXX`.
 
 Si el canal emite:
 - [geolocalizado](https://github.com/LaQuay/TDTChannels/wiki/FAQs#diferencia-entre-una-emisi%C3%B3n-geo-y-no-geo) a **nivel español**, se deberá añadir la coletilla `# GEO`. 
