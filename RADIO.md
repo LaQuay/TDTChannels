@@ -170,7 +170,7 @@
 | Cadena Latino | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es/) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=320&height=320) | - |
 | Candil Radio | [stream](http://s6.viastreaming.net:7100/;) | [web](http://candilradio.com/) | [logo](https://graph.facebook.com/890332081024749/picture?width=320&height=320) | - |
 | Central FM | [mp3](http://s29.myradiostream.com:4922/;listen.mp3) | [web](http://www.centralfm.com/) | [logo](https://graph.facebook.com/131322746891532/picture?width=320&height=320) | - |
-| Elite Radio | [stream](http://srv0625.lcinternet.com:8005/stream) | [web](https://eliteradiosevilla.es/) | [logo](https://graph.facebook.com/eliteradiosevilla/picture?width=320&height=320) | - |
+| Elite Radio | [stream](http://srv0625.lcinternet.com:8005/stream) | [web](https://eliteradiosevilla.es/) | [logo](https://graph.facebook.com/eliteradiosevilla/picture?width=320&height=320) | WICE |
 | Fiebre Latina FM | [stream](http://5.135.183.124:8255/stream) | [web](http://www.fiebrelatinaradio.com/emisora.html) | [logo](https://graph.facebook.com/fiebrelatinaradio/picture?width=320&height=320) | - |
 | Global Radio | [mp4](http://stream.seav.co.uk:8000/stream.mp4) | [web](https://global.fm/streamwindow/) | [logo](https://graph.facebook.com/loveglobalradio/picture?width=320&height=320) | - |
 | Integración Radio | [stream](http://5.135.183.124:8023/stream) | [web](http://www.integracionradio.com/) | [logo](https://graph.facebook.com/integracionradio/picture?width=320&height=320) | - |
@@ -178,15 +178,15 @@
 | Onda Capital | [stream](https://server1.radiocast.es:8000/capital) | [web](https://ondacapital.es/) | [logo](https://graph.facebook.com/ondacapitalfm/picture?width=320&height=320) | - |
 | Onda Punta Radio | [mp3](http://tesla.eldialdigital.com:7010/;mp3) | [web](http://ondapuntaradio.net/) | [logo](https://graph.facebook.com/OndaPunta/picture?width=320&height=320) | - |
 | OndaJerez Radio | [mp3](http://radio.ondajerez.com:8000/Ondajerez.mp3) | [web](https://www.jerez.es/webs_municipales/ondajerez/radio/) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=320&height=320) | - |
-| Onda Mencía Radio | [stream](http://srv0411.lcinternet.com:9000/stream) | [web](http://escucha.ondamenciaradio.com/) | [logo](https://graph.facebook.com/OndaMenciaRadio/picture?width=320&height=320) | - |
-| La Fresca FM | [stream](http://stream.produccionesdale.com:8899/altacalidad) | [web](http://www.lafresca.fm/) | [logo](https://graph.facebook.com/lafresca.es/picture?width=320&height=320) | - |
+| Onda Mencía Radio | [stream](http://srv0411.lcinternet.com:9000/stream) | [web](http://escucha.ondamenciaradio.com/) | [logo](https://graph.facebook.com/OndaMenciaRadio/picture?width=320&height=320) | WICE |
+| La Fresca FM | [stream](http://stream.produccionesdale.com:8899/altacalidad) | [web](http://www.lafresca.fm/) | [logo](https://graph.facebook.com/lafresca.es/picture?width=320&height=320) | WICE |
 | La Mega FM | [mp3](http://streaming5.elitecomunicacion.es:8220/stream?type=.mp3) | [web](http://www.lamegacostadelsol.com/) | [logo](https://graph.facebook.com/lamegacostadelsol/picture?width=320&height=320) | - |
-| Radio Dance | [stream](https://listen.radionomy.com/1-radio-dance) | [web](https://www.radionomy.com/en/radio/1-radio-dance/listen/) | [logo](https://graph.facebook.com/radiodance.net/picture?width=320&height=320) | - |
+| Radio Dance | [stream](https://streamingv2.shoutcast.com/1-Radio-Dance) | [web](https://www.radionomy.com/en/radio/1-radio-dance/listen/) | [logo](https://graph.facebook.com/radiodance.net/picture?width=320&height=320) | - |
 | Radio Oro Marbella | [mp3](http://185.23.192.118:8004/;stream.mp3) | [web](http://www.radiooro.es/) | [logo](https://graph.facebook.com/189831851070928/picture?width=320&height=320) | - |
 | Radio Oro Málaga | [mp3](http://185.23.192.118:8002/;stream.mp3) | [web](http://www.radiooro.es/) | [logo](https://graph.facebook.com/189831851070928/picture?width=320&height=320) | - |
-| Radio Planeta | [stream](https://radioplaneta.emitironline.com/) | [web](https://www.radioplaneta.com/#) | [logo](https://graph.facebook.com/RadioPlaneta92.8/picture?width=320&height=320) | - |
+| Radio Planeta | [stream](https://radioplaneta.emitironline.com/) | [web](https://www.radioplaneta.com/#) | [logo](https://graph.facebook.com/RadioPlaneta92.8/picture?width=320&height=320) | WICE |
 | Radio Poniente | [pls](http://94.23.85.189:7855/;listen.pls) | [web](https://www.radioponiente.com/) | [logo](https://graph.facebook.com/radioponientedeportes/picture?width=320&height=320) | - |
-| Radio Sierra | [stream](http://srv01.redsanmarcos.com:8000/stream) | [web](http://www.radiosierra.es/) | [logo](https://graph.facebook.com/RadioSierraFM/picture?width=320&height=320) | - |
+| Radio Sierra | [stream](http://srv01.redsanmarcos.com:8000/stream) | [web](http://www.radiosierra.es/) | [logo](https://graph.facebook.com/RadioSierraFM/picture?width=320&height=320) | WICE |
 | Radio Martos | [stream](http://streaming6.elitecomunicacion.es:8234/;) | [web](http://www.radiomartos.com/radioplayer.html) | [logo](https://graph.facebook.com/radiomartos/picture?width=320&height=320) | - |
 | Radio Luz | [mp3](http://ns100.emisionlocal.com:8022/;stream.mp3) | [web](http://www.fmradioluz.com/) | [logo](https://graph.facebook.com/fmradioluz/picture?width=320&height=320) | - |
 | Spectrum FM | [stream](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1) | [web](https://spectrumfm.net/spectrum-fm-live/) | [logo](https://graph.facebook.com/SpectrumFMSpain/picture?width=320&height=320) | - |
