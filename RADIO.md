@@ -612,8 +612,8 @@
 
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
-| Radio Galega Música | [mp3](http://195.10.10.213/radiogalega-musica/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/rg-musica) | [logo](https://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
-| Son Galicia Radio | [mp3](http://195.10.10.201/songalicia/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/son-galicia) | [logo](https://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
+| Radio Galega Música | [mp3](http://wecast-m02-03.flumotion.com/radiogalega-musica/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/rg-musica) | [logo](https://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
+| Son Galicia Radio | [mp3](http://wecast-m02-04.flumotion.com/songalicia/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/son-galicia) | [logo](https://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
 | Radio Picariña | [stream](http://ondemand-crtvg-origin.flumotion.com/videos/rg_infantil/flumotion/amodino.mp3) | [web](http://www.crtvg.es/en-directo/canles-directos-rg/radio-picarina) | [logo](https://graph.facebook.com/aradiogalega/picture?width=320&height=320) | - |
 | Radio Nacional Galicia | [mp3](https://rnegal.rtveradio.cires21.com/rnegal.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Galicia | [mp3](https://radio5gal.rtveradio.cires21.com/radio5gal.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
@@ -771,8 +771,8 @@
 | Radio QK | [mp3](http://34.77.177.144:8000/radioqk_master.mp3) | [web](http://www.radioqk.org/) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=320&height=320) | - |
 | Radio San Martín Sotrondio | [stream](http://91.126.223.28:9890/;) | [web](https://sanmartinradio.blogspot.com/) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=320&height=320) | - |
 | La Corredoria Suena | [stream](https://server1.radiocast.es:8002/web) | [web](https://lacorredoriasuena.com/) | [logo](https://graph.facebook.com/LaCorredoriaSuena/picture?width=320&height=320) | - |
-| APQ Radio| [stream](http://stm1.emiteonline.com:8012/apqradio) | [web](http://www.apqradio.es/) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=320&height=320) | - |
-| Radio Ujo | [stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | [logo](https://graph.facebook.com/radioujo/picture?width=320&height=320) | - |
+| APQ Radio| [stream](http://stm1.emiteonline.com:8012/apqradio) | [web](http://www.apqradio.es/) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=320&height=320) | WICE |
+| Radio Ujo | [stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | [logo](https://graph.facebook.com/radioujo/picture?width=320&height=320) | WICE |
 | The Box FM | [stream](http://listen128.radionomy.com/thebox) | [web](http://www.theboxfm.net/player_web/index.html) | [logo](https://graph.facebook.com/boxfmec/picture?width=320&height=320) | - |
 | OndaLangreo | [stream](http://37.59.121.120:10025/stream) | [web](https://ondalangreo.com/) | [logo](https://graph.facebook.com/ondalangreo/picture?width=320&height=320) | - |
 
