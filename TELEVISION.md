@@ -574,6 +574,7 @@
 | MsMotor TV | [m3u8 # IT](https://streaming.wim.tv/live/streamingautomototv/.m3u8) | [web](https://www.msmotor.tv/) | [logo](https://graph.facebook.com/msmotortv/picture?width=320&height=320) | - | - |
 | OnlyMotors | [m3u8 # EN](https://kapang000.broadcastcdn.net/kapanglivetv-playout-onlymotors/index.m3u8) | [web](https://kapang.com/onlymotors/live/) | [logo](https://graph.facebook.com/onlymotors/picture?width=320&height=320) | - | - |
 | Rathergood LoL | [m3u8 # EN](https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergoodanimals.m3u8?chname=kapanglivetv-playout-rathergoodanimals&pub=288) | [web](https://rathergood.co.uk/lol/) | [logo](https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2019/11/Capture-260x180.png) | - | - |
+| ABC News Live | [m3u8 # EN](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | [web](https://abcnews.go.com/Live/) | [logo](https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_400x400.jpg) | - | - |
 
 ## Musicales
 
