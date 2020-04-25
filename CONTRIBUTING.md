@@ -3,18 +3,21 @@ Para hacer más sencillas las contribuciones, a continuación indico lo que debe
 Si no te atreves a lanzarlo como _Pull Request_, puedes incluirlo como Issue, pero siempre tratando de dar la mayor información posible, y, como mínimo, enlace de _stream_ y web de procedencia.
 
 ## Explicación de cada columna y posibles valores
+Emplazar la nueva emisión al final de su categoría, así es más sencillo para nosotros después moverlo a la posición correspondiente.
 
 ### TV
-Emplazarlo al final de su categoría, así es más sencillo para nosotros después moverlo a la posición correspondiente.
 
 #### Canal
 El nombre oficial del canal.
 
 #### M3U8
-Aunque el campo se llame m3u8, se aceptan **dos** posibles formatos de _stream_. Ambos formatos tienen obligatoria su obtención a través de la plataforma oficial del emisor.
+Se aceptan los siguientes formatos de _stream_. Ambos formatos tienen obligatoria su obtención a través de la plataforma oficial del emisor.
 
-- **m3u8**: Priorizando las opciones `master.m3u8` y `playlist.m3u8`. 
-- **youtube**: En caso que la cadena emita vía _YouTube_. Con formato `https://youtu.be/XXXXXX`.
+- **m3u8**: Priorizando las opciones `master.m3u8` y `playlist.m3u8`. Este formato es compatible con la mayoría de reproductores.
+- **youtube**: Si la cadena emite vía _YouTube_. Con formato `https://youtu.be/XXXXXX`. Este formato únicamente es compatible con la lista W3U y la aplicación Android TDTChannels.
+- **twitch**: Si la cadena emite vía _Twitch_. Este formato únicamente es compatible con la aplicación Android TDTChannels.
+- **dailymotion**: Si la cadena emite vía _Dailymotion_. Este formato únicamente es compatible con la aplicación Android TDTChannels.
+- **vimeo**: Si la cadena emite vía _Vimeo_. Este formato únicamente es compatible con la aplicación Android TDTChannels.
 
 Si el canal emite:
 - [geolocalizado](https://github.com/LaQuay/TDTChannels/wiki/FAQs#diferencia-entre-una-emisi%C3%B3n-geo-y-no-geo) a **nivel español**, se deberá añadir la coletilla `# GEO`. 
@@ -27,15 +30,15 @@ Se pueden combinar diferentes opciones concatenandolas. Por ejemplo un canal en 
 
 Excepciones:
 
-No se pueden subir enlaces convertidos a _m3u8_ de _Youtube_, _Vimeo_, _Dailymotion_, pues caducan muy rápido.
+No se pueden subir enlaces convertidos a _m3u8_ de _Youtube_, _Twitch_, _Dailymotion_, _Vimeo_, etc. Pues caducan muy rápido.
 
 #### Web
 En este apartado se debería indicar la web de dónde sale el _stream_.
 
 #### Logo
 - Incluir el que más represente la emisión a mostrar.
-- Fuentes de datos, en orden de preferencia: Redes sociales del canal (_Facebook_, _Twitter_), Wikipedia, propio canal, etc.
-- Medida recomendada de 320x320, máximo 400x400.
+- Fuentes de datos, en orden de preferencia: Redes sociales del canal, _Facebook_, _Twitter_, _YouTube_, propio canal, etc.
+- Medida recomendada de 320x320 - 400x400.
 - Formato PNG, y si no es posible JPG.
 - Preferiblemente sin transparencias y con fondo blanco.
 - No es necesaria la aparición explicita del nombre del canal en el logo.
@@ -54,7 +57,7 @@ En caso de tener más de un `TAG` de información, concatenar con comas y sin es
 Igual que la televisión a excepción que el campo `EPG ID` no existe, y de los formatos aceptados
 
 #### Stream
-_En construcción_
+Aplica lo mismo que para la TV. La preferencia siempre será la de elegir el stream en _m3u8_.
 
 ## Aviso general
 - Únicamente se recoje información externa, no se permite subir contenidos al repositorio.
