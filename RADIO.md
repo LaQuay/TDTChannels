@@ -499,6 +499,7 @@
 | Top Radio | [stream](http://18003.live.streamtheworld.com/TOPRADIO_SC) | [web](http://www.mmradio.com/topradio/) | [logo](https://graph.facebook.com/topradioes/picture?width=320&height=320) | - |
 | Espacio 4 FM | [stream](http://radiogestion.com:7003/mount3) | [web](https://www.espacio4fm.com/) | [logo](https://graph.facebook.com/Espacio4Fm/picture?width=320&height=320) | - |
 | Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com/) | [logo](https://graph.facebook.com/Radio4GOficial/picture?width=320&height=320) | - |
+| Canora Radio | [mp3](http://s8.streammonster.com:8335/stream) | [web](http://www.canora.es/) | [logo](https://graph.facebook.com/31116475535/picture?width=320&height=320) | - |
 
 ### C. Foral de Navarra
 
