@@ -239,7 +239,8 @@
 | Radio Sabiñánigo | [stream](https://streamingradio.radiohuesca.com:8031/radiosabinanigo) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Radio Sariñena | [stream](https://streamingradio.radiohuesca.com:8101/radiosarinena) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Rumba FM | [mp3](https://securestream.hdserver.biz:9348/stream.mp3) | [web](http://www.rumba93.es/) | [logo](https://graph.facebook.com/RumbaOrgulloLatino/picture?width=320&height=320) | - |
-| ZFM | [mp3](http://streaming.zarastudio.es/zfm.mp3) | [web](http://www.zaragozafm.es/player/) | [logo](http://www.zaragozafm.es/player/tmp/images/default.png) | - |
+| ZFM | [mp3](http://streaming.zarastudio.es/zfm.mp3) | [web](http://www.zaragozafm.es/player/) | [logo](https://graph.facebook.com/zfmzaragoza/picture?width=320&height=320) | - |
+| MDT Radio | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com/) | [logo](https://graph.facebook.com/mdtradio/picture?width=320&height=320) | - |
 
 ### Canarias
 
