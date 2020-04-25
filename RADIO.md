@@ -287,8 +287,8 @@
 | Onda Cero Santander | [m3u8](https://livefastly-webs.ondacero.es/santander-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/cantabria/santander/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | La Jungla Radio | [stream](https://www.lajunglaradio.com:8003/lajunglawebssl) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=320&height=320) | - |
 | Radio Camargo | [mp3](http://91.121.77.67:8048/;stream.mp3) | [web](http://www.radiocamargo.es/) | [logo](https://graph.facebook.com/RadioCamargo100.4FM/picture?width=320&height=320) | - |
-| Top FM | [stream](http://topcantabriafm.myddns.me:8080/live) | [web](http://www.topcantabriafm.com) | [logo](https://pbs.twimg.com/profile_images/487651644083957760/GHc_1oji_400x400.png) | - |
-| Distinta FM | [mp3](http://ns100.emisionlocal.com:8050/;stream.mp3) | [web](http://distintafm.es/) | [logo](https://graph.facebook.com/distintafm/picture?width=320&height=320) | - |
+| Top FM | [stream](http://topcantabriafm.myddns.me:8080/live) | [web](http://www.topcantabriafm.com) | [logo](https://pbs.twimg.com/profile_images/487651644083957760/GHc_1oji_400x400.png) | WICE |
+| Distinta FM | [mp3](http://ns100.emisionlocal.com:8050/;stream.mp3) | [web](http://distintafm.es/) | [logo](https://graph.facebook.com/distintafm/picture?width=320&height=320) | WICE |
 | Onda Occidental | [stream](http://server9.emitironline.com:10944/) | [web](http://www.ondaoccidental.es/) | [logo](https://graph.facebook.com/ondaoccidental/picture?width=320&height=320) | - |
 
 ### Castilla-La Mancha
