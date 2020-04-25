@@ -443,6 +443,7 @@
 | Jazz Radio BCN | [stream](https://streamingv2.shoutcast.com/JazzRadioBcn) | [web](https://www.jazzradiobcn.com/) | [logo](http://files.jazzradiobcn.webnode.es/system_preview_detail_200000029-183d119379/Jazz%20Radio%20300x300%202.jpg) | - |
 | Styl Classics Manresa | [stream](http://s2.nexuscast.com:8042/;) | [web](http://www.stylclassics.com/) | [logo](https://graph.facebook.com/stylfm/picture?width=320&height=320) | - |
 | Gum FM Vielha | [stream](http://gum-fm01.streaming-pro.com:8018/;) | [web](https://gum.cat/) | [logo](https://graph.facebook.com/gumfm/picture?width=320&height=320) | - |
+| Ona Sants FM | [stream](http://onastream.no-ip.info:8000/live) | [web](https://onadesants.cat/) | [logo](https://graph.facebook.com/Radioonadesants/picture?width=320&height=320) | - |
 
 ### Ceuta
 
