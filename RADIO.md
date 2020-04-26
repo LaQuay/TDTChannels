@@ -291,8 +291,8 @@
 | Top FM | [stream](http://topcantabriafm.myddns.me:8080/live) | [web](http://www.topcantabriafm.com) | [logo](https://pbs.twimg.com/profile_images/487651644083957760/GHc_1oji_400x400.png) | WICE |
 | Distinta FM | [mp3](http://ns100.emisionlocal.com:8050/;stream.mp3) | [web](http://distintafm.es/) | [logo](https://graph.facebook.com/distintafm/picture?width=320&height=320) | WICE |
 | Onda Occidental | [stream](http://server9.emitironline.com:10944/) | [web](http://www.ondaoccidental.es/) | [logo](https://graph.facebook.com/ondaoccidental/picture?width=320&height=320) | - |
-| Ason FM | [stream](https://ns100.emisionlocal.com:8064/live) | [web](http://www.asonfm.com/) | [logo](https://graph.facebook.com/asonfm/picture?width=320&height=320) | WICE |
-| Radio MixFm | [stream](http://ns5.emisionlocal.com/radiomixnew/) | [web](http://www.asonfm.com/) | [logo](https://pbs.twimg.com/profile_images/1136961096512868353/lvg-6Qd6_400x400.png) | WICE |
+| Ason FM | [stream](http://ns100.emisionlocal.com:8064/live) | [web](http://www.asonfm.com/) | [logo](https://graph.facebook.com/asonfm/picture?width=320&height=320) | WICE |
+| Radio MixFm | [stream](http://ns6.emisionlocal.com:8000/;) | [web](http://www.cadenamix.es/) | [logo](https://pbs.twimg.com/profile_images/1136961096512868353/lvg-6Qd6_400x400.png) | WICE |
 
 ### Castilla-La Mancha
 
@@ -329,7 +329,7 @@
 | Surco Tomelloso | [mp3](http://emisorasmusicales.es:8005/rsurco.mp3) | [web](https://radiosurco.es/player/) | [logo](https://pbs.twimg.com/profile_images/880321707642425344/lNoobTG1_400x400.jpg) | - |
 | Surco Manzanares | [mp3](http://emisorasmusicales.es:8006/manzanares.mp3) | [web](https://radiosurco.es/player/) | [logo](https://pbs.twimg.com/profile_images/880321707642425344/lNoobTG1_400x400.jpg) | - |
 | AB95 FM | [mp3](http://emisorasmusicales.es:8005/ab95fm.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/ab95fm/picture?width=320&height=320) | - |
-| POP10 FM | [mp3](http://emisorasmusicales.es:8006/pop10fmalcazar.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/ab95fm/picture?width=320&height=320) | - |
+| POP10 FM | [mp3](http://emisorasmusicales.es:8006/pop10fmalcazar.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/pop10fm/picture?width=320&height=320) | - |
 | Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net/) | [logo](https://graph.facebook.com/radioarrebato107.4/picture?width=320&height=320) | - |
 | Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=320&height=320) | - |
 
