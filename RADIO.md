@@ -675,7 +675,7 @@
 | IB3 Ràdio | [mp3](http://streaming01.ib3radio.com:8000/ib3radio.mp3) | [web](https://ib3.org/directe?c=radio) | [logo](https://graph.facebook.com/IB3org/picture?width=320&height=320) | - |
 | Radio Nacional Islas Baleares | [mp3](https://rnebal.rtveradio.cires21.com/rnebal.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=320&height=320) | - |
 | Radio 5 Islas Baleares | [mp3](https://radio5bal.rtveradio.cires21.com/radio5bal.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png) | - |
-| Fibwi Radio | [stream](http://stream.fibwi.com:9000/stream) | [web](https://fibwiradio.com/) | [logo](https://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - |
+| Fibwi Radio | [stream](http://stream.fibwi.com:9000/stream) | [web](https://fibwiradio.com/) | [logo](https://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | WICE |
 | SER - Radio Ibiza | [stream](http://cadenaserebre.streaming-pro.com:6021/stream) | [web](https://play.cadenaser.com/emisora/radio_ibiza/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | SER - Radio Mallorca | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALLORCA.mp3) | [web](https://play.cadenaser.com/emisora/radio_mallorca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | SER - Radio Menorca | [stream](http://server10.emitironline.com:8040/;) | [web](https://play.cadenaser.com/emisora/radio_menorca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
@@ -685,14 +685,13 @@
 | Onda Cero Mallorca | [w3u8](https://livefastly-webs.ondacero.es/mallorca-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/baleares/mallorca/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Onda Cero Menorca | [w3u8](https://livefastly-webs.ondacero.es/menorca-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/baleares/menorca/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Radio Balear | [stream](http://server6.20comunicacion.com:8076/;) | [web](http://www.radiobalear.es/directo/) | [logo](https://graph.facebook.com/rbalear.interbaleares/picture?width=320&height=320) | - |
-| Última Hora Radio | [stream](http://stream.fibwi.com:9020/stream) | [web](http://radio.gsstatic.es/) | [logo](https://graph.facebook.com/UltimaHora.Mallorca/picture?width=320&height=320) | - |
+| Última Hora Radio | [stream](http://stream.fibwi.com:9020/stream) | [web](http://radio.gsstatic.es/) | [logo](https://graph.facebook.com/UltimaHora.Mallorca/picture?width=320&height=320) | WICE |
 | Ibiza Global Radio | [stream](http://ibizaglobalradio.streaming-pro.com:8024/stream) | [web](http://ibizaglobalradio.com/) | [logo](https://graph.facebook.com/ibiza.radio/picture?width=320&height=320) | - |
 | ibizaSonica | [stream](http://s1.sonicabroadcast.com:7005/;stream/1) | [web](https://www.ibizasonica.com/) | [logo](https://graph.facebook.com/ibizasonicaradio/picture?width=320&height=320) | - |
-| Radio Murta | [stream](http://91.121.156.27:8013/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - |
-| Canal 4 Ràdio | [stream](http://91.121.156.27:8011/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - |
-| Das Inselradio | [stream](https://stream.inselradio.com/high.inselradio.opus) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/DasInselradio/picture?width=320&height=320) | - |
-| Mallorca Sunshine Radio | [stream](https://stream.inselradio.com/high.sunshine.opus) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/DasInselradio/picture?width=320&height=320) | - |
-| Russkoe Radio Mallorca | [mp3](http://icecast.russkoeradio.cdnvideo.ru:8000/rr_m.mp3) | [web](https://www.liveonlineradio.net/es/russia/russkoe-radio-mallorca.htm) | [logo](https://www.liveonlineradio.net/wp-content/uploads/2013/09/Russkoe-Radio-Mallorca.jpg) | - |
+| Radio Murta | [stream](http://91.121.156.27:8013/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=320&height=320) | WICE |
+| Canal 4 Ràdio | [stream](http://91.121.156.27:8011/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=320&height=320) | WICE |
+| Das Inselradio | [stream](https://stream.inselradio.com/high.inselradio.opus) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/DasInselradio/picture?width=320&height=320) | WISE |
+| Mallorca Sunshine Radio | [stream](https://stream.inselradio.com/high.sunshine.opus) | [web](https://www.inselradio.com/player/) | [logo]https://graph.facebook.com/MallorcaSunshineRadio/picture?width=320&height=320) | WICE |
 | Radio One Mallorca | [stream](http://80.32.132.126:8000/;) | [web](http://www.radioonemallorca.com/) | [logo](https://graph.facebook.com/RadioOneMallorca/picture?width=320&height=320) | - |
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com/) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=320&height=320) | - |
 
