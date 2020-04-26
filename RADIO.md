@@ -451,7 +451,7 @@
 | Jazz Radio BCN | [stream](https://streamingv2.shoutcast.com/JazzRadioBcn) | [web](https://www.jazzradiobcn.com/) | [logo](http://files.jazzradiobcn.webnode.es/system_preview_detail_200000029-183d119379/Jazz%20Radio%20300x300%202.jpg) | - |
 | Styl Classics Manresa | [stream](http://s2.nexuscast.com:8042/;) | [web](http://www.stylclassics.com/) | [logo](https://graph.facebook.com/stylfm/picture?width=320&height=320) | - |
 | Gum FM Vielha | [stream](http://gum-fm01.streaming-pro.com:8018/;) | [web](https://gum.cat/) | [logo](https://graph.facebook.com/gumfm/picture?width=320&height=320) | - |
-| Ona Sants FM | [stream](http://onastream.no-ip.info:8000/live) | [web](https://onadesants.cat/) | [logo](https://graph.facebook.com/Radioonadesants/picture?width=320&height=320) | - |
+| Ona Sants FM | [stream](http://onastream.no-ip.info:8000/live) | [web](https://onadesants.cat/) | [logo](https://graph.facebook.com/Radioonadesants/picture?width=320&height=320) | WICE |
 
 ### Ceuta
 
@@ -745,8 +745,8 @@
 | Onda Cero Vitoria | [m3u8](https://livefastly-webs.ondacero.es/vitoria-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/pais-vasco/vitoria/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Radio Popular - Herri Irratia | [stream](http://79.137.33.224:8000/radiopopular1) | [web](https://radiopopular.com/) | [logo](https://graph.facebook.com/herriirratia/picture?width=320&height=320) | - |
 | Radio Nervión | [stream](https://radionervion.streaming-pro.com:6132/radionervion) | [web](http://www.radionervion.com/) | [logo](https://graph.facebook.com/RadioNervion/picture?width=320&height=320) | - |
-| Onda Vasca | [stream](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
-| Onda Vasca Gipuzcoa | [stream](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | - |
+| Onda Vasca | [stream](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | WICE |
+| Onda Vasca Gipuzcoa | [stream](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | WICE |
 | Radio 7 | [mp3](https://radio7.streaming-pro.com:6146/radio7.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - |
 | Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com/) | [logo](https://graph.facebook.com/radioformulahit/picture?width=320&height=320) | - |
 
