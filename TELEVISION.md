@@ -352,11 +352,12 @@
 | 8madrid TV | - | [web](https://www.8madrid.tv/) | [logo](https://graph.facebook.com/8madridTV/picture?width=320&height=320) | - | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | [logo](https://graph.facebook.com/enlacetv/picture?width=320&height=320) | - | - |
 
-### C. Foral de Navarra
+### C. Foral de 
+
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Navarra TV | - | [web](https://www.natv.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=320&height=320) | NaTV.TDTChannelsEPG | W3U |
+| Navarra TV | - | [web](https://www.natv.es/Directo) https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8| [logo](https://graph.facebook.com/NavarraTelevision/picture?width=320&height=320) | NaTV.TDTChannelsEPG | W3U |
 | Parlamento de Navarra | [m3u8 # 1](https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8) - [m3u8 # 2](https://broadcasting.parlamentodenavarra.es/live/canal2/master.m3u8) | [web](https://www.parlamentodenavarra.es/) | [logo](https://pbs.twimg.com/profile_images/781100367295676417/XVWdJQD0_400x400.jpg) | - | - |
 | ETB 1 | [m3u8](https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](https://graph.facebook.com/eitb/picture?width=320&height=320) | ETB1.TDTChannelsEPG | - |
 | ETB 2 | [m3u8](https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](https://graph.facebook.com/eitb/picture?width=320&height=320) | ETB2.TDTChannelsEPG | - |
