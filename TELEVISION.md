@@ -459,7 +459,7 @@
 | - | - | - | - | - | - |
 | TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | [logo](https://graph.facebook.com/tvrtelevision/picture?width=320&height=320) | TVR.TDTChannelsEPG | - |
 | Popular TV La Rioja | [youtube](https://youtu.be/Ncm3FeNvIBc) | [web](https://www.populartvlarioja.com/directo/) | [logo](https://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - | - |
-
+Jonvlogs21Tv m3u8: https://dcunilive189-lh.akamaihd.net/i/dclive_1@15231/index_150_av-p.m3u8?sd=10&rebase=on Logo: https://jonvlogs21.es/wp-content/uploads/2020/01/dfd4b155-5ef0-4735-9bd9-819d75c434fd_200x200.png Web: https://jonvlogs21.es/directo
 ### Melilla
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
