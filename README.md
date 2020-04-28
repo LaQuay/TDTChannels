@@ -125,12 +125,12 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que se debe poder ver que la información que está utilizando procede de este repositorio. En el caso de _software_, la atribución debe ser visible explicitamente en el mismo.
 
 #### Ley de propiedad
-En este proyecto y en la web de reproducción **no** se almacena ningún *stream*, únicamente enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web o servicio público. Si posees los derechos de algún canal y deseas que lo retire, contáctame.
+En este proyecto y en la web de reproducción **no se almacena ningún *stream***, únicamente enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web o servicio público. Si posees los derechos de algún canal y deseas que lo retire, contáctame.
 
 ### Colaborar
 [CONTRIBUTING](https://github.com/LaQuay/TDTChannels/blob/master/CONTRIBUTING.md)
 
-Si localizas algún fallo, o deseas añadir algún canal, puedes contactarme o abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*. Recuerda por favor incluir la fuente original de la emisión.
+Si localizas algún fallo, o deseas añadir algún canal, puedes abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*. Recuerda por favor incluir la fuente original de la emisión.
 
 > <a href="https://www.buymeacoffee.com/mLaQuay"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>   
 > Si te es útil este proyecto, considera realizar una pequeña donación. :relaxed:
