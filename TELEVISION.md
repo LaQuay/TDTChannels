@@ -522,6 +522,8 @@
 | TV3CAT | [m3u8 # GEOCAT](https://directes-tv-ca.ccma.cat/ca/ngrp:tvc_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:tvc_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:tvc_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/tv3cat/) | [logo](https://graph.facebook.com/tv3/picture?width=320&height=320) | - | - |
 | ETB SAT | [m3u8](https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](https://www.eitb.eus/es/television/etb-sat/) | [logo](https://graph.facebook.com/eitb/picture?width=320&height=320) | - | - |
 | TVG América | [m3u8](https://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](https://graph.facebook.com/CRTVG/picture?width=320&height=320) | - | - |
+| ATV Andorra | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | ATVHD.TDTChannelsEPG | - |
+| ATV Web Andorra | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/canalweb) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | ATVCW.TDTChannelsEPG | - |
 | Euronews | [youtube](https://youtu.be/6DB_p2sMJTE) | [web](https://es.euronews.com/embed/live) | [logo](https://graph.facebook.com/es.euronews/picture?width=320&height=320) | - | W3U |
 | France 24 | [m3u8](https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8) - [m3u8 # EN](https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) - [m3u8 # FR](https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8) | [web](https://www.france24.com/en/live) | [logo](https://graph.facebook.com/FRANCE24/picture?width=320&height=320) | - | - |
 | BFM TV | [m3u8 # FR](https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8) | [web](https://bfmtv.com/mediaplayer/live-video/) | [logo](https://graph.facebook.com/BFMTV/picture?width=320&height=320) | - | - |
@@ -661,10 +663,3 @@
 | Portalfoxmix | [m3u8](https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8) | [web](https://www.portalfoxmix.cl/web/) | [logo](https://graph.facebook.com/portalfoxmixtv/picture?width=320&height=320) | - | - |
 | La Mega Mundial | [m3u8](https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8) | [web](https://www.lamegamundial.com/) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320) | - | - |
 | Rock TV Romania | [m3u8](https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8) | [web](https://www.rockfm.ro/rocktv) | [logo](https://graph.facebook.com/RockTvRomania/picture?width=320&height=320) | - | - |
-
-## Andorra
-
-| Canal | M3U8 | Web | Logo | EPG ID | Info |
-| - | - | - | - | - | - |
-| ATV | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | ATVHD.TDTChannelsEPG | - |
-| ATV Web | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/canalweb) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | ATVCW.TDTChannelsEPG | - |
