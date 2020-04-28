@@ -508,7 +508,7 @@
 | Thader TV | - | [web](http://www.thader.tv/) | [logo](https://graph.facebook.com/thader.tv/picture?width=320&height=320) | - | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | [logo](https://graph.facebook.com/enlacetv/picture?width=320&height=320) | - | - |
 
-## Internacionales
+## Int. Europa
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
@@ -529,21 +529,27 @@
 | Rai News 24 | [m3u8 # IT](https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8) | [web](https://www.rainews.it/dl/rainews/live/ContentItem-3156f2f2-dc70-4953-8e2f-70d7489d4ce9.html) | [logo](https://graph.facebook.com/rainews.it/picture?width=320&height=320) | - | - |
 | DW | [m3u8](https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) - [m3u8 # EN](https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8) | [web](https://www.dw.com/es/multimedia/tv-en-vivo/s-100837) | [logo](https://graph.facebook.com/dw.espanol/picture?width=320&height=320) | - | - |
 | Bloomberg Europe | [m3u8](https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8) | [web](https://www.bloomberg.com/live/europe) | [logo](https://graph.facebook.com/bloombergbusiness/picture?width=320&height=320) | - | - |
-| CNN | [youtube](https://youtu.be/OVDJ_yRPb5g) | [web](https://cnnespanol.cnn.com/) | [logo](https://graph.facebook.com/CNNee/picture?width=320&height=320) | - | - |
-| ABC News | [m3u8 # EN](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | [web](https://abcnews.go.com/Live/) | [logo](https://graph.facebook.com/ABCNews/picture?width=320&height=320) | - | - |
-| CBS News | [m3u8 # EN](https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | [logo](https://graph.facebook.com/CBSNews/picture?width=320&height=320) | - | - |
 | Sky News | [m3u8 # EN](http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8) - [youtube](https://youtu.be/9Auq9mYxFEE) | [web](https://news.sky.com/watch-live) | [logo](https://graph.facebook.com/skynews/picture?width=320&height=320) | - | - |
 | RT | [m3u8](https://rt-esp-gd.secure2.footprint.net/1102.m3u8) | [web](https://actualidad.rt.com/en_vivo2) | [logo](https://graph.facebook.com/ActualidadRT/picture?width=320&height=320) | RTESP.TDTChannelsEPG | - |
 | RT News | [m3u8 # EN](https://rt-news-gd.secure2.footprint.net/1103.m3u8) - [m3u8 # EN UK](https://rt-uk-gd.secure2.footprint.net/1106.m3u8) - [m3u8 # EN USA](https://rt-usa-gd.secure2.footprint.net/1105.m3u8) | [web](https://www.rt.com/on-air/) | [logo](https://graph.facebook.com/RTnews/picture?width=320&height=320) | - | - |
-| RT Documentary Channel | [m3u8 # EN](https://rt-doc-gd.secure2.footprint.net/1101.m3u8) | [web](https://rtd.rt.com/on-air/) | [logo](https://graph.facebook.com/RTnews/picture?width=320&height=320) | - | - |
-| CGTN | [m3u8 # 1](https://livees.cgtn.com/1000e/prog_index.m3u8) - [m3u8 # 2](https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8) | [web](https://www.cgtn.com/) | [logo](https://graph.facebook.com/cgtnenespanol/picture?width=320&height=320) | CGTN.TDTChannelsEPG | - |
-| CGTN News | [m3u8 # EN](https://news.cgtn.com/resource/live/english/cgtn-news.m3u8) | [web](https://www.cgtn.com/tv) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=320&height=320) | - | - |
-| CGTN Documentary | [m3u8 # EN](https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8) | [web](https://www.cgtn.com/channel/documentary) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=320&height=320) | - | - |
-| NHK World Japan | [m3u8 # EN](https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8) | [web](https://www3.nhk.or.jp/nhkworld/en/live/) | [logo](https://graph.facebook.com/nhkworld/picture?width=320&height=320) | - | - |
-| Arirang TV | [m3u8 # EN](https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8) | [web](http://www.arirang.com/player/OnAir_TV.asp) | [logo](https://graph.facebook.com/arirangtv/picture?width=320&height=320) | - | - |
-| Al Jazeera | [m3u8 # EN](https://live-hls-web-aje.getaj.net/AJE/index.m3u8) | [web](https://www.aljazeera.com/live/) | [logo](https://graph.facebook.com/aljazeera/picture?width=320&height=320) | - | - |
-| TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/44/cf/9f/44cf9fb7-dc61-bd74-2238-1f6d6b11925f/source/320x320bb.jpg) | - | - |
-| CBN | [m3u8](https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8) | [web](https://www1.cbn.com/tv/cbn-live) | [logo](https://graph.facebook.com/cbnonline/picture?width=320&height=320) | - | - |
+| RT Documentary | [m3u8 # EN](https://rt-doc-gd.secure2.footprint.net/1101.m3u8) | [web](https://rtd.rt.com/on-air/) | [logo](https://graph.facebook.com/RTDocumentary/picture?width=320&height=320) | - | - |
+
+## Int. América
+
+| Canal | M3U8 | Web | Logo | EPG ID | Info |
+| - | - | - | - | - | - |
+| CNN | [youtube](https://youtu.be/OVDJ_yRPb5g) | [web](https://cnnespanol.cnn.com/) | [logo](https://graph.facebook.com/CNNee/picture?width=320&height=320) | - | - |
+| ABC News | [m3u8 # EN](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | [web](https://abcnews.go.com/Live/) | [logo](https://graph.facebook.com/ABCNews/picture?width=320&height=320) | - | - |
+| CBS News | [m3u8 # EN](https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | [logo](https://graph.facebook.com/CBSNews/picture?width=320&height=320) | - | - |
+| CBN | [m3u8](https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8) - [m3u8 # EN](https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8) | [web](https://www1.cbn.com/tv/cbn-espanol) | [logo](https://graph.facebook.com/cbnonline/picture?width=320&height=320) | - | - |
+| NASA TV Public | [m3u8](http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
+| NASA TV Media | [m3u8](http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#media) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
+| NASA TV ISS Views | [m3u8](http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8) | [web](https://www.ustream.tv/channel/live-iss-stream) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
+| America's Voice | [m3u8 # EN](https://cdnapi.kaltura.com/p/2377021/sp/237702100/playManifest/entryId/0_m2pjgwiu/format/applehttp/.m3u8) | [web](https://americasvoice.news/) | [logo](https://graph.facebook.com/AmericasVoiceNews/picture?width=320&height=320) | - | - |
+| Dabl | [m3u8 # EN](https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8) | [web](https://www.dabl.com/schedule) | [logo](https://graph.facebook.com/DablNetwork/picture?width=320&height=320) | - | - |
+| Entertainment Tonight | [m3u8 # EN](https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8) | [web](https://www.etonline.com/live) | [logo](https://graph.facebook.com/EntertainmentTonight/picture?width=320&height=320) | - | - |
+| BUZZR TV | [m3u8 # EN](https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8) | [web](https://buzzrtv.com/watch) | [logo](https://graph.facebook.com/BUZZRtv/picture?width=320&height=320) | - | - |
+| Zee Mundo | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://go.zeemundo.com/canal/zee-mundo-en-vivo) | [logo](https://graph.facebook.com/zeemundo/picture?width=320&height=320) | - | - |
 | NTN24 | [m3u8](https://rcnhd.cdn.net.co/live04/ntn24.m3u8) | [web](https://www.ntn24.com/en-vivo/) | [logo](https://graph.facebook.com/NTN24/picture?width=320&height=320) | - | - |
 | Todo Noticias Argentina | [youtube](https://youtu.be/wHn1_QVoXGM) | [web](https://tn.com.ar/) | [logo](https://graph.facebook.com/todonoticias/picture?width=320&height=320) | - | - |
 | C5N Argentina | [youtube](https://youtu.be/6x4w5z9S7WQ) | [web](https://www.youtube.com/user/c5n) | [logo](https://graph.facebook.com/C5N.Noticias/picture?width=320&height=320) | - | - |
@@ -557,19 +563,28 @@
 | Venezolana de Televisión | [m3u8](https://593fa17dec176.streamlock.net:455/vtvweb4/vtvweb4/master.m3u8) | [web](https://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=320&height=320) | - | - |
 | TeleSUR Venezuela | [m3u8](https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/index.html) | [logo](https://graph.facebook.com/teleSUR/picture?width=320&height=320) | TeleSUR.TDTChannelsEPG | - |
 | TC TV Ecuador | [m3u8](https://5d4837686f698.streamlock.net/tctelevision/tctelevision/master.m3u8) | [web](https://www.tctelevision.com/en-vivo) | [logo](https://graph.facebook.com/tctelevision10/picture?width=320&height=320) | - | - |
+
+## Int. Asia
+
+| Canal | M3U8 | Web | Logo | EPG ID | Info |
+| - | - | - | - | - | - |
+| Al Jazeera Qatar | [m3u8 # EN](https://live-hls-web-aje.getaj.net/AJE/index.m3u8) | [web](https://www.aljazeera.com/live/) | [logo](https://graph.facebook.com/aljazeera/picture?width=320&height=320) | - | - |
+| CGTN | [m3u8 # 1](https://livees.cgtn.com/1000e/prog_index.m3u8) - [m3u8 # 2](https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8) | [web](https://espanol.cgtn.com/) | [logo](https://graph.facebook.com/cgtnenespanol/picture?width=320&height=320) | CGTN.TDTChannelsEPG | - |
+| CGTN News | [m3u8 # EN](https://news.cgtn.com/resource/live/english/cgtn-news.m3u8) | [web](https://www.cgtn.com/tv) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=320&height=320) | - | - |
+| CGTN Documentary | [m3u8 # EN](https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8) | [web](https://www.cgtn.com/channel/documentary) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=320&height=320) | - | - |
+| NHK World Japan | [m3u8 # EN](https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8) | [web](https://www3.nhk.or.jp/nhkworld/en/live/) | [logo](https://graph.facebook.com/nhkworld/picture?width=320&height=320) | - | - |
+| Arirang TV Korea | [m3u8 # EN](https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8) | [web](http://www.arirang.com/player/OnAir_TV.asp) | [logo](https://graph.facebook.com/arirangtv/picture?width=320&height=320) | - | - |
+| Hispan TV Iran | [m3u8](https://live.hispantv.com/live/smil:live.smil/playlist.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://graph.facebook.com/Hispantv/picture?width=320&height=320) | - | - |
+
+## Int. Otros
+
+| Canal | M3U8 | Web | Logo | EPG ID | Info |
+| - | - | - | - | - | - |
 | United Nations TV | [m3u8 # EN](https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8) | [web](http://webtv.un.org/) | [logo](https://graph.facebook.com/unitednations/picture?width=320&height=320) | - | - |
-| NASA TV Public | [m3u8](http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
-| NASA TV Media | [m3u8](http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#media) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
-| NASA TV ISS Views | [m3u8](http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8) | [web](https://www.ustream.tv/channel/live-iss-stream) | [logo](https://graph.facebook.com/NASA/picture?width=320&height=320) | - | - |
-| America's Voice | [m3u8 # EN](https://cdnapi.kaltura.com/p/2377021/sp/237702100/playManifest/entryId/0_m2pjgwiu/format/applehttp/.m3u8) | [web](https://americasvoice.news/) | [logo](https://graph.facebook.com/AmericasVoiceNews/picture?width=320&height=320) | - | - |
+| Olympic Channel | [m3u8 # 1 EN](https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8) - [m3u8 # 2 EN](https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8) - [m3u8 # 3 EN](https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8) - [m3u8 # 4 EN](https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8) - [m3u8 # 5 EN](https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
+| TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/44/cf/9f/44cf9fb7-dc61-bd74-2238-1f6d6b11925f/source/320x320bb.jpg) | - | - |
 | Miami TV | [m3u8](https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8) - [m3u8 # EN](https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/master.m3u8) | [web](https://miamitvhd.com/) | [logo](https://graph.facebook.com/miamitv/picture?width=320&height=320) | - | - |
 | Vaughan TV | - | [web](https://grupovaughan.com/vaughan-tv/) | [logo](https://graph.facebook.com/GrupoVaughan/picture?width=320&height=320) | - | - |
-| Hispan TV | [m3u8](https://live.hispantv.com/live/smil:live.smil/playlist.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://graph.facebook.com/Hispantv/picture?width=320&height=320) | - | - |
-| Dabl | [m3u8 # EN](https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8) | [web](https://www.dabl.com/schedule) | [logo](https://graph.facebook.com/DablNetwork/picture?width=320&height=320) | - | - |
-| ET Live | [m3u8 # EN](https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8) | [web](https://www.etonline.com/live) | [logo](https://graph.facebook.com/EntertainmentTonight/picture?width=320&height=320) | - | - |
-| BUZZR TV | [m3u8 # EN](https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8) | [web](https://buzzrtv.com/watch) | [logo](https://graph.facebook.com/BUZZRtv/picture?width=320&height=320) | - | - |
-| Olympic Channel | [m3u8 # 1 EN](https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8) - [m3u8 # 2 EN](https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8) - [m3u8 # 3 EN](https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8) - [m3u8 # 4 EN](https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8) - [m3u8 # 5 EN](https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=320&height=320) | - | - |
-| Zee Mundo | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://go.zeemundo.com/canal/zee-mundo-en-vivo) | [logo](https://graph.facebook.com/zeemundo/picture?width=320&height=320) | - | - |
 | Locomotion TV | [m3u8](http://locomotiontv.com/envivo/loco_ch/stream.m3u8) | [web](http://locomotiontv.com/envivo) | [logo](https://graph.facebook.com/locomotionxtv/picture?width=320&height=320) | - | - |
 | 24/7 Retro TV | [m3u8 # EN](https://hlsdpi-cdn-rtx01.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8) | [web](https://www.247retro.com/) | [logo](https://graph.facebook.com/247retro/picture?width=320&height=320) | - | - |
 | Classic Arts Showcase | [m3u8 # EN](https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8) | [web](https://www.classicartsshowcase.org/) | [logo](https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_400x400.jpg) | - | - |
@@ -588,8 +603,8 @@
 | Hit TV | - | [web](http://www.hittv.es/) | [logo](https://graph.facebook.com/hittv.es/picture?width=320&height=320) | - | - |
 | Kronehit | [m3u8](https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8) | [web](https://www.kronehit.at/) | [logo](https://graph.facebook.com/kronehit/picture?width=320&height=320) | - | - |
 | Hit Music Channel | [m3u8](http://hitmusic.hu/hitmusic.m3u8) | [web](http://hitmusic.hu/) | [logo](https://graph.facebook.com/hitmusichu/picture?width=320&height=320) | - | - |
-| Ibiza Global TV | [m3u8 # EN](https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](https://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320) | - | - |
 | m2o | [m3u8 # IT](https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | [logo](https://graph.facebook.com/radiom2o/picture?width=320&height=320) | - | - |
+| Ibiza Global TV | [m3u8 # EN](https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](https://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320) | - | - |
 | HqM Hits | [m3u8](https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8) | [web](https://hqm.es/hits-2/) | [logo](https://hqm.es/wp-content/uploads/2020/03/HITS.jpg) | - | W3U,NONAV |
 | HqM Spanish | [m3u8](https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8) | [web](https://hqm.es/hqm-spanish/) | [logo](https://hqm.es/wp-content/uploads/2020/03/SPANISH.jpg) | - | W3U,NONAV |
 | HqM Rock | [m3u8](https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8) | [web](https://hqm.es/hqm-rock/) | [logo](https://hqm.es/wp-content/uploads/2020/03/ROCK.jpg) | - | W3U,NONAV |
