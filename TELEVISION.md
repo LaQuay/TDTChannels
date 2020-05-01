@@ -460,6 +460,8 @@
 | - | - | - | - | - | - |
 | TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | [logo](https://graph.facebook.com/tvrtelevision/picture?width=320&height=320) | TVR.TDTChannelsEPG | - |
 | Popular TV La Rioja | [youtube](https://youtu.be/Ncm3FeNvIBc) | [web](https://www.populartvlarioja.com/directo/) | [logo](https://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - | - |
+Universidad de La Rioja - Unirioja Youtube: https://www.youtube.com/user/campusUR/live  web: https://www.unirioja.es/ logo: https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/1514969_606330369432036_1175875004_n.jpg?_nc_cat=106&_nc_sid=85a577&_nc_ohc=S05OZzNBE3QAX_8EIwf&_nc_ht=scontent-mad1-1.xx&oh=c6e9275b8d557a9bdb18254b3f726852&oe=5ECFC264
+
 
 ### Melilla
 
