@@ -327,10 +327,10 @@
 | Onda Cero Talavera de la Reina | [m3u8](https://livefastly-webs.ondacero.es/talavera-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/castilla-la-mancha/talavera-de-la-reina/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Onda Cero Toledo | [m3u8](https://livefastly-webs.ondacero.es/toledo-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/castilla-la-mancha/toledo/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Onda Cero Valdepeñas | [m3u8](https://livefastly-webs.ondacero.es/valdepenas-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/castilla-la-mancha/valdepenas/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
-| Surco Tomelloso | [mp3](http://emisorasmusicales.es:8005/rsurco.mp3) | [web](https://radiosurco.es/player/) | [logo](https://pbs.twimg.com/profile_images/880321707642425344/lNoobTG1_400x400.jpg) | - |
-| Surco Manzanares | [mp3](http://emisorasmusicales.es:8006/manzanares.mp3) | [web](https://radiosurco.es/player/) | [logo](https://pbs.twimg.com/profile_images/880321707642425344/lNoobTG1_400x400.jpg) | - |
-| AB95 FM | [mp3](http://emisorasmusicales.es:8005/ab95fm.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/ab95fm/picture?width=320&height=320) | - |
-| POP10 FM | [mp3](http://emisorasmusicales.es:8006/pop10fmalcazar.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/pop10fm/picture?width=320&height=320) | - |
+| Surco Tomelloso | [mp3](http://emisorasmusicales.es:8005/rsurco.mp3) | [web](https://radiosurco.es/player/) | [logo](https://pbs.twimg.com/profile_images/880321707642425344/lNoobTG1_400x400.jpg) | WICE |
+| Surco Manzanares | [mp3](http://emisorasmusicales.es:8006/manzanares.mp3) | [web](https://radiosurco.es/player/) | [logo](https://pbs.twimg.com/profile_images/880321707642425344/lNoobTG1_400x400.jpg) | WICE |
+| AB95 FM | [mp3](http://emisorasmusicales.es:8005/ab95fm.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/ab95fm/picture?width=320&height=320) | WICE |
+| POP10 FM | [mp3](http://emisorasmusicales.es:8006/pop10fmalcazar.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/pop10fm/picture?width=320&height=320) | WICE |
 | Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net/) | [logo](https://graph.facebook.com/radioarrebato107.4/picture?width=320&height=320) | - |
 | Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=320&height=320) | - |
 | RM La Manchuela | [stream](https://cast.rmradio.es/radio/8040/stream) | [web](https://www.rmradio.es/lamanchuela/) | [logo](https://graph.facebook.com/rmradio/picture?width=320&height=320) | WICE |
@@ -751,6 +751,7 @@
 | Onda Cero Vitoria | [m3u8](https://livefastly-webs.ondacero.es/vitoria-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/pais-vasco/vitoria/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Radio Popular - Herri Irratia | [stream](http://79.137.33.224:8000/radiopopular1) | [web](https://radiopopular.com/) | [logo](https://graph.facebook.com/herriirratia/picture?width=320&height=320) | - |
 | Radio Nervión | [stream](https://radionervion.streaming-pro.com:6132/radionervion) | [web](http://www.radionervion.com/) | [logo](https://graph.facebook.com/RadioNervion/picture?width=320&height=320) | - |
+| Naiz Irratia | [mp3](https://zuzenean.naiz.eus/naiz_irratia.mp3) | [web](https://www.naiz.eus/zuzenean.html) | [logo](https://graph.facebook.com/NAIZirratia/picture?width=320&height=320) | - |
 | Onda Vasca | [stream](https://www.ondavasca.com:8001/bizkaia) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | WICE |
 | Onda Vasca Gipuzcoa | [stream](https://www.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com/) | [logo](https://graph.facebook.com/ondavasca/picture?width=320&height=320) | WICE |
 | Radio 7 | [mp3](https://radio7.streaming-pro.com:6146/radio7.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - |
