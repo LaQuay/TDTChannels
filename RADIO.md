@@ -702,7 +702,7 @@
 | ibizaSonica | [stream](http://s1.sonicabroadcast.com:7005/;stream/1) | [web](https://www.ibizasonica.com/) | [logo](https://graph.facebook.com/ibizasonicaradio/picture?width=320&height=320) | - | - |
 | Radio Murta | [stream](http://91.121.156.27:8013/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - | WICE |
 | Canal 4 Ràdio | [stream](http://91.121.156.27:8011/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - | WICE |
-| Das Inselradio | [stream](https://stream.inselradio.com/high.inselradio.opus) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/DasInselradio/picture?width=320&height=320) | WISE |
+| Das Inselradio | [stream](https://stream.inselradio.com/high.inselradio.opus) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/DasInselradio/picture?width=320&height=320) | - | WICE |
 | Mallorca Sunshine Radio | [stream](https://stream.inselradio.com/high.sunshine.opus) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/MallorcaSunshineRadio/picture?width=320&height=320) | - | WICE |
 | Radio One Mallorca | [stream](http://80.32.132.126:8000/;) | [web](http://www.radioonemallorca.com/) | [logo](https://graph.facebook.com/RadioOneMallorca/picture?width=320&height=320) | - | - |
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com/) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=320&height=320) | - | - |
