@@ -5,7 +5,7 @@ Si no te atreves a lanzarlo como _Pull Request_, puedes incluirlo como Issue, pe
 ## Explicación de cada columna y posibles valores
 Emplazar la nueva emisión al final de su categoría, así es más sencillo para nosotros después moverlo a la posición correspondiente.
 
-### TV
+### Televisión
 
 #### Canal
 El nombre oficial del canal.
@@ -50,14 +50,21 @@ No indiques nada en este campo, lo modificaremos nosotros a posterior.
 - `W3U`: La emisión introducida en el apartado `WEB` es reproducible por _Wiseplay_. De esta forma se incluirá como _stream_ en dicha lista.
 - `NONAV`: La emisión no funciona en navegadores debido a [CORS](https://developer.mozilla.org/es/docs/Web/HTTP/Access_control_CORS).
 - `CODEC`: El canal necesita de un códec especial para ser reproducido.
+- `WICE`: Exclusivamente para _Wiseplay_. Indica si el _stream_ ha de ser `"isHost": "false"`.
+- `WEMB`: Exclusivamente para _Wiseplay_. Indica si el _stream_ ha de ser `"embed": "true"`.
 
 En caso de tener más de un `TAG` de información, concatenar con comas y sin espacios.
 
 ### Radio
-Igual que la televisión a excepción que el campo `EPG ID` no existe, y de los formatos aceptados
+Igual que la televisión a excepción que el campo `EPG ID` no existe, y de los formatos aceptados para la reproducción.
 
 #### Stream
-Aplica lo mismo que para la TV. La preferencia siempre será la de elegir el stream en _m3u8_.
+Aplica lo mismo que para la TV. La preferencia siempre será la de elegir el stream en _m3u8_. Formatos aceptados:
+
+- M3U8
+- M3U
+- MP3
+- Stream
 
 ## Aviso general
 - Únicamente se recoje información externa, no se permite subir contenidos al repositorio.
