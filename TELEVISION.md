@@ -599,6 +599,7 @@
 | Cachipum TV | [m3u8](http://23.236.180.26/11580409776/live/playlist.m3u8) | [web](http://cachipum.tv/) | [logo](https://graph.facebook.com/cachipumtv/picture?width=320&height=320) | - | - |
 | ACS Network | [m3u8](https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8) | [web](https://acsnetwork.tv/) | [logo](https://graph.facebook.com/acsnetworktv/picture?width=320&height=320) | - | - |
 | Rathergood LoL | [m3u8 # EN](https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergoodanimals.m3u8?chname=kapanglivetv-playout-rathergoodanimals&pub=288) | [web](https://rathergood.co.uk/lol/) | [logo](https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2019/11/Capture-260x180.png) | - | - |
+| Emmanuel TV | [m3u8 # EN](http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8) | [web](https://emmanuel.tv/es/en-vivo/) | [logo](https://graph.facebook.com/tbjoshuaespanol/picture?width=320&height=320) | - | - |
 
 ## Deportivos Int.
 
