@@ -569,6 +569,7 @@
 | Venezolana de Televisión | [m3u8](https://593fa17dec176.streamlock.net:455/vtvweb4/vtvweb4/master.m3u8) | [web](https://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=320&height=320) | - | - |
 | TeleSUR Venezuela | [m3u8](https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/index.html) | [logo](https://graph.facebook.com/teleSUR/picture?width=320&height=320) | TeleSUR.TDTChannelsEPG | - |
 | TC TV Ecuador | [m3u8](https://5d4837686f698.streamlock.net/tctelevision/tctelevision/master.m3u8) | [web](https://www.tctelevision.com/en-vivo) | [logo](https://graph.facebook.com/tctelevision10/picture?width=320&height=320) | - | - |
+| Señal Colombia | [m3u8 # HD](https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-1500/index.m3u8) - [m3u8 # SD](https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-700/index.m3u8) | [web](https://www.senalcolombia.tv/senal-en-vivo/) | [logo](https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=320&height=320) | - | - |
 | TV Cultura Brasil | [m3u8 # BR](https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/master.m3u8) | [web](https://tvcultura.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=320&height=320) | - | - |
 
 ## Int. Asia
