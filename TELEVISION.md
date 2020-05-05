@@ -264,9 +264,9 @@
 | Bon Dia TV | [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8) | [web](https://www.ccma.cat/bondiatv/) | [logo](https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png) | BonDiaTV_CAT.TDTChannelsEPG | - |
 | Canal Parlament | [m3u8](https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/master.m3u8) | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) | [logo](https://graph.facebook.com/parlamentcat/picture?width=320&height=320) | - | - |
 | 8tv | - | [web](https://www.8tv.cat/directe/) | [logo](https://pbs.twimg.com/profile_images/1104354165441155072/FYYAUe3Y_400x400.jpg) | - | - |
-| teve.cat | - | [web](http://www.teve.cat/) | [logo](https://graph.facebook.com/teve.cat/picture?width=320&height=320)| - | - |
 | betevé | [m3u8](https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0) | [web](https://beteve.cat/en-directe/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | BTV.TDTChannelsEPG | W3U |
 | betevé web | - | [web](https://beteve.cat/en-directe/web/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | - | W3U |
+| teve.cat | - | [web](http://www.teve.cat/) | [logo](https://graph.facebook.com/teve.cat/picture?width=320&height=320)| - | - |
 | Canal Terres de l'Ebre | [m3u8](http://liveingesta119.cdnmedia.tv/canaltetvlive/smil:live.smil/playlist.m3u8) | [web](https://ebredigital.cat/en-directe/) | [logo](https://graph.facebook.com/canal.terresdelebre/picture?width=320&height=320) | Terres.TDTChannelsEPG | UAGLI |
 | El 9 TV | [m3u8](http://liveingesta119.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8) | [web](https://el9nou.cat/el9tv/) | [logo](https://graph.facebook.com/el9nou/picture?width=320&height=320) | - | UAGLI |
 | Canal Reus TV | [m3u8](http://liveingesta119.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8) | [web](http://www.canalreustv.cat/) | [logo](https://graph.facebook.com/canalreustelevisio/picture?width=320&height=320) | - | UAGLI |
