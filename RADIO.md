@@ -84,7 +84,7 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Sevilla FC Radio | [m3u8](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8) | [web](https://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=320&height=320) | - | - |
-| Real Betis Radio | [m3u8](https://cdnlive.shooowit.net/rbetislive/smil:radio.smil/playlist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-radio) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=320&height=320) | - | - |
+| Real Betis Radio | - | [web](https://www.realbetisbalompie.es/rtvbetis/directo-radio) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=320&height=320) | - | W3U |
 
 ## Autonómicas
 
@@ -197,7 +197,7 @@
 | Canal Málaga Radio | [mp3](https://wecast-m01-01.flumotion.com/canalmalaga/live.mp3) | [web](http://canalmalaga.es/radio-directo)| [logo](https://pbs.twimg.com/profile_images/971928392592449536/dXg0E5Ga_400x400.jpg) | - | - |
 | Radio Mijas | [mp3](https://wecast-b03-03.flumotion.com/mijas-radio/shoutcast.mp3) | [web](http://www.mijascomunicacion.org/index.php/radio-mijas-seccion) | [logo](https://graph.facebook.com/Mijas340/picture?width=320&height=320) | - | - |
 | Radio Marbella | [stream](http://radio1.todostreaming.es:8126/;str) | [web](http://rtvmarbella.tv/radio-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=320&height=320) | - | - |
-| Gozadera FM Andalucia | [stream](http://streamingv2.shoutcast.com/gozadera) | [web](https://www.gozadera.es/endirecto/) | [logo](https://graph.facebook.com/GozaderaSpain/picture?width=320&height=320) | - | - |
+| Gozadera FM Andalucia | [stream](https://sonic.globalstream.pro:10961/stream/1/) | [web](https://www.gozadera.es/endirecto/) | [logo](https://graph.facebook.com/GozaderaSpain/picture?width=320&height=320) | - | - |
 | Radio Sevillanas | [mp3](http://radio.wesped.com:8000/;stream.mp3) | [web](https://www.radiosevillanas.com/) | [logo](https://graph.facebook.com/web.radiosevillanas/picture?width=320&height=320) | - | - |
 | Onda Loja Granada | [stream](http://5.196.73.188:8008/;) | [web](https://www.ondaloja.es/) | [logo](https://graph.facebook.com/370465614347/picture?width=320&height=320) | - | - |
 | Onda Guillena Radio | [mp3](http://w2.guillena.org:8000/ondaguillenaradio.mp3) | [web](http://onda.guillena.org) | [logo](https://graph.facebook.com/onda.guillena/picture?width=320&height=320) | - | - |
