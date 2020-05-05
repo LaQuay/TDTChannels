@@ -140,7 +140,7 @@
 | PTV Córdoba | [m3u8](http://149.91.98.146:1935/cordoba/stream/master.m3u8) | [web](http://ptvtelecom.com/canales/cordoba.html) | [logo](https://graph.facebook.com/PTVCord/picture?width=320&height=320) | - | - |
 | Granada Channel 1 | [youtube](https://youtu.be/GqEIjlETgCk) | [web](http://www.granadachannel.es/directo/) | [logo](https://live-tv-channels.org/pt-data/uploads/logo/es-granada-channel-tv-canal-1.jpg) | - | - |
 | Granada Channel 2 | - | [web](http://www.granadachannel.es/directo/) | [logo](https://live-tv-channels.org/pt-data/uploads/logo/es-granada-channel-tv-canal-2.jpg) | - | - |
-| 9 la Loma | [m3u8](https://directo.9laloma.es/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=320&height=320) | - | - |
+| 9 la Loma TV | [m3u8](http://directo.9laloma.es/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=320&height=320) | - | - |
 | SalTV | [m3u8](http://live.controlstreams.com:1935/saltv/saltv/playlist.m3u8) | [web](http://saltv.es/) | [logo](https://graph.facebook.com/saltv.es/picture?width=320&height=320) | - | - |
 | Torrevisión | - | [web](https://www.torrevisiontelevision.es/directo/) | [logo](https://graph.facebook.com/229475603752318/picture?width=320&height=320) | - | - |
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=320&height=320) | - | - |
