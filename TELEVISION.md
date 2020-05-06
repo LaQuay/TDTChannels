@@ -458,6 +458,7 @@
 | - | - | - | - | - | - |
 | TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | [logo](https://graph.facebook.com/tvrtelevision/picture?width=320&height=320) | TVR.TDTChannelsEPG | - |
 | Popular TV La Rioja | [youtube](https://youtu.be/Ncm3FeNvIBc) | [web](https://www.populartvlarioja.com/directo/) | [logo](https://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - | - |
+Parlamento de La Rioja: Youtube: https://www.youtube.com/channel/UCpAY_YgIajM3YH4Bx3SdXSw/live WEB: https://videoteca.parlamento-larioja.org/live LOGO: https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/p960x960/81925762_2792762117508171_367273545518022656_o.jpg?_nc_cat=106&_nc_sid=85a577&_nc_ohc=wQUfkubZy7EAX8WJyo5&_nc_ht=scontent-mad1-1.xx&_nc_tp=6&oh=f158e7addb8bbc541876931a4dde3897&oe=5ED84AB8
 
 ### Melilla
 
