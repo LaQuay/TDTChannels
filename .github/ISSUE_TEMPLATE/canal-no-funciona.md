@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-<Indica debajo de esta línea la URL de la web de origen del canal - REQUERIDO> 
+<En caso de saberlo indica debajo de esta linea la URL de la web de origen del canal><REQUERIDO>
 
-<Indica debajo de esta línea la URL de la emisión - REQUERIDO>
+<En caso de saberlo indica debajo de esta linea la URL de la emision><REQUERIDO>
 
 
-<Indica debajo de esta línea cualquier otra información relativa a esta propuesta>
+<Indica debajo de esta linea cualquier otra informacion relativa a esta propuesta>
