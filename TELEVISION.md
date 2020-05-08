@@ -625,18 +625,18 @@
 | HqM Blues | - | [web](https://hqm.es/hqm-blues/) | [logo](https://hqm.es/wp-content/uploads/2020/03/BLUES.jpg) | - | W3U,WEMB,NONAV |
 | HqM Baladas | - | [web](https://hqm.es/hqm-baladas/) | [logo](https://hqm.es/wp-content/uploads/2020/03/BALADAS.jpg) | - | W3U,WEMB,NONAV |
 | HqM Arabic | - | [web](https://hqm.es/hqm-arabic/) | [logo](https://hqm.es/wp-content/uploads/2020/03/ARABIC.jpg) | - | W3U,WEMB,NONAV |
-| DJing Live | [m3u8 # EN](https://www.djing.com/tv/live.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| DJing Karaoke | [m3u8 # EN](https://www.djing.com/tv/karaoke.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| DJing Hits | [m3u8 # EN](https://www.djing.com/tv/hits.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| DJing Dancefloor | [m3u8 # EN](https://www.djing.com/tv/dancefloor.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| DJing Underground | [m3u8 # EN](https://www.djing.com/tv/underground.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| DJing Electro Rock | [m3u8 # EN](https://www.djing.com/tv/session_electro-rock.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| DJing Animation | [m3u8 # EN](https://www.djing.com/tv/animation.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| DJing Avicii | [m3u8 # EN](https://www.djing.com/tv/session_avicii.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| DJing French touch | [m3u8 # EN](https://www.djing.com/tv/session_french-touch.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| DJing Hedonist | [m3u8 # EN](https://www.djing.com/tv/session_hedonist.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| DJing Summer Vibes | [m3u8 # EN](https://www.djing.com/tv/session_summer-vibes.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
-| DJing Wild EDM | [m3u8 # EN](https://www.djing.com/tv/session_wild-edm.m3u8) | [web](https://www.djing.com) | [logo](https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg) | - | - |
+| DJing Live | [m3u8 # EN](https://www.djing.com/tv/live.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=320&height=320) | - | - |
+| DJing Karaoke | [m3u8 # EN](https://www.djing.com/tv/karaoke.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=320&height=320) | - | - |
+| DJing Hits | [m3u8 # EN](https://www.djing.com/tv/hits.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=320&height=320) | - | - |
+| DJing Dancefloor | [m3u8 # EN](https://www.djing.com/tv/dancefloor.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=320&height=320) | - | - |
+| DJing Underground | [m3u8 # EN](https://www.djing.com/tv/underground.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=320&height=320) | - | - |
+| DJing Electro Rock | [m3u8 # EN](https://www.djing.com/tv/session_electro-rock.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=320&height=320) | - | - |
+| DJing Animation | [m3u8 # EN](https://www.djing.com/tv/animation.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=320&height=320) | - | - |
+| DJing Avicii | [m3u8 # EN](https://www.djing.com/tv/session_avicii.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=320&height=320) | - | - |
+| DJing French touch | [m3u8 # EN](https://www.djing.com/tv/session_french-touch.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=320&height=320) | - | - |
+| DJing Hedonist | [m3u8 # EN](https://www.djing.com/tv/session_hedonist.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=320&height=320) | - | - |
+| DJing Summer Vibes | [m3u8 # EN](https://www.djing.com/tv/session_summer-vibes.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=320&height=320) | - | - |
+| DJing Wild EDM | [m3u8 # EN](https://www.djing.com/tv/session_wild-edm.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=320&height=320) | - | - |
 | Rathergood Radio | [m3u8 # EN](https://kapang000.broadcastcdn.net/RathergoodRadio-Studio1/index.m3u8) | [web](https://rathergood.co.uk/radio/) | [logo](https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2018/08/rathergood-radio-260x180.png) | - | - |
 | Rathergood Dance | [m3u8 # EN](https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergooddance.m3u8?chname=kapanglivetv-playout-rathergooddance&pub=288) | [web](https://rathergood.co.uk/rathergood-dance/) | [logo](https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2019/07/shutterstock_268477412-260x180.jpg) | - | - |
 | Rathergood Hits | [m3u8 # EN](https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergoodhits.m3u8?chname=kapanglivetv-playout-rathergoodhits&pub=288) | [web](https://rathergood.co.uk/hits/) | [logo](https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2018/08/HITS-260x180.jpg) | - | - |
