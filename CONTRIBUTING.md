@@ -14,7 +14,7 @@ El nombre oficial del canal.
 Se aceptan los siguientes formatos de _stream_. Ambos formatos tienen obligatoria su obtención a través de la plataforma oficial del emisor.
 
 - **m3u8**: Priorizando las opciones `master.m3u8` y `playlist.m3u8`. Este formato es compatible con la mayoría de reproductores.
-- **youtube**: Si la cadena emite vía _YouTube_. Con formato `https://youtu.be/XXXXXX` si el tiempo de vida del stream es superior a un mes, y con el formato `/live` en caso contrario. Este formato únicamente es compatible con la lista W3U y la aplicación Android TDTChannels.
+- **youtube**: Si la cadena emite vía _YouTube_. Con formato `https://youtu.be/XXXXXX` si el tiempo de vida del stream es superior a un mes, y con el formato `/live` en caso contrario. Este formato es compatible con la aplicación Android TDTChannels, la web, y la lista W3U.
 - **twitch**: Si la cadena emite vía _Twitch_. Este formato únicamente es compatible con la aplicación Android TDTChannels.
 - **dailymotion**: Si la cadena emite vía _Dailymotion_. Este formato únicamente es compatible con la aplicación Android TDTChannels.
 - **vimeo**: Si la cadena emite vía _Vimeo_. Este formato únicamente es compatible con la aplicación Android TDTChannels.
@@ -50,8 +50,8 @@ No indiques nada en este campo, lo modificaremos nosotros a posterior.
 - `W3U`: La emisión introducida en el apartado `WEB` es reproducible por _Wiseplay_. De esta forma se incluirá como _stream_ en dicha lista.
 - `NONAV`: La emisión no funciona en navegadores debido a [CORS](https://developer.mozilla.org/es/docs/Web/HTTP/Access_control_CORS).
 - `CODEC`: El canal necesita de un códec especial para ser reproducido.
+- `EMB`: Para el reproductor Web y _Wiseplay_. Indica si el _stream_ ha de ser `"embed": "true"`, por ejemplo cuando se incluye un enlace a YouTube con `/live`.
 - `WICE`: Exclusivamente para _Wiseplay_. Indica si el _stream_ ha de ser `"isHost": "false"`.
-- `WEMB`: Exclusivamente para _Wiseplay_. Indica si el _stream_ ha de ser `"embed": "true"`, por ejemplo cuando se incluye un enlace a YouTube con `/live`.
 
 En caso de tener más de un `TAG` de información, concatenar con comas y sin espacios.
 
