@@ -201,6 +201,9 @@
 | Radio Sevillanas | [mp3](http://radio.wesped.com:8000/;stream.mp3) | [web](https://www.radiosevillanas.com/) | [logo](https://graph.facebook.com/web.radiosevillanas/picture?width=320&height=320) | - | - |
 | Onda Loja Granada | [stream](http://5.196.73.188:8008/;) | [web](https://www.ondaloja.es/) | [logo](https://graph.facebook.com/370465614347/picture?width=320&height=320) | - | - |
 | Onda Guillena Radio | [mp3](http://w2.guillena.org:8000/ondaguillenaradio.mp3) | [web](http://onda.guillena.org) | [logo](https://graph.facebook.com/onda.guillena/picture?width=320&height=320) | - | - |
+| Radio Cartaya | [m3u8](http://37.187.7.106/cartayatv/live.m3u8) | [web](http://www.radiocartaya.es/) | [logo](https://graph.facebook.com/radiocartaya/picture?width=320&height=320) | - | - |
+| Antena Huelva | [stream](http://stm1.emiteonline.com:8024/antenahuelva) | [web](http://antenahuelva.com/) | [logo](http://antenahuelva.com/data/img_artilugios/i1-antena-huelva-radio-futbol-musica-noticias-recreativo.jpg) | - | WICE |
+| Radiolé Costaluz | [stream](http://cervera.eldialdigital.com:8040/stream) | [web](http://radiolecostaluz.com/reproductor.html) | [logo](https://graph.facebook.com/RadioleCostaDeLaLuz/picture?width=320&height=320) | - | - |
 
 ### Aragón
 
