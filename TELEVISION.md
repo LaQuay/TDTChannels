@@ -433,7 +433,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | [logo](https://graph.facebook.com/tvrtelevision/picture?width=320&height=320) | TVR.TDTChannelsEPG | - |
-| Popular TV La Rioja | - | [web](https://www.populartvlarioja.com/directo/) | [logo](https://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - | - |
+| Popular TV La Rioja | - |[YouTube]https://www.youtube.com/playlist?list=PLMS6Jr826weIX7oJjDu9-3ynzjRB1JGTe [web](https://www.populartvlarioja.com/directo/) | [logo](https://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - | - |
 | Parlamento de La Rioja | [youtube](https://www.youtube.com/channel/UCpAY_YgIajM3YH4Bx3SdXSw/live) | [web](https://videoteca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=320&height=320) | - | EMB |
 
 ### Melilla
