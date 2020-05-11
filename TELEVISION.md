@@ -198,7 +198,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Cantabria TV | [youtube](https://youtu.be/YR28-2yhq_o) | [web](http://www.vegavision.tv/blog/section/television1) | [logo](https://graph.facebook.com/vegavisiontvcantabria/picture?width=200&height=200) | - | - |
+| Cantabria TV | [youtube](https://www.youtube.com/channel/UC0sXB5ZoIoXWvqdizegaifg/live) | [web](http://www.vegavision.tv/blog/section/television1) | [logo](https://graph.facebook.com/vegavisiontvcantabria/picture?width=200&height=200) | - | EMB |
 | Popular TV Cantabria | [m3u8](https://secure5.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](https://populartvcantabria.com/en-directo/) | [logo](https://graph.facebook.com/populartvcantabria/picture?width=200&height=200) | PopularTV_S.TV | - |
 
 ### Castilla-La Mancha
@@ -521,7 +521,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| CNN | [youtube](https://youtu.be/OVDJ_yRPb5g) | [web](https://cnnespanol.cnn.com/) | [logo](https://graph.facebook.com/CNNee/picture?width=200&height=200) | - | - |
+| CNN | [youtube](https://www.youtube.com/channel/UC_lEiu6917IJz03TnntWUaQ/live) | [web](https://cnnespanol.cnn.com/) | [logo](https://graph.facebook.com/CNNee/picture?width=200&height=200) | - | EMB |
 | ABC News USA | [m3u8 # EN](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | [web](https://abcnews.go.com/Live/) | [logo](https://graph.facebook.com/ABCNews/picture?width=200&height=200) | - | - |
 | CBS News USA | [m3u8 # EN](https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | [logo](https://graph.facebook.com/CBSNews/picture?width=200&height=200) | - | - |
 | NASA TV Public | [m3u8](http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public) | [logo](https://graph.facebook.com/NASA/picture?width=200&height=200) | - | - |
