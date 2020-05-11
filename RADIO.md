@@ -769,6 +769,8 @@
 | Mozoilo Irratia | [mp3](http://195.154.33.95:8042/mozoiloi.mp3) | [web](http://www.gdkoirratia.com/PLAY/) | [logo](https://graph.facebook.com/GaldakaokoIrratia/picture?width=320&height=320) | - | - |
 | Radio 7 | [mp3](https://radio7.streaming-pro.com:6146/radio7.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=320&height=320) | - | - |
 | Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com/) | [logo](https://graph.facebook.com/radioformulahit/picture?width=320&height=320) | - | - |
+Europa Fm Gipuzkoa [mp3] (http://stream.irratia.net/1b) [web] (http://irratia.net/) [logo] 
+(https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/c12.3.156.155a/1798174_565582083538681_1218057554_n.jpg?_nc_cat=105&_nc_sid=dbb9e7&_nc_ohc=qZpxA02FiSAAX9AGQbk&_nc_ht=scontent-mad1-1.xx&oh=efab93428d7c65f3fa4c60763882da9f&oe=5EDFA091)
 
 ### P. de Asturias
 
