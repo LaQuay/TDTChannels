@@ -10,6 +10,7 @@
 - Aitor [@aitorillo](https://github.com/aitorillo)
 - Alex Gabriel [@97carmine](https://github.com/97carmine)
 - Angel [@PIC16f841](https://github.com/PIC16f841)
+- Berto [@Berto9050](https://github.com/Berto9050)
 - CaRLymx [@carlymx](https://github.com/carlymx)
 - Carlos [@profesorasix](https://github.com/profesorasix)
 - Carratraka [@carratraka](https://github.com/carratraka)
