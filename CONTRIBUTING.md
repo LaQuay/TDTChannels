@@ -56,7 +56,7 @@ No indiques nada en este campo, lo modificaremos nosotros a posterior.
 En caso de tener más de un `TAG` de información, concatenar con comas y sin espacios.
 
 ### Radio
-Igual que la televisión a excepción que el campo `EPG ID` no existe, y de los formatos aceptados para la reproducción.
+Igual que la televisión a excepción de los formatos aceptados para la reproducción.
 
 #### Stream
 Aplica lo mismo que para la TV. La preferencia siempre será la de elegir el stream en _m3u8_. Formatos aceptados:
