@@ -27,7 +27,7 @@ Si el canal emite:
 Se pueden combinar diferentes opciones concatenandolas. Por ejemplo un canal en _HD_ y geolocalizado a catalunya sería `[m3u8 # GEOCAT # HD]`. Preferentemente manteniendo el orden de los puntos anteriores.
 
 Excepciones:
-No se pueden subir enlaces convertidos a _m3u8_ de _Youtube_, _Twitch_, _Dailymotion_, _Vimeo_, etc. Pues caducan muy rápido.
+- No se pueden subir enlaces convertidos a _m3u8_ de _Youtube_, _Twitch_, _Dailymotion_, _Vimeo_, etc. Pues caducan muy rápido.
 
 #### Web
 En este apartado se debería indicar la web de dónde sale el _stream_.
