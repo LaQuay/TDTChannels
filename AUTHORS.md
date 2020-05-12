@@ -4,7 +4,7 @@
 #### Team
 - Antonio [@atnbueno](https://github.com/atnbueno)
 - HelmerLuzo [@HelmerLuzo](https://github.com/HelmerLuzo)
-- Pau [@playzzz](https://github.com/playzzz)
+- Playz [@playzzz](https://github.com/playzzz)
 
 #### Contributions (in alphabetical order)
 - Aitor [@aitorillo](https://github.com/aitorillo)
