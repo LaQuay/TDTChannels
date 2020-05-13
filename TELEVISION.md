@@ -422,7 +422,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | IB3 | [youtube](https://youtu.be/QTa5jt61MnQ) | [web](http://ib3tv.com/directe) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | IB3.TV | - |
-| TEF | [m3u8](https://5940924978228.streamlock.net/8273/smil:8273.smil/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](https://graph.facebook.com/TEFTV/picture?width=200&height=200) | - | - |
+| TEF | [m3u8](https://59c8647978660.streamlock.net/8176/8176/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](https://graph.facebook.com/TEFTV/picture?width=200&height=200) | - | - |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/playlist.m3u8) | [web](http://canal4televisio.com/canal-4-en-directo/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=200&height=200) | - | - |
 | Fibwi | [m3u8](http://109.232.71.249:8080/fibwiliveandroidmovil/index.m3u8) | [web](https://fibwiradio.com/) | [logo](https://graph.facebook.com/GrupoFibwi/picture?width=200&height=200) | - | - |
 | Inselradio TV | - | [web](https://www.inselradio.com/player/?tv) | [logo](https://graph.facebook.com/DasInselradio/picture?width=200&height=200) | - | - |
@@ -499,6 +499,7 @@
 | TVG América | [m3u8](https://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
 | ATV Andorra | [m3u8 # 1](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) - [m3u8 # 2](https://videos.rtva.ad/live/rtva/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVHD.TV | - |
 | ATV Web Andorra | [m3u8 # 2](http://videos.rtva.ad:1935/live/web/playlist.m3u8) - [m3u8 # 2](https://videos.rtva.ad/live/web/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/canalweb) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVCW.TV | - |
+| GBC Gibraltar | - | [web](https://www.gbc.gi/tv/watch-live) | [logo](https://graph.facebook.com/GBCNewsroom/picture?width=200&height=200) | - | - |
 | Euronews | [youtube](https://youtu.be/6DB_p2sMJTE) | [web](https://es.euronews.com/embed/live) | [logo](https://graph.facebook.com/es.euronews/picture?width=200&height=200) | - | W3U |
 | RT | [m3u8](https://rt-esp-gd.secure2.footprint.net/1102.m3u8) | [web](https://actualidad.rt.com/en_vivo2) | [logo](https://graph.facebook.com/ActualidadRT/picture?width=200&height=200) | RTESP.TV | - |
 | France 24 Francia | [m3u8](https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8) - [m3u8 # EN](https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8) - [m3u8 # FR](https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8) | [web](https://www.france24.com/en/live) | [logo](https://graph.facebook.com/FRANCE24/picture?width=200&height=200) | France24.TV | - |
