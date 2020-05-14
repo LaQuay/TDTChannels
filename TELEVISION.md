@@ -607,6 +607,7 @@
 | Hit Music Channel | [m3u8](http://hitmusic.hu/hitmusic.m3u8) | [web](http://hitmusic.hu/) | [logo](https://graph.facebook.com/hitmusichu/picture?width=200&height=200) | - | NONAV |
 | m2o | [m3u8 # IT](https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | [logo](https://graph.facebook.com/radiom2o/picture?width=200&height=200) | - | - |
 | Ibiza Global TV | [m3u8 # EN](https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200) | - | - |
+| HqM Hits | - | [web](https://hqm.es/canales/) | [logo](https://hqm.es/wp-content/uploads/hits-hqm-logo.png) | - | W3U,EMB,NONAV |
 | HqM Spanish | - | [web](https://hqm.es/canales/spanish-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/2020/03/SPANISH.jpg) | - | W3U,EMB,NONAV |
 | HqM Rock | - | [web](https://hqm.es/canales/rock-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/2020/03/ROCK.jpg) | - | W3U,EMB,NONAV |
 | HqM Remember | - | [web](https://hqm.es/canales/remember-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/2020/03/REMEMBER.jpg) | - | W3U,EMB,NONAV |
