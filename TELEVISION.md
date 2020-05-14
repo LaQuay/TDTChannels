@@ -163,20 +163,19 @@
 | Aragón TV | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8) | [web](http://www.aragontelevision.es/) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV.TV | - |
 | Aragón Deporte | [m3u8](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8) | [web](https://www.cartv.es/aragondeporte/directo) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | - | - |
 | Huesca TV | [m3u8](https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8) | [web](https://www.radiohuesca.com/directo-htv) | [logo](https://graph.facebook.com/Radiohuesca/picture?width=200&height=200) | - | - |
+| Calamocha TV | [youtube](https://www.youtube.com/channel/UCl03PpRWoRjkiK5VT4uDKgA/live) | [web](http://www.mijilocatv.es/scd/index.php) | [logo](https://graph.facebook.com/CalamochaTV/picture?width=200&height=200) | - | EMB |
 | La Tele TV | [m3u8](https://secure3.todostreaming.es/live/generaltv-livestream1.m3u8) | [web](https://www.latele-tv.com/) | [logo](https://graph.facebook.com/LaTeleTVAragon/picture?width=200&height=200) | - | NONAV |
 | Canal 25 Barbastro TV | [m3u8](https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8) | [web](http://www.canal25tv.es/index.php/ct-menu-item-5) | [logo](https://graph.facebook.com/tvbarbastro/picture?width=200&height=200) | - | - |
 | Canal 15tv Zaragoza | [youtube](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/live) | [web](https://diarioaragones.com/) | [logo](https://graph.facebook.com/1266272630094067/picture?width=200&height=200) | - | EMB |
-| La Comarca | - | [web](https://www.lacomarca.net/television/comarca-tv/) | [logo](https://graph.facebook.com/lacomarcanews/picture?width=200&height=200) | - | - |
-| Calamocha TV | - | [web](http://www.mijilocatv.es/scd/index.php) | [logo](https://graph.facebook.com/CalamochaTV/picture?width=200&height=200) | - | - |
 | Digital Fraga TV | - | [web](https://vimeo.com/channels/digitalfragatv) | [logo](https://graph.facebook.com/digitalfragatelevision/picture?width=200&height=200) | - | - |
-| La 8 Zaragoza | - | [web](http://la8zaragoza.tv/directo.php) | [logo](https://graph.facebook.com/la8zaragozatv/picture?width=200&height=200) | - | - |
+| La8Zaragoza | - | [web](http://la8zaragoza.tv/directo.php) | [logo](https://graph.facebook.com/la8zaragozatv/picture?width=200&height=200) | - | - |
 
 ### Canarias
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Televisión Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](https://graph.facebook.com/188600904655/picture?width=200&height=200) | Canarias.TV | - |
-| Gran Canaria TV.com | [youtube](https://youtu.be/CDEwafrT1KE) | [web](https://www.grancanariatv.com/) | [logo](https://graph.facebook.com/GranCanariaTV/picture?width=200&height=200) | - | - |
+| GranCanariaTV.com | [youtube](https://www.youtube.com/channel/UCDdnBGLNmifjQqHjAA_DUrA/live) | [web](https://www.grancanariatv.com/) | [logo](https://graph.facebook.com/GranCanariaTV/picture?width=200&height=200) | - | EMB |
 | Mírame TV | [m3u8](https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8) | [web](https://mirametv.com/) | [logo](https://graph.facebook.com/MirameTVCanarias/picture?width=200&height=200) | MirameTV.TV | - |
 | La 1 Canarias | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8) | [web](https://www.rtve.es/television/tve-canarias/directo/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1_CAT.TV | - |
 | La 2 Canarias | [m3u8](https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8) | [web](https://www.rtve.es/television/tve-canarias/directo/?assetid=5468585) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2_CAT.TV | - |
@@ -302,8 +301,6 @@
 | RAC105 | - | [web](https://www.rac105.cat) | [logo](https://graph.facebook.com/rac105/picture?width=200&height=200) | - | - |
 | Canal 21 Ebre | - | [web](https://www.canal21ebre.com/en-directe/) | [logo](https://graph.facebook.com/canal21televisio/picture?width=200&height=200) | - | - |
 | TV L'Hospitalet | - | [web](https://lhdigital.cat/web/digital-h/televisio) | [logo](https://graph.facebook.com/lhdigital/picture?width=200&height=200) | - | - |
-| Gavà Televisió | - | [web](http://www.gavatv.cat/) | [logo](https://graph.facebook.com/gavatv/picture?width=200&height=200) | - | - |
-| Mollerussa TV | - | [web](https://www.mollerussa.tv/) | [logo](https://graph.facebook.com/mollerussatv/picture?width=200&height=200) | - | - |
 | Pirineus TV | - | [web](http://www.pirineustv.cat/) | [logo](https://graph.facebook.com/PirineusTV/picture?width=200&height=200) | - | - |
 | Banyoles Televisió | - | [web](https://www.banyolestv.cat/) | [logo](https://graph.facebook.com/banyolestelevisio/picture?width=200&height=200) | - | - |
 | TV Vandellós | - | [web](https://tvvandellos.alacarta.cat/) | [logo](https://graph.facebook.com/televisiodevandellos/picture?width=200&height=200) | - | - |
@@ -314,7 +311,7 @@
 | - | - | - | - | - | - |
 | Ceuta TV | [m3u8](https://secure.todostreaming.es/live/anguloce-livestream.m3u8) | [web](http://ceutatv.com/pag/ceuta-tv-en-directo/) | [logo](https://graph.facebook.com/CeutaTV/picture?width=200&height=200) | - | - |
 | RTVCE | [m3u8](http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8) | [web](https://www.rtvce.es/seccion/television/) | [logo](https://graph.facebook.com/RTVCE/picture?width=200&height=200) | - | - |
-| El Faro | - | [web](https://farotv.es/) | [logo](https://graph.facebook.com/ElFarodeCeuta/picture?width=200&height=200) | - | - |
+| El Faro | [youtube](https://www.youtube.com/channel/UCJkirQzX68T-DiLB4-YP-TA/live) | [web](https://farotv.es/) | [logo](https://graph.facebook.com/ElFarodeCeuta/picture?width=200&height=200) | - | EMB |
 
 ### C. de Madrid
 
@@ -384,7 +381,6 @@
 | Comarcal Televisió | - | [web](http://www.comarcal.tv/) | [logo](https://pbs.twimg.com/profile_images/1219228911122468864/8M_Th7ZF_200x200.jpg) | - | - |
 | TV Almassora | - | [web](https://www.tvalmassora.com/en-directo/) | [logo](https://graph.facebook.com/tvalmassora/picture?width=200&height=200) | - | - |
 | Punt 3 Vall Uxó | - | [web](https://www.punt3.es/) | [logo](https://graph.facebook.com/Punt3Television/picture?width=200&height=200) | - | - |
-| Latinos TV | - | [web](https://latinosfm.es/latinostv/) | [logo](https://graph.facebook.com/latinostvvlc/picture?width=200&height=200) | - | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | [logo](https://graph.facebook.com/enlacetv/picture?width=200&height=200) | - | - |
 
 ### Extremadura
@@ -417,7 +413,6 @@
 | Telemiño | - | [web](https://www.teleminho.com/video/en-directo/emision-directo-telemino/20171128171453026355.html) | [logo](https://graph.facebook.com/teleminho/picture?width=200&height=200) | - | - |
 | Auria TV | [youtube](https://www.youtube.com/channel/UC4xDk-vc3i4CB45U7_wmm5g/live) | [web](http://www.auria.es/) | [logo](https://yt3.ggpht.com/a-/AAuE7mBbJ5XfzqqDgg1IkOk23GJ6JZntYZtYT-n1CA=s200-mo-c-c0xffffffff-rj-k-no) | - | EMB |
 | Nós TV | - | [web](https://nostelevision.gal/) | [logo](https://graph.facebook.com/NosTelevision/picture?width=200&height=200) | - | - |
-| Carballiño TV | - | [web](http://www.carballinotv.com/) | [logo](https://graph.facebook.com/carballinotv/picture?width=200&height=200) | - | - |
 
 ### Illes Balears
 
@@ -482,7 +477,6 @@
 | RTV Vida | [m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/tv/) | [logo](https://graph.facebook.com/vidartv/picture?width=200&height=200) | - | - |
 | Comarcal TV | - | [web](https://comarcaltv.es/) | [logo](https://graph.facebook.com/comarcaltv/picture?width=200&height=200) | - | - |
 | TV Murciana | - | [web](http://www.televisionmurciana.es/) | [logo](https://graph.facebook.com/televisionmurciana/picture?width=200&height=200) | - | - |
-| Tu Web TV | - | [web](http://www.tuwebtv.es/directo.php) | [logo](https://graph.facebook.com/tuwebtv/picture?width=200&height=200) | - | - |
 | Thader TV | - | [web](http://www.thader.tv/) | [logo](https://graph.facebook.com/thader.tv/picture?width=200&height=200) | - | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | [logo](https://graph.facebook.com/enlacetv/picture?width=200&height=200) | - | - |
 
