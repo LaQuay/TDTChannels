@@ -9,7 +9,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](https://www.tdtchannels.com/lists/channels.json) | [m3u8](https://www.tdtchannels.com/lists/channels.m3u8) | [m3u](https://www.tdtchannels.com/lists/channels.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv) | [w3u](https://www.tdtchannels.com/lists/channels.w3u) |
 | **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](https://www.tdtchannels.com/lists/radio_channels.json) | [m3u8](https://www.tdtchannels.com/lists/radio_channels.m3u8) | [m3u](https://www.tdtchannels.com/lists/radio_channels.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_radio.tv) | [w3u](https://www.tdtchannels.com/lists/radio_channels.w3u) |
 | **TV+Radio** | - | - | [m3u8](https://www.tdtchannels.com/lists/combo_channels.m3u8) | [m3u](https://www.tdtchannels.com/lists/combo_channels.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_combo.tv) | [w3u](https://www.tdtchannels.com/lists/combo_channels.w3u) |
-| **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://www.tdtchannels.com/epg/TV.xml) | [xml gz](https://www.tdtchannels.com/epg/TV.xml.gz) | - | - | - |
+| **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://www.tdtchannels.com/epg/TV.xml) | [xml.gz](https://www.tdtchannels.com/epg/TV.xml.gz) | - | - | - |
 
 - *Navegador*: Visionado "manual" en el navegador.
 - *JSON*: Formato de datos especial para otros programas de lectura de datos.
@@ -35,7 +35,7 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *05/2020* - [SatCESC - TDTChannels ya es compatible con iPhone y iPad](https://satcesc.com/2020/05/05/tdtchannels-ya-es-compatible-con-iphone-y-ipad)
 
-*05/2020* - [TDTChannels ofrece más de mil canales de televisión gratis](https://canaltdt.es/2020/05/01/tdtchannels-ofrece-mas-de-mil-canales-de-television-gratis)
+*05/2020* - [Canal TDT - TDTChannels ofrece más de mil canales de televisión gratis](https://canaltdt.es/2020/05/01/tdtchannels-ofrece-mas-de-mil-canales-de-television-gratis)
 
 *04/2020* - [Genbeta - Cómo ver más de 500 canales de televisión TDT online, gratis y legalmente](https://www.genbeta.com/multimedia/como-ver-500-canales-television-tdt-online-gratis-legalmente)
 
@@ -57,9 +57,9 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *02/2020* - [Xataka Android - La mejor app para ver la tele en Android se renueva: favoritos, filtrado de radios y más](https://www.xatakandroid.com/aplicaciones-android/mejor-app-para-ver-tele-android-se-renueva-favoritos-filtrado-radios)
 
-*02/2020* - [ElAndroideFeliz - Cómo ver la TV en un Chromecast usando KODI](https://elandroidefeliz.com/como-ver-la-tv-en-un-chromecast-usando-kodi/)
+*02/2020* - [El Androide Feliz - Cómo ver la TV en un Chromecast usando KODI](https://elandroidefeliz.com/como-ver-la-tv-en-un-chromecast-usando-kodi/)
 
-*02/2020* - [AndroidPhoria - Esta es la mejor app para ver la TV gratis en 2020](https://androidphoria.com/aplicaciones/mejor-app-ver-tv-gratis-2020)
+*02/2020* - [Androidphoria - Esta es la mejor app para ver la TV gratis en 2020](https://androidphoria.com/aplicaciones/mejor-app-ver-tv-gratis-2020)
 
 *01/2020* - [Tecnocincuentones - Episodio 69.- TDT Channels o la sencillez para ver todos los canales](https://www.ivoox.com/episodio-69-tdt-channels-o-sencillez-para-audios-mp3_rf_46098498_1.html)
 
@@ -110,7 +110,7 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 ### Aplicaciones/Webs que consumen este repositorio
 #### Web
 - [TDTChannels](https://www.tdtchannels.com/): Soporte en Telegram. Web oficial para reproducir la lista de este proyecto.
-- [TELE ONLINE](http://teleonline.org/)
+- [Teleonline](http://teleonline.org/)
 
 #### Android
 - [TDTChannels](https://www.tdtchannels.com): Aplicación Android oficial. Soporte en Telegram. Gratuita, sin anuncios.
