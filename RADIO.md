@@ -298,6 +298,7 @@
 | Ason FM | [stream](http://ns100.emisionlocal.com:8064/live) | [web](http://www.asonfm.com/) | [logo](https://graph.facebook.com/asonfm/picture?width=200&height=200) | - | WICE |
 | Radio MixFm | [stream](http://ns6.emisionlocal.com:8000/;) | [web](http://www.cadenamix.es/) | [logo](https://pbs.twimg.com/profile_images/1136961096512868353/lvg-6Qd6_200x200.png) | - | WICE |
 | Radio Santoña | [mp3](http://server10.emitironline.com:10212/radio.mp3) | [web](http://www.xn--santoa-0wa.es/escuchar-radio-santo%C3%B1a) | [logo](https://graph.facebook.com/radiosantona107.3/picture?width=200&height=200) | - | - |
+| Radio Stereo Latino | [stream](http://server9.emitironline.com:8028/stream) | [web](http://www.radioestereolatino.com/) | [logo](https://graph.facebook.com/RadioLatinoStereo/picture?width=320&height=320) | - | - |
 
 
 ### Castilla-La Mancha
