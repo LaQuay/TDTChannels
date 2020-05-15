@@ -144,7 +144,7 @@
 | PTV Córdoba | [m3u8](http://149.91.98.146:1935/cordoba/stream/master.m3u8) | [web](http://ptvtelecom.com/canales/cordoba.html) | [logo](https://graph.facebook.com/PTVCord/picture?width=200&height=200) | - | - |
 | Granada Channel 1 | [youtube](https://youtu.be/GqEIjlETgCk) | [web](http://www.granadachannel.es/directo/) | [logo](https://yt3.ggpht.com/a/AATXAJxQPQCkD0hTPIXA9WVjyLtB09LSm1RtGVdfqg=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
 | Granada Channel 2 | - | [web](http://www.granadachannel.es/directo/) | [logo](https://live-tv-channels.org/pt-data/uploads/logo/es-granada-channel-tv-canal-2.jpg) | - | - |
-| SalTV | [m3u8](https://www.tdtchannels.com/stream/saltv.m3u8) | [web](http://saltv.es/) | [logo](https://graph.facebook.com/saltv.es/picture?width=200&height=200) | - | - |
+| SalTV | [m3u8](http://live.controlstreams.com:1935/saltv/saltv/playlist.m3u8) | [web](http://saltv.es/) | [logo](https://graph.facebook.com/saltv.es/picture?width=200&height=200) | - | - |
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200) | FuengirolaTV.TV | - |
 | 101TV Antequera | [m3u8](http://37.187.7.106/las4esquinastv/live.m3u8) | [web](http://www.teleantequera.com/ver-101-tele-antequera/) | [logo](https://graph.facebook.com/812891658754713/picture?width=200&height=200) | - | - |
