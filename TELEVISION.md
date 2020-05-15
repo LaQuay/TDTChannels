@@ -576,8 +576,9 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | United Nations TV | [m3u8 # EN](https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8) | [web](http://webtv.un.org/) | [logo](https://graph.facebook.com/unitednations/picture?width=200&height=200) | - | - |
+| AfricaNews | [youtube # EN](https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live) | [web](https://www.channelstv.com/) | [logo](https://graph.facebook.com/africanews.channel/picture?width=200&height=200) | - | - |
+| Channels TV Nigeria | [youtube # EN](https://youtu.be/rVH3vmpoOVA) | [web](https://www.channelstv.com/) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | - |
 | TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](http://www.tvgelive.gq/images/logo-dark.png) | - | - |
-| Channels TV Nigeria | [youtube](https://youtu.be/rVH3vmpoOVA) | [web](https://www.channelstv.com/) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | - |
 | Miami TV | [m3u8](https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8) - [m3u8 # EN](https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/master.m3u8) | [web](https://miamitvhd.com/) | [logo](https://graph.facebook.com/miamitv/picture?width=200&height=200) | - | - |
 | Vaughan TV | - | [web](https://grupovaughan.com/vaughan-tv/) | [logo](https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200) | - | - |
 | Locomotion TV | [m3u8](http://locomotiontv.com/envivo/loco_ch/stream.m3u8) | [web](http://locomotiontv.com/envivo) | [logo](https://graph.facebook.com/locomotionxtv/picture?width=200&height=200) | - | - |
