@@ -626,7 +626,7 @@
 | HqM Hip Hop | - | [web](https://hqm.es/canales/hip-hop-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/hip-hop-hqm-300x180.jpg) | - | W3U,EMB,NONAV |
 | HqM Folk | - | [web](https://hqm.es/canales/folk-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/folk-hqm-300x180.jpg) | - | W3U,EMB,NONAV |
 | HqM Dance | - | [web](https://hqm.es/canales/dance-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/dance-hqm-300x180.jpg) | - | W3U,EMB,NONAV |
-| HqM Classic | - | [web](https://hqm.es/canales/classic-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/2020/03/CLASSIC.jpg) | - | W3U,EMB,NONAV |
+| HqM Classic | - | [web](https://hqm.es/canales/classic-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/classic-hqm-300x180.jpg) | - | W3U,EMB,NONAV |
 | HqM Chill Out | - | [web](https://hqm.es/canales/chill-out-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/chill-out-hqm-300x180.jpg) | - | W3U,EMB,NONAV |
 | HqM Blues | - | [web](https://hqm.es/canales/blues-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/blues-hqm-300x180.jpg) | - | W3U,EMB,NONAV |
 | HqM Baladas | - | [web](https://hqm.es/canales/baldas-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/baladas-hqm-300x180.jpg) | - | W3U,EMB,NONAV |
