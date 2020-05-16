@@ -522,7 +522,7 @@
 | - | - | - | - | - | - |
 | FOX News USA | [youtube # EN](https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/live) | [web](https://www.foxnews.com/) | [logo](https://graph.facebook.com/FOXNews/picture?width=200&height=200) | - | EMB |
 | ABC News USA | [m3u8 # EN](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | [web](https://abcnews.go.com/Live/) | [logo](https://graph.facebook.com/ABCNews/picture?width=200&height=200) | - | - |
-| NBC News USA | [youtube # EN](https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live) | [web](https://www.nbcnews.com/now) | [logo](https://graph.facebook.com/NBCNews/picture?width=200&height=200) | - | - |
+| NBC News USA | [youtube # EN](https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live) | [web](https://www.nbcnews.com/now) | [logo](https://graph.facebook.com/NBCNews/picture?width=200&height=200) | - | EMB |
 | CBS News USA | [m3u8 # EN](https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | [logo](https://graph.facebook.com/CBSNews/picture?width=200&height=200) | - | - |
 | NASA TV Public | [m3u8](http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public) | [logo](https://graph.facebook.com/NASA/picture?width=200&height=200) | - | - |
 | NASA TV Media | [m3u8](http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#media) | [logo](https://graph.facebook.com/NASA/picture?width=200&height=200) | - | - |
