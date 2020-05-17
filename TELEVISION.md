@@ -229,7 +229,7 @@
 | La 7 | [m3u8](https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8) | [web](https://www.rtvcyl.es/DirectoCylTV) | [logo](https://graph.facebook.com/rtvcyl/picture?width=200&height=200) | La7.TV | - |
 | La 8 Avila | [m3u8](https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Avila) | [logo](https://pbs.twimg.com/profile_images/440445995394953216/NVyW2cD6_200x200.jpeg) | - | - |
 | La 8 Bierzo | [m3u8](https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Bierzo) | [logo](https://graph.facebook.com/La8Bierzo/picture?width=200&height=200) | - | - |
-| La 8 Burgos | [m3u8](https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Burgos) | [logo](https://graph.facebook.com/burgosmagazine/picture?width=200&height=200) | - | - |
+| La 8 Burgos | [m3u8](https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Burgos) | [logo](https://graph.facebook.com/burgosmagazine/picture?width=200&height=200) | 8Burgos.TV | - |
 | La 8 Leon | [m3u8](https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Leon) | [logo](https://graph.facebook.com/la8leon/picture?width=200&height=200) | - | - |
 | La 8 Palencia | [m3u8](https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Palencia) | [logo](https://graph.facebook.com/La8Palencia/picture?width=200&height=200) | - | - |
 | La 8 Salamanca | [m3u8](https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Salamanca) | [logo](https://graph.facebook.com/la8salamanca/picture?width=200&height=200) | - | - |
@@ -352,7 +352,7 @@
 | - | - | - | - | - | - |
 | À Punt | [m3u8](https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8) | [web](https://apuntmedia.es/va/directe/tv) | [logo](https://graph.facebook.com/apuntmedia/picture?width=200&height=200) | APUNT.TV | - |
 | 7 TeleValencia | [m3u8](https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/024/playlist.m3u8) | [web](https://7televalencia.com/directo-7televalencia) | [logo](https://pbs.twimg.com/profile_images/1251539295992786945/RHRfnrui_200x200.jpg) | - | - |
-| TeleElx | [youtube](https://www.youtube.com/channel/UCTgvgkQPtXrKEDgI9zKEzHA/live) | [web](https://teleelx.es/directo/) | [logo](https://graph.facebook.com/teleelx/picture?width=200&height=200) | - | EMB |
+| TeleElx | [youtube](https://www.youtube.com/channel/UCTgvgkQPtXrKEDgI9zKEzHA/live) | [web](https://teleelx.es/directo/) | [logo](https://graph.facebook.com/teleelx/picture?width=200&height=200) | TeleElx.TV | EMB |
 | Intercomarcal TV | [m3u8 # 1](https://str.intercomarcal.com/hls/tvisd.m3u8) - [m3u8 # 2](https://str.intercomarcal.com/hls/tvixa.m3u8) | [web](https://www.intercomarcal.com) | [logo](https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200) | - | - |
 | Grup Televisió | [m3u8](https://common01.todostreaming.es/live/ribera-livestream.m3u8) | [web](https://www.riberatelevisio.com/en-directe/) | [logo](https://graph.facebook.com/grup.televisio/picture?width=200&height=200) | - | - |
 | La 8 Mediterráneo | [m3u8](https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8) | [web](http://www.laocho.tv/es/directo/) | [logo](https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200) | 8M.TV | - |
@@ -422,7 +422,7 @@
 | IB3 | [youtube](https://youtu.be/QTa5jt61MnQ) | [web](http://ib3tv.com/directe) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | IB3.TV | - |
 | TEF | [m3u8](https://59c8647978660.streamlock.net/8176/8176/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](https://graph.facebook.com/TEFTV/picture?width=200&height=200) | - | - |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/playlist.m3u8) | [web](http://canal4televisio.com/canal-4-en-directo/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=200&height=200) | - | - |
-| Fibwi | [m3u8](http://109.232.71.249:8080/fibwiliveandroidmovil/index.m3u8) | [web](https://fibwiradio.com/) | [logo](https://graph.facebook.com/GrupoFibwi/picture?width=200&height=200) | - | - |
+| Fibwi | [m3u8](http://109.232.71.249:8080/fibwiliveandroidmovil/index.m3u8) | [web](https://fibwiradio.com/) | [logo](https://graph.facebook.com/GrupoFibwi/picture?width=200&height=200) | Fibwi.TV | - |
 | Inselradio TV | - | [web](https://www.inselradio.com/player/?tv) | [logo](https://graph.facebook.com/DasInselradio/picture?width=200&height=200) | - | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | [logo](https://graph.facebook.com/LuxMallorca/picture?width=200&height=200) | - | W3U |
 
@@ -474,7 +474,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 7 R. de Murcia | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | [logo](https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200) | 7RM.TV | - |
-| Popular TV Murcia | [m3u8](https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8) | [web](https://www.populartvrm.com/) | [logo](https://graph.facebook.com/poptvregiondemurcia/picture?width=200&height=200) | - | NONAV |
+| Popular TV Murcia | [m3u8](https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8) | [web](https://www.populartvrm.com/) | [logo](https://graph.facebook.com/poptvregiondemurcia/picture?width=200&height=200) | PopularMU.TV | NONAV |
 | RTV Vida | [m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/tv/) | [logo](https://graph.facebook.com/vidartv/picture?width=200&height=200) | - | - |
 | Comarcal TV | - | [web](https://comarcaltv.es/) | [logo](https://graph.facebook.com/comarcaltv/picture?width=200&height=200) | - | - |
 | TV Murciana | - | [web](http://www.televisionmurciana.es/) | [logo](https://graph.facebook.com/televisionmurciana/picture?width=200&height=200) | - | - |
@@ -532,7 +532,7 @@
 | BUZZR TV USA | [m3u8 # EN](https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8) | [web](https://buzzrtv.com/watch) | [logo](https://graph.facebook.com/BUZZRtv/picture?width=200&height=200) | - | - |
 | Dabl USA | [m3u8 # EN](https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8) | [web](https://www.dabl.com/schedule) | [logo](https://graph.facebook.com/DablNetwork/picture?width=200&height=200) | - | - |
 | Zee Mundo USA | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://go.zeemundo.com/canal/zee-mundo-en-vivo) | [logo](https://graph.facebook.com/zeemundo/picture?width=200&height=200) | Zee.TV | - |
-| Newsmax TV USA | [m3u8 # EN](https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8) | [web](https://www.newsmax.com/) | [logo](https://graph.facebook.com/newsmax/picture?width=200&height=200) | Zee.TV | - |
+| Newsmax TV USA | [m3u8 # EN](https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8) | [web](https://www.newsmaxtv.com/) | [logo](https://graph.facebook.com/newsmax/picture?width=200&height=200) | - | - |
 | CBN USA | [m3u8](https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8) - [m3u8 # EN](https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8) | [web](https://www1.cbn.com/tv/cbn-espanol) | [logo](https://graph.facebook.com/cbnonline/picture?width=200&height=200) | - | - |
 | NTN24 América | [m3u8](https://rcnhd.cdn.net.co/live04/ntn24.m3u8) | [web](https://www.ntn24.com/en-vivo/) | [logo](https://graph.facebook.com/NTN24/picture?width=200&height=200) | NTN24.TV | - |
 | Canal 6 Multimedios Mexico | [m3u8](https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8) | [web](https://www.multimedios.com/video) | [logo](https://graph.facebook.com/multimediostv/picture?width=200&height=200) | - | - |
@@ -602,10 +602,10 @@
 | Garage TV | [m3u8](http://186.0.233.76:1935/Garage/garage.smil/.m3u8) | [web](http://elgarage.com/tv-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
 | MsMotor TV | [m3u8 # IT](https://streaming.wim.tv/live/streamingautomototv/.m3u8) | [web](https://www.msmotor.tv/) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | - |
 | OnlyMotors | [m3u8 # EN](https://kapang000.broadcastcdn.net/kapanglivetv-playout-onlymotors/index.m3u8) | [web](https://kapang.com/onlymotors/live/) | [logo](https://graph.facebook.com/onlymotors/picture?width=200&height=200) | - | - |
-| Harley Davidson TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | - | - |
-| Harley Davidson Racing TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | - | - |
-| Harley Davidson Factory TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | - | - |
-| Harley Davidson Garage TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | - | - |
+| Harley Davidson TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyM.TV | - |
+| Harley Davidson Racing TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyR.TV | - |
+| Harley Davidson Factory TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyF.TV | - |
+| Harley Davidson Garage TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyG.TV | - |
 
 ## Musicales
 
