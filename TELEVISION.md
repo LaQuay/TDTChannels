@@ -527,6 +527,7 @@
 | NASA TV Public | [m3u8](http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#public) | [logo](https://graph.facebook.com/NASA/picture?width=200&height=200) | - | - |
 | NASA TV Media | [m3u8](http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8) | [web](https://www.nasa.gov/multimedia/nasatv/#media) | [logo](https://graph.facebook.com/NASA/picture?width=200&height=200) | - | - |
 | NASA TV ISS Views | [m3u8](http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8) | [web](https://www.ustream.tv/channel/live-iss-stream) | [logo](https://graph.facebook.com/NASA/picture?width=200&height=200) | - | - |
+| The Weather Channel USA | [m3u8](https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8) | [web](https://weloveweather.tv/twc/) | [logo](https://graph.facebook.com/TheWeatherChannel/picture?width=200&height=200) | - | - |
 | Entertainment Tonight USA | [m3u8 # EN](https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8) | [web](https://www.etonline.com/live) | [logo](https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200) | - | - |
 | America's Voice USA | [m3u8 # EN](https://cdnapi.kaltura.com/p/2377021/sp/237702100/playManifest/entryId/0_m2pjgwiu/format/applehttp/.m3u8) | [web](https://americasvoice.news/) | [logo](https://graph.facebook.com/AmericasVoiceNews/picture?width=200&height=200) | - | NONAV |
 | BUZZR TV USA | [m3u8 # EN](https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8) | [web](https://buzzrtv.com/watch) | [logo](https://graph.facebook.com/BUZZRtv/picture?width=200&height=200) | - | - |
@@ -572,6 +573,8 @@
 | NHK World Japan | [m3u8 # EN](https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8) | [web](https://www3.nhk.or.jp/nhkworld/en/live/) | [logo](https://graph.facebook.com/nhkworld/picture?width=200&height=200) | NHK.TV | - |
 | Arirang TV Korea | [m3u8 # EN](https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8) | [web](http://www.arirang.com/player/OnAir_TV.asp) | [logo](https://graph.facebook.com/arirangtv/picture?width=200&height=200) | Arirang.TV | - |
 | Hispan TV Iran | [m3u8](https://live.hispantv.com/live/smil:live.smil/playlist.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://graph.facebook.com/Hispantv/picture?width=200&height=200) | - | - |
+| Al Arabiya | [m3u8 # AR](https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8) | [web](https://www.alarabiya.net/ar/live-stream) | [logo](https://graph.facebook.com/AlArabiya/picture?width=200&height=200) | - | - |
+| Al Hadath | [m3u8 # AR](https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8) | [web](https://www.alarabiya.net/ar/live-stream-hadath) | [logo](https://graph.facebook.com/AlHadath/picture?width=200&height=200) | - | - |
 
 ## Int. Otros
 
@@ -582,7 +585,7 @@
 | Channels TV Nigeria | [youtube # EN](https://youtu.be/rVH3vmpoOVA) | [web](https://www.channelstv.com/) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | - |
 | TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](http://www.tvgelive.gq/images/logo-dark.png) | - | - |
 | Miami TV | [m3u8](https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8) - [m3u8 # EN](https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/master.m3u8) | [web](https://miamitvhd.com/) | [logo](https://graph.facebook.com/miamitv/picture?width=200&height=200) | - | - |
-| Vaughan TV | - | [web](https://grupovaughan.com/vaughan-tv/) | [logo](https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200) | - | - |
+| Vaughan TV | [youtube # EN](https://youtu.be/RfKTn6UGsiw) | [web](https://grupovaughan.com/vaughan-tv/) | [logo](https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200) | - | - |
 | Locomotion TV | [m3u8](http://locomotiontv.com/envivo/loco_ch/stream.m3u8) | [web](http://locomotiontv.com/envivo) | [logo](https://graph.facebook.com/locomotionxtv/picture?width=200&height=200) | - | - |
 | 24/7 Retro TV | [m3u8 # EN](https://hlsdpi-cdn-rtx01.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8) | [web](https://www.247retro.com/) | [logo](https://graph.facebook.com/247retro/picture?width=200&height=200) | - | - |
 | Classic Arts Showcase | [m3u8 # EN](https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8) | [web](https://www.classicartsshowcase.org/) | [logo](https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg) | - | - |
