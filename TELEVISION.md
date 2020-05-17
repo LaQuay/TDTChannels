@@ -620,6 +620,7 @@
 | NRJ Hits | [m3u8 # FR](https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8) | [web](https://www.nrj.be/tv) | [logo](https://graph.facebook.com/nrj.be/picture?width=200&height=200) | - | - |
 | m2o | [m3u8 # IT](https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | [logo](https://graph.facebook.com/radiom2o/picture?width=200&height=200) | - | - |
 | Ibiza Global TV | [m3u8 # EN](https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200) | - | - |
+| 1 Music | [m3u8](http://1music.hu/1music.m3u8) | [web](http://1music.hu/live) | [logo](https://graph.facebook.com/1music/picture?width=200&height=200) | - | - |
 | HqM Hits | - | [web](https://hqm.es/canales/hits-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/hits-hqm-1-300x167.jpg) | - | W3U,EMB,NONAV |
 | HqM Spanish | - | [web](https://hqm.es/canales/spanish-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/spanish-hqm-300x180.jpg) | - | W3U,EMB,NONAV |
 | HqM Rock | - | [web](https://hqm.es/canales/rock-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/rock-hqm-300x180.jpg) | - | W3U,EMB,NONAV |
