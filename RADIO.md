@@ -571,6 +571,7 @@
 | COPE Castellón | [mp3](https://wecast-m01-03.flumotion.com/copesedes/castellon.mp3) | [web](https://www.cope.es/directos/castellon) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Castellón-Vinaroz | [mp3](https://wecast-m01-03.flumotion.com/copesedes/vinaroz.mp3) | [web](https://www.cope.es/directos/castellon-vinaroz) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Denia | [mp3](https://wecast-m01-03.flumotion.com/copesedes/denia.mp3) | [web](https://www.cope.es/directos/denia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Elche | [mp3](https://sonic.mediatelekom.net/9314/stream) | [web](https://www.copeelche.com) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Valencia | [mp3](https://wecast-m01-03.flumotion.com/copesedes/valencia.mp3) | [web](https://www.cope.es/directos/valencia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Alicante | [m3u8](https://livefastly-webs.ondacero.es/alicante-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-valenciana/alicante/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Alzira | [m3u8](https://livefastly-webs.ondacero.es/alzira-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-valenciana/alzira/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
