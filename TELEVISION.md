@@ -106,7 +106,7 @@
 | El Correo de Andalucía | [m3u8](https://elcorreotv.todostreaming.es/live/elcorreotv-livestream.m3u8) | [web](https://elcorreoweb.es/elcorreotv) | [logo](https://graph.facebook.com/elcorreoweb/picture?width=200&height=200) | - | - |
 | Jerez Televisión | - | [web](https://jereztelevision.com/) | [logo](https://graph.facebook.com/jerez.television/picture?width=200&height=200) | - | - |
 | Onda Cádiz | [m3u8](https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8) | [web](https://tv.ocadizdigital.es/tv/directo) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | OndaCadiz.TV | NONAV |
-| Mijas Comunicación | [m3u8](https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8) | [web](https://www.mijascomunicacion.org/) | [logo](https://graph.facebook.com/Mijas340/picture?width=200&height=200) | - | - |
+| Mijas 3.40 TV | [m3u8](https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8) | [web](https://www.mijascomunicacion.org/) | [logo](https://graph.facebook.com/Mijas340/picture?width=200&height=200) | - | - |
 | Canal 45 TV | [m3u8](https://cdn01.yowi.tv/503L6OKTE2/master.m3u8) | [web](http://www.canal45tv.com/) | [logo](https://graph.facebook.com/canal45television/picture?width=200&height=200) | - | NONAV |
 | Córdoba TV | [m3u8](https://5b38ce71f1f00.streamlock.net/8376/8376/master.m3u8) | [web](https://www.cordoba-tv.com/) | [logo](https://graph.facebook.com/cordobatvonline/picture?width=200&height=200) | - | NONAV |
 | PTV Málaga | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) | [web](http://ptvtelecom.com/canales/malaga.html) | [logo](https://graph.facebook.com/PTV.Malaga/picture?width=200&height=200) | - | - |
@@ -120,7 +120,7 @@
 | Interalmería TV | [m3u8](https://interalmeria.tv/directo/live.m3u8) | [web](https://www.interalmeria.tv/directo) | [logo](https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200) | InterAlmeria.TV | - |
 | TV Centro Andalucía | [m3u8](https://5b59c7a47236a.streamlock.net/TVCENTRO/TVCENTRO/master.m3u8) | [web](https://tvcentroandalucia.com/) | [logo](https://graph.facebook.com/TVCentroAndalucia/picture?width=200&height=200) | - | - |
 | Lebrija TV | [m3u8](https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8) | [web](http://www.lebrija.tv/directo/) | [logo](https://graph.facebook.com/lebrijatelevision/picture?width=200&height=200) | - | - |
-| Más Jerez | - | [web](https://masjerez.com/programas-tv) | [logo](https://graph.facebook.com/masjerez/picture?width=200&height=200) | - | - |
+| Más Jerez | [youtube](https://www.youtube.com/channel/UCOoSrqLzlo_S5yQK3OmFqWw/live) | [web](https://masjerez.com/programas-tv) | [logo](https://graph.facebook.com/masjerez/picture?width=200&height=200) | - | EMB |
 | 8 La Janda | [m3u8](http://185.210.20.13:8080/0.m3u8) | [web](https://www.youtube.com/8lajanda/live) | [logo](https://graph.facebook.com/8lajanda/picture?width=200&height=200) | - | - |
 | 8 Cádiz | [m3u8](https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8) | [web](https://www.8cadiz.es/directo/) | [logo](https://graph.facebook.com/8tvcadiz/picture?width=200&height=200) | - | - |
 | Uvitel TV | - | [web](https://www.uvitel.tv/directo/) | [logo](https://graph.facebook.com/uviteltv/picture?width=200&height=200) | - | - |
@@ -136,6 +136,7 @@
 | Más TV Huelva | [m3u8](http://5.189.181.203:1935/gcm8/gcm8/master.m3u8) | [web](http://mastvhuelva.com/) | [logo](https://graph.facebook.com/mastvhuelva/picture?width=200&height=200) | - | - |
 | Torrevisión | [m3u8](https://api.new.livestream.com/accounts/2614936/events/1848989/live.m3u8) | [web](https://torremolinostv.com/tv-en-directo/) | [logo](https://graph.facebook.com/torremolinostv/picture?width=200&height=200) | - | NONAV |
 | Diez TV | [m3u8](https://streaming.cloud.innovasur.es/mmj/index.m3u8) | [web](https://www.dieztv.es/) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | - | - |
+| RTV Tarifa | [m3u8](https://www.youtube.com/channel/UCx5_sA41mFHsZio4umTH3Qw/live) | [web](https://www.aytotarifa.com/notice-category/radio-y-television/) | [logo](https://graph.facebook.com/RTVTARIFA/picture?width=200&height=200) | - | EMB |
 | Marbella TV | [m3u8](https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8) | [web](https://rtvmarbella.tv/tv-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=200&height=200) | RTVMarbella.TV | - |
 | Cadena Elite Granada | [m3u8](https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8) | [web](https://www.cadenaelite.es/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 | Montilla Televisión | [m3u8](https://stream.intnova.com/SVorigin/smil:119575.smil/playlist.m3u8) | [web](https://montillatelevision.com/directo/) | [logo](https://graph.facebook.com/MontillaTV/picture?width=200&height=200) | - | - |
