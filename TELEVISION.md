@@ -51,6 +51,7 @@
 | Betis TV | - | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | BetisTV.TV | W3U |
 | UD Las Palmas TV | [m3u8](http://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtv/udtvlive) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | NONAV |
 | Cádiz CF TV | [m3u8](https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8) | [web](https://www.cadizcf.com/cadizcf-tv) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200) | - | - |
+| MARCA TV | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com/) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 
 ## Infantiles
 
@@ -541,6 +542,7 @@
 | Mexico Travel TV | [m3u8](https://5ca9af4645e15.streamlock.net:443/mexicotravel/videomexicotravel/playlist.m3u8) | [web](https://www.mexicotravelchannel.com.mx/) | [logo](https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200) | - | - |
 | Turistik TV Mexico | [m3u8](https://liveingesta118.cdnmedia.tv/akustikmedialive/smil:live.smil/playlist.m3u8) | [web](https://turistiktv.com/inicio/) | [logo](https://graph.facebook.com/turistikmedia/picture?width=200&height=200) | - | UAGLI,NONAV |
 | Noticias Caracol Colombia | [youtube](https://www.youtube.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ/live) | [web](https://www.senalcolombia.tv/senal-en-vivo/) | [logo](https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200) | - | EMB |
+| Teleantioquia Colombia | [m3u8](http://api.new.livestream.com/accounts/9427524/events/8926151/live.m3u8) | [web](https://www.teleantioquia.co/en-vivo/) | [logo](https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200) | - | - |
 | Señal Colombia | [m3u8 # HD](https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-1500/index.m3u8) - [m3u8 # SD](https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-700/index.m3u8) | [web](https://www.senalcolombia.tv/senal-en-vivo/) | [logo](https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200) | - | - |
 | Todo Noticias Argentina | [youtube](https://youtu.be/wHn1_QVoXGM) | [web](https://tn.com.ar/) | [logo](https://graph.facebook.com/todonoticias/picture?width=200&height=200) | - | - |
 | C5N Argentina | [youtube](https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live) | [web](https://www.minutouno.com/) | [logo](https://graph.facebook.com/C5N.Noticias/picture?width=200&height=200) | - | EMB |
@@ -558,6 +560,7 @@
 | TELE13 Chile | [youtube](https://youtu.be/bOvhCYr1NYk) | [web](https://www.t13.cl/en-vivo) | [logo](https://graph.facebook.com/teletrece/picture?width=200&height=200) | - | - |
 | TC TV Ecuador | [m3u8](https://5d4837686f698.streamlock.net/tctelevision/tctelevision/master.m3u8) | [web](https://www.tctelevision.com/en-vivo) | [logo](https://graph.facebook.com/tctelevision10/picture?width=200&height=200) | - | - |
 | Ecuador TV | [m3u8](https://player-api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8) | [web](https://www.ecuadortv.ec/) | [logo](https://graph.facebook.com/EcuadorTV/picture?width=200&height=200) | - | - |
+| HCH Honduras | [m3u8](https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8) | [web](https://hch.tv/live/) | [logo](https://graph.facebook.com/HCHTelevisionDigital/picture?width=200&height=200) | - | - |
 | Cubavisión TV | [m3u8](https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/master.m3u8) | [web](http://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/cubavision-internacional) | [logo](https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200) | - | - |
 | TV Cultura Brasil | [m3u8 # BR](https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/master.m3u8) | [web](https://tvcultura.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=200&height=200) | - | - |
 
