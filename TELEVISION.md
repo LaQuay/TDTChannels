@@ -617,7 +617,6 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Hit TV | - | [web](http://www.hittv.es/) | [logo](https://graph.facebook.com/hittv.es/picture?width=200&height=200) | - | - |
 | Kronehit | [m3u8](https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8) | [web](https://www.kronehit.at/) | [logo](https://graph.facebook.com/kronehit/picture?width=200&height=200) | - | - |
 | Hit Music Channel | [m3u8](http://hitmusic.hu/hitmusic.m3u8) | [web](http://hitmusic.hu/) | [logo](https://graph.facebook.com/hitmusichu/picture?width=200&height=200) | - | NONAV |
 | NRJ Hits | [m3u8 # FR](https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8) | [web](https://www.nrj.be/tv) | [logo](https://graph.facebook.com/nrj.be/picture?width=200&height=200) | - | - |
