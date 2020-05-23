@@ -395,16 +395,15 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TVG | [m3u8](https://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGAL.TV | - |
-| TVG 2 | [m3u8 # 1](https://events2-crtvg.flumotion.com/playlist.m3u8) - [m3u8 # 2](https://events3-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](https://i.ibb.co/2jtvMq0/TVG-GALICIA-2.png) | - | - |
-| TVG Infantil | [m3u8](https://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | [logo](https://graph.facebook.com/oxabarinclub/picture?width=200&height=200) | - | - |
-| TVG Musigal | [m3u8](https://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/musigal) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
+| TVG Xabarin | [m3u8](https://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | [logo](https://graph.facebook.com/oxabarinclub/picture?width=200&height=200) | - | - |
+| TVG Musigal | [m3u8](https://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://musi.gal/) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
 | TVG Cultura | [m3u8](https://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
 | TVG Momentos G | [m3u8](https://momentog-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
-| TVG Evento 1 | [m3u8](https://events1-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento1) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
-| TVG Evento 2 | [m3u8](https://events2-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento2) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
-| TVG Evento 3 | [m3u8](https://events3-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento3) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
-| TVG Evento 4 | [m3u8](https://events4-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento4) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
-| TVG Evento 5 | [m3u8](https://amodino-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/deportes/directo/canle/evento4) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
+| TVG Evento 1 | [m3u8](https://events1-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
+| TVG Evento 2 | [m3u8](https://events2-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
+| TVG Evento 3 | [m3u8](https://events3-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
+| TVG Evento 4 | [m3u8](https://events4-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
+| TVG Parlamento | [m3u8](https://amodino-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
 | TV Ferrol | [m3u8](https://directo.tvferrol.es/tv.m3u8) | [web](https://directo.tvferrol.es/) | [logo](https://graph.facebook.com/tvferrol/picture?width=200&height=200) | - | - |
 | Canal Barbanza | [youtube](https://youtu.be/jcFZK0g_AII) | [web](https://www.canalbarbanza.com/) | [logo](https://graph.facebook.com/CanalBarbanza/picture?width=200&height=200) | - | - |
 | Televigo | [m3u8](http://5.189.181.203:1935/gcm4/gcm4/playlist.m3u8) | [web](http://www.televigo.com/) | [logo](https://graph.facebook.com/televigo/picture?width=200&height=200) | - | - |
