@@ -27,6 +27,38 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | **Grupo - Telegram** | [Acceder](https://t.me/tdtchannels) al grupo |
 | **Canal de Avisos - Telegram** | [Acceder](https://t.me/tdtchannels_avisos) al canal |
 
+### Aplicaciones/Webs que consumen este repositorio
+#### Web
+| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://www.tdtchannels.com	| ✔ | ✔ | ✔ | LaQuay |
+| Teleonline	| http://teleonline.org	| ❌ | ✔ | ✔ | Desconocido |
+
+#### Android
+| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://www.tdtchannels.com/android	| ✔ | ✔ | ✔ | LaQuay |
+| TDTChannels Open	| https://github.com/LaQuay/TDTChannels-APP	| ❌ | ✔ | ✔ | LaQuay |
+| FeedTV	| https://github.com/juanro49/FeedTV	| ❌ | ✔ | ✔ | [Juanro49](https://github.com/juanro49) |
+
+#### iOS
+| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
+| TDTChannels	| https://github.com/LaQuay/TDTChannels-APP	| ❌ | ✔ | ✔ | [RubenApps](https://ruben.app/) |
+| IPTVPlayer	| https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17	| ❌ | ✔ | ✔ | Desconocido |
+
+#### iPadOS
+| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
+
+#### macOS
+| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
+| IPTV	| https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels	| ❌ | ✔ | ✔ | [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps) |
+
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
@@ -106,38 +138,6 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 *01/2018* - [Xataka Android - Nueve aplicaciones para ver la televisión gratis en un móvil Android](https://www.xatakandroid.com/aplicaciones-android/nueve-aplicaciones-para-ver-la-television-gratis-en-un-movil-android)
 
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
-
-### Aplicaciones/Webs que consumen este repositorio
-#### Web
-| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| -	|:-:|:-:|:-:| - |
-| TDTChannels	| https://www.tdtchannels.com	| ✔ | ✔ | ✔ | LaQuay |
-| Teleonline	| http://teleonline.org	| ❌ | ✔ | ✔ | Desconocido |
-
-#### Android
-| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| -	|:-:|:-:|:-:| - |
-| TDTChannels	| https://www.tdtchannels.com/android	| ✔ | ✔ | ✔ | LaQuay |
-| TDTChannels Open	| https://github.com/LaQuay/TDTChannels-APP	| ❌ | ✔ | ✔ | LaQuay |
-| FeedTV	| https://github.com/juanro49/FeedTV	| ❌ | ✔ | ✔ | [Juanro49](https://github.com/juanro49) |
-
-#### iOS
-| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| -	|:-:|:-:|:-:| - |
-| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
-| TDTChannels	| https://github.com/LaQuay/TDTChannels-APP	| ❌ | ✔ | ✔ | [RubenApps](https://ruben.app/) |
-| IPTVPlayer	| https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17	| ❌ | ✔ | ✔ | Desconocido |
-
-#### iPadOS
-| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| -	|:-:|:-:|:-:| - |
-| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
-
-#### macOS
-| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| -	|:-:|:-:|:-:| - |
-| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
-| IPTV	| https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels	| ❌ | ✔ | ✔ | [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps) |
 
 ### Licencia del proyecto
 [LICENSE](https://github.com/LaQuay/TDTChannels/blob/master/LICENSE) 
