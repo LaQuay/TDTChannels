@@ -681,3 +681,4 @@
 | Latinos 1 TV | [m3u8](https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8) | [web](https://www.latinos1.tv/) | [logo](https://graph.facebook.com/televisionsuiza/picture?width=200&height=200) | - | - |
 | Otto FM Italia | [m3u8 # IT](http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8) | [web](http://ottofm.com/otto-fm-tv-limpronta-digitale-degli-anni-ottanta/) | [logo](https://graph.facebook.com/Ottotivu/picture?width=200&height=200) | - | - |
 | Spirit TV | [m3u8 # EN](https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8) | [web](https://myspirit.tv/) | [logo](https://graph.facebook.com/MySpirittv/picture?width=200&height=200) | - | - |
+| Top TV Brasil | [m3u8 # EN](https://5d23bdca513db.streamlock.net/8006/8006/master.m3u8) | [web](https://mundialcom.com.br/toptv/) | [logo](https://graph.facebook.com/Toptv.rede/picture?width=200&height=200) | - | - |
