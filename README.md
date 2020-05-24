@@ -109,21 +109,35 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Aplicaciones/Webs que consumen este repositorio
 #### Web
-- [TDTChannels](https://www.tdtchannels.com/): Soporte en Telegram. Web oficial para reproducir la lista de este proyecto.
-- [Teleonline](http://teleonline.org/)
+| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://www.tdtchannels.com	| ✔ | ✔ | ✔ | LaQuay |
+| Teleonline	| http://teleonline.org	| ❌ | ✔ | ✔ | Desconocido |
 
 #### Android
-- [TDTChannels](https://www.tdtchannels.com): Aplicación Android oficial. Soporte en Telegram. Gratuita, sin anuncios.
-- [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del repositorio. Soporte en Telegram. Gratuita, de código abierto, sin anuncios.
-- [FeedTV](https://github.com/juanro49/FeedTV): Aplicación que te permite leer noticias mediante RSS además de poder ver canales de este repositorio. Gratuita y de código abierto.
+| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://www.tdtchannels.com/android	| ✔ | ✔ | ✔ | LaQuay |
+| TDTChannels Open	| https://github.com/LaQuay/TDTChannels-APP	| ❌ | ✔ | ✔ | LaQuay |
+| FeedTV	| https://github.com/juanro49/FeedTV	| ❌ | ✔ | ✔ | [Juanro49](https://github.com/juanro49) |
 
 #### iOS
-- [TDTChannels](https://testflight.apple.com/join/rvIHQRLj) - de Jako88: Soporte en Telegram. Gratuita, sin anuncios.
-- [TDTChannels](https://github.com/Rubenfer/TDTChannels) - de [RubenApps](https://ruben.app/): Soporte en Telegram. Gratuita, de código abierto, sin anuncios. 
-- [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Soporte en Telegram. Gratuita, sin anuncios.
+| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
+| TDTChannels	| https://github.com/LaQuay/TDTChannels-APP	| ❌ | ✔ | ✔ | [RubenApps](https://ruben.app/) |
+| IPTVPlayer	| https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17	| ❌ | ✔ | ✔ | Desconocido |
+
+#### iPadOS
+| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
 
 #### macOS
-- [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels) - de [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps).
+| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
+| IPTV	| https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels	| ❌ | ✔ | ✔ | [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps) |
 
 ### Licencia del proyecto
 [LICENSE](https://github.com/LaQuay/TDTChannels/blob/master/LICENSE) 
