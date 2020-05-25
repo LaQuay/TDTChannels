@@ -38,7 +38,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
 | -	| - | - | - | - |
 | [TDTChannels](https://www.tdtchannels.com/android) | ✔ | ✔ | ✔ | [LaQuay](https://github.com/laquay) |
-| [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP)	| ❌ | ✔ | ✔ | [LaQuay](https://github.com/laquay) |
+| [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP) | ❌ | ✔ | ✔ | [LaQuay](https://github.com/laquay) |
 | [FeedTV](https://github.com/juanro49/FeedTV) | ❌ | ✔ | ✔ | [Juanro49](https://github.com/juanro49) |
 
 #### iOS
@@ -46,13 +46,13 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | -	| - | - | - | - |
 | [TDTChannels](https://tbearsoftware.es/apps/ios/tdtchannels/)	| ✔ | ✔ | ✔ | [Jako88](https://tbearsoftware.es/sobre-mi/) |
 | [TDTChannels](https://github.com/Rubenfer/TDTChannels)	| ❌ | ✔ | ✔ | [RubenApps](https://ruben.app/) |
-| IPTVPlayer | https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17	| ❌ | ✔ | ✔ | [RubenApps](https://ruben.app/) |
+| [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17)	| ❌ | ✔ | ✔ | [RubenApps](https://ruben.app/) |
 
 #### macOS
 | | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
 | -	| - | - | - | - |
 | [TDTChannels](https://tbearsoftware.es/apps/ios/tdtchannels/)	| ✔ | ✔ | ✔ | [Jako88](https://tbearsoftware.es/sobre-mi/) |
-| IPTV	| https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels	| ❌ | ✔ | ✔ | [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps) |
+| [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels)	| ❌ | ✔ | ✔ | [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps) |
 
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
