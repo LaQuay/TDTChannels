@@ -27,36 +27,31 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | **Grupo - Telegram** | [Acceder](https://t.me/tdtchannels) al grupo |
 | **Canal de Avisos - Telegram** | [Acceder](https://t.me/tdtchannels_avisos) al canal |
 
-### Aplicaciones/Webs que consumen este repositorio
+### Proyectos que utilizan esta plataforma
 #### Web
-| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| -	|:-:|:-:|:-:| - |
-| TDTChannels	| https://www.tdtchannels.com	| ✔ | ✔ | ✔ | LaQuay |
-| Teleonline	| http://teleonline.org	| ❌ | ✔ | ✔ | Desconocido |
+| | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| - | - | - | - |
+| [TDTChannels](https://www.tdtchannels.com) | ✔ | ✔ | ✔ | [LaQuay](https://github.com/laquay) |
+| [Teleonline](http://teleonline.org) | ❌ | ✔ | ✔ | - |
 
 #### Android
-| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| -	|:-:|:-:|:-:| - |
-| TDTChannels	| https://www.tdtchannels.com/android	| ✔ | ✔ | ✔ | LaQuay |
-| TDTChannels Open	| https://github.com/LaQuay/TDTChannels-APP	| ❌ | ✔ | ✔ | LaQuay |
-| FeedTV	| https://github.com/juanro49/FeedTV	| ❌ | ✔ | ✔ | [Juanro49](https://github.com/juanro49) |
+| | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| - | - | - | - |
+| [TDTChannels](https://www.tdtchannels.com/android) | ✔ | ✔ | ✔ | [LaQuay](https://github.com/laquay) |
+| [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP)	| ❌ | ✔ | ✔ | [LaQuay](https://github.com/laquay) |
+| [FeedTV](https://github.com/juanro49/FeedTV) | ❌ | ✔ | ✔ | [Juanro49](https://github.com/juanro49) |
 
 #### iOS
-| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| -	|:-:|:-:|:-:| - |
-| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
-| TDTChannels	| https://github.com/LaQuay/TDTChannels-APP	| ❌ | ✔ | ✔ | [RubenApps](https://ruben.app/) |
-| IPTVPlayer	| https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17	| ❌ | ✔ | ✔ | Desconocido |
-
-#### iPadOS
-| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| -	|:-:|:-:|:-:| - |
-| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
+| | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| - | - | - | - |
+| [TDTChannels](https://tbearsoftware.es/apps/ios/tdtchannels/)	| ✔ | ✔ | ✔ | [Jako88](https://tbearsoftware.es/sobre-mi/) |
+| [TDTChannels](https://github.com/Rubenfer/TDTChannels)	| ❌ | ✔ | ✔ | [RubenApps](https://ruben.app/) |
+| IPTVPlayer | https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17	| ❌ | ✔ | ✔ | [RubenApps](https://ruben.app/) |
 
 #### macOS
-| | Web | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| -	|:-:|:-:|:-:| - |
-| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
+| | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| - | - | - | - |
+| [TDTChannels](https://tbearsoftware.es/apps/ios/tdtchannels/)	| ✔ | ✔ | ✔ | [Jako88](https://tbearsoftware.es/sobre-mi/) |
 | IPTV	| https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels	| ❌ | ✔ | ✔ | [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps) |
 
 ### Ayuda
