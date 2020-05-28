@@ -27,6 +27,33 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | **Grupo - Telegram** | [Acceder](https://t.me/tdtchannels) al grupo |
 | **Canal de Avisos - Telegram** | [Acceder](https://t.me/tdtchannels_avisos) al canal |
 
+### Proyectos que utilizan esta plataforma
+#### Web
+| | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| - | - | - | - |
+| [TDTChannels](https://www.tdtchannels.com) | ✔ | ✔ | ✔ | [LaQuay](https://github.com/laquay) |
+| [Teleonline](http://teleonline.org) | ❌ | ✔ | ✔ | - |
+
+#### Android
+| | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| - | - | - | - |
+| [TDTChannels](https://www.tdtchannels.com/android) | ✔ | ✔ | ✔ | [LaQuay](https://github.com/laquay) |
+| [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP) | ❌ | ✔ | ✔ | [LaQuay](https://github.com/laquay) |
+| [FeedTV](https://github.com/juanro49/FeedTV) | ❌ | ✔ | ✔ | [Juanro49](https://github.com/juanro49) |
+
+#### iOS
+| | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| - | - | - | - |
+| [TDTChannels](https://tbearsoftware.es/apps/ios/tdtchannels/)	| ✔ | ✔ | ✔ | [Jako88](https://tbearsoftware.es/sobre-mi/) |
+| [TDTChannels](https://github.com/Rubenfer/TDTChannels)	| ❌ | ✔ | ✔ | [RubenApps](https://ruben.app/) |
+| [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17)	| ❌ | ✔ | ✔ | [RubenApps](https://ruben.app/) |
+
+#### macOS
+| | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
+| -	| - | - | - | - |
+| [TDTChannels](https://tbearsoftware.es/apps/ios/tdtchannels/)	| ✔ | ✔ | ✔ | [Jako88](https://tbearsoftware.es/sobre-mi/) |
+| [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels)	| ❌ | ✔ | ✔ | [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps) |
+
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
@@ -108,24 +135,6 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 *01/2018* - [Xataka Android - Nueve aplicaciones para ver la televisión gratis en un móvil Android](https://www.xatakandroid.com/aplicaciones-android/nueve-aplicaciones-para-ver-la-television-gratis-en-un-movil-android)
 
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
-
-### Aplicaciones/Webs que consumen este repositorio
-#### Web
-- [TDTChannels](https://www.tdtchannels.com/): Soporte en Telegram. Web oficial para reproducir la lista de este proyecto.
-- [Teleonline](http://teleonline.org/)
-
-#### Android
-- [TDTChannels](https://www.tdtchannels.com): Aplicación Android oficial. Soporte en Telegram. Gratuita, sin anuncios.
-- [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del repositorio. Soporte en Telegram. Gratuita, de código abierto, sin anuncios.
-- [FeedTV](https://github.com/juanro49/FeedTV): Aplicación que te permite leer noticias mediante RSS además de poder ver canales de este repositorio. Gratuita y de código abierto.
-
-#### iOS
-- [TDTChannels](https://testflight.apple.com/join/rvIHQRLj) - de Jako88: Soporte en Telegram. Gratuita, sin anuncios.
-- [TDTChannels](https://github.com/Rubenfer/TDTChannels) - de [RubenApps](https://ruben.app/): Soporte en Telegram. Gratuita, de código abierto, sin anuncios. 
-- [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Soporte en Telegram. Gratuita, sin anuncios.
-
-#### macOS
-- [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels) - de [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps).
 
 ### Licencia del proyecto
 [LICENSE](https://github.com/LaQuay/TDTChannels/blob/master/LICENSE) 
