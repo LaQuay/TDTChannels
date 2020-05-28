@@ -575,6 +575,7 @@
 | Hispan TV Iran | [m3u8](https://live.hispantv.com/live/smil:live.smil/playlist.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://graph.facebook.com/Hispantv/picture?width=200&height=200) | - | - |
 | Al Arabiya | [m3u8 # AR](https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8) | [web](https://www.alarabiya.net/ar/live-stream) | [logo](https://graph.facebook.com/AlArabiya/picture?width=200&height=200) | - | - |
 | Al Hadath | [m3u8 # AR](https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8) | [web](https://www.alarabiya.net/ar/live-stream-hadath) | [logo](https://graph.facebook.com/AlHadath/picture?width=200&height=200) | - | - |
+| Channel NewsAsia | [m3u8 # EN HD](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8) - [m3u8 # EN SD](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8) | [web](https://www.channelnewsasia.com/news/livetv) | [logo](https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200) | - | - |
 
 ## Int. Otros
 
