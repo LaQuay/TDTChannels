@@ -163,8 +163,10 @@
 | Onda Cero Málaga | [m3u8](https://livefastly-webs.ondacero.es/malaga-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/malaga/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Sevilla | [m3u8](https://livefastly-webs.ondacero.es/sevilla-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/sevilla/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [stream](https://www.lajunglaradio.com:8003/lajunglawebssl) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | - |
+| LOS40 Almería | [mp3](http://212.83.164.82:8001/40almeria.mp3) | [web](http://www.seralmeria.com/onlineradio/40almeria.html) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | LOS40 Costa de la Luz | [stream](http://5.135.183.124:8326/stream) | [web](http://www.los40costadelaluz.com/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | LOS40 Guadix | [stream](http://20873.live.streamtheworld.com:3690/LOS40_ASO_GUADIX_SC) | [web](https://cadenaser.com/emisora/radio_guadix/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
+| LOS40 Indalo | [stream](http://212.83.164.82:8011/40indalo.mp3) | [web](http://www.seralmeria.com/onlineradio/40indalo.html) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | Cadena Dial Andalucia Este | [stream](http://streaming5.elitecomunicacion.es:8226/stream) | [web](http://dialandaluciaeste.com/) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
 | Cadena Digital | [mp3](http://185.23.192.118:8006/;stream.mp3) | [web](http://www.cadenadigital.com/) | [logo](https://graph.facebook.com/CadenaDigitalMalaga/picture?width=200&height=200) | - | - |
 | Cadena Latino | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es/) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=200&height=200) | - | - |
