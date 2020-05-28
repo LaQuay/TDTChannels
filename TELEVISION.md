@@ -388,7 +388,7 @@
 | - | - | - | - | - | - |
 | Canal Extremadura | [m3u8](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8) | [web](http://www.canalextremadura.es/tv/directo) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | - |
 | Cáceres Tevé | [m3u8](https://ce2019100818001.dnssw.net/hls/ceres.m3u8) | [web](https://caceresteve.es/directo-caceres-teve/) | [logo](https://graph.facebook.com/caceresteve/picture?width=200&height=200) | - | NONAV |
-| Televisión Extremeña | - | [web](https://www.xn--televisionextremea-30b.com/television-extremena-directo/) | [logo](https://pbs.twimg.com/profile_images/1053956922523705344/7B0DTMHw_200x200.jpg) | - | - |
+| Televisión Extremeña | [youtube](https://www.youtube.com/channel/UC_jB4xEftCkAHquU8AGB4iQ/live) | [web](https://www.xn--televisionextremea-30b.com/television-extremena-directo/) | [logo](https://pbs.twimg.com/profile_images/1053956922523705344/7B0DTMHw_200x200.jpg) | - | EMB |
 
 ### Galicia
 
