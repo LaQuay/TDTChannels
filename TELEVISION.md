@@ -579,8 +579,7 @@
 | NHK World Japan | [m3u8 # EN](https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8) | [web](https://www3.nhk.or.jp/nhkworld/en/live/) | [logo](https://graph.facebook.com/nhkworld/picture?width=200&height=200) | NHK.TV | - |
 | Arirang TV Korea | [m3u8 # EN](https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8) | [web](http://www.arirang.com/player/OnAir_TV.asp) | [logo](https://graph.facebook.com/arirangtv/picture?width=200&height=200) | Arirang.TV | - |
 | Hispan TV Iran | [m3u8](https://live.hispantv.com/live/smil:live.smil/playlist.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://graph.facebook.com/Hispantv/picture?width=200&height=200) | - | - |
-| Al Arabiya | [m3u8 # AR](https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8) | [web](https://www.alarabiya.net/ar/live-stream) | [logo](https://graph.facebook.com/AlArabiya/picture?width=200&height=200) | - | - |
-| Al Hadath | [m3u8 # AR](https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8) | [web](https://www.alarabiya.net/ar/live-stream-hadath) | [logo](https://graph.facebook.com/AlHadath/picture?width=200&height=200) | - | - |
+| Al Arabiya Emiratos Árabes | [m3u8 # AR](https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8) | [web](https://www.alarabiya.net/ar/live-stream) | [logo](https://graph.facebook.com/AlArabiya/picture?width=200&height=200) | - | - |
 | Channel NewsAsia | [m3u8 # EN HD](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8) - [m3u8 # EN SD](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8) | [web](https://www.channelnewsasia.com/news/livetv) | [logo](https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200) | - | - |
 
 ## Int. Otros
