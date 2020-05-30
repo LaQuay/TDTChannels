@@ -720,6 +720,7 @@
 | Mallorca Sunshine Radio | [stream](https://stream.inselradio.com/high.sunshine.opus) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/MallorcaSunshineRadio/picture?width=200&height=200) | - | WICE |
 | Radio One Mallorca | [stream](http://80.32.132.126:8000/;) | [web](http://www.radioonemallorca.com/) | [logo](https://graph.facebook.com/RadioOneMallorca/picture?width=200&height=200) | - | - |
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com/) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=200&height=200) | - | - |
+| Isla 106 Ibiza | [aac](https://streams.isla106.com/isla106.aac) | [web](https://www.isla106.com/live) | [logo](https://graph.facebook.com/Isla106Ibiza/picture?width=200&height=200) | - | - |
 
 ### La Rioja
 
