@@ -17,7 +17,7 @@
 - David [@david-cp](https://github.com/David-cp)
 - Jacobo [@poborp](https://github.com/poborp)
 - Jorge [@jaguaza](https://github.com/jaguaza)
-- José Antonio [@nomentero](https://github.com/nomenteros)
+- José Antonio [@nomentero](https://github.com/Nomenteros)
 - Juan [@okelet](https://github.com/okelet)
 - Miguel A. [@MiguelAngel2345](https://github.com/MiguelAngel2345)
 - Ricardo [@RicardoVelaC](https://github.com/RicardoVelaC)
