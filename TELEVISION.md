@@ -515,6 +515,7 @@
 | RT News | [m3u8 # EN](https://rt-news-gd.secure2.footprint.net/1103.m3u8) - [m3u8 # EN UK](https://rt-uk-gd.secure2.footprint.net/1106.m3u8) - [m3u8 # EN USA](https://rt-usa-gd.secure2.footprint.net/1105.m3u8) - [m3u8 # FR](https://rt-france-gd.secure2.footprint.net/1107.m3u8) | [web](https://www.rt.com/on-air/) | [logo](https://graph.facebook.com/RTnews/picture?width=200&height=200) | - | - |
 | RT Documentary | [m3u8 # EN](https://rt-doc-gd.secure2.footprint.net/1101.m3u8) | [web](https://rtd.rt.com/on-air/) | [logo](https://graph.facebook.com/RTDocumentary/picture?width=200&height=200) | RTDoc.TV | - |
 | Ikono TV | [m3u8 # EN](https://58de7a369a9c4.streamlock.net/schedule/ngrp:ikono_stream_all/master.m3u8) | [web](http://www.ikonotv.art/) | [logo](https://graph.facebook.com/ikonoTV/picture?width=200&height=200) | - | - |
+| El Sembrador TV | [m3u8](https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8) | [web](https://elsembradoreuropa.com/tv-en-vivo) | [logo](https://graph.facebook.com/elsembradoresne/picture?width=200&height=200) | - | - |
 
 ## Int. América
 
@@ -536,6 +537,7 @@
 | Zee Mundo USA | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://go.zeemundo.com/canal/zee-mundo-en-vivo) | [logo](https://graph.facebook.com/zeemundo/picture?width=200&height=200) | Zee.TV | - |
 | Newsmax TV USA | [m3u8 # EN](https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8) | [web](https://www.newsmaxtv.com/) | [logo](https://graph.facebook.com/newsmax/picture?width=200&height=200) | - | - |
 | CBN USA | [m3u8](https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8) - [m3u8 # EN](https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8) | [web](https://www1.cbn.com/tv/cbn-espanol) | [logo](https://graph.facebook.com/cbnonline/picture?width=200&height=200) | - | - |
+| EWTN USA | [m3u8](https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1152x648_2000k.m3u8) - [m3u8 # EN](https://dyo5cp96eopax.cloudfront.net/p/CANE_640x360_800k.m3u8) | [web](https://www.ewtn.com/multimedia/live_player-es.asp) | [logo](https://graph.facebook.com/ewtnespanol/picture?width=200&height=200) | - | - |
 | NTN24 América | [m3u8](https://rcnhd.cdn.net.co/live04/ntn24.m3u8) | [web](https://www.ntn24.com/en-vivo/) | [logo](https://graph.facebook.com/NTN24/picture?width=200&height=200) | NTN24.TV | - |
 | Canal 6 Multimedios Mexico | [m3u8](https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8) | [web](https://www.multimedios.com/video) | [logo](https://graph.facebook.com/multimediostv/picture?width=200&height=200) | - | - |
 | Milenio Mexico | [youtube](https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live) | [web](https://www.milenio.com/mileniotv) | [logo](https://graph.facebook.com/MilenioDiario/picture?width=200&height=200) | - | EMB |
@@ -543,6 +545,7 @@
 | Canal 11 Mexico | [m3u8 # 1](https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8) - [m3u8 # 2](https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8) | [web](https://canalonce.mx/senal-internet/) | [logo](https://graph.facebook.com/CANALONCETV/picture?width=200&height=200) | - | - |
 | Mexico Travel TV | [m3u8](https://5ca9af4645e15.streamlock.net:443/mexicotravel/videomexicotravel/playlist.m3u8) | [web](https://www.mexicotravelchannel.com.mx/) | [logo](https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200) | - | - |
 | Turistik TV Mexico | [m3u8](https://liveingesta118.cdnmedia.tv/akustikmedialive/smil:live.smil/playlist.m3u8) | [web](https://turistiktv.com/inicio/) | [logo](https://graph.facebook.com/turistikmedia/picture?width=200&height=200) | - | UAGLI,NONAV |
+| María Visión Mexico | [m3u8](https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8) | [web](https://www.mariavision.com/mariavisionenvivo) | [logo](https://graph.facebook.com/mariavision/picture?width=200&height=200) | - | - |
 | Noticias Caracol Colombia | [youtube](https://www.youtube.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ/live) | [web](https://www.senalcolombia.tv/senal-en-vivo/) | [logo](https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200) | - | EMB |
 | Teleantioquia Colombia | [m3u8](http://api.new.livestream.com/accounts/9427524/events/8926151/live.m3u8) | [web](https://www.teleantioquia.co/en-vivo/) | [logo](https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200) | - | - |
 | Señal Colombia | [m3u8 # HD](https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-1500/index.m3u8) - [m3u8 # SD](https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-700/index.m3u8) | [web](https://www.senalcolombia.tv/senal-en-vivo/) | [logo](https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200) | - | - |
@@ -601,7 +604,6 @@
 | ACS Network | [m3u8](https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8) | [web](https://acsnetwork.tv/) | [logo](https://graph.facebook.com/acsnetworktv/picture?width=200&height=200) | - | - |
 | Mr Bean 24h | [youtube # EN](https://www.youtube.com/channel/UCkAGrHCLFmlK3H2kd6isipg/live) | [web](https://www.mrbean.com/) | [logo](https://graph.facebook.com/MrBean/picture?width=200&height=200) | - | EMB |
 | Rathergood LoL | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=96&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODLOL-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/lol/) | [logo](https://rathergood.co.uk/wp-content/uploads/2019/11/Capture-260x180.png) | - | - |
-| El Sembrador TV | [m3u8](https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8) | [web](https://elsembradoreuropa.com/tv-en-vivo) | [logo](https://graph.facebook.com/elsembradoresne/picture?width=200&height=200) | - | - |
 | Emmanuel TV | [m3u8 # EN](https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8) | [web](https://emmanuel.tv/es/en-vivo/) | [logo](https://graph.facebook.com/tbjoshuaespanol/picture?width=200&height=200) | - | NONAV |
 
 ## Deportivos Int.
