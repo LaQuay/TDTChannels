@@ -206,6 +206,7 @@
 | Radio Cartaya | [m3u8](http://37.187.7.106/cartayatv/live.m3u8) | [web](http://www.radiocartaya.es/) | [logo](https://graph.facebook.com/radiocartaya/picture?width=200&height=200) | - | - |
 | Antena Huelva | [stream](http://stm1.emiteonline.com:8024/antenahuelva) | [web](http://antenahuelva.com/) | [logo](https://graph.facebook.com/109385783852066/picture?width=200&height=200) | - | WICE |
 | Radiolé Costaluz | [stream](http://cervera.eldialdigital.com:8040/stream) | [web](http://radiolecostaluz.com/reproductor.html) | [logo](https://graph.facebook.com/RadioleCostaDeLaLuz/picture?width=200&height=200) | - | - |
+| Radio Rociana | [mp3](https://streaming.radiorociana.com/;stream.mp3) | [web](https://www.radiorociana.com/player) | [logo](https://graph.facebook.com/radiorociana/picture?width=200&height=200) | - | - |
 
 ### Aragón
 
