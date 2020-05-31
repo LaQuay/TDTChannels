@@ -209,6 +209,7 @@
 | Radio Rociana | [mp3](https://streaming.radiorociana.com/;stream.mp3) | [web](https://www.radiorociana.com/player) | [logo](https://graph.facebook.com/radiorociana/picture?width=200&height=200) | - | - |
 | 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](http://www.90fm.es/) | [logo](https://graph.facebook.com/90FMmalaga/picture?width=200&height=200) | - | - |
 | Radio Chipiona | [stream](http://srv01.redsanmarcos.com:8021/stream) | [web](http://www.chipionatv.com/) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | - |
+| Onda Sur Motril | [stream](http://radio.telemotril.com:8000/live) | [web](https://telemotril.com/onda-sur-107-7fm/) | [logo](https://telemotril.com/wp-content/uploads/2016/11/escucha-ondasur.png) | - | WICE |
 
 ### Aragón
 
