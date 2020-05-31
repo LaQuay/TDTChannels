@@ -643,6 +643,7 @@
 | Rock TV Romania | [m3u8 # RO](https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8) | [web](https://www.rockfm.ro/rocktv) | [logo](https://graph.facebook.com/rockfmro/picture?width=200&height=200) | - | NONAV |
 | RadioU TV | [m3u8 # EN](https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8) | [web](https://radiou.com/tv/) | [logo](https://graph.facebook.com/RadioU/picture?width=200&height=200) | - | - |
 | 4FUN TV Polonia | [m3u8 # PL](https://stream.4fun.tv:8888/hls/4f_high/index.m3u8) | [web](https://4fun.tv/) | [logo](https://graph.facebook.com/4FUN.TV/picture?width=200&height=200) | - | - |
+| Power TV Turquía | [m3u8](https://livetv.powerapp.com.tr/powertv/powerhd.smil/master.m3u8) | [web](https://www.powerapp.com.tr/tvs/power-tvs/powertv/) | [logo](https://graph.facebook.com/powerapp/picture?width=200&height=200) | - | - |
 | First Music Channel Bielorrusia | [m3u8 # 1](http://hz1.teleport.cc/HLS/HD.m3u8) - [m3u8 # 2](http://hz1.teleport.cc/HLS/SD.m3u8) | [web](http://www.1muz.com/) | [logo](https://graph.facebook.com/onemusicchannel/picture?width=200&height=200) | - | - |
 | HqM Hits | - | [web](https://hqm.es/canales/hits-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/hits-hqm-1-300x167.jpg) | - | W3U,EMB,NONAV |
 | HqM Spanish | - | [web](https://hqm.es/canales/spanish-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/spanish-hqm-300x180.jpg) | - | W3U,EMB,NONAV |
