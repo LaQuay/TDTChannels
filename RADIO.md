@@ -724,6 +724,7 @@
 | Radio One Mallorca | [stream](http://80.32.132.126:8000/;) | [web](http://www.radioonemallorca.com/) | [logo](https://graph.facebook.com/RadioOneMallorca/picture?width=200&height=200) | - | - |
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com/) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=200&height=200) | - | - |
 | Isla 106 Ibiza | [aac](https://streams.isla106.com/isla106.aac) | [web](https://www.isla106.com/live) | [logo](https://graph.facebook.com/Isla106Ibiza/picture?width=200&height=200) | - | - |
+| Ecoradio | [stream](http://radioserver7.profesionalhosting.com:8062/;stream) | [web](http://www.ecoradio.es/) | [logo](https://graph.facebook.com/ecoradio.es/picture?width=200&height=200) | - | - |
 
 ### La Rioja
 
