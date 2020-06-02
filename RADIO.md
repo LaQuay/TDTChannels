@@ -814,7 +814,6 @@
 | Onda Cero Oviedo | [w3u8](https://livefastly-webs.ondacero.es/oviedo-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/asturias/oviedo/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Carrussel FM | [mp3](http://server10.emitironline.com:8921/radio?1584744975456.mp3) | [web](http://www.carruselfm.com/) | [logo](https://graph.facebook.com/467719623356931/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [stream](https://www.lajunglaradio.com:8003/lajunglawebssl) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | - |
-| cSTRadio | [stream](http://srv3021.lcinternet.com:8012/live) | [web](http://www.cstradio.org/v_portal/apartados/apartado.asp) | [logo](http://www.colegiosantotomas.org/v_portal/inc/imagen.asp?f=icono_cstradio81.jpg&w=320&h=320&c=3) | - | - |
 | Master FM | [stream](https://radios.lamaster.es:8000/asturias) | [web](https://lamaster.es/asturias/) | [logo](https://graph.facebook.com/lamasterfm/picture?width=200&height=200) | - | - |
 | Onda Peñes | [mp3](http://5.135.183.124:9279/stream?type=.mp3) | [web](http://www.gaxarte.com/emisiononline.htm) | [logo](https://graph.facebook.com/onda.penes/picture?width=200&height=200) | - | - |
 | Radio QK | [mp3](http://34.77.177.144:8000/radioqk_master.mp3) | [web](http://www.radioqk.org/) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=200&height=200) | - | - |
@@ -822,8 +821,7 @@
 | La Corredoria Suena | [stream](https://server1.radiocast.es:8002/web) | [web](https://lacorredoriasuena.com/) | [logo](https://graph.facebook.com/LaCorredoriaSuena/picture?width=200&height=200) | - | - |
 | APQ Radio | [stream](http://stm1.emiteonline.com:8012/apqradio) | [web](http://www.apqradio.es/) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | WICE |
 | Radio Ujo | [stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | [logo](https://graph.facebook.com/radioujo/picture?width=200&height=200) | - | WICE |
-| The Box FM | [stream](http://listen128.radionomy.com/thebox) | [web](http://www.theboxfm.net/player_web/index.html) | [logo](https://graph.facebook.com/boxfmec/picture?width=200&height=200) | - | - |
-| OndaLangreo | [stream](http://37.59.121.120:10025/stream) | [web](https://ondalangreo.com/) | [logo](https://graph.facebook.com/ondalangreo/picture?width=200&height=200) | - | - |
+| OndaLangreo | [stream](https://usa3.lhdserver.es:8083/stream) | [web](https://ondalangreo.com/) | [logo](https://graph.facebook.com/ondalangreo/picture?width=200&height=200) | - | - |
 
 ### R. de Murcia
 
