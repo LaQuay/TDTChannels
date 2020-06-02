@@ -271,7 +271,6 @@
 | Radio Marca Tenerife | [stream](https://cervera.eldialdigital.com:22131/stream) | [web](https://radiomarcatenerife.com/) | [logo](https://graph.facebook.com/RadioMarcaTfe/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
 | Canal 4 Tenerife | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal4tenerife.tv/radio/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200) | - | - |
-| Radio El Día | [mp3](http://185.50.197.212:9974/;stream.mp3) | [web](https://eldia.fm/online.htm) | [logo](https://graph.facebook.com/RadioELDIA/picture?width=200&height=200) | - | - |
 | Radio ECCA | [mp3](http://audio1.ipercast.net/endirecto22.es/mp3) | [web](http://www2.radioecca.org/radio/online) | [logo](https://graph.facebook.com/RadioECCA/picture?width=200&height=200) | - | WICE |
 | Radio Guiniguada | [stream](http://185.129.248.251:9874/;) | [web](http://www.radioguiniguada.com) | [logo](https://graph.facebook.com/radioguiniguada/picture?width=200&height=200) | - | - |
 | Radio Guiniguada Internacional | [stream](http://185.129.248.251:9876/;) | [web](http://www.radioguiniguada.com) | [logo](https://graph.facebook.com/radioguiniguada/picture?width=200&height=200) | - | - |
