@@ -87,7 +87,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Sur Andalucía | [m3u8](https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8) | [web](https://www.canalsur.es/tv_directo-1193.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | CanalsurA.TV | - |
+| Canal Sur 1 Andalucía | [m3u8](https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8) | [web](https://www.canalsur.es/tv_directo-1193.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | CanalsurA.TV | - |
 | Canal Sur 2 Andalucía | [m3u8](https://eg128.tmira.com/rtvalive/canal2/playlist.m3u8) | [web](https://www.canalsur.es/tv_directo-1193.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
 | Canal Sur Eventos 1 | [m3u8](https://cdnlive.shooowit.net/rtvalive/smil:channel2.smil/playlist.m3u8) | [web](https://www.canalsur.es/portada-alternativdirecto-1272.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
 | Canal Sur Eventos 2 | [m3u8](https://cdnlive.shooowit.net/rtvalive/smil:channel3.smil/playlist.m3u8) | [web](https://www.canalsur.es/portada-alternativdirecto-1272.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
@@ -249,6 +249,7 @@
 | Canal 54 Burgos | - | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | - |
 | Televisión Aranda | [m3u8](https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8) | [web](http://www.telearanda.es/) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | NONAV |
 | TeleMedina Canal 9 | - | [web](http://www.telemedina.com/) | [logo](https://graph.facebook.com/telemedinacanal9/picture?width=200&height=200) | - | - |
+| Junta Castilla y León | [m3u8](https://secuoya-live2.flumotion.com/chunks.m3u8) | [web](http://www.jcyltv.cbmedia.es/) | [logo](https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200) | - | - |
 
 ### Cataluña
 
