@@ -87,7 +87,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Sur 1 Andalucía | [m3u8](https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8) | [web](https://www.canalsur.es/tv_directo-1193.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | CanalsurA.TV | - |
+| Canal Sur Andalucía | [m3u8](https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8) | [web](https://www.canalsur.es/tv_directo-1193.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | CanalsurA.TV | - |
 | Canal Sur 2 Andalucía | [m3u8](https://eg128.tmira.com/rtvalive/canal2/playlist.m3u8) | [web](https://www.canalsur.es/tv_directo-1193.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
 | Canal Sur Eventos 1 | [m3u8](https://cdnlive.shooowit.net/rtvalive/smil:channel2.smil/playlist.m3u8) | [web](https://www.canalsur.es/portada-alternativdirecto-1272.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
 | Canal Sur Eventos 2 | [m3u8](https://cdnlive.shooowit.net/rtvalive/smil:channel3.smil/playlist.m3u8) | [web](https://www.canalsur.es/portada-alternativdirecto-1272.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
