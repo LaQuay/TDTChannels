@@ -482,7 +482,6 @@
 | Barcelona City FM | [stream](https://s2.radio.co/sd9da54aa0/listen) | [web](http://www.barcelonacityfm.com/) | [logo](https://graph.facebook.com/barcelonacityfm/picture?width=200&height=200) | - | WICE |
 | ScannerFM | [stream](https://streaming.radio.co/s1843fc3d4/listen) | [web](https://www.scannerfm.com/) | [logo](https://graph.facebook.com/scannerFM/picture?width=200&height=200) | - | - |
 | Ràdio Amèrica Barcelona | [stream](https://s3.radio.co/sf09831a0e/listen) | [web](http://www.rab.cat/) | [logo](https://graph.facebook.com/RadioAmericaBarcelona/picture?width=200&height=200) | - | - |
-| Ona Mediterrània | [mp3](http://streaming.enantena.com:8000/onamediterrania128.mp3) | [web](http://www.onamediterrania.cat/) | [logo](https://graph.facebook.com/OnaMediterrani/picture?width=200&height=200) | - | - |
 
 ### Ceuta
 
@@ -735,6 +734,7 @@
 | Isla 106 Ibiza | [aac](https://streams.isla106.com/isla106.aac) | [web](https://www.isla106.com/live) | [logo](https://graph.facebook.com/Isla106Ibiza/picture?width=200&height=200) | - | - |
 | Ecoradio | [stream](http://radioserver7.profesionalhosting.com:8062/;stream) | [web](http://www.ecoradio.es/) | [logo](https://graph.facebook.com/ecoradio.es/picture?width=200&height=200) | - | - |
 | Titoieta Ràdio | [stream](http://195.154.33.95:8034/stream) | [web](http://www.titoieta.cat/index.php) | [logo](https://graph.facebook.com/titoieta/picture?width=200&height=200) | - | WICE |
+| Ona Mediterrània | [mp3](http://streaming.enantena.com:8000/onamediterrania128.mp3) | [web](http://www.onamediterrania.cat/) | [logo](https://graph.facebook.com/OnaMediterrani/picture?width=200&height=200) | - | - |
 
 ### La Rioja
 
