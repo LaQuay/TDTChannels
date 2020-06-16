@@ -631,6 +631,7 @@
 | TodoExitosRadio | [stream](http://stream11.shoutcastsolutions.com:9432/;) | [web](http://www.todoexitosradio.net/) | [logo](https://static.radio.es/images/broadcasts/21/69/21760/c300.png) | - | WICE |
 | Ràdio Bétera | [mp3](http://giss.tv:8001/radiobetera.mp3) | [web](http://www.radiobetera.org/) | [logo](https://graph.facebook.com/radiobetera/picture?width=200&height=200) | - | - |
 | Onda15Radio | [stream](https://radioserver11.profesionalhosting.com:59166/stream) | [web](https://www.onda15.com/) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | WICE |
+| CV Radio | [mp3](https://sonic.mediatelekom.net:10958/stream) | [web](https://www.cvradio.es/player/player.php) | [logo](https://graph.facebook.com/cvradio94.5/picture?width=200&height=200) | - | - |
 
 ### Extremadura
 
