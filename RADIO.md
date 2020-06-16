@@ -558,6 +558,9 @@
 | Emisora Municipal de Pamplona | - | [web](https://pamplona.es/radio) | [logo](https://graph.facebook.com/aytopamplona/picture?width=200&height=200) | - | - |
 | Euskalerria Irratia | [stream](http://server4.beatproducciones.com:8014/;) | [web](https://euskalerriairratia.eus/irratia/zuzenekoa) | [logo](https://graph.facebook.com/euskalerriairratia/picture?width=200&height=200) | - | - |
 | Radio Universidad de Navarra | [mp3](http://s37.myradiostream.com/8638/listen.mp3) | [web](https://www.unav.edu/radioplayer/endirecto.html) | [logo](https://graph.facebook.com/radiouniversidaddenavarra/picture?width=200&height=200) | - | - |
+| Radio Universidad de Navarra | [mp3](http://s37.myradiostream.com/8638/listen.mp3) | [web](https://www.unav.edu/radioplayer/endirecto.html) | [logo](https://graph.facebook.com/radiouniversidaddenavarra/picture?width=200&height=200) | - | - |
+| Europa Fm Ribera | [mp3](http://srv0625.lcinternet.com:8033/stream) | [web](http://www.europafmribera.com/) | [logo](https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/p960x960/71527930_121191502608523_2351177114872446976_o.jpg?_nc_cat=106&_nc_sid=85a577&_nc_ohc=j0s_8qSZTMYAX9iE4Dk&_nc_ht=scontent-cdt1-1.xx&_nc_tp=6&oh=4e553fc37747ea4bba1540ae829059c5&oe=5F1056B2) | - | - |
+
 | Trak FM Pamplona | [mp3](http://91.121.77.67:8070/;stream.mp3) | [web](http://trakfm.com/) | [logo](https://graph.facebook.com/trakfmpamplona/picture?width=200&height=200) | - | - |
 
 ### C. Valenciana
