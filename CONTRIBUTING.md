@@ -1,4 +1,4 @@
-Para hacer más sencillas las contribuciones, a continuación indico las características que deben cumplir los aportes hacia este repositorio, en la medida de lo posible. Si no te atreves a lanzarlo como _Pull Request_, puedes incluirlo como Issue, pero siempre tratando de dar la mayor información posible, y, como mínimo, enlace de _stream_ y web de procedencia.
+Para hacer más sencillas las contribuciones, a continuación indico las características que deben cumplir los aportes hacia este repositorio, en la medida de lo posible. Si no te atreves a lanzarlo como _Pull Request_, o no sabes como hacerla de forma correcta, nos puedes hacer llegar la petición mediante este [sencillo formulario](https://forms.gle/vKnKwSMcUPydyQgR9).
 
 ## Explicación de cada columna y posibles valores
 Emplazar la nueva emisión al final de su categoría, así es más sencillo para nosotros después moverlo a la posición correspondiente.
@@ -44,16 +44,10 @@ En este apartado se debería indicar la web de dónde sale el _stream_.
 No indiques nada en este campo, lo modificaremos nosotros a posterior.
 
 #### Info
-- `NONAV`: La emisión no funciona en navegadores debido a [CORS](https://developer.mozilla.org/es/docs/Web/HTTP/Access_control_CORS).
-- `EMB`: Se debe indicar cuando el enlace de stream es Youtube con path `/live`. O cuando se necesita forzar un campo de `embed`. Aplica a la app Android y a Wiseplay.
-- `REF`: La emisión se reproduce con la cabecera de referer aplicada a la web de emisión.
+- `NONAV`: La emisión no funciona en navegadores web.
 - `NOEMIT`: El canal no emite online.
 
-##### Para Wiseplay
-- `W3U`: Añadirá la web como _stream_.
-- `WICE`: Indica si el _stream_ ha de ser `"isHost": "false"`.
-
-En caso de tener más de un `TAG` de información, concatenar con comas y sin espacios.
+En caso de tener más de un `TAG` de información, concatenar con comas y sin espacios. Los demás TAGs son de administración. Si deseas conocer más, contáctanos.
 
 ### Radio
 Igual que la televisión a excepción de los formatos aceptados para la reproducción.
