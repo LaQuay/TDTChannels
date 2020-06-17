@@ -47,7 +47,7 @@ No indiques nada en este campo, lo modificaremos nosotros a posterior.
 - `NONAV`: La emisión no funciona en navegadores debido a [CORS](https://developer.mozilla.org/es/docs/Web/HTTP/Access_control_CORS).
 - `EMB`: Se debe indicar cuando el enlace de stream es Youtube con path `/live`. O cuando se necesita forzar un campo de `embed`. Aplica a la app Android y a Wiseplay.
 - `REF`: La emisión se reproduce con la cabecera de referer aplicada a la web de emisión.
-- `NONAV`: El canal no emite online.
+- `NOEMIT`: El canal no emite online.
 
 ##### Para Wiseplay
 - `W3U`: Añadirá la web como _stream_.
