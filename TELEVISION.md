@@ -511,6 +511,7 @@
 | El Sembrador TV | [m3u8](https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8) | [web](https://elsembradoreuropa.com/tv-en-vivo) | [logo](https://graph.facebook.com/elsembradoresne/picture?width=200&height=200) | - | - |
 | Enlace TV | - | [web](https://www.enlace.org/envivo/) | [logo](https://graph.facebook.com/enlacetv/picture?width=200&height=200) | - | - |
 
+
 ## Int. América
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
@@ -568,6 +569,8 @@
 | HCH Honduras | [m3u8](https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8) | [web](https://hch.tv/live/) | [logo](https://graph.facebook.com/HCHTelevisionDigital/picture?width=200&height=200) | - | - |
 | Cubavisión TV | [m3u8](https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/master.m3u8) | [web](http://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/cubavision-internacional) | [logo](https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200) | - | - |
 | TV Cultura Brasil | [m3u8 # BR](https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/master.m3u8) | [web](https://tvcultura.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=200&height=200) | - | - |
+| Santa Claus Office | [youtube](https://www.youtube.com/channel/UCNnOszJx-aLz4RMDiUsODAQ/live) | [web](https://santaclausoffice.com/santa-claus-live/) | [logo](https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/483485_463635433705433_1481615868_n.jpg?_nc_cat=110&_nc_sid=7aed08&_nc_ohc=tUMyz9oJ_V4AX_cjI3O&_nc_ht=scontent-cdt1-1.xx&oh=c078a5b47c021b50a7c308cacee6d69b&oe=5F0FE018) | - | EMB |
+
 
 ## Int. Asia
 
