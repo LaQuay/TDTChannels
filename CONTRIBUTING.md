@@ -45,12 +45,11 @@ No indiques nada en este campo, lo modificaremos nosotros a posterior.
 
 #### Info
 - `NONAV`: La emisión no funciona en navegadores debido a [CORS](https://developer.mozilla.org/es/docs/Web/HTTP/Access_control_CORS).
-- `EMB`: Se debe indicar cuando el enlace de stream es Youtube con path `/live`.
-- `REF`: La emisión se reproduce con la cabecera de referer aplicada a la web de emisión. Aplica automáticamente a la app Android y a Wiseplay. (Aún no en funcionamiento para la app Android)
+- `EMB`: Se debe indicar cuando el enlace de stream es Youtube con path `/live`. O cuando se necesita forzar un campo de `embed`. Aplica a la app Android y a Wiseplay.
+- `REF`: La emisión se reproduce con la cabecera de referer aplicada a la web de emisión.
 
 ##### Para Wiseplay
 - `W3U`: Añadirá la web como _stream_.
-- `WEMB`: Indica si el _stream_ ha de ser `"embed": "true"`, por ejemplo cuando se incluye un enlace a YouTube con `/live`.
 - `WICE`: Indica si el _stream_ ha de ser `"isHost": "false"`.
 
 En caso de tener más de un `TAG` de información, concatenar con comas y sin espacios.
