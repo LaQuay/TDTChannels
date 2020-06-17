@@ -44,11 +44,14 @@ En este apartado se debería indicar la web de dónde sale el _stream_.
 No indiques nada en este campo, lo modificaremos nosotros a posterior.
 
 #### Info
-- `W3U`: La emisión introducida en el apartado `WEB` es reproducible por _Wiseplay_. De esta forma se incluirá como _stream_ en dicha lista.
 - `NONAV`: La emisión no funciona en navegadores debido a [CORS](https://developer.mozilla.org/es/docs/Web/HTTP/Access_control_CORS).
-- `CODEC`: El canal necesita de un códec especial para ser reproducido.
-- `EMB`: Para el reproductor Web y _Wiseplay_. Indica si el _stream_ ha de ser `"embed": "true"`, por ejemplo cuando se incluye un enlace a YouTube con `/live`.
-- `WICE`: Exclusivamente para _Wiseplay_. Indica si el _stream_ ha de ser `"isHost": "false"`.
+- `EMB`: Se debe indicar cuando el enlace de stream es Youtube con path `/live`.
+- `REF`: La emisión se reproduce con la cabecera de referer aplicada a la web de emisión. Aplica automáticamente a la app Android y a Wiseplay. (Aún no en funcionamiento para la app Android)
+
+##### Para Wiseplay
+- `W3U`: Añadirá la web como _stream_.
+- `WEMB`: Indica si el _stream_ ha de ser `"embed": "true"`, por ejemplo cuando se incluye un enlace a YouTube con `/live`.
+- `WICE`: Indica si el _stream_ ha de ser `"isHost": "false"`.
 
 En caso de tener más de un `TAG` de información, concatenar con comas y sin espacios.
 
