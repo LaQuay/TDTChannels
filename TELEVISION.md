@@ -363,7 +363,7 @@
 | Canal 56 | [m3u8](https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8) | [web](https://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=200&height=200) | - | NONAV |
 | TeVe4 | [m3u8](https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8) | [web](http://teve4.es/) | [logo](https://graph.facebook.com/teve4televisio/picture?width=200&height=200) | - | NONAV |
 | Maestrat TV | [mpd](http://51.91.101.183/dash/directe-arsys.mpd) | [web](http://maestrat.tv/maestrat.tv/) | [logo](https://graph.facebook.com/maestrat.tv/picture?width=200&height=200) | - | - |
-| Univers TV | [m3u8](https://5c21f7ec1999d.streamlock.net/8092/8092/playlist.m3u8) | [web](https://www.universvalencia.es/univers-tv-en-directo/) | [logo](https://graph.facebook.com/UniversValenciaMedia/picture?width=200&height=200) | - | - |
+| Univers TV | [m3u8](https://securestream.conectarhosting.com:8080/hls/universvalencia/1_2/index.m3u8) | [web](https://www.universvalencia.es/univers-tv-en-directo/) | [logo](https://graph.facebook.com/UniversValenciaMedia/picture?width=200&height=200) | - | - |
 | Elche 7 TV | [m3u8](http://154.60.248.32/hls/canal1.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://graph.facebook.com/Elche7Tv/picture?width=200&height=200) | - | - |
 | Tele Sagunto | [m3u8](https://5940924978228.streamlock.net/Directo1_1/smil:Directo1_1.smil/playlist.m3u8) | [web](https://telesagunto.com/directo) | [logo](https://graph.facebook.com/TeleSagunto/picture?width=200&height=200) | - | - |
 | Onda 15 TV | [m3u8](https://5b38ce71f1f00.streamlock.net/8028/8028/master.m3u8) | [web](https://onda15.es/) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
