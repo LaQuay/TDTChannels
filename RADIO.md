@@ -192,7 +192,7 @@
 | Radio Oro Marbella | [mp3](http://185.23.192.118:8004/;stream.mp3) | [web](http://www.radiooro.es/) | [logo](https://graph.facebook.com/189831851070928/picture?width=200&height=200) | - | - |
 | Radio Oro Málaga | [mp3](http://185.23.192.118:8002/;stream.mp3) | [web](http://www.radiooro.es/) | [logo](https://graph.facebook.com/189831851070928/picture?width=200&height=200) | - | - |
 | Radio Planeta | [stream](https://radioplaneta.emitironline.com/) | [web](https://www.radioplaneta.com/#) | [logo](https://graph.facebook.com/RadioPlaneta92.8/picture?width=200&height=200) | - | WICE |
-| Radio Poniente | [pls](http://94.23.85.189:7855/;listen.pls) | [web](https://www.radioponiente.com/) | [logo](https://graph.facebook.com/radioponientedeportes/picture?width=200&height=200) | - | - |
+| Radio Poniente | [pls](https://broadcast.radioponiente.org:8036/;listen.pls) | [web](https://www.radioponiente.com/) | [logo](https://graph.facebook.com/radioponientedeportes/picture?width=200&height=200) | - | - |
 | Radio Sierra | [stream](http://srv01.redsanmarcos.com:8000/stream) | [web](http://www.radiosierra.es/) | [logo](https://graph.facebook.com/RadioSierraFM/picture?width=200&height=200) | - | WICE |
 | Radio Martos | [stream](http://streaming6.elitecomunicacion.es:8234/;) | [web](http://www.radiomartos.com/radioplayer.html) | [logo](https://graph.facebook.com/radiomartos/picture?width=200&height=200) | - | - |
 | Radio Luz | [mp3](http://ns100.emisionlocal.com:8022/;stream.mp3) | [web](http://www.fmradioluz.com/) | [logo](https://graph.facebook.com/fmradioluz/picture?width=200&height=200) | - | - |
@@ -525,7 +525,7 @@
 | OMC Radio | [stream](https://cervera.eldialdigital.com:25131/stream) | [web](https://www.omcradio.org/escuchanos/) | [logo](https://graph.facebook.com/OmcRadio/picture?width=200&height=200) | - | WICE |
 | Onda Polígono | [stream](http://marconi.eldialdigital.com:6230/;) | [web](http://www.ondapoligono.org/) | [logo](https://graph.facebook.com/ondapoligono/picture?width=200&height=200) | - | - |
 | Radio Almenara | [stream](http://185.50.197.212:9986/;) | [web](http://www.radioalmenara.net/) | [logo](https://graph.facebook.com/RadioAlmenara/picture?width=200&height=200) | - | - |
-| Radio Cigüeña | [pls](https://streamserver2.radioproducciones.com:2199/tunein/sd0211a.pls) | [web](http://www.radiociguena.org/) | [logo](https://graph.facebook.com/297157036138/picture?width=200&height=200) | - | - |
+| Radio Cigüeña | [stream](https://cervera.eldialdigital.com:25171/stream) | [web](http://www.radiociguena.org/) | [logo](https://graph.facebook.com/297157036138/picture?width=200&height=200) | - | WICE |
 | Radio Enlace | [stream](https://cervera.eldialdigital.com:25121/stream) | [web](http://www.radioenlace.org/) | [logo](https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200) | - | WICE |
 | Radio Fuga | [stream](http://radiogestion.com:7090/radiofuga) | [web](http://radio-fuga.com/escuchanosaqui/) | [logo](https://graph.facebook.com/RadioFuga/picture?width=200&height=200) | - | WICE |
 | Radio Jabato | - | [web](https://www.ivoox.com/escuchar-radio-jabato_nq_219448_1.html) | [logo](https://graph.facebook.com/RadioJabato/picture?width=200&height=200) | - | - |
