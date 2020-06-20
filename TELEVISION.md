@@ -356,7 +356,7 @@
 | Televisión de San Vicente | [m3u8](http://134.255.215.122:8080/hls/livealacarta.m3u8) | [web](http://alacarta.televisiondesanvicente.es/endirecto/) | [logo](https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200) | - | - |
 | TV 4 Vall Uxó | [m3u8](https://common01.todostreaming.es/live/tarson-livestream.m3u8) | [web](https://teve4lavall.com/) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=200&height=200) | - | - |
 | Información TV | [m3u8](http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/master.m3u8) | [web](http://www.informaciontv.es/) | [logo](https://graph.facebook.com/103588046375790/picture?width=200&height=200) | - | - |
-| Burriana TV | - | [web](https://www.burrianateve.com/burrianateve-en-directe/) | [logo](https://graph.facebook.com/burrianateve/picture?width=200&height=200) | - | W3U,EMB |
+| Burriana TV | - | [web](https://www.burrianateve.com/burrianateve-en-directe/) | [logo](https://graph.facebook.com/burrianateve/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | telesafor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](http://telesafor.com) | [logo](https://graph.facebook.com/Tele7Safor/picture?width=200&height=200) | - | - |
 | TV Vega Baja | [m3u8](https://streaming.tvt-datos.es:8080/hls/tvb/live.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | - |
 | Canal 56 | [m3u8](https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8) | [web](https://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=200&height=200) | - | NONAV |
