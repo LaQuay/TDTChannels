@@ -45,7 +45,7 @@ No indiques nada en este campo, lo modificaremos nosotros a posterior.
 
 #### Info
 - `NONAV`: La emisión no funciona en navegadores web.
-- `NOEMIT`: El canal no emite online.
+- `NOEM`: El canal no emite online.
 
 En caso de tener más de un `TAG` de información, concatenar con comas y sin espacios. Los demás TAGs son de administración. Si deseas conocer más, contáctanos.
 
