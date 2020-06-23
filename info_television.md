@@ -1,59 +1,67 @@
-# Canales de Televisión
+# Estado de los canales de televisión
+
+- ✔ -> Funcionando
+- web -> Enlace disponible para ver mediante navegador web
+- ❌ -> No funciona
+- \- -> Desconocido
+
+En la tabla, Android significa TDTChannels Android, y TDTChannels iOS para el caso iOS. Cualquier otro reproductor, 
+bajo el sistema operativo que sea, es considerado m3u/m3u8 (Salvo Wiseplay).
 
 ## Nacionales
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| La 1 | - | - | - | - | - | - | - |
-| La 2 | - | - | - | - | - | - | - |
-| Antena 3 | - | - | - | - | - | - | - |
-| Cuatro | - | - | - | - | - | - | - |
-| Telecinco | - | - | - | - | - | - | - |
-| laSexta | - | - | - | - | - | - | - |
-| Neox | - | - | - | - | - | - | - |
-| Nova | - | - | - | - | - | - | - |
-| Mega | - | - | - | - | - | - | - |
-| Atreseries | - | - | - | - | - | - | - |
-| FDF | - | - | - | - | - | - | - |
-| Energy | - | - | - | - | - | - | - |
-| Divinity | - | - | - | - | - | - | - |
-| Be Mad | - | - | - | - | - | - | - |
-| Paramount Network | - | - | - | - | - | - | - |
-| TRECE | - | - | - | - | - | - | - |
-| El Toro TV | - | - | - | - | - | - | - |
-| mtmad 24h | - | - | - | - | - | - | - |
-| Ten | - | - | - | - | - | - | - |
-| DMAX | - | - | - | - | - | - | - |
-| DKISS | - | - | - | - | - | - | - |
+| La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Antena 3 | web | web | web | ❌ | ❌ | web | Emisiones Geolocalizadas a España |
+| Cuatro | web | web | web | ❌ | ❌ | web | - |
+| Telecinco | web | web | web | ❌ | ❌ | web | - |
+| laSexta | web | web | web | ❌ | ❌ | web | Emisiones Geolocalizadas a España |
+| Neox | web | web | web | ❌ | ❌ | web | Emisiones Geolocalizadas a España |
+| Nova | web | web | web | ❌ | ❌ | web | Emisiones Geolocalizadas a España |
+| Mega | web | web | web | ❌ | ❌ | web | Emisiones Geolocalizadas a España |
+| Atreseries | web | web | web | ❌ | ❌ | web | Emisiones Geolocalizadas a España |
+| FDF | web | web | web | ❌ | ❌ | web | - |
+| Energy | web | web | web | ❌ | ❌ | web | - |
+| Divinity | web | web | web | ❌ | ❌ | web | - |
+| Be Mad | web | web | web | ❌ | ❌ | web | - |
+| Paramount Network | ✔ | ❌ | ❌ | ✔ | ❌ | ✔ | Trabajando para recuperar el funcionamiento en Android |
+| TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| mtmad 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Ten | web | web | web | ❌ | ❌ | web | - |
+| DMAX | web | web | web | ❌ | ❌ | web | - |
+| DKISS | web | web | web | ❌ | ❌ | web | - |
 
 ## Informativos
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| 24h | - | - | - | - | - | - | - |
-| Nius | - | - | - | - | - | - | - |
-| El País | - | - | - | - | - | - | - |
-| La Vanguardia | - | - | - | - | - | - | - |
-| EuropaPress TV | - | - | - | - | - | - | - |
-| Agencia EFE | - | - | - | - | - | - | - |
-| Libertad Digital TV | - | - | - | - | - | - | - |
+| 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Nius | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El País | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| La Vanguardia | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| EuropaPress TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Agencia EFE | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Libertad Digital TV | web | web | web | ❌ | ❌ | ✔ | - |
 
 ## Deportivos
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Teledeporte | - | - | - | - | - | - | - |
-| GOL | - | - | - | - | - | - | - |
-| Fight Time | - | - | - | - | - | - | - |
-| RealMadrid TV | - | - | - | - | - | - | - |
-| Barça TV | - | - | - | - | - | - | - |
-| Sevilla TV | - | - | - | - | - | - | - |
-| Betis TV | - | - | - | - | - | - | - |
-| UD Las Palmas TV | - | - | - | - | - | - | - |
-| Cádiz CF TV | - | - | - | - | - | - | - |
-| MARCA | - | - | - | - | - | - | - |
-| La Liga Santander | - | - | - | - | - | - | - |
-| El 10 del Barça | - | - | - | - | - | - | - |
+| Teledeporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Algunas emisiones son Geolocalizadas |
+| GOL | web | web | web | ❌ | ❌ | ✔ | - |
+| Fight Time | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - |
+| RealMadrid TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Barça TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No existe emision online |
+| Sevilla TV | web | web | web | ❌ | ❌ | ❌ | Emiten en su web, bajo registro |
+| Betis TV | web | web | web | ❌ | ❌ | web | - |
+| UD Las Palmas TV | ✔ | ✔ | web | ✔ | ✔ | ✔ | - |
+| Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| MARCA | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| La Liga Santander | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| El 10 del Barça | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | Emisión diaria a las 21 - 23h |
 
 ## Infantiles
 
