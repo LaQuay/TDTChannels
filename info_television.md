@@ -3,10 +3,11 @@
 - ✔ -> Funcionando
 - web -> Enlace disponible para ver mediante navegador web
 - ❌ -> No funciona
-- \- -> Desconocido
+- ➖ -> Desconocido
+- ❗ -> Problemas reportados.
 
-En la tabla, Android significa TDTChannels Android, y TDTChannels iOS para el caso iOS. Cualquier otro reproductor, 
-bajo el sistema operativo que sea, es considerado m3u/m3u8 (Salvo Wiseplay).
+En la tabla, Android y iOS significan TDTChannels Android y TDTChannels iOS, las aplicaciones oficiales del proyecto.
+Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3u/m3u8 (Salvo Wiseplay).
 
 ## Nacionales
 
@@ -26,7 +27,7 @@ bajo el sistema operativo que sea, es considerado m3u/m3u8 (Salvo Wiseplay).
 | Energy | web | web | web | ❌ | ❌ | web | - |
 | Divinity | web | web | web | ❌ | ❌ | web | - |
 | Be Mad | web | web | web | ❌ | ❌ | web | - |
-| Paramount Network | ✔ | ❌ | ❌ | ✔ | ❌ | ✔ | Trabajando para recuperar el funcionamiento en Android |
+| Paramount Network | ✔❗ | web | web | ✔❗ | ❌ | ✔ | Trabajando para recuperar el funcionamiento en Android |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | mtmad 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -52,7 +53,6 @@ bajo el sistema operativo que sea, es considerado m3u/m3u8 (Salvo Wiseplay).
 | - | - | - | - | - | - | - | - |
 | Teledeporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Algunas emisiones son Geolocalizadas |
 | GOL | web | web | web | ❌ | ❌ | ✔ | - |
-| Fight Time | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - |
 | RealMadrid TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Barça TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No existe emision online |
 | Sevilla TV | web | web | web | ❌ | ❌ | ❌ | Emiten en su web, bajo registro |
@@ -62,16 +62,17 @@ bajo el sistema operativo que sea, es considerado m3u/m3u8 (Salvo Wiseplay).
 | MARCA | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
 | La Liga Santander | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
 | El 10 del Barça | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | Emisión diaria a las 21 - 23h |
+| Fight Time | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No existe emision online |
 
 ## Infantiles
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Boing | - | - | - | - | - | - | - |
-| Clan | - | - | - | - | - | - | - |
-| Pocoyó | - | - | - | - | - | - | - |
-| Warner Bros Kids | - | - | - | - | - | - | - |
-| Little Baby Bum | - | - | - | - | - | - | - |
+| Boing | web | web | web | ❌ | ❌ | web | - |
+| Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Pocoyó | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Warner Bros Kids | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Little Baby Bum | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
 
 ## Eventuales
 
