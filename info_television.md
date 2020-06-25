@@ -104,73 +104,73 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal Sur 1 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 2 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur Eventos 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía | - | - | - | - | - | - | - |
-| 7TV Andalucía - Algeciras | - | - | - | - | - | - | - |
-| 7TV Andalucía - Almería | - | - | - | - | - | - | - |
-| 7TV Andalucía - Bahía | - | - | - | - | - | - | - |
-| 7TV Andalucía - Córdoba | - | - | - | - | - | - | - |
-| 7TV Andalucía - Costa Noroeste | - | - | - | - | - | - | - |
-| 7TV Andalucía - Granada | - | - | - | - | - | - | - |
-| 7TV Andalucía - Huelva | - | - | - | - | - | - | - |
-| 7TV Andalucía - Jaen | - | - | - | - | - | - | - |
-| 7TV Andalucía - Jerez | - | - | - | - | - | - | - |
-| 7TV Andalucía - Málaga | - | - | - | - | - | - | - |
-| 7TV Andalucía - Marbella | - | - | - | - | - | - | - |
-| 7TV Andalucía - Sevilla | - | - | - | - | - | - | - |
-| 7TV Andalucía - Sierra | - | - | - | - | - | - | - |
-| 101TV Málaga | - | - | - | - | - | - | - |
-| El Correo de Andalucía | - | - | - | - | - | - | - |
-| Jerez Televisión | - | - | - | - | - | - | - |
-| Onda Cádiz | - | - | - | - | - | - | - |
-| Mijas 3.40 TV | - | - | - | - | - | - | - |
-| Canal 45 TV | - | - | - | - | - | - | - |
-| Córdoba TV | - | - | - | - | - | - | - |
-| PTV Málaga | - | - | - | - | - | - | - |
-| M95 Marbella | - | - | - | - | - | - | - |
-| Canal Sierra de Cádiz | - | - | - | - | - | - | - |
-| Huelva TV | - | - | - | - | - | - | - |
-| Costa Noroeste TV | - | - | - | - | - | - | - |
-| Condavisión | - | - | - | - | - | - | - |
-| Teleonuba | - | - | - | - | - | - | - |
-| CanalCosta | - | - | - | - | - | - | - |
-| Interalmería TV | - | - | - | - | - | - | - |
-| TV Centro Andalucía | - | - | - | - | - | - | - |
-| Lebrija TV | - | - | - | - | - | - | - |
-| Más Jerez | - | - | - | - | - | - | - |
-| 8 Cádiz | - | - | - | - | - | - | - |
-| 8 La Janda | - | - | - | - | - | - | - |
-| 8 Jerez | - | - | - | - | - | - | - |
-| Uvitel TV | - | - | - | - | - | - | - |
-| Canal San Roque | - | - | - | - | - | - | - |
-| Onda Algeciras TV | - | - | - | - | - | - | - |
-| Estepona TV | - | - | - | - | - | - | - |
-| OndaMezquita TV | - | - | - | - | - | - | - |
-| Onda Jerez TV | - | - | - | - | - | - | - |
-| Canal Doñana | - | - | - | - | - | - | - |
-| TG7 | - | - | - | - | - | - | - |
-| Axarquía TV | - | - | - | - | - | - | - |
-| Málaga 24h TV | - | - | - | - | - | - | - |
-| Más TV Huelva | - | - | - | - | - | - | - |
-| Villafranca TV | - | - | - | - | - | - | - |
-| Torrevisión | - | - | - | - | - | - | - |
-| Diez TV | - | - | - | - | - | - | - |
-| RTV Tarifa | - | - | - | - | - | - | - |
-| Marbella TV | - | - | - | - | - | - | - |
-| Cadena Elite Granada | - | - | - | - | - | - | - |
-| Montilla Televisión | - | - | - | - | - | - | - |
-| 9 la Loma TV | - | - | - | - | - | - | - |
-| CostadelSol TV | - | - | - | - | - | - | - |
-| PTV Córdoba | - | - | - | - | - | - | - |
-| SalTV | - | - | - | - | - | - | - |
-| Granada Channel 1 | - | - | - | - | - | - | - |
-| Canal Málaga | - | - | - | - | - | - | - |
-| 101TV Antequera | - | - | - | - | - | - | - |
-| Fuengirola TV | - | - | - | - | - | - | - |
-| TVM Córdoba | - | - | - | - | - | - | - |
-| Tele Gilena | - | - | - | - | - | - | - |
-| Cancionero TV | - | - | - | - | - | - | - |
-| Canal Coín | - | - | - | - | - | - | - |
-| Trebujena TV | - | - | - | - | - | - | - |
+| 7TV Andalucía | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Algeciras | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Almería | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Bahía | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Córdoba | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Costa Noroeste | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Granada | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Huelva | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Jaen | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Jerez | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Málaga | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Marbella | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Sevilla | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Sierra | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Correo de Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Jerez Televisión | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Onda Cádiz | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 45 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Córdoba TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| PTV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Huelva TV | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Costa Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Condavisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Teleonuba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CanalCosta | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Interalmería TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Centro Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Lebrija TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Más Jerez | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| 8 Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 8 La Janda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 8 Jerez | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Uvitel TV | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Canal San Roque | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Onda Algeciras TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| OndaMezquita TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Onda Jerez TV | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TG7 | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Axarquía TV | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Málaga 24h TV | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Más TV Huelva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Villafranca TV | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Diez TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTV Tarifa | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cadena Elite Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Montilla Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| SalTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Granada Channel 1 | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tele Gilena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Trebujena TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Aragón
 
