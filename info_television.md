@@ -4,10 +4,10 @@
 - web -> Enlace disponible para ver mediante navegador web
 - ❌ -> No funciona
 - ➖ -> Desconocido
-- ❗ -> Problemas reportados.
+- ❗ -> Problemas reportados
 
-En la tabla, Android y iOS significan TDTChannels Android y TDTChannels iOS, las aplicaciones oficiales del proyecto.
-Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3u/m3u8 (Salvo Wiseplay).
+Android y iOS significan TDTChannels Android y TDTChannels iOS, aplicaciones oficiales del proyecto.
+Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3u/m3u8 (Salvo Wiseplay, W3U).
 
 ## Nacionales
 
@@ -27,7 +27,7 @@ Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3
 | Energy | web | web | web | ❌ | ❌ | web | - |
 | Divinity | web | web | web | ❌ | ❌ | web | - |
 | Be Mad | web | web | web | ❌ | ❌ | web | - |
-| Paramount Network | ✔❗ | web | web | ✔❗ | ❌ | ✔ | Trabajando para recuperar el funcionamiento en Android |
+| Paramount Network | ✔❗ | web | web | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | mtmad 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -61,8 +61,8 @@ Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MARCA | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
 | La Liga Santander | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
-| El 10 del Barça | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | Emisión diaria a las 21 - 23h |
-| Fight Time | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No existe emision online |
+| El 10 del Barça | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | Emisión diaria entre las 21 - 23h |
+| Fight Time | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No existe emisión online |
 
 ## Infantiles
 
