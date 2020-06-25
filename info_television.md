@@ -1,7 +1,7 @@
 # Estado de los canales de televisión
 
 - ✔ -> Funcionando
-- web -> Enlace disponible para ver mediante navegador web
+- 🌐 -> Enlace disponible para ver mediante navegador web
 - ❌ -> No funciona
 - ➖ -> Desconocido
 - ❗ -> Problemas reportados
@@ -15,25 +15,25 @@ Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3
 | - | - | - | - | - | - | - | - |
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Antena 3 | web | web | web | ❌ | ❌ | web | Emisiones Geolocalizadas a España |
-| Cuatro | web | web | web | ❌ | ❌ | web | - |
-| Telecinco | web | web | web | ❌ | ❌ | web | - |
-| laSexta | web | web | web | ❌ | ❌ | web | Emisiones Geolocalizadas a España |
-| Neox | web | web | web | ❌ | ❌ | web | Emisiones Geolocalizadas a España |
-| Nova | web | web | web | ❌ | ❌ | web | Emisiones Geolocalizadas a España |
-| Mega | web | web | web | ❌ | ❌ | web | Emisiones Geolocalizadas a España |
-| Atreseries | web | web | web | ❌ | ❌ | web | Emisiones Geolocalizadas a España |
-| FDF | web | web | web | ❌ | ❌ | web | - |
-| Energy | web | web | web | ❌ | ❌ | web | - |
-| Divinity | web | web | web | ❌ | ❌ | web | - |
-| Be Mad | web | web | web | ❌ | ❌ | web | - |
-| Paramount Network | ✔❗ | web | web | ✔❗ | ❌ | ✔ | - |
+| Antena 3 | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Cuatro | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Telecinco | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| laSexta | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Neox | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Nova | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Mega | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Atreseries | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| FDF | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Energy | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Divinity | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Be Mad | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Paramount Network | ✔❗ | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | mtmad 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Ten | web | web | web | ❌ | ❌ | web | - |
-| DMAX | web | web | web | ❌ | ❌ | web | - |
-| DKISS | web | web | web | ❌ | ❌ | web | - |
+| Ten | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| DMAX | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| DKISS | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
 
 ## Informativos
 
@@ -45,19 +45,19 @@ Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3
 | La Vanguardia | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
 | EuropaPress TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Agencia EFE | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
-| Libertad Digital TV | web | web | web | ❌ | ❌ | ✔ | - |
+| Libertad Digital TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 
 ## Deportivos
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
 | Teledeporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Algunas emisiones son Geolocalizadas |
-| GOL | web | web | web | ❌ | ❌ | ✔ | - |
+| GOL | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | RealMadrid TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Barça TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No existe emision online |
-| Sevilla TV | web | web | web | ❌ | ❌ | ❌ | Emiten en su web, bajo registro |
-| Betis TV | web | web | web | ❌ | ❌ | web | - |
-| UD Las Palmas TV | ✔ | ✔ | web | ✔ | ✔ | ✔ | - |
+| Sevilla TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | Emiten en su web, bajo registro |
+| Betis TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| UD Las Palmas TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MARCA | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
 | La Liga Santander | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
@@ -68,7 +68,7 @@ Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Boing | web | web | web | ❌ | ❌ | web | - |
+| Boing | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
 | Warner Bros Kids | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
@@ -76,22 +76,23 @@ Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3
 
 ## Eventuales
 
+Estos canales emiten a ciertas horas del día, únicamente. Están especializados en transmitir eventos.
+
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| +24 | - | - | - | - | - | - | - |
-| +tdp | - | - | - | - | - | - | - |
-| Atresplayer 1 | - | - | - | - | - | - | - |
-| Atresplayer 2 | - | - | - | - | - | - | - |
-| Atresplayer 3 | - | - | - | - | - | - | - |
-| Canal Parlamento | - | - | - | - | - | - | - |
-| Congreso de los Diputados | - | - | - | - | - | - | - |
-| La Moncloa (Presidente) | - | - | - | - | - | - | - |
-| La Moncloa (Ministros) | - | - | - | - | - | - | - |
-| playz | - | - | - | - | - | - | - |
-| Radio Nacional | - | - | - | - | - | - | - |
-| Radio 3 | - | - | - | - | - | - | - |
-| Radio 5 | - | - | - | - | - | - | - |
-| Del 40 al 1 | - | - | - | - | - | - | - |
+| +24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| +tdp | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Atresplayer 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Atresplayer 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Atresplayer 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La Moncloa (Presidente) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La Moncloa (Ministros) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Radio Nacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Radio 5 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Del 40 al 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Autonómicos
 
@@ -99,10 +100,10 @@ Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Canal Sur Andalucía | - | - | - | - | - | - | - |
-| Canal Sur 1 Andalucía | - | - | - | - | - | - | - |
-| Canal Sur 2 Andalucía | - | - | - | - | - | - | - |
-| Canal Sur Eventos 1 | - | - | - | - | - | - | - |
+| Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Sur 1 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Sur 2 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Sur Eventos 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía | - | - | - | - | - | - | - |
 | 7TV Andalucía - Algeciras | - | - | - | - | - | - | - |
 | 7TV Andalucía - Almería | - | - | - | - | - | - | - |
