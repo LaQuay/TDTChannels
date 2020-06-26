@@ -569,14 +569,18 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TeleSUR Venezuela | - | - | - | - | - | - | - |
 | Globovision Venezuela | - | - | - | - | - | - | - |
 | Venezolana de Televisión | - | - | - | - | - | - | - |
+| VPI TV Venezuela | - | - | - | - | - | - | - |
+| La Tele Tuya Venezuela | - | - | - | - | - | - | - |
 | 24h Chile | - | - | - | - | - | - | - |
 | TELE13 Chile | - | - | - | - | - | - | - |
 | TC TV Ecuador | - | - | - | - | - | - | - |
+| TeleAmazonas Ecuador | - | - | - | - | - | - | - |
 | Ecuador TV | - | - | - | - | - | - | - |
 | Bolivia 7.1 TV | - | - | - | - | - | - | - |
 | Bolivia 7.2 TV | - | - | - | - | - | - | - |
-| HCH Honduras | - | - | - | - | - | - | - |
 | Cubavisión TV | - | - | - | - | - | - | - |
+| Trece Paraguay | - | - | - | - | - | - | - |
+| HCH Honduras | - | - | - | - | - | - | - |
 | TV Cultura Brasil | - | - | - | - | - | - | - |
 
 ## Int. Asia
@@ -651,6 +655,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RadioU TV | - | - | - | - | - | - | - |
 | 4FUN TV Polonia | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - |
+| ON TV Portugal | - | - | - | - | - | - | - |
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - |
 | HqM Hits | - | - | - | - | - | - | - |
 | HqM Spanish | - | - | - | - | - | - | - |
