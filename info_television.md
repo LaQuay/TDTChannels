@@ -1,11 +1,11 @@
 # Estado de los canales de televisión
 
-- ✔ -> Funcionando
-- 🌐 -> Disponible mediante navegador web
-- ▶ -> Disponible de forma embebida (YouTube, Vimeo, Twitch, ...)
-- ❌ -> No funciona
-- ➖ -> Desconocido
-- ❗ -> Problemas reportados
+- ✔ → Funcionando
+- 🌐 → Disponible mediante navegador web
+- ▶ → Disponible de forma embebida (YouTube, Vimeo, Twitch, ...)
+- ❌ → No funciona
+- ➖ → Desconocido
+- ❗ → Problemas reportados
 
 Android y iOS significan TDTChannels Android y TDTChannels iOS, aplicaciones oficiales del proyecto.
 Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W3U).
@@ -177,38 +177,37 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Aragón TV | - | - | - | - | - | - | - |
-| Aragón Deporte | - | - | - | - | - | - | - |
-| Huesca TV | - | - | - | - | - | - | - |
-| Calamocha TV | - | - | - | - | - | - | - |
-| La Tele TV | - | - | - | - | - | - | - |
-| Canal 25 Barbastro TV | - | - | - | - | - | - | - |
-| Canal 15tv Zaragoza | - | - | - | - | - | - | - |
-| La8Zaragoza | - | - | - | - | - | - | - |
+| Aragón TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Aragón Deporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emiten eventualmente |
+| Huesca TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Calamocha TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| La Tele TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Canal 25 Barbastro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 15tv Zaragoza | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 
 ### Canarias
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Televisión Canaria | - | - | - | - | - | - | - |
-| GranCanariaTV.com | - | - | - | - | - | - | - |
-| Mírame TV | - | - | - | - | - | - | - |
-| La 1 Canarias | - | - | - | - | - | - | - |
-| La 2 Canarias | - | - | - | - | - | - | - |
-| 24h Canarias | - | - | - | - | - | - | - |
-| Canal 4 Tenerife | - | - | - | - | - | - | - |
-| Tindaya TV | - | - | - | - | - | - | - |
-| Biosfera TV | - | - | - | - | - | - | - |
-| Noroeste Televisión | - | - | - | - | - | - | - |
-| NORTEvisión | - | - | - | - | - | - | - |
-| Este Canal TV | - | - | - | - | - | - | - |
-| RTV Mogán | - | - | - | - | - | - | - |
-| Canal 10 TV | - | - | - | - | - | - | - |
-| Canal 13 | - | - | - | - | - | - | - |
-| Radio Gigante | - | - | - | - | - | - | - |
-| Canal 4 TV | - | - | - | - | - | - | - |
-| Ahora TV | - | - | - | - | - | - | - |
-| Lancelot TV | - | - | - | - | - | - | - |
+| Televisión Canaria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| GranCanariaTV.com | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Mírame TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 1 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 2 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 24h Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tindaya TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Este Canal TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 10 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Radio Gigante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Cantabria
 
