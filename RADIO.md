@@ -402,7 +402,7 @@
 | Mortal FM | [stream](http://server2.20comunicacion.com:8044/stream) | [web](http://www.mortalfm.es/online) | [logo](https://graph.facebook.com/mortalfm/picture?width=200&height=200) | - | - |
 | Radio Valdivielso | - | [web](http://radiovaldivielso.es) | [logo](https://static-1.ivoox.com/canales/2/5/6/3/5141470913652_XXL.jpg) | - | - |
 | Vive! Radio | [m3u8](https://nws.nice264.com/ilive/vr1/vr1_0692e02dc1baa5e2ede853398fa639fe/playlist.m3u8) - [m3u8](https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/playlist.m3u8) | [web](http://www.viveradio.es/ReproductorLive.aspx) | [logo](https://graph.facebook.com/158974217473244/picture?width=200&height=200) | - | - |
-| Radio Universitaria León | [m3u # 1](http://radio.unileon.es:8000/radio-unileon-320.m3u) - [m3u # 2](http://radio.unileon.es:8000/radio-unileon-320.m3u) | [web](https://servicios.unileon.es/radio-universitaria/) | [logo](https://graph.facebook.com/unileon/picture?width=200&height=200) | - | - |
+| Radio Universitaria León | [stream # 1](http://radio.unileon.es:8000/radio-unileon-320) - [stream # 2](http://radio.unileon.es:8000/radio-unileon-192) | [web](https://servicios.unileon.es/radio-universitaria/) | [logo](https://graph.facebook.com/unileon/picture?width=200&height=200) | - | WICE |
 | Radio Guardo | [stream](http://server10.emitironline.com:10654/radi) | [web](http://radioguardoamgu.org/) | [logo](https://graph.facebook.com/RadioGuardo/picture?width=200&height=200) | - | - |
 
 ### Cataluña
