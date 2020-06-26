@@ -539,6 +539,8 @@
 | Espacio 4 FM | [stream](http://radiogestion.com:7003/mount3) | [web](https://www.espacio4fm.com/) | [logo](https://graph.facebook.com/Espacio4Fm/picture?width=200&height=200) | - | WICE |
 | Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com/) | [logo](https://graph.facebook.com/Radio4GOficial/picture?width=200&height=200) | - | - |
 | Canora Radio | [mp3](http://s8.streammonster.com:8335/stream) | [web](http://www.canora.es/) | [logo](https://graph.facebook.com/31116475535/picture?width=200&height=200) | - | WICE |
+| Qué Radio | [mp3](http://radioserver9.profesionalhosting.com:59622/;.mp3) | [web](https://queradio.com/) | [logo](https://graph.facebook.com/Que.es/picture?width=200&height=200) | - | - |
+| Radio Ya | [stream](https://s20.prositel.net:9085/RadioYA) | [web](https://www.radioya.es/) | [logo](https://graph.facebook.com/radioya.es/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
 
