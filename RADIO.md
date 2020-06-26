@@ -518,7 +518,7 @@
 | ECO Leganés | [stream](https://cervera.eldialdigital.com:25191/stream) | [web](http://ecoleganes.org/) | [logo](https://graph.facebook.com/ecoleganes01/picture?width=200&height=200) | - | WICE |
 | Inforadio | [stream](http://inforadio.hst.ucm.es:8000/inforadio01) | [web](http://inforadioucm.blogspot.com/p/escuchanos-en-directo.html) | [logo](https://graph.facebook.com/inforadiocomplutense/picture?width=200&height=200) | - | - |
 | Onda Latina | [stream](https://cervera.eldialdigital.com:21131/stream) | [web](https://www.nodo50.org/ondalatina/) | [logo](https://graph.facebook.com/ondalatina.com.es/picture?width=200&height=200) | - | WICE |
-| Máster FM Madrid | [m3u8](http://82.223.102.59:8002/;) | [web](https://lamaster.es/radiochannel/madrid-93-7-fm/) | [logo](https://graph.facebook.com/masterfmmadrid/picture?width=200&height=200) | - | WICE |
+| Máster FM Madrid | [m3u8](http://82.223.102.59:8002/;) | [web](https://lamaster.es/radiochannel/madrid-93-7-fm/) | [logo](https://graph.facebook.com/lamasterfm/picture?width=200&height=200) | - | WICE |
 | Peperadio | [stream](http://server10.emitironline.com:8000/stream) | [web](https://peperadio.es/) | [logo](https://pbs.twimg.com/profile_images/905319409992044544/x35XzF3A_200x200.jpg) | - | - |
 | Radio Inter | [stream](http://ns3.mycloud-apps.es:8030/stream) | [web](https://www.radiointer.es/) | [logo](https://graph.facebook.com/RadioIntEs/picture?width=200&height=200) | - | - |
 | Onda Diamante | [m3u](http://www.avvcanillejas.org/docs/ondadiamante.ogg.m3u) | [web](https://www.avvcanillejas.org/radio.htm) | [logo](https://pbs.twimg.com/profile_images/3117262741/c47fd5e51548aaa3ce1628d319d31e58_200x200.jpeg) | - | - |
@@ -735,7 +735,7 @@
 | Mallorca Sunshine Radio | [stream](https://stream.inselradio.com/high.sunshine.opus) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/MallorcaSunshineRadio/picture?width=200&height=200) | - | WICE |
 | Radio One Mallorca | [stream](http://80.32.132.126:8000/;) | [web](http://www.radioonemallorca.com/) | [logo](https://graph.facebook.com/RadioOneMallorca/picture?width=200&height=200) | - | - |
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com/) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=200&height=200) | - | - |
-| Isla 106 Ibiza | [aac](https://streams.isla106.com/isla106.aac) | [web](https://www.isla106.com/live) | [logo](https://graph.facebook.com/Isla106Ibiza/picture?width=200&height=200) | - | - |
+| Isla 106 Ibiza | [aac](https://streams.isla106.com/isla106.aac) | [web](https://www.isla106.com/live) | [logo](https://graph.facebook.com/Isla106Radio/picture?width=200&height=200) | - | - |
 | Ecoradio | [stream](http://radioserver7.profesionalhosting.com:8062/;stream) | [web](http://www.ecoradio.es/) | [logo](https://graph.facebook.com/ecoradio.es/picture?width=200&height=200) | - | - |
 | Titoieta Ràdio | [stream](http://195.154.33.95:8034/stream) | [web](http://www.titoieta.cat/index.php) | [logo](https://graph.facebook.com/titoieta/picture?width=200&height=200) | - | WICE |
 | Ona Mediterrània | [mp3](http://streaming.enantena.com:8000/onamediterrania128.mp3) | [web](http://www.onamediterrania.cat/) | [logo](https://graph.facebook.com/OnaMediterrani/picture?width=200&height=200) | - | - |
