@@ -213,8 +213,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Cantabria TV | - | - | - | - | - | - | - |
-| Popular TV Cantabria | - | - | - | - | - | - | - |
+| Cantabria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Popular TV Cantabria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Castilla-La Mancha
 
@@ -702,6 +702,16 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | V2Beat TV | - | - | - | - | - | - | - |
 | DanceStar TV | - | - | - | - | - | - | - |
 | Ditty TV | - | - | - | - | - | - | - |
+| Muzzik TV Serbia | - | - | - | - | - | - | - |
+| Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - |
+| Muzzik Cafe&Club Serbia | - | - | - | - | - | - | - |
+| Muzzik Worldwide Serbia | - | - | - | - | - | - | - |
+| Muzzik Jeka Serbia | - | - | - | - | - | - | - |
+| Muzzik Mediteraneo Serbia | - | - | - | - | - | - | - |
+| Muzzik Hip Hop Serbia | - | - | - | - | - | - | - |
+| Muzzik Gen Z Serbia | - | - | - | - | - | - | - |
+| Muzzik Vision Serbia | - | - | - | - | - | - | - |
+| Muzzik OKK Serbia | - | - | - | - | - | - | - |
 | Music Top | - | - | - | - | - | - | - |
 | Melody Channel | - | - | - | - | - | - | - |
 | EuroLatina TV | - | - | - | - | - | - | - |
