@@ -708,7 +708,6 @@
 | Radio Voz | [mp3](http://live.radiovoz.es/mp3/stream_santiago.mp3) | [web](http://www.radiovoz.com/) | [logo](https://graph.facebook.com/radiovoz/picture?width=200&height=200) | - | - |
 | Via Radio | [stream](http://62.210.25.63:63611/stream) | [web](https://viaradio.es/) | [logo](https://graph.facebook.com/viaradiohavuelto/picture?width=200&height=200) | - | - |
 | Fórmula Fun | [stream](http://s30.myradiostream.com:30464/;) | [web](http://www.formulafungalicia.es/) | [logo](https://graph.facebook.com/FormulaFunGalicia/picture?width=200&height=200) | - | WICE |
-| Onda Ocio | [stream](https://radioserver10.profesionalhosting.com:23334/stream) | [web](https://www.ondaocio.es/) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | WICE |
 
 ### Illes Balears
 
@@ -753,6 +752,7 @@
 | COPE Rioja | [mp3](https://wecast-b01-01.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Logroño | [m3u8](https://livefastly-webs.ondacero.es/logrono-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/rioja/rioja/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
+| Onda Ocio | [stream](https://radioserver10.profesionalhosting.com:23334/stream) | [web](https://www.ondaocio.es/) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | WICE |
 
 ### Melilla
 
