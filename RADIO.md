@@ -241,7 +241,7 @@
 | MDT Radio | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com/) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | - | - |
 | Ebro FM | [stream](http://s2.prositel.net:7010/ebrofm) | [web](https://diarioaragones.com/) | [logo](https://pbs.twimg.com/profile_images/522841077712044032/6hH3W4_F_200x200.jpeg) | - | - |
 | Rumba FM | [mp3](https://securestream.hdserver.biz:9348/stream.mp3) | [web](http://www.rumba93.es/) | [logo](https://graph.facebook.com/RumbaOrgulloLatino/picture?width=200&height=200) | - | - |
-| Radio Kolor Cuenca | [stream](http://usa1.usastreams.com:8000/RadioKolor) | [web](http://www.radiokolor.es/) | [logo](https://graph.facebook.com/kolor.cuenca/picture?width=200&height=200) | - | - |
+| Radio Kolor | [stream](http://usa1.usastreams.com:8000/RadioKolor) | [web](http://www.radiokolor.es/) | [logo](https://graph.facebook.com/kolor.cuenca/picture?width=200&height=200) | - | - |
 | Tea FM | [mp3](http://cervera.eldialdigital.com:8052/;stream.mp3) | [web](http://www.teafm.net/) | [logo](https://graph.facebook.com/teafm/picture?width=200&height=200) | - | - |
 | Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=200&height=200) | - | - |
 | Radio Huesca Aínsa | [stream](https://streamingradio.radiohuesca.com:8071/radiobarbastro) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/ainsasobrarbeayuntamiento/picture?width=200&height=200) | - | - |
