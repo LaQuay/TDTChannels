@@ -711,6 +711,7 @@
 | Radio Voz | [mp3](http://live.radiovoz.es/mp3/stream_santiago.mp3) | [web](http://www.radiovoz.com/) | [logo](https://graph.facebook.com/radiovoz/picture?width=200&height=200) | - | - |
 | Via Radio | [stream](http://62.210.25.63:63611/stream) | [web](https://viaradio.es/) | [logo](https://graph.facebook.com/viaradiohavuelto/picture?width=200&height=200) | - | - |
 | Fórmula Fun | [stream](http://s30.myradiostream.com:30464/;) | [web](http://www.formulafungalicia.es/) | [logo](https://graph.facebook.com/FormulaFunGalicia/picture?width=200&height=200) | - | WICE |
+| Onda Ocio | [stream](http://62.210.25.63:23333/stream) | [web](https://www.ondaocio.es/) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | - |
 
 ### Illes Balears
 
@@ -803,6 +804,7 @@
 | Mozoilo Irratia | [mp3](http://195.154.33.95:8042/mozoiloi.mp3) | [web](http://www.gdkoirratia.com/PLAY/) | [logo](https://graph.facebook.com/GaldakaokoIrratia/picture?width=200&height=200) | - | - |
 | Radio 7 | [mp3](https://radio7.streaming-pro.com:6146/radio7.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200) | - | - |
 | Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com/) | [logo](https://graph.facebook.com/radioformulahit/picture?width=200&height=200) | - | - |
+| FM Musical | [stream](http://s2.free-shoutcast.com:18204/;) | [web](https://fm-musical.com/) | [logo](https://graph.facebook.com/99fmmusical/picture?width=200&height=200) | - | - |
 
 ### P. de Asturias
 
