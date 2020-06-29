@@ -104,7 +104,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 1 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 2 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Sur Eventos 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Andalucía TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Algeciras | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Almería | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |

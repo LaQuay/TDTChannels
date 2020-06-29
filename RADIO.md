@@ -538,6 +538,7 @@
 | Canora Radio | [mp3](http://s8.streammonster.com:8335/stream) | [web](http://www.canora.es/) | [logo](https://graph.facebook.com/31116475535/picture?width=200&height=200) | - | WICE |
 | Qué Radio | [mp3](http://radioserver9.profesionalhosting.com:59622/;.mp3) | [web](https://queradio.com/) | [logo](https://graph.facebook.com/Que.es/picture?width=200&height=200) | - | - |
 | Radio Ya | [stream](https://s20.prositel.net:9085/RadioYA) | [web](https://www.radioya.es/) | [logo](https://graph.facebook.com/radioya.es/picture?width=200&height=200) | - | - |
+| Vaughan Radio | [mp3](https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3) | [web](https://grupovaughan.com/vaughan-radio/) | [logo](https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
 
