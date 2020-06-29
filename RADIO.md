@@ -518,7 +518,6 @@
 | Máster FM Madrid | [m3u8](http://82.223.102.59:8002/;) | [web](https://lamaster.es/radiochannel/madrid-93-7-fm/) | [logo](https://graph.facebook.com/lamasterfm/picture?width=200&height=200) | - | WICE |
 | Peperadio | [stream](http://server10.emitironline.com:8000/stream) | [web](https://peperadio.es/) | [logo](https://pbs.twimg.com/profile_images/905319409992044544/x35XzF3A_200x200.jpg) | - | - |
 | Radio Inter | [stream](http://ns3.mycloud-apps.es:8030/stream) | [web](https://www.radiointer.es/) | [logo](https://graph.facebook.com/RadioIntEs/picture?width=200&height=200) | - | - |
-| Onda Diamante | [m3u](http://www.avvcanillejas.org/docs/ondadiamante.ogg.m3u) | [web](https://www.avvcanillejas.org/radio.htm) | [logo](https://pbs.twimg.com/profile_images/3117262741/c47fd5e51548aaa3ce1628d319d31e58_200x200.jpeg) | - | - |
 | OMC Radio | [stream](https://cervera.eldialdigital.com:25131/stream) | [web](https://www.omcradio.org/escuchanos/) | [logo](https://graph.facebook.com/OmcRadio/picture?width=200&height=200) | - | WICE |
 | Onda Polígono | [stream](http://marconi.eldialdigital.com:6230/;) | [web](http://www.ondapoligono.org/) | [logo](https://graph.facebook.com/ondapoligono/picture?width=200&height=200) | - | - |
 | Radio Almenara | [stream](http://185.50.197.212:9986/;) | [web](http://www.radioalmenara.net/) | [logo](https://graph.facebook.com/RadioAlmenara/picture?width=200&height=200) | - | - |
@@ -568,7 +567,6 @@
 | Radio Nacional Comunidad Valenciana | [mp3](https://rneval.rtveradio.cires21.com/rneval.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Comunidad Valenciana | [mp3](https://radio5val.rtveradio.cires21.com/radio5val.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | Radio Marca Valencia | [mp3](https://relay.stream.enacast-cloud.com:40225/radiomarcavalenciaHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
-| SER Maestrat | [m3u](http://62.43.213.12:8000/sermaestrat.m3u) | [web](https://play.cadenaser.com/emisora/ser_maestrat/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER - Radio Alcoy | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALCOY.mp3) | [web](https://play.cadenaser.com/emisora/radio_alcoy/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER - Radio Alicante | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALICANTE.mp3) | [web](https://play.cadenaser.com/emisora/radio_alicante/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER - Radio Castellón | [stream](http://stream.radiocastellon.com/ser) | [web](https://play.cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
