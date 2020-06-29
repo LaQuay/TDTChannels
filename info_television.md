@@ -17,17 +17,17 @@ Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Antena 3 | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| Cuatro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Telecinco | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cuatro | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Telecinco | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
 | laSexta | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
 | Neox | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
 | Nova | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
 | Mega | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
 | Atreseries | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| FDF | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Energy | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Divinity | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Be Mad | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| FDF | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Energy | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Divinity | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Be Mad | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
 | Paramount Network | ✔❗ | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -69,7 +69,7 @@ Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Boing | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Boing | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
