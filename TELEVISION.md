@@ -637,7 +637,7 @@
 | Ocko Star Chequia | [m3u8 # CZ](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8) | [web](https://ocko.tv/zive?channel=star) | [logo](https://graph.facebook.com/ockostar/picture?width=200&height=200) | - | - |
 | Ocko Expres Chequia | [m3u8 # CZ](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8) | [web](https://ocko.tv/zive?channel=expres) | [logo](https://graph.facebook.com/OckoExpres/picture?width=200&height=200) | - | - |
 | 4FUN TV Polonia | [m3u8 # PL](https://stream.4fun.tv:8888/hls/4f_high/index.m3u8) | [web](https://4fun.tv/) | [logo](https://graph.facebook.com/4FUN.TV/picture?width=200&height=200) | - | - |
-| m2o | [m3u8 # IT](https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | [logo](https://graph.facebook.com/radiom2o/picture?width=200&height=200) | - | - |
+| m2o Italia | [m3u8 # IT](https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8) | [web](https://www.m2o.it/m2o-tv/) | [logo](https://graph.facebook.com/radiom2o/picture?width=200&height=200) | - | - |
 | 1 Music Hungria | [m3u8](http://1music.hu/1music.m3u8) | [web](http://1music.hu/live) | [logo](https://graph.facebook.com/1music/picture?width=200&height=200) | - | NONAV |
 | ON TV Portugal | [m3u8](https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8) | [web](https://www.onfm.pt/) | [logo](https://graph.facebook.com/ONFM93.8/picture?width=200&height=200) | - | - |
 | Music Box Ucrania | - | [web](http://www.musicboxua.tv/musicbox-online/) | [logo](https://graph.facebook.com/musicboxuatv/picture?width=200&height=200) | - | NONAV |

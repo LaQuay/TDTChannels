@@ -17,17 +17,17 @@ Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Antena 3 | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| Cuatro | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
-| Telecinco | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Cuatro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telecinco | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | laSexta | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
 | Neox | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
 | Nova | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
 | Mega | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
 | Atreseries | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| FDF | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
-| Energy | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
-| Divinity | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
-| Be Mad | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| FDF | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Energy | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Divinity | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Be Mad | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Paramount Network | ✔❗ | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -69,7 +69,7 @@ Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Boing | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Boing | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
@@ -639,25 +639,27 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Kronehit | - | - | - | - | - | - | - |
-| Hit Music Channel | - | - | - | - | - | - | - |
-| NRJ Hits | - | - | - | - | - | - | - |
-| Ocko | - | - | - | - | - | - | - |
-| Ocko Expres | - | - | - | - | - | - | - |
-| Ocko Star | - | - | - | - | - | - | - |
 | Radio Italia TV | - | - | - | - | - | - | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - |
+| Kronehit Austria | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - |
-| m2o | - | - | - | - | - | - | - |
-| Ibiza Global TV | - | - | - | - | - | - | - |
+| NRJ Bélgica | - | - | - | - | - | - | - |
+| Ocko Chequia | - | - | - | - | - | - | - |
+| Ocko Star Chequia | - | - | - | - | - | - | - |
+| Ocko Expres Chequia | - | - | - | - | - | - | - |
+| 4FUN TV Polonia | - | - | - | - | - | - | - |
+| m2o Italia | - | - | - | - | - | - | - |
+| 1 Music Hungria | - | - | - | - | - | - | - |
+| ON TV Portugal | - | - | - | - | - | - | - |
 | Music Box Ucrania | - | - | - | - | - | - | - |
-| 1 Music | - | - | - | - | - | - | - |
+| Hit Music Channel | - | - | - | - | - | - | - |
+| V2Beat TV | - | - | - | - | - | - | - |
+| Power TV Turquía | - | - | - | - | - | - | - |
 | Rock TV Romania | - | - | - | - | - | - | - |
 | RadioU TV | - | - | - | - | - | - | - |
-| 4FUN TV Polonia | - | - | - | - | - | - | - |
-| Power TV Turquía | - | - | - | - | - | - | - |
-| ON TV Portugal | - | - | - | - | - | - | - |
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - |
+| Ibiza Global TV | - | - | - | - | - | - | - |
+| DanceStar TV | - | - | - | - | - | - | - |
 | HqM Hits | - | - | - | - | - | - | - |
 | HqM Spanish | - | - | - | - | - | - | - |
 | HqM Rock | - | - | - | - | - | - | - |
@@ -700,8 +702,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | California Music Channel | - | - | - | - | - | - | - |
 | Retro Plus TV | - | - | - | - | - | - | - |
 | 30A Music | - | - | - | - | - | - | - |
-| V2Beat TV | - | - | - | - | - | - | - |
-| DanceStar TV | - | - | - | - | - | - | - |
 | Ditty TV | - | - | - | - | - | - | - |
 | Muzzik TV Serbia | - | - | - | - | - | - | - |
 | Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - |
