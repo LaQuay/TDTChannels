@@ -178,7 +178,7 @@
 | La Jungla Radio | [stream](https://www.lajunglaradio.com:8003/lajunglawebssl) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | - |
 | Radio Mijas | [mp3](https://wecast-b03-03.flumotion.com/mijas-radio/shoutcast.mp3) | [web](http://www.mijascomunicacion.org/index.php/radio-mijas-seccion) | [logo](https://graph.facebook.com/Mijas340/picture?width=200&height=200) | - | - |
 | Radio Planeta | [stream](https://radioplaneta.emitironline.com/) | [web](https://www.radioplaneta.com/) | [logo](https://graph.facebook.com/RadioPlaneta92.8/picture?width=200&height=200) | - | WICE |
-| Nostalgia FM | [stream](https://streamingv2.shoutcast.com/nostalgia) | [web](https://nostalgiafm.es/escuchanos.html) | [logo](https://graph.facebook.com/nostalgiaspain/picture?width=200&height=200) | - | - |
+| Nostalgia FM | [stream](https://server.spainbroadcast.net:10985/1) | [web](https://nostalgiafm.es/escuchanos.html) | [logo](https://graph.facebook.com/nostalgiaspain/picture?width=200&height=200) | - | - |
 | Gozadera FM Andalucia | [stream](https://sonic.globalstream.pro:10961/stream/1/) | [web](https://www.gozadera.es/endirecto/) | [logo](https://graph.facebook.com/GozaderaSpain/picture?width=200&height=200) | - | - |
 | Beachgrooves | [stream](http://stream.beachgrooves.com:8000/stream) | [web](https://beachgrooves.com/) | [logo](https://graph.facebook.com/beach.grooves/picture?width=200&height=200) | - | - |
 | La Fresca FM | [stream](https://stream.produccionesdale.com:8900/altacalidad) | [web](https://www.lafresca.fm/) | [logo](https://graph.facebook.com/lafresca.es/picture?width=200&height=200) | - | WICE |
