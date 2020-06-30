@@ -141,7 +141,6 @@
 | COPE Granada | [mp3](https://wecast-m01-03.flumotion.com/copesedes/granada.mp3) | [web](https://www.cope.es/directos/granada) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Guadix | [mp3](https://wecast-m01-03.flumotion.com/copesedes/guadix.mp3) | [web](https://www.cope.es/directos/guadix) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Huelva | [mp3](https://wecast-m01-03.flumotion.com/copesedes/huelva.mp3) | [web](https://www.cope.es/directos/huelva) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Jaca | [mp3](https://wecast-m01-03.flumotion.com/copesedes/jaca.mp3) | [web](https://www.cope.es/directos/jaca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Jaén | [mp3](https://wecast-m01-03.flumotion.com/copesedes/jaen.mp3) | [web](https://www.cope.es/directos/jaen) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Jerez | [mp3](https://wecast-m01-03.flumotion.com/copesedes/jerez.mp3) | [web](https://www.cope.es/directos/jerez) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Málaga | [mp3](https://wecast-m01-03.flumotion.com/copesedes/malaga.mp3) | [web](https://www.cope.es/directos/malaga) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
@@ -230,6 +229,7 @@
 | SER - Radio La Comarca | - | [web](https://play.cadenaser.com/emisora/radio_la_comarca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER - Radio Zaragoza | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3) | [web](https://play.cadenaser.com/emisora/radio_zaragoza/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | COPE Huesca | [mp3](https://wecast-m01-03.flumotion.com/copesedes/huesca.mp3) | [web](https://www.cope.es/directos/huesca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Jaca | [mp3](https://wecast-m01-03.flumotion.com/copesedes/jaca.mp3) | [web](https://www.cope.es/directos/jaca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Pirineos | [stream](http://85.25.217.22:8110/stream) | [web](http://www.radioribagorza.es/copeonline.html) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Teruel | [mp3](https://wecast-m01-03.flumotion.com/copesedes/teruel.mp3) | [web](https://www.cope.es/directos/teruel) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Zaragoza | [mp3](https://wecast-m01-03.flumotion.com/copesedes/zaragoza.mp3) | [web](https://www.cope.es/directos/zaragoza) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
