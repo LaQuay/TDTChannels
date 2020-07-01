@@ -697,12 +697,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Rathergood 00s | - | - | - | - | - | - | - |
 | Rathergood 90s | - | - | - | - | - | - | - |
 | Rathergood Dance Classics | - | - | - | - | - | - | - |
+| 30A Music USA | - | - | - | - | - | - | - |
+| Retro Music TV Chequia | - | - | - | - | - | - | - |
+| California Music Channel USA | - | - | - | - | - | - | - |
 | Vintage Music TV | - | - | - | - | - | - | - |
-| Retro Music TV | - | - | - | - | - | - | - |
-| California Music Channel | - | - | - | - | - | - | - |
-| Retro Plus TV | - | - | - | - | - | - | - |
-| 30A Music | - | - | - | - | - | - | - |
-| Ditty TV | - | - | - | - | - | - | - |
+| Retro Plus TV Chile | - | - | - | - | - | - | - |
 | Muzzik TV Serbia | - | - | - | - | - | - | - |
 | Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - |
 | Muzzik Cafe&Club Serbia | - | - | - | - | - | - | - |
@@ -713,14 +712,15 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Muzzik Gen Z Serbia | - | - | - | - | - | - | - |
 | Muzzik Vision Serbia | - | - | - | - | - | - | - |
 | Muzzik OKK Serbia | - | - | - | - | - | - | - |
-| Music Top | - | - | - | - | - | - | - |
-| Melody Channel | - | - | - | - | - | - | - |
+| Top Latino TV Perú | - | - | - | - | - | - | - |
+| La Mega Mundial USA | - | - | - | - | - | - | - |
+| Telemúsica Colombia | - | - | - | - | - | - | - |
+| Music Top Argentina | - | - | - | - | - | - | - |
 | EuroLatina TV | - | - | - | - | - | - | - |
-| Telemúsica | - | - | - | - | - | - | - |
-| Top Latino TV | - | - | - | - | - | - | - |
-| Portalfoxmix | - | - | - | - | - | - | - |
-| La Mega Mundial | - | - | - | - | - | - | - |
-| Latinos 1 TV | - | - | - | - | - | - | - |
+| Latinos 1 TV Suiza | - | - | - | - | - | - | - |
+| Portal Foxmix Colombia | - | - | - | - | - | - | - |
+| Melody Channel Colombia | - | - | - | - | - | - | - |
+| Ditty TV USA | - | - | - | - | - | - | - |
+| Spirit TV USA | - | - | - | - | - | - | - |
 | Otto FM Italia | - | - | - | - | - | - | - |
-| Spirit TV | - | - | - | - | - | - | - |
 | Top TV Brasil | - | - | - | - | - | - | - |
