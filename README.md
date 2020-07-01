@@ -141,14 +141,6 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que se debe poder ver que la información que está utilizando procede de este repositorio. En el caso de _software_, la atribución debe ser visible explicitamente en el mismo.
 
-#### Ley de propiedad
-En este proyecto no se almacena ningún stream, únicamente enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web o servicio público. Además no se emite ni emitirá, transmite o transmitirá nunca ningún tipo de señal pública o privada desde sus servidores.
-El sitio se limita a ofrecer emisiones públicas, las cuales son proporcionadas por el mismo distribuidor, canal o grupo de televisión de forma oficial, mediante su propia web o servicio público.
-
-Los derechos de emisión, retransmisión y el contenido son propiedad y responsabilidad exclusiva de los operadores, grupos y empresas de televisión encargadas de su distribución. Para cualquier duda se facilita una dirección de contacto para preguntas, sugerencias o reclamaciones. No obstante, si es dueño de los derechos de algún canal y deseas que se retire, contáctanos.
-
-El sitio no asumirá responsabilidad alguna respecto a los derechos de propiedad intelectual o industrial titularidad de terceros que se vean infringidos por un tercero o por cualquier usuario.
-
 ### Colaborar
 [CONTRIBUTING](https://github.com/LaQuay/TDTChannels/blob/master/CONTRIBUTING.md)
 
@@ -162,3 +154,12 @@ Si deseas realizar una petición de nuevo canal, por favor, utiliza el [formular
 [AUTHORS](https://github.com/LaQuay/TDTChannels/blob/master/AUTHORS.md)
 
 Y a todos aquellos que han colaborado, ya sea reportando un fallo o aportando enlaces!
+
+### Legal
+#### Ley de propiedad
+En este proyecto no se almacena ningún stream, únicamente enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web o servicio público. Además no se emite ni emitirá, transmite o transmitirá nunca ningún tipo de señal pública o privada desde sus servidores. Los derechos de emisión, retransmisión y el contenido son propiedad y responsabilidad exclusiva de los operadores, grupos y empresas de televisión y/o radio encargadas de su distribución. El proyecto no asumirá responsabilidad alguna respecto a los derechos de propiedad intelectual o industrial titularidad de terceros que se vean infringidos por un tercero o por cualquier usuario.
+
+#### Vida del sitio
+Conforme a los términos y condiciones de este aviso legal, así como de las Condiciones de uso, este sitio se reserva el derecho unilateral de suspender temporalmente o de terminar definitivamente la prestación de servicios a través de la página web, así como de suspender temporal o definitivamente el servicio completamente.
+
+Para cualquier duda se facilita una dirección de contacto para preguntas, sugerencias o reclamaciones. No obstante, si es dueño de los derechos de algún canal y deseas que se retire, contáctanos.
