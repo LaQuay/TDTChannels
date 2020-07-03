@@ -16,19 +16,19 @@ Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W
 | - | - | - | - | - | - | - | - |
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Antena 3 | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| Cuatro | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
-| Telecinco | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
-| laSexta | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| Neox | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| Nova | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| Mega | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| Atreseries | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| FDF | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
-| Energy | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
-| Divinity | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
-| Be Mad | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
-| Paramount Network | ✔ (+ v2.0.0) | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
+| Antena 3 | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Cuatro | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Telecinco | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| laSexta | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Neox | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Nova | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Mega | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Atreseries | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| FDF | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Energy | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Divinity | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Be Mad | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Paramount Network | ✔ (+v2.0.0) | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | mtmad 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -46,18 +46,18 @@ Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | EuropaPress TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
-| Libertad Digital TV | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| Libertad Digital TV | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 
 ## Deportivos
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
 | Teledeporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Algunas emisiones son Geolocalizadas |
-| GOL | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| GOL | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | RealMadrid TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Barça TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No existe emision online |
 | Sevilla TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | Emiten en su web, bajo registro |
-| Betis TV | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Betis TV | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
 | UD Las Palmas TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
@@ -69,7 +69,7 @@ Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Boing | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Boing | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
@@ -83,9 +83,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - |
 | +24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | +tdp | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Atresplayer 1 | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
-| Atresplayer 2 | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
-| Atresplayer 3 | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Atresplayer 1 | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Atresplayer 2 | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Atresplayer 3 | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Presidente) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -105,20 +105,20 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal Sur 1 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 2 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Andalucía TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Algeciras | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Almería | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Bahía | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Córdoba | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Costa Noroeste | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Granada | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Huelva | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Jaen | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Jerez | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Málaga | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Marbella | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Sevilla | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Sierra | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Algeciras | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Almería | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Bahía | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Córdoba | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Costa Noroeste | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Granada | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Huelva | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Jaen | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Jerez | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Málaga | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Marbella | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Sevilla | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Sierra | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Correo de Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Jerez Televisión | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
@@ -200,12 +200,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Este Canal TV | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Este Canal TV | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Gigante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 4 TV | ✔ (+ v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Canal 4 TV | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
 | Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
