@@ -332,7 +332,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Navarra TV | [m3u8](https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8) | [web](https://www.natv.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | - |
+| Navarra TV | [m3u8 # HD](https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8) - [m3u8 # SD](https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_480p/chunks.m3u8) | [web](https://www.natv.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | - |
 | Parlamento de Navarra | [m3u8 # 1](https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8) - [m3u8 # 2](https://broadcasting.parlamentodenavarra.es/live/canal2/master.m3u8) | [web](https://www.parlamentodenavarra.es/) | [logo](https://pbs.twimg.com/profile_images/781100367295676417/XVWdJQD0_200x200.jpg) | - | - |
 | TeleRibera | [m3u8](http://37.187.7.106/teleribera/live.m3u8) | [web](http://www.teleribera.com/) | [logo](https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg) | - | - |
 
@@ -648,7 +648,7 @@
 | First Music Channel Bielorrusia | [m3u8 # 1](http://hz1.teleport.cc/HLS/HD.m3u8) - [m3u8 # 2](http://hz1.teleport.cc/HLS/SD.m3u8) | [web](http://www.1muz.com/) | [logo](https://graph.facebook.com/onemusicchannel/picture?width=200&height=200) | - | - |
 | Ibiza Global TV | [m3u8 # EN](https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200) | - | - |
 | DanceStar TV | [m3u8 # EN](https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8) | [web](http://dancestartv.com/) | [logo](https://graph.facebook.com/DancestarTV/picture?width=200&height=200) | - | - |
-| HqM Hits | [stream](https://yowi.tv/embed/HitsHQM/) | [web](https://hqm.es/canales/hits-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/hits-hqm-1-300x167.jpg) | - | EMB |
+| HqM Hits | [stream](https://yowi.tv/embed/hitshqm/) | [web](https://hqm.es/canales/hits-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/hits-hqm-1-300x167.jpg) | - | EMB |
 | HqM Spanish | [stream](https://yowi.tv/embed/spanishhqm/) | [web](https://hqm.es/canales/spanish-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/spanish-hqm-300x180.jpg) | - | EMB |
 | HqM Rock | [stream](https://yowi.tv/embed/rockhqm/) | [web](https://hqm.es/canales/rock-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/rock-hqm-300x180.jpg) | - | EMB |
 | HqM Remember | [stream](https://yowi.tv/embed/rememberhqm/) | [web](https://hqm.es/canales/remember-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/remember-hqm-300x180.jpg) | - | EMB |
