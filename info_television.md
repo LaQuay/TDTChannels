@@ -508,6 +508,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | franceinfo: Francia | - | - | - | - | - | - | - |
 | Rai News 24 Italia | - | - | - | - | - | - | - |
 | DW Alemania | - | - | - | - | - | - | - |
+| Das Erste Alemania | - | - | - | - | - | - | - |
+| NDR Niedersachsen Alemania | - | - | - | - | - | - | - |
 | Sky News UK | - | - | - | - | - | - | - |
 | RTP 1 Portugal | - | - | - | - | - | - | - |
 | RTP 2 Portugal | - | - | - | - | - | - | - |
