@@ -600,6 +600,8 @@
 | LOS40 Castellón | [stream](http://stream.radiocastellon.com/40) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | LOS40 Classic Castellón | [stream](http://stream.radiocastellon.com/40cl) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200) | - | - |
 | Cadena Dial Castellón | [stream](http://stream.radiocastellon.com/dial) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | WICE |
+| Cadena 100 Benidorm | [stream](http://rsirena.dnsalias.com:8000/cad100benidorm) | [web](https://www.radiosirena.es/radio-online/cadena-100/) | [logo](https://graph.facebook.com/cadena100benidorm/picture?width=200&height=200) | - | - |
+| esRadio Elche | [stream](http://ns6.emisionlocal.com:8040) | [web](https://www.esradioelche.com/) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
 | MDT Radio | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com/) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | - | - |
 | Ràdio Klara | [mp3](http://cervera.eldialdigital.com:8048/;#mp3) | [web](http://www.radioklara.org/radioklara/) | [logo](https://graph.facebook.com/radioklara/picture?width=200&height=200) | - | - |
@@ -632,6 +634,10 @@
 | Ràdio Bétera | [mp3](http://giss.tv:8001/radiobetera.mp3) | [web](http://www.radiobetera.org/) | [logo](https://graph.facebook.com/radiobetera/picture?width=200&height=200) | - | - |
 | Onda15Radio | [stream](https://radioserver11.profesionalhosting.com:59166/stream) | [web](https://www.onda15.com/) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | WICE |
 | CV Radio | [mp3](https://sonic.mediatelekom.net:10958/stream) | [web](https://www.cvradio.es/player/player.php) | [logo](https://graph.facebook.com/cvradio94.5/picture?width=200&height=200) | - | - |
+| Costafm Alicante | [mp3](https://stream.mediasector.es/radio/8160/costafm.mp3) | [web](https://www.costafm.es/) | [logo](https://graph.facebook.com/costafm/picture?width=200&height=200) | - | - |
+| Radio Malibú | [mp3](https://stream.mediasector.es/radio/8170/maliburadio.mp3) | [web](https://www.radiomalibu.es/) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
+| SOL FM Elche | [stream](https://eu1.lhdserver.es:9135/stream) | [web](http://www.solfmradio.com/) | [logo](https://graph.facebook.com/solfmradio/picture?width=200&height=200) | - | - |
+| Radio Sirena COPE Benidorm | [stream](http://rsirena.dnsalias.com:8000/rsirenacope) | [web](https://www.radiosirena.es/radio-online/radio-sirena/) | [logo](https://graph.facebook.com/radiosirena/picture?width=200&height=200) | - | - |
 
 ### Extremadura
 
@@ -844,17 +850,24 @@
 | SER Lorca | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LORCA.mp3) | [web](https://play.cadenaser.com/emisora/radio_lorca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Murcia | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_murcia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | COPE Cartagena | [mp3](https://wecast-m01-03.flumotion.com/copesedes/cartagena.mp3) | [web](https://www.cope.es/directos/cartagena) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Espuña | [stream](http://5.135.183.124:8110/stream) | [web](https://copealhama.es.tl/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Lorca | [mp3](https://wecast-m01-03.flumotion.com/copesedes/lorca.mp3) | [web](https://www.cope.es/directos/lorca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Murcia | [mp3](https://wecast-m01-03.flumotion.com/copesedes/murcia.mp3) | [web](https://www.cope.es/directos/murcia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Sureste | [stream](http://91.121.77.67:8068) | [web](http://www.rsureste.com/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Jumilla | [stream](https://eu1.lhdserver.es:9055/stream) | [web](https://www.copejumilla.com/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Yecla | [stream](http://eu1.lhdserver.es:9168/stream) | [web](http://copeyecla.com/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Cartagena | [w3u8](https://livefastly-webs.ondacero.es/cartagena-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/murcia/cartagena/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Murcia | [w3u8](https://livefastly-webs.ondacero.es/murcia-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/murcia/murcia/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Yecla | [w3u8](https://livefastly-webs.ondacero.es/yecla-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/murcia/yecla/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Noroeste | [mp3](http://stream.ondaceronoroeste.es/ondacero-64.mp3) | [web](https://www.ondaceronoroeste.es/directo.html) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Regional de Murcia | [m3u8](https://live.redctnet.es/live/orm/orm/playlist.m3u8) | [web](https://www.orm.es/directo/orm/) | [logo](https://graph.facebook.com/OndaRegional/picture?width=200&height=200) | - | - |
 | Onda Regional Música | [m3u8](https://live.redctnet.es/live/ormmusical/ormmusical/playlist.m3u8) | [web](https://www.orm.es/directo/or-musica/) | [logo](https://graph.facebook.com/OndaRegional/picture?width=200&height=200) | - | - |
+| esRadio Murcia | [stream](http://5.135.183.124:8340/stream) | [web](http://www.esradiomurcia.es/) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
+| Radio Intereconomía Murcia | [stream](http://eu1.lhdserver.es:9152/stream) | [web](http://intereconomiamurcia.blogspot.com/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [stream](https://www.lajunglaradio.com:8003/lajunglawebssl) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | - |
-| Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
 | Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](https://tunein.com/radio/Radio-Calasparra-1075-s113080/) | [logo](https://graph.facebook.com/349014238632372/picture?width=200&height=200) | - | - |
+| Inter Radio | [stream](http://str1.mediatelekom.net:8022) | [web](http://www.lainter968.es/) | [logo](https://graph.facebook.com/LaInter968.es/picture?width=200&height=200) | - | - |
+| Metrópolis FM | [stream](https://metropolis.radioca.st/stream) | [web](https://metropolisfm.es/) | [logo](https://pbs.twimg.com/profile_images/1079167278942425088/215ZMhDn_200x200.jpg) | - | - |
 
 ## Internacionales
 
