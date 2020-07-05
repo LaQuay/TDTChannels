@@ -220,40 +220,40 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| CMM | - | - | - | - | - | - | - |
-| TV Hellín | - | - | - | - | - | - | - |
-| Guada TV | - | - | - | - | - | - | - |
-| Guadalajara Media | - | - | - | - | - | - | - |
-| Visión 6 TV | - | - | - | - | - | - | - |
-| Imás TV | - | - | - | - | - | - | - |
-| CanalImagen Almansa | - | - | - | - | - | - | - |
-| InfoCanal Almansa | - | - | - | - | - | - | - |
-| Alcarria TV | - | - | - | - | - | - | - |
-| Ciudad Real TV | - | - | - | - | - | - | - |
-| Canal 4 Mancha Centro | - | - | - | - | - | - | - |
-| Manzanares10TV | - | - | - | - | - | - | - |
-| RTV Diocesana Toledo | - | - | - | - | - | - | - |
-| TeleToledo | - | - | - | - | - | - | - |
+| CMM | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Hellín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Guada TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Guadalajara Media | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Visión 6 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Imás TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CanalImagen Almansa | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| InfoCanal Almansa | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| Alcarria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Ciudad Real TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Canal 4 Mancha Centro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Manzanares10TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTV Diocesana Toledo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleToledo | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No existe emisión online |
 
 ### Castilla y León
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| La 7 | - | - | - | - | - | - | - |
-| La 8 Avila | - | - | - | - | - | - | - |
-| La 8 Bierzo | - | - | - | - | - | - | - |
-| La 8 Burgos | - | - | - | - | - | - | - |
-| La 8 Leon | - | - | - | - | - | - | - |
-| La 8 Palencia | - | - | - | - | - | - | - |
-| La 8 Salamanca | - | - | - | - | - | - | - |
-| La 8 Segovia | - | - | - | - | - | - | - |
-| La 8 Soria | - | - | - | - | - | - | - |
-| La 8 Valladolid | - | - | - | - | - | - | - |
-| La 8 Zamora | - | - | - | - | - | - | - |
-| TV Benavente | - | - | - | - | - | - | - |
-| Canal 54 | - | - | - | - | - | - | - |
-| Televisión Aranda | - | - | - | - | - | - | - |
-| Junta Castilla y León | - | - | - | - | - | - | - |
+| La 7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 8 Avila | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 8 Bierzo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 8 Burgos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 8 Leon | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 8 Palencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 8 Salamanca | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 8 Segovia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 8 Soria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 8 Valladolid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 8 Zamora | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Benavente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 54 | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Televisión Aranda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Junta Castilla y León | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Cataluña
 
