@@ -13,9 +13,7 @@ Se aceptan los siguientes formatos de _stream_. Ambos formatos tienen obligatori
 
 - **m3u8**: Priorizando las opciones `master.m3u8` y `playlist.m3u8`. Este formato es compatible con la mayoría de reproductores.
 - **youtube**: Si la cadena emite vía _YouTube_. Con formato `https://youtu.be/XXXXXX` si el tiempo de vida del stream es superior a dos semanas, y con el formato `/channel/.../live` en caso contrario. Este formato es compatible con la aplicación Android TDTChannels, la web, y la lista W3U.
-- **twitch**: Si la cadena emite vía _Twitch_. Este formato únicamente es compatible con la aplicación Android TDTChannels.
-- **dailymotion**: Si la cadena emite vía _Dailymotion_. Este formato únicamente es compatible con la aplicación Android TDTChannels.
-- **vimeo**: Si la cadena emite vía _Vimeo_. Este formato únicamente es compatible con la aplicación Android TDTChannels.
+- **stream**: Si emite de forma embebida en cualquier otro formato. Este formato es compatible con la aplicación Android TDTChannels, la web, y la lista W3U.
 
 Si el canal emite:
 - [geolocalizado](https://github.com/LaQuay/TDTChannels/wiki/FAQs#diferencia-entre-una-emisi%C3%B3n-geo-y-no-geo) a **nivel español**, se deberá añadir la coletilla `# GEO`. 
@@ -53,12 +51,12 @@ En caso de tener más de un `TAG` de información, concatenar con comas y sin es
 Igual que la televisión a excepción de los formatos aceptados para la reproducción.
 
 #### Stream
-Aplica lo mismo que para la TV. La preferencia siempre será la de elegir el stream en _m3u8_. Formatos aceptados:
+Aplica lo mismo que para la TV. La preferencia siempre será la de elegir el _stream_. Formatos aceptados:
 
+- Stream
 - M3U8
 - M3U
 - MP3
-- Stream
 
 ## Aviso general
 - Únicamente se recoje información externa, no se permite subir contenidos al repositorio.
