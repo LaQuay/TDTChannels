@@ -805,6 +805,7 @@
 | Radio 7 | [mp3](https://radio7.streaming-pro.com:6146/radio7.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200) | - | - |
 | Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com/) | [logo](https://graph.facebook.com/radioformulahit/picture?width=200&height=200) | - | - |
 | FM Musical | [stream](http://s2.free-shoutcast.com:18204/;) | [web](https://fm-musical.com/) | [logo](https://graph.facebook.com/99fmmusical/picture?width=200&height=200) | - | - |
+| Radio Tropical | [stream](https://radiotropical.streaming-pro.com:6136/radiotropical) | [web](https://www.radiotropical.es/) | [logo](https://graph.facebook.com/RTROPICAL/picture?width=200&height=200) | - | - |
 
 ### P. de Asturias
 

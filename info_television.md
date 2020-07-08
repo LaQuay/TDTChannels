@@ -120,7 +120,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 7TV Andalucía - Sevilla | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Sierra | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El Correo de Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Jerez Televisión | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Onda Cádiz | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -172,6 +171,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trebujena TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Correo de Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Aragón
 

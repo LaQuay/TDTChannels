@@ -108,7 +108,6 @@
 | 7TV Andalucía - Sevilla | - | [web](https://7tvandalucia.es/sevilla/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | - | W3U,EXTA |
 | 7TV Andalucía - Sierra | - | [web](https://7tvandalucia.es/sierra/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | - | W3U,EXTA |
 | 101TV Málaga | [m3u8](https://secure7.todostreaming.es/live/101tv-web101tv.m3u8) | [web](https://www.101tv.es/endirecto.aspx) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | - | - |
-| El Correo de Andalucía | [m3u8](https://elcorreotv.todostreaming.es/live/elcorreotv-livestream.m3u8) | [web](https://elcorreoweb.es/elcorreotv) | [logo](https://graph.facebook.com/elcorreoweb/picture?width=200&height=200) | - | - |
 | Jerez Televisión | [youtube](https://www.youtube.com/channel/UCHVquS6wXQAsESO2bwZ7esw/live) | [web](https://jereztelevision.com/) | [logo](https://graph.facebook.com/jerez.television/picture?width=200&height=200) | - | EMB |
 | Onda Cádiz | [m3u8](https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8) | [web](https://tv.ocadizdigital.es/tv/directo) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | OndaCadiz.TV | NONAV |
 | Mijas 3.40 TV | [m3u8](https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8) | [web](https://www.mijascomunicacion.org/) | [logo](https://graph.facebook.com/Mijas340/picture?width=200&height=200) | - | - |
@@ -160,6 +159,7 @@
 | Cancionero TV | [m3u8](http://89.140.99.41/hls/cancionero.m3u8) | [web](http://www.cancionero.es/tv/) | [logo](https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png) | - | - |
 | Canal Coín | [m3u8](http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8) | [web](https://canalcoin.com/tv-directo) | [logo](https://yt3.ggpht.com/a/AATXAJxBOpg8wglxv7mUxdPlwj-GnYRCUMtdLpQcNw=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
 | Trebujena TV | [m3u8](http://212.104.160.156:1935/live/trebujenatv2/master.m3u8) | [web](http://trebujena.tv/) | [logo](https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg) | - | - |
+| El Correo de Andalucía | - | [web](https://elcorreoweb.es/elcorreotv) | [logo](https://graph.facebook.com/elcorreoweb/picture?width=200&height=200) | - | NOEM |
 
 ### Aragón
 
