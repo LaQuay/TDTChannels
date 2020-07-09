@@ -8,7 +8,8 @@
 - ❗ → Problemas reportados
 
 Android y iOS significan TDTChannels Android y TDTChannels iOS, aplicaciones oficiales del proyecto.
-Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W3U).
+W3U es el formato de lista de Wiseplay.
+Cualquier otra aplicación para Android y iOS es considerada que utiliza la lista M3U/M3U8.
 
 ## Nacionales
 
@@ -62,7 +63,7 @@ Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | La Liga Santander | ▶ | ▶ | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | Emisión diaria entre las 21 - 23h, no disponible para W3U en Android TV |
+| El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | Emisión diaria entre las 21 - 23h, no disponible para W3U en Android TV |
 | Fight Time | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ## Infantiles
