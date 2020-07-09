@@ -1,5 +1,7 @@
 # Estado de los canales de televisión
 
+A continuación puedes ver el estado de las emisiones, en qué sitios funciona y en cuales no. No refleja cambios en tiempo real. Se actualiza de forma manual.
+
 - ✔ → Funcionando
 - 🌐 → Disponible mediante navegador web
 - ▶ → Disponible de forma embebida (YouTube, Vimeo, Twitch, Dailymotion, ...)
