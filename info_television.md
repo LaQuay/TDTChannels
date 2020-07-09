@@ -3,8 +3,8 @@
 A continuación puedes ver el estado de las emisiones, en qué sitios funciona y en cuales no. No refleja cambios en tiempo real. Se actualiza de forma manual.
 
 - ✔ → Funcionando
-- 🌐 → Disponible mediante navegador web
-- ▶ → Disponible de forma embebida (YouTube, Vimeo, Twitch, Dailymotion, ...)
+- 🌐 → Disponible mediante navegador web (externo o embebido)
+- ▶ → Disponible reproductor de terceros de forma embebida (YouTube, Vimeo, Twitch, Dailymotion, ...)
 - ❌ → No funciona
 - ➖ → Desconocido
 - ❗ → Problemas reportados
