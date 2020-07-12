@@ -479,6 +479,7 @@
 | ScannerFM | [stream](https://streaming.radio.co/s1843fc3d4/listen) | [web](https://www.scannerfm.com/) | [logo](https://graph.facebook.com/scannerFM/picture?width=200&height=200) | - | - |
 | Ràdio Amèrica Barcelona | [stream](https://s3.radio.co/sf09831a0e/listen) | [web](http://www.rab.cat/) | [logo](https://graph.facebook.com/RadioAmericaBarcelona/picture?width=200&height=200) | - | - |
 | Radio La Mina | [mp3](http://cervera.eldialdigital.com:8108/;mp3) | [web](https://radiolamina.blogspot.com/2019/03/handler-height-12px-margin-top-6px.html) | [logo](https://pbs.twimg.com/profile_images/1022133616304898054/8JX95zQq_200x200.jpg) | - | - |
+| RKB | [stream](https://radioserver10.profesionalhosting.com:60970/stream) | [web](https://radiokanalbarcelona.com/) | [logo](https://graph.facebook.com/radiokanalbarcelona/picture?width=200&height=200) | - | WICE |
 
 ### Ceuta
 
@@ -537,6 +538,7 @@
 | Qué Radio | [mp3](http://radioserver9.profesionalhosting.com:59622/;.mp3) | [web](https://queradio.com/) | [logo](https://graph.facebook.com/Que.es/picture?width=200&height=200) | - | - |
 | Radio Ya | [stream](https://s20.prositel.net:9085/RadioYA) | [web](https://www.radioya.es/) | [logo](https://graph.facebook.com/radioya.es/picture?width=200&height=200) | - | - |
 | Vaughan Radio | [mp3](https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3) | [web](https://grupovaughan.com/vaughan-radio/) | [logo](https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200) | - | - |
+| Libertad FM | [mp3](https://endirecto.libertadfm.es/hq-libertadfm.mp3) | [web](https://libertadfm.es/) | [logo](https://graph.facebook.com/libertadfmradio/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
 
@@ -637,6 +639,7 @@
 | Radio Malibú | [mp3](https://stream.mediasector.es/radio/8170/maliburadio.mp3) | [web](https://www.radiomalibu.es/) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
 | SOL FM Elche | [stream](https://eu1.lhdserver.es:9135/stream) | [web](http://www.solfmradio.com/) | [logo](https://graph.facebook.com/solfmradio/picture?width=200&height=200) | - | - |
 | Radio Sirena COPE Benidorm | [stream](http://rsirena.dnsalias.com:8000/rsirenacope) | [web](https://www.radiosirena.es/radio-online/radio-sirena/) | [logo](https://graph.facebook.com/radiosirena/picture?width=200&height=200) | - | WICE |
+| Radio 90FM | [stream](https://node-33.zeno.fm/015h6n8vfzzuv) | [web](https://radio90fmvalencia.wixsite.com/90fm) | [logo](https://static.wixstatic.com/media/f5b851_67e1cadb04a642e2a353a636264ca548~mv2.png) | - | WICE |
 
 ### Extremadura
 
