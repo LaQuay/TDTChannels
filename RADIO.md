@@ -637,6 +637,7 @@
 | Radio Malibú | [mp3](https://stream.mediasector.es/radio/8170/maliburadio.mp3) | [web](https://www.radiomalibu.es/) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
 | SOL FM Elche | [stream](https://eu1.lhdserver.es:9135/stream) | [web](http://www.solfmradio.com/) | [logo](https://graph.facebook.com/solfmradio/picture?width=200&height=200) | - | - |
 | Radio Sirena COPE Benidorm | [stream](http://rsirena.dnsalias.com:8000/rsirenacope) | [web](https://www.radiosirena.es/radio-online/radio-sirena/) | [logo](https://graph.facebook.com/radiosirena/picture?width=200&height=200) | - | WICE |
+| Radio Ibi | [mp3](http://streaming.enacast.com:8000/radioibiSD.mp3) | [web](https://www.radioibi.com/) | [logo](https://pbs.twimg.com/profile_images/524879648971165696/0R6A-gKg_200x200.jpeg) | - | - |
 
 ### Extremadura
 
