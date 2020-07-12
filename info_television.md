@@ -587,6 +587,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Cubavisión TV | - | - | - | - | - | - | - |
 | Trece Paraguay | - | - | - | - | - | - | - |
 | HCH Honduras | - | - | - | - | - | - | - |
+| Multimedios Costa Rica | - | - | - | - | - | - | - |
 | TV Cultura Brasil | - | - | - | - | - | - | - |
 
 ## Int. Asia
