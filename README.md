@@ -68,11 +68,11 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *06/2020* - [iOSmac - Cómo ver la TV gratis en tu iPhone o Apple TV](https://iosmac.es/ver-tv-gratis-iphone-apple-tv.html/)
 
-*06/2020* - [SatCESC - Todos los canales de TV españoles en abierto por internet gratis](https://satcesc.com/2020/07/06/canales-television-tdt-gratis-internet/#.Xwtf_BNxfIU/)
+*06/2020* - [SatCESC - Todos los canales de TV españoles en abierto por internet gratis](https://satcesc.com/2020/07/06/canales-television-tdt-gratis-internet/)
 
 *06/2020* - [ADSLZone - Mediaset ya no permite ver sus canales de TDT por listas M3U](https://www.adslzone.net/noticias/streaming-tv/telecinco-cuatro-mediaset-listas-m3u/)
 
-*06/2020* - [SatCESC - Los canales de Mediaset ya no están diponibles en m3u8](https://satcesc.com/2020/06/05/los-canales-de-mediaset-ya-no-estan-disponibles-en-m3u8/#.XwtgAxNxfIU/)
+*06/2020* - [SatCESC - Los canales de Mediaset ya no están diponibles en m3u8](https://satcesc.com/2020/06/05/los-canales-de-mediaset-ya-no-estan-disponibles-en-m3u8/)
 
 *06/2020* - [Deia.eus - TDTChannels: cómo ver los canales TDT desde un smartphone o tablet](https://blogs.deia.eus/rincon-android/2020/06/03/tdtchannels-como-ver-los-canales-tdt-desde-un-smartphone-o-tablet/)
 
