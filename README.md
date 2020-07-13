@@ -58,6 +58,26 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
+*07/2020* - [El Androide Feliz - Cómo ver la TDT online desde VLC (más de 300 canales)](https://elandroidefeliz.com/como-ver-tv-online-desde-vlc/)
+
+*07/2020* - [Xataka Android - Ver la tele en el móvil es aún más fácil: TDT Channels se actualiza a la versión 2.0 con notables mejoras](https://www.xatakandroid.com/aplicaciones-android/ver-tele-movil-facil-tdt-channels-se-actualiza-a-version-2-0-notables-mejoras)
+
+*07/2020* - [Xataka Móvil - 10 funciones para las que te descargas apps y que tu móvil ya hace de serie](https://www.xatakamovil.com/sistemas-operativos/10-funciones-para-que-te-descargas-apps-que-tu-movil-hace-serie)
+
+*06/2020* - [ADSLZone - Así puedes ver la TDT en Kodi sin usar antena de televisión](https://www.adslzone.net/esenciales/kodi/ver-tdt-online/)
+
+*06/2020* - [iOSmac - Cómo ver la TV gratis en tu iPhone o Apple TV](https://iosmac.es/ver-tv-gratis-iphone-apple-tv.html/)
+
+*06/2020* - [SatCESC - Todos los canales de TV españoles en abierto por internet gratis](https://satcesc.com/2020/07/06/canales-television-tdt-gratis-internet/)
+
+*06/2020* - [ADSLZone - Mediaset ya no permite ver sus canales de TDT por listas M3U](https://www.adslzone.net/noticias/streaming-tv/telecinco-cuatro-mediaset-listas-m3u/)
+
+*06/2020* - [SatCESC - Los canales de Mediaset ya no están diponibles en m3u8](https://satcesc.com/2020/06/05/los-canales-de-mediaset-ya-no-estan-disponibles-en-m3u8/)
+
+*06/2020* - [Deia.eus - TDTChannels: cómo ver los canales TDT desde un smartphone o tablet](https://blogs.deia.eus/rincon-android/2020/06/03/tdtchannels-como-ver-los-canales-tdt-desde-un-smartphone-o-tablet/)
+
+*06/2020* - [Xataka Android - La aplicación para ver la tele TDT Channels se actualiza con programación EPG y otras mejoras](https://www.xatakandroid.com/aplicaciones-android/aplicacion-para-ver-tele-tdt-channels-se-actualiza-programacion-epg-otras-mejoras/)
+
 *05/2020* - [SatCESC - TDTChannels, la mejor aplicación para ver la televisión por internet](https://satcesc.com/2020/05/18/tdt-channels-mejor-aplicacion-ver-television-por-internet)
 
 *05/2020* - [SatCESC - TDTChannels, nueva versión para ver la televisión por internet](https://web.archive.org/web/20200512050502/https://satcesc.com/2020/05/09/tdt-channels-nueva-version-television-por-internet) (Archivo)
