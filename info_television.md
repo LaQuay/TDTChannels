@@ -34,7 +34,7 @@ Cualquier otra aplicación para Android y iOS es considerada que utiliza la list
 | Paramount Network | ✔ (+v2.0.0) | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| mtmad 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| mtmad 24h | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DMAX | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DKISS | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
