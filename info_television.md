@@ -262,69 +262,69 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| TV3 | - | - | - | - | - | - | - |
-| 324 | - | - | - | - | - | - | - |
-| 33 | - | - | - | - | - | - | - |
-| Esport 3 | - | - | - | - | - | - | - |
-| Super3 | - | - | - | - | - | - | - |
-| CCMA Exclusiu 1 | - | - | - | - | - | - | - |
-| CCMA Exclusiu 2 | - | - | - | - | - | - | - |
-| La 1 Catalunya | - | - | - | - | - | - | - |
-| La 2 Catalunya | - | - | - | - | - | - | - |
-| 24h Catalunya | - | - | - | - | - | - | - |
-| TV3 Càmeres | - | - | - | - | - | - | - |
-| Bon Dia TV | - | - | - | - | - | - | - |
-| Canal Parlament | - | - | - | - | - | - | - |
-| 8tv | - | - | - | - | - | - | - |
-| betevé | - | - | - | - | - | - | - |
-| teve.cat | - | - | - | - | - | - | - |
-| Fibracat TV | - | - | - | - | - | - | - |
-| Canal Terres de l'Ebre | - | - | - | - | - | - | - |
-| El 9 TV | - | - | - | - | - | - | - |
-| Canal Reus TV | - | - | - | - | - | - | - |
-| Empordà TV | - | - | - | - | - | - | - |
-| BDN | - | - | - | - | - | - | - |
-| TAC 12 | - | - | - | - | - | - | - |
-| Canal 21 Ebre | - | - | - | - | - | - | - |
-| Canal Terrassa | - | - | - | - | - | - | - |
-| Lleida TV | - | - | - | - | - | - | - |
-| La Xarxa | - | - | - | - | - | - | - |
-| TV Costa Brava | - | - | - | - | - | - | - |
-| Olot Televisió | - | - | - | - | - | - | - |
-| Canal Taronja Central | - | - | - | - | - | - | - |
-| Canal Taronja Anoia | - | - | - | - | - | - | - |
-| Canal Taronja Osona i Moianés | - | - | - | - | - | - | - |
-| Canal Blau | - | - | - | - | - | - | - |
-| TV Berguedà | - | - | - | - | - | - | - |
-| El Vendrell TV | - | - | - | - | - | - | - |
-| Cugat Mèdia | - | - | - | - | - | - | - |
-| Ulldecona TV | - | - | - | - | - | - | - |
-| VOTV | - | - | - | - | - | - | - |
-| Mataró Audiovisual | - | - | - | - | - | - | - |
-| Penedès TV | - | - | - | - | - | - | - |
-| TV Girona | - | - | - | - | - | - | - |
-| Canal 10 Empordà | - | - | - | - | - | - | - |
-| rtvc Cardedeu | - | - | - | - | - | - | - |
-| Mola TV | - | - | - | - | - | - | - |
-| etv | - | - | - | - | - | - | - |
-| Vallès Visió | - | - | - | - | - | - | - |
-| TV Ripollés | - | - | - | - | - | - | - |
-| Mar TV | - | - | - | - | - | - | - |
-| RTV10 Sesrovires | - | - | - | - | - | - | - |
-| TV Sant Cugat | - | - | - | - | - | - | - |
-| 25 TV | - | - | - | - | - | - | - |
-| Televisió de Sant Martí | - | - | - | - | - | - | - |
-| Televisió del Baix Guinardó | - | - | - | - | - | - | - |
-| Abadia de Montserrat | - | - | - | - | - | - | - |
-| TV L'Hospitalet | - | - | - | - | - | - | - |
+| TV3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 324 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 33 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Esport 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Super3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CCMA Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CCMA Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 1 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 2 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 24h Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV3 Càmeres | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Bon Dia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Parlament | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| betevé | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| teve.cat | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Fibracat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Terres de l'Ebre | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| El 9 TV | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Canal Reus TV | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Empordà TV | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| BDN | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| TAC 12 | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Canal 21 Ebre | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Canal Terrassa | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Lleida TV | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| La Xarxa | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| TV Costa Brava | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Olot Televisió | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Canal Taronja Central | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Canal Taronja Anoia | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Canal Taronja Osona i Moianés | ✔ | ✔ | ✔ | - | - | ✔ | - |
+| Canal Blau | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| TV Berguedà | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| El Vendrell TV | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Cugat Mèdia | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Ulldecona TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| VOTV | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Mataró Audiovisual | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Penedès TV | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| TV Girona | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 10 Empordà | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| rtvc Cardedeu | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Mola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| etv | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Vallès Visió | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| TV Ripollés | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| Mar TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTV10 Sesrovires | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
+| TV Sant Cugat | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| 25 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Televisió de Sant Martí | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Televisió del Baix Guinardó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Abadia de Montserrat | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 8tv | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
+| TV L'Hospitalet | No emite en directo por Internet |
 
 ### Ceuta
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Ceuta TV | - | - | - | - | - | - | - |
-| RTVCE | - | - | - | - | - | - | - |
-| El Faro | - | - | - | - | - | - | - |
+| Ceuta TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVCE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Faro | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ### C. de Madrid
 
