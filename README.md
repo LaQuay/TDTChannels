@@ -23,7 +23,6 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | -	| -	|
 | **Página web** | [TDTChannels](https://www.tdtchannels.com/) |
 | **Aplicación Android** | [TDTChannels](https://www.tdtchannels.com/android) |
-| **Aplicación Android Open** | [Repositorio](https://github.com/LaQuay/TDTChannels-APP) de la versión Open Source |
 | **Grupo - Telegram** | [Acceder](https://t.me/tdtchannels) al grupo |
 | **Canal de Avisos - Telegram** | [Acceder](https://t.me/tdtchannels_avisos) al canal |
 
@@ -38,7 +37,6 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
 | -	| - | - | - | - |
 | [TDTChannels](https://www.tdtchannels.com/android) | ✔ | ✔ | ✔ | [LaQuay](https://github.com/laquay) |
-| [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP) | ❌ | ✔ | ✔ | [LaQuay](https://github.com/laquay) |
 | [FeedTV](https://github.com/juanro49/FeedTV) | ❌ | ✔ | ✔ | [Juanro49](https://github.com/juanro49) |
 
 #### iOS
