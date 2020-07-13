@@ -19,22 +19,22 @@ Cualquier otra aplicación para Android y iOS es considerada que utiliza la list
 | - | - | - | - | - | - | - | - |
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Antena 3 | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| Cuatro | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| Telecinco | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| laSexta | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| Neox | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| Nova | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| Mega | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| Atreseries | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| FDF | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
-| Energy | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
-| Divinity | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
-| Be Mad | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
-| Paramount Network | ✔ (+v2.0.0) | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
+| Antena 3 | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
+| Cuatro | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
+| Telecinco | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
+| laSexta | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
+| Neox | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
+| Nova | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
+| Mega | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
+| Atreseries | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
+| FDF | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Energy | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Divinity | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Be Mad | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Paramount Network | ✔ | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| mtmad 24h | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
+| mtmad 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DMAX | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DKISS | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
@@ -49,18 +49,18 @@ Cualquier otra aplicación para Android y iOS es considerada que utiliza la list
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | EuropaPress TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Libertad Digital TV | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Libertad Digital TV | ✔  | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ## Deportivos
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
 | Teledeporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Algunas emisiones son Geolocalizadas |
-| GOL | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| GOL | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | RealMadrid TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Barça TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | Sevilla TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | Emiten en su web, bajo registro |
-| Betis TV | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| Betis TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | UD Las Palmas TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -72,7 +72,7 @@ Cualquier otra aplicación para Android y iOS es considerada que utiliza la list
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Boing | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Boing | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -86,9 +86,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - |
 | +24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | +tdp | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Atresplayer 1 | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
-| Atresplayer 2 | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
-| Atresplayer 3 | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Atresplayer 1 | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Atresplayer 2 | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Atresplayer 3 | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Presidente) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -108,20 +108,20 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal Sur 1 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 2 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Andalucía TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Algeciras | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Almería | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Bahía | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Córdoba | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Costa Noroeste | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Granada | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Huelva | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Jaen | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Jerez | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Málaga | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Marbella | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Sevilla | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Sierra | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Algeciras | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Almería | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Bahía | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Córdoba | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Costa Noroeste | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Granada | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Huelva | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Jaen | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Jerez | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Málaga | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Marbella | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Sevilla | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Sierra | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Jerez Televisión | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Onda Cádiz | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
@@ -203,12 +203,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Este Canal TV | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Este Canal TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Gigante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 4 TV | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Canal 4 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 | Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -229,8 +229,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Guadalajara Media | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Visión 6 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Imás TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| CanalImagen Almansa | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| InfoCanal Almansa | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| CanalImagen Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| InfoCanal Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | Alcarria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudad Real TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Canal 4 Mancha Centro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -316,7 +316,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Televisió del Baix Guinardó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Abadia de Montserrat | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8tv | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
-| TV L'Hospitalet | No emite en directo por Internet |
+| TV L'Hospitalet | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Ceuta
 
@@ -330,73 +330,72 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Telemadrid | - | - | - | - | - | - | - |
-| LaOtra | - | - | - | - | - | - | - |
-| Webcam OndaMadrid | - | - | - | - | - | - | - |
-| Teleganés | - | - | - | - | - | - | - |
-| C33 Madrid | - | - | - | - | - | - | - |
-| Distrito TV | - | - | - | - | - | - | - |
-| Déjate de Historias TV | - | - | - | - | - | - | - |
-| Pride Channel | - | - | - | - | - | - | - |
-| Telesur Madrid | - | - | - | - | - | - | - |
-| Solidaria TV | - | - | - | - | - | - | - |
-| TBN España | - | - | - | - | - | - | - |
-| 8madrid TV | - | - | - | - | - | - | - |
+| Telemadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| LaOtra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Webcam OndaMadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Teleganés | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Distrito TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Déjate de Historias TV | 🌐 | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Pride Channel | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telesur Madrid | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Solidaria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 8madrid TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### C. Foral de Navarra
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Navarra TV | - | - | - | - | - | - | - |
-| Parlamento de Navarra | - | - | - | - | - | - | - |
-| TeleRibera | - | - | - | - | - | - | - |
+| Navarra TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Parlamento de Navarra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleRibera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Valenciana
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| À Punt | - | - | - | - | - | - | - |
-| 7 TeleValencia | - | - | - | - | - | - | - |
-| TeleElx | - | - | - | - | - | - | - |
-| Intercomarcal TV | - | - | - | - | - | - | - |
-| Grup Televisió | - | - | - | - | - | - | - |
-| La 8 Mediterráneo | - | - | - | - | - | - | - |
-| Pequeradio TV | - | - | - | - | - | - | - |
-| Alicantí TV | - | - | - | - | - | - | - |
-| TVCS | - | - | - | - | - | - | - |
-| Levante TV | - | - | - | - | - | - | - |
-| tvA | - | - | - | - | - | - | - |
-| Riba-roja TV | - | - | - | - | - | - | - |
-| Televisión de San Vicente | - | - | - | - | - | - | - |
-| TV 4 Vall Uxó | - | - | - | - | - | - | - |
-| Información TV | - | - | - | - | - | - | - |
-| Burriana TV | - | - | - | - | - | - | - |
-| telesafor | - | - | - | - | - | - | - |
-| TV Vega Baja | - | - | - | - | - | - | - |
-| Canal 56 | - | - | - | - | - | - | - |
-| TeVe4 | - | - | - | - | - | - | - |
+| À Punt | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7 TeleValencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleElx | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Intercomarcal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Grup Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 8 Mediterráneo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Alicantí TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVCS | ▶ | ▶ | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| tvA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Riba-roja TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Televisión de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV 4 Vall Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Información TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Burriana TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| telesafor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| TeVe4 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Maestrat TV | - | - | - | - | - | - | - |
-| Univers TV | - | - | - | - | - | - | - |
-| Elche 7 TV | - | - | - | - | - | - | - |
-| TV Almassora | - | - | - | - | - | - | - |
-| Onda 15 TV | - | - | - | - | - | - | - |
-| Intereconomía Valencia TV | - | - | - | - | - | - | - |
-| Onda Valencia | - | - | - | - | - | - | - |
-| Punt 3 Vall Uixó | - | - | - | - | - | - | - |
-| Une Vinalopó | - | - | - | - | - | - | - |
-| Tele Sagunto | - | - | - | - | - | - | - |
-| Corts Valencianes | - | - | - | - | - | - | - |
-| 8 La Marina TV | - | - | - | - | - | - | - |
-| 12TV | - | - | - | - | - | - | - |
-| Comarcal Televisió | - | - | - | - | - | - | - |
+| Univers TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Elche 7 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Almassora | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Onda 15 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Intereconomía Valencia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tele Sagunto | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 12TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
+| Comarcal Televisió | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Extremadura
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Canal Extremadura | - | - | - | - | - | - | - |
-| Cáceres Tevé | - | - | - | - | - | - | - |
-| Televisión Extremeña | - | - | - | - | - | - | - |
+| Canal Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cáceres Tevé | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Televisión Extremeña | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 
 ### Galicia
 
