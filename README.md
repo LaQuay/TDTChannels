@@ -64,8 +64,6 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *07/2020* - [Xataka Móvil - 10 funciones para las que te descargas apps y que tu móvil ya hace de serie](https://www.xatakamovil.com/sistemas-operativos/10-funciones-para-que-te-descargas-apps-que-tu-movil-hace-serie)
 
-*06/2020* - [ADSLZone - Francia está fastidiando la TDT en algunas zonas de España](https://www.adslzone.net/noticias/streaming-tv/tdt-espana-francia-interferencia-asturias/)
-
 *06/2020* - [ADSLZone - Así puedes ver la TDT en Kodi sin usar antena de televisión](https://www.adslzone.net/esenciales/kodi/ver-tdt-online/)
 
 *06/2020* - [iOSmac - Cómo ver la TV gratis en tu iPhone o Apple TV](https://iosmac.es/ver-tv-gratis-iphone-apple-tv.html/)
