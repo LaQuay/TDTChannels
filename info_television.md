@@ -481,7 +481,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Popular TV Murcia | - | - | - | - | - | - | - |
 | RTV Vida | - | - | - | - | - | - | - |
 | TeleArchena | - | - | - | - | - | - | - |
-| Comarcal TV | - | - | - | - | - | - | - |
 | Thader TV | - | - | - | - | - | - | - |
 
 ## Int. Europa
