@@ -337,7 +337,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Distrito TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Déjate de Historias TV | 🌐 | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Pride Channel | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Pride Channel | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - |
 | Telesur Madrid | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Solidaria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -425,10 +425,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | IB3 | - | - | - | - | - | - | - |
 | TEF | - | - | - | - | - | - | - |
 | Canal 4 | - | - | - | - | - | - | - |
-| Fibwi | - | - | - | - | - | - | - |
 | Inselradio TV | - | - | - | - | - | - | - |
 | Lux Mallorca | - | - | - | - | - | - | - |
 | IB3 Esports | - | - | - | - | - | - | - |
+| Fibwi | - | - | - | - | - | - | - |
 
 ### La Rioja
 
