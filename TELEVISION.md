@@ -649,24 +649,24 @@
 | First Music Channel Bielorrusia | [m3u8 # 1](http://hz1.teleport.cc/HLS/HD.m3u8) - [m3u8 # 2](http://hz1.teleport.cc/HLS/SD.m3u8) | [web](http://www.1muz.com/) | [logo](https://graph.facebook.com/onemusicchannel/picture?width=200&height=200) | - | - |
 | Ibiza Global TV | [m3u8 # EN](https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200) | - | - |
 | DanceStar TV | [m3u8 # EN](https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8) | [web](http://dancestartv.com/) | [logo](https://graph.facebook.com/DancestarTV/picture?width=200&height=200) | - | - |
-| HqM Hits | [stream](https://yowi.tv/embed/hitshqm/) | [web](https://hqm.es/canales/hits-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/hits-hqm-1-300x167.jpg) | - | EMB |
-| HqM Spanish | [stream](https://yowi.tv/embed/spanishhqm/) | [web](https://hqm.es/canales/spanish-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/spanish-hqm-300x180.jpg) | - | EMB |
-| HqM Rock | [stream](https://yowi.tv/embed/rockhqm/) | [web](https://hqm.es/canales/rock-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/rock-hqm-300x180.jpg) | - | EMB |
-| HqM Remember | [stream](https://yowi.tv/embed/rememberhqm/) | [web](https://hqm.es/canales/remember-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/remember-hqm-300x180.jpg) | - | EMB |
-| HqM Relax | [stream](https://yowi.tv/embed/relaxhqm/) | [web](https://hqm.es/canales/relax-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/relax-hqm-300x180.jpg) | - | EMB |
-| HqM Pop | [stream](https://yowi.tv/embed/pophqm/) | [web](https://hqm.es/canales/pop-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/pop-hqm-300x180.jpg) | - | EMB |
-| HqM Latin | [stream](https://yowi.tv/embed/latinhqm/) | [web](https://hqm.es/canales/latin-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/latin-hqm-300x180.jpg) | - | EMB |
-| HqM Kids | [stream](https://yowi.tv/embed/kidshqm/) | [web](https://hqm.es/canales/kids-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/kids-hqm-300x180.jpg) | - | EMB |
-| HqM Jazz | [stream](https://yowi.tv/embed/jazzhqm/) | [web](https://hqm.es/canales/jazz-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/jazz-hqm-300x180.jpg) | - | EMB |
-| HqM Hip Hop | [stream](https://yowi.tv/embed/hiphophqm/) | [web](https://hqm.es/canales/hip-hop-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/hip-hop-hqm-300x180.jpg) | - | EMB |
-| HqM Folk | [stream](https://yowi.tv/embed/folkhqm/) | [web](https://hqm.es/canales/folk-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/folk-hqm-300x180.jpg) | - | EMB |
-| HqM Dance | [stream](https://yowi.tv/embed/dancehqm/) | [web](https://hqm.es/canales/dance-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/dance-hqm-300x180.jpg) | - | EMB |
-| HqM Classic | [stream](https://yowi.tv/embed/classichqm/) | [web](https://hqm.es/canales/classic-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/classic-hqm-300x180.jpg) | - | EMB |
-| HqM Chill Out | [stream](https://yowi.tv/embed/ChillOutHQM/) | [web](https://hqm.es/canales/chill-out-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/chill-out-hqm-300x180.jpg) | - | EMB |
-| HqM Blues | [stream](https://yowi.tv/embed/blueshqm/) | [web](https://hqm.es/canales/blues-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/blues-hqm-300x180.jpg) | - | EMB |
-| HqM Baladas | [stream](https://yowi.tv/embed/baladashqm/) | [web](https://hqm.es/canales/baldas-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/baladas-hqm-300x180.jpg) | - | EMB |
-| HqM Arabic | [stream](https://yowi.tv/embed/arabichqm/) | [web](https://hqm.es/canales/arabic-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/arabic-hqm-300x180.jpg) | - | EMB |
-| HqM Gym | [stream](https://yowi.tv/embed/gymhqm/) | [web](https://hqm.es/canales/gym-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/gym-hqm-300x167.jpg) | - | EMB |
+| HqM Hits | [stream](https://yowi.tv/embed/hitshqm/) | [web](https://hqm.es/canales/hits-hqm-directo/) | [logo](https://statics.yowi.tv/files/73aab7905b1561178b40f69820f11986207cb394) | - | EMB |
+| HqM Spanish | [stream](https://yowi.tv/embed/spanishhqm/) | [web](https://hqm.es/canales/spanish-hqm-directo/) | [logo](https://statics.yowi.tv/files/f8584df7f64546f70a346ef301ec2e49c6e91d92) | - | EMB |
+| HqM Rock | [stream](https://yowi.tv/embed/rockhqm/) | [web](https://hqm.es/canales/rock-hqm-directo/) | [logo](https://statics.yowi.tv/files/402e054f5c92c72fd948fee55a4f1acb29147746) | - | EMB |
+| HqM Remember | [stream](https://yowi.tv/embed/rememberhqm/) | [web](https://hqm.es/canales/remember-hqm-directo/) | [logo](https://statics.yowi.tv/files/22b879b8e06cc29689254625cd52b362719aacc3) | - | EMB |
+| HqM Relax | [stream](https://yowi.tv/embed/relaxhqm/) | [web](https://hqm.es/canales/relax-hqm-directo/) | [logo](https://statics.yowi.tv/files/961f5fd08b37fceb794a18ad662d3f420fa5f7e1) | - | EMB |
+| HqM Pop | [stream](https://yowi.tv/embed/pophqm/) | [web](https://hqm.es/canales/pop-hqm-directo/) | [logo](https://statics.yowi.tv/files/74530e0066bb2b1179bc3d1852abf035f5a2ad54) | - | EMB |
+| HqM Latin | [stream](https://yowi.tv/embed/latinhqm/) | [web](https://hqm.es/canales/latin-hqm-directo/) | [logo](https://statics.yowi.tv/files/c397988fd977682a1ae822290f20f69b0554dfea) | - | EMB |
+| HqM Kids | [stream](https://yowi.tv/embed/kidshqm/) | [web](https://hqm.es/canales/kids-hqm-directo/) | [logo](https://statics.yowi.tv/files/7465fad898ca5c3a6832731cc390e6362d968115) | - | EMB |
+| HqM Jazz | [stream](https://yowi.tv/embed/jazzhqm/) | [web](https://hqm.es/canales/jazz-hqm-directo/) | [logo](https://statics.yowi.tv/files/bef71c2b4b99be9a83c69483e4e679222826a28c) | - | EMB |
+| HqM Hip Hop | [stream](https://yowi.tv/embed/hiphophqm/) | [web](https://hqm.es/canales/hip-hop-hqm-directo/) | [logo](https://statics.yowi.tv/files/c56e2bd963790c573bab04bd8a752beb83efafad) | - | EMB |
+| HqM Folk | [stream](https://yowi.tv/embed/folkhqm/) | [web](https://hqm.es/canales/folk-hqm-directo/) | [logo](https://statics.yowi.tv/files/62f5e3df94dc181ef022c5d430823a3f97690ffd) | - | EMB |
+| HqM Dance | [stream](https://yowi.tv/embed/dancehqm/) | [web](https://hqm.es/canales/dance-hqm-directo/) | [logo](https://statics.yowi.tv/files/cb2b44e0f7fb98f4cae80bb452f166f764c2c8c2) | - | EMB |
+| HqM Classic | [stream](https://yowi.tv/embed/classichqm/) | [web](https://hqm.es/canales/classic-hqm-directo/) | [logo](https://statics.yowi.tv/files/68e0b26ca4f7b085560ed873c13cf0ee09a549c3) | - | EMB |
+| HqM Chill Out | [stream](https://yowi.tv/embed/ChillOutHQM/) | [web](https://hqm.es/canales/chill-out-hqm-directo/) | [logo](https://statics.yowi.tv/files/7efb6dad83e3fa171f4265eec9a5ab2c1d4d5bd4) | - | EMB |
+| HqM Blues | [stream](https://yowi.tv/embed/blueshqm/) | [web](https://hqm.es/canales/blues-hqm-directo/) | [logo](https://statics.yowi.tv/files/72ca2eeb697bef62901fd272d528df7ac8d5cc48) | - | EMB |
+| HqM Baladas | [stream](https://yowi.tv/embed/baladashqm/) | [web](https://hqm.es/canales/baldas-hqm-directo/) | [logo](https://statics.yowi.tv/files/1abd8b81fc6ff13a8093f8af52af36e351429895) | - | EMB |
+| HqM Arabic | [stream](https://yowi.tv/embed/arabichqm/) | [web](https://hqm.es/canales/arabic-hqm-directo/) | [logo](https://statics.yowi.tv/files/9ca47a796a3a78ccab8c0ee65df88f87b1a6be18) | - | EMB |
+| HqM Gym | [stream](https://yowi.tv/embed/gymhqm/) | [web](https://hqm.es/canales/gym-hqm-directo/) | [logo](https://statics.yowi.tv/files/51387639e8e1a6f998ab94d2fabcadc63df76262) | - | EMB |
 | DJing Live | [m3u8 # EN](https://www.djing.com/tv/live.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=200&height=200) | - | - |
 | DJing Karaoke | [m3u8 # EN](https://www.djing.com/tv/karaoke.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=200&height=200) | - | - |
 | DJing Hits | [m3u8 # EN](https://www.djing.com/tv/hits.m3u8) | [web](https://www.djing.com) | [logo](https://graph.facebook.com/djingTV/picture?width=200&height=200) | - | - |
