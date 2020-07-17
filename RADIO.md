@@ -77,7 +77,7 @@
 | Babyradio - Música para bailar | [stream](http://sd396babyradio1.lcinternet.com:8009/live) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | WICE |
 | Babyradio - Nanas | [stream](http://sd396babyradio1.lcinternet.com:8004/live) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | WICE |
 | Babyradio - Cuentos infantiles | [stream](http://sd396babyradio1.lcinternet.com:8008/live) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | WICE |
-| Dial Babyradio | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_04.mp3) | [web](https://play.cadenadial.com/emisora/dial_babyradio) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
+| Dial Mini | [aac](https://21233.live.streamtheworld.com/CADENADIAL_04AAC.aac) | [web](https://play.cadenadial.com/emisora/dial_babyradio) | [logo](https://play.cadenadial.com/build/assets/cadenadialespana/img/images-radios/Dial_Mini_Radio.png) | - | - |
 
 ## Deportivas
 
@@ -773,7 +773,7 @@
 | Radio Nacional Melilla | [mp3](https://rnemel.rtveradio.cires21.com/rnemel.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Melilla | [mp3](https://radio5mel.rtveradio.cires21.com/radio5mel.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | SER Melilla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MELILLA.mp3) | [web](https://play.cadenaser.com/emisora/radio_melilla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
-| Onda Cero Melilla | [pls](http://radioserver4.profesionalhosting.com:8146/listen.pls) | [web](http://www.ondaceromelilla.net/ml/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
+| Onda Cero Melilla | [mp3](http://radioserver4.profesionalhosting.com:8146/;.mp3) | [web](http://www.ondaceromelilla.net/ml/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 
 ### País Vasco
 
