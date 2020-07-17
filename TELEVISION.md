@@ -228,7 +228,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | La 7 | [m3u8](https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8) | [web](https://www.rtvcyl.es/DirectoCylTV) | [logo](https://graph.facebook.com/rtvcyl/picture?width=200&height=200) | La7.TV | - |
-| La 8 Avila | [m3u8](https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Avila) | [logo](https://pbs.twimg.com/profile_images/440445995394953216/NVyW2cD6_200x200.jpeg) | - | - |
+| La 8 Avila | [m3u8 # HD](https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8) - [m3u8 # SD](https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/chunklist_b800000.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Avila) | [logo](https://pbs.twimg.com/profile_images/440445995394953216/NVyW2cD6_200x200.jpeg) | - | - |
 | La 8 Bierzo | [m3u8](https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Bierzo) | [logo](https://graph.facebook.com/La8Bierzo/picture?width=200&height=200) | - | - |
 | La 8 Burgos | [m3u8](https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Burgos) | [logo](https://graph.facebook.com/La8Burgos/picture?width=200&height=200) | 8Burgos.TV | - |
 | La 8 Leon | [m3u8](https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Leon) | [logo](https://graph.facebook.com/la8leon/picture?width=200&height=200) | - | - |
@@ -360,7 +360,7 @@
 | TV Vega Baja | [m3u8](https://streaming.tvt-datos.es:8080/hls/tvb/live.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | - |
 | Canal 56 | [m3u8](https://videos.canal56.com/directe/stream/index.m3u8) | [web](https://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=200&height=200) | - | NONAV |
 | TeVe4 | [m3u8](https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8) | [web](http://teve4.es/) | [logo](https://graph.facebook.com/teve4televisio/picture?width=200&height=200) | - | NONAV |
-| Maestrat TV | [mpd](http://51.91.101.183/dash/directe-arsys.mpd) | [web](http://maestrat.tv/maestrat.tv/) | [logo](https://graph.facebook.com/maestrat.tv/picture?width=200&height=200) | - | - |
+| Maestrat TV | [m3u8](https://stream.maestrat.tv/hls/stream.m3u8) | [web](https://www.maestrat.tv/) | [logo](https://graph.facebook.com/maestrat.tv/picture?width=200&height=200) | - | - |
 | Univers TV | [m3u8](https://securestream.conectarhosting.com:8080/hls/universvalencia/master.m3u8) | [web](https://www.universvalencia.es/univers-tv-en-directo/) | [logo](https://graph.facebook.com/UniversValenciaMedia/picture?width=200&height=200) | - | - |
 | Elche 7 TV | [m3u8](http://154.60.248.32/hls/canal1.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://graph.facebook.com/Elche7Tv/picture?width=200&height=200) | - | - |
 | TV Almassora | - | [web](https://www.tvalmassora.com/en-directo/) | [logo](https://graph.facebook.com/tvalmassora/picture?width=200&height=200) | - | W3U,EMB,EXTA |
