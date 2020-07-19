@@ -19,22 +19,22 @@ Cualquier otra aplicación para Android y iOS es considerada que utiliza la list
 | - | - | - | - | - | - | - | - |
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Antena 3 | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| Cuatro | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| Telecinco | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| laSexta | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| Neox | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| Nova | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| Mega | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| Atreseries | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Emisiones Geolocalizadas a España, no disponible para W3U en Android TV |
-| FDF | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
-| Energy | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
-| Divinity | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
-| Be Mad | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Antena 3 | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Cuatro | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Telecinco | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| laSexta | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Neox | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Nova | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Mega | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Atreseries | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| FDF | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Energy | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Divinity | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Be Mad | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | Paramount Network | ✔ | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| mtmad 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| mtmad 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Posible emisión geolocalizada a España. No disponible para W3U en Android TV |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DMAX | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DKISS | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
@@ -72,7 +72,7 @@ Cualquier otra aplicación para Android y iOS es considerada que utiliza la list
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Boing | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Boing | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
