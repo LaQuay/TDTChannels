@@ -351,7 +351,6 @@
 | TVCS | [stream](https://player.twitch.tv/?channel=tvcs&parent=tv) | [web](https://tvcs.tv/en-directe/) | [logo](https://graph.facebook.com/TelevisiondeCastellon/picture?width=200&height=200) | - | EMB |
 | Levante TV | [m3u8](https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8) | [web](http://www.levantetv.es/) | [logo](https://graph.facebook.com/levantetv/picture?width=200&height=200) | - | - |
 | tvA | [m3u8](https://ns3063900.ip-5-39-65.eu/hls/tvaxa.m3u8) | [web](http://www.tv-a.es/) | [logo](https://graph.facebook.com/tvArtequatre/picture?width=200&height=200) | - | NONAV |
-| Riba-roja TV | [m3u8](https://cdn01.yowi.tv/MHU18E7A9D/master.m3u8) | [web](http://www.levantetv.es/) | [logo](https://graph.facebook.com/ribarroja.es/picture?width=200&height=200) | - | NONAV |
 | Televisión de San Vicente | [m3u8](http://134.255.215.122:8080/hls/livealacarta.m3u8) | [web](http://alacarta.televisiondesanvicente.es/endirecto/) | [logo](https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200) | - | - |
 | TV 4 Vall Uxó | [m3u8](https://limited09.todostreaming.es/live/tarson-livestream.m3u8) | [web](https://teve4lavall.com/) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=200&height=200) | - | - |
 | Información TV | [m3u8](http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/master.m3u8) | [web](http://www.informaciontv.es/) | [logo](https://graph.facebook.com/103588046375790/picture?width=200&height=200) | - | - |
