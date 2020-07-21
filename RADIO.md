@@ -199,7 +199,6 @@
 | La Mega Málaga | [mp3](http://streaming5.elitecomunicacion.es:8220/stream?type=.mp3) | [web](http://www.lamegacostadelsol.com/) | [logo](https://graph.facebook.com/lamegacostadelsol/picture?width=200&height=200) | - | - |
 | Onda Guillena Radio | [mp3](http://w2.guillena.org:8000/ondaguillenaradio.mp3) | [web](http://onda.guillena.org) | [logo](https://graph.facebook.com/onda.guillena/picture?width=200&height=200) | - | - |
 | Radio Martos | [stream](https://streaming2.elitecomunicacion.es:8234/stream) | [web](https://martos.es/index.php/nuevas-tecnologias/radio-martos/emision-en-directo/) | [logo](https://graph.facebook.com/radiomartos/picture?width=200&height=200) | - | - |
-| Onda Punta Radio | [stream](https://player.twitch.tv/?channel=ondapuntaradiofm&parent=radio) | [web](https://ondapuntaradio.net/) | [logo](https://graph.facebook.com/OndaPunta/picture?width=200&height=200) | - | EMB |
 | Cadena Latino | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es/) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=200&height=200) | - | - |
 | Radio Cartaya | [stream](http://5.135.183.124:8018/stream) | [web](http://www.radiocartaya.es/) | [logo](https://graph.facebook.com/radiocartaya/picture?width=200&height=200) | - | - |
 | Central FM | [mp3](http://s29.myradiostream.com:4922/;listen.mp3) | [web](http://www.centralfm.com/) | [logo](https://graph.facebook.com/131322746891532/picture?width=200&height=200) | - | - |
