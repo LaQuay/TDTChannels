@@ -366,7 +366,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVCS | ▶ | ▶ | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | tvA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Riba-roja TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Televisión de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Información TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -374,8 +373,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | telesafor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| TeVe4 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Maestrat TV | - | - | - | - | - | - | - |
+| TeVe4 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Sin emision temporalmente |
+| Maestrat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Univers TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Elche 7 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Almassora | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
