@@ -514,7 +514,7 @@
 | Onda Cero Alcalá de Henares | [m3u8](https://livefastly-webs.ondacero.es/alcala-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/alcala-de-henares/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Madrid | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/madrid/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Sierra | [mp3](http://195.55.94.118:7000/;stream.mp3) | [web](https://lavozdelasierra.es/onda-cero-sierra/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
-| Qué Radio | [mp3](http://radioserver9.profesionalhosting.com:59622/;.mp3) | [web](https://queradio.com/) | [logo](https://graph.facebook.com/Que.es/picture?width=200&height=200) | - | - |
+| Qué Radio | [stream](https://radioserver11.profesionalhosting.com/proxy/ggruzfce?mp=/stream) | [web](https://queradio.com/) | [logo](https://graph.facebook.com/Que.es/picture?width=200&height=200) | - | - |
 | Vaughan Radio | [mp3](https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3) | [web](https://grupovaughan.com/vaughan-radio/) | [logo](https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [stream](https://www.lajunglaradio.com:8003/lajunglawebssl) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | - |
 | Unika FM | [stream](http://n02.radiojar.com/7qyvpnex9vzuv) | [web](https://unika.fm/player/) | [logo](https://graph.facebook.com/unikafmmuchomasquedance/picture?width=200&height=200) | - | - |
