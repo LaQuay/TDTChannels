@@ -474,7 +474,7 @@
 | Antena 3 Internacional | - | [web](https://www.antena3internacional.com/) | [logo](https://graph.facebook.com/antena3/picture?width=200&height=200) | - | - |
 | Atreseries Internacional | - | [web](https://www.atresseries.com/) | [logo](https://graph.facebook.com/atreseries/picture?width=200&height=200) | - | - |
 | Atrescine Internacional | - | [web](https://www.atrescine.com/) | [logo](https://graph.facebook.com/atrescine/picture?width=200&height=200) | - | - |
-| Cincomas | - | [web](https://www.cincomas.com/) | [logo](https://graph.facebook.com/CincoMasTV/picture?width=200&height=200) | - | - |
+| Cincomas | - | [web](https://www.cincomas.com/) | [logo](https://pbs.twimg.com/profile_images/1082567852857716736/lwjc8xA4_200x200.jpg) | - | - |
 | ¡Hola! TV | - | [web](https://www.hola.tv/) | [logo](https://graph.facebook.com/HolaTvAmerica/picture?width=200&height=200) | - | - |
 | TVE Internacional | - | [web](https://www.rtve.es/television/tve-internacional/) | [logo](https://graph.facebook.com/tveInternacional/picture?width=200&height=200) | - | - |
 | TV3CAT | [m3u8 # GEOCAT # 1](https://directes-tv-ca.ccma.cat/ca/ngrp:tvc_web/playlist_DVR.m3u8) - [m3u8 # GEOCAT # 2](https://directes-tv-ca.ccma.cat/ca/ngrp:tvi_web/playlist_DVR.m3u8) - [m3u8 # GEO # 1](https://directes-tv-es.ccma.cat/es/ngrp:tvc_web/playlist_DVR.m3u8) - [m3u8 # GEO # 2](https://directes-tv-es.ccma.cat/es/ngrp:tvi_web/playlist_DVR.m3u8) - [m3u8 # 1](https://directes-tv-int.ccma.cat/int/ngrp:tvc_web/playlist_DVR.m3u8) - [m3u8 # 2](https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/tv3cat/) | [logo](https://graph.facebook.com/tv3/picture?width=200&height=200) | - | - |
