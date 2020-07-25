@@ -588,6 +588,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | HCH Honduras | - | - | - | - | - | - | - |
 | Teletica Costa Rica | - | - | - | - | - | - | - |
 | Multimedios Costa Rica | - | - | - | - | - | - | - |
+| Trece Costa Rica | - | - | - | - | - | - | - |
 | TV Cultura Brasil | - | - | - | - | - | - | - |
 
 ## Int. Asia

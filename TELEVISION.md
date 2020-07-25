@@ -571,6 +571,7 @@
 | HCH Honduras | [m3u8](https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8) | [web](https://hch.tv/live/) | [logo](https://graph.facebook.com/HCHTelevisionDigital/picture?width=200&height=200) | - | - |
 | Teletica Costa Rica | [stream](https://www.dailymotion.com/embed/video/x29e3wg?autoplay=1) | [web](https://www.teletica.com/vivo?canal=teletica7) | [logo](https://graph.facebook.com/Teletica/picture?width=200&height=200) | - | EMB,EXTB |
 | Multimedios Costa Rica | [m3u8](https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8) | [web](https://www.multimedios.cr/video) | [logo](https://graph.facebook.com/MultimediosCRMultimediosCR/picture?width=200&height=200) | - | - |
+| Trece Costa Rica | [m3u8](https://api.new.livestream.com/accounts/1532727/events/8717137/live.m3u8) | [web](https://costaricamedios.cr/envivo) | [logo](https://graph.facebook.com/SinartTreceCostaRica/picture?width=200&height=200) | - | - |
 | TV Cultura Brasil | [m3u8 # BR](https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/master.m3u8) | [web](https://tvcultura.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=200&height=200) | - | - |
 
 ## Int. Asia
