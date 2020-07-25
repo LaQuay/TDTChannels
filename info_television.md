@@ -13,6 +13,8 @@ Android y iOS significan TDTChannels Android y TDTChannels iOS, aplicaciones ofi
 W3U es el formato de lista de Wiseplay.
 Cualquier otra aplicación para Android y iOS es considerada que utiliza la lista M3U/M3U8.
 
+Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe de ser correcta, el huso horario no importa.
+
 ## Nacionales
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
@@ -65,8 +67,8 @@ Cualquier otra aplicación para Android y iOS es considerada que utiliza la list
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | La Liga Santander | ▶ | ▶ | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Real Federación Español de Fútbol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emite eventualmente |
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | Emisión diaria entre las 21 - 23h, no disponible para W3U en Android TV |
-| Fight Time | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ## Infantiles
 
@@ -584,6 +586,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Cubavisión TV | - | - | - | - | - | - | - |
 | Trece Paraguay | - | - | - | - | - | - | - |
 | HCH Honduras | - | - | - | - | - | - | - |
+| Teletica Costa Rica | - | - | - | - | - | - | - |
 | Multimedios Costa Rica | - | - | - | - | - | - | - |
 | TV Cultura Brasil | - | - | - | - | - | - | - |
 
