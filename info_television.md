@@ -67,7 +67,7 @@ Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe 
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | La Liga Santander | ▶ | ▶ | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Real Federación Española de Fútbol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emite eventualmente |
+| Real Federación Española de Fútbol | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Emite eventualmente, posible emisión geolocalizada a España |
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | Emisión diaria entre las 21 - 23h, no disponible para W3U en Android TV |
 
 ## Infantiles
