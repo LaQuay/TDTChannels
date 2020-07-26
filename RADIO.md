@@ -881,6 +881,7 @@
 | esRadio Murcia | [stream](http://5.135.183.124:8340/stream) | [web](http://www.esradiomurcia.es/) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | Radio Intereconomía Murcia | [stream](http://eu1.lhdserver.es:9152/stream) | [web](http://intereconomiamurcia.blogspot.com/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [stream](https://www.lajunglaradio.com:8003/lajunglawebssl) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | - |
+| Loca FM Murcia | [stream](http://185.36.211.142:57321/locac) | [web](http://www.locafmmurcia.net/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](https://tunein.com/radio/Radio-Calasparra-1075-s113080/) | [logo](https://graph.facebook.com/349014238632372/picture?width=200&height=200) | - | - |
 | Inter Radio | [mp3](http://str1.mediatelekom.net:8022/;.mp3) | [web](http://www.lainter968.es/) | [logo](https://graph.facebook.com/LaInter968.es/picture?width=200&height=200) | - | - |
 | Metrópolis FM | [stream](https://metropolis.radioca.st/stream) | [web](https://metropolisfm.es/) | [logo](https://pbs.twimg.com/profile_images/1079167278942425088/215ZMhDn_200x200.jpg) | - | - |
