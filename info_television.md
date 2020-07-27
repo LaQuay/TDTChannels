@@ -415,6 +415,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG Parlamento | - | - | - | - | - | - | - |
 | TV Ferrol | - | - | - | - | - | - | - |
 | Televigo | - | - | - | - | - | - | - |
+| Hermes TV | - | - | - | - | - | - | - |
 | Telemiño | - | - | - | - | - | - | - |
 | Auria TV | - | - | - | - | - | - | - |
 | Nós TV | - | - | - | - | - | - | - |
@@ -646,27 +647,29 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Radio Italia TV | - | - | - | - | - | - | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - |
 | Kronehit Austria | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - |
 | NRJ Bélgica | - | - | - | - | - | - | - |
+| 4FUN TV Polonia | - | - | - | - | - | - | - |
+| Tomorrowland TV | - | - | - | - | - | - | - |
+| Radio Italia TV | - | - | - | - | - | - | - |
 | Ocko Chequia | - | - | - | - | - | - | - |
 | Ocko Star Chequia | - | - | - | - | - | - | - |
 | Ocko Expres Chequia | - | - | - | - | - | - | - |
-| 4FUN TV Polonia | - | - | - | - | - | - | - |
 | m2o Italia | - | - | - | - | - | - | - |
-| 1 Music Hungria | - | - | - | - | - | - | - |
 | ON TV Portugal | - | - | - | - | - | - | - |
-| Music Box Ucrania | - | - | - | - | - | - | - |
+| 1 Music Hungria | - | - | - | - | - | - | - |
 | Hit Music Channel | - | - | - | - | - | - | - |
 | V2Beat TV | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - |
 | Rock TV Romania | - | - | - | - | - | - | - |
 | RadioU TV | - | - | - | - | - | - | - |
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - |
+| Otto FM Italia | - | - | - | - | - | - | - |
 | Ibiza Global TV | - | - | - | - | - | - | - |
 | DanceStar TV | - | - | - | - | - | - | - |
+| Top TV Brasil | - | - | - | - | - | - | - |
 | HqM Hits | - | - | - | - | - | - | - |
 | HqM Spanish | - | - | - | - | - | - | - |
 | HqM Rock | - | - | - | - | - | - | - |
@@ -705,10 +708,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Rathergood 90s | - | - | - | - | - | - | - |
 | Rathergood Dance Classics | - | - | - | - | - | - | - |
 | 30A Music USA | - | - | - | - | - | - | - |
-| Retro Music TV Chequia | - | - | - | - | - | - | - |
-| California Music Channel USA | - | - | - | - | - | - | - |
 | Vintage Music TV | - | - | - | - | - | - | - |
 | Retro Plus TV Chile | - | - | - | - | - | - | - |
+| California Music Channel USA | - | - | - | - | - | - | - |
+| Retro Music TV Chequia | - | - | - | - | - | - | - |
 | Muzzik TV Serbia | - | - | - | - | - | - | - |
 | Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - |
 | Muzzik Cafe&Club Serbia | - | - | - | - | - | - | - |
@@ -729,5 +732,3 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Melody Channel Colombia | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - |
 | Spirit TV USA | - | - | - | - | - | - | - |
-| Otto FM Italia | - | - | - | - | - | - | - |
-| Top TV Brasil | - | - | - | - | - | - | - |
