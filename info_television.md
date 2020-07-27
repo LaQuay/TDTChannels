@@ -22,20 +22,20 @@ Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe 
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Antena 3 | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Cuatro | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Telecinco | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Cuatro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Telecinco | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | laSexta | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | Neox | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | Nova | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | Mega | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | Atreseries | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| FDF | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Energy | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Divinity | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Be Mad | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| FDF | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Energy | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Divinity | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Be Mad | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Paramount Network | ✔ | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
 | mtmad 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Posible emisión geolocalizada a España. No disponible para W3U en Android TV |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DMAX | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
@@ -74,7 +74,7 @@ Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe 
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Boing | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Boing | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -332,8 +332,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Telemadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| LaOtra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telemadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
+| LaOtra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
 | Webcam OndaMadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleganés | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
