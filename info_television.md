@@ -205,7 +205,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Este Canal TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Este Canal TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -668,6 +668,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - |
 | Otto FM Italia | - | - | - | - | - | - | - |
 | Ibiza Global TV | - | - | - | - | - | - | - |
+| Ibiza Sonica TV | - | - | - | - | - | - | - |
 | DanceStar TV | - | - | - | - | - | - | - |
 | Top TV Brasil | - | - | - | - | - | - | - |
 | HqM Hits | - | - | - | - | - | - | - |
