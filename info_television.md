@@ -36,7 +36,7 @@ Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe 
 | Paramount Network | ✔ | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
-| mtmad 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Posible emisión geolocalizada a España. No disponible para W3U en Android TV |
+| mtmad 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DMAX | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DKISS | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
