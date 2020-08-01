@@ -139,7 +139,6 @@
 | Axarquía TV | [youtube](https://www.youtube.com/channel/UC0N3U1saaQQWMt2rRPbU0DQ/live) | [web](http://axarquiatv.es/) | [logo](https://graph.facebook.com/AxarquiaTV/picture?width=200&height=200) | - | EMB |
 | Málaga 24h TV | [youtube](https://www.youtube.com/channel/UCoMWImnPAur6JhXDK63dpAg/live) | [web](http://malaga24h.com/directo-de-malaga-24-horas/) | [logo](https://graph.facebook.com/Malaga24hTv/picture?width=200&height=200) | - | W3U,EMB |
 | Más TV Huelva | [m3u8](http://5.189.181.203:1935/gcm8/gcm8/master.m3u8) | [web](http://mastvhuelva.com/) | [logo](https://graph.facebook.com/mastvhuelva/picture?width=200&height=200) | - | - |
-| Villafranca TV | [youtube](https://www.youtube.com/channel/UCIp5TEcJidiaN3p_mguOrTQ/live) | [web](http://www.villafrancadelosbarros.es/index.php/medios-de-comunicacion) | [logo](https://pbs.twimg.com/profile_images/1180389927709810688/BgzpxkjA_200x200.jpg) | - | EMB |
 | Torrevisión | [m3u8](https://api.new.livestream.com/accounts/2614936/events/1848989/live.m3u8) | [web](https://torremolinostv.com/tv-en-directo/) | [logo](https://graph.facebook.com/torremolinostv/picture?width=200&height=200) | - | NONAV |
 | Diez TV | [m3u8](https://streaming.cloud.innovasur.es/mmj/index.m3u8) | [web](https://www.dieztv.es/) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | - | - |
 | RTV Tarifa | [youtube](https://www.youtube.com/channel/UCx5_sA41mFHsZio4umTH3Qw/live) | [web](https://www.aytotarifa.com/notice-category/radio-y-television/) | [logo](https://graph.facebook.com/RTVTARIFA/picture?width=200&height=200) | - | EMB |
@@ -150,7 +149,6 @@
 | CostadelSol TV | [m3u8](https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8) | [web](http://www.costadelsoltv.es/) | [logo](https://graph.facebook.com/costadelsoltv/picture?width=200&height=200) | - | - |
 | PTV Córdoba | [m3u8](http://149.91.98.146:1935/cordoba/stream/master.m3u8) | [web](http://ptvtelecom.com/canales/cordoba.html) | [logo](https://pbs.twimg.com/profile_images/1277487496826425345/FRkZKIGE_200x200.jpg) | - | - |
 | SalTV | [m3u8](https://www.tdtchannels.com/stream/saltv.m3u8) | [web](http://saltv.es/) | [logo](https://pbs.twimg.com/profile_images/1272169218151243777/QKzM3jFm_200x200.jpg) | - | - |
-| Granada Channel 1 | [youtube](https://youtu.be/GqEIjlETgCk) | [web](http://www.granadachannel.es/directo/) | [logo](https://yt3.ggpht.com/a/AATXAJxQPQCkD0hTPIXA9WVjyLtB09LSm1RtGVdfqg=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
 | 101TV Antequera | [m3u8](http://37.187.7.106/las4esquinastv/live.m3u8) | [web](http://www.teleantequera.com/ver-101-tele-antequera/) | [logo](https://graph.facebook.com/812891658754713/picture?width=200&height=200) | - | - |
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200) | FuengirolaTV.TV | - |
@@ -379,6 +377,7 @@
 | Canal Extremadura | [m3u8](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8) | [web](http://www.canalextremadura.es/tv/directo) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | - |
 | Cáceres Tevé | [m3u8](https://ce2019100818001.dnssw.net/hls/ceres.m3u8) | [web](https://caceresteve.es/directo-caceres-teve/) | [logo](https://graph.facebook.com/caceresteve/picture?width=200&height=200) | - | NONAV |
 | Televisión Extremeña | [youtube](https://www.youtube.com/channel/UC_jB4xEftCkAHquU8AGB4iQ/live) | [web](https://www.xn--televisionextremea-30b.com/television-extremena-directo/) | [logo](https://pbs.twimg.com/profile_images/1053956922523705344/7B0DTMHw_200x200.jpg) | - | EMB |
+| Villafranca TV | [youtube](https://www.youtube.com/channel/UCIp5TEcJidiaN3p_mguOrTQ/live) | [web](http://www.villafrancadelosbarros.es/index.php/medios-de-comunicacion) | [logo](https://pbs.twimg.com/profile_images/1180389927709810688/BgzpxkjA_200x200.jpg) | - | EMB |
 
 ### Galicia
 
