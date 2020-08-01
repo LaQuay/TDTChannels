@@ -370,7 +370,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | tvA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Televisión de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Información TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Burriana TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 | telesafor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -388,7 +387,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Tele Sagunto | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 12TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
-| Comarcal Televisió | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
+| Información TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Extremadura
 
