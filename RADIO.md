@@ -353,7 +353,7 @@
 | Locactiva Radio | [mp3](http://91.121.77.67:8106/;.mp3) | [web](http://www.locactivaradio.es/) | [logo](https://graph.facebook.com/LOCACTIVARADIO/picture?width=200&height=200) | - | - |
 | Curadio | [stream](http://37.153.89.76:11000/stream) | [web](http://www.curadio.es/Emisoras.asp) | [logo](https://graph.facebook.com/curadio.es/picture?width=200&height=200) | - | WICE |
 | Radio Kolor | [stream](http://usa1.usastreams.com:8000/RadioKolor) | [web](http://www.radiokolor.es/) | [logo](https://graph.facebook.com/kolor.cuenca/picture?width=200&height=200) | - | - |
-| La Única FM | [stream](http://5.196.73.188:8010/) | [web](https://www.launicafm.com/) | [logo](https://graph.facebook.com/182268477588/picture?width=200&height=200) | - | - |
+| La Única FM | [mp3](http://5.196.73.188:8010/;.mp3) | [web](https://www.launicafm.com/) | [logo](https://graph.facebook.com/182268477588/picture?width=200&height=200) | - | - |
 | Onda Polígono Toledo | [stream](http://marconi.eldialdigital.com:6230/;) | [web](http://www.ondapoligono.org/) | [logo](https://graph.facebook.com/ondapoligono/picture?width=200&height=200) | - | - |
 | Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=200&height=200) | - | - |
 | Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net/) | [logo](https://graph.facebook.com/radioarrebato107.4/picture?width=200&height=200) | - | - |
