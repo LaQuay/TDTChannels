@@ -515,6 +515,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTP 1 Portugal | - | - | - | - | - | - | - |
 | RTP 2 Portugal | - | - | - | - | - | - | - |
 | RTP 3 Portugal | - | - | - | - | - | - | - |
+| RTP Internacional Portugal | - | - | - | - | - | - | - |
 | LN24 Bélgica | - | - | - | - | - | - | - |
 | Vatican News | - | - | - | - | - | - | - |
 | RTCG Montenegro | - | - | - | - | - | - | - |
