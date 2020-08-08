@@ -427,7 +427,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Melilla TV | [m3u8](https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8) | [web](https://inmusa.es/directo/) | [logo](https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200) | MelillaTV.TV | - |
-| Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/8009/master.m3u8) | [web](https://populartvmelilla.es/tv-online/) | [logo](https://graph.facebook.com/populartvml/picture?width=200&height=200) | - | - |
+| Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/8009/master.m3u8) | [web](http://populartvmelilla.com/) | [logo](https://graph.facebook.com/populartvml/picture?width=200&height=200) | - | - |
 | El Faro | - | [web](https://elfarodemelilla.es/) | [logo](https://graph.facebook.com/ElFarodeMelilla/picture?width=200&height=200) | - | NOEM |
 
 ### País Vasco
