@@ -554,6 +554,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Televisa Noticiero Mexico | - | - | - | - | - | - | - |
 | Excelsior Mexico | - | - | - | - | - | - | - |
 | Canal 11 Mexico | - | - | - | - | - | - | - |
+| Quiero TV Mexico | - | - | - | - | - | - | - |
 | Mexico Travel TV | - | - | - | - | - | - | - |
 | Turistik TV Mexico | - | - | - | - | - | - | - |
 | María Visión Mexico | - | - | - | - | - | - | - |
