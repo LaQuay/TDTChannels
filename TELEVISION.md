@@ -359,7 +359,7 @@
 | Maestrat TV | [m3u8](https://stream.maestrat.tv/hls/stream.m3u8) | [web](https://www.maestrat.tv/) | [logo](https://graph.facebook.com/maestrat.tv/picture?width=200&height=200) | - | - |
 | Univers TV | [m3u8](https://5c21f7ec1999d.streamlock.net/universvalencia/universvalencia/playlist.m3u8) | [web](https://www.universvalencia.es/univers-tv-en-directo/) | [logo](https://graph.facebook.com/UniversValenciaMedia/picture?width=200&height=200) | - | - |
 | ON TV | [m3u8](https://streaming-audio-1.magentalabs.es:19360/ontv/ontv.m3u8) | [web](https://www.onradio.fm/on-tv/) | [logo](https://graph.facebook.com/onradio.fm/picture?width=200&height=200) | - | - |
-| Elche 7 TV | [m3u8](http://154.60.248.32/hls/canal1.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://graph.facebook.com/Elche7Tv/picture?width=200&height=200) | - | - |
+| Elche 7 TV | [m3u8](https://streaming.elche7tv.es/hls/canal2.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://graph.facebook.com/Elche7Tv/picture?width=200&height=200) | - | - |
 | TV Almassora | - | [web](https://www.tvalmassora.com/en-directo/) | [logo](https://graph.facebook.com/tvalmassora/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Onda 15 TV | [m3u8](https://5b38ce71f1f00.streamlock.net/8028/8028/master.m3u8) | [web](https://onda15.es/) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
 | Intereconomía Valencia TV | [m3u8](https://strvideo1.ondamedia.es/hls/eltorotv.m3u8) | [web](http://television.intereconomiavalencia.com/) | [logo](https://graph.facebook.com/radiointereconomiavalencia1071/picture?width=200&height=200) | - | - |
@@ -427,7 +427,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Melilla TV | [m3u8](https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8) | [web](https://inmusa.es/directo/) | [logo](https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200) | MelillaTV.TV | - |
-| Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/8009/master.m3u8) | [web](https://populartvmelilla.es/tv-online/) | [logo](https://graph.facebook.com/populartvml/picture?width=200&height=200) | - | - |
+| Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/8009/master.m3u8) | [web](http://populartvmelilla.com/) | [logo](https://graph.facebook.com/populartvml/picture?width=200&height=200) | - | - |
 | El Faro | - | [web](https://elfarodemelilla.es/) | [logo](https://graph.facebook.com/ElFarodeMelilla/picture?width=200&height=200) | - | NOEM |
 
 ### País Vasco
