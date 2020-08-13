@@ -339,7 +339,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | À Punt | [m3u8](https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8) | [web](https://apuntmedia.es/va/directe/tv) | [logo](https://graph.facebook.com/apuntmedia/picture?width=200&height=200) | APUNT.TV | - |
-| 7 TeleValencia | [m3u8](https://live-edge-lon-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8) | [web](https://7televalencia.com/directo-7televalencia) | [logo](https://pbs.twimg.com/profile_images/1269928524980334592/cRzwSpNP_200x200.jpg) | - | - |
+| 7 TeleValencia | [m3u8](https://live-edge-lon-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8) | [web](https://7televalencia.com/directe-7televalencia) | [logo](https://pbs.twimg.com/profile_images/1269928524980334592/cRzwSpNP_200x200.jpg) | - | - |
 | TeleElx | [youtube](https://www.youtube.com/channel/UCTgvgkQPtXrKEDgI9zKEzHA/live) | [web](https://teleelx.es/directo/) | [logo](https://graph.facebook.com/teleelx/picture?width=200&height=200) | TeleElx.TV | EMB |
 | Intercomarcal TV | [m3u8 # 1](https://str.intercomarcal.com/hls/tvisd.m3u8) - [m3u8 # 2](https://str.intercomarcal.com/hls/tvixa.m3u8) | [web](https://www.intercomarcal.com) | [logo](https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200) | - | - |
 | Grup Televisió | [m3u8](https://common01.todostreaming.es/live/ribera-livestream.m3u8) | [web](https://www.riberatelevisio.com/en-directe/) | [logo](https://graph.facebook.com/grup.televisio/picture?width=200&height=200) | - | - |
