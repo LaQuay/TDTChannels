@@ -176,7 +176,7 @@
 | Radiolé Costa de la Luz | [stream](http://cervera.eldialdigital.com:8040/stream) | [web](http://radiolecostaluz.com/reproductor.html) | [logo](https://graph.facebook.com/RadioleCostaDeLaLuz/picture?width=200&height=200) | - | - |
 | Onda Cádiz Radio | [mp3](http://adc-radio-stream.flumotion.com/adc/live-radio.mp3) | [web](https://tv.ocadizdigital.es/radio) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [stream](https://www.lajunglaradio.com:8003/lajunglawebssl) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | - |
-| Radio Mijas | [mp3](https://wecast-b02-02.flumotion.com/mijas-radio/shoutcast.mp3) | [web](http://www.mijascomunicacion.org/index.php/radio-mijas-seccion) | [logo](https://graph.facebook.com/Mijas340/picture?width=200&height=200) | - | - |
+| Radio Mijas | [mp3](https://wecast-b02-02.flumotion.com/mijas-radio/shoutcast.mp3) | [web](http://www.mijascomunicacion.org/index.php/radio-mijas-seccion) | [logo](https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200) | - | - |
 | Radio Planeta | [stream](https://radioplaneta.emitironline.com/) | [web](https://www.radioplaneta.com/) | [logo](https://graph.facebook.com/RadioPlaneta92.8/picture?width=200&height=200) | - | WICE |
 | Nostalgia FM | [stream](https://server.spainbroadcast.net:10985/1) | [web](https://nostalgiafm.es/escuchanos.html) | [logo](https://graph.facebook.com/nostalgiaspain/picture?width=200&height=200) | - | - |
 | Gozadera FM Andalucia | [stream](https://server.spainbroadcast.net:10998/;) | [web](https://www.gozadera.es/endirecto/) | [logo](https://graph.facebook.com/GozaderaSpain/picture?width=200&height=200) | - | - |
