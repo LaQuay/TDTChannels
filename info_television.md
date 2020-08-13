@@ -581,7 +581,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TELE13 Chile | - | - | - | - | - | - | - |
 | TC TV Ecuador | - | - | - | - | - | - | - |
 | TeleAmazonas Ecuador | - | - | - | - | - | - | - |
-| Ecuador TV | - | - | - | - | - | - | - |
 | Bolivia 7.1 TV | - | - | - | - | - | - | - |
 | Bolivia 7.2 TV | - | - | - | - | - | - | - |
 | Cubavisión TV | - | - | - | - | - | - | - |
