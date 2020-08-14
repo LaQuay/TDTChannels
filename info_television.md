@@ -360,7 +360,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TeleElx | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Intercomarcal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Grup Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 8 Mediterráneo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 8 Mediterráneo | 🌐 | 🌐 | 🌐 | ✔ | ❌ | ✔ | - |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Alicantí TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVCS | ▶ | ▶ | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -400,43 +400,42 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| TVG | - | - | - | - | - | - | - |
-| TVG Xabarin | - | - | - | - | - | - | - |
-| TVG Musigal | - | - | - | - | - | - | - |
-| TVG Cultura | - | - | - | - | - | - | - |
-| TVG Momentos G | - | - | - | - | - | - | - |
-| TVG Evento 1 | - | - | - | - | - | - | - |
-| TVG Evento 2 | - | - | - | - | - | - | - |
-| TVG Evento 3 | - | - | - | - | - | - | - |
-| TVG Evento 4 | - | - | - | - | - | - | - |
-| TVG Evento 5 | - | - | - | - | - | - | - |
-| TVG Parlamento | - | - | - | - | - | - | - |
-| TV Ferrol | - | - | - | - | - | - | - |
-| Televigo | - | - | - | - | - | - | - |
-| Hermes TV | - | - | - | - | - | - | - |
-| Telemiño | - | - | - | - | - | - | - |
-| Auria TV | - | - | - | - | - | - | - |
-| Nós TV | - | - | - | - | - | - | - |
+| TVG | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Xabarin | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Musigal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Cultura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Momentos G | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Evento 1 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| TVG Evento 2 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| TVG Evento 3 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| TVG Evento 4 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| TVG Evento 5 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| TVG Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Televigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Hermes TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telemiño | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Auria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Nós TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ### Illes Balears
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| IB3 | - | - | - | - | - | - | - |
-| TEF | - | - | - | - | - | - | - |
-| Canal 4 | - | - | - | - | - | - | - |
+| IB3 | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| IB3 Esports | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | Emisión eventual. No disponible para W3U en Android TV |
+| TEF | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Inselradio TV | - | - | - | - | - | - | - |
 | Lux Mallorca | - | - | - | - | - | - | - |
-| IB3 Esports | - | - | - | - | - | - | - |
-| Fibwi | - | - | - | - | - | - | - |
 
 ### La Rioja
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| TV Rioja | - | - | - | - | - | - | - |
+| TV Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Popular TV La Rioja | - | - | - | - | - | - | - |
-| Parlamento de La Rioja | - | - | - | - | - | - | - |
+| Parlamento de La Rioja | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ### Melilla
 
