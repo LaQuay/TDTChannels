@@ -6,9 +6,9 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 
 | Tipo | Formato | | | | | |
 | -	| - | -	| -	| -	| -	| -	|
-| **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](https://www.tdtchannels.com/lists/channels.json) | [m3u8](https://www.tdtchannels.com/lists/channels.m3u8) | [m3u](https://www.tdtchannels.com/lists/channels.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv) | [w3u](https://www.tdtchannels.com/lists/channels.w3u) |
-| **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](https://www.tdtchannels.com/lists/radio_channels.json) | [m3u8](https://www.tdtchannels.com/lists/radio_channels.m3u8) | [m3u](https://www.tdtchannels.com/lists/radio_channels.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_radio.tv) | [w3u](https://www.tdtchannels.com/lists/radio_channels.w3u) |
-| **TV+Radio** | - | - | [m3u8](https://www.tdtchannels.com/lists/combo_channels.m3u8) | [m3u](https://www.tdtchannels.com/lists/combo_channels.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_combo.tv) | [w3u](https://www.tdtchannels.com/lists/combo_channels.w3u) |
+| **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](https://www.tdtchannels.com/lists/tv.json) | [m3u8](https://www.tdtchannels.com/lists/tv.m3u8) | [m3u](https://www.tdtchannels.com/lists/tv.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv) | [w3u](https://www.tdtchannels.com/lists/tv.w3u) |
+| **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](https://www.tdtchannels.com/lists/radio.json) | [m3u8](https://www.tdtchannels.com/lists/radio.m3u8) | [m3u](https://www.tdtchannels.com/lists/radio.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_radio.tv) | [w3u](https://www.tdtchannels.com/lists/radio.w3u) |
+| **TV+Radio** | - | - | [m3u8](https://www.tdtchannels.com/lists/tvradio.m3u8) | [m3u](https://www.tdtchannels.com/lists/tvradio.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_combo.tv) | [w3u](https://www.tdtchannels.com/lists/tvradio.w3u) |
 | **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://www.tdtchannels.com/epg/TV.xml) | [xml.gz](https://www.tdtchannels.com/epg/TV.xml.gz) | - | - | - |
 
 - *Navegador*: Visionado "manual" en el navegador.
