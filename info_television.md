@@ -153,7 +153,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Onda Jerez TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
 | Más TV Huelva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
@@ -385,7 +384,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Tele Sagunto | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 12TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
-| Información TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Extremadura
 
@@ -480,7 +478,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Popular TV Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Vida | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleArchena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Thader TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ## Int. Europa
 
