@@ -560,6 +560,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Noticias Caracol Colombia | - | - | - | - | - | - | - |
 | Teleantioquia Colombia | - | - | - | - | - | - | - |
 | Señal Colombia | - | - | - | - | - | - | - |
+| Telepacífico Colombia | - | - | - | - | - | - | - |
 | Todo Noticias Argentina | - | - | - | - | - | - | - |
 | C5N Argentina | - | - | - | - | - | - | - |
 | La Nación Argentina | - | - | - | - | - | - | - |
@@ -580,6 +581,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TELE13 Chile | - | - | - | - | - | - | - |
 | TC TV Ecuador | - | - | - | - | - | - | - |
 | TeleAmazonas Ecuador | - | - | - | - | - | - | - |
+| Canal Capital Bolivia | - | - | - | - | - | - | - |
 | Bolivia 7.1 TV | - | - | - | - | - | - | - |
 | Bolivia 7.2 TV | - | - | - | - | - | - | - |
 | Cubavisión TV | - | - | - | - | - | - | - |
