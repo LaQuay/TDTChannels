@@ -441,46 +441,46 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Melilla TV | - | - | - | - | - | - | - |
-| Popular TV Melilla | - | - | - | - | - | - | - |
-| El Faro | - | - | - | - | - | - | - |
+| Melilla TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Popular TV Melilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Faro | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### País Vasco
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| ETB 1 | - | - | - | - | - | - | - |
-| ETB 2 | - | - | - | - | - | - | - |
-| ETB Deportes | - | - | - | - | - | - | - |
-| Hamaika Telebista | - | - | - | - | - | - | - |
-| Goiena | - | - | - | - | - | - | - |
-| TeleBilbao | - | - | - | - | - | - | - |
-| 28 Kanala | - | - | - | - | - | - | - |
-| TeleDonosti | - | - | - | - | - | - | - |
-| Goierri Irrati Telebista | - | - | - | - | - | - | - |
-| Erlo Telebista | - | - | - | - | - | - | - |
-| Oizmendi Telebista | - | - | - | - | - | - | - |
-| Urola Telebista | - | - | - | - | - | - | - |
-| Tele 7 | - | - | - | - | - | - | - |
+| ETB 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ETB 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ETB Deportes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Hamaika Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Goiena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleBilbao | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| 28 Kanala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleDonosti | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Goierri Irrati Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Erlo Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Oizmendi Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Urola Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tele 7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### P. de Asturias
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| TPA7 | - | - | - | - | - | - | - |
-| VinxTV | - | - | - | - | - | - | - |
-| EsAsturiasTV | - | - | - | - | - | - | - |
-| Canal 10 | - | - | - | - | - | - | - |
+| TPA7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| VinxTV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| EsAsturiasTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 10 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### R. de Murcia
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| 7 R. de Murcia | - | - | - | - | - | - | - |
-| Popular TV Murcia | - | - | - | - | - | - | - |
-| RTV Vida | - | - | - | - | - | - | - |
-| TeleArchena | - | - | - | - | - | - | - |
-| Thader TV | - | - | - | - | - | - | - |
+| 7 R. de Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Popular TV Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTV Vida | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleArchena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Thader TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ## Int. Europa
 
@@ -492,37 +492,37 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Cincomas | - | - | - | - | - | - | - |
 | ¡Hola! TV | - | - | - | - | - | - | - |
 | TVE Internacional | - | - | - | - | - | - | - |
-| TV3CAT | - | - | - | - | - | - | - |
-| ETB SAT | - | - | - | - | - | - | - |
-| TVG América | - | - | - | - | - | - | - |
-| ATV Andorra | - | - | - | - | - | - | - |
-| ATV Web Andorra | - | - | - | - | - | - | - |
-| GBC Gibraltar | - | - | - | - | - | - | - |
-| Euronews | - | - | - | - | - | - | - |
-| RT | - | - | - | - | - | - | - |
-| CNN | - | - | - | - | - | - | - |
-| Bloomberg Europe | - | - | - | - | - | - | - |
-| France 24 Francia | - | - | - | - | - | - | - |
-| BFM TV Francia | - | - | - | - | - | - | - |
-| TV5Monde Francia | - | - | - | - | - | - | - |
-| franceinfo: Francia | - | - | - | - | - | - | - |
-| Rai News 24 Italia | - | - | - | - | - | - | - |
-| DW Alemania | - | - | - | - | - | - | - |
-| Das Erste Alemania | - | - | - | - | - | - | - |
-| NDR Niedersachsen Alemania | - | - | - | - | - | - | - |
-| Sky News UK | - | - | - | - | - | - | - |
-| RTP 1 Portugal | - | - | - | - | - | - | - |
-| RTP 2 Portugal | - | - | - | - | - | - | - |
-| RTP 3 Portugal | - | - | - | - | - | - | - |
-| RTP Internacional Portugal | - | - | - | - | - | - | - |
-| LN24 Bélgica | - | - | - | - | - | - | - |
-| Vatican News | - | - | - | - | - | - | - |
-| RTCG Montenegro | - | - | - | - | - | - | - |
-| RT News | - | - | - | - | - | - | - |
-| RT Documentary | - | - | - | - | - | - | - |
-| Ikono TV | - | - | - | - | - | - | - |
-| El Sembrador TV | - | - | - | - | - | - | - |
-| Enlace TV | - | - | - | - | - | - | - |
+| TV3CAT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ETB SAT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG América | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ATV Andorra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ATV Web Andorra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| GBC Gibraltar | - | - | - | - | - | - | Emisión eventual |
+| Euronews | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | - |
+| RT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CNN | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Bloomberg Europe | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| France 24 Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| BFM TV Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV5Monde Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| franceinfo: Francia | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
+| Rai News 24 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| DW Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NDR Niedersachsen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Sky News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTP 1 Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTP 2 Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTP 3 Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTP Internacional Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
+| RTCG Montenegro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RT News | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RT Documentary | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Ikono TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Sembrador TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Enlace TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 
 ## Int. América
 
