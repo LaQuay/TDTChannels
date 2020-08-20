@@ -164,7 +164,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| SalTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Sal Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -555,6 +555,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Turistik TV Mexico | - | - | - | - | - | - | - |
 | María Visión Mexico | - | - | - | - | - | - | - |
 | Noticias Caracol Colombia | - | - | - | - | - | - | - |
+| Canal Capital Colombia | - | - | - | - | - | - | - |
 | Teleantioquia Colombia | - | - | - | - | - | - | - |
 | Señal Colombia | - | - | - | - | - | - | - |
 | Telepacífico Colombia | - | - | - | - | - | - | - |
@@ -578,7 +579,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TELE13 Chile | - | - | - | - | - | - | - |
 | TC TV Ecuador | - | - | - | - | - | - | - |
 | TeleAmazonas Ecuador | - | - | - | - | - | - | - |
-| Canal Capital Bolivia | - | - | - | - | - | - | - |
 | Bolivia 7.1 TV | - | - | - | - | - | - | - |
 | Bolivia 7.2 TV | - | - | - | - | - | - | - |
 | Cubavisión TV | - | - | - | - | - | - | - |
