@@ -790,13 +790,12 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| EITB Musika | [m3u8](https://etbaeitbmusnogeo-lh.akamaihd.net/i/EITBMUSIKA_1@594815/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/eitb-musika/irratia-online/) | [logo](https://graph.facebook.com/eitbmusika/picture?width=200&height=200) | - | - |
-| Gaztea | [m3u8](https://etbagazteanogeo-lh.akamaihd.net/i/GAZTEA_1@349778/master.m3u8) | [web](https://www.eitb.eus/eu/gaztea/gaztea-online/) | [logo](https://graph.facebook.com/gaztea/picture?width=200&height=200) | - | - |
+| Euskadi Irratia | [m3u8](https://etbaeirratinogeo-lh.akamaihd.net/i/EIRRATIA_1@594816/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online/) | [logo](https://graph.facebook.com/Euskadi.Irratia/picture?width=200&height=200) | - | - |
 | Radio Euskadi | [m3u8](https://etbareuskadnogeo-lh.akamaihd.net/i/REUSKADI_1@594818/master.m3u8) | [web](https://www.eitb.eus/es/radio/radio-euskadi/radio-online/) | [logo](https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200) | - | - |
+| EITB Musika | [m3u8](https://etbaeitbmusnogeo-lh.akamaihd.net/i/EITBMUSIKA_1@594815/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/eitb-musika/irratia-online/) | [logo](https://graph.facebook.com/eitbmusika/picture?width=200&height=200) | - | - |
+| EITB Euskal Kantak | [m3u8](https://eitbeuskantnogeo-lh.akamaihd.net/i/EITBEUSKALKANTAK_1@867129/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/eitb-euskal-kantak/) | [logo](https://graph.facebook.com/eitbEuskalKantak/picture?width=200&height=200) | - | - |
 | Radio Vitoria | [m3u8](https://etbavitorianogeo-lh.akamaihd.net/i/RVITORIA_1@594819/master.m3u8) | [web](https://www.eitb.eus/es/radio/radio-vitoria/radio-online/) | [logo](https://graph.facebook.com/radiovitoria.eitb/picture?width=200&height=200) | - | - |
-| Euskadi Irratia + | - | [web](https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online-plus/) | [logo](https://graph.facebook.com/Euskadi.Irratia/picture?width=200&height=200) | - | - |
-| Radio Euskadi + | - | [web](https://www.eitb.eus/es/radio/radio-euskadi/radio-online-plus/) | [logo](https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200) | - | - |
-| Radio Vitoria + | - | [web](https://www.eitb.eus/es/radio/radio-vitoria/radio-online-plus/) | [logo](https://graph.facebook.com/radiovitoria.eitb/picture?width=200&height=200) | - | - |
+| Gaztea | [m3u8](https://etbagazteanogeo-lh.akamaihd.net/i/GAZTEA_1@349778/master.m3u8) | [web](https://www.eitb.eus/eu/gaztea/gaztea-online/) | [logo](https://graph.facebook.com/gaztea/picture?width=200&height=200) | - | - |
 | Radio Nacional País Vasco | [mp3](https://rneeus.rtveradio.cires21.com/rneeus.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 País Vasco | [mp3](https://radio5eus.rtveradio.cires21.com/radio5eus.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | Radio Marca Bilbao | [stream](https://cp12.shoutcheap.com:18030/stream) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
