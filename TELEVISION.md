@@ -547,7 +547,7 @@
 | Todo Noticias Argentina | [youtube](https://youtu.be/wHn1_QVoXGM) | [web](https://tn.com.ar/) | [logo](https://graph.facebook.com/todonoticias/picture?width=200&height=200) | - | - |
 | C5N Argentina | [youtube](https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live) | [web](https://www.minutouno.com/) | [logo](https://graph.facebook.com/C5N.Noticias/picture?width=200&height=200) | - | EMB |
 | La Nación Argentina | [youtube](https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live) | [web](https://lnmas.lanacion.com.ar/) | [logo](https://graph.facebook.com/lanacion/picture?width=200&height=200) | - | EMB |
-| América TV Argentina | [youtube](https://youtu.be/li3GN0Hm7w8) | [web](https://www.americatv.com.ar/) | [logo](https://graph.facebook.com/AmericaTV/picture?width=200&height=200) | - | - |
+| América TV Argentina | [youtube](https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live) | [web](https://www.americatv.com.ar/) | [logo](https://graph.facebook.com/AmericaTV/picture?width=200&height=200) | - | - |
 | TV Pública Argentina | [youtube](https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live) | [web](http://www.tvpublica.com.ar/) | [logo](https://graph.facebook.com/TVPublica/picture?width=200&height=200) | - | EMB |
 | Panamericana Perú | [m3u8](https://cdnhd.iblups.com/hls/ptv2.m3u8) | [web](https://panamericana.pe/tvenvivo/hd) | [logo](https://graph.facebook.com/panamericana.pe/picture?width=200&height=200) | - | - |
 | ATV Perú | [m3u8](https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/master.m3u8) | [web](https://www.atv.pe/envivo) | [logo](https://graph.facebook.com/ATV.pe/picture?width=200&height=200) | - | - |
