@@ -620,7 +620,7 @@
 | La 97.7 Radio Levante | [m3u8 # 1](https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9025/0211/playlist.m3u8) - [m3u8 # 2](https://live-edge-rbx-1.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9025/live-prensaiberica/index.m3u8) | [web](http://www.la977.com/) | [logo](https://graph.facebook.com/la977/picture?width=200&height=200) | - | - |
 | RM Requena Utiel | [stream](https://cast.rmradio.es/radio/8010/stream) | [web](https://www.rmradio.es/requena-utiel/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
 | Torrevieja Radio | [stream](https://sonicpanel.globalstream.pro:10973/;) | [web](https://torreviejaradio.com/) | [logo](https://graph.facebook.com/TorreviejaRadio107.1/picture?width=200&height=200) | - | - |
-| CVRadio | [mp3](https://sonic.mediatelekom.net:10958/stream) | [web](https://www.cvradio.es/player/player.php) | [logo](https://graph.facebook.com/cvradio94.5/picture?width=200&height=200) | - | - |
+| CVRadio | [stream](https://stm2.emiteonline.com:9007/cvradio) | [web](https://www.cvradio.es/player/player.php) | [logo](https://graph.facebook.com/cvradio.es/picture?width=200&height=200) | - | WICE |
 | Play Radio Valencia | [stream](http://srv1.multiesfera.com:8002/stream) | [web](https://playradio.es/) | [logo](https://graph.facebook.com/Playradiovalencia/picture?width=200&height=200) | - | - |
 | Activa FM | [mp3](https://stream.mediasector.es/radio/8000/activafm.mp3) | [web](https://emisorasmusicales.net/activa/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
 | La Mega FM | [mp3](https://stream.mediasector.es/radio/8020/lamega.mp3) | [web](https://emisorasmusicales.net/lamega/) | [logo](https://i1.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/LaMega.png?fit=200%2C200) | - | - |
@@ -823,7 +823,7 @@
 | Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com/) | [logo](https://graph.facebook.com/radioformulahit/picture?width=200&height=200) | - | - |
 | Radio Popular - Herri Irratia | [stream](https://nerbioi.radiopopular.eus/radiopopular1) | [web](https://radiopopular.com/) | [logo](https://graph.facebook.com/herriirratia/picture?width=200&height=200) | - | - |
 | Santurtzi Irratia | [mp3](http://212.83.151.18:8296/;.mp3) | [web](https://www.stzirratia.com/) | [logo](https://graph.facebook.com/stzirratia/picture?width=200&height=200) | - | - |
-| Bilbo Hiria Irratia | [stream](https://eu.radioboss.fm:8060/stream/1/) | [web](https://www.bilbohiria.eus/zuzen1/) | [logo](https://graph.facebook.com/bilbohiria/picture?width=200&height=200) | - | - |
+| Bilbo Hiria Irratia | [stream](http://eu.radioboss.fm:8060/stream) | [web](https://www.bilbohiria.eus/zuzen1/) | [logo](https://graph.facebook.com/bilbohiria/picture?width=200&height=200) | - | - |
 | Mozoilo Irratia | [mp3](http://195.154.33.95:8042/mozoiloi.mp3) | [web](http://www.gdkoirratia.com/PLAY/) | [logo](https://graph.facebook.com/GaldakaokoIrratia/picture?width=200&height=200) | - | - |
 | Naiz Irratia | [mp3](https://zuzenean.naiz.eus/naiz_irratia.mp3) | [web](https://www.naiz.eus/zuzenean.html) | [logo](https://graph.facebook.com/NAIZirratia/picture?width=200&height=200) | - | - |
 | FM Musical | [stream](http://s2.free-shoutcast.com:18204/;) | [web](https://fm-musical.com/) | [logo](https://graph.facebook.com/99fmmusical/picture?width=200&height=200) | - | - |

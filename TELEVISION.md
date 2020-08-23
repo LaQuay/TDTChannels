@@ -120,7 +120,7 @@
 | Costa Noroeste TV | [m3u8](https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8) | [web](http://www.costanoroestetv.net/) | [logo](https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200) | - | - |
 | Condavisión | [m3u8](http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8) | [web](https://www.condavision.es/) | [logo](https://graph.facebook.com/condavision/picture?width=200&height=200) | Condavision.TV | - |
 | Teleonuba | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/live/605oPXx3/playlist.m3u8) | [web](https://www.teleonuba.es/en-directo/) | [logo](https://graph.facebook.com/Teleonuba/picture?width=200&height=200) | Teleonuba.TV | - |
-| CanalCosta | [m3u8](http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8) | [web](https://www.canalcostatv.es/en-directo/) | [logo](https://graph.facebook.com/canalcosta/picture?width=200&height=200) | CanalCosta.TV | - |
+| CanalCosta | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8) | [web](https://www.canalcostatv.es/en-directo/) | [logo](https://graph.facebook.com/canalcosta/picture?width=200&height=200) | CanalCosta.TV | - |
 | Interalmería TV | [m3u8](https://interalmeria.tv/directo/live.m3u8) | [web](https://www.interalmeria.tv/directo) | [logo](https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200) | InterAlmeria.TV | - |
 | TV Centro Andalucía | [m3u8](https://5b59c7a47236a.streamlock.net/TVCENTRO/TVCENTRO/master.m3u8) | [web](https://tvcentroandalucia.com/) | [logo](https://graph.facebook.com/TVCentroAndalucia/picture?width=200&height=200) | - | - |
 | Lebrija TV | [m3u8](https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8) | [web](http://www.lebrija.tv/directo/) | [logo](https://graph.facebook.com/lebrijatelevision/picture?width=200&height=200) | - | - |
@@ -394,7 +394,7 @@
 | TVG Evento 5 | [m3u8](https://events5-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | NONAV |
 | TVG Parlamento | [m3u8](https://amodino-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
 | TV Ferrol | [m3u8](https://directo.tvferrol.es/tv.m3u8) | [web](https://directo.tvferrol.es/) | [logo](https://graph.facebook.com/tvferrol/picture?width=200&height=200) | - | - |
-| Televigo | [m3u8](http://95.216.150.122:1935/gcm4/gcm4/playlist.m3u8) | [web](http://www.televigo.com/) | [logo](https://graph.facebook.com/televigo/picture?width=200&height=200) | - | - |
+| Televigo | [m3u8](https://593fa17dec176.streamlock.net/gcm4/gcm4/playlist.m3u8) | [web](http://www.televigo.com/) | [logo](https://graph.facebook.com/televigo/picture?width=200&height=200) | - | - |
 | Hermes TV | [m3u8](https://cdn01.yowi.tv/1H23S04G4M/master.m3u8) | [web](http://www.hermesvigo.com/h-television.php) | [logo](https://graph.facebook.com/491789551017784/picture?width=200&height=200) | - | - |
 | Telemiño | [youtube](https://www.youtube.com/channel/UCIfXJopeFMqPigsB_NqfLXQ/live) | [web](https://www.teleminho.com/) | [logo](https://graph.facebook.com/teleminho/picture?width=200&height=200) | - | EMB |
 | Auria TV | [youtube](https://www.youtube.com/channel/UC4xDk-vc3i4CB45U7_wmm5g/live) | [web](http://www.auria.es/) | [logo](https://yt3.ggpht.com/a-/AAuE7mBbJ5XfzqqDgg1IkOk23GJ6JZntYZtYT-n1CA=s200-mo-c-c0xffffffff-rj-k-no) | - | EMB |
@@ -547,7 +547,7 @@
 | Todo Noticias Argentina | [youtube](https://youtu.be/wHn1_QVoXGM) | [web](https://tn.com.ar/) | [logo](https://graph.facebook.com/todonoticias/picture?width=200&height=200) | - | - |
 | C5N Argentina | [youtube](https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live) | [web](https://www.minutouno.com/) | [logo](https://graph.facebook.com/C5N.Noticias/picture?width=200&height=200) | - | EMB |
 | La Nación Argentina | [youtube](https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live) | [web](https://lnmas.lanacion.com.ar/) | [logo](https://graph.facebook.com/lanacion/picture?width=200&height=200) | - | EMB |
-| América TV Argentina | [youtube](https://youtu.be/li3GN0Hm7w8) | [web](https://www.americatv.com.ar/) | [logo](https://graph.facebook.com/AmericaTV/picture?width=200&height=200) | - | - |
+| América TV Argentina | [youtube](https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live) | [web](https://www.americatv.com.ar/) | [logo](https://graph.facebook.com/AmericaTV/picture?width=200&height=200) | - | - |
 | TV Pública Argentina | [youtube](https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live) | [web](http://www.tvpublica.com.ar/) | [logo](https://graph.facebook.com/TVPublica/picture?width=200&height=200) | - | EMB |
 | Panamericana Perú | [m3u8](https://cdnhd.iblups.com/hls/ptv2.m3u8) | [web](https://panamericana.pe/tvenvivo/hd) | [logo](https://graph.facebook.com/panamericana.pe/picture?width=200&height=200) | - | - |
 | ATV Perú | [m3u8](https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/master.m3u8) | [web](https://www.atv.pe/envivo) | [logo](https://graph.facebook.com/ATV.pe/picture?width=200&height=200) | - | - |
@@ -713,7 +713,7 @@
 | EuroLatina TV | [m3u8](https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8) | [web](https://www.eurolatinatv.com/) | [logo](https://graph.facebook.com/eurolatinatelevision/picture?width=200&height=200) | - | - |
 | Latinos 1 TV Suiza | [m3u8](https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8) | [web](https://www.latinos1.tv/) | [logo](https://graph.facebook.com/televisionsuiza/picture?width=200&height=200) | - | - |
 | Portal Foxmix Colombia | [m3u8](https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8) | [web](https://www.portalfoxmix.cl/web/) | [logo](https://graph.facebook.com/portalfoxmixtv/picture?width=200&height=200) | - | - |
-| Melody Channel Colombia | [m3u8](https://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8) | [web](https://melodychannel.tv/) | [logo](https://graph.facebook.com/melodychanneltv/picture?width=200&height=200) | - | - |
+| Melody Channel Colombia | [m3u8](https://5f2eaf2aa4061.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8) | [web](https://melodychannel.tv/) | [logo](https://graph.facebook.com/melodychanneltv/picture?width=200&height=200) | - | - |
 | Ditty TV USA | [m3u8 # EN](https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8) | [web](https://dittytv.com/watch/) | [logo](https://graph.facebook.com/DittyTV/picture?width=200&height=200) | - | - |
 | Spirit TV USA | [m3u8 # EN](https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8) | [web](https://myspirit.tv/) | [logo](https://graph.facebook.com/MySpirittv/picture?width=200&height=200) | - | - |
 | Urban Revolution | [m3u8](https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8) | [web](https://www.urbanrevolution.es/plugin/Live/?c=uRV) | [logo](https://graph.facebook.com/fmurban/picture?width=200&height=200) | - | - |
