@@ -666,6 +666,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Otto FM Italia | - | - | - | - | - | - | - |
 | Ibiza Global TV | - | - | - | - | - | - | - |
 | Ibiza Sonica TV | - | - | - | - | - | - | - |
+| Café del Mar Ibiza | - | - | - | - | - | - | - |
 | DanceStar TV | - | - | - | - | - | - | - |
 | Top TV Brasil | - | - | - | - | - | - | - |
 | HqM Hits | - | - | - | - | - | - | - |
@@ -686,6 +687,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | HqM Baladas | - | - | - | - | - | - | - |
 | HqM Arabic | - | - | - | - | - | - | - |
 | HqM Gym | - | - | - | - | - | - | - |
+| The Good Life Radio | - | - | - | - | - | - | - |
+| LoFi Hip-Hop Beats Music | - | - | - | - | - | - | - |
+| Beautiful Piano Music | - | - | - | - | - | - | - |
 | DJing Live | - | - | - | - | - | - | - |
 | DJing Karaoke | - | - | - | - | - | - | - |
 | DJing Hits | - | - | - | - | - | - | - |
