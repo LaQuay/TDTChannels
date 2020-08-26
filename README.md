@@ -2,7 +2,7 @@
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y a los principales canales Internacionales del mundo. Además la programación EPG está disponible e integrada automáticamente en los ficheros generados.
 
 ### Listas de reproducción
-[Fecha de última actualización](https://www.tdtchannels.com/lists/). Y listado de todas las listas disponibles.
+[Fecha de última actualización](https://www.tdtchannels.com/lists/). Y listado de todas las listas disponibles. Haz [click aquí](https://github.com/LaQuay/TDTChannels/blob/master/info_television.md) para saber el estado de las listas y comprobar qué emisiones hay en cada lista.
 
 | Tipo | Formato | | | | | |
 | -	| - | -	| -	| -	| -	| -	|
