@@ -377,7 +377,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Elche 7 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Almassora | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 | Onda 15 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Intereconomía Valencia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Toro Valencia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -558,9 +558,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal Capital Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleantioquia Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Señal Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telecaribe Colombia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | Telepacífico Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Todo Noticias Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | C5N Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Telefé Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | La Nación Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | América TV Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
 | TV Pública Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
