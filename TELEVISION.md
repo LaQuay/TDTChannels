@@ -322,7 +322,7 @@
 | Pride Channel | - | [web](http://pridechanneltv.com/#endirecto) | [logo](https://graph.facebook.com/PrideChannelTV/picture?width=200&height=200) | - | - |
 | Telesur Madrid | [m3u8](https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8) | [web](https://telesurmadrid.wordpress.com/) | [logo](https://graph.facebook.com/telesurmadrid/picture?width=200&height=200) | - | NONAV |
 | Solidaria TV | [m3u8](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](https://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | - | - |
-| TBN España | [m3u8](http://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_all/playlist.m3u8) | [web](https://xn--tbnespaa-j3a.es/) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
+| TBN España | [m3u8](https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m3u8) | [web](https://xn--tbnespaa-j3a.es/) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
 | 8madrid TV | - | [web](https://www.8madrid.tv/) | [logo](https://graph.facebook.com/8madridTV/picture?width=200&height=200) | - | NOEM |
 
 ### C. Foral de Navarra
