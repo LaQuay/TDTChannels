@@ -359,7 +359,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TeleElx | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Intercomarcal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Grup Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 8 Mediterráneo | 🌐 | 🌐 | 🌐 | ✔ | ❌ | ✔ | - |
+| La 8 Mediterráneo | 🌐 | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Alicantí TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVCS | ▶ | ▶ | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
