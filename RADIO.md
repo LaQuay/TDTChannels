@@ -527,14 +527,14 @@
 | Top Radio | [stream](http://18003.live.streamtheworld.com/TOPRADIO_SC) | [web](http://www.topradio.es) | [logo](https://graph.facebook.com/topradioes/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
 | Radio Ya | [stream](https://s20.prositel.net:9085/RadioYA) | [web](https://www.radioya.es/) | [logo](https://graph.facebook.com/radioya.es/picture?width=200&height=200) | - | - |
-| Master FM | [m3u8](https://radios.lamaster.es:8000/madrid) | [web](https://lamaster.es/) | [logo](https://graph.facebook.com/lamasterfm/picture?width=200&height=200) | - | WICE |
+| Master FM | [m3u8](https://radios.lamaster.es:8000/madrid) | [web](https://lamaster.es/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | WICE |
 | Radio Sol XXI | [mp3](https://server24.streaming-pro.com:6138/radiosolxxi.mp3) | [web](http://radiosol.com/) | [logo](https://graph.facebook.com/radiosolxxi/picture?width=200&height=200) | - | - |
 | Swing FM | [stream](http://ns3.mycloud-apps.es:8003/live) | [web](https://www.swingfmradio.com/) | [logo](https://graph.facebook.com/swingfm/picture?width=200&height=200) | - | - |
 | Radio Vallekas | [stream](http://cervera.eldialdigital.com:8032/;) | [web](http://www.radiovallekas.org/) | [logo](https://graph.facebook.com/radiovallekas/picture?width=200&height=200) | - | - |
 | Capital Radio | [mp3](https://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3) | [web](https://www.capitalradio.es/directo) | [logo](https://graph.facebook.com/capitalradiob/picture?width=200&height=200) | - | - |
 | Radio Tentación | [mp3](http://88.26.228.190:8010/;.mp3) | [web](https://www.radiotentacion.com/) | [logo](https://graph.facebook.com/radiotentacionofficial/picture?width=200&height=200) | - | - |
 | Radio Enlace | [stream](https://cervera.eldialdigital.com:25121/stream) | [web](http://www.radioenlace.org/) | [logo](https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200) | - | WICE |
-| Radio Inter | [stream](http://ns3.mycloud-apps.es:8030/stream) | [web](https://www.radiointer.es/) | [logo](https://graph.facebook.com/RadioIntEs/picture?width=200&height=200) | - | - |
+| Radio Inter | [stream](http://ns3.mycloud-apps.es:8030/stream) | [web](https://www.radiointer.es/) | [logo](https://graph.facebook.com/radiointerspain/picture?width=200&height=200) | - | - |
 | Radio Cigüeña | [stream](https://cervera.eldialdigital.com:25171/stream) | [web](http://www.radiociguena.org/) | [logo](https://graph.facebook.com/297157036138/picture?width=200&height=200) | - | WICE |
 | Radio Utopía | [mp3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](http://www.radioutopia.org.es/) | [logo](https://graph.facebook.com/179099278878655/picture?width=200&height=200) | - | - |
 | Peperadio | [stream](https://server10.emitironline.com:8032/) | [web](https://peperadio.es/) | [logo](https://pbs.twimg.com/profile_images/905319409992044544/x35XzF3A_200x200.jpg) | - | - |
