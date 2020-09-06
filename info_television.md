@@ -692,18 +692,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | The Good Life Radio | - | - | - | - | - | - | - |
 | LoFi Hip-Hop Beats Music | - | - | - | - | - | - | - |
 | Beautiful Piano Music | - | - | - | - | - | - | - |
-| DJing Live | - | - | - | - | - | - | - |
-| DJing Karaoke | - | - | - | - | - | - | - |
-| DJing Hits | - | - | - | - | - | - | - |
-| DJing Dancefloor | - | - | - | - | - | - | - |
-| DJing Underground | - | - | - | - | - | - | - |
-| DJing Electro Rock | - | - | - | - | - | - | - |
-| DJing Animation | - | - | - | - | - | - | - |
-| DJing Avicii | - | - | - | - | - | - | - |
-| DJing French touch | - | - | - | - | - | - | - |
-| DJing Hedonist | - | - | - | - | - | - | - |
-| DJing Summer Vibes | - | - | - | - | - | - | - |
-| DJing Wild EDM | - | - | - | - | - | - | - |
 | Rathergood Radio | - | - | - | - | - | - | - |
 | Rathergood Dance | - | - | - | - | - | - | - |
 | Rathergood Movies | - | - | - | - | - | - | - |
