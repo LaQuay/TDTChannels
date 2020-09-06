@@ -338,7 +338,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Déjate de Historias TV | 🌐 | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pride Channel | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - |
 | Telesur Madrid | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Solidaria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TB Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8madrid TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
