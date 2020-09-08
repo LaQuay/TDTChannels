@@ -259,6 +259,7 @@
 | Hit Pirineos | [stream](http://stm1.emiteonline.com:8022/hitpirineos) | [web](http://www.hitradiofm.es/hitpirineos.html) | [logo](https://graph.facebook.com/hitpirineos/picture?width=200&height=200) | - | WICE |
 | ZFM Zaragoza | [mp3](http://streaming.zarastudio.es/zfm.mp3) | [web](http://www.zaragozafm.es/player/) | [logo](https://graph.facebook.com/zfmzaragoza/picture?width=200&height=200) | - | - |
 | Radio Ribagorza | [stream](http://85.25.217.22:8210/stream) | [web](http://www.radioribagorza.es/radioonline.html) | [logo](https://us0-cdn.onlineradiobox.com/img/logo/8/54408.v2.png) | - | - |
+| Radio Calamocha | [mp3](http://178.32.221.43/ondacerocalamocha.mp3) | [web](https://www.radiocalamocha.es/player.html) | [logo](https://graph.facebook.com/radiocalamocha/picture?width=200&height=200) | - | - |
 
 ### Canarias
 
