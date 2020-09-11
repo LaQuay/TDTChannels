@@ -565,6 +565,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La Nación Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | América TV Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
 | TV Pública Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Exitosa Noticias Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Panamericana Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV+ Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |

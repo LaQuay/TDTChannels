@@ -206,7 +206,7 @@
 | - | - | - | - | - | - |
 | CMM | [m3u8](https://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8) | [web](https://www.cmmedia.es/en-directo/tv/) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | CMM.TV | - |
 | TV Hellín | [m3u8](https://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8) | [web](https://www.televisionhellin.com/tv-en-directo) | [logo](https://graph.facebook.com/tvhellin/picture?width=200&height=200) | - | - |
-| Guada TV | [m3u8](http://95.216.150.122:1935/gcm6/gcm6/playlist.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200) | - | - |
+| Guada TV | [m3u8](https://5f4cab04444c6.streamlock.net/gcm6/gcm6/playlist.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200) | - | - |
 | Guadalajara Media | [youtube](https://www.youtube.com/channel/UCaEv8XC5Czu8vfV_QKUARLQ/live) | [web](https://nuevaalcarria.com/) | [logo](https://graph.facebook.com/canalguadalajara/picture?width=200&height=200) | - | EMB |
 | Visión 6 TV | [m3u8](https://secure3.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | [logo](https://graph.facebook.com/104927246235553/picture?width=200&height=200) | - | NONAV |
 | Imás TV | [m3u8](https://secure3.todostreaming.es/live/imastv-livestream.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | [logo](https://graph.facebook.com/television.imas/picture?width=200&height=200) | - | NONAV |
@@ -214,7 +214,7 @@
 | InfoCanal Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=200&height=200) | - | W3U,EXTA |
 | Alcarria TV | [m3u8 # 1](https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8) - [m3u8 # 2](http://217.182.77.27/live/alcarriatv-livestream.m3u8) | [web](https://www.alcarria.tv/htmlPlayer.html) | [logo](https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200) | - | - |
 | Ciudad Real TV | [youtube](https://www.youtube.com/channel/UCNxFBlUBOaI3iQW37T3hFww/live) | [web](https://www.ciudadreal.es/servicios-municipales/cr-tv.html) | [logo](https://graph.facebook.com/1765736930414544/picture?width=200&height=200) | - | EMB |
-| TeleToledo | [m3u8](http://95.216.150.122:1935/gcm1/gcm1/playlist.m3u8) | [web](https://www.teletoledo.es/index.php/tv-en-directo) | [logo](https://graph.facebook.com/Teletoledo/picture?width=200&height=200) | - | - |
+| TeleToledo | [m3u8](https://5f4cab04444c6.streamlock.net/gcm1/gcm1/playlist.m3u8) | [web](https://www.teletoledo.es/index.php/tv-en-directo) | [logo](https://graph.facebook.com/Teletoledo/picture?width=200&height=200) | - | - |
 | Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8) | [web](https://villarrobledonoticias.com/canal-4-mancha/) | [logo](https://graph.facebook.com/canal4television/picture?width=200&height=200) | - | - |
 | Manzanares10TV | [m3u8](https://secure.todostreaming.es/live/manzanares-livestream.m3u8) | [web](http://www.manzanares10.tv/) | [logo](https://graph.facebook.com/Manzanares10TV/picture?width=200&height=200) | - | - |
 | RTV Diocesana Toledo | [m3u8](https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8) | [web](http://rtvd.org/) | [logo](https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_200x200.jpg) | - | NONAV |
@@ -550,6 +550,7 @@
 | La Nación Argentina | [youtube](https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live) | [web](https://lnmas.lanacion.com.ar/) | [logo](https://graph.facebook.com/lanacion/picture?width=200&height=200) | - | EMB |
 | América TV Argentina | [youtube](https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live) | [web](https://www.americatv.com.ar/) | [logo](https://graph.facebook.com/AmericaTV/picture?width=200&height=200) | - | EMB |
 | TV Pública Argentina | [youtube](https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live) | [web](http://www.tvpublica.com.ar/) | [logo](https://graph.facebook.com/TVPublica/picture?width=200&height=200) | - | EMB |
+| Exitosa Noticias Perú | [m3u8](https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8) | [web](https://exitosanoticias.pe/v1/tvenvivo/) | [logo](https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200) | - | - |
 | Panamericana Perú | [m3u8](https://cdnhd.iblups.com/hls/ptv2.m3u8) | [web](https://panamericana.pe/tvenvivo/hd) | [logo](https://graph.facebook.com/panamericana.pe/picture?width=200&height=200) | - | - |
 | ATV Perú | [m3u8](https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/master.m3u8) | [web](https://www.atv.pe/envivo) | [logo](https://graph.facebook.com/ATV.pe/picture?width=200&height=200) | - | - |
 | ATV+ Perú | [m3u8](https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/master.m3u8) | [web](https://www.atv.pe/envivo) | [logo](https://graph.facebook.com/atvmasnoticias/picture?width=200&height=200) | - | - |
@@ -559,7 +560,7 @@
 | TeleSUR Venezuela | [m3u8](https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/index.html) | [logo](https://graph.facebook.com/teleSUR/picture?width=200&height=200) | TeleSUR.TV | - |
 | Globovision Venezuela | [youtube](https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live) | [web](https://globovision.com/) | [logo](https://graph.facebook.com/globovision/picture?width=200&height=200) | - | EMB |
 | Venezolana de Televisión | [m3u8](https://livestream.streamingconnect.com/hls/vtvweb.m3u8) | [web](https://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | - |
-| Televen TV Venezuela | [m3u8](http://95.216.150.122:1935/televenweb/televenweb/playlis.m3u8) | [web](http://www.televen.com/) | [logo](https://graph.facebook.com/TelevenTV/picture?width=200&height=200) | - | - |
+| Televen TV Venezuela | [m3u8](https://5f4cab04444c6.streamlock.net/televenweb/televenweb/playlis.m3u8) | [web](http://www.televen.com/) | [logo](https://graph.facebook.com/TelevenTV/picture?width=200&height=200) | - | - |
 | VPI TV Venezuela | [m3u8](https://www.latatv.com:444/live/5dcc76a163dbe/index.m3u8) | [web](https://vpitv.com/en-vivo/) | [logo](https://graph.facebook.com/vpitv/picture?width=200&height=200) | - | - |
 | La Tele Tuya Venezuela | [m3u8](https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8) | [web](https://lateletuya.com/) | [logo](https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200) | - | - |
 | 24h Chile | [youtube](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live) | [web](https://www.24horas.cl/envivo/) | [logo](https://graph.facebook.com/24horas.cl/picture?width=200&height=200) | - | EMB |
