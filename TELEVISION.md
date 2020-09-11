@@ -653,7 +653,7 @@
 | Otto FM Italia | [m3u8 # IT](http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8) | [web](http://ottofm.com/otto-fm-tv-limpronta-digitale-degli-anni-ottanta/) | [logo](https://graph.facebook.com/Ottotivu/picture?width=200&height=200) | - | - |
 | Ibiza Global TV | [m3u8 # EN](https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200) | - | - |
 | Ibiza Sonica TV | [stream](https://livestream.com/accounts/28304265/events/8599771) | [web](http://ibizasonica.com/) | [logo](https://graph.facebook.com/ibizasonicaradio/picture?width=200&height=200) | - | EXTB |
-| Café del Mar Ibiza | [youtube](https://youtu.be/IiCpDP0zclY) | [web](https://cafedelmar.com/) | [logo](https://graph.facebook.com/cafedelmaribizaofficialpage/picture?width=200&height=200) | - | - |
+| Café del Mar Ibiza | [youtube](https://www.youtube.com/channel/UCha0QKR45iw7FCUQ3-1PnhQ/live) | [web](https://cafedelmar.com/) | [logo](https://graph.facebook.com/cafedelmaribizaofficialpage/picture?width=200&height=200) | - | EMB |
 | DanceStar TV | [m3u8 # EN](https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8) | [web](http://dancestartv.com/) | [logo](https://graph.facebook.com/DancestarTV/picture?width=200&height=200) | - | - |
 | Top TV Brasil | [m3u8 # PT](https://5d23bdca513db.streamlock.net/8006/8006/master.m3u8) | [web](https://mundialcom.com.br/toptv/) | [logo](https://graph.facebook.com/Toptv.rede/picture?width=200&height=200) | - | - |
 | HqM Hits | [stream](https://yowi.tv/embed/hitshqm/) | [web](https://hqm.es/canales/hits-hqm-directo/) | [logo](https://statics.yowi.tv/files/73aab7905b1561178b40f69820f11986207cb394) | - | EMB |
