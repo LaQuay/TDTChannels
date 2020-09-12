@@ -464,7 +464,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| TPA7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TPA7 | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | VinxTV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | EsAsturiasTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
