@@ -293,6 +293,7 @@
 | MIX FM Radio | [stream](https://server10.emitironline.com:8064/stream) | [web](https://www.mixfm-radio.com/) | [logo](https://graph.facebook.com/mixfmradiotenerifelaradiodelacomarca/picture?width=200&height=200) | - | - |
 | Radio Teide | [stream](http://c01.lexycast.de:5070/.mp3) | [web](https://www.radioteide.eu/) | [logo](https://graph.facebook.com/RadioTeide/picture?width=200&height=200) | - | - |
 | Canal 11 Radio | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal11lapalma.net/escuchanos.html) | [logo](https://graph.facebook.com/189726651071598/picture?width=200&height=200) | - | - |
+| MUZ.FM | [mp3](http://185.229.9.121:8000/muzfm.mp3) | [web](http://muz.fm/?lang=es) | [logo](https://graph.facebook.com/muzfmradio/picture?width=200&height=200) | - | - |
 
 ### Cantabria
 
@@ -657,7 +658,7 @@
 | TodoExitosRadio | [stream](http://stream11.shoutcastsolutions.com:9432/;) | [web](http://www.todoexitosradio.net/) | [logo](http://www.todoexitosradio.net/images/altavozlogoWEB1.jpg-web.jpg) | - | WICE |
 | Radio Malibú | [mp3](https://stream.mediasector.es/radio/8170/maliburadio.mp3) | [web](https://www.radiomalibu.es/) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
 | Radio 90FM | [stream](https://node-33.zeno.fm/015h6n8vfzzuv) | [web](https://radio90fmvalencia.wixsite.com/90fm) | [logo](https://static.wixstatic.com/media/f5b851_67e1cadb04a642e2a353a636264ca548~mv2.png) | - | WICE |
-| Radio Joven Digital | [stream](http://radio.elche.es:8000/stream) | [web](http://elchejuventud.es/radio-joven/) | [logo](https://graph.facebook.com/elchejuventud/picture?width=200&height=200) | - | WICE |
+| Alcira Radio | [mp3](https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3) | [web](https://alziraradio.com/alzira-radio-en-directe/) | [logo](https://graph.facebook.com/alziraradio/picture?width=200&height=200) | - | - |
 
 ### Extremadura
 
