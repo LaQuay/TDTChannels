@@ -615,7 +615,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | ABC Australia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | United Nations TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | AfricaNews | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Channels TV Nigeria | ▶ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| Channels TV Nigeria | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TVGE 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tastemade | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Miami TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
