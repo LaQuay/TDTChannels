@@ -590,6 +590,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 33 El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Taber TV El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| WOW El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teletica Costa Rica | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Multimedios Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
