@@ -154,11 +154,12 @@
 | Sal Televisión | [m3u8](https://www.tdtchannels.com/stream/saltv.m3u8) | [web](http://saltv.es/) | [logo](https://pbs.twimg.com/profile_images/1272169218151243777/QKzM3jFm_200x200.jpg) | - | - |
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
 | 101TV Antequera | [m3u8](http://37.187.7.106/las4esquinastv/live.m3u8) | [web](http://www.teleantequera.com/ver-101-tele-antequera/) | [logo](https://graph.facebook.com/812891658754713/picture?width=200&height=200) | - | - |
+| Islatel | [m3u8](https://www.youtube.com/channel/UCf4hfEfeqVTrTx7-VadIbgQ/live) | [web](http://www.islatel.es/) | [logo](https://graph.facebook.com/101523104600501/picture?width=200&height=200) | - | EMB |
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200) | FuengirolaTV.TV | - |
 | TVM Córdoba | [m3u8](https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8) | [web](https://www.cordoba.es/emision_directo/index.html) | [logo](https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200) | - | - |
 | Tele Gilena | [m3u8](https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8) | [web](http://www.telegilena.com/directo/) | [logo](https://pbs.twimg.com/profile_images/1249354233813622784/AstccGAT_200x200.jpg) | - | - |
 | Cancionero TV | [m3u8](http://89.140.99.41/hls/cancionero.m3u8) | [web](http://www.cancionero.es/tv/) | [logo](https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png) | - | - |
-| Canal Coín | [m3u8](http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8) | [web](https://canalcoin.com/tv-directo) | [logo](https://yt3.ggpht.com/a/AATXAJxBOpg8wglxv7mUxdPlwj-GnYRCUMtdLpQcNw=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
+| Canal Coín | [m3u8](http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8) | [web](http://canalcoin.com/tv-directo) | [logo](https://yt3.ggpht.com/a/AATXAJxBOpg8wglxv7mUxdPlwj-GnYRCUMtdLpQcNw=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
 | Trebujena TV | [m3u8](http://212.104.160.156:1935/live/trebujenatv2/master.m3u8) | [web](http://trebujena.tv/) | [logo](https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg) | - | - |
 | El Correo de Andalucía | - | [web](https://elcorreoweb.es/elcorreotv) | [logo](https://graph.facebook.com/elcorreoweb/picture?width=200&height=200) | - | NOEM |
 
@@ -458,6 +459,7 @@
 | Popular TV Murcia | [m3u8](https://593fa17dec176.streamlock.net/gcm6/gcm6/master.m3u8) | [web](https://www.populartvrm.com/) | [logo](https://graph.facebook.com/poptvregiondemurcia/picture?width=200&height=200) | PopularMU.TV | - |
 | RTV Vida | [m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/tv/) | [logo](https://graph.facebook.com/vidartv/picture?width=200&height=200) | - | - |
 | TeleArchena | [m3u8](https://ott.mapeka.es:64000/live/_definst_/telearchena/playlist.m3u8?bid=mapeka&sid=1&ref=bb22a7fda046cceead5da8d964caf620) | [web](https://telearchena.es/) | [logo](https://graph.facebook.com/telearchena.es/picture?width=200&height=200) | - | - |
+| Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es/) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
 
 ## Int. Europa
 

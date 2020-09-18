@@ -171,6 +171,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Sal Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Islatel | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele Gilena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -474,6 +475,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Popular TV Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Vida | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleArchena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 6 Totana | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ## Int. Europa
 
