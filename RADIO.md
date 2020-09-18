@@ -531,7 +531,6 @@
 | Radio Ya | [stream](https://s20.prositel.net:9085/RadioYA) | [web](https://www.radioya.es/) | [logo](https://graph.facebook.com/radioya.es/picture?width=200&height=200) | - | - |
 | Master FM | [m3u8](https://radios.lamaster.es:8000/madrid) | [web](https://lamaster.es/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | WICE |
 | Radio Sol XXI | [mp3](https://server24.streaming-pro.com:6138/radiosolxxi.mp3) | [web](http://radiosol.com/) | [logo](https://graph.facebook.com/radiosolxxi/picture?width=200&height=200) | - | - |
-| Swing FM | [stream](http://ns3.mycloud-apps.es:8003/live) | [web](https://www.swingfmradio.com/) | [logo](https://graph.facebook.com/swingfm/picture?width=200&height=200) | - | - |
 | Radio Vallekas | [stream](http://cervera.eldialdigital.com:8032/;) | [web](http://www.radiovallekas.org/) | [logo](https://graph.facebook.com/radiovallekas/picture?width=200&height=200) | - | - |
 | Capital Radio | [mp3](https://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3) | [web](https://www.capitalradio.es/directo) | [logo](https://graph.facebook.com/capitalradiob/picture?width=200&height=200) | - | - |
 | Radio Tentación | [mp3](http://88.26.228.190:8010/;.mp3) | [web](https://www.radiotentacion.com/) | [logo](https://graph.facebook.com/radiotentacionofficial/picture?width=200&height=200) | - | - |
