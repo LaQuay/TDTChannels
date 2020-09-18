@@ -399,6 +399,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
 | TVG | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Xabarin | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Musigal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Cultura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -408,7 +409,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG Evento 3 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | TVG Evento 4 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | TVG Evento 5 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| TVG Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Hermes TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
