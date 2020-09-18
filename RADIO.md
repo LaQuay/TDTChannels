@@ -195,7 +195,7 @@
 | Integración Radio | [stream](http://5.135.183.124:8023/stream) | [web](http://www.integracionradio.com/) | [logo](https://graph.facebook.com/integracionradio/picture?width=200&height=200) | - | - |
 | Radio Sevillanas | [mp3](http://radio.wesped.com:8000/;stream.mp3) | [web](https://www.radiosevillanas.com/) | [logo](https://graph.facebook.com/web.radiosevillanas/picture?width=200&height=200) | - | - |
 | Fiebre Latina Radio | [stream](http://5.135.183.124:8255/stream) | [web](https://fiebrelatinaradio.com/) | [logo](https://graph.facebook.com/fiebrelatinaradio/picture?width=200&height=200) | - | - |
-| Elite Radio Sevilla | [stream](http://srv0625.lcinternet.com:8005/stream) | [web](https://eliteradiosevilla.es/) | [logo](https://graph.facebook.com/eliteradiosevilla/picture?width=200&height=200) | - | WICE |
+| Elite Radio Sevilla | [stream](http://srv0625.lcinternet.com:8005/stream) | [web](https://eliteradiosevilla.es/) | [logo](https://graph.facebook.com/eliteradiovision/picture?width=200&height=200) | - | WICE |
 | Radio Marbella | [stream](http://radio1.todostreaming.es:8126/;str) | [web](http://rtvmarbella.tv/radio-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=200&height=200) | - | - |
 | Onda Sur Motril | [stream](http://radio.telemotril.com:8000/live) | [web](https://telemotril.com/onda-sur-107-7fm/) | [logo](https://graph.facebook.com/telemotriltv/picture?width=200&height=200) | - | WICE |
 | Radio Dance | [stream](https://streamingv2.shoutcast.com/1-Radio-Dance) | [web](https://www.radiodance.net/) | [logo](https://graph.facebook.com/radiodance.net/picture?width=200&height=200) | - | - |
@@ -360,7 +360,7 @@
 | Curadio | [stream](http://81.25.127.148:8009/stream) | [web](http://www.curadio.es/Emisoras.asp) | [logo](https://graph.facebook.com/curadio.es/picture?width=200&height=200) | - | WICE |
 | Radio Kolor | [stream](http://usa1.usastreams.com:8000/RadioKolor) | [web](http://www.radiokolor.es/) | [logo](https://graph.facebook.com/kolor.cuenca/picture?width=200&height=200) | - | - |
 | La Única FM | [mp3](http://5.196.73.188:8010/;.mp3) | [web](https://www.launicafm.com/) | [logo](https://graph.facebook.com/182268477588/picture?width=200&height=200) | - | - |
-| Onda Polígono Toledo | [stream](http://marconi.eldialdigital.com:6230/;) | [web](http://www.ondapoligono.org/) | [logo](https://graph.facebook.com/ondapoligono/picture?width=200&height=200) | - | - |
+| Onda Polígono Toledo | [stream](https://cervera.eldialdigital.com:21151/stream) | [web](http://www.ondapoligono.org/) | [logo](https://graph.facebook.com/ondapoligono/picture?width=200&height=200) | - | WICE |
 | Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=200&height=200) | - | - |
 | Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net/) | [logo](https://graph.facebook.com/radioarrebato107.4/picture?width=200&height=200) | - | WICE |
 | Ciudad FM | [stream](https://eu1.lhdserver.es:9053/stream) | [web](http://www.ciudadfm.es/p/blog-page_29.html) | [logo](https://graph.facebook.com/ciudadfmspain/picture?width=200&height=200) | - | - |
@@ -682,8 +682,8 @@
 | Onda Cero Mérida | [m3u8](https://livefastly-webs.ondacero.es/merida-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/extremadura/merida//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | esRadio Extremadura | [mp3](http://esradiomontijo.ddns.net:8000/;stream.mp3) | [web](http://www.esradioextremadura.com/) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | Radio Miajadas | [stream](http://srv0410.lcinternet.com:8013/stream) | [web](https://rtvmiajadas.es/) | [logo](https://graph.facebook.com/489965251169138/picture?width=200&height=200) | - | WICE |
-| Lola FM | [stream](http://srv0510.lcinternet.com:8053/stream) | [web](http://www.lolafm.es/) | [logo](https://graph.facebook.com/LolaFMRadio/picture?width=200&height=200) | - | - |
-| Azuaga Radiofm | [stream](http://radio.azuaga.es:1051/radioazuagafm) | [web](http://www.azuaga.es/plantilla.php?enlace=radio_azuaga) | [logo](https://graph.facebook.com/azuagaradiofm/picture?width=200&height=200) | - | - |
+| Lola FM | [stream](http://srv0510.lcinternet.com:8053/stream) | [web](http://www.lolafm.es/) | [logo](https://graph.facebook.com/LolaFMRadio/picture?width=200&height=200) | - | WICE |
+| Azuaga Radiofm | [stream](http://radio.azuaga.es:1051/radioazuagafm) | [web](http://www.azuaga.es/plantilla.php?enlace=radio_azuaga) | [logo](https://graph.facebook.com/azuagaradiofm/picture?width=200&height=200) | - | WICE |
 | Radiogolex | [stream](https://streaming12.elitecomunicacion.es:8218/stream) | [web](https://www.radiogolex.com/) | [logo](https://graph.facebook.com/Radiogolex/picture?width=200&height=200) | - | - |
 
 ### Galicia
@@ -763,7 +763,7 @@
 | Titoieta Ràdio | [stream](http://195.154.33.95:8034/stream) | [web](http://www.titoieta.cat/) | [logo](https://graph.facebook.com/titoieta/picture?width=200&height=200) | - | WICE |
 | Radio Balear.es | [stream](https://server10.emitironline.com:8076/stream) | [web](https://radiobalear.net/radio-en-directo/) | [logo](https://graph.facebook.com/rbalear.interbaleares/picture?width=200&height=200) | - | - |
 | EcoRadio | [stream](http://radioserver7.profesionalhosting.com:8062/;stream) | [web](http://www.ecoradio.es/) | [logo](https://graph.facebook.com/ecoradio.es/picture?width=200&height=200) | - | - |
-| Isla 106 | [aac](https://streams.isla106.com/isla106.aac) | [web](https://www.isla106.com/) | [logo](https://graph.facebook.com/Isla106Radio/picture?width=200&height=200) | - | - |
+| Isla 106 | [stream](https://stream.isla106.com/isla106) | [web](https://www.isla106.com/) | [logo](https://graph.facebook.com/Isla106Radio/picture?width=200&height=200) | - | - |
 | Radio Murta | [stream](http://91.121.156.27:8013/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=200&height=200) | - | WICE |
 
 ### La Rioja
