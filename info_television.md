@@ -134,49 +134,49 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Jerez Televisión | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Onda Cádiz | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 45 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Córdoba TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| PTV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 45 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| PTV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Huelva TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Canal Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Costa Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Córdoba TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Condavisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleonuba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CanalCosta | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Interalmería TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV Centro Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Lebrija TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Más Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| 8 Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 8 La Janda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 8 Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| TV Centro Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Uvitel TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Lebrija TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal San Roque | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Tuya La Janda TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Algeciras TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | OndaMezquita TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Jerez TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
 | Más TV Huelva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 8 TV Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| 8 TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sal Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101 Tele Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Islatel | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele Gilena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trebujena TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Correo de Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
