@@ -135,6 +135,7 @@
 | SER Roquetas | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ROQUETAS.mp3) | [web](https://play.cadenaser.com/emisora/ser_roquetas/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Sevilla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3) | [web](https://play.cadenaser.com/emisora/radio_sevilla) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Úbeda | [stream](http://srv3031.lcinternet.com:8007/live1) | [web](https://play.cadenaser.com/emisora/radio_ubeda) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
+| Radio Valverde | [mp3](http://69.197.169.178:26654/;.mp3) | [web](http://www.radiovalverde.com/) | [logo](https://graph.facebook.com/radiovalverdeSER/picture?width=200&height=200) | - | - |
 | COPE Almería | [mp3](https://wecast-m01-03.flumotion.com/copesedes/almeria.mp3) | [web](https://www.cope.es/directos/almeria) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Cádiz | [mp3](https://wecast-m01-03.flumotion.com/copesedes/cadiz.mp3) | [web](https://www.cope.es/directos/cadiz) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Córdoba | [mp3](https://wecast-m01-03.flumotion.com/copesedes/cordoba.mp3) | [web](https://www.cope.es/directos/cordoba) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
