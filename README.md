@@ -4,16 +4,17 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 ### Listas de reproducción
 [Fecha de última actualización](https://www.tdtchannels.com/lists/). Y listado de todas las listas disponibles. Haz [click aquí](https://github.com/LaQuay/TDTChannels/blob/master/info_television.md) para saber el estado de las listas y comprobar qué emisiones hay en cada lista.
 
-| Tipo | Formato | | | | | |
-| -	| - | -	| -	| -	| -	| -	|
-| **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](https://www.tdtchannels.com/lists/tv.json) | [m3u8](https://www.tdtchannels.com/lists/tv.m3u8) | [m3u](https://www.tdtchannels.com/lists/tv.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv) | [w3u](https://www.tdtchannels.com/lists/tv.w3u) |
-| **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](https://www.tdtchannels.com/lists/radio.json) | [m3u8](https://www.tdtchannels.com/lists/radio.m3u8) | [m3u](https://www.tdtchannels.com/lists/radio.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_radio.tv) | [w3u](https://www.tdtchannels.com/lists/radio.w3u) |
-| **TV+Radio** | - | - | [m3u8](https://www.tdtchannels.com/lists/tvradio.m3u8) | [m3u](https://www.tdtchannels.com/lists/tvradio.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_combo.tv) | [w3u](https://www.tdtchannels.com/lists/tvradio.w3u) |
-| **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://www.tdtchannels.com/epg/TV.xml) | [xml.gz](https://www.tdtchannels.com/epg/TV.xml.gz) | - | - | - |
+| Tipo | Formato | | | | | | |
+| -	| - | -	| -	| -	| -	| -	| - |
+| **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](https://www.tdtchannels.com/lists/tv.json) | [m3u8](https://www.tdtchannels.com/lists/tv.m3u8) | [m3u](https://www.tdtchannels.com/lists/tv.m3u) | [m3u8 + mpd](https://www.tdtchannels.com/lists/tv_mpd.m3u8) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv) | [w3u](https://www.tdtchannels.com/lists/tv.w3u) |
+| **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](https://www.tdtchannels.com/lists/radio.json) | [m3u8](https://www.tdtchannels.com/lists/radio.m3u8) | [m3u](https://www.tdtchannels.com/lists/radio.m3u) | - | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_radio.tv) | [w3u](https://www.tdtchannels.com/lists/radio.w3u) |
+| **TV+Radio** | - | - | [m3u8](https://www.tdtchannels.com/lists/tvradio.m3u8) | [m3u](https://www.tdtchannels.com/lists/tvradio.m3u) | [m3u8 + mpd](https://www.tdtchannels.com/lists/tvradio_mpd.m3u8) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_combo.tv) | [w3u](https://www.tdtchannels.com/lists/tvradio.w3u) |
+| **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://www.tdtchannels.com/epg/TV.xml) | [xml.gz](https://www.tdtchannels.com/epg/TV.xml.gz) | - | - | - | - |
 
 - *Navegador*: Visionado "manual" en el navegador.
-- *JSON*: Formato de datos especial para otros programas de lectura de datos.
-- *M3U8* y *M3U*: Listado completo de las emisoras, listo para introducir en tu reproductor deseado.
+- *JSON*: Formato de datos especial para otros programas de lectura de datos. Por ejemplo, la aplicación TDTChannels iOS.
+- *M3U8* y *M3U*: Listado para introducir en tu reproductor deseado. Usa este enlace si deseas utilizar cualquier aplicación IPTV genérica. Utilíza la _M3U_ en caso que la _M3U8_ no te funcione.
+- *M3U8 + MPD*: _En pruebas_ Incluye los mismos canales que la M3U8, pero además los que emiten en formato _MPD_. 
 - *ENIGMA2*: Formato especial para el receptor Linux Enigma2.
 - *W3U*: Formato especial para [Wiseplay](https://play.google.com/store/apps/details?id=com.wiseplay).
 - *EPG*: Si no te carga de forma automática, deberás incluir la ruta en tu reproductor. 
@@ -23,6 +24,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | -	| -	|
 | **Página web** | [TDTChannels](https://www.tdtchannels.com/) |
 | **Aplicación Android** | [TDTChannels](https://www.tdtchannels.com/android) |
+| **Aplicación iOS** | [TDTChannels](https://www.tdtchannels.com/iphone) |
 | **Grupo - Telegram** | [Acceder](https://t.me/tdtchannels) al grupo |
 | **Canal de Avisos - Telegram** | [Acceder](https://t.me/tdtchannels_avisos) al canal |
 
