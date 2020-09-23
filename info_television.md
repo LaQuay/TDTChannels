@@ -187,6 +187,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Bailén TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8 TV Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | 8 TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sal Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -259,7 +260,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TeleToledo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Mancha Centro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Manzanares10TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV Diocesana Toledo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Castilla y León
 
@@ -335,7 +335,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 25 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televisió de Sant Martí | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televisió del Baix Guinardó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Abadia de Montserrat | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8tv | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | TV L'Hospitalet | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
@@ -361,7 +360,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Pride Channel | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - |
 | Telesur Madrid | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TB Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8madrid TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### C. Foral de Navarra
@@ -532,13 +530,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTP 3 Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTP Internacional Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | RTCG Montenegro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RT News | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RT Documentary | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ikono TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El Sembrador TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Enlace TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 
 ## Int. América
 
@@ -574,7 +569,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Quiero TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mexico Travel TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Turistik TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Noticias Caracol Colombia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Canal Capital Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleantioquia Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -752,3 +746,16 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Melody Channel Colombia | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
 | Spirit TV USA | - | - | - | - | - | - | - | - |
+
+## Religiosos
+
+| Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
+| - | - | - | - | - | - | - | - | - |
+| RTV Diocesana Toledo España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Abadia de Montserrat España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Solidatia TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| El Sembrador TV Europa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Enlace TV Costa Rica | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
