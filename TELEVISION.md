@@ -642,7 +642,7 @@
 | RTL 102.5 Italia | [m3u8 # IT](https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8) | [web](https://www.rtl.it/radiovisione) | [logo](https://graph.facebook.com/RTL102.5/picture?width=200&height=200) | - | NONAV |
 | Kronehit Austria | [m3u8](https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8) | [web](https://www.kronehit.at/) | [logo](https://graph.facebook.com/kronehit/picture?width=200&height=200) | - | - |
 | QMusic Holanda | [m3u8 # NL](https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8) | [web](https://qmusic.nl/live/kijk) | [logo](https://graph.facebook.com/QmusicNL/picture?width=200&height=200) | - | - |
-| NRJ Bélgica | [m3u8 # FR](https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u88) | [web](https://www.nrj.be/tv) | [logo](https://graph.facebook.com/nrj.be/picture?width=200&height=200) | - | - |
+| NRJ Bélgica | [m3u8 # FR](https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8) | [web](https://www.nrj.be/tv) | [logo](https://graph.facebook.com/nrj.be/picture?width=200&height=200) | - | - |
 | 4FUN TV Polonia | [m3u8 # PL](https://stream.4fun.tv:8888/hls/4f_high/index.m3u8) | [web](https://4fun.tv/) | [logo](https://graph.facebook.com/4FUN.TV/picture?width=200&height=200) | - | - |
 | Tomorrowland TV | [youtube](https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ/live) | [web](https://oneworldradio.tomorrowland.com/) | [logo](https://graph.facebook.com/tomorrowland/picture?width=200&height=200) | - | EMB |
 | Radio Italia TV | [m3u8 # IT](https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8) | [web](https://www.radioitalia.it/radioitaliatv) | [logo](https://graph.facebook.com/radioitalia/picture?width=200&height=200) | - | - |
