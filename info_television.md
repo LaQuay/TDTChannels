@@ -15,20 +15,41 @@ Cualquier otra aplicación para Android y iOS es considerada que utiliza la list
 
 Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe de ser correcta, el huso horario no importa.
 
+### _Temporalmente_ ¿Dónde funciona la lista M3U8+MPD?
+Funciona:
+- VLC 3 para Windows
+- Wiseplay para Android
+- IPTV 3U para Android
+- Web video caster para Android 
+- IPTV Pro, para Android
+- IPTV Pro, con VLC, para Android
+- GSE IPTV, con VLC, para Android
+- Tivimate, para Android TV
+- VidLib, para iOS
+- CloudStream, para Apple
+
+No funciona:
+- IPTV Pro, con MX PRO, para Android
+- IPTV 3 U, con ffmpeg, para Android
+- GSE IPTV para Android
+- GSE IPTV para iOS
+- KODI para Linux
+- Smart IPTV para Samsung
+
 ## Nacionales
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Antena 3 | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Antena 3 | ✔ | 🌐 | ✔ | ❌ | ✔ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | Cuatro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Telecinco | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| laSexta | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Neox | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Nova | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Mega | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Atreseries | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| laSexta | ✔ | 🌐 | ✔ | ❌ | ✔ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Neox | ✔ | 🌐 | ✔ | ❌ | ✔ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Nova | ✔ | 🌐 | ✔ | ❌ | ✔ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Mega | ✔ | 🌐 | ✔ | ❌ | ✔ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Atreseries | ✔ | 🌐 | ✔ | ❌ | ✔ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | FDF | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Energy | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Divinity | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
