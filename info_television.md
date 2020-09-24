@@ -15,26 +15,7 @@ Cualquier otra aplicación para Android y iOS es considerada que utiliza la list
 
 Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe de ser correcta, el huso horario no importa.
 
-### _Temporalmente_ ¿Dónde funciona la lista M3U8+MPD?
-Funciona:
-- VLC 3 para Windows
-- Wiseplay para Android
-- IPTV 3U para Android
-- Web video caster para Android 
-- IPTV Pro, para Android
-- IPTV Pro, con VLC, para Android
-- GSE IPTV, con VLC, para Android
-- Tivimate, para Android TV
-- VidLib, para iOS
-- CloudStream, para Apple
-
-No funciona:
-- IPTV Pro, con MX PRO, para Android
-- IPTV 3 U, con ffmpeg, para Android
-- GSE IPTV para Android
-- GSE IPTV para iOS
-- KODI para Linux
-- Smart IPTV para Samsung
+Si deseas disponer de más información acerca de qué significa cada lista visita [https://www.tdtchannels.com/listas](TDTChannels - Listas)
 
 ## Nacionales
 
