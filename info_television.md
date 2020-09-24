@@ -538,7 +538,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Zee Mundo USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Newsmax TV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CBN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| EWTN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NTN24 América | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 6 Multimedios Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Azteca 7 Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -737,6 +736,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | El Sembrador TV Europa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| EWTN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Enlace TV Costa Rica | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Emmanuel TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
