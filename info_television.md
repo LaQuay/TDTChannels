@@ -172,6 +172,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 8 TV Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | 8 TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sal Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La Carolina Digital | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101 Tele Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Islatel | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
