@@ -366,7 +366,7 @@
 | Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=200&height=200) | - | - |
 | Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net/) | [logo](https://graph.facebook.com/radioarrebato107.4/picture?width=200&height=200) | - | WICE |
 | Ciudad FM | [stream](https://eu1.lhdserver.es:9053/stream) | [web](http://www.ciudadfm.es/p/blog-page_29.html) | [logo](https://graph.facebook.com/ciudadfmspain/picture?width=200&height=200) | - | - |
-| Radio Feria FM | [stream](http://stream.zeno.fm/yxn6wg4ec8zuv) | [web](https://www.radioferia.com/) | [logo](https://graph.facebook.com/RadioFeriaFM/picture?width=200&height=200) | - | WICE |
+| Radio Feria FM | [mp3](https://azuracast.idmradio.es/radio/8110feria.mp3) | [web](https://www.radioferia.com/) | [logo](https://graph.facebook.com/RadioFeriaFM/picture?width=200&height=200) | - | - |
 
 ### Castilla y León
 
