@@ -357,7 +357,7 @@
 | AB95 FM | [stream](https://node-24.zeno.fm/xs2xvmvrzwzuv) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/ab95fm/picture?width=200&height=200) | - | - |
 | POP10 FM | [mp3](http://stream.emisorasmusicales.com:8006/pop10fmalcazar.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/pop10fm/picture?width=200&height=200) | - | WICE |
 | RM La Manchuela | [stream](https://cast.rmradio.es/radio/8040/stream) | [web](https://www.rmradio.es/lamanchuela/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
-| RM Quintanar del Rey | [stream](https://cast.rmradio.es:8020/stream) | [web](https://www.rmradio.es/quintanardelrey/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
+| RM Quintanar del Rey | [stream](https://cast.rmradio.es/radio/8020/stream) | [web](https://www.rmradio.es/quintanardelrey/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
 | Locactiva Radio | [mp3](http://91.121.77.67:8106/;.mp3) | [web](http://www.locactivaradio.es/) | [logo](https://graph.facebook.com/LOCACTIVARADIO/picture?width=200&height=200) | - | - |
 | Curadio | [stream](http://81.25.127.148:8009/stream) | [web](http://www.curadio.es/Emisoras.asp) | [logo](https://graph.facebook.com/curadio.es/picture?width=200&height=200) | - | WICE |
 | Radio Kolor | [stream](http://usa1.usastreams.com:8000/RadioKolor) | [web](http://www.radiokolor.es/) | [logo](https://graph.facebook.com/kolor.cuenca/picture?width=200&height=200) | - | - |
