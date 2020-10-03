@@ -363,7 +363,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Grup Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 8 Mediterráneo | 🌐 | 🌐 | 🌐 | ✔❗ | ✔❗ | ❌ | ✔ | - |
 | Alicantí TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVCS | ▶ | ▶ | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| TVCS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | tvA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Televisión de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -406,11 +406,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG Musigal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Cultura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Momentos G | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Evento 1 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Evento 2 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Evento 3 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Evento 4 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Evento 5 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Eventos | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Hermes TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
