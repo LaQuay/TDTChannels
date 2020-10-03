@@ -191,7 +191,7 @@
 | Spectrum FM | [stream](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1) | [web](https://spectrumfm.net/) | [logo](https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200) | - | - |
 | Onda Jerez Radio | [mp3](http://radio.ondajerez.com:8000/Ondajerez.mp3) | [web](https://www.jerez.es/webs_municipales/ondajerez/radio/) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200) | - | - |
 | Global Radio | [mp4](http://stream.seav.co.uk:8000/stream.mp4) | [web](https://global.fm/streamwindow/) | [logo](https://graph.facebook.com/loveglobalradio/picture?width=200&height=200) | - | - |
-| Candil Radio | [mp3](https://euwebhost.com:2234/candil/live.mp3) | [web](https://candilradio.com/) | [logo](https://graph.facebook.com/890332081024749/picture?width=200&height=200) | - | - |
+| Candil Radio | [mp3](https://candilradio.com/liveradio/candil/live.mp3) | [web](https://candilradio.com/) | [logo](https://graph.facebook.com/890332081024749/picture?width=200&height=200) | - | - |
 | Radio La Isla | [stream](https://server10.emitironline.com:30132/stream) | [web](https://radiolaisla.com/) | [logo](https://graph.facebook.com/radiolaisla/picture?width=200&height=200) | - | WICE |
 | Radio del Condado | [mp3](https://streaming.radiorociana.com/;stream.mp3) | [web](https://www.radiorociana.com/player) | [logo](https://graph.facebook.com/radiorociana/picture?width=200&height=200) | - | - |
 | Integración Radio | [stream](http://5.135.183.124:8023/stream) | [web](http://www.integracionradio.com/) | [logo](https://graph.facebook.com/integracionradio/picture?width=200&height=200) | - | - |
