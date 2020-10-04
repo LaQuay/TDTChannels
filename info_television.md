@@ -499,7 +499,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | BFM TV Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV5Monde Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | franceinfo: Francia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| TGCom24 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Rai News 24 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La5 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | DW Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NDR Niedersachsen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -646,6 +648,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Radio Gigante España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mola TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
+| Radio 105 Italia | - | - | - | - | - | - | - | - |
+| Virgin Radio Italia | - | - | - | - | - | - | - | - |
+| Radio Montecarlo Italia | - | - | - | - | - | - | - | - |
 | Kronehit Austria | - | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - | - |
 | NRJ Bélgica | - | - | - | - | - | - | - | - |
