@@ -63,8 +63,7 @@
 | Loca FM Loca 90's | [stream](http://audio-online.net:8000/live) | [web](http://www.locafm.com/loca-90-s/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
 | Loca FM Melodic Techno | [stream](http://audio-online.net:8011/live) | [web](http://www.locafm.com/melodic-techno/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
 | Loca FM Trap | [stream](http://audio-online.net:8014/live) | [web](http://www.locafm.com/trap/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Magnetic Plug&Play | [stream](http://audio-online.net:8016/live) | [web](http://www.locafm.com/magnetic-plug-play/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Loca Pride | [stream](http://audio-online.net:8017/live) | [web](http://www.locafm.com/loca-pride/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
+| Loca FM Loca Pride | [stream](http://s02.fjperezdj.com:8070/live) | [web](http://www.locafm.com/loca-pride/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
 | Loca FM Industrial | [stream](http://audio-online.net:8019/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
 | Loca FM Drum&Bass | [stream](http://audio-online.net:8021/live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
 | Clásica FM Radio | [mp3](https://radio.garden/api/ara/content/listen/UG3FmZly/channel.mp3) | [web](https://clasicafmradio.es/cfm-escucha/) | [logo](https://graph.facebook.com/clasicafmradio/picture?width=200&height=200) | - | - |
@@ -191,7 +190,7 @@
 | Spectrum FM | [stream](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1) | [web](https://spectrumfm.net/) | [logo](https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200) | - | - |
 | Onda Jerez Radio | [mp3](http://radio.ondajerez.com:8000/Ondajerez.mp3) | [web](https://www.jerez.es/webs_municipales/ondajerez/radio/) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200) | - | - |
 | Global Radio | [mp4](http://stream.seav.co.uk:8000/stream.mp4) | [web](https://global.fm/streamwindow/) | [logo](https://graph.facebook.com/loveglobalradio/picture?width=200&height=200) | - | - |
-| Candil Radio | [mp3](https://euwebhost.com:2234/candil/live.mp3) | [web](https://candilradio.com/) | [logo](https://graph.facebook.com/890332081024749/picture?width=200&height=200) | - | - |
+| Candil Radio | [mp3](https://candilradio.com/liveradio/candil/live.mp3) | [web](https://candilradio.com/) | [logo](https://graph.facebook.com/890332081024749/picture?width=200&height=200) | - | - |
 | Radio La Isla | [stream](https://server10.emitironline.com:30132/stream) | [web](https://radiolaisla.com/) | [logo](https://graph.facebook.com/radiolaisla/picture?width=200&height=200) | - | WICE |
 | Radio del Condado | [mp3](https://streaming.radiorociana.com/;stream.mp3) | [web](https://www.radiorociana.com/player) | [logo](https://graph.facebook.com/radiorociana/picture?width=200&height=200) | - | - |
 | Integración Radio | [stream](http://5.135.183.124:8023/stream) | [web](http://www.integracionradio.com/) | [logo](https://graph.facebook.com/integracionradio/picture?width=200&height=200) | - | - |
@@ -465,7 +464,7 @@
 | Cooltura FM | [mp3](http://streamserver1.somosdigital.net:8415/;stream.mp3) | [web](http://coolturafm.com/) | [logo](https://graph.facebook.com/coolturafm/picture?width=200&height=200) | - | - |
 | Radio Bronka | [ogg](http://stream.nonfqdn.net:8000/rbronka.ogg) | [web](http://radiobronka.info/) | [logo](https://graph.facebook.com/RadioBronka/picture?width=200&height=200) | - | - |
 | Ràdio Silenci | [mp3](http://streaming.enacast.com:8000/radiosilenci56.mp3) - [stream](https://enacast.com/radiosilenci/streams/HD) | [web](http://www.radiosilenci.cat) | [logo](https://graph.facebook.com/rsilenci/picture?width=200&height=200) | - | - |
-| Metro FM | - | [web](http://metrofm.es/) | [logo](https://graph.facebook.com/metrofm.es/picture?width=200&height=200) | - | - |
+| Metro FM | [stream](http://89.163.231.60:8420/stream) | [web](http://metrofm.es/) | [logo](https://graph.facebook.com/metrofm.es/picture?width=200&height=200) | - | - |
 | Ràdio Vilafranca | [stream](http://194.32.133.102:8000/;) | [web](https://www.rtvvilafranca.cat/radio-vilafranca/radio-en-directe/) | [logo](https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200) | - | - |
 | Ona La Torre | [m3u8](http://liveingesta118.cdnmedia.tv/onalatorrelive/smil:live.smil/master.m3u8) | [web](http://onalatorre.alacarta.cat/) | [logo](https://graph.facebook.com/ona.latorre/picture?width=200&height=200) | - | UAGLI |
 | Ràdio Estel | [stream](http://srv3021.lcinternet.com:8019/stream) | [web](http://player.lcinternet.es/v9/cc232_id415/) | [logo](https://graph.facebook.com/Radioestelbcn/picture?width=200&height=200) | - | WICE |
@@ -483,7 +482,7 @@
 | Ràdio Sant Pere i Sant Pau | [mp3](http://212.83.151.18:36686/;stream/1?1552499879263.mp3) | [web](http://www.radiospsp.com/) | [logo](https://graph.facebook.com/Radio101.0/picture?width=200&height=200) | - | - |
 | Ràdio Vilamajor | [mp3](http://80.37.181.205:8000/;audio.mp3) | [web](http://www.radiovilamajor.cat/) | [logo](https://graph.facebook.com/radio.vilamajor/picture?width=200&height=200) | - | - |
 | Ràdio Mollet | [mp3](http://streaming.enantena.com:8000/radiomollet56.mp3) - [stream](https://enacast.com/radiomollet/streams/HD) | [web](http://www.radiomollet.com) | [logo](https://graph.facebook.com/radiomollet963/picture?width=200&height=200) | - | - |
-| Ràdio Montblanc | [mp3](http://streaming.enantena.com:8000/radiomontblanc56.mp3) | [web](http://www.radiomontblanc.cat/) | [logo](https://graph.facebook.com/139643876226143/picture?width=200&height=200) | - | - |
+| Ràdio Montblanc | [stream](https://radio.cdnmedia.tv/radio/8130/radiomontblanc) | [web](http://www.radiomontblanc.cat/) | [logo](https://graph.facebook.com/139643876226143/picture?width=200&height=200) | - | - |
 | Ràdio Despí | [stream](https://streaming12.elitecomunicacion.es:8228/stream) - [mp3](https://streaming12.elitecomunicacion.es:8228/stream?type=.mp3) | [web](https://radiodespi.net/directo/) | [logo](https://graph.facebook.com/radiodespi/picture?width=200&height=200) | - | - |
 | Ràdio Desvern | [mp3](https://relay.stream.enacast-cloud.com:40001/radiodesvern128.mp3) - [stream](https://enacast.com/radiodesvern/streams/HD) | [web](https://www.radiodesvern.com/) | [logo](https://graph.facebook.com/radiodesvernoficial/picture?width=200&height=200) | - | - |
 | Ràdio Sitges | [stream](https://s2.radio.co/s8e5dffe5e/listen) | [web](http://www.radiositges.com/) | [logo](https://graph.facebook.com/radiositges/picture?width=200&height=200) | - | - |
