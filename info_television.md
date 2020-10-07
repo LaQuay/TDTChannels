@@ -502,6 +502,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TGCom24 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Rai News 24 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La5 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| DMAX Discovery Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Real Time Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | DW Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NDR Niedersachsen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -639,6 +641,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Harley Davidson Racing TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Harley Davidson Factory TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Harley Davidson Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| MotorTrend Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Musicales
 

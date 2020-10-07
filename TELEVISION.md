@@ -482,6 +482,8 @@
 | TGCom24 Italia | [m3u8 # IT](https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8) | [web](https://www.tgcom24.mediaset.it/video/) | [logo](https://graph.facebook.com/tgcom24/picture?width=200&height=200) | - | - |
 | Rai News 24 Italia | [m3u8 # IT](https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8) | [web](https://www.rainews.it/dl/rainews/live/ContentItem-3156f2f2-dc70-4953-8e2f-70d7489d4ce9.html) | [logo](https://graph.facebook.com/rainews.it/picture?width=200&height=200) | RaiN.TV | - |
 | La5 Italia | [m3u8 # IT](https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8) | [web](https://www.mediasetplay.mediaset.it/diretta/canale5_cC5) | [logo](https://graph.facebook.com/La5mediaset/picture?width=200&height=200) | - | - |
+| DMAX Discovery Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8) | [web](https://it.dplay.com/dmax/) | [logo](https://graph.facebook.com/dmaxitalia/picture?width=200&height=200) | - | - |
+| Real Time Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8) | [web](https://it.dplay.com/realtime/) | [logo](https://graph.facebook.com/realtimeitalia/picture?width=200&height=200) | - | - |
 | DW Alemania | [m3u8](https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) - [m3u8 # EN](https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8) - [m3u8 # DE](https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8) | [web](https://www.dw.com/es/multimedia/tv-en-vivo/s-100837) | [logo](https://graph.facebook.com/dw.espanol/picture?width=200&height=200) | DW.TV | - |
 | Das Erste Alemania | [m3u8 # DE](https://mcdn.daserste.de/daserste/int/master.m3u8) | [web](https://live.daserste.de/) | [logo](https://graph.facebook.com/DasErste/picture?width=200&height=200) | - | - |
 | NDR Niedersachsen Alemania | [m3u8 # DE](https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8) | [web](https://www.ndr.de/fernsehen/livestream/) | [logo](https://graph.facebook.com/ndrniedersachsen/picture?width=200&height=200) | - | - |
@@ -621,6 +623,7 @@
 | Harley Davidson Racing TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyR.TV | - |
 | Harley Davidson Factory TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyF.TV | - |
 | Harley Davidson Garage TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyG.TV | - |
+| MotorTrend Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | [web](https://it.dplay.com/motor-trend/) | [logo](https://graph.facebook.com/motortrendIT/picture?width=200&height=200) | - | - |
 
 ## Musicales
 
