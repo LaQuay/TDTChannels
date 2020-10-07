@@ -61,17 +61,18 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | - | - | - | - | - | - | - | - | - |
 | Teledeporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | GOL | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Esport 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ETB Deportes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Aragón Deporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emite eventualmente |
+| IB3 Esports | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emite eventualmente |
+| VinxTV Asturias | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | RealMadrid TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Barça TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
-| Sevilla TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | ❌ | Emiten en su web, bajo registro |
+| Sevilla TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
 | Betis TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | UD Las Palmas TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Esport 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| ETB Deportes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Aragón Deporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emiten eventualmente |
-| VinxTV Asturias | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| IB3 Esports | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | Emisión eventual. No disponible para W3U en Android TV |
+| RCD Mallorca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emite eventualmente |
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | La Liga Santander | ▶ | ▶ | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Real Federación Española de Fútbol | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | Emite eventualmente, posible emisión geolocalizada a España |
