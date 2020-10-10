@@ -865,7 +865,7 @@
 | Radio QK | [mp3](https://www.radioqk.org:8443/radioqk_master.mp3) | [web](https://www.radioqk.org/) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=200&height=200) | - | - |
 | Radio San Martín | [stream](http://91.126.223.28:9890/;) | [web](https://sanmartinradio.blogspot.com/) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=200&height=200) | - | - |
 | Onda Langreo | [stream](https://usa3.lhdserver.es:8083/stream) | [web](https://ondalangreo.com/) | [logo](https://graph.facebook.com/ondalangreo/picture?width=200&height=200) | - | - |
-| Radio 4G Oviedo | [stream](https://capital.radiocast.es:8110/r4govd) | [web](https://lacorredoriasuena.com/) | [logo](https://pbs.twimg.com/profile_images/1276972238009491456/cb9OVQyn_200x200.jpg) | - | - |
+| Radio 4G Oviedo | [stream](https://server1.radiocast.es:8000/r4govd) | [web](https://lacorredoriasuena.com/) | [logo](https://pbs.twimg.com/profile_images/1276972238009491456/cb9OVQyn_200x200.jpg) | - | - |
 | APQ Radio | [stream](http://stm1.emiteonline.com:8012/apqradio) | [web](http://www.apqradio.es/) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | WICE |
 
 ### R. de Murcia
