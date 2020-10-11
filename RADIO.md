@@ -123,7 +123,6 @@
 | SER La Janda | [stream](http://5.135.183.124:8352/stream) | [web](https://play.cadenaser.com/emisora/ser_la_janda/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Levante | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEVANTE.mp3) | [web](https://play.cadenaser.com/emisora/ser_levante_mojacar) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Linares | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LINARES.mp3) | [web](https://play.cadenaser.com/emisora/radio_linares) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
-| SER Loja | - | [web](https://play.cadenaser.com/emisora/radio_loja) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Lucena | [stream](http://185.23.192.33:8000/lucena) | [web](https://play.cadenaser.com/emisora/ser_lucena) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Luna | [stream](http://srv0625.emisorasonline.com:8003/stream) | [web](https://play.cadenaser.com/emisora/radio_luna) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Málaga | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3) | [web](https://play.cadenaser.com/emisora/ser_malaga) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
