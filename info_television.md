@@ -514,7 +514,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTCG Montenegro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RT News | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RT Documentary | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Ikono TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. América
 
