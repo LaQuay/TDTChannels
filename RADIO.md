@@ -289,7 +289,7 @@
 | Radio Guiniguada | [stream](http://185.129.248.251:9874/;) | [web](http://www.radioguiniguada.com) | [logo](https://graph.facebook.com/radioguiniguada/picture?width=200&height=200) | - | - |
 | Radio Gigante | [stream](https://server8.emitironline.com:18163/stream) | [web](https://radiogigante.com/) | [logo](https://graph.facebook.com/741011612731578/picture?width=200&height=200) | - | - |
 | Radio San Borondón | [stream](http://srv0435.lcinternet.com:9516/stream) | [web](http://www.sanborondon.info/images/_streamer/rsb.html) | [logo](https://graph.facebook.com/413581508699797/picture?width=200&height=200) | - | WICE |
-| Radio La Guancha | [stream](http://shoutcastradiolaguancha.duckdns.org:8002/) | [web](http://www.radiolaguancha.com/?page_id=23) | [logo](https://graph.facebook.com/radiolaguancha/picture?width=200&height=200) | - | - |
+| Radio La Guancha | [stream](http://shoutcastradiolaguancha.duckdns.org:8002/;) | [web](http://www.radiolaguancha.com/?page_id=23) | [logo](https://graph.facebook.com/radiolaguancha/picture?width=200&height=200) | - | - |
 | MIX FM Radio | [stream](https://server10.emitironline.com:8064/stream) | [web](https://www.mixfm-radio.com/) | [logo](https://graph.facebook.com/mixfmradiotenerifelaradiodelacomarca/picture?width=200&height=200) | - | - |
 | Radio Teide | [stream](http://c01.lexycast.de:5070/.mp3) | [web](https://www.radioteide.eu/) | [logo](https://graph.facebook.com/RadioTeide/picture?width=200&height=200) | - | - |
 | Canal 11 Radio | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal11lapalma.net/escuchanos.html) | [logo](https://graph.facebook.com/189726651071598/picture?width=200&height=200) | - | - |
