@@ -742,5 +742,5 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | El Sembrador TV Europa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Enlace TV Costa Rica | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Enlace TV Costa Rica | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Emmanuel TV Nigeria | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
