@@ -614,6 +614,7 @@
 | - | - | - | - | - | - |
 | Olympic Channel | [m3u8 # 1 EN](https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8) - [m3u8 # 2 EN](https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8) - [m3u8 # 3 EN](https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8) - [m3u8 # 4 EN](https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8) - [m3u8 # 5 EN](https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=200&height=200) | - | - |
 | Redbull TV | [m3u8 # EN](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](https://graph.facebook.com/RedBull/picture?width=200&height=200) | - | - |
+| World Padel Tour | [youtube](https://www.youtube.com/channel/UCK59dYVs3Wgwoe73nDTH6jw/live) | [web](https://www.worldpadeltour.com/en-directo/) | [logo](https://graph.facebook.com/worldpadeltour/picture?width=200&height=200) | - | EMB |
 | Garage TV | [m3u8](http://186.0.233.76:1935/Garage/garage.smil/.m3u8) | [web](http://elgarage.com/tv-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
 | MsMotor TV | [m3u8 # IT](https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/playlist.m3u8) | [web](https://www.msmotor.tv/) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | - |
 | OnlyMotors | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/.m3u8?chname=CLOUDIETV-ONLYMOTORSTV-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=1) | [web](https://onlymotors.tv/) | [logo](https://graph.facebook.com/onlymotors/picture?width=200&height=200) | - | - |
@@ -622,7 +623,6 @@
 | Harley Davidson Factory TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyF.TV | - |
 | Harley Davidson Garage TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyG.TV | - |
 | MotorTrend Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | [web](https://it.dplay.com/motor-trend/) | [logo](https://graph.facebook.com/motortrendIT/picture?width=200&height=200) | - | - |
-| World Padel Tour | [youtube](https://www.youtube.com/channel/UCK59dYVs3Wgwoe73nDTH6jw/live) | [web](https://www.worldpadeltour.com/en-directo/) | [logo](https://graph.facebook.com/worldpadeltour/picture?width=200&height=200) | - | EMB |
 
 ## Musicales
 
