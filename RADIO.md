@@ -471,7 +471,7 @@
 | Ràdio Cubelles | [mp3](http://streaming.enantena.com:8000/cubelles128.mp3) - [stream](https://enacast.com/radiocubelles/streams/HD) | [web](http://www.radiocubelles.cat/) | [logo](https://graph.facebook.com/radiocubelles/picture?width=200&height=200) | - | - |
 | Ràdio Granollers | [stream](http://eu7.fastcast4u.com/proxy/radiogranollers/?mp=/stream) | [web](http://www.gasl.cat/) | [logo](https://graph.facebook.com/RadioGranollers/picture?width=200&height=200) | - | - |
 | Ràdio Maricel | [mp3](http://94.23.87.98:8065/;&type=mp3) | [web](http://www.radiomaricel.cat/) | [logo](https://graph.facebook.com/radiomaricel/picture?width=200&height=200) | - | - |
-| Styl Manresa | [stream](http://s2.nexuscast.com:8042/;) | [web](http://www.stylfm.com/) | [logo](https://graph.facebook.com/stylfm/picture?width=200&height=200) | - | - |
+| Styl Manresa | [stream](http://s2.nexuscast.com:8024/;) | [web](http://www.stylfm.com/) | [logo](https://graph.facebook.com/stylfm/picture?width=200&height=200) | - | - |
 | Styl Classics Manresa | [stream](http://s2.nexuscast.com:8042/;) | [web](http://www.stylclassics.com/) | [logo](https://graph.facebook.com/stylfm/picture?width=200&height=200) | - | - |
 | Ona Sants FM | [stream](http://onastream.no-ip.info:8000/live) | [web](https://onadesants.cat/) | [logo](https://graph.facebook.com/Radioonadesants/picture?width=200&height=200) | - | WICE |
 | Constantí Ràdio | [mp3](http://streaming.enantena.com:8000/radioconstantiSD.mp3) - [m3u8](http://live10.cdnmedia.tv/ocasionalradio2live/smil:live.smil/master.m3u8) | [web](http://www.constantiradio.cat/) | [logo](https://graph.facebook.com/ConstantiRadio/picture?width=200&height=200) | - | - |
