@@ -446,6 +446,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | ETB 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ETB 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ETB Eventos 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ETB Eventos 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Hamaika Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Goiena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleBilbao | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
