@@ -122,7 +122,7 @@
 | M95 Marbella | [m3u8](https://limited2.todostreaming.es/live/m95-livestream.m3u8) | [web](https://m95tv.es/) | [logo](https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200) | - | - |
 | Canal 45 TV | [m3u8](https://cdn01.yowi.tv/503L6OKTE2/master.m3u8) | [web](http://www.canal45tv.com/) | [logo](https://graph.facebook.com/canal45television/picture?width=200&height=200) | - | NONAV |
 | PTV Málaga | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) | [web](http://ptvtelecom.com/canales/malaga.html) | [logo](https://graph.facebook.com/PTV.Malaga/picture?width=200&height=200) | - | - |
-| Huelva TV | [youtube](https://youtu.be/WOACTTveOcg) | [web](http://huelvatv.com/directo/) | [logo](https://graph.facebook.com/Huelvatv/picture?width=200&height=200) | - | EMB |
+| Huelva TV | - | [web](http://huelvatv.com/directo/) | [logo](https://pbs.twimg.com/profile_images/1269901260582518784/S428eCc8_200x200.jpg) | - | EMB |
 | Canal Sierra de Cádiz | [m3u8 # HD 1](http://217.125.136.93:8080/canalsierradecadiz1080.m3u8) - [m3u8 # HD 2](http://217.125.136.93:8080/canalsierradecadiz720.m3u8) - [m3u8 # SD](http://217.125.136.93:8080/canalsierradecadiz576.m3u8) | [web](http://www.canalsierradecadiz.com/emision-en-directo/) | [logo](https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200) | - | - |
 | Costa Noroeste TV | [m3u8](https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8) | [web](http://www.costanoroestetv.net/) | [logo](https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200) | - | - |
 | Córdoba TV | [m3u8](https://5b38ce71f1f00.streamlock.net/8376/8376/master.m3u8) | [web](https://www.cordoba-tv.com/) | [logo](https://graph.facebook.com/cordobatvonline/picture?width=200&height=200) | - | NONAV |
@@ -146,7 +146,7 @@
 | Más TV Huelva | [m3u8](http://5.189.181.203:1935/gcm8/gcm8/master.m3u8) | [web](http://mastvhuelva.com/) | [logo](https://graph.facebook.com/mastvhuelva/picture?width=200&height=200) | - | - |
 | Torrevisión | [m3u8](https://api.new.livestream.com/accounts/2614936/events/1848989/live.m3u8) | [web](https://torremolinostv.com/tv-en-directo/) | [logo](https://graph.facebook.com/torremolinostv/picture?width=200&height=200) | - | NONAV |
 | Marbella TV | [m3u8](https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8) | [web](https://rtvmarbella.tv/tv-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=200&height=200) | RTVMarbella.TV | - |
-| PTV Córdoba | [m3u8](http://149.91.98.146:1935/cordoba/stream/master.m3u8) | [web](http://ptvtelecom.com/canales/cordoba.html) | [logo](https://pbs.twimg.com/profile_images/1277487496826425345/FRkZKIGE_200x200.jpg) | - | - |
+| PTV Córdoba | [m3u8](http://149.91.98.146:1935/cordoba/stream/master.m3u8) | [web](http://ptvtelecom.com/canales/cordoba.html) | [logo](https://yt3.ggpht.com/a/AATXAJwL-et5vC55ktfzdAvkAsm6-untHf4KljJ0TNGw3PU=s200-c-k-c0x00ffffff-no-rj) | - | - |
 | Diez TV | [m3u8](https://streaming.cloud.innovasur.es/mmj/index.m3u8) | [web](https://www.dieztv.es/) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | - | - |
 | RTV Tarifa | [youtube](https://www.youtube.com/channel/UCx5_sA41mFHsZio4umTH3Qw/live) | [web](https://rtvtarifa.com/) | [logo](https://graph.facebook.com/RTVTARIFA/picture?width=200&height=200) | - | EMB |
 | 9 la Loma TV | [m3u8](http://directo.9laloma.es/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=200&height=200) | - | - |

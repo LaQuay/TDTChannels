@@ -193,7 +193,7 @@
 | Radio del Condado | [mp3](https://streaming.radiorociana.com/;stream.mp3) | [web](https://www.radiorociana.com/player) | [logo](https://graph.facebook.com/radiorociana/picture?width=200&height=200) | - | - |
 | Integración Radio | [stream](http://5.135.183.124:8023/stream) | [web](http://www.integracionradio.com/) | [logo](https://graph.facebook.com/integracionradio/picture?width=200&height=200) | - | - |
 | Radio Sevillanas | [mp3](http://radio.wesped.com:8000/;stream.mp3) | [web](https://www.radiosevillanas.com/) | [logo](https://graph.facebook.com/web.radiosevillanas/picture?width=200&height=200) | - | - |
-| Fiebre Latina Radio | [stream](http://5.135.183.124:8255/stream) | [web](https://fiebrelatinaradio.com/) | [logo](https://graph.facebook.com/fiebrelatinaradio/picture?width=200&height=200) | - | - |
+| Fiebre Latina Radio | [stream](https://eu1.lhdserver.es:9035/stream) | [web](https://fiebrelatinaradio.com/) | [logo](https://graph.facebook.com/fiebrelatinaradio/picture?width=200&height=200) | - | - |
 | Elite Radio Sevilla | [stream](http://srv0625.lcinternet.com:8005/stream) | [web](https://eliteradiosevilla.es/) | [logo](https://graph.facebook.com/eliteradiovision/picture?width=200&height=200) | - | WICE |
 | Radio Marbella | [stream](http://radio1.todostreaming.es:8126/;str) | [web](http://rtvmarbella.tv/radio-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=200&height=200) | - | - |
 | Onda Sur Motril | [stream](http://radio.telemotril.com:8000/live) | [web](https://telemotril.com/onda-sur-107-7fm/) | [logo](https://graph.facebook.com/telemotriltv/picture?width=200&height=200) | - | WICE |
@@ -278,7 +278,7 @@
 | Radio Marca Tenerife | [stream](https://cervera.eldialdigital.com:22131/stream) | [web](https://radiomarcatenerife.com/) | [logo](https://graph.facebook.com/RadioMarcaTfe/picture?width=200&height=200) | - | WICE |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
 | Radio ECCA | [mp3](http://audio1.ipercast.net/endirecto22.es/mp3) | [web](http://www2.radioecca.org/radio/online) | [logo](https://graph.facebook.com/RadioECCA/picture?width=200&height=200) | - | WICE |
-| Q FM | [stream](http://51.255.235.165:5092/;) | [web](http://www.qmusica.com/es) | [logo](https://graph.facebook.com/100005645714744/picture?width=200&height=200) | - | - |
+| Q FM | [stream](http://51.255.235.165:5092/;) | [web](http://www.qmusica.com/es) | [logo](https://graph.facebook.com/qmusica/picture?width=200&height=200) | - | - |
 | Canal 4 Tenerife | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal4tenerife.tv/radio/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200) | - | - |
 | Radio Mogán | [stream](https://streaming2.elitecomunicacion.es:8100/stream) | [web](https://www.mogan.es/45-radio-television-de-mogan/3295-escuchar-radio-mogan-en-directo) | [logo](https://graph.facebook.com/AyuntamientodeMogan/picture?width=200&height=200) | - | - |
 | Inolvidable FM | [stream](https://uk1.streamingpulse.com/ssl/inolvidablefm) | [web](https://inolvidablefm.es/) | [logo](https://graph.facebook.com/inolvidablefmradio/picture?width=200&height=200) | - | WICE |
@@ -518,7 +518,6 @@
 | Onda Cero Alcalá de Henares | [m3u8](https://livefastly-webs.ondacero.es/alcala-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/alcala-de-henares/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Madrid | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/madrid/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Sierra | [mp3](http://195.55.94.118:7000/;stream.mp3) | [web](https://lavozdelasierra.es/onda-cero-sierra/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
-| Qué Radio | [stream](https://radioserver11.profesionalhosting.com/proxy/ggruzfce?mp=/stream) | [web](https://queradio.com/) | [logo](https://graph.facebook.com/Que.es/picture?width=200&height=200) | - | - |
 | Vaughan Radio | [mp3](https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3) | [web](https://grupovaughan.com/vaughan-radio/) | [logo](https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [stream](https://www.lajunglaradio.com:8003/lajunglawebssl) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | - |
 | Unika FM | [stream](http://n02.radiojar.com/7qyvpnex9vzuv) | [web](https://unika.fm/player/) | [logo](https://graph.facebook.com/unikafmmuchomasquedance/picture?width=200&height=200) | - | - |
@@ -544,7 +543,6 @@
 | Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com/) | [logo](https://graph.facebook.com/Radio4GOficial/picture?width=200&height=200) | - | - |
 | Radio Las Águilas | [stream](http://server2.crearradio.com:8306/;stream) | [web](http://www.radiolasaguilas.es/) | [logo](https://pbs.twimg.com/profile_images/564877578943864832/0WaT4f5B_200x200.jpeg) | - | - |
 | ECO Leganés | [stream](https://cervera.eldialdigital.com:25191/stream) | [web](http://ecoleganes.org/) | [logo](https://graph.facebook.com/ecoleganes01/picture?width=200&height=200) | - | WICE |
-| Radio Fuga | [stream](http://radiogestion.com:7090/radiofuga) | [web](http://radio-fuga.com/escuchanosaqui/) | [logo](https://graph.facebook.com/RadioFuga/picture?width=200&height=200) | - | WICE |
 | Onda Latina | [stream](https://cervera.eldialdigital.com:21131/stream) | [web](http://www.ondalatina.com.es/) | [logo](https://graph.facebook.com/ondalatina.com.es/picture?width=200&height=200) | - | WICE |
 | Inforadio UCM | [stream](http://inforadio.hst.ucm.es:8000/inforadio01) | [web](http://www.inforadioucm.es/) | [logo](https://graph.facebook.com/inforadiocomplutense/picture?width=200&height=200) | - | - |
 | Canora Radio | [mp3](http://s8.streammonster.com:8335/stream) | [web](http://www.canora.es/) | [logo](https://graph.facebook.com/31116475535/picture?width=200&height=200) | - | WICE |
