@@ -176,6 +176,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 8 TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sal Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Carolina Digital | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Television Carmona | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101 Tele Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Islatel | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -213,7 +214,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Este Canal TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Este Canal TV | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -245,6 +246,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TeleToledo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Mancha Centro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Manzanares10TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 2000 La Solana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Castilla y León
 
