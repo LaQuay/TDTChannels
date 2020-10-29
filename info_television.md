@@ -583,6 +583,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Bolivia 7.2 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cubavisión TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemicro República Dominicana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Color Visión República Dominicana | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | HCH Honduras | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 33 El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
