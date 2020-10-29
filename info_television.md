@@ -117,9 +117,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Sur 1 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Sur 2 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Andalucía TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Algeciras | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Almería | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
