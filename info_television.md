@@ -658,6 +658,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
 | Radio 105 Italia | - | - | - | - | - | - | - | - |
 | Virgin Radio Italia | - | - | - | - | - | - | - | - |
+| R 101 Italia | - | - | - | - | - | - | - | - |
 | Radio Montecarlo Italia | - | - | - | - | - | - | - | - |
 | Kronehit Austria | - | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - | - |
