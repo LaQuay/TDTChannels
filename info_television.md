@@ -662,7 +662,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Radio Montecarlo Italia | - | - | - | - | - | - | - | - |
 | Kronehit Austria | - | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - | - |
-| NRJ Bélgica | - | - | - | - | - | - | - | - |
+| NRJ Hits Bélgica | - | - | - | - | - | - | - | - |
 | 4FUN TV Polonia | - | - | - | - | - | - | - | - |
 | Tomorrowland TV | - | - | - | - | - | - | - | - |
 | Radio Italia TV | - | - | - | - | - | - | - | - |
@@ -676,12 +676,14 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | V2Beat TV | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |
 | Rock TV Romania | - | - | - | - | - | - | - | - |
+| Radio 21 Rock'n Pop Alemania | - | - | - | - | - | - | - | - |
 | RadioU TV | - | - | - | - | - | - | - | - |
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - | - |
 | Otto FM Italia | - | - | - | - | - | - | - | - |
 | Ibiza Global TV | - | - | - | - | - | - | - | - |
 | Ibiza Sonica TV | - | - | - | - | - | - | - | - |
 | Café del Mar Ibiza | - | - | - | - | - | - | - | - |
+| Sonus FM Alemania | - | - | - | - | - | - | - | - |
 | DanceStar TV | - | - | - | - | - | - | - | - |
 | Top TV Brasil | - | - | - | - | - | - | - | - |
 | HqM Hits | - | - | - | - | - | - | - | - |
