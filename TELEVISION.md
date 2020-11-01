@@ -155,7 +155,7 @@
 | 8 TV Cádiz | [m3u8](https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8) | [web](https://www.8cadiz.es/directo/) | [logo](https://graph.facebook.com/8tvcadiz/picture?width=200&height=200) | - | - |
 | Sal Televisión | [m3u8](https://www.tdtchannels.com/stream/saltv.m3u8) | [web](https://saltv.es/en-directo/) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | - |
 | La Carolina Digital | [m3u8](https://srv2.zcast.com.br/eduardom/eduardom/master.m3u8) | [web](https://www.lacarolinadigital.es/) | [logo](https://graph.facebook.com/lacarolinadigital/picture?width=200&height=200) | - | - |
-| Televisión Carmona | [stream](https://ustream.tv/channel/23990902) | [web](https://www.televisioncarmona.com/) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | - |
+| Televisión Carmona | [stream](https://www.ustream.tv/embed/23990902?html5ui&autoplay=true) | [web](https://www.televisioncarmona.com/) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
 | 101 Tele Antequera | [m3u8](https://secure7.todostreaming.es/live/101tv-AntequeraHD.m3u8) | [web](https://www.101tv.es/directo-antequera.aspx) | [logo](https://pbs.twimg.com/profile_images/1026753292322459648/KelWPobh_200x200.jpg) | - | - |
 | Islatel | [youtube](https://www.youtube.com/channel/UCf4hfEfeqVTrTx7-VadIbgQ/live) | [web](http://www.islatel.es/) | [logo](https://graph.facebook.com/101523104600501/picture?width=200&height=200) | - | EMB |
