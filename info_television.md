@@ -369,13 +369,13 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVCS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | tvA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Televisión de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Televisión de San Vicente | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Burriana TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 | telesafor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TeVe4 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Sin emision temporalmente |
+| TeVe4 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Maestrat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Univers TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Elche 7 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
