@@ -90,6 +90,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Eventuales
 
