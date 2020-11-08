@@ -565,6 +565,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La Nación Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | América TV Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | TV Pública Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| TV Pública Argentina | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Exitosa Noticias Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Panamericana Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
