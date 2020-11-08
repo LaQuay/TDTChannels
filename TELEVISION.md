@@ -445,7 +445,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TPA7 | - | [web](https://www.rtpa.es/television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | W3U |
+| TPA7 | - | [web](https://www.rtpa.es/television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | W3U,EXTA |
 | EsAsturiasTV | [m3u8](https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8) | [web](https://www.esasturias.tv/directo) | [logo](https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200) | - | - |
 | Canal 10 | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](http://www.canal10tv.com) | [logo](https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_200x200.png) | - | - |
 
