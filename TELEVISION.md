@@ -2,7 +2,7 @@
 
 ## Nacionales
 
-| Canal | M3U8 | Web | Logo | EPG ID | Info |
+| Canal | M3U8 | Web | Logo | EPG ID | Info | 
 | - | - | - | - | - | - |
 | La 1 | [m3u8 # 1](https://rtvelivestream.akamaized.net/la1_dvr.m3u8) - [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
 | La 2 | [m3u8 # 1](https://rtvelivestream.akamaized.net/la2_dvr.m3u8) - [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
@@ -608,7 +608,7 @@
 | ACS Network | [m3u8](https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8) | [web](https://acsnetwork.tv/) | [logo](https://graph.facebook.com/acsnetworktv/picture?width=200&height=200) | - | - |
 | Mr Bean 24h | [youtube # EN](https://www.youtube.com/channel/UCkAGrHCLFmlK3H2kd6isipg/live) | [web](https://www.mrbean.com/) | [logo](https://graph.facebook.com/MrBean/picture?width=200&height=200) | - | EMB |
 | Rathergood LoL | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?ctype=0&chname=CLOUDIETV-RATHERGOODLOL-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/lol/) | [logo](https://rathergood.co.uk/wp-content/uploads/2019/11/Capture-260x180.png) | - | - |
-| Bloomberg Quicktake| [m3u8 # 1 EN](https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8) - [m3u8 # 2 EN](https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8) | [web](https://www.bloomberg.com/qt/live) | [logo](https://graph.facebook.com/quicktake/picture?width=200&height=200) | - | - |
+| Bloomberg Quicktake | [m3u8 # 1 EN](https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-03-qPp9HnlfNtK_live.m3u8) - [m3u8 # 2 EN](https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-02-oNnPi5xc6sq_live.m3u8) | [web](https://www.bloomberg.com/qt/live) | [logo](https://graph.facebook.com/quicktake/picture?width=200&height=200) | - | - |
 
 ## Deportivos Int.
 
