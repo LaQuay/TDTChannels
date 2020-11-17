@@ -33,7 +33,7 @@
 | Hit FM | [mp3](https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3) | [web](https://www.hitfm.es/) | [logo](https://graph.facebook.com/hitfm.es/picture?width=200&height=200) | - | - |
 | MegaStar FM | [m3u8](https://megastar-cope.flumotion.com/playlist.m3u8) | [web](https://www.megastar.fm/) | [logo](https://graph.facebook.com/MegaStarFM/picture?width=200&height=200) | - | - |
 | Melodía FM | [m3u8](https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8) | [web](https://www.melodia-fm.com/directo/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=200&height=200) | - | - |
-| Loca FM | [stream](http://audio-online.net:2300/live) | [web](http://www.locafm.com/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
+| Loca FM | [mp3](https://locafm-live1.flumotion.com/locafm/live1.mp3) | [web](http://www.locafm.com/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Radio Clásica RNE | [mp3](https://radioclasica.rtveradio.cires21.com/radioclasica_hc.mp3) | [web](https://www.rtve.es/alacarta/live_radio_PopUp.shtml) | [logo](https://graph.facebook.com/radioclasicartve/picture?width=200&height=200) | - | - |
 | Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | - | - |
 
@@ -46,26 +46,25 @@
 | Dial Baladas | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3) | [web](https://play.cadenadial.com/emisora/dialbaladas) | [logo](https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg) | - | - |
 | Dial Esencial | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3) | [web](https://play.cadenadial.com/emisora/dialesencial) | [logo](https://recursosweb.prisaradio.com/fotos/dest/010002743852.jpg) | - | - |
 | Dial Latino | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3) | [web](https://play.cadenadial.com/emisora/diallatino) | [logo](https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg) | - | - |
-| Loca FM Latino | [stream](http://audio-online.net:8012/live) | [web](http://www.locafm.com/loca-latino/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Dance | [stream](http://audio-online.net:8004/live) | [web](http://www.locafm.com/dance/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Remember | [stream](http://audio-online.net:8006/live) | [web](http://www.locafm.com/remember/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM House | [stream](http://audio-online.net:8005/live) | [web](http://www.locafm.com/house/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Chill out | [stream](http://audio-online.net:8002/live) | [web](http://www.locafm.com/chill-out/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Tech House | [stream](http://audio-online.net:8008/live) | [web](http://www.locafm.com/tech-house/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Trance | [stream](http://audio-online.net:8010/live) | [web](http://www.locafm.com/trance/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Techno | [stream](http://audio-online.net:8009/live) | [web](http://www.locafm.com/techno/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Big Room | [stream](http://audio-online.net:8001/live) | [web](http://www.locafm.com/big-room/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Dub Techno | [stream](http://audio-online.net:8015/live) | [web](http://www.locafm.com/dub-techno/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Hard | [stream](http://audio-online.net:8003/live) | [web](http://www.locafm.com/hard/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Sessions | [stream](http://audio-online.net:8013/live) | [web](http://www.locafm.com/sessions/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Ambient | [stream](http://audio-online.net:8007/live) | [web](http://www.locafm.com/ambient/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Loca 80's | [stream](http://audio-online.net:8018/live) | [web](http://www.locafm.com/loca-80-s/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Loca 90's | [stream](http://audio-online.net:8000/live) | [web](http://www.locafm.com/loca-90-s/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Melodic Techno | [stream](http://audio-online.net:8011/live) | [web](http://www.locafm.com/melodic-techno/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Trap | [stream](http://audio-online.net:8014/live) | [web](http://www.locafm.com/trap/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Loca Pride | [stream](http://s02.fjperezdj.com:8070/live) | [web](http://www.locafm.com/loca-pride/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Industrial | [stream](http://audio-online.net:8019/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
-| Loca FM Drum&Bass | [stream](http://audio-online.net:8021/live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
+| Loca FM Dance | [stream](http://s02.fjperezdj.com:8025/live) | [web](http://www.locafm.com/dance/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Remember | [stream](http://s02.fjperezdj.com:8035/live) | [web](http://www.locafm.com/remember/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM House | [stream](http://s02.fjperezdj.com:8026/live) | [web](http://www.locafm.com/house/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Chill out | [stream](http://s02.fjperezdj.com:8006/live) | [web](http://www.locafm.com/chill-out/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
+| Loca FM Tech House | [stream](http://s02.fjperezdj.com:8046/live) | [web](http://www.locafm.com/tech-house/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Trance | [stream](http://s02.fjperezdj.com:8055/live) | [web](http://www.locafm.com/trance/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Techno | [stream](http://s02.fjperezdj.com:8050/live) | [web](http://www.locafm.com/techno/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Big Room | [stream](http://s02.fjperezdj.com:8005/live) | [web](http://www.locafm.com/big-room/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Dub Techno | [stream](http://s02.fjperezdj.com:8066/live) | [web](http://www.locafm.com/dub-techno/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Hard | [stream](http://audio-online.net:8003/live) | [web](http://www.locafm.com/hard/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Sessions | [stream](http://s02.fjperezdj.com:8095/live) | [web](http://www.locafm.com/sessions/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Ambient | [stream](http://s02.fjperezdj.com:8036/live) | [web](http://www.locafm.com/ambient/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Loca 80's | [stream](http://s02.fjperezdj.com:8075/live) | [web](http://www.locafm.com/loca-80-s/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Loca 90's | [stream](http://s02.fjperezdj.com:8000/live) | [web](http://www.locafm.com/loca-90-s/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Melodic Techno | [stream](http://s02.fjperezdj.com:8056/live) | [web](http://www.locafm.com/melodic-techno/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Trap | [stream](http://s02.fjperezdj.com:8060/live) | [web](http://www.locafm.com/trap/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Loca Pride | [stream](http://s02.fjperezdj.com:8070/live) | [web](http://www.locafm.com/loca-pride/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Industrial | [stream](http://s02.fjperezdj.com:8076/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Drum&Bass | [stream](live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Clásica FM Radio | [mp3](https://radio.garden/api/ara/content/listen/UG3FmZly/channel.mp3) | [web](https://clasicafmradio.es/cfm-escucha/) | [logo](https://graph.facebook.com/clasicafmradio/picture?width=200&height=200) | - | - |
 | digitalHits FM | [stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](http://www.digitalhits.cat/directe/) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
 
