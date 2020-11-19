@@ -121,7 +121,7 @@
 | M95 Marbella | [m3u8](https://limited2.todostreaming.es/live/m95-livestream.m3u8) | [web](https://m95tv.es/) | [logo](https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200) | - | - |
 | Canal 45 TV | [m3u8](https://cdn01.yowi.tv/503L6OKTE2/master.m3u8) | [web](http://www.canal45tv.com/) | [logo](https://graph.facebook.com/canal45television/picture?width=200&height=200) | - | NONAV |
 | PTV Málaga | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) | [web](http://ptvtelecom.com/canales/malaga.html) | [logo](https://graph.facebook.com/PTV.Malaga/picture?width=200&height=200) | - | - |
-| Huelva TV | - | [web](http://huelvatv.com/directo/) | [logo](https://pbs.twimg.com/profile_images/1269901260582518784/S428eCc8_200x200.jpg) | - | EMB |
+| Huelva TV | - | [web](http://huelvatv.com/directo/) | [logo](https://pbs.twimg.com/profile_images/1269901260582518784/S428eCc8_200x200.jpg) | - | W3U,EMB |
 | Canal Sierra de Cádiz | [m3u8 # HD 1](http://217.125.136.93:8080/canalsierradecadiz1080.m3u8) - [m3u8 # HD 2](http://217.125.136.93:8080/canalsierradecadiz720.m3u8) - [m3u8 # SD](http://217.125.136.93:8080/canalsierradecadiz576.m3u8) | [web](http://www.canalsierradecadiz.com/emision-en-directo/) | [logo](https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200) | - | - |
 | Costa Noroeste TV | [m3u8](https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8) | [web](http://www.costanoroestetv.net/) | [logo](https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200) | - | - |
 | Córdoba TV | [m3u8](https://5b38ce71f1f00.streamlock.net/8376/8376/master.m3u8) | [web](https://www.cordoba-tv.com/) | [logo](https://graph.facebook.com/cordobatvonline/picture?width=200&height=200) | - | NONAV |
