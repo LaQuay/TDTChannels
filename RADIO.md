@@ -55,7 +55,7 @@
 | Loca FM Techno | [stream](http://s02.fjperezdj.com:8050/live) | [web](http://www.locafm.com/techno/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Big Room | [stream](http://s02.fjperezdj.com:8005/live) | [web](http://www.locafm.com/big-room/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Dub Techno | [stream](http://s02.fjperezdj.com:8066/live) | [web](http://www.locafm.com/dub-techno/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
-| Loca FM Hard | [stream](http://audio-online.net:8003/live) | [web](http://www.locafm.com/hard/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Hard | [stream](http://s02.fjperezdj.com:8016/live) | [web](http://www.locafm.com/hard/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Sessions | [stream](http://s02.fjperezdj.com:8095/live) | [web](http://www.locafm.com/sessions/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Ambient | [stream](http://s02.fjperezdj.com:8036/live) | [web](http://www.locafm.com/ambient/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Loca 80's | [stream](http://s02.fjperezdj.com:8075/live) | [web](http://www.locafm.com/loca-80-s/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
