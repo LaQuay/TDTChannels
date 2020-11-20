@@ -49,7 +49,7 @@
 | Loca FM Dance | [stream](http://s02.fjperezdj.com:8025/live) | [web](http://www.locafm.com/dance/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Remember | [stream](http://s02.fjperezdj.com:8035/live) | [web](http://www.locafm.com/remember/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM House | [stream](http://s02.fjperezdj.com:8026/live) | [web](http://www.locafm.com/house/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
-| Loca FM Chill out | [stream](http://s02.fjperezdj.com:8006/live) | [web](http://www.locafm.com/chill-out/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
+| Loca FM Chill out | [stream](http://s02.fjperezdj.com:8006/live) | [web](http://www.locafm.com/chill-out/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Tech House | [stream](http://s02.fjperezdj.com:8046/live) | [web](http://www.locafm.com/tech-house/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Trance | [stream](http://s02.fjperezdj.com:8055/live) | [web](http://www.locafm.com/trance/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Techno | [stream](http://s02.fjperezdj.com:8050/live) | [web](http://www.locafm.com/techno/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
