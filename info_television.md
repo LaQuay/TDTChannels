@@ -143,7 +143,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Huelva TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Costa Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Córdoba TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Córdoba TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Condavisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleonuba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CanalCosta | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -152,7 +152,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV Centro Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Uvitel TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Lebrija TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal San Roque | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Canal San Roque | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tuya La Janda TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Algeciras TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | OndaMezquita TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -398,7 +398,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Canal Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Cáceres Tevé | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Cáceres Tevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televisión Extremeña | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
@@ -412,7 +412,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG Musigal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Cultura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Momentos G | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Eventos | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Eventos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Hermes TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
