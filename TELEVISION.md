@@ -30,7 +30,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| 24h | [m3u8 # 1](https://rtvelivestream.akamaized.net/24h_dvr.m3u8) - [m3u8 # 2](https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8) | [web](https://www.rtve.es/directo/canal-24h/) | [logo](https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png) | 24Horas.TV | - |
+| 24h | [m3u8](https://rtvelivestream.akamaized.net/24h_dvr.m3u8) | [web](https://www.rtve.es/directo/canal-24h/) | [logo](https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png) | 24Horas.TV | - |
 | Nius | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8) | [web](https://www.niusdiario.es/) | [logo](https://graph.facebook.com/NiusDiario/picture?width=200&height=200) | - | - |
 | El País | [youtube](https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw/live) | [web](https://elpais.com/) | [logo](https://graph.facebook.com/elpais/picture?width=200&height=200) | - | EMB |
 | La Vanguardia | [youtube](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live) | [web](https://www.lavanguardia.com/) | [logo](https://graph.facebook.com/LaVanguardia/picture?width=200&height=200) | - | EMB |
