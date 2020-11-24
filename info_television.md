@@ -216,11 +216,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 10 TV | - | - | - | - | - | - | - | - |
 
 ### Cantabria
 
