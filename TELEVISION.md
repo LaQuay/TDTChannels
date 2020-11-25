@@ -114,7 +114,7 @@
 | 7TV Andalucía - Marbella | - | [web](https://7tvandalucia.es/marbella/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | - | W3U,EXTA |
 | 7TV Andalucía - Sevilla | - | [web](https://7tvandalucia.es/sevilla/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | - | W3U,EXTA |
 | 7TV Andalucía - Sierra | - | [web](https://7tvandalucia.es/sierra/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | - | W3U,EXTA |
-| 101TV Málaga | [m3u8](https://secure7.todostreaming.es/live/101tv-web101tv.m3u8) | [web](https://www.101tv.es/endirecto.aspx) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | - | - |
+| 101TV Málaga | [m3u8](https://limited22.todostreaming.es/live/101tv-web101tv.m3u8) | [web](https://www.101tv.es/endirecto.aspx) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | - | - |
 | Jerez Televisión | [youtube](https://www.youtube.com/channel/UCHVquS6wXQAsESO2bwZ7esw/live) | [web](https://jereztelevision.com/) | [logo](https://graph.facebook.com/jerez.television/picture?width=200&height=200) | - | EMB |
 | Onda Cádiz | [m3u8](https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8) | [web](https://ondacadiz.es/television-directo) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | OndaCadiz.TV | NONAV |
 | Mijas 3.40 TV | [m3u8](https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8) | [web](https://www.mijascomunicacion.org/) | [logo](https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200) | - | - |
@@ -158,7 +158,7 @@
 | La Carolina Digital | [m3u8](https://srv2.zcast.com.br/eduardom/eduardom/master.m3u8) | [web](https://www.lacarolinadigital.es/) | [logo](https://graph.facebook.com/lacarolinadigital/picture?width=200&height=200) | - | - |
 | Televisión Carmona | [stream](https://www.ustream.tv/embed/24010794?html5ui&autoplay=true) | [web](https://www.televisioncarmona.com/) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
-| 101 Tele Antequera | [m3u8](https://secure7.todostreaming.es/live/101tv-AntequeraHD.m3u8) | [web](https://www.101tv.es/directo-antequera.aspx) | [logo](https://pbs.twimg.com/profile_images/1026753292322459648/KelWPobh_200x200.jpg) | - | - |
+| 101 Tele Antequera | [m3u8](https://limited22.todostreaming.es/live/101tv-AntequeraHD.m3u8) | [web](https://www.101tv.es/directo-antequera.aspx) | [logo](https://pbs.twimg.com/profile_images/1026753292322459648/KelWPobh_200x200.jpg) | - | - |
 | Islatel | [youtube](https://www.youtube.com/channel/UCf4hfEfeqVTrTx7-VadIbgQ/live) | [web](http://www.islatel.es/) | [logo](https://graph.facebook.com/101523104600501/picture?width=200&height=200) | - | EMB |
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200) | FuengirolaTV.TV | - |
 | TVM Córdoba | [m3u8](https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8) | [web](https://www.cordoba.es/emision_directo/index.html) | [logo](https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200) | - | - |
