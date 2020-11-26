@@ -59,6 +59,6 @@ Aplica lo mismo que para la TV. La preferencia siempre será la de elegir el _st
 - MP3
 
 ## Aviso general
-- Únicamente se recoje información externa, no se permite subir contenidos al repositorio.
+- Únicamente se recoge información externa, no se permite subir contenidos al repositorio.
 
 Gracias por colaborar!

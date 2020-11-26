@@ -24,17 +24,17 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Antena 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Cuatro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Telecinco | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Cuatro | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Telecinco | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | laSexta | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Neox | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión geolocalizada a España |
 | Nova | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión geolocalizada a España |
 | Mega | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión geolocalizada a España |
 | Atreseries | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| FDF | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Energy | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Divinity | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Be Mad | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| FDF | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Energy | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Divinity | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Be Mad | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Paramount Network | ✔ | 🌐 | 🌐 | ✔❗ | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
@@ -84,12 +84,13 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| Boing | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Boing | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Eventuales
 
@@ -142,7 +143,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Huelva TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Costa Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Córdoba TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Córdoba TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Condavisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleonuba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CanalCosta | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -151,7 +152,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV Centro Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Uvitel TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Lebrija TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal San Roque | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Canal San Roque | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tuya La Janda TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Algeciras TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | OndaMezquita TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -185,6 +186,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trebujena TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Campiña Sur TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Onda Cádiz 24h | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El Correo de Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Aragón
@@ -214,11 +216,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 10 TV | - | - | - | - | - | - | - | - |
 
 ### Cantabria
 
@@ -364,18 +364,19 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TeleElx | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Intercomarcal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Grup Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 8 La Marina TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | La 8 Mediterráneo | 🌐 | 🌐 | 🌐 | ✔❗ | ✔❗ | ❌ | ✔ | - |
 | Alicantí TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVCS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | tvA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Televisión de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Televisión de San Vicente | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Burriana TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 | telesafor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TeVe4 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Sin emision temporalmente |
+| TeVe4 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Maestrat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Univers TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Elche 7 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -395,7 +396,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Canal Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Cáceres Tevé | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Cáceres Tevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televisión Extremeña | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
@@ -409,10 +410,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG Musigal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Cultura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Momentos G | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Eventos | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Eventos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Hermes TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Hermes TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Telemiño | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Auria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Nós TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -464,7 +465,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| TPA7 | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| TPA7 | ✔! | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | Para Android, en pruebas |
 | EsAsturiasTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -501,6 +502,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | BFM TV Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV5Monde Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | franceinfo: Francia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| CNEWS Francia | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TGCom24 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Rai News 24 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La5 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -528,7 +530,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | NBC News USA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | CBS News USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cheddar USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Bloomberg EU USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Bloomberg USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV Public | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV ISS Views | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -564,6 +566,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La Nación Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | América TV Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | TV Pública Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| TV Pública Argentina | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Exitosa Noticias Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Panamericana Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -655,6 +658,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Cadena Elite Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Gigante España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mola TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| EuroLatina TV España | - | - | - | - | - | - | - | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
 | Radio 105 Italia | - | - | - | - | - | - | - | - |
 | Virgin Radio Italia | - | - | - | - | - | - | - | - |
@@ -669,6 +673,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Ocko Chequia | - | - | - | - | - | - | - | - |
 | Ocko Star Chequia | - | - | - | - | - | - | - | - |
 | Ocko Expres Chequia | - | - | - | - | - | - | - | - |
+| NumberOne Turquía | - | - | - | - | - | - | - | - |
 | m2o Italia | - | - | - | - | - | - | - | - |
 | ON TV Portugal | - | - | - | - | - | - | - | - |
 | 1 Music Hungria | - | - | - | - | - | - | - | - |
@@ -733,7 +738,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La Mega Mundial USA | - | - | - | - | - | - | - | - |
 | Telemúsica Colombia | - | - | - | - | - | - | - | - |
 | Music Top Argentina | - | - | - | - | - | - | - | - |
-| EuroLatina TV | - | - | - | - | - | - | - | - |
 | Latinos 1 TV Suiza | - | - | - | - | - | - | - | - |
 | Portal Foxmix Colombia | - | - | - | - | - | - | - | - |
 | Melody Channel Colombia | - | - | - | - | - | - | - | - |
