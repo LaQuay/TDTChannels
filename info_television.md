@@ -451,15 +451,16 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | ETB Eventos 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ETB Eventos 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Hamaika Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tele 7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Goiena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleBilbao | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| 28 Kanala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleDonosti | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 28 Kanala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Goierri Irrati Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Durangaldeko Telebista | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Erlo Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Oizmendi Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Urola Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Tele 7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### P. de Asturias
 
