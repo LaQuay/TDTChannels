@@ -423,7 +423,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | IB3 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| TEF | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TEF | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### La Rioja
