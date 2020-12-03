@@ -630,9 +630,10 @@
 | MsMotor TV | [m3u8 # IT](https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/playlist.m3u8) | [web](https://www.msmotor.tv/) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | - |
 | OnlyMotors | [m3u8 # EN](https://streamingserver000.viewtvgroup.com/CLOUDIETV-ONLYMOTORSTV-001/index.m3u8) | [web](https://onlymotors.tv/) | [logo](https://graph.facebook.com/onlymotors/picture?width=200&height=200) | - | - |
 | Harley Davidson TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyM.TV | - |
-| Harley Davidson Racing TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyR.TV | - |
+| Harley Davidson Racing TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/797c5c1c-160c-4c17-a149-e31a0467ab62.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyR.TV | - |
 | Harley Davidson Factory TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyF.TV | - |
 | Harley Davidson Garage TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyG.TV | - |
+| Harley Davidson Rides TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b8789d55-d110-4452-a578-3a206afa3972.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | - | - |
 | MotorTrend Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | [web](https://it.dplay.com/motor-trend/) | [logo](https://graph.facebook.com/motortrendIT/picture?width=200&height=200) | - | - |
 
 ## Musicales
