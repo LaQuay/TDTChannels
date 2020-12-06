@@ -640,11 +640,11 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Cadena Elite Granada | [m3u8](https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8) | [web](https://www.cadenaelite.es/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
-| Radio Gigante España | [m3u8](https://gigantetv.radiogigante.com/tele/live/stream.m3u8) | [web](https://radiogigante.com/) | [logo](https://graph.facebook.com/radiogigantecanarias/picture?width=200&height=200) | - | - |
+| Activa TV España | [m3u8](https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8) | [web](https://www.emisorasmusicales.net/activa-tv/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
+| Cadena Elite España | [m3u8](https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8) | [web](https://www.cadenaelite.es/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 | Mola TV España | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | [web](http://www.molatv.cat/) | [logo](https://graph.facebook.com/molaTV/picture?width=200&height=200) | - | - |
+| Radio Gigante España | [m3u8](https://gigantetv.radiogigante.com/tele/live/stream.m3u8) | [web](https://radiogigante.com/) | [logo](https://graph.facebook.com/radiogigantecanarias/picture?width=200&height=200) | - | - |
 | EuroLatina TV España | [m3u8](https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8) | [web](https://www.eurolatinatv.com/) | [logo](https://yt3.ggpht.com/a/AATXAJxUenOSOL16tyFIo0NJPPB1QDqv4AoApohEN0uF-w=s200-c-k-c0x00ffffff-no-rj) | - | - |
-| Activa TV C. Valenciana | [m3u8](https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8) | [web](https://www.emisorasmusicales.net/activa-tv/) | [logo](https://i0.wp.com/www.emisorasmusicales.net/inc/uploads/2020/03/cropped-emisorasmusicales-logo.png?fit=200%2C200) | - | - |
 | RTL 102.5 Italia | [m3u8 # IT](https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8) | [web](https://www.rtl.it/radiovisione) | [logo](https://graph.facebook.com/RTL102.5/picture?width=200&height=200) | - | NONAV |
 | Radio 105 Italia | [m3u8 # IT](https://link.theplatform.eu/s/PR1GhC/JBaCjjesS1bl?m3u8) | [web](https://www.105.net/sezioni/12038/tv) | [logo](https://graph.facebook.com/Radio105/picture?width=200&height=200) | - | NONAV |
 | Virgin Radio Italia | [m3u8 # IT](https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8) | [web](https://www.virginradio.it/sezioni/1099/video) | [logo](https://graph.facebook.com/virginradioitaly/picture?width=200&height=200) | - | - |
