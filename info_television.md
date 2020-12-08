@@ -627,7 +627,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Miami TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vaughan TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Locomotion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 24/7 Retro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 24/7 Retro TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Classic Arts Showcase | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | American Horrors Movies | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cachipum TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
