@@ -466,7 +466,7 @@
 | Ràdio Silenci | [mp3](http://streaming.enacast.com:8000/radiosilenci56.mp3) - [stream](https://enacast.com/radiosilenci/streams/HD) | [web](http://www.radiosilenci.cat) | [logo](https://graph.facebook.com/rsilenci/picture?width=200&height=200) | - | - |
 | Metro FM | [stream](http://89.163.231.60:8420/stream) | [web](http://metrofm.es/) | [logo](https://graph.facebook.com/metrofm.es/picture?width=200&height=200) | - | - |
 | Ràdio Vilafranca | [stream](http://194.32.133.102:8000/;) | [web](https://www.rtvvilafranca.cat/radio-vilafranca/radio-en-directe/) | [logo](https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200) | - | - |
-| Ona La Torre | [m3u8](http://liveingesta118.cdnmedia.tv/onalatorrelive/smil:live.smil/master.m3u8) | [web](http://onalatorre.alacarta.cat/) | [logo](https://graph.facebook.com/ona.latorre/picture?width=200&height=200) | - | UAGLI |
+| Ona La Torre | [stream](https://radio.cdnmedia.tv/radio/8070/onalatorre) | [web](http://onalatorre.alacarta.cat/escoltans-en-directe) | [logo](https://graph.facebook.com/ona.latorre/picture?width=200&height=200) | - | - |
 | Ràdio Estel | [stream](http://srv3021.lcinternet.com:8019/stream) | [web](http://player.lcinternet.es/v9/cc232_id415/) | [logo](https://graph.facebook.com/Radioestelbcn/picture?width=200&height=200) | - | WICE |
 | Gum FM Vielha | [stream](https://streamingv2.shoutcast.com/gum) | [web](https://gum.cat/) | [logo](https://graph.facebook.com/gumfm/picture?width=200&height=200) | - | - |
 | RAP107 | [mp3](http://streaming.enantena.com:8000/rap56.mp3) - [stream](https://enacast.com/rap107/streams/SD) | [web](https://enacast.com/rap107/) | [logo](https://graph.facebook.com/rap107/picture?width=200&height=200) | - | - |
