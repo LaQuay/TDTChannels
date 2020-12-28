@@ -316,8 +316,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Vallès Visió | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV Ripollés | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Mar TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV10 Sesrovires | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV Sant Cugat | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| RTV10 Sesrovires | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | 25 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televisió de Sant Martí | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televisió del Baix Guinardó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
