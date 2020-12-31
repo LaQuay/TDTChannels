@@ -134,7 +134,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 7TV Andalucía - Marbella | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Sevilla | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Sierra | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| Jerez Televisión | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Jerez TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Cádiz | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -174,8 +174,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Fion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bailén TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8 TV Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Sal Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Television Carmona | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Carmona | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | TeleGilena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Campiña Sur TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -195,6 +195,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - | - | - |
 | Aragón TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Huesca TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Calamocha TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -206,7 +207,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | GranCanariaTV.com | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Televisión Canaria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Canaria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 1 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -215,7 +216,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Tindaya TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -265,7 +266,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La 8 Zamora | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Benavente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 54 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Televisión Aranda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Aranda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Junta Castilla y León | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Cataluña
@@ -321,8 +322,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTV10 Sesrovires | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | 25 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Televisió de Sant Martí | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Televisió del Baix Guinardó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV de Sant Martí | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| TV del Baix Guinardó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8tv | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | TV L'Hospitalet | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
@@ -371,7 +372,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVCS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | tvA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Televisión de San Vicente | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| TV de San Vicente | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Burriana TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 | telesafor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -398,7 +399,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Canal Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cáceres Tevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Televisión Extremeña | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
+| TV Extremeña | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ### Galicia
