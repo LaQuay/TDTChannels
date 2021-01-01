@@ -661,6 +661,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Activa TV Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cadena Elite España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| XtraHits TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mola TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Gigante España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | EuroLatina TV España | - | - | - | - | - | - | - | - |
