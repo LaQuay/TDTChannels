@@ -636,7 +636,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Cachipum TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ACS Network | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mr Bean 24h | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
-| Rathergood LoL | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Deportivos Int.
 
@@ -718,13 +717,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | The Good Life Radio | - | - | - | - | - | - | - | - |
 | LoFi Hip-Hop Beats Music | - | - | - | - | - | - | - | - |
 | Beautiful Piano Music | - | - | - | - | - | - | - | - |
-| Rathergood Radio | - | - | - | - | - | - | - | - |
-| Rathergood Dance | - | - | - | - | - | - | - | - |
-| Rathergood Movies | - | - | - | - | - | - | - | - |
-| Rathergood Hits | - | - | - | - | - | - | - | - |
-| Rathergood 00s | - | - | - | - | - | - | - | - |
-| Rathergood 90s | - | - | - | - | - | - | - | - |
-| Rathergood Dance Classics | - | - | - | - | - | - | - | - |
 | 30A Music USA | - | - | - | - | - | - | - | - |
 | Vintage Music TV | - | - | - | - | - | - | - | - |
 | Retro Plus TV Chile | - | - | - | - | - | - | - | - |
