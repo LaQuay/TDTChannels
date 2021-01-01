@@ -218,7 +218,7 @@
 | CMM | [m3u8](http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8) | [web](https://www.cmmedia.es/en-directo/tv/) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | CMM.TV | - |
 | TV Hellín | [m3u8](https://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8) | [web](https://www.televisionhellin.com/tv-en-directo) | [logo](https://graph.facebook.com/tvhellin/picture?width=200&height=200) | - | - |
 | Guadalajara Media | [youtube](https://www.youtube.com/channel/UCaEv8XC5Czu8vfV_QKUARLQ/live) | [web](https://nuevaalcarria.com/) | [logo](https://graph.facebook.com/canalguadalajara/picture?width=200&height=200) | - | EMB |
-| Guada TV | [m3u8](https://5fcbeb2219aa3.streamlock.net:455/guadatv/guadatv/playlist.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200) | - | - |
+| Guada TV | [m3u8](https://cloud.streamingconnect.tv:455/gcmin/guadatv.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200) | - | - |
 | Visión 6 TV | [m3u8](https://secure3.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | [logo](https://graph.facebook.com/104927246235553/picture?width=200&height=200) | - | NONAV |
 | Imás TV | [m3u8](https://secure3.todostreaming.es/live/imastv-livestream.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | [logo](https://graph.facebook.com/television.imas/picture?width=200&height=200) | - | NONAV |
 | CanalImagen Almansa | - | [web](https://zonacliente.almatelecom.es/videos/canalimagen) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=200&height=200) | - | W3U,EXTA |
@@ -226,7 +226,7 @@
 | Alcarria TV | [m3u8 # 1](https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8) - [m3u8 # 2](http://217.182.77.27/live/alcarriatv-livestream.m3u8) | [web](https://www.alcarria.tv/ver-en-directo/) | [logo](https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200) | - | - |
 | Ciudad Real TV | [youtube](https://www.youtube.com/channel/UCNxFBlUBOaI3iQW37T3hFww/live) | [web](https://www.ciudadreal.es/servicios-municipales/cr-tv.html) | [logo](https://graph.facebook.com/1765736930414544/picture?width=200&height=200) | - | EMB |
 | Manzanares10TV | [m3u8](https://secure.todostreaming.es/live/manzanares-livestream.m3u8) | [web](http://www.manzanares10.tv/) | [logo](https://graph.facebook.com/Manzanares10TV/picture?width=200&height=200) | - | - |
-| TeleToledo | [m3u8](https://5fcbeb2219aa3.streamlock.net:455/teletoledo/teletoledo/playlist.m3u8) | [web](https://www.teletoledo.es/index.php/tv-en-directo) | [logo](https://graph.facebook.com/Teletoledo/picture?width=200&height=200) | - | - |
+| TeleToledo | [m3u8](https://cloud.streamingconnect.tv:455/gcmin/teletoledo.m3u8) | [web](https://www.teletoledo.es/index.php/tv-en-directo) | [logo](https://graph.facebook.com/Teletoledo/picture?width=200&height=200) | - | - |
 | Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8) | [web](https://villarrobledonoticias.com/canal-4-mancha/) | [logo](https://graph.facebook.com/canal4television/picture?width=200&height=200) | - | - |
 | Canal 2000 La Solana | [m3u8](http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8) | [web](http://www.canal2000.com/) | [logo](https://pbs.twimg.com/profile_images/1703771489/logo1p_200x200.jpg) | - | - |
 
@@ -245,7 +245,7 @@
 | La 8 Soria | [m3u8](https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/La8Soria) | [logo](https://graph.facebook.com/La8Soria/picture?width=200&height=200) | - | - |
 | La 8 Valladolid | [m3u8](https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/La8Valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | - | - |
 | La 8 Zamora | [m3u8](https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/La8Zamora) | [logo](https://pbs.twimg.com/profile_images/1656832260/Logo_Zamora_200x200.JPG) | - | - |
-| TV Benavente | [m3u8](https://5fcbeb2219aa3.streamlock.net:455/tvbenavente/tvbenavente/playlist.m3u8) | [web](https://www.tvbenavente.es/directo/) | [logo](https://graph.facebook.com/benaventetv/picture?width=200&height=200) | Benavente.TV | - |
+| TV Benavente | [m3u8](https://cloud.streamingconnect.tv:455/gcmin/tvbenavente.m3u8) | [web](https://www.tvbenavente.es/directo/) | [logo](https://graph.facebook.com/benaventetv/picture?width=200&height=200) | Benavente.TV | - |
 | Canal 54 | [stream](https://player.twitch.tv/?channel=canal54tvburgos&parent=www.tdtchannels.com) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
 | TV Aranda | [m3u8](https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8) | [web](http://www.telearanda.es/) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | NONAV |
 | Junta Castilla y León | [m3u8](https://16escalones-live2.flumotion.com/chunks.m3u8) | [web](http://jcyltv.16escalones.es/) | [logo](https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200) | - | - |
@@ -328,7 +328,7 @@
 | Distrito TV | [m3u8](https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8) | [web](http://distritotv.es/videos/) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | NONAV |
 | Déjate de Historias TV | [m3u8](https://cdn01.yowi.tv/GGGGGGGGGG/master.m3u8) | [web](https://www.dejatedehistorias.es/wordpress/dejate-tv-on-line/) | [logo](https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200) | Dejate.TV | NONAV |
 | Telesur Madrid | [m3u8](https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8) | [web](https://telesurmadrid.wordpress.com/) | [logo](https://graph.facebook.com/telesurmadrid/picture?width=200&height=200) | - | NONAV |
-| TB Madrid | [m3u8](https://5fcbeb2219aa3.streamlock.net:455/tbmadrid/tbmadrid/playlist.m3u8) | [web](https://tbmadrid.com/) | [logo](https://yt3.ggpht.com/a/AATXAJxcv6MRsFdUfhyS4JPJgeDuqnuQzZFT4aNEP6Ja=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
+| TB Madrid | [m3u8](https://cloud.streamingconnect.tv:455/gcmin/tbmadrid.m3u8) | [web](https://tbmadrid.com/) | [logo](https://yt3.ggpht.com/a/AATXAJxcv6MRsFdUfhyS4JPJgeDuqnuQzZFT4aNEP6Ja=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
 
 ### C. Foral de Navarra
 
