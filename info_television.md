@@ -400,7 +400,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Canal Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cáceres Tevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV Extremeña | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
+| TV Extremeña | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ### Galicia

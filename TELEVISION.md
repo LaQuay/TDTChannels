@@ -380,7 +380,7 @@
 | - | - | - | - | - | - |
 | Canal Extremadura | [m3u8](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8) | [web](http://www.canalextremadura.es/tv/directo) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | - |
 | Cáceres Tevé | [m3u8](https://ce2019100818001.dnssw.net/hls/ceres.m3u8) | [web](https://caceresteve.es/directo-caceres-teve/) | [logo](https://graph.facebook.com/caceresteve/picture?width=200&height=200) | - | - |
-| TV Extremeña | [youtube](https://www.youtube.com/channel/UC_jB4xEftCkAHquU8AGB4iQ/live) | [web](https://www.xn--televisionextremea-30b.com/television-extremena-directo/) | [logo](https://pbs.twimg.com/profile_images/1053956922523705344/7B0DTMHw_200x200.jpg) | - | EMB |
+| TV Extremeña | [m3u8](https://cdn01.yowi.tv/43J82FST7L/master.m3u8) | [web](https://www.xn--televisionextremea-30b.com/directo/) | [logo](https://pbs.twimg.com/profile_images/1053956922523705344/7B0DTMHw_200x200.jpg) | - | NONAV |
 | Villafranca TV | [youtube](https://www.youtube.com/channel/UCIp5TEcJidiaN3p_mguOrTQ/live) | [web](http://www.villafrancadelosbarros.es/index.php/medios-de-comunicacion) | [logo](https://pbs.twimg.com/profile_images/1180389927709810688/BgzpxkjA_200x200.jpg) | - | EMB |
 
 ### Galicia
