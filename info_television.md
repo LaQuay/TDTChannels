@@ -303,6 +303,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Olot TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Blau | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Taronja Central | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| TV L'Hospitalet | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV del Berguedà | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTV El Vendrell | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Taronja Anoia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
@@ -326,7 +327,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV de Sant Martí | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TV del Baix Guinardó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8tv | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
-| TV L'Hospitalet | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Ceuta
 
