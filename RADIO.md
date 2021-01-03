@@ -83,6 +83,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| Valencia CF Radio | [mp3](https://radio-valencia-direct.flumotion.com/rvfc/shoutcast.mp3) | [web](https://www.valenciacf.com/es/vcf-media/radio) | [logo](https://graph.facebook.com/ValenciaCF/picture?width=200&height=200) | - | - |
 | Sevilla FC Radio | [m3u8](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8) | [web](https://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | - | - |
 | Real Betis Radio | [mp3](https://wecast-b03-01.flumotion.com/betistv/radio1.mp3) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-radio) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | - | - |
 | UD Almeria Radio | [stream](http://sd395-a.lcinternet.com:9148/livelq) | [web](http://www.udalmeriasad.com/udaradio/bienvenidos-a-uda-radio) | [logo](https://graph.facebook.com/udalmeriasad/picture?width=200&height=200) | - | WICE |
@@ -580,7 +581,6 @@
 | Radio Nacional Comunidad Valenciana | [mp3](https://rneval.rtveradio.cires21.com/rneval.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Comunidad Valenciana | [mp3](https://radio5val.rtveradio.cires21.com/radio5val.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | Radio Marca Valencia | [mp3](https://relay.stream.enacast-cloud.com:40225/radiomarcavalenciaHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
-| Valencia CF Radio | [mp3](https://radio-valencia-direct.flumotion.com/rvfc/shoutcast.mp3) | [web](https://www.valenciacf.com/es/vcf-media/radio) | [logo](https://graph.facebook.com/ValenciaCF/picture?width=200&height=200) | - | - |
 | SER Alcoy | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALCOY.mp3) | [web](https://play.cadenaser.com/emisora/radio_alcoy/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Alicante | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALICANTE.mp3) | [web](https://play.cadenaser.com/emisora/radio_alicante/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Castellón | [stream](http://stream.radiocastellon.com/ser) | [web](https://play.cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
