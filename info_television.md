@@ -23,13 +23,13 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | - | - | - | - | - | - | - | - | - |
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Antena 3 | ✔❗ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Cuatro | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Antena 3 | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Cuatro | ✔ | 🌐 | 🌐 | ❌ | ✔ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | Telecinco | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| laSexta | ✔❗ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Neox | ✔❗ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emisión geolocalizada a España |
-| Nova | ✔❗ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emisión geolocalizada a España |
-| Mega | ✔❗ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emisión geolocalizada a España |
+| laSexta | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Neox | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Nova | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Mega | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Atreseries | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | FDF | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Energy | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
@@ -42,6 +42,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DMAX | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DKISS | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
+| BOM Cine | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ## Informativos
 
@@ -133,7 +134,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 7TV Andalucía - Marbella | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Sevilla | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Sierra | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| Jerez Televisión | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Jerez TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Cádiz | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -160,10 +161,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Más TV Huelva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Telequivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -172,12 +175,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Fion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bailén TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8 TV Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Sal Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Television Carmona | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Carmona | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | TeleGilena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Campiña Sur TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Islatel | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Islatel | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -185,12 +188,14 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 101 Tele Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trebujena TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Arahal TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Onda Cádiz 24h | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El Correo de Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Aragón
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
+| - | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - | - |
 | Aragón TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Huesca TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -202,17 +207,17 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| Televisión Canaria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GranCanariaTV.com | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Mírame TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Canaria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 1 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Mírame TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tindaya TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -232,17 +237,17 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | CMM | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Hellín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Guada TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Guadalajara Media | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Guada TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Visión 6 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Imás TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CanalImagen Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | InfoCanal Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Alcarria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudad Real TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Manzanares10TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleToledo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Mancha Centro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Manzanares10TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 2000 La Solana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Castilla y León
@@ -262,7 +267,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La 8 Zamora | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Benavente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 54 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Televisión Aranda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Aranda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Junta Castilla y León | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Cataluña
@@ -282,45 +287,46 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Bon Dia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Parlament | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | betevé | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| teve.cat | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fibracat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| teve.cat | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terres de l'Ebre | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | El 9 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Reus TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Empordà TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | BDN | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TAC 12 | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| Canal 21 Ebre | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Terrassa | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| Canal 21 Ebre | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Lleida TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| La Xarxa | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV Costa Brava | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| Olot Televisió | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| Canal Taronja Central | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| Canal Taronja Anoia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| Canal Taronja Osona i Moianés | ✔ | ✔ | ✔ | - | - | - | ✔ | - |
+| La Xarxa | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| Olot TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Blau | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| TV Berguedà | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| El Vendrell TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| Canal Taronja Central | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| TV L'Hospitalet | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| TV del Berguedà | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| RTV El Vendrell | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| Canal Taronja Anoia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Cugat Mèdia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| Ulldecona TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | VOTV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| RTV Ulldecona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Canal Taronja Osona i Moianés | ✔ | ✔ | ✔ | - | - | - | ✔ | - |
 | Mataró Audiovisual | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| Penedès TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| TV Girona | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTV Vilafranca | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| TV de Girona | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 Empordà | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| rtvc Cardedeu | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| etv | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| RTV Cardedeu | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Vallès Visió | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| TV Ripollés | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| TV del Ripollès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| etv | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Mar TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV10 Sesrovires | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV Sant Cugat | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| RTV10 Sesrovires | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | 25 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Televisió de Sant Martí | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Televisió del Baix Guinardó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV de Sant Martí | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| TV del Baix Guinardó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8tv | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
-| TV L'Hospitalet | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Ceuta
 
@@ -341,10 +347,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Distrito TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Déjate de Historias TV | 🌐 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Pride Channel | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - |
 | Telesur Madrid | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TB Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 8madrid TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### C. Foral de Navarra
 
@@ -362,31 +366,31 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 7 TeleValencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleElx | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Intercomarcal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Grup Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Ribera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8 La Marina TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | La 8 Mediterráneo | 🌐 | 🌐 | 🌐 | ✔❗ | ✔❗ | ❌ | ✔ | - |
 | Alacantí TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TVCS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| tvA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| TV Castelló | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| TV Artequatre | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Televisión de San Vicente | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TV 4 Vall Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV de San Vicente | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV 4 Vall de Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Burriana TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 | telesafor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TeVe4 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Tevequatre TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Maestrat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Univers TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Elche 7 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Almassora | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 | Onda 15 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El Toro Valencia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Toro Valencia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Cultura Gitana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele Sagunto | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Cultura Gitana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 12TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
@@ -396,7 +400,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Canal Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cáceres Tevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Televisión Extremeña | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
+| TV Extremeña | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ### Galicia
@@ -597,7 +601,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Teletica Costa Rica | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Multimedios Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| TV Cultura Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Cultura Brasil | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ## Int. Asia
 
@@ -625,21 +629,21 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVGE 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tastemade | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Miami TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Vaughan TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Locomotion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 24/7 Retro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 24/7 Retro TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Classic Arts Showcase | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | American Horrors Movies | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cachipum TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ACS Network | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mr Bean 24h | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
-| Rathergood LoL | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Deportivos Int.
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| Olympic Channel | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Olympic Channel TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| Olympic Channel Ceremonies | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| Olympic Channel On Ice | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | Redbull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | World Padel Tour | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -655,9 +659,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| Cadena Elite Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Radio Gigante España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Activa TV Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cadena Elite España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| XtraHits TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mola TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Radio Gigante España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | EuroLatina TV España | - | - | - | - | - | - | - | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
 | Radio 105 Italia | - | - | - | - | - | - | - | - |
@@ -686,7 +692,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - | - |
 | Otto FM Italia | - | - | - | - | - | - | - | - |
 | Ibiza Global TV | - | - | - | - | - | - | - | - |
-| Ibiza Sonica TV | - | - | - | - | - | - | - | - |
 | Café del Mar Ibiza | - | - | - | - | - | - | - | - |
 | Sonus FM Alemania | - | - | - | - | - | - | - | - |
 | DanceStar TV | - | - | - | - | - | - | - | - |
@@ -712,13 +717,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | The Good Life Radio | - | - | - | - | - | - | - | - |
 | LoFi Hip-Hop Beats Music | - | - | - | - | - | - | - | - |
 | Beautiful Piano Music | - | - | - | - | - | - | - | - |
-| Rathergood Radio | - | - | - | - | - | - | - | - |
-| Rathergood Dance | - | - | - | - | - | - | - | - |
-| Rathergood Movies | - | - | - | - | - | - | - | - |
-| Rathergood Hits | - | - | - | - | - | - | - | - |
-| Rathergood 00s | - | - | - | - | - | - | - | - |
-| Rathergood 90s | - | - | - | - | - | - | - | - |
-| Rathergood Dance Classics | - | - | - | - | - | - | - | - |
 | 30A Music USA | - | - | - | - | - | - | - | - |
 | Vintage Music TV | - | - | - | - | - | - | - | - |
 | Retro Plus TV Chile | - | - | - | - | - | - | - | - |
@@ -754,8 +752,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTV Vida España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Solidaria TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El Sembrador TV Europa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Enlace TV Costa Rica | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| Enlace TV Costa Rica | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Emmanuel TV Nigeria | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
