@@ -8,6 +8,7 @@
 - Playz [@playzzz](https://github.com/playzzz)
 
 #### Contributions (in alphabetical order)
+- Adrian [@adrianpaniagualeon](https://github.com/adrianpaniagualeon)
 - Aitor [@aitorillo](https://github.com/aitorillo)
 - Alex Gabriel [@97carmine](https://github.com/97carmine)
 - Angel [@PIC16f841](https://github.com/PIC16f841)
@@ -22,5 +23,6 @@
 - Miguel A. [@MiguelAngel2345](https://github.com/MiguelAngel2345)
 - Ricardo [@RicardoVelaC](https://github.com/RicardoVelaC)
 - Valentin [@vk496](https://github.com/vk496)
+
 
 Si haces una *Pull Request*, no olvides incluirte en este fichero. 
