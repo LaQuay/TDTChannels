@@ -188,7 +188,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | GranCanariaTV.com | [youtube](https://www.youtube.com/channel/UCDdnBGLNmifjQqHjAA_DUrA/live) | [web](https://www.grancanariatv.com/) | [logo](https://graph.facebook.com/GranCanariaTV/picture?width=200&height=200) | - | EMB |
-| TV Canaria | [m3u8](http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](https://graph.facebook.com/188600904655/picture?width=200&height=200) | Canarias.TV | - |
+| TV Canaria | [m3u8](https://rtvc-live1.flumotion.com/playlist.m3u8) | [web](http://www.rtvc.es/television/directo.aspx) | [logo](https://graph.facebook.com/188600904655/picture?width=200&height=200) | Canarias.TV | - |
 | La 1 Canarias | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8) | [web](https://www.rtve.es/television/tve-canarias/directo/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1_CAT.TV | - |
 | La 2 Canarias | [m3u8](https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8) | [web](https://www.rtve.es/television/tve-canarias/directo/?assetid=5468585) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2_CAT.TV | - |
 | 24h Canarias | [m3u8](https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8) | [web](https://www.rtve.es/television/tve-canarias/directo/?assetid=5473142) | [logo](https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png) | - | - |
