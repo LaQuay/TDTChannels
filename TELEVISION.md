@@ -460,8 +460,8 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 7 R. de Murcia | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | [logo](https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200) | 7RM.TV | - |
-| Popular TV Murcia | [m3u8](https://5fcbeb2219aa3.streamlock.net:455/populartvrm/populartvrm/playlist.m3u8) | [web](https://www.populartvrm.com/) | [logo](https://graph.facebook.com/poptvregiondemurcia/picture?width=200&height=200) | PopularMU.TV | - |
 | TeleArchena | [m3u8](https://ott.mapeka.es:64000/live/_definst_/telearchena/playlist.m3u8?bid=mapeka&sid=1&ref=bb22a7fda046cceead5da8d964caf620) | [web](https://telearchena.es/) | [logo](https://graph.facebook.com/telearchena.es/picture?width=200&height=200) | - | - |
+| Popular TV Murcia | [m3u8](https://5fcbeb2219aa3.streamlock.net:455/populartvrm/populartvrm/playlist.m3u8) | [web](https://www.populartvrm.com/) | [logo](https://graph.facebook.com/poptvregiondemurcia/picture?width=200&height=200) | PopularMU.TV | - |
 | Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es/) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
 
 ## Int. Europa

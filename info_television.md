@@ -481,8 +481,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | 7 R. de Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Popular TV Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleArchena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Popular TV Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 6 Totana | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Int. Europa
