@@ -415,7 +415,7 @@
 | Vive! Radio | [stream](https://wecast-b03-03.flumotion.com/promecal/radio3) | [web](http://www.viveradio.es/ReproductorLive.aspx) | [logo](https://graph.facebook.com/158974217473244/picture?width=200&height=200) | - | WICE |
 | Radio Guardo | [stream](http://server10.emitironline.com:10654/radi) | [web](http://radioguardoamgu.org/) | [logo](https://graph.facebook.com/RadioGuardo/picture?width=200&height=200) | - | - |
 | Radio Universitaria León | [stream # 1](http://radio.unileon.es:8000/radio-unileon-320) - [stream # 2](http://radio.unileon.es:8000/radio-unileon-192) | [web](https://servicios.unileon.es/radio-universitaria/) | [logo](https://graph.facebook.com/unileon/picture?width=200&height=200) | - | WICE |
-| ACUP Radio | [stream # 1](https://s3streamingradio.desafiohosting.com:9036/stream)| [web](https://acupradio.es/) | [logo](https://graph.facebook.com/ACUPRadio/picture?width=200&height=200) | - | - |
+| ACUP Radio | [stream](https://s3streamingradio.desafiohosting.com:9036/stream) | [web](https://acupradio.es/) | [logo](https://graph.facebook.com/ACUPRadio/picture?width=200&height=200) | - | - |
 
 ### Cataluña
 
