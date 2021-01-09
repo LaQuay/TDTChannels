@@ -744,6 +744,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Melody Channel Colombia | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
 | Spirit TV USA | - | - | - | - | - | - | - | - |
+| Urban Revolution | - | - | - | - | - | - | - | - |
+| Onda Digital Perú | - | - | - | - | - | - | - | - |
 
 ## Religiosos
 
