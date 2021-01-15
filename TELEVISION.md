@@ -330,7 +330,7 @@
 | Distrito TV | [m3u8](https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8) | [web](http://distritotv.es/videos/) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | NONAV |
 | Déjate de Historias TV | [m3u8](https://cdn01.yowi.tv/GGGGGGGGGG/master.m3u8) | [web](https://www.dejatedehistorias.es/wordpress/dejate-tv-on-line/) | [logo](https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200) | Dejate.TV | NONAV |
 | Telesur Madrid | [m3u8](https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8) | [web](https://telesurmadrid.wordpress.com/) | [logo](https://graph.facebook.com/telesurmadrid/picture?width=200&height=200) | - | NONAV |
-| TB Madrid | [m3u8](https://cloud.streamingconnect.tv:455/gcmin/tbmadrid.m3u8) | [web](https://tbmadrid.com/) | [logo](https://yt3.ggpht.com/a/AATXAJxcv6MRsFdUfhyS4JPJgeDuqnuQzZFT4aNEP6Ja=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
+| GCM TV | [m3u8](https://cloud.streamingconnect.tv:455/gcmin/tbmadrid.m3u8) | [web](http://www.cadenalocal.tv/) | [logo](https://yt3.ggpht.com/ytc/AAUvwniul77h5k49gRHKksoqZSLmJI5-gN6qJ8UDLcSB=s200-c-k-c0x00ffffff-no-rj) | - | - |
 
 ### C. Foral de Navarra
 
