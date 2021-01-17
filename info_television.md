@@ -68,7 +68,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Aragón Deporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emite eventualmente |
 | IB3 Esports | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emite eventualmente |
 | VinxTV Asturias | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| RealMadrid TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RealMadrid TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Barça TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | Sevilla TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
 | Betis TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
