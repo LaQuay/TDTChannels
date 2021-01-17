@@ -351,7 +351,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Distrito TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Déjate de Historias TV | 🌐 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telesur Madrid | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TB Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| GCM TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Foral de Navarra
 
