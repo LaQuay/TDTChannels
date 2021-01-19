@@ -118,7 +118,7 @@
 | Jerez TV | [youtube](https://www.youtube.com/channel/UCHVquS6wXQAsESO2bwZ7esw/live) | [web](https://jereztelevision.com/) | [logo](https://graph.facebook.com/jerez.television/picture?width=200&height=200) | - | EMB |
 | 101TV Málaga | [m3u8](https://limited22.todostreaming.es/live/101tv-web101tv.m3u8) | [web](https://www.101tv.es/endirecto.aspx) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | - | - |
 | Mijas 3.40 TV | [m3u8](https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8) | [web](https://www.mijascomunicacion.org/) | [logo](https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200) | - | - |
-| Onda Cádiz | - | [web](https://ondacadiz.es/television-directo) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | OndaCadiz.TV | W3U,EMB |
+| Onda Cádiz | [stream](https://livestream.com/accounts/22727797/events/7923562/player) | [web](https://ondacadiz.es/television-directo) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | OndaCadiz.TV | EXTB |
 | M95 Marbella | [m3u8](https://limited2.todostreaming.es/live/m95-livestream.m3u8) | [web](https://m95tv.es/) | [logo](https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200) | - | - |
 | Huelva TV | [youtube](https://youtu.be/L_9Wr_f_wUY) | [web](http://huelvatv.com/directo/) | [logo](https://pbs.twimg.com/profile_images/1332392527425630210/shk4rDKf_200x200.jpg) | - | EMB |
 | Canal 45 TV | [m3u8](https://cdn01.yowi.tv/503L6OKTE2/master.m3u8) | [web](http://www.canal45tv.com/) | [logo](https://graph.facebook.com/canal45television/picture?width=200&height=200) | - | NONAV |

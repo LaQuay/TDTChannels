@@ -137,7 +137,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Jerez TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Onda Cádiz | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 🌐 | - |
+| Onda Cádiz | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Huelva TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal 45 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
