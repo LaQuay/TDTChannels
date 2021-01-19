@@ -58,11 +58,14 @@
 | UD Las Palmas TV | [m3u8](https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtv/udtvlive) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | NONAV |
 | Cádiz CF TV | [m3u8](https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8) | [web](https://www.cadizcf.com/cadizcf-tv) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200) | - | - |
 | RCD Mallorca TV | [youtube](https://www.youtube.com/c/OficialRCDMallorca/live) | [web](https://www.rcdmallorca.es/contenidos/noticias) | [logo](https://graph.facebook.com/RCDMallorcaOficial/picture?width=200&height=200) | - | - |
-| La Liga Santander | [youtube](https://www.youtube.com/channel/UCTv-XvfzLX3i4IGWAm4sbmA/live) | [web](https://www.laliga.com/) | [logo](https://graph.facebook.com/LaLiga/picture?width=200&height=200) | - | EMB |
+| LaLiga Santander | [youtube](https://www.youtube.com/channel/UCTv-XvfzLX3i4IGWAm4sbmA/live) | [web](https://www.laliga.com/) | [logo](https://graph.facebook.com/LaLiga/picture?width=200&height=200) | - | EMB |
+| LaLiga SmartBank | [youtube](https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg/live) | [web](https://www.laliga.com/laliga-smartbank) | [logo](https://graph.facebook.com/LaLiga/picture?width=200&height=200) | - | EMB |
 | Real Federación Española de Fútbol | - | [web](https://www.rfef.es/) | [logo](https://graph.facebook.com/RFEF/picture?width=200&height=200) | - | W3U,EXTA |
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com/) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 | AS | [youtube](https://www.youtube.com/diarioas/live) | [web](https://as.com/) | [logo](https://graph.facebook.com/as/picture?width=200&height=200) | - | EMB |
 | El 10 del Barça | [youtube](https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live) | [web](https://xn--el10delbara-v9a.com/) | [logo](https://graph.facebook.com/El10delBarsa/picture?width=200&height=200) | - | EMB |
+| FIBA | [youtube](https://www.youtube.com/user/FIBAWorld/live) | [web](https://www.livebasketball.tv/home) | [logo](https://graph.facebook.com/FIBAespanol/picture?width=200&height=200) | - | EMB |
+| OKLIGA TV | [youtube](https://www.youtube.com/channel/UC6RLLzXQJWy1yCAEysy1Wgw/live) | [web](https://okliga.tv/) | [logo](https://graph.facebook.com/FedPatinaje/picture?width=200&height=200) | - | EMB |
 
 ## Infantiles
 

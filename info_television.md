@@ -75,11 +75,14 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | UD Las Palmas TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RCD Mallorca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emite eventualmente |
-| La Liga Santander | ▶ | ▶ | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
+| LaLiga Santander | ▶ | ▶ | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
+| LaLiga SmartBank | ▶ | ▶ | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Real Federación Española de Fútbol | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | Emite eventualmente, posible emisión geolocalizada a España |
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | AS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emisión diaria entre las 21 - 23h |
+| FIBA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| OKLIGA TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Infantiles
 
