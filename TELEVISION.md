@@ -560,6 +560,7 @@
 | Canal 9 Argentina | - | [web](https://www.elnueve.com.ar/en-vivo/) | [logo](https://graph.facebook.com/Canal9TV/picture?width=200&height=200) | - | W3U,EXTA |
 | Exitosa Noticias Perú | [m3u8](https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8) | [web](https://exitosanoticias.pe/v1/tvenvivo/) | [logo](https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200) | - | - |
 | Panamericana Perú | [m3u8](https://cdnhd.iblups.com/hls/ptv2.m3u8) | [web](https://panamericana.pe/tvenvivo/hd) | [logo](https://graph.facebook.com/panamericana.pe/picture?width=200&height=200) | - | - |
+| Genios TV Perú | [stream](https://iframe.dacast.com/b/135700/c/567182) | [web](https://geniostv.pe/) | [logo](https://graph.facebook.com/geniostvmoyobamba/picture?width=200&height=200) | - | EMB |
 | ATV Perú | [m3u8](https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/master.m3u8) | [web](https://www.atv.pe/envivo) | [logo](https://graph.facebook.com/ATV.pe/picture?width=200&height=200) | - | - |
 | ATV+ Perú | [m3u8](https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/master.m3u8) | [web](https://www.atv.pe/envivo) | [logo](https://graph.facebook.com/atvmasnoticias/picture?width=200&height=200) | - | - |
 | TV Perú | [m3u8](https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8) | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200) | - | NONAV |
