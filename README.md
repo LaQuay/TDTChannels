@@ -58,6 +58,34 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
+*01/2021* - [ADSLZone - ¿Sabías que puedes acceder a más de 1.400 canales de IPTV y radio gratis?](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-1400-canales-radio-tv-tdt-gratis/)
+
+*01/2021* - [Androidphoria - Descubre cómo ver la TDT gratis desde el móvil en España (2021)](https://androidphoria.com/tutoriales/ver-tdt-gratis-desde-android-e-iphone-en-espana)
+
+*01/2021* - [Business Insider - Cómo ver la TV en el móvil gratis y de manera totalmente legal gracias a TDTChannels](https://www.businessinsider.es/como-ver-tv-movil-manera-legal-gratis-tdtchannels-784197)
+
+*01/2021* - [Business Insider - Ya puedes ver la TV en Chromecast, TDTChannels](https://www.businessinsider.es/ya-puedes-ver-tv-chromecast-tdtchannels-acaba-actualizar-permitiendo-conexion-784259)
+
+*12/2020* - [Xataka - Cómo ver cualquier canal de la TDT en el Chromecast con una sola app](https://www.xataka.com/basics/como-ver-cualquier-canal-tdt-chromecast-sola-app)
+
+*12/2020* - [Xataka Android - Ver la tele en el Google Chromecast y desde TDTChannels: la app móvil ya permite el 'casteo'](https://www.xatakandroid.com/aplicaciones-android/ver-tele-google-chromecast-tdtchannels-app-movil-permite-casteo)
+
+*12/2020* - [Club Tech - TDTCHANNELS NOS PERMITE VER LA TDT ONLINE EN EL CHROMECAST](https://clubtech.es/tdtchannels-chromecast/)
+
+*12/2020* - [El Androide Libre - La mejor app para ver TDT se actualiza con soporte a Chromecast](https://elandroidelibre.elespanol.com/2020/12/la-mejor-app-para-ver-tdt-se-actualiza-con-soporte-a-chromecast.html)
+
+*12/2020* - [Computer Hoy - Cómo ver online las campanadas gratis y en directo en móviles, TV y PCs](https://computerhoy.com/noticias/tecnologia/como-ver-campanadas-gratis-directo-moviles-tv-pcs-internet-782693)
+
+*12/2020* - [ADSLZone - Ya puedes ver la TDT online en Chromecast con TDTChannels](https://www.adslzone.net/noticias/streaming-tv/ver-tdt-chromecast-tdtchannels-android/)
+
+*12/2020* - [Diario Popular - Para Android e iOS: Cómo ver TV de manera fácil en tu móvil](https://www.diariopopular.com.ar/tecnologia/para-android-e-ios-como-ver-tv-manera-facil-tu-movil-n524696)
+
+*11/2020* - [Canal TDT - La TDT en abierto y mil canales más gratis en IPTV](https://canaltdt.es/tdt-abierto-listas-iptv-canales-gratis/)
+
+*09/2020* - [Notimundo - Toda la televisión online en tu Smart TV con IPTV](https://notimundo.com.mx/entretenimiento/toda-la-television-online-en-tu-smart-tv-con-iptv/)
+
+*09/2020* - [ADSLZone - Qué tarifas te dejan ver la TDT online sin quedarte sin datos](https://www.adslzone.net/noticias/operadores/tdt-movil-cuantos-gigas-consume-datos/)
+
 *07/2020* - [El Androide Feliz - Cómo ver la TDT online desde VLC (más de 300 canales)](https://elandroidefeliz.com/como-ver-tv-online-desde-vlc/)
 
 *07/2020* - [Xataka Android - Ver la tele en el móvil es aún más fácil: TDT Channels se actualiza a la versión 2.0 con notables mejoras](https://www.xatakandroid.com/aplicaciones-android/ver-tele-movil-facil-tdt-channels-se-actualiza-a-version-2-0-notables-mejoras)
