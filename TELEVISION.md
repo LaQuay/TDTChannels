@@ -225,7 +225,7 @@
 | - | - | - | - | - | - |
 | CMM | [m3u8](http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8) | [web](https://www.cmmedia.es/en-directo/tv/) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | CMM.TV | - |
 | La 1 Castilla-La Mancha | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@382229/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | - | - |
-| TV Hellín | [m3u8](https://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8) | [web](https://www.televisionhellin.com/tv-en-directo) | [logo](https://graph.facebook.com/tvhellin/picture?width=200&height=200) | - | - |
+| TV Hellín | [m3u8](https://hellin-hls-live.flumotion.com/hellin/hellin-live/playlist.m3u8) | [web](https://www.televisionhellin.com/tv-en-directo) | [logo](https://graph.facebook.com/tvhellin/picture?width=200&height=200) | - | - |
 | Guadalajara Media | [youtube](https://www.youtube.com/channel/UCaEv8XC5Czu8vfV_QKUARLQ/live) | [web](https://nuevaalcarria.com/) | [logo](https://graph.facebook.com/canalguadalajara/picture?width=200&height=200) | - | EMB |
 | Guada TV | [m3u8](https://cloud.streamingconnect.tv:455/gcmin/guadatv.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200) | - | - |
 | Visión 6 TV | [m3u8](https://secure3.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | [logo](https://graph.facebook.com/104927246235553/picture?width=200&height=200) | - | NONAV |
