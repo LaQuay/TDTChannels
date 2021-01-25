@@ -161,7 +161,7 @@
 | Bailén TV | [m3u8](http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8) | [web](http://bailen.tv/) | [logo](https://graph.facebook.com/BailenTv/picture?width=200&height=200) | - | - |
 | 8 TV Jerez | [youtube](https://www.youtube.com/channel/UC_Z78uo-XNGbE57X2QUZWbQ/live) | [web](https://8tvjerez.com/) | [logo](https://graph.facebook.com/8TvJerez/picture?width=200&height=200) | - | EMB |
 | Sal TV | [m3u8](https://www.tdtchannels.com/stream/saltv.m3u8) | [web](https://saltv.es/en-directo/) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | - |
-| TV Carmona | [stream](https://www.ustream.tv/embed/24035812?html5ui&autoplay=true) | [web](https://www.televisioncarmona.com/) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
+| TV Carmona | [stream](https://www.ustream.tv/embed/24048424?html5ui&autoplay=true) | [web](https://www.televisioncarmona.com/) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
 | TeleGilena | [m3u8](https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8) | [web](http://www.telegilena.com/directo/) | [logo](https://pbs.twimg.com/profile_images/1323402078153285632/xCLDLju__200x200.jpg) | - | - |
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
 | PTV Granada | [m3u8](https://streamer.zapitv.com/GRANADA/index.m3u8) | [web](https://ptvtelecom.com/canales/granada.html) | [logo](https://graph.facebook.com/PTVGranada/picture?width=200&height=200) | - | - |
