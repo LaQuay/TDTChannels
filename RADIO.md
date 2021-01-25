@@ -683,7 +683,7 @@
 | SER Norte de Extremadura | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_NORTE_EXTREMADURA.mp3) | [web](https://play.cadenaser.com/emisora/ser_norte_de_extremadura/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Tierra de Barros | - | [web](https://play.cadenaser.com/emisora/ser_tierra_de_barros/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Vegas Altas | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VEGAS_ALTAS.mp3) | [web](https://play.cadenaser.com/emisora/ser_vegas_altas/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
-| SER Zafra-Río Bodión | [mp3](http://83.56.8.228:8000/zafra.mp3) | [web](https://play.cadenaser.com/emisora/ser_zafra_rio_bodion/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
+| SER Zafra-Río Bodión | [mp3](http://83.56.8.228:8000/cadenaser) | [web](https://play.cadenaser.com/emisora/ser_zafra_rio_bodion/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | WICE |
 | COPE Badajoz | [mp3](https://wecast-b01-06.flumotion.com/copesedes/badajoz.mp3) | [web](https://www.cope.es/directos/badajoz) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Cáceres | [mp3](https://wecast-b01-06.flumotion.com/copesedes/caceres.mp3) | [web](https://www.cope.es/directos/caceres) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Mérida | [mp3](https://wecast-m01-03.flumotion.com/copesedes/merida.mp3) | [web](https://www.cope.es/directos/merida) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
@@ -782,7 +782,7 @@
 | - | - | - | - | - | - |
 | Radio Nacional La Rioja | [mp3](https://rnerio.rtveradio.cires21.com/rnerio.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 La Rioja | [mp3](https://radio5rio.rtveradio.cires21.com/radio5rio.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
-| SER Arnedo | [mp3](http://streaming2.formulaclick.com:8094/radioarnedo.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
+| SER Arnedo | [mp3](http://server8.emitironline.com:18324/) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Rioja | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RIOJA.mp3) | [web](https://play.cadenaser.com/emisora/radio_rioja/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | COPE Logroño | [mp3](https://wecast-b01-02.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Logroño | [m3u8](https://livefastly-webs.ondacero.es/logrono-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/rioja/rioja/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
@@ -851,10 +851,7 @@
 | Radio Marca Asturias | [mp3](https://streaming.enacast.com/radiomarcaasturiasHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | SER Asturias | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ASTURIAS.mp3) | [web](https://play.cadenaser.com/emisora/radio_asturias/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Avilés | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_AVILES.mp3) | [web](https://play.cadenaser.com/emisora/ser_aviles/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
-| SER Cangas de Onís | - | [web](https://play.cadenaser.com/emisora/ser_cangas_de_onis/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Gijón | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJON.mp3) | [web](https://play.cadenaser.com/emisora/ser_gijon/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
-| SER Occidente | [stream](http://occidente.ddns.net:8000/;) | [web](https://play.cadenaser.com/emisora/ser_occidente/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
-| SER Oriente | [mp3](http://seroriente.com:8000/seroriente.mp3) | [web](https://play.cadenaser.com/emisora/ser_oriente/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | COPE Asturias | [mp3](https://wecast-b02-04.flumotion.com/copesedes/asturias.mp3) | [web](https://www.cope.es/directos/asturias) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Gijón | [mp3](https://wecast-b02-04.flumotion.com/copesedes/gijon.mp3) | [web](https://www.cope.es/directos/gijon) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Oviedo | [mp3](https://wecast-b02-04.flumotion.com/copesedes/asturias.mp3) | [web](https://www.cope.es/directos/oviedo) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
