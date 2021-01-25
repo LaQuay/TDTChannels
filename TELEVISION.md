@@ -216,8 +216,8 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Cantabria TV | [youtube](https://www.youtube.com/channel/UC0sXB5ZoIoXWvqdizegaifg/live) | [web](http://www.vegavision.tv/blog/section/television1) | [logo](https://graph.facebook.com/vegavisiontvcantabria/picture?width=200&height=200) | - | EMB |
-| Popular TV Cantabria | [m3u8](https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](https://populartvcantabria.com/en-directo/) | [logo](https://graph.facebook.com/populartvcantabria/picture?width=200&height=200) | PopularTV_S.TV | - |
 | La 1 Cantabria | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@381567/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | - | - |
+| Popular TV Cantabria | [m3u8](https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](https://populartvcantabria.com/en-directo/) | [logo](https://graph.facebook.com/populartvcantabria/picture?width=200&height=200) | PopularTV_S.TV | - |
 
 ### Castilla-La Mancha
 
@@ -244,6 +244,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | La 7 | [m3u8](https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8) | [web](https://www.cyltv.es/live/La7) | [logo](https://graph.facebook.com/cyltv/picture?width=200&height=200) | La7.TV | - |
+| La 1 Castilla y León | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@385144/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | - | - |
 | La 8 Avila | [m3u8](https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/La8Avila) | [logo](https://pbs.twimg.com/profile_images/440445995394953216/NVyW2cD6_200x200.jpeg) | 8Avila.TV | - |
 | La 8 Bierzo | [m3u8](https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/Live/La8Bierzo) | [logo](https://graph.facebook.com/La8Bierzo/picture?width=200&height=200) | 8Bierzo.TV | - |
 | La 8 Burgos | [m3u8](https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/La8Burgos) | [logo](https://graph.facebook.com/La8Burgos/picture?width=200&height=200) | 8Burgos.TV | - |
@@ -254,7 +255,6 @@
 | La 8 Soria | [m3u8](https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/La8Soria) | [logo](https://graph.facebook.com/La8Soria/picture?width=200&height=200) | 8Soria.TV | - |
 | La 8 Valladolid | [m3u8](https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/La8Valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | 8Valladolid.TV | - |
 | La 8 Zamora | [m3u8](https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/La8Zamora) | [logo](https://pbs.twimg.com/profile_images/1656832260/Logo_Zamora_200x200.JPG) | 8Zamora.TV | - |
-| La 1 Castilla y León | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@385144/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | - | - |
 | TV Benavente | [m3u8](https://cloud.streamingconnect.tv:455/gcmin/tvbenavente.m3u8) | [web](https://www.tvbenavente.es/directo/) | [logo](https://graph.facebook.com/benaventetv/picture?width=200&height=200) | Benavente.TV | - |
 | Canal 54 | [stream](https://player.twitch.tv/?channel=canal54tvburgos&parent=www.tdtchannels.com) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
 | TV Aranda | [m3u8](https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8) | [web](http://www.telearanda.es/) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | NONAV |
@@ -332,8 +332,8 @@
 | - | - | - | - | - | - |
 | Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | Telemadrid.TV | - |
 | LaOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | [logo](https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg) | LaOtra.TV | - |
-| Webcam OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106.0 FM](http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.TV | - |
 | La 1 C. de Madrid | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@14880/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | - | - |
+| Webcam OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106.0 FM](http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.TV | - |
 | Teleganés | [m3u8](https://cdn01.yowi.tv/P18V9163O7/master.m3u8) | [web](http://www.teleganes.com/) | [logo](https://graph.facebook.com/1423419417957760/picture?width=200&height=200) | - | NONAV |
 | C33 Madrid | [m3u8](https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8) | [web](http://www.canal33.info/) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
 | Distrito TV | [m3u8](https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8) | [web](http://distritotv.es/videos/) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | NONAV |
@@ -447,10 +447,10 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | ETB 1 | [m3u8](https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB1.TV | - |
+| La 1 País Vasco | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@323582/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | - | - |
 | ETB 2 | [m3u8](https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB2.TV | - |
 | ETB Eventos 1 | [m3u8](https://etbvnogeo-lh.akamaihd.net/i/OCA1HD_1@748519/master.m3u8) | [web](https://www.eitb.eus/es/noticias/actualidad-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
 | ETB Eventos 2 | [m3u8 # GEO](https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
-| La 1 País Basco | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@323582/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | - | - |
 | Hamaika TV | [m3u8](https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8) | [web](https://www.hamaika.eus/zuzenean) | [logo](https://graph.facebook.com/HamaikaTb/picture?width=200&height=200) | - | - |
 | Tele 7 | [m3u8](https://59c8647978660.streamlock.net/8128/8128/playlist.m3u8) | [web](https://tele7.tv/tele-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200) | - | - |
 | Goiena Eus | [m3u8](https://zuzenean.goienamedia.eus:8443/telebista.m3u8) | [web](https://goiena.eus/telebista/zuzenekoa) | [logo](https://graph.facebook.com/goiena.eus/picture?width=200&height=200) | - | - |
