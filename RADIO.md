@@ -934,6 +934,7 @@
 | Jazz Radio Blues Francia | [m3u8](https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3) | [web](https://www.jazzradio.fr/radio/webradio/3/blues) | [logo](https://graph.facebook.com/jazzradio.fr/picture?width=200&height=200) | - | - |
 | Rinse FM UK | [stream](https://streamer-uk.rinse.fm:8443/stream) | [web](https://rinse.fm/player/) | [logo](https://graph.facebook.com/rinsefm/picture?width=200&height=200) | - | WICE |
 | FM Rock & Pop Argentina | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3) | [web](https://fmrockandpop.com/) | [logo](https://graph.facebook.com/FmRockandPop/picture?width=200&height=200) | - | - |
+| Radio Nacional Perú | [m3u8](https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8) | [web](https://www.radionacional.com.pe/alacarta) | [logo](https://graph.facebook.com/radionacionaldelperu/picture?width=200&height=200) | - | - |
 | RPP Noticias Perú | [mp3](https://22223.live.streamtheworld.com/RADIO_RPP.mp3) | [web](https://rpp.pe/audio/) | [logo](https://graph.facebook.com/rppnoticias/picture?width=200&height=200) | - | - |
 | Radio Oxigeno Perú | [mp3](https://20813.live.streamtheworld.com/RADIO_OXIGENO.mp3) | [web](https://radio.oxigeno.com.pe/) | [logo](https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200) | - | - |
 | Radio Z Rock & Pop Perú | [mp3](http://167.114.118.120:7440/;mp3) | [web](http://www.radioz.pe/) | [logo](https://graph.facebook.com/ZRocknPop/picture?width=200&height=200) | - | - |
