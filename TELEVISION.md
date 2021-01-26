@@ -566,6 +566,7 @@
 | TV Perú | [m3u8](https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8) | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200) | - | NONAV |
 | TV Perú Noticias | [m3u8](https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8) | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200) | - | NONAV |
 | Canal IPe Perú | [m3u8](https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8) | [web](https://www.canalipe.tv/) | [logo](https://graph.facebook.com/canalipe/picture?width=200&height=200) | - | NONAV |
+| Willax Perú | [stream](https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1) | [web](https://willax.tv/en-vivo/) | [logo](https://graph.facebook.com/willaxtv/picture?width=200&height=200) | - | EMB |
 | ViaTelevisión Perú | [m3u8](https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8) | [web](https://viatelevision.pe/envivo) | [logo](https://graph.facebook.com/viatelevisionperu/picture?width=200&height=200) | - | - |
 | TeleSUR Venezuela | [m3u8](https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/) | [logo](https://graph.facebook.com/teleSUR/picture?width=200&height=200) | TeleSUR.TV | - |
 | Globovision Venezuela | [youtube](https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live) | [web](https://globovision.com/) | [logo](https://graph.facebook.com/globovision/picture?width=200&height=200) | - | EMB |
