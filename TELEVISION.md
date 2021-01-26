@@ -650,6 +650,7 @@
 | Harley Davidson Rides TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b8789d55-d110-4452-a578-3a206afa3972.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | - | - |
 | MotorTrend Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | [web](https://it.dplay.com/motor-trend/) | [logo](https://graph.facebook.com/motortrendIT/picture?width=200&height=200) | - | - |
 | Best Cable Sports Perú | [m3u8](https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8) | [web](https://bestcableperu.com.pe/tv6.html) | [logo](https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200) | - | - |
+| Hipódromo de Monterrico Perú | [m3u8](http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8) | [web](https://hipodromodemonterrico.com.pe/monterrico/carreras-senal-en-vivo) | [logo](hhttps://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s88-c-k-c0x00ffffff-no-rj) | - | - |
 
 ## Musicales
 
