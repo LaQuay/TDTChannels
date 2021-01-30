@@ -573,6 +573,7 @@
 | La Tele Tuya Venezuela | [m3u8](https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8) | [web](https://lateletuya.com/) | [logo](https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200) | - | - |
 | 24h Chile | [youtube](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live) | [web](https://www.24horas.cl/envivo/) | [logo](https://graph.facebook.com/24horas.cl/picture?width=200&height=200) | - | EMB |
 | TELE13 Chile | [youtube](https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live) | [web](https://www.t13.cl/en-vivo) | [logo](https://graph.facebook.com/teletrece/picture?width=200&height=200) | - | EMB |
+| TV Senado Chile | [youtube](https://www.youtube.com/channel/UC4GJ43VNn4AYfiYa0RBCHQg/live) | [web](https://tv.senado.cl/) | [logo](https://yt3.ggpht.com/ytc/AAUvwngo1_R3qsOhHx2XSi5C30pMzQxKoLx1_FyUQvjnxQ=s88-c-k-c0x00ffffff-no-rj) | - | EMB |
 | TC TV Ecuador | [m3u8](https://5d4837686f698.streamlock.net/tctelevision/tctelevision/master.m3u8) | [web](https://www.tctelevision.com/en-vivo) | [logo](https://graph.facebook.com/tctelevision10/picture?width=200&height=200) | - | - |
 | TeleAmazonas Ecuador | [m3u8](https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8) | [web](http://www.teleamazonas.com/teleamazonas-en-vivo/) | [logo](https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200) | - | - |
 | Bolivia 7.1 TV | - | [web](http://www.boliviatv.bo/principal/tvenvivo71.php) | [logo](https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200) | - | W3U,EXTA |
