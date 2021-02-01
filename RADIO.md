@@ -421,6 +421,10 @@
 | ACUP Radio | [stream](https://s3streamingradio.desafiohosting.com:9036/stream) | [web](https://acupradio.es/) | [logo](https://graph.facebook.com/ACUPRadio/picture?width=200&height=200) | - | - |
 | Radio Universitaria León | [stream # 1](http://radio.unileon.es:8000/radio-unileon-320) - [stream # 2](http://radio.unileon.es:8000/radio-unileon-192) | [web](https://servicios.unileon.es/radio-universitaria/) | [logo](https://graph.facebook.com/unileon/picture?width=200&height=200) | - | WICE |
 | Radio Universitaria Salamanca | [mp3](http://212.128.140.98:8000/usalradio.mp3) | [web](http://radio.usal.es/) | [logo](https://graph.facebook.com/universidaddesalamanca/picture?width=200&height=200) | - | - |
+| Radio Veritas | [stream](http://srv0410.lcinternet.com:8014/stream) | [web](https://www.radioveritas.es/web/) | [logo](https://graph.facebook.com/rv107.5/picture?width=200&height=200) | - | WICE |
+| Radio Arlanzón | [stream](http://185.18.17.94:60005/;stream/1) | [web](servicios.burgosnoticias.com/radio/player.html) | [logo](https://graph.facebook.com/burgosnoticias/picture?width=200&height=200) | - | - |
+| Radio Briviesca | [stream](https://antares.dribbcast.com/proxy/radiobriviesca?mp=/briviesca) | [web](http://www.radiobriviesca.com/radio-briviesca-online/) | [logo](https://graph.facebook.com/RadioBriviesca/picture?width=200&height=200) | - | - |
+| Miranda FM | [stream](http://srv01.redsanmarcos.com:8007/stream) | [web](http://www.mirandafm.es/) | [logo](https://graph.facebook.com/1416829051928207/picture?width=200&height=200) | -| WICE |
 
 ### Cataluña
 
