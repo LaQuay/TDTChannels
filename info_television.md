@@ -72,7 +72,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Barça TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | Sevilla TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
 | Betis TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| UD Las Palmas TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| UD Las Palmas TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RCD Mallorca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emite eventualmente |
 | LaLiga Santander | ▶ | ▶ | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
