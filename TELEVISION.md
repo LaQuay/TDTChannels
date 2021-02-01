@@ -7,7 +7,7 @@
 | La 1 | [m3u8 # 1](https://rtvelivestream.akamaized.net/la1_dvr.m3u8) - [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
 | La 2 | [m3u8 # 1](https://rtvelivestream.akamaized.net/la2_dvr.m3u8) - [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
 | Antena 3 | - | [web](https://www.atresplayer.com/directos/antena3/) | [logo](https://graph.facebook.com/antena3/picture?width=200&height=200) | Antena3.TV | W3U,EMB,EXTA |
-| Cuatro | [mpd](https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d0d929de59ddae5232eb4e29e65cd70c9f08821c) | [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | EXTA |
+| Cuatro | -| [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | W3U,EMB,EXTA |
 | Telecinco | - | [web](https://www.mitele.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=200&height=200) | Telecinco.TV | W3U,EMB,EXTA |
 | laSexta | - | [web](https://www.atresplayer.com/directos/lasexta/) | [logo](https://graph.facebook.com/laSexta/picture?width=200&height=200) | LaSexta.TV | W3U,EMB,EXTA |
 | Neox | - | [web](https://www.atresplayer.com/directos/neox/) | [logo](https://graph.facebook.com/neox/picture?width=200&height=200) | Neox.TV | W3U,EMB,EXTA |
@@ -64,7 +64,6 @@
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com/) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 | AS | [youtube](https://www.youtube.com/diarioas/live) | [web](https://as.com/) | [logo](https://graph.facebook.com/as/picture?width=200&height=200) | - | EMB |
 | El 10 del Barça | [youtube](https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live) | [web](https://xn--el10delbara-v9a.com/) | [logo](https://graph.facebook.com/El10delBarsa/picture?width=200&height=200) | - | EMB |
-| FIBA | [youtube](https://www.youtube.com/user/FIBAWorld/live) | [web](https://www.livebasketball.tv/home) | [logo](https://graph.facebook.com/FIBA/picture?width=200&height=200) | - | EMB |
 | OKLIGA TV | [youtube](https://www.youtube.com/channel/UC6RLLzXQJWy1yCAEysy1Wgw/live) | [web](https://okliga.tv/) | [logo](https://graph.facebook.com/FedPatinaje/picture?width=200&height=200) | - | EMB |
 
 ## Infantiles
@@ -573,15 +572,15 @@
 | América TV Argentina | [youtube](https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live) | [web](https://www.americatv.com.ar/) | [logo](https://graph.facebook.com/AmericaTV/picture?width=200&height=200) | - | EMB |
 | TV Pública Argentina | [youtube](https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live) | [web](http://www.tvpublica.com.ar/) | [logo](https://graph.facebook.com/TVPublica/picture?width=200&height=200) | - | EMB |
 | Canal 9 Argentina | - | [web](https://www.elnueve.com.ar/en-vivo/) | [logo](https://graph.facebook.com/Canal9TV/picture?width=200&height=200) | - | W3U,EXTA |
-| Exitosa Noticias Perú | [m3u8](https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8) | [web](https://exitosanoticias.pe/v1/tvenvivo/) | [logo](https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200) | - | - |
-| Willax Perú | [stream](https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1) | [web](https://willax.tv/en-vivo/) | [logo](https://graph.facebook.com/willaxtv/picture?width=200&height=200) | - | EMB |
+| Exitosa Noticias Perú | [m3u8](https://cu.onliv3.com/livevd1/user2.m3u8) | [web](https://exitosanoticias.pe/v1/tvenvivo/) | [logo](https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200) | - | - |
 | Panamericana Perú | [m3u8](https://cdnhd.iblups.com/hls/ptv2.m3u8) | [web](https://panamericana.pe/tvenvivo/hd) | [logo](https://graph.facebook.com/panamericana.pe/picture?width=200&height=200) | - | - |
 | ATV Perú | [m3u8](https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/master.m3u8) | [web](https://www.atv.pe/envivo) | [logo](https://graph.facebook.com/ATV.pe/picture?width=200&height=200) | - | - |
 | ATV+ Perú | [m3u8](https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/master.m3u8) | [web](https://www.atv.pe/envivo) | [logo](https://graph.facebook.com/atvmasnoticias/picture?width=200&height=200) | - | - |
+| Willax Perú | [stream](https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1) | [web](https://willax.tv/en-vivo/) | [logo](https://graph.facebook.com/willaxtv/picture?width=200&height=200) | - | EMB |
 | TV Perú | [m3u8](https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8) | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200) | - | NONAV |
 | TV Perú Noticias | [m3u8](https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8) | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200) | - | NONAV |
-| Canal IPe Perú | [m3u8](https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8) | [web](https://www.canalipe.tv/) | [logo](https://graph.facebook.com/canalipe/picture?width=200&height=200) | - | NONAV |
 | ViaTelevisión Perú | [m3u8](https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8) | [web](https://viatelevision.pe/envivo) | [logo](https://graph.facebook.com/viatelevisionperu/picture?width=200&height=200) | - | - |
+| Canal IPe Perú | [m3u8](https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8) | [web](https://www.canalipe.tv/) | [logo](https://graph.facebook.com/canalipe/picture?width=200&height=200) | - | NONAV |
 | TeleSUR Venezuela | [m3u8](https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/) | [logo](https://graph.facebook.com/teleSUR/picture?width=200&height=200) | TeleSUR.TV | - |
 | Globovision Venezuela | [youtube](https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live) | [web](https://globovision.com/) | [logo](https://graph.facebook.com/globovision/picture?width=200&height=200) | - | EMB |
 | Venezolana de Televisión | [m3u8](https://livestream.streamingconnect.com/hls/vtvweb.m3u8) | [web](https://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | - |
@@ -650,7 +649,9 @@
 | Olympic Channel Ceremonies | - | [web](https://www.olympicchannel.com/en/live/video/detail/olympic-ceremonies-channel/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=200&height=200) | - | W3U,EMB |
 | Olympic Channel On Ice | - | [web](https://www.olympicchannel.com/en/live/video/detail/olympic-channel-on-ice/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=200&height=200) | - | W3U,EMB |
 | Redbull TV | [m3u8 # EN](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](https://graph.facebook.com/RedBull/picture?width=200&height=200) | - | - |
+| FIBA | [youtube](https://www.youtube.com/user/FIBAWorld/live) | [web](https://www.livebasketball.tv/home) | [logo](https://graph.facebook.com/FIBA/picture?width=200&height=200) | - | EMB |
 | World Padel Tour | [youtube](https://www.youtube.com/channel/UCK59dYVs3Wgwoe73nDTH6jw/live) | [web](https://www.worldpadeltour.com/en-directo/) | [logo](https://graph.facebook.com/worldpadeltour/picture?width=200&height=200) | - | EMB |
+| Meridiano Venezuela | [youtube](https://www.youtube.com/channel/UCcYfZbinuodyF8rVkl4u7Lw/live) | [web](https://meridiano.net/meridianotv.html) | [logo](https://graph.facebook.com/Meridiano.Dearmas/picture?width=200&height=200) | - | EMB |
 | Garage TV | [m3u8](http://186.0.233.76:1935/Garage/garage.smil/.m3u8) | [web](http://elgarage.com/tv-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
 | MsMotor TV | [m3u8 # IT](https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/playlist.m3u8) | [web](https://www.msmotor.tv/) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | - |
 | OnlyMotors | [m3u8 # EN](https://streamingserver002.viewtvgroup.com/KUK-ONLYMOTORSTV-UK/index.m3u8) | [web](https://onlymotors.tv/) | [logo](https://graph.facebook.com/onlymotors/picture?width=200&height=200) | - | - |
@@ -660,7 +661,6 @@
 | Harley Davidson Garage TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyG.TV | - |
 | Harley Davidson Rides TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b8789d55-d110-4452-a578-3a206afa3972.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | - | - |
 | MotorTrend Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | [web](https://it.dplay.com/motor-trend/) | [logo](https://graph.facebook.com/motortrendIT/picture?width=200&height=200) | - | - |
-| Meridiano Venezuela | [youtube](https://www.youtube.com/channel/UCcYfZbinuodyF8rVkl4u7Lw/live) | [web](https://meridiano.net/meridianotv.html) | [logo](https://graph.facebook.com/Meridiano.Dearmas/picture?width=200&height=200) | - | EMB |
 
 ## Musicales
 
@@ -738,7 +738,9 @@
 | Muzzik Gen Z Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
 | Muzzik Vision Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
 | Muzzik OKK Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-2/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
+| La Karibeña Perú | [m3u8](https://cu.onliv3.com/livevd/user1.m3u8) | [web](https://radiokaribena.pe/videoskaribenatv/) | [logo](https://graph.facebook.com/LaKaribena/picture?width=200&height=200) | - | - |
 | Top Latino TV Perú | [m3u8](https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8) | [web](https://www.toplatino.net/) | [logo](https://graph.facebook.com/toplatinotv/picture?width=200&height=200) | - | - |
+| Onda Digital Perú | [m3u8](http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8) | [web](http://www.ondadigital.pe/) | [logo](https://graph.facebook.com/OndaDigitalPeru/picture?width=200&height=200) | - | - |
 | La Mega Mundial USA | [m3u8](https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8) | [web](https://www.lamegamundial.com/) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200) | - | - |
 | Telemúsica Colombia | [m3u8](https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8) | [web](https://www.telemusica.tv/) | [logo](https://graph.facebook.com/telemusica.hit/picture?width=200&height=200) | - | - |
 | Music Top Argentina | [m3u8](https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8) | [web](https://www.diario26.com/musictop/) | [logo](https://graph.facebook.com/MusictopArgentina/picture?width=200&height=200) | - | - |
@@ -748,8 +750,6 @@
 | Ditty TV USA | [m3u8 # EN](https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8) | [web](https://dittytv.com/watch/) | [logo](https://graph.facebook.com/DittyTV/picture?width=200&height=200) | - | - |
 | Spirit TV USA | [m3u8 # EN](https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8) | [web](https://myspirit.tv/) | [logo](https://graph.facebook.com/MySpirittv/picture?width=200&height=200) | - | - |
 | Urban Revolution | [m3u8](https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8) | [web](https://www.urbanrevolution.es/) | [logo](https://graph.facebook.com/fmurban/picture?width=200&height=200) | - | - |
-| Onda Digital Perú | [m3u8](http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8) | [web](http://www.ondadigital.pe/) | [logo](https://graph.facebook.com/OndaDigitalPeru/picture?width=200&height=200) | - | - |
-| La Karibeña Perú | [m3u8](https://cu.onliv3.com/livevd/user1.m3u8) | [web](https://radiokaribena.pe/videoskaribenatv/) | [logo](https://graph.facebook.com/LaKaribena/picture?width=200&height=200) | - | - |
 
 ## Religiosos
 

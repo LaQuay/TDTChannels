@@ -24,7 +24,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Antena 3 | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Cuatro | ✔ | 🌐 | 🌐 | ❌ | ✔ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Cuatro | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Telecinco | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | laSexta | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Neox | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
@@ -81,7 +81,6 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | AS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emisión diaria entre las 21 - 23h |
-| FIBA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | OKLIGA TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Infantiles
@@ -597,8 +596,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Panamericana Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV+ Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Willax Perú | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TV Perú | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TV Perú Noticias | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| ViaTelevisión Perú | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal IPe Perú | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TeleSUR Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Globovision Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -675,6 +676,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Harley Davidson Factory TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Harley Davidson Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MotorTrend Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Meridiano Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| FIBA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Musicales
 
@@ -753,7 +756,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Muzzik Gen Z Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Vision Serbia | - | - | - | - | - | - | - | - |
 | Muzzik OKK Serbia | - | - | - | - | - | - | - | - |
+| La Karibeña Perú | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
+| Onda Digital Perú | - | - | - | - | - | - | - | - |
 | La Mega Mundial USA | - | - | - | - | - | - | - | - |
 | Telemúsica Colombia | - | - | - | - | - | - | - | - |
 | Music Top Argentina | - | - | - | - | - | - | - | - |
