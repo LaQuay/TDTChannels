@@ -688,7 +688,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | XtraHits TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mola TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Gigante España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| EuroLatina TV España | - | - | - | - | - | - | - | - |
+| Urban Revolution España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| EuroLatina TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
 | Radio 105 Italia | - | - | - | - | - | - | - | - |
 | Virgin Radio Italia | - | - | - | - | - | - | - | - |
@@ -767,8 +768,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Melody Channel Colombia | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
 | Spirit TV USA | - | - | - | - | - | - | - | - |
-| Urban Revolution | - | - | - | - | - | - | - | - |
-| Onda Digital Perú | - | - | - | - | - | - | - | - |
 
 ## Religiosos
 
