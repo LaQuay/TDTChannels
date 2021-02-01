@@ -684,6 +684,8 @@
 | SER Tierra de Barros | - | [web](https://play.cadenaser.com/emisora/ser_tierra_de_barros/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Vegas Altas | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VEGAS_ALTAS.mp3) | [web](https://play.cadenaser.com/emisora/ser_vegas_altas/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Zafra-Río Bodión | [mp3](http://83.56.8.228:8000/cadenaser) | [web](https://play.cadenaser.com/emisora/ser_zafra_rio_bodion/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | WICE |
+| Los 40 Zafra-Río Bodión | [mp3](http://83.56.8.228:8000/loscuarenta) | [web](http://www.radiotvzafra.es/en-directo/los-40) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | WICE |
+| Cadena Dial Zafra-Río Bodión | [mp3](http://83.56.8.228:8000/cadenadial) | [web](http://www.radiotvzafra.es/en-directo/cadena-dial-zafra) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | WICE |
 | COPE Badajoz | [mp3](https://wecast-b01-06.flumotion.com/copesedes/badajoz.mp3) | [web](https://www.cope.es/directos/badajoz) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Cáceres | [mp3](https://wecast-b01-06.flumotion.com/copesedes/caceres.mp3) | [web](https://www.cope.es/directos/caceres) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Mérida | [mp3](https://wecast-m01-03.flumotion.com/copesedes/merida.mp3) | [web](https://www.cope.es/directos/merida) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
