@@ -599,6 +599,7 @@
 | Color Visión República Dominicana | [stream](https://www.dailymotion.com/embed/video/x7gy059?autoplay=1) | [web](https://colorvision.com.do/en-vivo/) | [logo](https://pbs.twimg.com/profile_images/922156106335612929/zCxRgd20_200x200.jpg) | - | EMB |
 | HCH Honduras | [m3u8](https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8) | [web](https://hch.tv/live/) | [logo](https://pbs.twimg.com/profile_images/985884346769817602/j3kxxu_y_bigger.jpg) | - | - |
 | Televisión Nacional Uruguay | - | [web](https://tv.vera.com.uy/canal/6042) | [logo](https://graph.facebook.com/TelevisionNacionalUruguay/picture?width=200&height=200) | - | W3U,EXTA |
+| Uruguay Natural | - | [web](https://tv.vera.com.uy/canal/6068) | [logo](https://graph.facebook.com/uruguaynatural.fb/picture?width=200&height=200) | - | W3U,EXTA |
 | Trece Paraguay | [m3u8](http://174.138.118.252/live/trece.m3u8) | [web](http://www.trece.com.py/envivo) | [logo](https://graph.facebook.com/trecepy/picture?width=200&height=200) | - | - |
 | Canal 33 El Salvador | [m3u8](https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8) | [web](https://canal33.tv/home/tv-en-vivo/) | [logo](https://graph.facebook.com/CANAL33.TV/picture?width=200&height=200) | - | - |
 | TRV El Salvador | [m3u8](https://panel.livetvvideo.net:1936/8182/8182/playlist.m3u8) | [web](http://www.diariotrv.com/estaticas/en-vivo.html) | [logo](https://graph.facebook.com/Noticiastrvelsalvador/picture?width=200&height=200) | - | - |
