@@ -630,6 +630,7 @@
 | United Nations TV | [m3u8 # EN](https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8) | [web](http://webtv.un.org/) | [logo](https://graph.facebook.com/unitednations/picture?width=200&height=200) | - | - |
 | Bloomberg Quicktake | [m3u8 # EN](https://www.bloomberg.com/media-manifest/streams/qt.m3u8) | [web](https://www.bloomberg.com/qt/live) | [logo](https://graph.facebook.com/quicktake/picture?width=200&height=200) | - | - |
 | AfricaNews | [youtube # EN](https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live) | [web](https://www.channelstv.com/) | [logo](https://graph.facebook.com/africanews.channel/picture?width=200&height=200) | - | EMB |
+| CNBC Africa | [youtube # EN](https://www.youtube.com/channel/UCsba91UGiQLFOb5DN3Z_AdQ/live) | [web](https://www.cnbcafrica.com/live/) | [logo](https://graph.facebook.com/Cnbcafrica/picture?width=200&height=200) | - | EMB |
 | Channels TV Nigeria | [youtube # EN](https://www.youtube.com/channel/UCEXGDNclvmg6RW0vipJYsTQ/live) | [web](https://www.channelstv.com/) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | EMB |
 | TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](http://www.tvgelive.gq/images/logo-dark.png) | - | - |
 | Tastemade | [m3u8 # EN](https://tastemade.samsung.wurl.com/manifest/playlist.m3u8) | [web](https://es.tastemade.com/) | [logo](https://graph.facebook.com/TastemadeEs/picture?width=200&height=200) | - | - |
