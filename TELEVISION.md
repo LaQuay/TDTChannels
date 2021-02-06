@@ -644,6 +644,7 @@
 | American Horrors Movies | [m3u8 # EN](http://170.178.189.70:1935/live/Stream1/playlist.m3u8) | [web](http://www.americanhorrors.com/) | [logo](https://graph.facebook.com/AMERICANHORRORS/picture?width=200&height=200) | - | - |
 | Cachipum TV | [m3u8](https://tls.cdnz.cl/cachipuntv/live/chunklist_w72379467.m3u8) | [web](http://cachipum.tv/) | [logo](https://graph.facebook.com/cachipumtv/picture?width=200&height=200) | - | - |
 | Mr Bean 24h | [youtube # EN](https://www.youtube.com/channel/UCkAGrHCLFmlK3H2kd6isipg/live) | [web](https://www.mrbean.com/) | [logo](https://graph.facebook.com/MrBean/picture?width=200&height=200) | - | EMB |
+| AKC TV Dogs | [m3u8 # EN # 1](https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8) - [m3u8 # EN # 2](https://video.blivenyc.com/broadcast/prod/2061/29/desktop-playlist.m3u8) | [web](https://akc.tv/) | [logo](https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200) | - | - |
 
 ## Deportivos Int.
 
