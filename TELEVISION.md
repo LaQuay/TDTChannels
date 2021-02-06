@@ -77,6 +77,7 @@
 | Warner Bros Kids | [youtube](https://www.youtube.com/channel/UCB82v6uKp1S-I-DVoL2neDA/live) | [web](https://www.wbkidsgo.com/) | [logo](https://graph.facebook.com/WarnerBrosPicturesEspana/picture?width=200&height=200) | - | EMB |
 | Little Baby Bum | [youtube](https://www.youtube.com/channel/UCHicabXz9rUMWLcdMqBtbxQ/live) | [web](https://www.youtube.com/user/LittleBabyBumEspanol) | [logo](https://yt3.ggpht.com/a/AATXAJwn3r9U07S7ZOqoGZLUbuYHWiIqpE8xuLJsyg=s200-c-k-c0xffffffff-no-rj-mo) | - | EMB |
 | Talking Tom and Friends | [youtube](https://www.youtube.com/channel/UCC9R-cxQeOpPhq2lAru0V8w/live) | [web](https://www.youtube.com/TomFriendsEs) | [logo](https://yt3.ggpht.com/a/AATXAJwpm-5h1rjcPqno5uANZr75VhhCYKv4PS02gLUS0A=s200-c-k-c0x00ffffff-no-rj) | - | EMB |
+| Paka Paka | [youtube](https://www.youtube.com/channel/UCVVNYxncuD4EfHpKDlPIYcQ/live) | [web](http://www.pakapaka.gob.ar/envivo/) | [logo](https://graph.facebook.com/canalpakapaka/picture?width=200&height=200) | - | EMB |
 
 ## Eventuales
 
