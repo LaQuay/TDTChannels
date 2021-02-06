@@ -662,6 +662,7 @@
 | Harley Davidson Garage TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyG.TV | - |
 | Harley Davidson Rides TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b8789d55-d110-4452-a578-3a206afa3972.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | - | - |
 | MotorTrend Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | [web](https://it.dplay.com/motor-trend/) | [logo](https://graph.facebook.com/motortrendIT/picture?width=200&height=200) | - | - |
+| Best Cable Sports Perú | [m3u8](https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8) | [web](https://bestcableperu.com.pe/tv6.html) | [logo](https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200) | - | - |
 
 ## Musicales
 
