@@ -77,6 +77,7 @@
 | Warner Bros Kids | [youtube](https://www.youtube.com/channel/UCB82v6uKp1S-I-DVoL2neDA/live) | [web](https://www.wbkidsgo.com/) | [logo](https://graph.facebook.com/WarnerBrosPicturesEspana/picture?width=200&height=200) | - | EMB |
 | Little Baby Bum | [youtube](https://www.youtube.com/channel/UCHicabXz9rUMWLcdMqBtbxQ/live) | [web](https://www.youtube.com/user/LittleBabyBumEspanol) | [logo](https://yt3.ggpht.com/a/AATXAJwn3r9U07S7ZOqoGZLUbuYHWiIqpE8xuLJsyg=s200-c-k-c0xffffffff-no-rj-mo) | - | EMB |
 | Talking Tom and Friends | [youtube](https://www.youtube.com/channel/UCC9R-cxQeOpPhq2lAru0V8w/live) | [web](https://www.youtube.com/TomFriendsEs) | [logo](https://yt3.ggpht.com/a/AATXAJwpm-5h1rjcPqno5uANZr75VhhCYKv4PS02gLUS0A=s200-c-k-c0x00ffffff-no-rj) | - | EMB |
+| Paka Paka | [youtube](https://www.youtube.com/channel/UCVVNYxncuD4EfHpKDlPIYcQ/live) | [web](http://www.pakapaka.gob.ar/envivo/) | [logo](https://graph.facebook.com/canalpakapaka/picture?width=200&height=200) | - | EMB |
 
 ## Eventuales
 
@@ -502,7 +503,7 @@
 | CNN | [youtube](https://www.youtube.com/channel/UC_lEiu6917IJz03TnntWUaQ/live) | [web](https://cnnespanol.cnn.com/) | [logo](https://graph.facebook.com/CNNee/picture?width=320&height=320) | - | EMB |
 | Bloomberg Europe | [m3u8](https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8) | [web](https://www.bloomberg.com/live/europe) | [logo](https://graph.facebook.com/bloombergbusiness/picture?width=200&height=200) | Bloom.TV | - |
 | France 24 Francia | [m3u8](https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8) - [m3u8 # EN](https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8) - [m3u8 # FR](https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8) | [web](https://www.france24.com/en/live) | [logo](https://graph.facebook.com/FRANCE24/picture?width=200&height=200) | France24.TV | - |
-| BFM TV Francia | [m3u8 # FR](https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8) | [web](https://bfmtv.com/mediaplayer/live-video/) | [logo](https://graph.facebook.com/BFMTV/picture?width=200&height=200) | - | - |
+| BFM TV Francia | [m3u8 # FR](https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8) | [web](https://bfmtv.com/mediaplayer/live-video/) | [logo](https://graph.facebook.com/BFMTV/picture?width=200&height=200) | - | - |
 | TV5Monde Francia | [m3u8 # FR](https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8) | [web](https://europe.tv5monde.com/en/live) | [logo](https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200) | - | - |
 | franceinfo: Francia | [youtube # FR](https://youtu.be/wwNZKfBLAsc) | [web](https://www.francetvinfo.fr/en-direct/tv.html) | [logo](https://graph.facebook.com/franceinfo/picture?width=200&height=200) | - | - |
 | CNEWS Francia | [stream # FR](https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1) | [web](https://www.cnews.fr/le-direct) | [logo](https://graph.facebook.com/CNEWSofficiel/picture?width=200&height=200) | - | EMB |
@@ -521,7 +522,9 @@
 | RTP Internacional Portugal | [m3u8 # PT](https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/master.m3u8) | [web](https://www.rtp.pt/play/direto/rtpinternacional) | [logo](https://graph.facebook.com/rtpinternacional/picture?width=200&height=200) | RTP3.TV | NONAV |
 | LN24 Bélgica | [m3u8 # FR](https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8) | [web](https://www.ln24.be/direct) | [logo](https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200) | - | - |
 | RTÉ News Irlanda | [m3u8 # EN](https://live.rte.ie/live/a/channel3/news.isml/.m3u8) | [web](https://www.rte.ie/news/player/live/) | [logo](https://graph.facebook.com/rtenews/picture?width=200&height=200) | - | - |
+| TRT Haber Turquía | [m3u8 # EN](https://tv-trtworld.live.trt.com.tr/master.m3u8) - [m3u8 # TR](https://tv-trthaber.live.trt.com.tr/master.m3u8) | [web](https://www.trthaber.com/canli-yayin-izle.html) | [logo](https://graph.facebook.com/trthaber/picture?width=200&height=200) | - | - |
 | RTCG Montenegro | [m3u8](http://rtcg3.videostreaming.rs:1935/rtcg/smil:rtcg.smil/playlist.m3u8) | [web](http://www.rtcg.me/tv/tv-uzivo.html) | [logo](https://graph.facebook.com/PortalRTCG/picture?width=200&height=200) | - | - |
+| Current Time TV | [m3u8 # RU](http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8) | [web](https://www.currenttime.tv/p/6018.html) | [logo](https://graph.facebook.com/currenttimetv/picture?width=200&height=200) | - | - |
 | RT News | [m3u8 # EN](https://rt-news-gd.secure2.footprint.net/1103.m3u8) - [m3u8 # EN UK](https://rt-uk-gd.secure2.footprint.net/1106.m3u8) - [m3u8 # EN USA](https://rt-usa-gd.secure2.footprint.net/1105.m3u8) - [m3u8 # FR](https://rt-france-gd.secure2.footprint.net/1107.m3u8) | [web](https://www.rt.com/on-air/) | [logo](https://graph.facebook.com/RTnews/picture?width=200&height=200) | - | - |
 | RT Documentary | [m3u8 # EN](https://rt-doc-gd.secure2.footprint.net/1101.m3u8) | [web](https://rtd.rt.com/on-air/) | [logo](https://graph.facebook.com/RTDocumentary/picture?width=200&height=200) | RTDoc.TV | - |
 
@@ -581,6 +584,7 @@
 | TV Perú Noticias | [m3u8](https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8) | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200) | - | NONAV |
 | ViaTelevisión Perú | [m3u8](https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8) | [web](https://viatelevision.pe/envivo) | [logo](https://graph.facebook.com/viatelevisionperu/picture?width=200&height=200) | - | - |
 | Canal IPe Perú | [m3u8](https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8) | [web](https://www.canalipe.tv/) | [logo](https://graph.facebook.com/canalipe/picture?width=200&height=200) | - | NONAV |
+| Congreso de la República del Perú | [youtube](https://www.youtube.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ/live) | [web](https://comunicaciones.congreso.gob.pe/tv-congreso/) | [logo](https://graph.facebook.com/CongresoPeru/picture?width=200&height=200) | - | EMB |
 | Cultura24.tv Perú | [m3u8](https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8) | [web](https://cultura24.tv/) | [logo](https://graph.facebook.com/cultura24.tv/picture?width=200&height=200) | - | - |
 | TeleSUR Venezuela | [m3u8](https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/) | [logo](https://graph.facebook.com/teleSUR/picture?width=200&height=200) | TeleSUR.TV | - |
 | Globovision Venezuela | [youtube](https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live) | [web](https://globovision.com/) | [logo](https://graph.facebook.com/globovision/picture?width=200&height=200) | - | EMB |
@@ -600,6 +604,7 @@
 | Color Visión República Dominicana | [stream](https://www.dailymotion.com/embed/video/x7gy059?autoplay=1) | [web](https://colorvision.com.do/en-vivo/) | [logo](https://pbs.twimg.com/profile_images/922156106335612929/zCxRgd20_200x200.jpg) | - | EMB |
 | HCH Honduras | [m3u8](https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8) | [web](https://hch.tv/live/) | [logo](https://pbs.twimg.com/profile_images/985884346769817602/j3kxxu_y_bigger.jpg) | - | - |
 | Trece Paraguay | [m3u8](http://174.138.118.252/live/trece.m3u8) | [web](http://www.trece.com.py/envivo) | [logo](https://graph.facebook.com/trecepy/picture?width=200&height=200) | - | - |
+| Nicavisión TV Nicaragua | [m3u8](https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8) | [web](http://www.canal12.com.ni/en-vivo) | [logo](https://graph.facebook.com/200823376627607/picture?width=200&height=200) | - | - |
 | Canal 33 El Salvador | [m3u8](https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8) | [web](https://canal33.tv/home/tv-en-vivo/) | [logo](https://graph.facebook.com/CANAL33.TV/picture?width=200&height=200) | - | - |
 | TRV El Salvador | [m3u8](https://panel.livetvvideo.net:1936/8182/8182/playlist.m3u8) | [web](http://www.diariotrv.com/estaticas/en-vivo.html) | [logo](https://graph.facebook.com/Noticiastrvelsalvador/picture?width=200&height=200) | - | - |
 | WOW El Salvador | [m3u8](https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/master.m3u8) | [web](https://wowelsalvador.com/) | [logo](https://graph.facebook.com/wowelsalvador/picture?width=200&height=200) | - | - |
@@ -618,9 +623,11 @@
 | Al Jazeera Qatar | [m3u8 # EN](https://live-hls-web-aje.getaj.net/AJE/index.m3u8) | [web](https://www.aljazeera.com/live/) | [logo](https://graph.facebook.com/aljazeera/picture?width=200&height=200) | AlJQ.TV | - |
 | NHK World Japan | [m3u8 # EN](https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8) | [web](https://www3.nhk.or.jp/nhkworld/en/live/) | [logo](https://graph.facebook.com/nhkworld/picture?width=200&height=200) | NHK.TV | - |
 | Arirang TV Korea | [m3u8 # EN](https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8) | [web](http://www.arirang.com/player/OnAir_TV.asp) | [logo](https://graph.facebook.com/arirangtv/picture?width=200&height=200) | Arirang.TV | - |
+| KBS World Korea | [youtube # KO # 1](https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig/live) - [youtube # KO # 2](https://www.youtube.com/channel/UCWw_gejTX29Yn89LLpcINZQ/live) | [web](http://kbsworld.kbs.co.kr) | [logo](https://graph.facebook.com/KBSWORLD/picture?width=200&height=200) | - | EMB |
 | Hispan TV Iran | [m3u8](https://live1.presstv.com/live/hispan.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://graph.facebook.com/Hispantv/picture?width=200&height=200) | - | - |
 | Al Arabiya Emiratos Árabes | [m3u8 # AR](https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8) | [web](https://www.alarabiya.net/ar/live-stream) | [logo](https://graph.facebook.com/AlArabiya/picture?width=200&height=200) | - | - |
 | Ary News Pakistan | [youtube](https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live) | [web](https://live.arynews.tv/) | [logo](https://graph.facebook.com/arynewsasia/picture?width=200&height=200) | - | EMB |
+| Republic World TV India | [m3u8 # EN](https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8) - [m3u8 # HI](https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8) | [web](https://www.republicworld.com/livetv.html) | [logo](https://graph.facebook.com/RepublicWorld/picture?width=200&height=200) | - | - |
 | Channel NewsAsia | [m3u8 # EN HD](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8) - [m3u8 # EN SD](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8) | [web](https://www.channelnewsasia.com/news/livetv) | [logo](https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200) | - | - |
 
 ## Int. Otros
@@ -633,7 +640,7 @@
 | AfricaNews | [youtube # EN](https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live) | [web](https://www.channelstv.com/) | [logo](https://graph.facebook.com/africanews.channel/picture?width=200&height=200) | - | EMB |
 | Channels TV Nigeria | [youtube # EN](https://www.youtube.com/channel/UCEXGDNclvmg6RW0vipJYsTQ/live) | [web](https://www.channelstv.com/) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | EMB |
 | TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](http://www.tvgelive.gq/images/logo-dark.png) | - | - |
-| Tastemade | [m3u8 # EN](https://tastemade.samsung.wurl.com/manifest/playlist.m3u8) | [web](https://es.tastemade.com/) | [logo](https://graph.facebook.com/TastemadeEs/picture?width=200&height=200) | - | - |
+| Tastemade | [m3u8](https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/playlist.m3u8) | [web](https://watch.tastemade.com/live-tv) - [m3u8 # EN](https://tastemade.samsung.wurl.com/manifest/playlist.m3u8) | [logo](https://graph.facebook.com/TastemadeEs/picture?width=200&height=200) | - | - |
 | Miami TV | [m3u8](https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8) - [m3u8 # LATINO](https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8) | [web](https://miamitvhd.com/) | [logo](https://graph.facebook.com/miamitv/picture?width=200&height=200) | - | - |
 | Locomotion TV | [m3u8](http://locomotiontv.com/envivo/loco_ch/stream.m3u8) | [web](http://locomotiontv.com/envivo) | [logo](https://graph.facebook.com/locomotionxtv/picture?width=200&height=200) | - | - |
 | 24/7 Retro TV | - | [web](https://www.247retro.com/) | [logo](https://graph.facebook.com/247retro/picture?width=200&height=200) | - | W3U,EXTA |
@@ -641,6 +648,7 @@
 | American Horrors Movies | [m3u8 # EN](http://170.178.189.70:1935/live/Stream1/playlist.m3u8) | [web](http://www.americanhorrors.com/) | [logo](https://graph.facebook.com/AMERICANHORRORS/picture?width=200&height=200) | - | - |
 | Cachipum TV | [m3u8](https://tls.cdnz.cl/cachipuntv/live/chunklist_w72379467.m3u8) | [web](http://cachipum.tv/) | [logo](https://graph.facebook.com/cachipumtv/picture?width=200&height=200) | - | - |
 | Mr Bean 24h | [youtube # EN](https://www.youtube.com/channel/UCkAGrHCLFmlK3H2kd6isipg/live) | [web](https://www.mrbean.com/) | [logo](https://graph.facebook.com/MrBean/picture?width=200&height=200) | - | EMB |
+| AKC TV Dogs | [m3u8 # EN # 1](https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8) - [m3u8 # EN # 2](https://video.blivenyc.com/broadcast/prod/2061/29/desktop-playlist.m3u8) | [web](https://akc.tv/) | [logo](https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200) | - | - |
 
 ## Deportivos Int.
 
@@ -662,6 +670,7 @@
 | Harley Davidson Garage TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyG.TV | - |
 | Harley Davidson Rides TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b8789d55-d110-4452-a578-3a206afa3972.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | - | - |
 | MotorTrend Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | [web](https://it.dplay.com/motor-trend/) | [logo](https://graph.facebook.com/motortrendIT/picture?width=200&height=200) | - | - |
+| Best Cable Sports Perú | [m3u8](https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8) | [web](https://bestcableperu.com.pe/tv6.html) | [logo](https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200) | - | - |
 
 ## Musicales
 
@@ -763,6 +772,7 @@
 | Solidaria TV España | [m3u8](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](https://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | - | - |
 | TBN España | [m3u8](https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m3u8) | [web](https://xn--tbnespaa-j3a.es/) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
 | Vatican News | [youtube](https://www.youtube.com/channel/UCnB5vfb9FMMNTnC6-kAT3fQ/live) | [web](https://www.vaticannews.va/es.html) | [logo](https://graph.facebook.com/vaticannews.es/picture?width=200&height=200) | - | EMB |
+| 3ABN USA | [m3u8 # EN # 1](https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8) - [m3u8 # EN # 2](https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8) | [web](https://3abn.org/all-streams/) | [logo](https://graph.facebook.com/3abn.org/picture?width=200&height=200) | - | - |
 | El Sembrador TV Europa | [m3u8](https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8) | [web](https://elsembradoreuropa.com/tv-en-vivo) | [logo](https://graph.facebook.com/elsembradoresne/picture?width=200&height=200) | - | - |
 | María Visión Mexico | [m3u8](https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8) | [web](https://www.mariavision.com/mariavisionenvivo) | [logo](https://graph.facebook.com/mariavision/picture?width=200&height=200) | - | - |
 | Enlace TV Costa Rica | [youtube](https://www.youtube.com/channel/UC0qFX9cnDZCMSJriRqcN37A/live) | [web](https://www.enlace.org/envivo/) | [logo](https://graph.facebook.com/enlacetv/picture?width=200&height=200) | - | EMB |
