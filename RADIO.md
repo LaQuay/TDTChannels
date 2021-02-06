@@ -409,18 +409,22 @@
 | LOS40 León | [stream](http://www.radioleon.com:8000/radio) | [web](http://www.40leon.es/directo/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | los40.Radio | - |
 | esRadio - Castilla y León | [aac](https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-low.aac) | [web](https://esradio.libertaddigital.com/castilla-y-leon/directo.html) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [stream](https://www.lajunglaradio.com:8003/lajunglawebssl) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | - |
-| FM Bierzo | [stream](https://streaming12.elitecomunicacion.es:8648/stream) | [web](http://www.fmbierzo.com) | [logo](https://graph.facebook.com/FMBierzoOFICIAL/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
-| Anda Onda Lerma | [stream](http://streaming.andaonda.es:8000/live) | [web](http://andaonda.es/) | [logo](https://graph.facebook.com/andaondalerma/picture?width=200&height=200) | - | WICE |
+| Radio Arlanzón | [stream](http://185.18.17.94:60005/;stream/1) | [web](http://servicios.burgosnoticias.com/radio/player.html) | [logo](https://graph.facebook.com/burgosnoticias/picture?width=200&height=200) | - | - |
 | Radio Evolución Burgos | [stream](http://radioevolucion.freeddns.org:8001/fibra_baja) | [web](https://radioevolucion.es/directo.html) | [logo](https://graph.facebook.com/Radioevolucionburgos/picture?width=200&height=200) | - | WICE |
+| Vive! Radio | [stream](https://wecast-b03-03.flumotion.com/promecal/radio3) | [web](http://www.viveradio.es/ReproductorLive.aspx) | [logo](https://graph.facebook.com/158974217473244/picture?width=200&height=200) | - | WICE |
+| Miranda FM | [stream](http://srv01.redsanmarcos.com:8007/stream) | [web](http://www.mirandafm.es/) | [logo](https://graph.facebook.com/1416829051928207/picture?width=200&height=200) | - | WICE |
+| Radio Solidaria | [stream](http://www.rkmradio.com:8000/stream/1/) | [web](http://on-line.radiosolidaria.com/) | [logo](https://graph.facebook.com/RadioSolidaria/picture?width=200&height=200) | - | - |
 | Radio Aguilar FM | [stream](http://ns5.emisionlocal.com:8016/;) | [web](http://www.radioaguilar.com) | [logo](https://graph.facebook.com/213369399946/picture?width=200&height=200) | - | - |
 | Mortal FM | [stream](http://server2.20comunicacion.com:8044/stream) | [web](http://www.mortalfm.es/online) | [logo](https://graph.facebook.com/mortalfm/picture?width=200&height=200) | - | - |
-| Vive! Radio | [stream](https://wecast-b03-03.flumotion.com/promecal/radio3) | [web](http://www.viveradio.es/ReproductorLive.aspx) | [logo](https://graph.facebook.com/158974217473244/picture?width=200&height=200) | - | WICE |
-| Radio Solidaria | [stream](http://www.rkmradio.com:8000/stream/1/) | [web](http://on-line.radiosolidaria.com/) | [logo](https://graph.facebook.com/RadioSolidaria/picture?width=200&height=200) | - | - |
+| FM Bierzo | [stream](https://streaming12.elitecomunicacion.es:8648/stream) | [web](http://www.fmbierzo.com) | [logo](https://graph.facebook.com/FMBierzoOFICIAL/picture?width=200&height=200) | - | - |
+| Radio Briviesca | [stream](https://antares.dribbcast.com/proxy/radiobriviesca?mp=/briviesca) | [web](http://www.radiobriviesca.com/radio-briviesca-online/) | [logo](https://graph.facebook.com/RadioBriviesca/picture?width=200&height=200) | - | - |
+| Anda Onda Lerma | [stream](http://streaming.andaonda.es:8000/live) | [web](http://andaonda.es/) | [logo](https://graph.facebook.com/andaondalerma/picture?width=200&height=200) | - | WICE |
 | Radio Guardo | [stream](http://server10.emitironline.com:10654/radi) | [web](http://radioguardoamgu.org/) | [logo](https://graph.facebook.com/RadioGuardo/picture?width=200&height=200) | - | - |
 | ACUP Radio | [stream](https://s3streamingradio.desafiohosting.com:9036/stream) | [web](https://acupradio.es/) | [logo](https://graph.facebook.com/ACUPRadio/picture?width=200&height=200) | - | - |
 | Radio Universitaria León | [stream # 1](http://radio.unileon.es:8000/radio-unileon-320) - [stream # 2](http://radio.unileon.es:8000/radio-unileon-192) | [web](https://servicios.unileon.es/radio-universitaria/) | [logo](https://graph.facebook.com/unileon/picture?width=200&height=200) | - | WICE |
 | Radio Universitaria Salamanca | [mp3](http://212.128.140.98:8000/usalradio.mp3) | [web](http://radio.usal.es/) | [logo](https://graph.facebook.com/universidaddesalamanca/picture?width=200&height=200) | - | - |
+| Radio Veritas | [stream](http://srv0410.lcinternet.com:8014/stream) | [web](https://www.radioveritas.es/web/) | [logo](https://graph.facebook.com/rv107.5/picture?width=200&height=200) | - | WICE |
 
 ### Cataluña
 
