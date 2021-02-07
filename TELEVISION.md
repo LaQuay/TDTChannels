@@ -575,6 +575,7 @@
 | La Nación Argentina | [youtube](https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live) | [web](https://lnmas.lanacion.com.ar/) | [logo](https://graph.facebook.com/lanacion/picture?width=200&height=200) | - | EMB |
 | América TV Argentina | [youtube](https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live) | [web](https://www.americatv.com.ar/) | [logo](https://graph.facebook.com/AmericaTV/picture?width=200&height=200) | - | EMB |
 | TV Pública Argentina | [youtube](https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live) | [web](http://www.tvpublica.com.ar/) | [logo](https://graph.facebook.com/TVPublica/picture?width=200&height=200) | - | EMB |
+| A24 Argentina | [youtube](https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live) | [web](https://www.a24.com/vivo) | [logo](https://graph.facebook.com/A24com/picture?width=200&height=200) | - | EMB |
 | Canal 9 Argentina | - | [web](https://www.elnueve.com.ar/en-vivo/) | [logo](https://graph.facebook.com/Canal9TV/picture?width=200&height=200) | - | W3U,EXTA |
 | Exitosa Noticias Perú | [m3u8](https://cu.onliv3.com/livevd1/user2.m3u8) | [web](https://exitosanoticias.pe/v1/tvenvivo/) | [logo](https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200) | - | - |
 | Panamericana Perú | [m3u8](https://cdnhd.iblups.com/hls/ptv2.m3u8) | [web](https://panamericana.pe/tvenvivo/hd) | [logo](https://graph.facebook.com/panamericana.pe/picture?width=200&height=200) | - | - |
