@@ -725,7 +725,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 1 Music Hungria | - | - | - | - | - | - | - | - |
 | Hit Music Channel | - | - | - | - | - | - | - | - |
 | V2Beat TV | - | - | - | - | - | - | - | - |
-| The K-POP 24/7 Korea | - | - | - | - | - | - | - | - |
+| The K-POP Korea | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |
 | Rock TV Romania | - | - | - | - | - | - | - | - |
 | Radio 21 Rock'n Pop Alemania | - | - | - | - | - | - | - | - |
