@@ -644,6 +644,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | CGTN Documentary | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Al Jazeera Qatar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NHK World Japan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Nippon News TV Japan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Arirang TV Korea | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | KBS World Korea | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Hispan TV Iran | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -724,6 +725,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 1 Music Hungria | - | - | - | - | - | - | - | - |
 | Hit Music Channel | - | - | - | - | - | - | - | - |
 | V2Beat TV | - | - | - | - | - | - | - | - |
+| The K-POP 24/7 Korea | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |
 | Rock TV Romania | - | - | - | - | - | - | - | - |
 | Radio 21 Rock'n Pop Alemania | - | - | - | - | - | - | - | - |
@@ -765,11 +767,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Cafe&Club Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Worldwide Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Jeka Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Mediteraneo Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Jeka Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Hip Hop Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Gen Z Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Vision Serbia | - | - | - | - | - | - | - | - |
+| Muzzik AMVA 2020 Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Replay Serbia | - | - | - | - | - | - | - | - |
 | Muzzik OKK Serbia | - | - | - | - | - | - | - | - |
 | La Karibeña Perú | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
