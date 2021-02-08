@@ -632,6 +632,7 @@
 | Ary News Pakistan | [youtube](https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live) | [web](https://live.arynews.tv/) | [logo](https://graph.facebook.com/arynewsasia/picture?width=200&height=200) | - | EMB |
 | New Delhi TV 24x7 India | [m3u8 # EN](https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8) | [web](https://www.ndtv.com/video/live/channel/ndtv24x7) | [logo](https://graph.facebook.com/ndtv/picture?width=200&height=200) | - | - |
 | Republic World TV India | [m3u8 # EN](https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8) - [m3u8 # HI](https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8) | [web](https://www.republicworld.com/livetv.html) | [logo](https://graph.facebook.com/RepublicWorld/picture?width=200&height=200) | - | - |
+| 24 News India | [youtube # ML](https://www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw/live)  | [web](https://www.twentyfournews.com/live) | [logo](https://graph.facebook.com/24onlive/picture?width=200&height=200) | - | EMB |
 | Channel NewsAsia | [m3u8 # EN HD](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8) - [m3u8 # EN SD](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8) | [web](https://www.channelnewsasia.com/news/livetv) | [logo](https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200) | - | - |
 
 ## Int. Otros
