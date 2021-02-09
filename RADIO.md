@@ -506,6 +506,7 @@
 | Ràdio Gràcia | [mp3](http://streaming.enantena.com:8000/radiograciaHD.mp3) - [stream](https://enacast.com/radiogracia/streams/HD) | [web](https://ajuntament.barcelona.cat/gracia/ca/coneixeu-el-districte/radio-gracia) | [logo](https://graph.facebook.com/RadioGraciaBarcelona/picture?width=200&height=200) | - | - |
 | Ràdio Amèrica Barcelona | [stream](https://s3.radio.co/sf09831a0e/listen) | [web](http://www.rab.cat/) | [logo](https://graph.facebook.com/RadioAmericaBarcelona/picture?width=200&height=200) | - | - |
 | Una Cosa Ràdio | [stream](https://usa4.fastcast4u.com/proxy/josep?mp=/1) | [web](https://www.unacosa.cat/radio-en-directe/) | [logo](https://pbs.twimg.com/profile_images/1317925182712041474/rNXMGU71_200x200.jpg) | - | - |
+| Actuality FM | [stream](https://rbx2.hnux.com/http://e11397.cloudrad.io:80/gta5xkfvbrruv) | [web](https://www.actualityfm.es/p/play.html?m=1) | [logo](https://graph.facebook.com/ActualityFM.es/picture?width=200&height=200) | - | - |
 
 ### Ceuta
 
