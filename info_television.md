@@ -736,7 +736,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Café del Mar Ibiza | - | - | - | - | - | - | - | - |
 | Sonus FM Alemania | - | - | - | - | - | - | - | - |
 | DanceStar TV | - | - | - | - | - | - | - | - |
-| Top TV Brasil | - | - | - | - | - | - | - | - |
 | HqM Hits | - | - | - | - | - | - | - | - |
 | HqM Spanish | - | - | - | - | - | - | - | - |
 | HqM Rock | - | - | - | - | - | - | - | - |
