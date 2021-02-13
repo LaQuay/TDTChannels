@@ -520,6 +520,7 @@
 | RTP 2 Portugal | [m3u8 # PT](https://streaming-live.rtp.pt/liverepeater/rtp2.smil/master.m3u8) | [web](https://www.rtp.pt/play/direto/rtp2) | [logo](https://graph.facebook.com/rtpdois/picture?width=200&height=200) | RTP2.TV | NONAV |
 | RTP 3 Portugal | [m3u8 # PT](https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/master.m3u8?dvr) | [web](https://www.rtp.pt/play/direto/rtp3) | [logo](https://graph.facebook.com/rtp/picture?width=200&height=200) | RTP3.TV | NONAV |
 | RTP Madeira Açores Portugal | [m3u8 # PT # 1](https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/master.m3u8) - [m3u8 # PT # 2](https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/master.m3u8) | [web](https://www.rtp.pt/play/direto/rtpmadeira) | [logo](https://graph.facebook.com/rtpmadeira/picture?width=200&height=200) | - | NONAV |
+| Porto Canal Portugal | [m3u8 # PT](https://streamer-b02.videos.sapo.pt/live/portocanal/master.m3u8) | [web](http://portocanal.sapo.pt/live) | [logo](https://graph.facebook.com/portocanal/picture?width=200&height=200) | - | - |
 | LN24 Bélgica | [m3u8 # FR](https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8) | [web](https://www.ln24.be/direct) | [logo](https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200) | - | - |
 | RTÉ News Irlanda | [m3u8 # EN](https://live.rte.ie/live/a/channel3/news.isml/.m3u8) | [web](https://www.rte.ie/news/player/live/) | [logo](https://graph.facebook.com/rtenews/picture?width=200&height=200) | - | - |
 | TRT Haber Turquía | [m3u8 # EN](https://tv-trtworld.live.trt.com.tr/master.m3u8) - [m3u8 # TR](https://tv-trthaber.live.trt.com.tr/master.m3u8) | [web](https://www.trthaber.com/canli-yayin-izle.html) | [logo](https://graph.facebook.com/trthaber/picture?width=200&height=200) | - | - |
@@ -615,6 +616,9 @@
 | Trece Costa Rica | [stream](https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1) | [web](https://costaricamedios.cr/envivo) | [logo](https://graph.facebook.com/SinartTreceCostaRica/picture?width=200&height=200) | - | EMB |
 | CNN Brasil | [m3u8 # BR](https://www.youtube.com/channel/UC_lEiu6917IJz03TnntWUaQ/live) | [web](https://www.cnnbrasil.com.br/ao-vivo) | [logo](https://graph.facebook.com/cnnbrasil/picture?width=200&height=200) | - | - |
 | TV Cultura Brasil | [stream # BR](https://www.dailymotion.com/embed/video/k5gtQySjwe85eTwnvD6?autoplay=1) | [web](https://tvcultura.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=200&height=200) | - | EMB |
+| SBT Interior Brasil | [m3u8](https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/master.m3u8) | [web](https://sbtinterior.com/aovivo/) | [logo](https://graph.facebook.com/sbtnointerior/picture?width=200&height=200) | - | - |
+| Record News Brasil | [youtube](https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live) | [web](https://noticias.r7.com/record-news) | [logo](https://graph.facebook.com/recordnews/picture?width=200&height=200) | - | EMB |
+| Rede Massa Brasil | [m3u8](https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8) | [web](https://www.redemassa.com.br/aovivo/) | [logo](https://graph.facebook.com/RedeMassaOficial/picture?width=200&height=200) | - | - |
 
 ## Int. Asia
 

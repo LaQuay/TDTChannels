@@ -541,6 +541,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTP 2 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | RTP 3 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | RTP Madeira Açores Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Porto Canal Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTÉ News Irlanda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TRT Haber Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -635,6 +636,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Trece Costa Rica | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | CNN Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Cultura Brasil | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| SBT Interior Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Record News Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Rede Massa Brasil |  ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. Asia
 
