@@ -813,7 +813,6 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Euskadi Irratia | [m3u8](https://eitb-live-dvr.global.ssl.fastly.net/live-content/euskadirratia-hls/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online/) | [logo](https://graph.facebook.com/Euskadi.Irratia/picture?width=200&height=200) | - | - |
 | Radio Euskadi | [m3u8](https://eitb-live-dvr.global.ssl.fastly.net/live-content/radioeuskadi-hls/master.m3u8) | [web](https://www.eitb.eus/es/radio/radio-euskadi/radio-online/) | [logo](https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200) | - | - |
 | EITB Musika | [m3u8](https://eitb-live-dvr.global.ssl.fastly.net/live-content/eitbmusika-hls/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/eitb-musika/irratia-online/) | [logo](https://graph.facebook.com/eitbmusika/picture?width=200&height=200) | - | - |
 | EITB Euskal Kantak | [m3u8](https://eitb-live-dvr.global.ssl.fastly.net/live-content/eitbeuskalkantak-hls/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/eitb-euskal-kantak/) | [logo](https://graph.facebook.com/eitbEuskalKantak/picture?width=200&height=200) | - | - |
