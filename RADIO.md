@@ -147,7 +147,7 @@
 | COPE Málaga | [mp3](https://wecast-b03-04.flumotion.com/copesedes/malaga.mp3) | [web](https://www.cope.es/directos/malaga) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Marbella | [stream](http://copemarb.duckdns.org:8000/stream) | [web](http://copemarbella.es/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | WICE |
 | COPE Motril | [mp3](https://wecast-b03-04.flumotion.com/copesedes/motril.mp3) | [web](https://www.cope.es/directos/motril) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Sierra Norte | [stream](http://5.135.183.124:8100/stream) | [web](https://radiosierranorte.es/radio-sierra-norte-en-directo/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Sierra Norte | [stream](https://eu1.lhdserver.es:8011/stream) | [web](https://radiosierranorte.es/radio-sierra-norte-en-directo/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Sevilla | [mp3](https://wecast-b03-04.flumotion.com/copesedes/sevilla.mp3) | [web](https://www.cope.es/directos/sevilla) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Ronda | [mp3](http://83.61.19.89:8000/;copesedes/ronda.mp3) | [web](https://www.cope.es/directos/ronda) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Algeciras | [m3u8](https://livefastly-webs.ondacero.es/algeciras-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/algeciras/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
