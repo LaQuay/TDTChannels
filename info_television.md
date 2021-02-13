@@ -519,11 +519,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG América | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV Andorra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV Web Andorra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| GBC Gibraltar | - | - | - | - | - | - | - | Emisión eventual |
 | Euronews | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | RT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CNN | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Bloomberg Europe | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| GBC Gibraltar | - | - | - | - | - | - | - | Emisión eventual |
 | France 24 Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | BFM TV Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV5Monde Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
