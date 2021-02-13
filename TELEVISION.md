@@ -613,7 +613,8 @@
 | Teletica Costa Rica | [stream](https://www.dailymotion.com/embed/video/x29e3wg?autoplay=1) | [web](https://www.teletica.com/vivo?canal=teletica7) | [logo](https://graph.facebook.com/Teletica/picture?width=200&height=200) | - | EMB |
 | Multimedios Costa Rica | [m3u8](https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8) | [web](https://www.multimedios.cr/video) | [logo](https://graph.facebook.com/MultimediosCR/picture?width=200&height=200) | - | - |
 | Trece Costa Rica | [stream](https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1) | [web](https://costaricamedios.cr/envivo) | [logo](https://graph.facebook.com/SinartTreceCostaRica/picture?width=200&height=200) | - | EMB |
-| TV Cultura Brasil | [stream](https://www.dailymotion.com/embed/video/k5gtQySjwe85eTwnvD6?autoplay=1) | [web](https://tvcultura.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=200&height=200) | - | EMB |
+| CNN Brasil | [m3u8 # BR](https://www.youtube.com/channel/UC_lEiu6917IJz03TnntWUaQ/live) | [web](https://www.cnnbrasil.com.br/ao-vivo) | [logo](https://graph.facebook.com/cnnbrasil/picture?width=200&height=200) | - | - |
+| TV Cultura Brasil | [stream # BR](https://www.dailymotion.com/embed/video/k5gtQySjwe85eTwnvD6?autoplay=1) | [web](https://tvcultura.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=200&height=200) | - | EMB |
 
 ## Int. Asia
 
