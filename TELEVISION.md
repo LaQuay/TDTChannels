@@ -613,9 +613,9 @@
 | Trece Costa Rica | [stream](https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1) | [web](https://costaricamedios.cr/envivo) | [logo](https://graph.facebook.com/SinartTreceCostaRica/picture?width=200&height=200) | - | EMB |
 | CNN Brasil | [m3u8 # BR](https://www.youtube.com/channel/UC_lEiu6917IJz03TnntWUaQ/live) | [web](https://www.cnnbrasil.com.br/ao-vivo) | [logo](https://graph.facebook.com/cnnbrasil/picture?width=200&height=200) | - | - |
 | TV Cultura Brasil | [stream # BR](https://www.dailymotion.com/embed/video/k5gtQySjwe85eTwnvD6?autoplay=1) | [web](https://tvcultura.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=200&height=200) | - | EMB |
-| SBT Interior Brasil | [m3u8](https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/master.m3u8) | [web](https://sbtinterior.com/aovivo/) | [logo](https://graph.facebook.com/sbtnointerior/picture?width=200&height=200) | - | - |
-| Record News Brasil | [youtube](https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live) | [web](https://noticias.r7.com/record-news) | [logo](https://graph.facebook.com/recordnews/picture?width=200&height=200) | - | EMB |
-| Rede Massa Brasil | [m3u8](https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8) | [web](https://www.redemassa.com.br/aovivo/) | [logo](https://graph.facebook.com/RedeMassaOficial/picture?width=200&height=200) | - | - |
+| SBT Interior Brasil | [m3u8 # BR](https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/master.m3u8) | [web](https://sbtinterior.com/aovivo/) | [logo](https://graph.facebook.com/sbtnointerior/picture?width=200&height=200) | - | - |
+| Record News Brasil | [youtube # BR](https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live) | [web](https://noticias.r7.com/record-news) | [logo](https://graph.facebook.com/recordnews/picture?width=200&height=200) | - | EMB |
+| Rede Massa Brasil | [m3u8 # BR](https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8) | [web](https://www.redemassa.com.br/aovivo/) | [logo](https://graph.facebook.com/RedeMassaOficial/picture?width=200&height=200) | - | - |
 
 ## Int. Asia
 
