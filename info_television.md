@@ -591,7 +591,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Señal Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Telecaribe Colombia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Canal TRO Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| Telepacífico Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Todo Noticias Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | C5N Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Telefé Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -606,10 +605,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Willax Perú | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TV Perú | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TV Perú Noticias | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| ViaTelevisión Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal IPe Perú | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de la República del Perú | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Cultura24 TV Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleSUR Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Globovision Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Venezolana de Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
