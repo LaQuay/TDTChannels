@@ -614,8 +614,6 @@
 | CGTN | [m3u8 # 1](https://livees.cgtn.com/1000e/prog_index.m3u8) - [m3u8 # 2](https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8) | [web](https://espanol.cgtn.com/) | [logo](https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200) | CGTN.TV | - |
 | CGTN News | [m3u8 # EN](https://news.cgtn.com/resource/live/english/cgtn-news.m3u8) | [web](https://www.cgtn.com/tv) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200) | CGTNN.TV | - |
 | CGTN Documentary | [m3u8 # EN](https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8) | [web](https://www.cgtn.com/channel/documentary) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200) | CGTNDoc.TV | - |
-| RTHK 31 | [m3u8 # 1](https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8) - [m3u8 # 2](https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8) | [web](https://www.rthk.hk/tv?lang=en) | [logo](https://graph.facebook.com/RTHK.HK/picture?width=200&height=200) | - | - |
-| RTHK 32 | [m3u8](https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8) | [web](https://www.rthk.hk/tv?lang=en) | [logo](https://graph.facebook.com/RTHK.HK/picture?width=200&height=200) | - | - |
 | Al Jazeera Qatar | [m3u8 # EN](https://live-hls-web-aje.getaj.net/AJE/index.m3u8) | [web](https://www.aljazeera.com/live/) | [logo](https://graph.facebook.com/aljazeera/picture?width=200&height=200) | AlJQ.TV | - |
 | NHK World Japan | [m3u8 # EN](https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8) | [web](https://www3.nhk.or.jp/nhkworld/en/live/) | [logo](https://graph.facebook.com/nhkworld/picture?width=200&height=200) | NHK.TV | - |
 | Arirang TV Korea | [m3u8 # EN](https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8) | [web](http://www.arirang.com/player/OnAir_TV.asp) | [logo](https://graph.facebook.com/arirangtv/picture?width=200&height=200) | Arirang.TV | - |
@@ -623,6 +621,7 @@
 | Al Arabiya Emiratos Árabes | [m3u8 # AR](https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8) | [web](https://www.alarabiya.net/ar/live-stream) | [logo](https://graph.facebook.com/AlArabiya/picture?width=200&height=200) | - | - |
 | Ary News Pakistan | [youtube](https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live) | [web](https://live.arynews.tv/) | [logo](https://graph.facebook.com/arynewsasia/picture?width=200&height=200) | - | EMB |
 | Channel NewsAsia | [m3u8 # EN HD](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8) - [m3u8 # EN SD](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8) | [web](https://www.channelnewsasia.com/news/livetv) | [logo](https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200) | - | - |
+| RTHK 31 32 Hong Kong| [m3u8 # 1](https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8) - [m3u8 # 2](https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8) | [web](https://www.rthk.hk/tv?lang=en) | [logo](https://graph.facebook.com/RTHK.HK/picture?width=200&height=200) | - | - |
 
 ## Int. Otros
 
