@@ -416,6 +416,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | NONAV |
 | La 1 Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Extremeña | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Zafra TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cáceres Tevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
@@ -442,7 +443,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| IB3 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| IB3 Global | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | La 1 Illes Balears | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TEF | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -562,6 +563,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | CBS News USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cheddar USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bloomberg USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CourtTV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV Public | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV ISS Views | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -577,6 +579,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | NTN24 América | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal 6 Multimedios Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Azteca 7 Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Imagen TV Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Milenio Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Excelsior Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Televisa News Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -614,6 +617,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La Tele Tuya Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TELE13 Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Meganoticias Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TV Senado Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TC TV Ecuador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleAmazonas Ecuador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -653,9 +657,13 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Hispan TV Iran | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Al Arabiya Emiratos Árabes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ary News Pakistan | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
+| India Today | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | New Delhi TV 24x7 India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Republic World TV India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Channel NewsAsia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| SET News Taiwán | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
+| UNTV News & Rescure Filipinas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTHK 31 32 Hong Kong | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. Otros
 
@@ -664,9 +672,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | ABC Australia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | United Nations TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | AfricaNews | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
+| Joy News TV Ghana | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Channels TV Nigeria | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
-| TVGE 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NBS TV Uganda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVGE 1 Guinea Ecuatorial | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tastemade | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Fashion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Miami TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Locomotion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24/7 Retro TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
@@ -687,6 +698,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | World Padel Tour | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Redbull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Meridiano Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| Stadium USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MsMotor TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | OnlyMotors | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -803,4 +815,5 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Enlace TV Costa Rica | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Emmanuel TV Nigeria | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Redevida Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 3ABN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
