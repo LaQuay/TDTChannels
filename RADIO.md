@@ -14,7 +14,7 @@
 | RAC1 | [stream # 1](https://streaming.rac1.cat/) - [stream # 2](https://streaming.mes1.rac1.cat/) | [web](https://www.rac1.cat) | [logo](https://graph.facebook.com/rac1oficial/picture?width=200&height=200) | - | - |
 | Catalunya Ràdio | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-radio/) | [logo](https://graph.facebook.com/catradio/picture?width=200&height=200) | - | - |
 | Canal Sur Radio | [m3u8](https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/master.m3u8) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1522742.html?directo=player_csr) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
-| Euskadi Irratia | [m3u8](https://etbaeirratinogeo-lh.akamaihd.net/i/EIRRATIA_1@594816/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online/) | [logo](https://graph.facebook.com/Euskadi.Irratia/picture?width=200&height=200) | - | - |
+| Euskadi Irratia | [m3u8](https://eitb-live-dvr.global.ssl.fastly.net/live-content/euskadirratia-hls/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online/) | [logo](https://graph.facebook.com/Euskadi.Irratia/picture?width=200&height=200) | - | - |
 | Radio Galega | [mp3](https://wecast-m01-03.flumotion.com/radiogalega/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/radio-galega) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
 | LOS40 | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3) | [web](https://play.los40.com/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | los40.Radio | - |
 | Cadena Dial | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3) | [web](https://play.cadenadial.com/) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
@@ -145,8 +145,9 @@
 | COPE Jaén | [mp3](https://wecast-b03-04.flumotion.com/copesedes/jaen.mp3) | [web](https://www.cope.es/directos/jaen) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Jerez | [mp3](https://wecast-b03-04.flumotion.com/copesedes/jerez.mp3) | [web](https://www.cope.es/directos/jerez) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Málaga | [mp3](https://wecast-b03-04.flumotion.com/copesedes/malaga.mp3) | [web](https://www.cope.es/directos/malaga) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Marbella | [stream](http://copemarb.duckdns.org:8000/stream) | [web](http://copemarbella.es/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | WICE |
 | COPE Motril | [mp3](https://wecast-b03-04.flumotion.com/copesedes/motril.mp3) | [web](https://www.cope.es/directos/motril) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Sierra Norte | [stream](http://5.135.183.124:8100/stream) | [web](https://radiosierranorte.es/radio-sierra-norte-en-directo/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Sierra Norte | [stream](https://eu1.lhdserver.es:8011/stream) | [web](https://radiosierranorte.es/radio-sierra-norte-en-directo/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Sevilla | [mp3](https://wecast-b03-04.flumotion.com/copesedes/sevilla.mp3) | [web](https://www.cope.es/directos/sevilla) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Ronda | [mp3](http://83.61.19.89:8000/;copesedes/ronda.mp3) | [web](https://www.cope.es/directos/ronda) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Algeciras | [m3u8](https://livefastly-webs.ondacero.es/algeciras-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/algeciras/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
@@ -260,8 +261,9 @@
 | Radio Huesca Sariñena | [stream](https://streamingradio.radiohuesca.com:8101/radiosarinena) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | WICE |
 | Radio La Comarca | [mp3](https://radioonlinelacomarca.net:8100/ser.mp3) | [web](https://www.lacomarca.net/radio-streaming/?channel=radio-la-comarca) | [logo](https://graph.facebook.com/lacomarcanews/picture?width=200&height=200) | - | - |
 | Radio Mai | [stream # 1](http://radio.indaloweb.es:8001/live) - [stream # 2](http://radiomai.ddns.net:8020/live) | [web](http://radiomai.com/online/) | [logo](https://graph.facebook.com/radiomai/picture?width=200&height=200) | - | WICE |
-| Hit Pirineos | [stream](http://stm1.emiteonline.com:8022/hitpirineos) | [web](http://www.hitradiofm.es/hitpirineos.html) | [logo](https://graph.facebook.com/hitpirineos/picture?width=200&height=200) | - | WICE |
+| Radio 4G Zaragoza | [stream](http://r4g-zaragoza1.streaming-pro.com:7000/enlacesigloxxi) | [web](https://radio4gzaragoza.com/index.php/radio-en-vivo/) | [logo](https://graph.facebook.com/R4GZARAGOZAOFICIAL/picture?width=200&height=200) | - | - |
 | ZFM Zaragoza | [mp3](http://streaming.zarastudio.es/zfm.mp3) | [web](http://www.zaragozafm.es/player/) | [logo](https://graph.facebook.com/zfmzaragoza/picture?width=200&height=200) | - | - |
+| Hit Pirineos | [stream](http://stm1.emiteonline.com:8022/hitpirineos) | [web](http://www.hitradiofm.es/hitpirineos.html) | [logo](https://graph.facebook.com/hitpirineos/picture?width=200&height=200) | - | WICE |
 | Radio Ribagorza | [stream](http://85.25.217.22:8210/stream) | [web](http://www.radioribagorza.es/radioonline.html) | [logo](https://us0-cdn.onlineradiobox.com/img/logo/8/54408.v2.png) | - | - |
 
 ### Canarias
@@ -485,6 +487,7 @@
 | Gum FM Vielha | [stream](https://streamingv2.shoutcast.com/gum) | [web](https://gum.cat/) | [logo](https://graph.facebook.com/gumfm/picture?width=200&height=200) | - | - |
 | RAP107 | [mp3](http://streaming.enantena.com:8000/rap56.mp3) - [stream](https://enacast.com/rap107/streams/SD) | [web](https://enacast.com/rap107/) | [logo](https://graph.facebook.com/rap107/picture?width=200&height=200) | - | - |
 | Ràdio Caldes | [mp3](http://streaming.enantena.com:8000/radiocaldes56.mp3) - [stream](https://enacast.com/radiocaldes/streams/HD) | [web](http://www.radiocaldes.cat/) | [logo](https://graph.facebook.com/RadioCaldes107.8fm/picture?width=200&height=200) | - | - |
+| Actuality FM | [stream](https://node-26.zeno.fm/gta5xkfvbrruv) | [web](https://www.actualityfm.es/p/play.html) | [logo](https://graph.facebook.com/ActualityFM.es/picture?width=200&height=200) | - | - |
 | Ràdio Cubelles | [mp3](http://streaming.enantena.com:8000/cubelles128.mp3) - [stream](https://enacast.com/radiocubelles/streams/HD) | [web](http://www.radiocubelles.cat/) | [logo](https://graph.facebook.com/radiocubelles/picture?width=200&height=200) | - | - |
 | Ràdio Granollers | [stream](https://radio.cdnmedia.tv/radio/8120/radiogranollers) | [web](http://www.gasl.cat/) | [logo](https://graph.facebook.com/RadioGranollers/picture?width=200&height=200) | - | - |
 | Ràdio Maricel | [mp3](http://94.23.87.98:8065/;&type=mp3) | [web](http://www.radiomaricel.cat/) | [logo](https://graph.facebook.com/radiomaricel/picture?width=200&height=200) | - | - |
@@ -503,9 +506,10 @@
 | Ràdio Sitges | [stream](https://s2.radio.co/s8e5dffe5e/listen) | [web](http://www.radiositges.com/) | [logo](https://graph.facebook.com/radiositges/picture?width=200&height=200) | - | - |
 | Ràdio Montornès | [stream](http://188.165.187.84:8008/stream) | [web](http://radio.montornes.cat/radios/directe) | [logo](https://graph.facebook.com/radiomontornes/picture?width=200&height=200) | - | - |
 | Ràdio Ripoll | [stream](http://5.135.183.124:8151/stream) | [web](https://www.corisamediagrup.com/mitjans/r%C3%A0dio-ripoll-ona-90/) | [logo](https://graph.facebook.com/334511563914/picture?width=200&height=200) | - | - |
-| Ràdio Gràcia | [mp3](http://streaming.enantena.com:8000/radiograciaHD.mp3) - [stream](https://enacast.com/radiogracia/streams/HD) | [web](https://ajuntament.barcelona.cat/gracia/ca/coneixeu-el-districte/radio-gracia) | [logo](https://graph.facebook.com/RadioGraciaBarcelona/picture?width=200&height=200) | - | - |
 | Ràdio Amèrica Barcelona | [stream](https://s3.radio.co/sf09831a0e/listen) | [web](http://www.rab.cat/) | [logo](https://graph.facebook.com/RadioAmericaBarcelona/picture?width=200&height=200) | - | - |
+| Ràdio Gràcia | [mp3](http://streaming.enantena.com:8000/radiograciaHD.mp3) - [stream](https://enacast.com/radiogracia/streams/HD) | [web](https://ajuntament.barcelona.cat/gracia/ca/coneixeu-el-districte/radio-gracia) | [logo](https://graph.facebook.com/RadioGraciaBarcelona/picture?width=200&height=200) | - | - |
 | Una Cosa Ràdio | [stream](https://usa4.fastcast4u.com/proxy/josep?mp=/1) | [web](https://www.unacosa.cat/radio-en-directe/) | [logo](https://pbs.twimg.com/profile_images/1317925182712041474/rNXMGU71_200x200.jpg) | - | - |
+| Gran Via Radio | [stream](http://antares.dribbcast.com:4107/live) | [web](https://granviaradio.wixsite.com/2020) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | - |
 
 ### Ceuta
 
@@ -537,6 +541,7 @@
 | Onda Cero Sierra | [mp3](http://195.55.94.118:7000/;stream.mp3) | [web](https://lavozdelasierra.es/onda-cero-sierra/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Vaughan Radio | [mp3](https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3) | [web](https://grupovaughan.com/vaughan-radio/) | [logo](https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [stream](https://www.lajunglaradio.com:8003/lajunglawebssl) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | - |
+| Dynamis Radio | [stream](https://control.streaming-pro.com:8014/stream) | [web](http://www.dynamisradio.org/) | [logo](https://graph.facebook.com/dynamisradio/picture?width=200&height=200) | - | - |
 | Unika FM | [stream](http://n02.radiojar.com/7qyvpnex9vzuv) | [web](https://unika.fm/player/) | [logo](https://graph.facebook.com/unikafmmuchomasquedance/picture?width=200&height=200) | - | - |
 | Radio Romanul | [stream](http://streaming.radioromanul.es:55556/radioromanul) | [web](http://www.radioromanul.es/live/) | [logo](https://graph.facebook.com/RadioRomanul/picture?width=200&height=200) | - | WICE |
 | Top Radio | [stream](http://18003.live.streamtheworld.com/TOPRADIO_SC) | [web](http://www.topradio.es) | [logo](https://graph.facebook.com/topradioes/picture?width=200&height=200) | - | - |
@@ -607,11 +612,13 @@
 | SER Valencia | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_valencia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Villena | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VILLENA.mp3) | [web](https://play.cadenaser.com/emisora/radio_villena/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Xàtiva | [stream](https://directe.radioontinyent.com/serxativa) | [web](https://play.cadenaser.com/emisora/radio_xativa/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
+| COPE Alcoy | [stream](https://server8.emitironline.com:10876/;) | [web](https://www.copealcoy.es/) | [logo](https://graph.facebook.com/copealcoy/picture?width=200&height=200) | - | - |
 | COPE Alicante | [mp3](https://wecast-b01-02.flumotion.com/copesedes/alicante.mp3) | [web](https://www.cope.es/directos/alicante) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Castellón | [mp3](https://wecast-b01-02.flumotion.com/copesedes/castellon.mp3) | [web](https://www.cope.es/directos/castellon) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Castellón-Vinaroz | [mp3](https://wecast-b01-02.flumotion.com/copesedes/vinaroz.mp3) | [web](https://www.cope.es/directos/castellon-vinaroz) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Denia | [mp3](https://wecast-b01-02.flumotion.com/copesedes/denia.mp3) | [web](https://www.cope.es/directos/denia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Elche | [mp3](https://sonic.mediatelekom.net/9314/stream) | [web](https://www.copeelche.com) | [logo](https://graph.facebook.com/CopeElche/picture?width=200&height=200) | - | - |
+| COPE Onda Naranja | [stream](http://srv0411.lcinternet.com:9001/stream) | [web](https://www.ondanaranjacope.com) | [logo](https://graph.facebook.com/ondanaranjacope/picture?width=200&height=200) | - | WICE |
 | COPE Valencia | [mp3](https://wecast-b01-02.flumotion.com/copesedes/valencia.mp3) | [web](https://www.cope.es/directos/valencia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Alicante | [m3u8](https://livefastly-webs.ondacero.es/alicante-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-valenciana/alicante/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Alzira | [m3u8](https://livefastly-webs.ondacero.es/alzira-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-valenciana/alzira/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
@@ -656,6 +663,8 @@
 | Código FM | [mp3](https://streaming-audio-1.magentalabs.es:8100/codigofm.mp3) | [web](https://www.codigofm.com/escuchanos/) | [logo](https://graph.facebook.com/codigofmradio/picture?width=200&height=200) | - | - |
 | Plaza Radio | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://plazaradio.es/onair) | [logo](https://graph.facebook.com/plazaradio/picture?width=200&height=200) | - | WICE |
 | Radio Ibi | [mp3](http://streaming.enacast.com:8000/radioibiSD.mp3) | [web](https://www.radioibi.com/) | [logo](https://pbs.twimg.com/profile_images/524879648971165696/0R6A-gKg_200x200.jpeg) | - | - |
+| Onda Ilicitana R4G | [mp3](http://212.83.151.18:38722/;.mp3) | [web](http://ondailicitana.com) | [logo](https://graph.facebook.com/ondailicitana/picture?width=200&height=200) | - | - |
+| Radio 4G Benidorm | [stream](http://ip45.ip-217-182-209.eu:8000/gestionabenidorm.ogg?/directo) | [web](https://radio4gbenidorm.com/) | [logo](https://graph.facebook.com/Radio4GOficial/picture?width=200&height=200) | - | - |
 | ON Radio | [mp3](https://streaming-audio-1.magentalabs.es:8100/onradio.mp3) | [web](https://www.onradio.fm/escuchanos/) | [logo](https://graph.facebook.com/onradio.fm/picture?width=200&height=200) | - | - |
 | Vega Baja Radio | [stream](https://node-21.zeno.fm/3xnvzk9dztzuv) | [web](https://vegabajaradio.com/) | [logo](https://graph.facebook.com/vegabajaradio/picture?width=200&height=200) | - | - |
 | Radio 7 Valencia | [m3u8](https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247024/027/playlist.m3u8) | [web](https://radiosiete.com/emision-en-directo/) | [logo](https://graph.facebook.com/radiosiete/picture?width=200&height=200) | - | - |
@@ -666,6 +675,7 @@
 | Xtra Hits FM | [stream](https://srv1.multiesfera.com:8020/stream) | [web](https://xtrahits.es/directo/) | [logo](https://graph.facebook.com/XtraHits/picture?width=200&height=200) | - | WICE |
 | Ràdio Bétera | [stream](http://node-08.zeno.fm/qfeh53ng7f0uv) | [web](http://www.radiobetera.org/) | [logo](https://graph.facebook.com/radiobetera/picture?width=200&height=200) | - | - |
 | Costafm Alicante | [mp3](https://cdn4.onstream.audio:6064/stream.mp3) | [web](https://www.costafm.es/) | [logo](https://graph.facebook.com/costafm/picture?width=200&height=200) | - | - |
+| Onda Azul Torrevieja | [stream](https://eu1.lhdserver.es:8029/stream) | [web](https://ondaazulradio.es/) | [logo](https://pbs.twimg.com/profile_images/691063766784577536/3-ftz8tQ_200x200.jpg) | - | - |
 | Spektra FM | [stream](http://stm1.emiteonline.com:8008/spektrafm) | [web](http://www.spektrafm.es/directo/) | [logo](https://pbs.twimg.com/profile_images/1198909425177841665/G5QnW0Um_200x200.jpg) | - | WICE |
 | UPV Ràdio | [rtmp](rtmp://moneres.upv.es/radioupv/livestream) | [web](http://www.upv.es/rtv/radio/directo) | [logo](https://graph.facebook.com/UPVTV/picture?width=200&height=200) | - | - |
 | Radio Benicarló | [mp3](http://streaming.enacast.com:8000/radiobenicarlo56.mp3) | [web](https://www.radiobenicarlo.org/) | [logo](https://pbs.twimg.com/profile_images/986172333802098688/1n42_pIB_200x200.jpg) | - | - |
@@ -674,6 +684,7 @@
 | Malibú Radio | [mp3](https://cdn4.onstream.audio:9158/maliburadio.mp3) | [web](https://www.radiomalibu.es/) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
 | Cassette FM | [mp3](https://stream.mediasector.es/radio/8180/cassettefm.mp3) | [web](https://costafm.es/cassettefm/) | [logo](https://tlgur.com/d/GYwvVzl4) | - | - |
 | Radio 90FM | [stream](https://node-33.zeno.fm/015h6n8vfzzuv) | [web](https://radio90fmvalencia.wixsite.com/90fm) | [logo](https://static.wixstatic.com/media/f5b851_67e1cadb04a642e2a353a636264ca548~mv2.png) | - | WICE |
+| Standfy FM | [stream](https://standfy.stream/radio/8000/standfyradio) | [web](https://standfy.es/) | [logo](https://graph.facebook.com/standfymedia/picture?width=200&height=200) | - | - |
 
 ### Extremadura
 
@@ -813,12 +824,11 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Euskadi Irratia | [m3u8](https://etbaeirratinogeo-lh.akamaihd.net/i/EIRRATIA_1@594816/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online/) | [logo](https://graph.facebook.com/Euskadi.Irratia/picture?width=200&height=200) | - | - |
-| Radio Euskadi | [m3u8](https://etbareuskadnogeo-lh.akamaihd.net/i/REUSKADI_1@594818/master.m3u8) | [web](https://www.eitb.eus/es/radio/radio-euskadi/radio-online/) | [logo](https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200) | - | - |
-| EITB Musika | [m3u8](https://etbaeitbmusnogeo-lh.akamaihd.net/i/EITBMUSIKA_1@594815/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/eitb-musika/irratia-online/) | [logo](https://graph.facebook.com/eitbmusika/picture?width=200&height=200) | - | - |
-| EITB Euskal Kantak | [m3u8](https://eitbeuskantnogeo-lh.akamaihd.net/i/EITBEUSKALKANTAK_1@867129/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/eitb-euskal-kantak/) | [logo](https://graph.facebook.com/eitbEuskalKantak/picture?width=200&height=200) | - | - |
-| Radio Vitoria | [m3u8](https://etbavitorianogeo-lh.akamaihd.net/i/RVITORIA_1@594819/master.m3u8) | [web](https://www.eitb.eus/es/radio/radio-vitoria/radio-online/) | [logo](https://graph.facebook.com/radiovitoria.eitb/picture?width=200&height=200) | - | - |
-| Gaztea | [m3u8](https://etbagazteanogeo-lh.akamaihd.net/i/GAZTEA_1@349778/master.m3u8) | [web](https://www.eitb.eus/eu/gaztea/gaztea-online/) | [logo](https://graph.facebook.com/gaztea/picture?width=200&height=200) | - | - |
+| Radio Euskadi | [m3u8](https://eitb-live-dvr.global.ssl.fastly.net/live-content/radioeuskadi-hls/master.m3u8) | [web](https://www.eitb.eus/es/radio/radio-euskadi/radio-online/) | [logo](https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200) | - | - |
+| EITB Musika | [m3u8](https://eitb-live-dvr.global.ssl.fastly.net/live-content/eitbmusika-hls/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/eitb-musika/irratia-online/) | [logo](https://graph.facebook.com/eitbmusika/picture?width=200&height=200) | - | - |
+| EITB Euskal Kantak | [m3u8](https://eitb-live-dvr.global.ssl.fastly.net/live-content/eitbeuskalkantak-hls/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/eitb-euskal-kantak/) | [logo](https://graph.facebook.com/eitbEuskalKantak/picture?width=200&height=200) | - | - |
+| Radio Vitoria | [m3u8](https://eitb-live-dvr.global.ssl.fastly.net/live-content/radiovitoria-hls/master.m3u8) | [web](https://www.eitb.eus/es/radio/radio-vitoria/radio-online/) | [logo](https://graph.facebook.com/radiovitoria.eitb/picture?width=200&height=200) | - | - |
+| Gaztea | [m3u8](https://eitb-live-dvr.global.ssl.fastly.net/live-content/gaztea-hls/master.m3u8) | [web](https://www.eitb.eus/eu/gaztea/gaztea-online/) | [logo](https://graph.facebook.com/gaztea/picture?width=200&height=200) | - | - |
 | Radio Nacional País Vasco | [mp3](https://rneeus.rtveradio.cires21.com/rneeus.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 País Vasco | [mp3](https://radio5eus.rtveradio.cires21.com/radio5eus.mp3) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | Radio Marca Bilbao | [stream](https://cp12.shoutcheap.com:18030/stream) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
@@ -845,7 +855,7 @@
 | Bizkaia Irratia | [stream](https://nerbioi.radiopopular.eus/bizkaiairratia2) | [web](http://www.bizkaiairratia.eus/) | [logo](https://graph.facebook.com/BizkaiaIrratia/picture?width=200&height=200) | - | - |
 | Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com/) | [logo](https://graph.facebook.com/radioformulahit/picture?width=200&height=200) | - | - |
 | Radio Popular - Herri Irratia | [stream](https://nerbioi.radiopopular.eus/radiopopular1) | [web](https://radiopopular.com/) | [logo](https://graph.facebook.com/herriirratia/picture?width=200&height=200) | - | - |
-| Santurtzi Irratia | [mp3](http://212.83.151.18:8296/;.mp3) | [web](https://www.stzirratia.com/) | [logo](https://graph.facebook.com/stzirratia/picture?width=200&height=200) | - | - |
+| Santurtzi Irratia | [mp3](http://212.83.151.18:8296/;.mp3) | [web](https://www.stzirratia.com/) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
 | Bilbo Hiria Irratia | [stream](http://eu.radioboss.fm:8060/stream) | [web](https://www.bilbohiria.eus/zuzen1/) | [logo](https://graph.facebook.com/bilbohiria/picture?width=200&height=200) | - | - |
 | Mozoilo Irratia | [mp3](http://195.154.33.95:8042/mozoiloi.mp3) | [web](http://www.gdkoirratia.com/PLAY/) | [logo](https://graph.facebook.com/GaldakaokoIrratia/picture?width=200&height=200) | - | - |
 | Naiz Irratia | [mp3](https://zuzenean.naiz.eus/naiz_irratia.mp3) | [web](https://www.naiz.eus/zuzenean.html) | [logo](https://graph.facebook.com/NAIZirratia/picture?width=200&height=200) | - | - |
