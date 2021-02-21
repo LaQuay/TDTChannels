@@ -662,7 +662,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Republic World TV India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Channel NewsAsia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | SET News Taiwán | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
-| UNTV News & Rescure Filipinas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| UNTV News & Rescue Filipinas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTHK 31 32 Hong Kong | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. Otros

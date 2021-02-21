@@ -642,7 +642,7 @@
 | Republic World TV India | [m3u8 # EN](https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8) | [web](https://www.republicworld.com/livetv.html) | [logo](https://graph.facebook.com/RepublicWorld/picture?width=200&height=200) | - | - |
 | Channel NewsAsia | [m3u8 # EN](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8) | [web](https://www.channelnewsasia.com/news/livetv) | [logo](https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200) | - | - |
 | SET News Taiwán | [youtube # ZH # 1](https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live) - [youtube # ZH # 2](https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live) | [web](https://live.setn.com/) | [logo](https://graph.facebook.com/setnews/picture?width=200&height=200) | - | EMB |
-| UNTV News & Rescure Filipinas | [m3u8 # EN](https://www.untvweb.com/live-stream/untvweb.m3u8) | [web](https://www.untvweb.com/news/) | [logo](https://graph.facebook.com/UNTVNewsRescue/picture?width=200&height=200) | - | - |
+| UNTV News & Rescue Filipinas | [m3u8 # EN](https://www.untvweb.com/live-stream/untvweb.m3u8) | [web](https://www.untvweb.com/news/) | [logo](https://graph.facebook.com/UNTVNewsRescue/picture?width=200&height=200) | - | - |
 | RTHK 31 32 Hong Kong | [m3u8 # 1](https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8) - [m3u8 # 2](https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8) | [web](https://www.rthk.hk/tv?lang=en) | [logo](https://graph.facebook.com/RTHK.HK/picture?width=200&height=200) | - | - |
 
 ## Int. Otros
