@@ -619,7 +619,6 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Teledifusão de Macau | [m3u8 # PT # 1](https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8) - [m3u8 # ZH # 2](https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8) - [m3u8 # ZH # 3](https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8) | [web](https://www.tdm.com.mo/c_broadcast/index.php?channel=ptvp) | [logo](https://graph.facebook.com/Canal.Macau/picture?width=200&height=200) | - | - |
 | CGTN | [m3u8 # 1](https://livees.cgtn.com/1000e/prog_index.m3u8) - [m3u8 # 2](https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8) | [web](https://espanol.cgtn.com/) | [logo](https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200) | CGTN.TV | - |
 | CGTN News | [m3u8 # EN](https://news.cgtn.com/resource/live/english/cgtn-news.m3u8) | [web](https://www.cgtn.com/tv) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200) | CGTNN.TV | - |
 | CGTN Documentary | [m3u8 # EN](https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8) | [web](https://www.cgtn.com/channel/documentary) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200) | CGTNDoc.TV | - |
@@ -634,6 +633,7 @@
 | New Delhi TV 24x7 India | [m3u8 # EN](https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8) | [web](https://www.ndtv.com/video/live/channel/ndtv24x7) | [logo](https://graph.facebook.com/ndtv/picture?width=200&height=200) | - | - |
 | Republic World TV India | [m3u8 # EN](https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8) - [m3u8 # HI](https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8) | [web](https://www.republicworld.com/livetv.html) | [logo](https://graph.facebook.com/RepublicWorld/picture?width=200&height=200) | - | - |
 | Channel NewsAsia | [m3u8 # EN HD](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8) - [m3u8 # EN SD](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8) | [web](https://www.channelnewsasia.com/news/livetv) | [logo](https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200) | - | - |
+| Teledifusão de Macau | [m3u8 # PT # 1](https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8) - [m3u8 # ZH # 2](https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8) - [m3u8 # ZH # 3](https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8) | [web](https://www.tdm.com.mo/c_broadcast/index.php?channel=ptvp) | [logo](https://graph.facebook.com/Canal.Macau/picture?width=200&height=200) | - | - |
 
 ## Int. Otros
 
