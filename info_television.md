@@ -82,7 +82,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | AS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emisión diaria entre las 21 - 23h |
 | OKLIGA TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| RFE Deportes de Hielo | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| FedHielo TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Infantiles
 
