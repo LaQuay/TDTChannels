@@ -246,7 +246,7 @@
 | - | - | - | - | - | - |
 | La 7 | [m3u8](https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8) | [web](https://www.cyltv.es/live/La7) | [logo](https://graph.facebook.com/cyltv/picture?width=200&height=200) | La7.TV | - |
 | La 1 Castilla y León | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@385144/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | - | - |
-| La 8 Avila | [m3u8](https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/La8Avila) | [logo](https://pbs.twimg.com/profile_images/440445995394953216/NVyW2cD6_200x200.jpeg) | 8Avila.TV | - |
+| La 8 Avila | [m3u8](https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/La8Avila) | [logo](https://pbs.twimg.com/profile_images/1364545643319087104/7qp4nrtS_200x200.jpg) | 8Avila.TV | - |
 | La 8 Bierzo | [m3u8](https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/Live/La8Bierzo) | [logo](https://graph.facebook.com/La8Bierzo/picture?width=200&height=200) | 8Bierzo.TV | - |
 | La 8 Burgos | [m3u8](https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/La8Burgos) | [logo](https://graph.facebook.com/La8Burgos/picture?width=200&height=200) | 8Burgos.TV | - |
 | La 8 Leon | [m3u8](https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.cyltv.es/live/La8Leon) | [logo](https://graph.facebook.com/la8leon/picture?width=200&height=200) | 8Leon.TV | - |
