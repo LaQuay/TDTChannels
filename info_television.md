@@ -165,6 +165,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | OndaMezquita TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
@@ -197,7 +198,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trebujena TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Cádiz 24h | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El Correo de Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Aragón
@@ -581,6 +581,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Azteca 7 Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Imagen TV Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Milenio Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| El Financiero Mexico | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Excelsior Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Televisa News Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ADN40 Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -654,13 +655,14 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Nippon News TV Japan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Arirang TV Korea | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | KBS World Korea | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
-| Hispan TV Iran | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Al Arabiya Emiratos Árabes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ary News Pakistan | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | India Today | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | New Delhi TV 24x7 India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Republic World TV India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Hispan TV Iran | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Channel NewsAsia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVBS News Taiwán | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | SET News Taiwán | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | UNTV News & Rescue Filipinas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTHK 31 32 Hong Kong | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
