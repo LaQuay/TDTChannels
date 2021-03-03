@@ -623,6 +623,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV Senado Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TC TV Ecuador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleAmazonas Ecuador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Unitel Bolivia | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Bolivia 7.1 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Bolivia 7.2 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cubavisión TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
