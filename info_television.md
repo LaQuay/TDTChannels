@@ -547,6 +547,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Porto Canal Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTÉ News Irlanda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Televixin Malta | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TRT Haber Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTCG Montenegro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Current Time TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
