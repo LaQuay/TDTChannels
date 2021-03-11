@@ -163,7 +163,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Onda Algeciras TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tuya La Janda TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Jerez TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| OndaMezquita TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| OndaMezquita 7 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
