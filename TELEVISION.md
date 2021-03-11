@@ -455,7 +455,7 @@
 | ETB Eventos 1 | [m3u8](https://etbvnogeo-lh.akamaihd.net/i/OCA1HD_1@748519/master.m3u8) | [web](https://www.eitb.eus/es/noticias/actualidad-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
 | ETB Eventos 2 | [m3u8 # GEO](https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
 | Hamaika TV | [m3u8](https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8) | [web](https://www.hamaika.eus/zuzenean) | [logo](https://graph.facebook.com/HamaikaTb/picture?width=200&height=200) | - | - |
-| Tele 7 | [m3u8](https://59c8647978660.streamlock.net/8128/8128/playlist.m3u8) | [web](https://tele7.tv/tele-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200) | - | - |
+| Tele 7 | [m3u8](https://5df8a678a3840.streamlock.net/8012/8012/playlist.m3u8) | [web](https://tele7.tv/tele-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200) | - | - |
 | Goiena Eus | [m3u8](https://zuzenean.tokimedia.eus/hls/goiena-telebista.m3u8) | [web](https://goiena.eus/telebista/zuzenekoa) | [logo](https://graph.facebook.com/goiena.eus/picture?width=200&height=200) | - | - |
 | 28 Kanala | [m3u8](https://5940924978228.streamlock.net/8157/8157/master.m3u8) | [web](https://www.28kanala.eus/) | [logo](https://graph.facebook.com/28kanala/picture?width=200&height=200) | - | - |
 | Goierri Irrati TV | [m3u8](https://5940924978228.streamlock.net/8155/8155/master.m3u8) | [web](http://www.gitb.eus/) | [logo](https://graph.facebook.com/GoierriIrratiTelebista/picture?width=200&height=200) | - | - |
