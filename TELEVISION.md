@@ -105,7 +105,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Sur Andalucía | [m3u8](https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8) - [youtube](https://www.youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ/live) | [web](https://www.canalsur.es/tv_directo-1193.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | CanalSurA.TV | - |
+| Canal Sur Andalucía | [m3u8](https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8) - [youtube](https://www.youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ/live) | [web](https://www.canalsur.es/tv_directo-1193.html) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | CanalSurA.TV | - |
 | La 1 Andalucía | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@321466/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | - | - |
 | 7TV Andalucía | - | [web](https://7tvandalucia.es/portada/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | - | W3U,EXTA |
 | 7TV Andalucía - Algeciras | - | [web](https://7tvandalucia.es/algeciras/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | - | W3U,EXTA |
