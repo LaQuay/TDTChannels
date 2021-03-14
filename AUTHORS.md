@@ -8,6 +8,7 @@
 - Playz [@playzzz](https://github.com/playzzz)
 
 #### Contributions (in alphabetical order)
+- Adrian [@adrianpaniagualeon](https://github.com/adrianpaniagualeon)
 - Aitor [@aitorillo](https://github.com/aitorillo)
 - Alex Gabriel [@97carmine](https://github.com/97carmine)
 - Angel [@PIC16f841](https://github.com/PIC16f841)
