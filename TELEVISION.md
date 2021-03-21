@@ -610,7 +610,6 @@
 | Nicavisión TV Nicaragua | [m3u8](https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8) | [web](http://www.canal12.com.ni/en-vivo) | [logo](https://graph.facebook.com/200823376627607/picture?width=200&height=200) | - | - |
 | Canal 33 El Salvador | [m3u8](https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8) | [web](https://canal33.tv/home/tv-en-vivo/) | [logo](https://graph.facebook.com/CANAL33.TV/picture?width=200&height=200) | - | - |
 | TRV El Salvador | [m3u8](https://panel.livetvvideo.net:1936/8182/8182/playlist.m3u8) | [web](http://www.diariotrv.com/estaticas/en-vivo.html) | [logo](https://graph.facebook.com/Noticiastrvelsalvador/picture?width=200&height=200) | - | - |
-| WOW El Salvador | [m3u8](https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/master.m3u8) | [web](https://wowelsalvador.com/) | [logo](https://graph.facebook.com/wowelsalvador/picture?width=200&height=200) | - | - |
 | Multimedios Costa Rica | [m3u8](https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8) | [web](https://www.multimedios.cr/video) | [logo](https://graph.facebook.com/MultimediosCR/picture?width=200&height=200) | - | - |
 | Trece Costa Rica | [stream](https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1) | [web](https://costaricamedios.cr/envivo) | [logo](https://graph.facebook.com/SinartTreceCostaRica/picture?width=200&height=200) | - | EMB |
 | Nex TV Panamá | [m3u8](http://198.1.123.99:1935/live/myStream/playlist.m3u8) | [web](http://www.nexpanama.com/en-vivo/) | [logo](https://graph.facebook.com/nextvpanama/picture?width=200&height=200) | - | - |
@@ -646,7 +645,7 @@
 | Teledifusão de Macau | [m3u8 # PT # 1](https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8) - [m3u8 # ZH # 2](https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8) - [m3u8 # ZH # 3](https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8) | [web](https://www.tdm.com.mo/c_broadcast/index.php?channel=ptvp) | [logo](https://graph.facebook.com/Canal.Macau/picture?width=200&height=200) | - | - |
 | Oman TV | [m3u8](http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8) | [web](http://part.gov.om/part/) | [logo](https://graph.facebook.com/OmanTvGeneral/picture?width=200&height=200) | - | - |
 
-## Int. Africa
+## Int. África
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
