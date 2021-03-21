@@ -122,7 +122,7 @@
 | 7TV Andalucía - Sevilla | - | [web](https://7tvandalucia.es/sevilla/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | - | W3U,EXTA |
 | 7TV Andalucía - Sierra | - | [web](https://7tvandalucia.es/sierra/) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | - | W3U,EXTA |
 | Jerez TV | [youtube](https://www.youtube.com/channel/UCHVquS6wXQAsESO2bwZ7esw/live) | [web](https://jereztelevision.com/) | [logo](https://graph.facebook.com/jerez.television/picture?width=200&height=200) | - | EMB |
-| 101TV Málaga | [m3u8](https://limited38.todostreaming.es/live/101tv-web101tv.m3u88) | [web](https://www.101tv.es/endirecto.aspx) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | - | - |
+| 101TV Málaga | [m3u8](https://limited38.todostreaming.es/live/101tv-web101tv.m3u8) | [web](https://www.101tv.es/endirecto.aspx) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | - | - |
 | Mijas 3.40 TV | [m3u8](https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8) | [web](https://www.mijascomunicacion.org/) | [logo](https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200) | - | - |
 | Onda Cádiz | [m3u8](https://adc-hls.flumotion.com/playlist.m3u8) | [web](https://ondacadiz.es/television-directo) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | OndaCadiz.TV | - |
 | M95 Marbella | [m3u8](https://limited2.todostreaming.es/live/m95-livestream.m3u8) | [web](https://m95tv.es/) | [logo](https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200) | - | - |
