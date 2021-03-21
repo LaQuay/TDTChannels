@@ -658,6 +658,7 @@
 | Oman TV | [m3u8](http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8) | [web](http://part.gov.om/part/) | [logo](https://graph.facebook.com/OmanTvGeneral/picture?width=200&height=200) | - | - |
 
 ## Int. Africa
+
 | AfricaNews | [youtube # EN](https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live) | [web](https://www.channelstv.com/) | [logo](https://graph.facebook.com/africanews.channel/picture?width=200&height=200) | - | EMB |
 | Joy News TV Ghana | [stream](https://www.dailymotion.com/embed/video/x7w7197?autoplay=1) | [web](https://www.myjoyonline.com/media/joy-news-live) | [logo](https://graph.facebook.com/JoyNewsOnTV/picture?width=200&height=200) | - | EMB |
 | Channels TV Nigeria | [youtube # EN](https://www.youtube.com/channel/UCEXGDNclvmg6RW0vipJYsTQ/live) | [web](https://www.channelstv.com/) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | EMB |
