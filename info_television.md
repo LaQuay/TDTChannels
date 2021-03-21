@@ -523,7 +523,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | ATV Andorra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV Web Andorra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Euronews Internacional | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
-| CNN | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| CNN Internacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bloomberg Europe | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GBC Gibraltar | - | - | - | - | - | - | - | Emisión eventual |
 | France 24 Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
