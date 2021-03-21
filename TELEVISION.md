@@ -181,7 +181,6 @@
 | Cancionero TV | [m3u8](http://89.140.229.4/hls/cancionero.m3u8) | [web](http://www.cancionero.es/tv/) | [logo](https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png) | - | - |
 | Trebujena TV | [m3u8](http://212.104.160.156:1935/live/trebujenatv2/master.m3u8) | [web](http://trebujena.tv/) | [logo](https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg) | - | - |
 | Onda Cádiz 24h | [youtube](https://www.youtube.com/channel/UCFKhEEt4pngMyM0srL9rPFA/live) | [web](https://ondacadiz.es/television-directo) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | - | EMB |
-| El Correo de Andalucía | - | [web](https://elcorreoweb.es/elcorreotv) | [logo](https://graph.facebook.com/elcorreoweb/picture?width=200&height=200) | - | NOEM |
 
 ### Aragón
 
@@ -320,7 +319,6 @@
 | 25 TV | [m3u8](https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8) | [web](https://www.25televisio.com/streaming.php) | [logo](https://graph.facebook.com/298335373532952/picture?width=200&height=200) | - | - |
 | TV de Sant Martí | [youtube](https://www.youtube.com/channel/UCGXp77nMffJ9lk5If2dYj3w/live) | [web](https://granviaradio8.wixsite.com/rtvsm/directe) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | EMB |
 | TV del Baix Guinardó | [m3u8](https://usb.bozztv.com/ssh101/amsctvbaixguinardo/amsctvbaixguinardo/master.m3u8) | [web](https://buzzradio.webcindario.com/tvbg/index.htm) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | - |
-| 8tv | - | [web](https://www.8tv.cat/directe/) | [logo](https://pbs.twimg.com/profile_images/1104354165441155072/FYYAUe3Y_200x200.jpg) | - | NOEM |
 
 ### Ceuta
 
@@ -388,7 +386,6 @@
 | Tele Sagunto | [m3u8](https://5940924978228.streamlock.net/Directo1_1/smil:Directo1_1.smil/playlist.m3u8) | [web](https://telesagunto.com/directo) | [logo](https://graph.facebook.com/TeleSagunto/picture?width=200&height=200) | - | - |
 | Une Vinalopó | [m3u8](http://78.41.83.88:8880/hls/unesd.m3u8) | [web](https://www.unevinalopo.es/directo/) | [logo](https://graph.facebook.com/UneVinalopo/picture?width=200&height=200) | - | - |
 | Corts Valencianes | [m3u8](https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8) | [web](https://mediateca.cortsvalencianes.es/library/lives/2) | [logo](https://graph.facebook.com/cortsval/picture?width=200&height=200) | - | - |
-| 12TV | - | [web](http://www.12tv.es/12tv-en-directo/) | [logo](https://graph.facebook.com/12tv.es/picture?width=200&height=200) | - | NOEM |
 
 ### Extremadura
 
@@ -444,7 +441,6 @@
 | - | - | - | - | - | - |
 | Melilla TV | [m3u8](https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8) | [web](https://inmusa.es/directo/) | [logo](https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200) | MelillaTV.TV | - |
 | Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/8009/master.m3u8) | [web](http://populartvmelilla.com/) | [logo](https://graph.facebook.com/populartvml/picture?width=200&height=200) | - | - |
-| El Faro | - | [web](https://elfarodemelilla.es/) | [logo](https://graph.facebook.com/ElFarodeMelilla/picture?width=200&height=200) | - | NOEM |
 
 ### País Vasco
 
@@ -490,11 +486,6 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Antena 3 Internacional | - | [web](https://www.antena3internacional.com/) | [logo](https://graph.facebook.com/antena3/picture?width=200&height=200) | - | - |
-| Atreseries Internacional | - | [web](https://www.atresseries.com/) | [logo](https://graph.facebook.com/atreseries/picture?width=200&height=200) | - | - |
-| Atrescine Internacional | - | [web](https://www.atrescine.com/) | [logo](https://graph.facebook.com/atrescine/picture?width=200&height=200) | - | - |
-| Cincomas | - | [web](https://www.cincomas.com/) | [logo](https://pbs.twimg.com/profile_images/1082567852857716736/lwjc8xA4_200x200.jpg) | - | - |
-| ¡Hola! TV | - | [web](https://www.hola.tv/) | [logo](https://graph.facebook.com/HolaTvAmerica/picture?width=200&height=200) | - | - |
 | TVE Internacional | - | [web](https://www.rtve.es/television/tve-internacional/) | [logo](https://graph.facebook.com/tveInternacional/picture?width=200&height=200) | - | - |
 | TV3CAT | [m3u8 # GEOCAT # 1](https://directes-tv-ca.ccma.cat/ca/ngrp:tvc_web/playlist_DVR.m3u8) - [m3u8 # GEOCAT # 2](https://directes-tv-ca.ccma.cat/ca/ngrp:tvi_web/playlist_DVR.m3u8) - [m3u8 # GEO # 1](https://directes-tv-es.ccma.cat/es/ngrp:tvc_web/playlist_DVR.m3u8) - [m3u8 # GEO # 2](https://directes-tv-es.ccma.cat/es/ngrp:tvi_web/playlist_DVR.m3u8) - [m3u8 # 1](https://directes-tv-int.ccma.cat/int/ngrp:tvc_web/playlist_DVR.m3u8) - [m3u8 # 2](https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/tv3cat/) | [logo](https://graph.facebook.com/tv3/picture?width=200&height=200) | - | - |
 | EITB Basque | [m3u8](https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](https://www.eitb.eus/es/television/eitb-basque/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETBSAT.TV | - |

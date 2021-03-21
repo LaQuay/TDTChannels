@@ -201,7 +201,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trebujena TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Cádiz 24h | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| El Correo de Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Aragón
 
@@ -341,7 +340,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 25 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV de Sant Martí | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TV del Baix Guinardó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 8tv | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Ceuta
 
@@ -409,7 +407,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Tele Sagunto | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 12TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Extremadura
 
@@ -465,7 +462,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Melilla TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Popular TV Melilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El Faro | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### País Vasco
 
@@ -511,11 +507,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| Antena 3 Internacional | - | - | - | - | - | - | - | - |
-| Atreseries Internacional | - | - | - | - | - | - | - | - |
-| Atrescine Internacional | - | - | - | - | - | - | - | - |
-| Cincomas | - | - | - | - | - | - | - | - |
-| ¡Hola! TV | - | - | - | - | - | - | - | - |
 | TVE Internacional | - | - | - | - | - | - | - | - |
 | TV3CAT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ETB SAT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
