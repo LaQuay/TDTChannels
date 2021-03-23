@@ -332,8 +332,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | Telemadrid.TV | - |
-| LaOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | [logo](https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg) | LaOtra.TV | - |
+| Telemadrid | [m3u8](https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | Telemadrid.TV | - |
+| LaOtra | [m3u8](https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | [logo](https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg) | LaOtra.TV | - |
 | La 1 C. de Madrid | [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@14880/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | - | - |
 | Webcam OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106.0 FM](http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.TV | - |
 | Teleganés | [m3u8](https://cdn01.yowi.tv/P18V9163O7/master.m3u8) | [web](http://www.teleganes.com/) | [logo](https://graph.facebook.com/1423419417957760/picture?width=200&height=200) | - | NONAV |
