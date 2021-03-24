@@ -526,7 +526,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106 FM](http://live-ondamadrid.cellnextelecom.net/ondamadrid/radio/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | - | - |
+| OndaMadrid | [m3u8 # 101.3 FM](https://telemadridhls-live-hls.secure.footprint.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106 FM](https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | - | - |
 | Radio Nacional Madrid | [stream](https://crtve-rne1-mad.cast.addradio.de/crtve/rne1/mad/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Madrid | [stream](https://crtve-rne5-mad.cast.addradio.de/crtve/rne5/mad/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | SER Henares | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HENARES.mp3) | [web](https://play.cadenaser.com/emisora/ser_henares/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
