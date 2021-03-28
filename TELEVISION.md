@@ -681,8 +681,6 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Olympic Channel TV | - | [web](https://www.olympicchannel.com/en/live/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=200&height=200) | - | W3U,EMB |
-| Olympic Channel Ceremonies | - | [web](https://www.olympicchannel.com/en/live/video/detail/olympic-ceremonies-channel/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=200&height=200) | - | W3U,EMB |
-| Olympic Channel On Ice | - | [web](https://www.olympicchannel.com/en/live/video/detail/olympic-channel-on-ice/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=200&height=200) | - | W3U,EMB |
 | FIBA | [youtube](https://www.youtube.com/user/FIBAWorld/live) | [web](https://www.livebasketball.tv/home) | [logo](https://graph.facebook.com/FIBA/picture?width=200&height=200) | - | EMB |
 | World Padel Tour | [youtube](https://www.youtube.com/channel/UCK59dYVs3Wgwoe73nDTH6jw/live) | [web](https://www.worldpadeltour.com/en-directo/) | [logo](https://graph.facebook.com/worldpadeltour/picture?width=200&height=200) | - | EMB |
 | Redbull TV | [m3u8 # EN](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](https://graph.facebook.com/RedBull/picture?width=200&height=200) | - | - |
