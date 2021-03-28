@@ -652,6 +652,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | KBS World Korea | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Al Arabiya Emiratos Árabes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ary News Pakistan | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
+| Geo News Pakistan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | India Today | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | New Delhi TV 24x7 India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Republic World TV India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
