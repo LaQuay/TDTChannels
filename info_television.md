@@ -530,10 +530,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NDR Niedersachsen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sky News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTP 1 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| RTP 2 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| RTP 3 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| RTP Madeira Açores Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| RTP 1 Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| RTP 2 Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| RTP 3 Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| RTP Madeira Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| RTP Açores Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | Porto Canal Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTÉ News Irlanda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
