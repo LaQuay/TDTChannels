@@ -580,7 +580,7 @@
 | ATV Perú | [m3u8](https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/master.m3u8) | [web](https://www.atv.pe/envivo) | [logo](https://graph.facebook.com/ATV.pe/picture?width=200&height=200) | - | - |
 | ATV+ Perú | [m3u8](https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/master.m3u8) | [web](https://www.atv.pe/envivo) | [logo](https://graph.facebook.com/atvmasnoticias/picture?width=200&height=200) | - | - |
 | Willax Perú | [stream](https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1) | [web](https://willax.tv/en-vivo/) | [logo](https://graph.facebook.com/willaxtv/picture?width=200&height=200) | - | EMB |
-| TV Perú | [m3u8](https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8) | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200) | - | NONAV |
+| TV Perú | [m3u8](https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8) | [web](https://www.tvperu.gob.pe/play) | [logo](https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200) | - | NONAV |
 | TV Perú Noticias | [m3u8](https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8) | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200) | - | NONAV |
 | Canal IPe Perú | [m3u8](https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8) | [web](https://www.canalipe.tv/) | [logo](https://graph.facebook.com/canalipe/picture?width=200&height=200) | - | NONAV |
 | Congreso de la República del Perú | [youtube](https://www.youtube.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ/live) | [web](https://comunicaciones.congreso.gob.pe/tv-congreso/) | [logo](https://graph.facebook.com/CongresoPeru/picture?width=200&height=200) | - | EMB |
