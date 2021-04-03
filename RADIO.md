@@ -794,7 +794,7 @@
 | Ona Mediterrània | [mp3](http://streaming.enantena.com:8000/onamediterrania128.mp3) | [web](http://www.onamediterrania.cat/) | [logo](https://graph.facebook.com/OnaMediterrani/picture?width=200&height=200) | - | - |
 | Titoieta Ràdio | [stream](http://195.154.33.95:8034/stream) | [web](http://www.titoieta.cat/) | [logo](https://graph.facebook.com/titoieta/picture?width=200&height=200) | - | WICE |
 | Radio Balear.es | [stream](https://server10.emitironline.com:8076/stream) | [web](https://radiobalear.net/radio-en-directo/) | [logo](https://graph.facebook.com/rbalear.interbaleares/picture?width=200&height=200) | - | - |
-| EcoRadio | [stream](http://radioserver7.profesionalhosting.com:8062/;stream) | [web](http://www.ecoradio.es/) | [logo](https://graph.facebook.com/ecoradio.es/picture?width=200&height=200) | - | - |
+| EcoRadio | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg781899?mp=/stream) | [web](http://www.ecoradio.es/) | [logo](https://graph.facebook.com/ecoradio.es/picture?width=200&height=200) | - | - |
 | Isla 106 | [stream](https://stream.isla106.com/isla106) | [web](https://www.isla106.com/) | [logo](https://graph.facebook.com/Isla106Radio/picture?width=200&height=200) | - | - |
 | Radio Murta | [stream](http://91.121.156.27:8013/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=200&height=200) | - | WICE |
 | Dale Caña FM | [mp3](https://broadcast.radioponiente.org:8032/;mp3) | [web](https://www.facebook.com/dcfmallorca/) | [logo](https://graph.facebook.com/dcfmallorca/picture?width=200&height=200) | - | - |
@@ -859,9 +859,9 @@
 | Bizkaia Irratia | [stream](https://nerbioi.radiopopular.eus/bizkaiairratia2) | [web](http://www.bizkaiairratia.eus/) | [logo](https://graph.facebook.com/BizkaiaIrratia/picture?width=200&height=200) | - | - |
 | Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com/) | [logo](https://graph.facebook.com/radioformulahit/picture?width=200&height=200) | - | - |
 | Radio Popular - Herri Irratia | [stream](https://nerbioi.radiopopular.eus/radiopopular1) | [web](https://radiopopular.com/) | [logo](https://graph.facebook.com/herriirratia/picture?width=200&height=200) | - | - |
-| Santurtzi Irratia | [mp3](http://212.83.151.18:8296/;.mp3) | [web](https://www.stzirratia.com/) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
-| Bilbo Hiria Irratia | [stream](http://eu.radioboss.fm:8060/stream) | [web](https://www.bilbohiria.eus/zuzen1/) | [logo](https://graph.facebook.com/bilbohiria/picture?width=200&height=200) | - | - |
-| Mozoilo Irratia | [mp3](http://195.154.33.95:8042/mozoiloi.mp3) | [web](http://www.gdkoirratia.com/PLAY/) | [logo](https://graph.facebook.com/GaldakaokoIrratia/picture?width=200&height=200) | - | - |
+| Santurtzi Irratia | [stream](https://radioserver11.profesionalhosting.com/proxy/stzirratia?mp=/stream) | [web](https://www.stzirratia.com/) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
+| Bilbo Hiria Irratia | [stream](https://streaming.radiocast.pro:8443/bilbohiria) | [web](https://www.bilbohiria.eus/zuzen1/) | [logo](https://graph.facebook.com/bilbohiria/picture?width=200&height=200) | - | - |
+| Mozoilo Irratia | [stream](https://s3streamingradio.desafiohosting.com:9008/stream) | [web](http://mozoiloirratia.eus/play/) | [logo](https://graph.facebook.com/GaldakaokoIrratia/picture?width=200&height=200) | - | WICE |
 | Naiz Irratia | [mp3](https://zuzenean.naiz.eus/naiz_irratia.mp3) | [web](https://www.naiz.eus/zuzenean.html) | [logo](https://graph.facebook.com/NAIZirratia/picture?width=200&height=200) | - | - |
 | FM Musical | [stream](https://s3.free-shoutcast.com/stream/18156) | [web](https://fm-musical.com/) | [logo](https://graph.facebook.com/99fmmusical/picture?width=200&height=200) | - | - |
 | Durango Irratia | [mp3](https://durangoirratia.streaming-pro.com:6006/durangoirratia.mp3) | [web](http://www.durango-udala.net/durangoirratia) | [logo](https://pbs.twimg.com/profile_images/674943257789505537/0P8QkXHx_200x200.jpg) | - | - |
