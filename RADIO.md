@@ -271,7 +271,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canarias Radio | [m3u8](http://streaming2.mad.idec.net/rtvcradio/rtvcradio.drb.stream/playlist.m3u8) | [web](http://www.rtvc.es/canariasradio/directo.aspx) | [logo](https://graph.facebook.com/CanariasRadioLaAutonomica/picture?width=200&height=200) | - | - |
+| Canarias Radio | [mp3](https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3) | [web](http://www.rtvc.es/canariasradio/directo.aspx) | [logo](https://graph.facebook.com/CanariasRadioLaAutonomica/picture?width=200&height=200) | - | - |
 | Radio Nacional Canarias | [stream](https://crtve-rne1-cnr.cast.addradio.de/crtve/rne1/cnr/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Canarias - Las Palmas | [stream](https://crtve-rne5-lpa.cast.addradio.de/crtve/rne5/lpa/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | Radio 5 Canarias - Santa Cruz de Tenerife | [stream](https://crtve-rne5-ten.cast.addradio.de/crtve/rne5/ten/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
