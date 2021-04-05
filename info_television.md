@@ -405,6 +405,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | El Toro Valencia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele Sagunto | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Televisión de Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
