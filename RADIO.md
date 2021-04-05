@@ -645,6 +645,7 @@
 | Torrevieja Radio | [stream](https://sonicpanel.globalstream.pro:10973/;) | [web](https://torreviejaradio.com/) | [logo](https://graph.facebook.com/TorreviejaRadio107.1/picture?width=200&height=200) | - | - |
 | Alzira Ràdio | [mp3](https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3) | [web](https://alziraradio.com/alzira-radio-en-directe/) | [logo](https://graph.facebook.com/alziraradio/picture?width=200&height=200) | - | - |
 | Play Radio Valencia | [stream](http://srv1.multiesfera.com:8002/stream) | [web](https://playradio.es/) | [logo](https://graph.facebook.com/Playradiovalencia/picture?width=200&height=200) | - | - |
+| La Maxiradio Valencia | [mp3](http://174.138.13.113:8040/WEBAPP.mp3) | [web](https://www.lamaxiradio.es/) | [logo](https://pbs.twimg.com/profile_images/925810149377429504/cBWr_SH6_200x200.jpg) | - | - |
 | Relax FM | [stream](https://streamingv2.shoutcast.com/relax-fm) | [web](https://relaxfm.es/) | [logo](https://graph.facebook.com/relaxfmoficial/picture?width=200&height=200) | - | - |
 | Activa FM | [mp3](https://stream.mediasector.es/radio/8000/activafm.mp3) | [web](https://emisorasmusicales.net/activa/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
 | + Activa | [mp3](https://stream.mediasector.es/radio/8110/mas-activa.mp3) | [web](https://www.emisorasmusicales.net/emisoras/mas-activa/) | [logo](https://i1.wp.com/www.emisorasmusicales.net/inc/uploads/2020/05/mas-activa-e1590581441943.png?resize=200%2C200) | - | - |
@@ -669,7 +670,6 @@
 | ON Radio | [mp3](https://streaming-audio-1.magentalabs.es:8100/onradio.mp3) | [web](https://www.onradio.fm/escuchanos/) | [logo](https://graph.facebook.com/onradio.fm/picture?width=200&height=200) | - | - |
 | Vega Baja Radio | [stream](https://node-21.zeno.fm/3xnvzk9dztzuv) | [web](https://vegabajaradio.com/) | [logo](https://graph.facebook.com/vegabajaradio/picture?width=200&height=200) | - | - |
 | Radio 7 Valencia | [m3u8](https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247024/027/playlist.m3u8) | [web](https://radiosiete.com/emision-en-directo/) | [logo](https://graph.facebook.com/radiosiete/picture?width=200&height=200) | - | - |
-| La Maxiradio Valencia | [mp3](http://174.138.13.113:8040/WEBAPP.mp3) | [web](https://www.lamaxiradio.es/) | [logo](https://pbs.twimg.com/profile_images/925810149377429504/cBWr_SH6_200x200.jpg) | - | - |
 | Ràdio Klara | [stream](https://cervera.eldialdigital.com:21111/stream) | [web](http://www.radioklara.org/) | [logo](https://graph.facebook.com/radioklara/picture?width=200&height=200) | - | WICE |
 | SOL FM Radio | [stream](https://eu1.lhdserver.es:9135/stream) | [web](http://www.solfm.com/) | [logo](https://graph.facebook.com/solfmradio/picture?width=200&height=200) | - | - |
 | Xtra FM | [stream](https://streams.dynamicradiogroup.com/xtrafm) | [web](https://xtrafm.es/player/#South) | [logo](https://graph.facebook.com/xtrafmcostablanca/picture?width=200&height=200) | - | WICE |
