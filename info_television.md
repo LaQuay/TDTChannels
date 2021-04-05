@@ -707,7 +707,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Meridiano Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Stadium USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| MsMotor TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| MsMotor TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | OnlyMotors | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Harley Davidson TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Harley Davidson Racing TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
