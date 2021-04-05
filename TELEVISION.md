@@ -368,7 +368,6 @@
 | TV Castelló | [stream](https://player.twitch.tv/?channel=tvcs&parent=tdtchannels.com) | [web](https://tvcs.tv/en-directe/) | [logo](https://graph.facebook.com/TelevisiondeCastellon/picture?width=200&height=200) | - | EMB |
 | TV Artequatre | [m3u8](https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8) | [web](http://www.tv-a.es/) | [logo](https://graph.facebook.com/tvArtequatre/picture?width=200&height=200) | - | NONAV |
 | Levante TV | [m3u8](https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8) | [web](http://www.levantetv.es/) | [logo](https://graph.facebook.com/levantetv/picture?width=200&height=200) | - | - |
-| Televisión de Alicante | [m3u8](http://46.26.171.189:8081/hls/emisionalicante.m3u8) | [web](http://www.televisiondealicante.es/) | [logo](https://graph.facebook.com/televisiondealicante/picture?width=200&height=200) | - | NONAV |
 | TV de San Vicente | [m3u8](http://46.26.171.189:8081/hls/emisionsanvicente.m3u8) | [web](http://alacarta.televisiondesanvicente.es/endirecto/) | [logo](https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200) | - | - |
 | TV Vega Baja | [m3u8](https://streaming.tvt-datos.es:8080/hls/tvb/live.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | - |
 | TV 4 Vall de Uxó | [m3u8](https://limited09.todostreaming.es/live/tarson-livestream.m3u8) | [web](https://teve4lavall.com/) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=200&height=200) | - | - |
@@ -385,6 +384,7 @@
 | El Toro Valencia TV | [m3u8](https://streaming-audio-1.magentalabs.es:19360/eltorotv/eltorotv.m3u8) | [web](http://television.intereconomiavalencia.com/) | [logo](https://graph.facebook.com/radiointereconomiavalencia1071/picture?width=200&height=200) | - | - |
 | Onda Valencia | [m3u8](https://streaming-audio-1.magentalabs.es:19360/ondavalencia/ondavalencia.m3u8) | [web](http://www.ondavalencia.es/en-directo/onda-valencia-tv) | [logo](https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200) | - | - |
 | Tele Sagunto | [m3u8](https://5940924978228.streamlock.net/Directo1_1/smil:Directo1_1.smil/playlist.m3u8) | [web](https://telesagunto.com/directo) | [logo](https://graph.facebook.com/TeleSagunto/picture?width=200&height=200) | - | - |
+| Televisión de Alicante | [m3u8](http://46.26.171.189:8081/hls/emisionalicante.m3u8) | [web](http://www.televisiondealicante.es/) | [logo](https://graph.facebook.com/televisiondealicante/picture?width=200&height=200) | - | NONAV |
 | Une Vinalopó | [m3u8](http://78.41.83.88:8880/hls/unesd.m3u8) | [web](https://www.unevinalopo.es/directo/) | [logo](https://graph.facebook.com/UneVinalopo/picture?width=200&height=200) | - | - |
 | Corts Valencianes | [m3u8](https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8) | [web](https://mediateca.cortsvalencianes.es/library/lives/2) | [logo](https://graph.facebook.com/cortsval/picture?width=200&height=200) | - | - |
 
