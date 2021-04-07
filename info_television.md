@@ -632,7 +632,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Multimedios Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Nex TV Panamá | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| CNN Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CNN Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TV Cultura Brasil | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | SBT Interior Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Record News Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
