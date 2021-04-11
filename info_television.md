@@ -801,7 +801,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La Mega Mundial USA | - | - | - | - | - | - | - | - |
 | Telemúsica Colombia | - | - | - | - | - | - | - | - |
 | Music Top Argentina | - | - | - | - | - | - | - | - |
-| Latinos 1 TV Suiza | - | - | - | - | - | - | - | - |
 | Portal Foxmix Colombia | - | - | - | - | - | - | - | - |
 | Melody Channel Colombia | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
