@@ -436,6 +436,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | IB3 Global | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TEF | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Fibwi | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### La Rioja
 

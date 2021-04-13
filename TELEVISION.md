@@ -271,7 +271,7 @@
 | CCMA Exclusiu 2 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/cat/ngrp:oca2_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:oca2_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/exclusiu/oca2/) | [logo](https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg) | - | - |
 | La 1 Catalunya | [m3u8 # 1](https://rtvelivestream.akamaized.net/la1_cat_main_dvr.m3u8) - [m3u8 # 2](https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@117262/master.m3u8) - [m3u8 # 3](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8) | [web](https://www.rtve.es/television/catalunya/directo/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1_CAT.TV | - |
 | La 2 Catalunya | [m3u8 # 1](https://rtvelivestream.akamaized.net/la2_cat_main_dvr.m3u8) - [m3u8 # 2](https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@113085/master.m3u8) | [web](https://www.rtve.es/television/catalunya/directo/?assetid=3987218) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2_CAT.TV | - |
-| 24h Catalunya | [m3u8 # 1](https://rtvelivestream.akamaized.net/24h_cat_main_dvr.m3u8) | [web](https://www.rtve.es/television/catalunya/directo/?assetid=4952053) | [logo](https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png) | - | - |
+| 24h Catalunya | [m3u8](https://rtvelivestream.akamaized.net/24h_cat_main_dvr.m3u8) | [web](https://www.rtve.es/television/catalunya/directo/?assetid=4952053) | [logo](https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png) | - | - |
 | TV3 Càmeres | [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/el-temps/cameres/) | [logo](https://graph.facebook.com/eltempsTV3/picture?width=200&height=200) | - | - |
 | Bon Dia TV | [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8) | [web](https://www.ccma.cat/bondiatv/) | [logo](https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png) | BonDiaTV_CAT.TV | - |
 | Canal Parlament | [m3u8](https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/master.m3u8) | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) | [logo](https://graph.facebook.com/parlamentcat/picture?width=200&height=200) | - | - |
@@ -416,6 +416,7 @@
 | IB3 Global | [youtube](https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live) | [web](http://ib3tv.com/directe) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | IB3.TV | EMB |
 | TEF | [m3u8](https://cdn01.yowi.tv/36MLCJRAR2/36MLCJRAR2.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](https://graph.facebook.com/TEFTV/picture?width=200&height=200) | - | NONAV |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/playlist.m3u8) | [web](http://canal4televisio.com/en-directo/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=200&height=200) | - | - |
+| Fibwi | [m3u8](http://109.232.71.249/fibwiLIVE_movil/index.m3u8) | [web](https://fibwiradio.com/) | [logo](https://graph.facebook.com/GrupoFibwi/picture?width=200&height=200) | Fibwi.TV | - |
 
 ### La Rioja
 
