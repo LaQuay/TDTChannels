@@ -657,8 +657,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Express News Pakistan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | India Today | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | New Delhi TV 24x7 India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Times Now India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Republic World TV India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| WION India | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Hispan TV Iran | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Channel NewsAsia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVBS News Taiwán | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
