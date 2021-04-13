@@ -21,8 +21,8 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Antena 3 | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Cuatro | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Telecinco | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
@@ -127,7 +127,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 1 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Algeciras | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Almería | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
@@ -208,7 +207,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | - | - | - |
 | Aragón TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 1 Aragón | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Huesca TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Calamocha TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal 25 Barbastro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -240,7 +238,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Cantabria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| La 1 Cantabria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Popular TV Cantabria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Castilla-La Mancha
@@ -248,7 +245,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | CMM | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 1 Castilla-La Mancha | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Hellín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Guadalajara Media | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Guada TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -268,7 +264,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | La 7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 1 Castilla y León | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 8 Avila | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 8 Bierzo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 8 Burgos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -355,7 +350,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Telemadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
 | LaOtra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
-| La 1 C. de Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Webcam OndaMadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleganés | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -369,7 +363,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Navarra TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 1 C. Foral de Navarra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleRibera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Parlamento de Navarra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -378,7 +371,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | À Punt | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 1 C. Valenciana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7 TeleValencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleElx | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Intercomarcal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -414,7 +406,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Canal Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | NONAV |
-| La 1 Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Extremeña | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Zafra TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cáceres Tevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -431,7 +422,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG Cultura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Momentos G | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Eventos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 1 Galicia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleVigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemiño | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -444,7 +434,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | IB3 Global | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| La 1 Illes Balears | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TEF | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -453,7 +442,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | TV Rioja | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| La 1 La Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7 La Rioja | - | - | - | - | - | - | - | - |
 | Parlamento de La Rioja | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
@@ -472,7 +460,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | ETB 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ETB Eventos 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ETB Eventos 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 1 País Vasco | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Hamaika TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele 7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Goiena Eus | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -489,7 +476,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | TPA7 | ✔! | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | Para Android, en pruebas |
-| La 1 P. de Asturias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | EsAsturiasTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -498,7 +484,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | 7 R. de Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 1 R. de Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleArchena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Popular TV Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 6 Totana | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
