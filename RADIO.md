@@ -251,7 +251,6 @@
 | Ebro FM | [stream](http://s2.prositel.net:7010/ebrofm) | [web](https://diarioaragones.com/) | [logo](https://pbs.twimg.com/profile_images/522841077712044032/6hH3W4_F_200x200.jpeg) | - | - |
 | Rumba FM | [mp3](http://streaming.hdserver.biz:9348/;mp3) | [web](http://www.rumba93.es/) | [logo](https://graph.facebook.com/RumbaFMZaragoza/picture?width=200&height=200) | - | - |
 | Radio Calamocha | [mp3](http://178.32.221.43/ondacerocalamocha.mp3) | [web](https://www.radiocalamocha.es/player.html) | [logo](https://graph.facebook.com/radiocalamocha/picture?width=200&height=200) | - | - |
-| Tea FM | [mp3](http://cervera.eldialdigital.com:8052/;stream.mp3) | [web](http://www.teafm.net/) | [logo](https://graph.facebook.com/teafm/picture?width=200&height=200) | - | - |
 | Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=200&height=200) | - | - |
 | Radio Huesca Aínsa | [stream](https://streamingradio.radiohuesca.com:8071/radiobarbastro) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/ainsasobrarbeayuntamiento/picture?width=200&height=200) | - | WICE |
 | Radio Huesca Barbastro | [stream](https://streamingradio.radiohuesca.com:8071/radiobarbastro) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/RadioBarbastroyAinsa/picture?width=200&height=200) | - | WICE |
@@ -266,6 +265,7 @@
 | ZFM Zaragoza | [mp3](http://streaming.zarastudio.es/zfm.mp3) | [web](http://www.zaragozafm.es/player/) | [logo](https://graph.facebook.com/zfmzaragoza/picture?width=200&height=200) | - | - |
 | Hit Pirineos | [stream](http://stm1.emiteonline.com:8022/hitpirineos) | [web](http://www.hitradiofm.es/hitpirineos.html) | [logo](https://graph.facebook.com/hitpirineos/picture?width=200&height=200) | - | WICE |
 | Radio Ribagorza | [stream](http://85.25.217.22:8210/stream) | [web](http://www.radioribagorza.es/radioonline.html) | [logo](https://us0-cdn.onlineradiobox.com/img/logo/8/54408.v2.png) | - | - |
+| Tea FM | [stream](https://cervera.eldialdigital.com:21161/stream) | [web](http://www.teafm.net/) | [logo](https://graph.facebook.com/teafm/picture?width=200&height=200) | - | - |
 
 ### Canarias
 
