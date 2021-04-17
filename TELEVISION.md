@@ -321,7 +321,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Ceuta TV | [m3u8](https://secure.todostreaming.es/live/anguloce-livestream.m3u8) | [web](http://ceutatv.com/pag/ceuta-tv-en-directo/) | [logo](https://graph.facebook.com/CeutaTV/picture?width=200&height=200) | - | - |
-| RTVCE | [m3u8](https://cdnlive.shooowit.net/rtvcelive/smil:channel2.smil/playlist.m3u8) | [web](https://www.rtvce.es/seccion/television/) | [logo](https://graph.facebook.com/RTVCE/picture?width=200&height=200) | - | - |
+| RTVCE | [m3u8](https://cdnlive.shooowit.net/rtvcelive/channel1.smil/playlist.m3u8) | [web](https://www.rtvce.es/seccion/television/) | [logo](https://graph.facebook.com/RTVCE/picture?width=200&height=200) | - | - |
 | El Faro | [youtube](https://www.youtube.com/channel/UCJkirQzX68T-DiLB4-YP-TA/live) | [web](https://farotv.es/) | [logo](https://graph.facebook.com/ElFarodeCeuta/picture?width=200&height=200) | - | EMB |
 
 ### C. de Madrid
