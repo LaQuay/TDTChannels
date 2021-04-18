@@ -638,6 +638,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Arirang TV Korea | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | KBS World Korea | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Al Arabiya Emiratos Árabes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Dubai One Emiratos Árabes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ary News Pakistan | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Geo News Pakistan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Express News Pakistan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
