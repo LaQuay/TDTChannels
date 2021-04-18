@@ -180,6 +180,7 @@
 | Cancionero TV | [m3u8](http://89.140.229.4/hls/cancionero.m3u8) | [web](http://www.cancionero.es/tv/) | [logo](https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png) | - | - |
 | Trebujena TV | [m3u8](http://212.104.160.156:1935/live/trebujenatv2/master.m3u8) | [web](http://trebujena.tv/) | [logo](https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg) | - | - |
 | Onda Cádiz 24h | [youtube](https://www.youtube.com/channel/UCFKhEEt4pngMyM0srL9rPFA/live) | [web](https://ondacadiz.es/television-directo) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | - | EMB |
+| Parlamento de Andalucía | [m3u8 # 1](http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8) - [m3u8 # 2](http://193.147.254.64:1935/realizacion2/realizacion2/playlist.m3u8) - [m3u8 # 3](http://193.147.254.64:1935/realizacion3/realizacion3/playlist.m3u8) - [m3u8 # 4](http://193.147.254.64:1935/realizacion4/realizacion4/playlist.m3u8) | [web](https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/actividadparlamentaria/parlamentoabierto/sesionesendirecto/programacion.do) | [logo](https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200) | - | - |
 
 ### Aragón
 
