@@ -397,7 +397,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro Valencia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Tele Sagunto | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televisión de Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
