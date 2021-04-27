@@ -155,6 +155,7 @@
 | Marbella TV | [m3u8](https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8) | [web](https://rtvmarbella.tv/tv-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=200&height=200) | RTVMarbella.TV | - |
 | Torrevisión | [m3u8](https://api.new.livestream.com/accounts/2614936/events/1848989/live.m3u8) | [web](https://torremolinostv.com/tv-en-directo/) | [logo](https://graph.facebook.com/torremolinostv/picture?width=200&height=200) | - | NONAV |
 | Telequivir | [youtube](https://www.youtube.com/channel/UCYFhCyhYMvNTR7hWrLUIGdg/live) | [web](http://www.telequivir.com/) | [logo](https://graph.facebook.com/telequivirtv/picture?width=200&height=200) | - | EMB |
+| Telemotril | [m3u8](https://5940924978228.streamlock.net/8431/8431/playlist.m3u8) | [web](https://telemotril.com/telemotril-en-vivo/) | [logo](https://graph.facebook.com/telemotriltv/picture?width=200&height=200) | - | NONAV |
 | Diez TV | [m3u8](https://streaming.cloud.innovasur.es/mmj/index.m3u8) | [web](https://www.dieztv.es/) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | - | - |
 | RTV Tarifa | [youtube](https://www.youtube.com/channel/UCx5_sA41mFHsZio4umTH3Qw/live) | [web](https://rtvtarifa.com/) | [logo](https://graph.facebook.com/RTVTARIFA/picture?width=200&height=200) | - | EMB |
 | 9 la Loma TV | [m3u8](https://9laloma.tv/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=200&height=200) | 9LaLoma.TV | - |
