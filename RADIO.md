@@ -26,8 +26,8 @@
 | Kiss FM | [mp3](https://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](https://kissfm.es/player/) | [logo](https://graph.facebook.com/kissfm.es/picture?width=200&height=200) | - | - |
 | Radiolé | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3) | [web](https://play.radiole.com/) | [logo](https://graph.facebook.com/radiole/picture?width=200&height=200) | - | - |
 | Canal Fiesta Radio | [m3u8](https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8) | [web](http://www.canalsur.es/radio/directos/portada-directoradio-1160300.html?directo=player_fiesta) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
-| Flaix FM | [mp3](https://flaixfm.streaming-pro.com:8001/flaixfm.mp3) | [web](https://www.flaixfm.cat/) | [logo](https://graph.facebook.com/flaixfm/picture?width=200&height=200) | - | - |
-| Flaixbac | [mp3](https://flaixbac.streaming-pro.com:8007/flaixbac.mp3) | [web](https://www.flaixbac.cat/) | [logo](https://graph.facebook.com/flaixbac/picture?width=200&height=200) | - | - |
+| Flaix FM | [mp3](https://flaixfm.streaming-pro.com:8001/flaixfm.mp3) | [web](https://www.flaixfm.cat/) | [logo](https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg) | - | - |
+| Flaixbac | [mp3](https://flaixbac.streaming-pro.com:8007/flaixbac.mp3) | [web](https://www.flaixbac.cat/) | [logo](https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg) | - | - |
 | RAC 105 | [stream](https://streaming.rac105.cat/) - [nsv](http://rac105.radiocat.net/;*.nsv) | [web](https://www.rac105.cat) | [logo](https://graph.facebook.com/rac105/picture?width=200&height=200) | - | - |
 | Ràdio Tele-Taxi | [mp3](https://radiott-web.streaming-pro.com:6103/radiott.mp3) | [web](https://www.radioteletaxi.com/reproductor/) | [logo](https://graph.facebook.com/radioteletaxi/picture?width=200&height=200) | - | - |
 | Hit FM | [mp3](https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3) | [web](https://www.hitfm.es/) | [logo](https://graph.facebook.com/hitfm.es/picture?width=200&height=200) | - | - |
@@ -897,7 +897,7 @@
 | Carrusel FM | [mp3](http://server10.emitironline.com:8921/radio?1584744975456.mp3) | [web](http://www.carruselfm.com/) | [logo](https://graph.facebook.com/467719623356931/picture?width=200&height=200) | - | - |
 | Master FM | [stream](https://radios.lamaster.es:8000/asturias) | [web](https://lamaster.es/asturias/) | [logo](https://graph.facebook.com/masterfmasturias/picture?width=200&height=200) | - | - |
 | Onda Peñes | [mp3](http://5.135.183.124:9279/stream?type=.mp3) | [web](http://www.gaxarte.com) | [logo](https://graph.facebook.com/onda.penes/picture?width=200&height=200) | - | - |
-| Radio Ujo | [stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | [logo](https://graph.facebook.com/radioujo/picture?width=200&height=200) | - | WICE |
+| Radio Ujo | [stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | [logo](https://pbs.twimg.com/profile_images/822520464836849664/C124fpj__200x200.jpg) | - | WICE |
 | Radio QK | [mp3](http://34.77.177.144:8000/radioqk_master.mp3) | [web](https://www.radioqk.org/) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=200&height=200) | - | - |
 | Radio San Martín | [stream](https://stream.zeno.fm/rd9m3ynpeg0uv/;) | [web](https://sanmartinradio.blogspot.com/) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=200&height=200) | - | - |
 | La Cuenca Radio | [stream](https://node-11.zeno.fm/715s8v2bxzzuv) | [web](https://lacuencadelnalon.jimdofree.com/) | [logo](https://graph.facebook.com/lacuencafm/picture?width=200&height=200) | - | - |
