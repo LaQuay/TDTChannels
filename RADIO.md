@@ -78,6 +78,7 @@
 | Babyradio - Nanas | [stream](http://sd396babyradio1.lcinternet.com:8004/live) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | WICE |
 | Babyradio - Cuentos infantiles | [stream](http://sd396babyradio1.lcinternet.com:8008/live) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | WICE |
 | Dial Mini | [aac](https://21233.live.streamtheworld.com/CADENADIAL_04AAC.aac) | [web](https://play.cadenadial.com/emisora/dial_babyradio) | [logo](https://play.cadenadial.com/build/assets/cadenadialespana/img/images-radios/Dial_Mini_Radio.png) | - | - |
+| Jonvlogs Mini | [aac](http://stream.zeno.fm/1rqf10hyw7zuv.mp3 ) | [web](https://jonvlogs21.es/radio-en-directo/) | [logo](https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQiuy1oggMCxIOU3RhdGlvblByb2ZpbGUYgICQ-8aK6wsMogEEemVubw/image/%3Fresize=500x500&v=1) | - | - |
 
 ## Deportivas
 
