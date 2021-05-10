@@ -714,7 +714,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Mola TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Gigante España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Urban Revolution España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| EuroLatina TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| EuroLatina TV España | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
 | Radio 105 Italia | - | - | - | - | - | - | - | - |
 | Virgin Radio Italia | - | - | - | - | - | - | - | - |
