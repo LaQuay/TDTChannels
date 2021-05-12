@@ -733,6 +733,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | ON TV Portugal | - | - | - | - | - | - | - | - |
 | 1 Music Hungria | - | - | - | - | - | - | - | - |
 | Hit Music Channel | - | - | - | - | - | - | - | - |
+| Gotv Austria | - | - | - | - | - | - | - | - |
 | V2Beat TV | - | - | - | - | - | - | - | - |
 | The K-POP Korea | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |

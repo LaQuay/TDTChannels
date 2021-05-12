@@ -714,6 +714,7 @@
 | ON TV Portugal | [m3u8](https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8) | [web](https://www.onfm.pt/) | [logo](https://graph.facebook.com/ONFM93.8/picture?width=200&height=200) | - | - |
 | 1 Music Hungria | [m3u8](http://1music.hu/1music.m3u8) | [web](http://1music.hu/live) | [logo](https://graph.facebook.com/1music/picture?width=200&height=200) | - | NONAV |
 | Hit Music Hungria | [m3u8](http://hitmusic.hu/hitmusic.m3u8) | [web](http://hitmusic.hu/) | [logo](https://graph.facebook.com/hitmusichu/picture?width=200&height=200) | - | NONAV |
+| Gotv TV Austria | [m3u8](https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8) | [web](http://www.gotv.at/stream/) | [logo](https://graph.facebook.com/GOTVat/picture?width=200&height=200) | - | NONAV |
 | V2Beat TV | [m3u8 # EN](https://abr.de1se01.v2beat.live/playlist.m3u8) | [web](https://www.vibee.tv/webpage-player/) | [logo](https://graph.facebook.com/vtwobeat/picture?width=200&height=200) | - | - |
 | The K-POP Korea | [youtube # 1](https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live) - [youtube # 2](https://www.youtube.com/channel/UCITH7URIRpb8yoshUwGE9jg/live) | [web](https://mtv.sbs.co.kr/channel.html) | [logo](https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_200x200.jpg) | - | EMB |
 | Power TV Turquía | [m3u8](https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8) | [web](https://www.powerapp.com.tr/tvs/power-tvs/powertv/) | [logo](https://graph.facebook.com/powerapp/picture?width=200&height=200) | - | - |
