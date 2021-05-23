@@ -100,6 +100,7 @@
 | Radio 3 | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/rne_c201_lv3_aosv4_gl0.m3u8) | [web](https://www.rtve.es/radio/radio3/directo/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | - | - |
 | Radio 5 | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/radio/directo/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | Del 40 al 1 | [m3u8](https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](https://graph.facebook.com/del40al1/picture?width=200&height=200) | - | - |
+| Onda Cero Eventos | [m3u8 # 1](https://live-estudio.ondacero.es/estudio_oc-pull/video/chunklist.m3u8)- [m3u8 # 2](https://live-estudio.ondacero.es/estudio_oc-pull/video/master.m3u8) | [web](https://www.ondacero.es/) | [logo](https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-1/p200x200/127859290_10158876073329028_945144188820582431_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0c64ff&_nc_ohc=Z74ztf2gHA8AX_gcwjg&_nc_ht=scontent-mad1-1.xx&tp=6&oh=25003d21a06eee9986a5d187f1a2c0f0&oe=60B6017D) | - | - |
 
 ## Autonómicos
 
