@@ -129,19 +129,19 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Algeciras | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Almería | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Bahía | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Córdoba | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Costa Noroeste | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Granada | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Huelva | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Jaen | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Jerez | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Málaga | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Marbella | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Sevilla | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Sierra | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Algeciras | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - Almería | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - Bahía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - Costa Noroeste | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - Huelv | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - Jaen | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - Jerez | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - Sevilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - Sierra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Jerez TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
