@@ -297,7 +297,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 24h Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV3 Càmeres | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bon Dia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Parlament | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Parlament | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | betevé | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Fibracat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | teve.cat | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
