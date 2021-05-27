@@ -803,16 +803,16 @@
 | Radio OneMallorca | [stream](http://80.32.132.126:8000/;) | [web](http://www.radioonemallorca.com/) | [logo](https://graph.facebook.com/RadioOneMallorca/picture?width=200&height=200) | - | - |
 | Mallorca Sunshine Radio | [mp3](https://stream2.inselradio.com/high.sunshine.mp3) | [web](https://www.mallorcasunshineradio.com/player/) | [logo](https://graph.facebook.com/MallorcaSunshineRadio/picture?width=200&height=200) | - | - |
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com/) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=200&height=200) | - | - |
+| Ràdioilla Formentera | [stream](https://srv6021.dns-lcinternet.com:10220/stream) | [web](https://player.lcinternet.es/v9/player/index.php#Radio%20Illa%20Formentera%20HQ) | [logo](https://graph.facebook.com/radioilla.formentera/picture?width=200&height=200) | - | WICE | 
 | Playasol Ibiza | [stream](https://edge.mixlr.com/channel/udesp) | [web](https://www.playasolibizaradio.fm/es/index.html) | [logo](https://graph.facebook.com/PlayasolIbizaRadio/picture?width=200&height=200) | - | - |
 | Ona Mediterrània | [mp3](http://streaming.enantena.com:8000/onamediterrania128.mp3) | [web](http://www.onamediterrania.cat/) | [logo](https://graph.facebook.com/OnaMediterrani/picture?width=200&height=200) | - | - |
 | Titoieta Ràdio | [stream](http://195.154.33.95:8034/stream) | [web](http://www.titoieta.cat/) | [logo](https://graph.facebook.com/titoieta/picture?width=200&height=200) | - | WICE |
 | Radio Balear.es | [stream](https://server10.emitironline.com:8076/stream) | [web](https://radiobalear.net/radio-en-directo/) | [logo](https://graph.facebook.com/rbalear.interbaleares/picture?width=200&height=200) | - | - |
 | EcoRadio | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg781899?mp=/stream) | [web](http://www.ecoradio.es/) | [logo](https://graph.facebook.com/ecoradio.es/picture?width=200&height=200) | - | - |
+| Formentera Radio | [stream](http://srv0411.lcinternet.com:8012/stream) | [web](http://player.lcinternet.es/v9/cc654_id977/) | [logo](https://graph.facebook.com/FormenteraRadio/picture?width=200&height=200) | - | WICE |
 | Isla 106 | [stream](https://stream.isla106.com/isla106) | [web](https://www.isla106.com/) | [logo](https://graph.facebook.com/Isla106Radio/picture?width=200&height=200) | - | - |
 | Radio Murta | [stream](http://91.121.156.27:8013/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=200&height=200) | - | WICE |
 | Dale Caña FM | [mp3](https://broadcast.radioponiente.org:8032/;mp3) | [web](https://www.facebook.com/dcfmallorca/) | [logo](https://graph.facebook.com/dcfmallorca/picture?width=200&height=200) | - | - |
-| Radioilla | [stream](https://srv6021.dns-lcinternet.com:10220/stream) | [web](https://player.lcinternet.es/v9/player/index.php#Radio%20Illa%20Formentera%20HQ) | [logo](https://graph.facebook.com/radioilla.formentera/picture?width=200&height=200) | - | WICE | 
-| Formentera Radio | [stream](http://srv0411.lcinternet.com:8012/stream) | [web](http://player.lcinternet.es/v9/cc654_id977/) | [logo](https://graph.facebook.com/FormenteraRadio/picture?width=200&height=200) | - | WICE |
 
 ### La Rioja
 
