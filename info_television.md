@@ -337,7 +337,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | 25 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV de Sant Martí | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| TV del Baix Guinardó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Ceuta
 
