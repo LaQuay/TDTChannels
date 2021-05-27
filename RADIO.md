@@ -584,7 +584,6 @@
 | - | - | - | - | - | - |
 | Radio Nacional Navarra | [stream](https://crtve-rne1-nav.cast.addradio.de/crtve/rne1/nav/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Navarra | [stream](https://crtve-rne5-nav.cast.addradio.de/crtve/rne5/nav/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
-| Bit FM Pamplona | [stream](http://server1.emitironline.com:8024/) | [web](https://www.bitfm.es/bitfm/) | [logo](https://graph.facebook.com/bitfm.es/picture?width=200&height=200) | - | - |
 | SER Pamplona | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_PAMPLONA.mp3) | [web](https://play.cadenaser.com/emisora/radio_pamplona/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Tafalla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TAFALLA.mp3) | [web](https://play.cadenaser.com/emisora/radio_tafalla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Tudela | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TUDELA.mp3) | [web](https://play.cadenaser.com/emisora/ser_tudela/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
