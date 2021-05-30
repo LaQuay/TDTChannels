@@ -520,7 +520,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| FOX News USA | [youtube # EN](https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/live) | [web](https://www.foxnews.com/) | [logo](https://graph.facebook.com/FOXNews/picture?width=200&height=200) | - | EMB |
+| FOX News USA | [m3u8 # EN](https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8) | [web](https://www.foxnews.com/) | [logo](https://graph.facebook.com/FOXNews/picture?width=200&height=200) | - | EMB |
 | ABC News USA | [m3u8 # EN](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | [web](https://abcnews.go.com/Live/) | [logo](https://graph.facebook.com/ABCNews/picture?width=200&height=200) | - | - |
 | NBC News USA | [youtube # EN](https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live) | [web](https://www.nbcnews.com/now) | [logo](https://graph.facebook.com/NBCNews/picture?width=200&height=200) | - | EMB |
 | CBS News USA | [m3u8 # EN](https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | [logo](https://graph.facebook.com/CBSNews/picture?width=200&height=200) | - | - |
@@ -534,7 +534,7 @@
 | WeatherNation USA | [m3u8](https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8) | [web](https://www.weathernationtv.com/) | [logo](https://graph.facebook.com/WeatherNation/picture?width=200&height=200) | - | - |
 | Entertainment Tonight USA | [m3u8 # EN](https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8) | [web](https://www.etonline.com/live) | [logo](https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200) | - | - |
 | America's Voice USA | [m3u8 # EN](https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8) | [web](https://americasvoice.news/) | [logo](https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200) | - | - |
-| BUZZR TV USA | [m3u8 # EN](https://buzzrota-web.amagi.tv/playlist.m3u8) | [web](https://buzzrtv.com/watch) | [logo](https://graph.facebook.com/BUZZRtv/picture?width=200&height=200) | - | - |
+| BUZZR TV USA | [m3u8 # EN](https://buzzr-samsungus.amagi.tv/playlist.m3u8) | [web](https://buzzrtv.com/watch) | [logo](https://graph.facebook.com/BUZZRtv/picture?width=200&height=200) | - | - |
 | Dabl USA | [m3u8 # EN](https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8) | [web](https://www.dabl.com/schedule) | [logo](https://graph.facebook.com/DablNetwork/picture?width=200&height=200) | - | - |
 | Zee Mundo USA | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/index-1621748050-now.m3u8) | [web](https://es.zeemundo.com/canal/zee-mundo-en-vivo) | [logo](https://graph.facebook.com/zeemundo/picture?width=200&height=200) | Zee.TV | - |
 | Newsmax TV USA | [m3u8 # EN](https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8) | [web](https://www.newsmaxtv.com/) | [logo](https://graph.facebook.com/newsmax/picture?width=200&height=200) | - | - |
