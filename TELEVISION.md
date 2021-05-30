@@ -520,7 +520,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| FOX News USA | [m3u8 # EN](https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8) | [web](https://www.foxnews.com/) | [logo](https://graph.facebook.com/FOXNews/picture?width=200&height=200) | - | EMB |
+| FOX News USA | [m3u8 # EN](https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8) | [web](https://www.foxnews.com/) | [logo](https://graph.facebook.com/FOXNews/picture?width=200&height=200) | - | - |
 | ABC News USA | [m3u8 # EN](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | [web](https://abcnews.go.com/Live/) | [logo](https://graph.facebook.com/ABCNews/picture?width=200&height=200) | - | - |
 | NBC News USA | [youtube # EN](https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live) | [web](https://www.nbcnews.com/now) | [logo](https://graph.facebook.com/NBCNews/picture?width=200&height=200) | - | EMB |
 | CBS News USA | [m3u8 # EN](https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | [logo](https://graph.facebook.com/CBSNews/picture?width=200&height=200) | - | - |
