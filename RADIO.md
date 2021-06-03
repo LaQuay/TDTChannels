@@ -182,6 +182,7 @@
 | Radio Planeta | [stream](https://radioplaneta.emitironline.com/) | [web](https://www.radioplaneta.com/) | [logo](https://graph.facebook.com/RadioPlaneta92.8/picture?width=200&height=200) | - | WICE |
 | Nostalgia FM | [stream](https://server.spainbroadcast.net:10985/1) | [web](https://nostalgiafm.es/escuchanos.html) | [logo](https://graph.facebook.com/nostalgiaspain/picture?width=200&height=200) | - | - |
 | Gozadera FM Andalucia | [stream](https://server.spainbroadcast.net:10998/;) | [web](https://www.gozadera.es/endirecto/) | [logo](https://graph.facebook.com/GozaderaSpain/picture?width=200&height=200) | - | - |
+| Elixir FM | [stream](https://radio.grupoelixir.es:9006/stream) | [web](https://grupoelixir.es/) | [logo](https://graph.facebook.com/fiestaselixir.fm/picture?width=200&height=200) | - | - |
 | Beachgrooves | [stream](http://stream.beachgrooves.com:8000/stream) | [web](https://beachgrooves.com/) | [logo](https://graph.facebook.com/beach.grooves/picture?width=200&height=200) | - | - |
 | La Fresca FM | [stream](https://play.adtonos.com/8100/la-fresca-fm-2) | [web](https://www.lafresca.fm/) | [logo](https://graph.facebook.com/lafresca.es/picture?width=200&height=200) | - | - |
 | Radio Sierra | [stream](http://srv01.redsanmarcos.com:8000/stream) | [web](http://www.radiosierra.es/) | [logo](https://graph.facebook.com/RadioSierraFM/picture?width=200&height=200) | - | WICE |
