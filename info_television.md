@@ -677,7 +677,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 24/7 Retro TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Classic Arts Showcase | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | American Horrors Movies | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Cachipum TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mr Bean 24h | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | AKC TV Dogs | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
