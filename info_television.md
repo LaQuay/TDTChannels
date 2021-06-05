@@ -561,7 +561,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | CBN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NTN24 América | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal 6 Multimedios Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Imagen TV Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Milenio Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El Financiero Mexico | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Excelsior Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -614,12 +613,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Unicanal Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Nicavisión TV Nicaragua | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 33 El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TRV El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Multimedios Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Nex TV Panamá | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CNN Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| TV Cultura Brasil | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | SBT Interior Brasil | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Record News Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Rede Massa Brasil |  ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
