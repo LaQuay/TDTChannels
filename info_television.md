@@ -772,12 +772,13 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Cafe&Club Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Worldwide Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Mediteraneo Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Rivijera Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Jeka Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Hip Hop Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Gen Z Serbia | - | - | - | - | - | - | - | - |
-| Muzzik AMVA 2020 Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Replay Serbia | - | - | - | - | - | - | - | - |
+| Muzzik ZZ TV Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Sense Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Glazzba Serbia | - | - | - | - | - | - | - | - |
+| Muzzik T REX Serbia | - | - | - | - | - | - | - | - |
+| Muzzik ZZ 4000 Serbia | - | - | - | - | - | - | - | - |
 | Muzzik OKK Serbia | - | - | - | - | - | - | - | - |
 | La Karibeña Perú | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
