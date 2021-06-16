@@ -498,6 +498,7 @@
 | Das Erste Alemania | [m3u8 # DE](https://mcdn.daserste.de/daserste/int/master.m3u8) | [web](https://live.daserste.de/) | [logo](https://graph.facebook.com/DasErste/picture?width=200&height=200) | - | - |
 | NDR Niedersachsen Alemania | [m3u8 # DE](https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8) | [web](https://www.ndr.de/fernsehen/livestream/) | [logo](https://graph.facebook.com/ndrniedersachsen/picture?width=200&height=200) | - | - |
 | Sky News UK | [m3u8 # EN](http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8) - [youtube](https://youtu.be/9Auq9mYxFEE) | [web](https://news.sky.com/watch-live) | [logo](https://graph.facebook.com/skynews/picture?width=200&height=200) | SkyN.TV | - |
+| GB News UK | [m3u8 # EN](https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8) | [web](https://www.gbnews.uk/) | [logo](https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200) | - | - |
 | RTP 1 Portugal | - | [web](https://www.rtp.pt/play/direto/rtp1) | [logo](https://graph.facebook.com/rtp1.pt/picture?width=200&height=200) | RTP1.TV | W3U,EMB,EXTA |
 | RTP 2 Portugal | - | [web](https://www.rtp.pt/play/direto/rtp2) | [logo](https://graph.facebook.com/rtpdois/picture?width=200&height=200) | RTP2.TV | W3U,EMB,EXTA |
 | RTP 3 Portugal | - | [web](https://www.rtp.pt/play/direto/rtp3) | [logo](https://graph.facebook.com/rtp/picture?width=200&height=200) | RTP3.TV | W3U,EMB,EXTA |
