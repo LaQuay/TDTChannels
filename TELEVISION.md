@@ -757,6 +757,7 @@
 | Muzzik Jeka Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-4/playlist.m3u8) | [web](https://muzzik.spectar.tv/#/jeka) | [logo](https://graph.facebook.com/jekamuzziktv/picture?width=200&height=200) | - | UAGLI |
 | Muzzik ZZ TV Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8) | [web](https://muzzik.spectar.tv/#/wwm_africa) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
 | Muzzik Sense Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-7/playlist.m3u8) | [web](https://muzzik.spectar.tv/#/dB) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
+| Muzzik Glazzba Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8) | [web](https://muzzik.spectar.tv/#/dfk) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
 | Muzzik T REX Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-8/playlist.m3u8) | [web](https://muzzik.spectar.tv/#/adr) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
 | Muzzik ZZ 4000 Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-a6/chunklist.m3u8) | [web](https://muzzik.spectar.tv/#/zz4000) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
 | Muzzik OKK Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-2/playlist.m3u8) | [web](https://muzzik.spectar.tv/#/okk) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
