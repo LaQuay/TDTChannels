@@ -473,6 +473,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Erlo TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Oizmendi TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Urola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Xaloa Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### P. de Asturias
 
