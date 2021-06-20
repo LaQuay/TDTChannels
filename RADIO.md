@@ -949,6 +949,7 @@
 | Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](http://www.radiocalasparra.es/) | [logo](https://graph.facebook.com/RadioCalasparra/picture?width=200&height=200) | - | - |
 | Más FM Begastri | [mp3](http://46.29.48.40:8000/masfmbegastri.mp3) | [web](http://masfmbegastri.com/begastri_mas_fm_live.php) | [logo](https://graph.facebook.com/91796872659/picture?width=200&height=200) | - | - |
 | Inter Radio | [mp3](https://sonic.mediatelekom.net/8040/stream/;.mp3) | [web](https://lainter.es/) | [logo](https://graph.facebook.com/LaInter.es/picture?width=200&height=200) | - | - |
+| Más Música Radio | [stream](https://sonic.mediatelekom.net/9014/stream) | [web](https://www.masmusicaradio.com/) | [logo](https://lh3.googleusercontent.com/symCzJ-DDrsQ76k3o3tX0nOsfgI6ocYTbEwWiix7PxblPrxi0KNBfgRBSXXjph345ZAG=s200) | - | - |
 
 ## Internacionales
 
