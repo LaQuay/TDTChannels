@@ -647,6 +647,7 @@
 | Channels TV Nigeria | [youtube # EN](https://www.youtube.com/channel/UCEXGDNclvmg6RW0vipJYsTQ/live) | [web](https://www.channelstv.com/) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | EMB |
 | NBS TV Uganda | [m3u8 # EN](https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/10-hls/live-media.m3u8) | [web](https://nbs.ug/live/) | [logo](https://graph.facebook.com/nbstelevision/picture?width=200&height=200) | - | - |
 | TVGE 1 Guinea Ecuatorial | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](http://www.tvgelive.gq/images/logo-dark.png) | - | - |
+| RASD TV | [m3u8](https://livestream.streamingconnect.com/rasdtv/rasdtv.m3u8) | [web](https://rasd.tv) | [logo](https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200) | - | - |
 
 ## Int. Otros
 
