@@ -870,8 +870,6 @@
 | Onda Cero Vitoria | [m3u8](https://livefastly-webs.ondacero.es/vitoria-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/pais-vasco/vitoria/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Europa Fm Gipuzkoa | [stream](https://server8.emitironline.com:18399/stream) | [web](http://www.irratia.net/player) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Radio Nervión | [stream](https://radionervion.streaming-pro.com:6132/radionervion) | [web](https://www.radionervion.com) | [logo](https://graph.facebook.com/RadioNervion/picture?width=200&height=200) | - | - |
-| Radio Donosti | [stream](http://srv0410.lcinternet.com:8019/stream) | [web](http://www.radiodonosti.com/) | [logo](http://www.radiodonosti.com/_Media/radio-donosti-sin-dial_med_hr.jpeg) | - | - |
-| Radio Gorbea | [mp3](https://radiogorbea.streaming-pro.com:6134/radiogorbea.mp3) | [web](https://www.radiogorbea.com/) | [logo](https://www.radiogorbea.com/wp-content/uploads/2018/09/Logo-Radio-Gorbea-F1.png) | - | - |
 | Vinilo FM | [stream](http://server9.emitironline.com:10923/;) | [web](http://vinilofm.es/player/) | [logo](https://graph.facebook.com/vinilofm/picture?width=200&height=200) | - | - |
 | Radio 7 | [mp3](https://radio7.streaming-pro.com:6146/radio7.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200) | - | - |
 | Radio Tropical | [stream](https://radiotropical.streaming-pro.com:6136/radiotropical) | [web](https://www.radiotropical.es/) | [logo](https://graph.facebook.com/RTROPICAL/picture?width=200&height=200) | - | - |
@@ -880,9 +878,11 @@
 | Bizkaia Irratia | [stream](https://nerbioi.radiopopular.eus/bizkaiairratia2) | [web](http://www.bizkaiairratia.eus/) | [logo](https://graph.facebook.com/BizkaiaIrratia/picture?width=200&height=200) | - | - |
 | Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com/) | [logo](https://graph.facebook.com/radioformulahit/picture?width=200&height=200) | - | - |
 | Radio Popular - Herri Irratia | [stream](https://nerbioi.radiopopular.eus/radiopopular1) | [web](https://radiopopular.com/) | [logo](https://graph.facebook.com/herriirratia/picture?width=200&height=200) | - | - |
+| Radio Donosti | [stream](http://srv0410.lcinternet.com:8019/stream) | [web](http://www.radiodonosti.com) | [logo](https://graph.facebook.com/radiodonosti/picture?width=200&height=200) | - | - |
 | Santurtzi Irratia | [stream](https://radioserver11.profesionalhosting.com/proxy/stzirratia?mp=/stream) | [web](https://www.stzirratia.com/) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
 | Bilbo Hiria Irratia | [stream](https://streaming.radiocast.pro:8443/bilbohiria) | [web](https://www.bilbohiria.eus/zuzen1/) | [logo](https://graph.facebook.com/bilbohiria/picture?width=200&height=200) | - | - |
 | Mozoilo Irratia | [stream](https://s3streamingradio.desafiohosting.com:9008/stream) | [web](http://mozoiloirratia.eus/play/) | [logo](https://graph.facebook.com/GaldakaokoIrratia/picture?width=200&height=200) | - | WICE |
+| Radio Gorbea | [mp3](https://radiogorbea.streaming-pro.com:6134/radiogorbea.mp3) | [web](https://www.radiogorbea.com) | [logo](https://graph.facebook.com/radiogorbea/picture?width=200&height=200) | - | - |
 | Naiz Irratia | [mp3](https://zuzenean.naiz.eus/naiz_irratia.mp3) | [web](https://www.naiz.eus/zuzenean.html) | [logo](https://graph.facebook.com/NAIZirratia/picture?width=200&height=200) | - | - |
 | FM Musical | [stream](https://s3.free-shoutcast.com/stream/18156) | [web](https://fm-musical.com/) | [logo](https://graph.facebook.com/99fmmusical/picture?width=200&height=200) | - | - |
 | Durango Irratia | [mp3](https://durangoirratia.streaming-pro.com:6006/durangoirratia.mp3) | [web](http://www.durango-udala.net/durangoirratia) | [logo](https://pbs.twimg.com/profile_images/674943257789505537/0P8QkXHx_200x200.jpg) | - | - |
