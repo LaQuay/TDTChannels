@@ -27,6 +27,8 @@
 | Paramount Network | - | [web](https://www.paramountnetwork.es) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200) | Paramount.TV | NOEM |
 | BOM Cine | - | [web](https://www.bomcine.com/) | [logo](https://graph.facebook.com/BOMCINEtv/picture?width=200&height=200) | - | NOEM |
 | UHD Spain | [m3u8](http://18.168.248.67/webdav/UHDSpain_SDR.m3u8) | [web](http://player.uhdspain.com/playeruhdspain.aspx) | [logo](https://i.ibb.co/PCK083P/UHD-Spain.png) | - | - |
+| LQSA 24hTV | [m3u8](https://cdn7.lqsa.es/hls/1/stream.m3u8) | [web](https://comunidadmontepinar.es/lqsa24h/) | [logo](https://comunidadmontepinar.es/wp-content/uploads/2017/08/logo-lqsa.jpg) | - | - |
+| ANHQV 24hTV | [m3u8](https://cdn5.lqsa.es/hls/0/stream.m3u8) | [web](https://anhqv.es/24h/) | [logo](https://anhqv.es/wp-content/uploads/2017/08/vlcsnap-2017-06-02-11h26m13s961.jpg) | - | - |
 
 ## Informativos
 
