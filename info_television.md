@@ -228,7 +228,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Mírame TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tindaya TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Biosfera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
