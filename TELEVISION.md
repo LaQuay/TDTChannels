@@ -26,7 +26,7 @@
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
 | Paramount Network | - | [web](https://www.paramountnetwork.es) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200) | Paramount.TV | NOEM |
 | BOM Cine | - | [web](https://www.bomcine.com/) | [logo](https://graph.facebook.com/BOMCINEtv/picture?width=200&height=200) | - | NOEM |
-| UHD Spain | [m3u8](http://18.168.248.67/webdav/UHDSpain_SDR.m3u8 ) | [web](http://player.uhdspain.com/playeruhdspain.aspx?id=c81e728d9d4c2f636f067f89cc14862c) | [logo](https://www.uhdspain.com/web/wp-content/uploads/2021/04/logo_uhd.png)| - |
+| UHD Spain | [m3u8](http://18.168.248.67/webdav/UHDSpain_SDR.m3u8) | [web](http://player.uhdspain.com/playeruhdspain.aspx) | [logo](https://i.ibb.co/PCK083P/UHD-Spain.png) | - | - |
 
 ## Informativos
 
