@@ -596,7 +596,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Globovision Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Venezolana de Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | VPI TV Venezuela | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| La Tele Tuya Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La Tele Tuya Venezuela | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Canal Antigua Guatemala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TELE13 Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
