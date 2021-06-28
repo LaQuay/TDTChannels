@@ -578,7 +578,7 @@
 | Venezolana de Televisión | [m3u8](https://livestream.streamingconnect.com/hls/vtvweb.m3u8) | [web](https://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | - |
 | Televen TV Venezuela | [m3u8](https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8) | [web](http://www.televen.com/enlinea/) | [logo](https://graph.facebook.com/TelevenTV/picture?width=200&height=200) | - | - |
 | VPI TV Venezuela | [stream](https://www.dailymotion.com/embed/video/x7zfpo2?autoplay=1) | [web](https://vpitv.com/en-vivo/) | [logo](https://graph.facebook.com/vpitv/picture?width=200&height=200) | - | EMB |
-| La Tele Tuya Venezuela | [m3u8](https://vcp.myplaytv.com/tlthd/BACKUP/playlist.m3u8) | [web](https://lateletuya.com/) | [logo](https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200) | - | - |
+| La Tele Tuya Venezuela | - | [web](https://teletplay.lateletuya.com/) | [logo](https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200) | - | W3U,EXTA |
 | Canal Antigua Guatemala | [m3u8](https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/plalist.m3u8) | [web](https://canalantigua.tv/) | [logo](https://graph.facebook.com/canalantigua/picture?width=200&height=200) | - | - |
 | 24h Chile | [youtube](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live) | [web](https://www.24horas.cl/envivo/) | [logo](https://graph.facebook.com/24horas.cl/picture?width=200&height=200) | - | EMB |
 | TELE13 Chile | [youtube](https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live) | [web](https://www.t13.cl/en-vivo) | [logo](https://graph.facebook.com/teletrece/picture?width=200&height=200) | - | EMB |
