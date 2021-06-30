@@ -102,6 +102,8 @@
 | Radio 3 | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/rne_c201_lv3_aosv4_gl0.m3u8) | [web](https://www.rtve.es/radio/radio3/directo/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | - | - |
 | Radio 5 | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/radio/directo/) | [logo](https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png) | - | - |
 | Del 40 al 1 | [m3u8](https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](https://graph.facebook.com/del40al1/picture?width=200&height=200) | - | - |
+| Mitele Eventos | [m3u8](https://premium0506-i.akamaihd.net/hls/live/827156/premium05/01.m3u8) | [web](https://www.mitele.es/directo/eurotubers/) | [logo](https://album.mediaset.es/cimg/1001/2019/12/05/logo_mitele_05ff_05ff_05ff.png) | - | - |
+
 
 ## Autonómicos
 
