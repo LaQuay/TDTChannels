@@ -76,7 +76,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Boing | - | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=200&height=200) | Boing.TV | W3U,EMB,EXTA |
-| Clan | [m3u8 # 1](https://rtvelivestream.akamaized.net/clan_main_dvr.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/clan_bkp_dvr.m3u8) | [web](https://www.rtve.es/infantil/directo/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | - |
+| Clan | [m3u8 # 1](https://rtvelivestreamv3.akamaized.net/clan_main_dvr_1080.m3u8) | [web](https://www.rtve.es/infantil/directo/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | - |
 | Pequeradio TV | [m3u8](https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8) | [web](https://www.pequeradio.com/tvv2.php) | [logo](https://graph.facebook.com/Pequeradio/picture?width=200&height=200) | - | - |
 | Pocoyó | [youtube](https://www.youtube.com/channel/UCnB5W_ZJgiDFnklejRGADxw/live) | [web](https://www.pocoyo.com/) | [logo](https://graph.facebook.com/pocoyo/picture?width=200&height=200) | - | EMB |
 | Warner Bros Kids | [youtube](https://www.youtube.com/channel/UCB82v6uKp1S-I-DVoL2neDA/live) | [web](https://www.wbkidsgo.com/) | [logo](https://graph.facebook.com/WarnerBrosPicturesEspana/picture?width=200&height=200) | - | EMB |
