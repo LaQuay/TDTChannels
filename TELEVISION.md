@@ -453,7 +453,7 @@
 | Xaloa Telebista | [m3u8](https://streaming.mediacast.pro:9443/hls/xaloa/playlist.m3u8) | [web](https://xaloatelebista.eus/zuzenean/) | [logo](https://graph.facebook.com/xaloatb/picture?width=200&height=200) | - | NONAV |
 | Erlo TV | [m3u8](https://5940924978228.streamlock.net/8159/8159/master.m3u8) | [web](http://www.erlotelebista.eus/) | [logo](https://graph.facebook.com/542582126141223/picture?width=200&height=200) | - | - |
 | Oizmendi TV | [m3u8](https://5940924978228.streamlock.net/8161/8161/master.m3u8) | [web](https://www.oizmendi.eus/) | [logo](https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200) | - | - |
-| Urola TV | [m3u8](https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8) | [web](https://www.urolatelebista.com/) | [logo](https://graph.facebook.com/urolatelebista/picture?width=200&height=200) | - | - |
+| Urola TV | [m3u8](https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8) | [web](https://www.urolatelebista.com/) | [logo](https://graph.facebook.com/urolatelebista/picture?width=200&height=200) | - | NONAV |
 
 ### P. de Asturias
 
