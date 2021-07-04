@@ -49,7 +49,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Nius | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Euronews | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -392,7 +392,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Tevequatre TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Maestrat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Univers TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Elche 7 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Elche 7 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TV Almassora | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
 | Onda 15 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -472,7 +472,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Xaloa Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Erlo TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Oizmendi TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Urola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Urola TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 
 ### P. de Asturias
 
@@ -617,7 +617,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal 33 El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Multimedios Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Nex TV Panamá | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Nex TV Panamá | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | CNN Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | SBT Interior Brasil | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Record News Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
