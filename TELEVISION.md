@@ -54,7 +54,7 @@
 | Aragón Deporte | [m3u8](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8) - [m3u8 # 2](https://hls-aragontv-events2.flumotion.com/playlist.m3u8) - [m3u8 # 3](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8) | [web](https://www.cartv.es/aragondeporte/directo) | [logo](https://graph.facebook.com/aragondeporte/picture?width=200&height=200) | - | - |
 | VinxTV Asturias | [youtube](https://www.youtube.com/channel/UCJDjXO0kv_ZOtLntIO0d4bw/live) | [web](https://www.vinx.es/vinx-live/) | [logo](https://graph.facebook.com/VinxTV/picture?width=200&height=200) | - | EMB |
 | IB3 Esports | [youtube](https://www.youtube.com/channel/UCOmWJETLyAlFrHkmccOQ-3w/live) | [web](https://ib3.org/directe) | [logo](https://graph.facebook.com/EsportsIB3/picture?width=200&height=200) | - | EMB |
-| RealMadrid TV | - | [web](https://www.realmadrid.com/real-madrid-tv) | [logo](https://graph.facebook.com/RealMadridTV7/picture?width=200&height=200) | RMTV.TV | W3U,EMB,EXTA |
+| RealMadrid TV | - | [web](https://www.realmadrid.com/real-madrid-tv) | [logo](https://graph.facebook.com/RealMadrid/picture?width=200&height=200) | RMTV.TV | W3U,EMB,EXTA |
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es/) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=200&height=200) | - | NOEM |
 | Sevilla TV | - | [web](https://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | SevillaTV.TV | - |
 | Betis TV | - | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | BetisTV.TV | W3U,EXTA |
@@ -693,7 +693,7 @@
 | Activa TV España | [m3u8](https://streamtv.mediasector.es/hls/activatv/master.m3u8) | [web](https://www.emisorasmusicales.net/activa-tv/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
 | Cadena Elite España | [m3u8](https://cloudvideo.servers10.com:8081/8004/index.m3u8) | [web](https://www.cadenaelite.es/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 | XtraHits TV | [m3u8](https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8) | [web](https://xtrahits.es/tv/) | [logo](https://graph.facebook.com/xtrahits/picture?width=200&height=200) | - | - |
-| Mola TV España | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | [web](http://www.molatv.cat/) | [logo](https://graph.facebook.com/molaTV/picture?width=200&height=200) | - | - |
+| Mola TV España | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | [web](http://www.molatv.cat/) | [logo](https://pbs.twimg.com/profile_images/418051373788180481/SvRxUkJG_200x200.png) | - | - |
 | Radio Gigante España | [m3u8](https://gigantetv.radiogigante.com/tele/live/stream.m3u8) | [web](https://radiogigante.com/) | [logo](https://graph.facebook.com/radiogigantecanarias/picture?width=200&height=200) | - | - |
 | Urban Revolution España | [m3u8](https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8) | [web](https://www.urbanrevolution.es/) | [logo](https://graph.facebook.com/fmurban/picture?width=200&height=200) | - | - |
 | EuroLatina TV España | [m3u8](https://cdn01.yowi.tv/ZM1I2N6F9E/master.m3u8) | [web](https://www.eurolatinatv.com/) | [logo](https://yt3.ggpht.com/a/AATXAJxUenOSOL16tyFIo0NJPPB1QDqv4AoApohEN0uF-w=s200-c-k-c0x00ffffff-no-rj) | - | NONAV |
