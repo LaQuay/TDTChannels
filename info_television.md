@@ -618,6 +618,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Multimedios Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Nex TV Panamá | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| WIPR TV Puerto Rico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CNN Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | SBT Interior Brasil | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Record News Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
