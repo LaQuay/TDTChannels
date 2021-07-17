@@ -184,7 +184,7 @@
 | Gozadera FM Andalucia | [stream](https://server.spainbroadcast.net:10998/;) | [web](https://www.gozadera.es/endirecto/) | [logo](https://graph.facebook.com/GozaderaSpain/picture?width=200&height=200) | - | - |
 | Elixir FM | [stream](https://radio.grupoelixir.es:9006/stream) | [web](https://grupoelixir.es/) | [logo](https://graph.facebook.com/fiestaselixir.fm/picture?width=200&height=200) | - | WICE |
 | Beachgrooves | [stream](http://stream.beachgrooves.com:8000/stream) | [web](https://beachgrooves.com/) | [logo](https://graph.facebook.com/beach.grooves/picture?width=200&height=200) | - | - |
-| La Fresca FM | [stream](https://play.adtonos.com/8100/la-fresca-fm-2) | [web](https://www.lafresca.fm/) | [logo](https://graph.facebook.com/lafresca.es/picture?width=200&height=200) | - | - |
+| La Fresca FM | [stream](https://stream.produccionesdale.com:8900/altacalidad) | [web](https://www.lafresca.fm/) | [logo](https://graph.facebook.com/lafresca.es/picture?width=200&height=200) | - | - |
 | Radio Sierra | [stream](http://srv01.redsanmarcos.com:8000/stream) | [web](http://www.radiosierra.es/) | [logo](https://graph.facebook.com/RadioSierraFM/picture?width=200&height=200) | - | WICE |
 | Radio Puerto | [stream](https://enacast.com/radiopuerto/streams/HD) | [web](http://www.radiopuerto.fm/) | [logo](https://graph.facebook.com/radiopuertofm/picture?width=200&height=200) | - | - |
 | Onda Capital | [stream](https://capital.radiocast.es:8000/capitalweb) | [web](https://ondacapital.es/) | [logo](https://graph.facebook.com/ondacapitalfm/picture?width=200&height=200) | - | - |
@@ -223,7 +223,7 @@
 | Estilo FM | [stream](https://streaming12.elitecomunicacion.es:8140/stream) | [web](https://estilofm.es/) | [logo](https://graph.facebook.com/estilofmes/picture?width=200&height=200) | - | - |
 | Radio Arcos | [mp3](http://s8.myradiostream.com:8262/;listen.mp3) | [web](http://www.radioarcos.es/radioonline.htm) | [logo](https://cdn-radiotime-logos.tunein.com/s111974q.png) | - | - |
 | Radio Benamocarra | [mp3](http://91.121.174.141:28908/;mp3) | [web](http://radiobenamocarra.es/) | [logo](https://graph.facebook.com/radiobenamocarra/picture?width=200&height=200) | - | - |
-| Son Latino | [stream](https://streaming.sonmedia.es:7000/stream) | [web](https://sonlatino.es/reproductor/) | [logo](https://static.mytuner.mobi/media/tvos_radios/qntbfehh6xux.png) | - | - |
+| Son Latino | [stream](https://streaming.sonmedia.es/8002/stream) | [web](https://sonlatino.es/) | [logo](https://static.mytuner.mobi/media/tvos_radios/qntbfehh6xux.png) | - | - |
 
 ### Aragón
 
