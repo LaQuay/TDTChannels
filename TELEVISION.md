@@ -101,6 +101,7 @@
 | Radio Nacional | [m3u8 # 1](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586409/master.m3u8) | [web](https://www.rtve.es/radio/directo/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 3 | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/rne_c201_lv3_aosv4_gl0.m3u8) | [web](https://www.rtve.es/radio/radio3/directo/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | - | - |
 | Del 40 al 1 | [m3u8](https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](https://graph.facebook.com/del40al1/picture?width=200&height=200) | - | - |
+| CylTV Eventos | [m3u8](https://cdnlive.shooowit.net/la7live/smil:channel2.smil/playlist.m3u8) | [web](https://cdnapi.shooowit.net/vdmplayer/7519107b-fce8-40a2-8608-f8988c28b762) | [logo](https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-1/p200x200/115850939_10163628467740411_2446959014687180425_n.png?_nc_cat=103&ccb=1-3&_nc_sid=0c64ff&_nc_ohc=sj6dlrkBy2IAX93aRUe&_nc_oc=AQnFUpnc8M-ONqPF1iADME9XbhB5aPwX9eR9nq_LV0CTUOmpacwGF-LfryDpWAM9dgw&_nc_ht=scontent-mad1-1.xx&oh=ac86e60d3aa3cf0824beeb056186178a&oe=60F8BD73) | - | - |
 
 ## Autonómicos
 
