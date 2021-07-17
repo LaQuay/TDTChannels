@@ -801,6 +801,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | EWTN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Diocesana Toledo España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Abadia de Montserrat España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Religión COPE España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Vida España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Solidaria TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
