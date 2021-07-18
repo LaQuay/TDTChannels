@@ -36,6 +36,7 @@
 | Loca FM | [mp3](https://locafm-live1.flumotion.com/locafm/live1.mp3) | [web](http://www.locafm.com/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Radio Clásica RNE | [m3u8](https://rtvelivestreamv3.akamaized.net/rne_r2_main.m3u8) | [web](https://www.rtve.es/alacarta/live_radio_PopUp.shtml) | [logo](https://graph.facebook.com/radioclasicartve/picture?width=200&height=200) | - | - |
 | Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | - | - |
+| Onda Cero Eventos | [m3u8](https://livefastly-webs.ondacero.es/eventosaudio/audio/playlist.m3u8) | [web](https://www.ondacero.es/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 
 ## Musicales
 
