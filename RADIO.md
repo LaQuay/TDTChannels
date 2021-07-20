@@ -591,6 +591,9 @@
 | SER Tudela | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TUDELA.mp3) | [web](https://play.cadenaser.com/emisora/ser_tudela/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | COPE Pamplona | [mp3](https://wecast-b03-02.flumotion.com/copesedes/pamplona.mp3) | [web](https://www.cope.es/directos/pamplona) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Tudela | [mp3](https://wecast-b03-02.flumotion.com/copesedes/tudela.mp3) | [web](https://www.cope.es/directos/tudela) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| Cope Estella  | [stream](http://server8.emitironline.com:9866/radio?1626804568529) | [web](http://www.radioestella.com/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| Cadena 100 Estella  | [stream](http://server9.emitironline.com:9373/radio?1626804716196) | [web](http://www.radioestella.com/) | [logo](https://graph.facebook.com/CADENA100/picture?width=200&height=200) | - | - |
+| Estella-Lizarra FM  | [stream](http://server9.emitironline.com:19512/radio?1626804802249) | [web](http://www.radioestella.com/) | [logo](https://graph.facebook.com/estellalizarrafm/picture?width=200&height=200) | - | - |
 | Onda Cero Pamplona | [m3u8](https://livefastly-webs.ondacero.es/pamplona-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/navarra/pamplona/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Europa FM Ribera | [stream](http://srv0625.lcinternet.com:8033/stream) | [web](http://www.europafmribera.com/) | [logo](https://graph.facebook.com/EuropaFMRibera99.1/picture?width=200&height=200) | - | WICE |
 | esRadio Tudela | [stream](https://server.spainbroadcast.net/9010/stream) | [web](http://www.tudelahoy.com/estaticas/radio-tudela-esradio-960-fm.html) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
@@ -720,6 +723,8 @@
 | COPE Badajoz | [mp3](https://wecast-b01-06.flumotion.com/copesedes/badajoz.mp3) | [web](https://www.cope.es/directos/badajoz) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Cáceres | [mp3](https://wecast-b01-06.flumotion.com/copesedes/caceres.mp3) | [web](https://www.cope.es/directos/caceres) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Mérida | [mp3](https://wecast-m01-03.flumotion.com/copesedes/merida.mp3) | [web](https://www.cope.es/directos/merida) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| Cope Don Benito | [stream](https://eu1.lhdserver.es:8013/stream) | [web](http://donbenito.com/radiodirecto.php) | [logo](https://graph.facebook.com/cope.donbenitovillanueva/picture?width=200&height=200) | - | - |
+| CADENA 100 VEGAS ALTAS | [stream](https://eu1.lhdserver.es:8017/stream) | [web](http://donbenito.com/c100directo/radiodirecto.php) | [logo](https://graph.facebook.com/cadena100.vegasaltas/picture?width=200&height=200) | - | - |
 | Onda Cero Badajoz | [m3u8](https://livefastly-webs.ondacero.es/badajoz-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/extremadura/badajoz//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Cáceres | [m3u8](https://livefastly-webs.ondacero.es/caceres-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/extremadura/caceres//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Mérida | [m3u8](https://livefastly-webs.ondacero.es/merida-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/extremadura/merida//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
@@ -831,6 +836,7 @@
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
 | Onda Ocio | [stream](https://radioserver10.profesionalhosting.com:23334/stream) | [web](https://www.ondaocio.es/) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | WICE |
 | Onda Fuenmayor | [mp3](http://109.169.76.153:8749/;.mp3) | [web](http://www.ondafuenmayor.com/) | [logo](https://4.bp.blogspot.com/-SEiOZH7JEi0/VhPnj-jC0aI/AAAAAAAAACo/gN3SGFY6iwM/s200/logo%2BONDA%2BFUENMAYOR%2Boriginal.jpg) | - | - |
+|RADIO LOGROÑO| [stream](https://riojared.radioca.st/radiologrono) | [web](https://radiologrono.es/) | [logo](https://graph.facebook.com/radiologrono/picture?width=200&height=200) | - | - |
 
 ### Melilla
 
