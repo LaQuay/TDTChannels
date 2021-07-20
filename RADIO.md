@@ -948,7 +948,7 @@
 | Metrópolis FM | [stream](https://metropolis.radioca.st/stream) | [web](https://metropolisfm.es/) | [logo](https://pbs.twimg.com/profile_images/1079167278942425088/215ZMhDn_200x200.jpg) | - | - |
 | Caravaca Radio | [stream](http://84.232.12.14:8000/caravacaradio) | [web](https://www.caravacaradio.com/) | [logo](https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200) | - | WICE |
 | Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](http://www.radiocalasparra.es/) | [logo](https://graph.facebook.com/RadioCalasparra/picture?width=200&height=200) | - | - |
-| Más FM Begastri | [mp3](http://46.29.48.40:8000/masfmbegastri.mp3) | [web](http://masfmbegastri.com/begastri_mas_fm_live.php) | [logo](https://graph.facebook.com/91796872659/picture?width=200&height=200) | - | - |
+| Wifon FM | [stream](http://675305b885ce.sn.mynetname.net:8085/wifonfm) | [web](http://wifonfm.es/streaming) | [logo](https://graph.facebook.com/wifonfm/picture?width=200&height=200) | - | WICE |
 | Inter Radio | [mp3](https://sonic.mediatelekom.net/8040/stream/;.mp3) | [web](https://lainter.es/) | [logo](https://graph.facebook.com/LaInter.es/picture?width=200&height=200) | - | - |
 
 ## Internacionales
