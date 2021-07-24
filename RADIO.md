@@ -136,6 +136,7 @@
 | SER Sevilla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3) | [web](https://play.cadenaser.com/emisora/radio_sevilla) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Úbeda | [aac](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_UBEDAAAC.aac) | [web](https://play.cadenaser.com/emisora/radio_ubeda) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | COPE Almería | [mp3](https://wecast-b03-04.flumotion.com/copesedes/almeria.mp3) | [web](https://www.cope.es/directos/almeria) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| Cadena 100 Gibraltar | [mp3](https://node-07.zeno.fm/fkq1xae5bzzuv.mp3) | [web](https://www.copecampodegibraltar.com) | [logo](https://graph.facebook.com/CopeCampoDeGibraltar/picture?width=200&height=200) | - | - |
 | COPE Cádiz | [mp3](https://wecast-b03-04.flumotion.com/copesedes/cadiz.mp3) | [web](https://www.cope.es/directos/cadiz) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Córdoba | [mp3](https://wecast-b03-04.flumotion.com/copesedes/cordoba.mp3) | [web](https://www.cope.es/directos/cordoba) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE El Ejido | [mp3](https://wecast-b03-04.flumotion.com/copesedes/ejido.mp3) | [web](https://www.cope.es/directos/el-ejido) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
