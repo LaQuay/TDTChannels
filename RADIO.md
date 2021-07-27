@@ -158,6 +158,7 @@
 | Onda Cero El Ejido | [m3u8](https://livefastly-webs.ondacero.es/elejido-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/el-ejido/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Granada | [m3u8](https://livefastly-webs.ondacero.es/granada-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/granada/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Huelva | [m3u8](https://livefastly-webs.ondacero.es/huelva-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/huelva/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
+| EuropaFm Huelva | [stream](https://stm2.emiteonline.com:9001/europafmhuelva) | [web](http://www.andalucia.europafm.online/) | [logo](https://graph.facebook.com/EuropaFmAndalucia/picture?width=200&height=200) | - | - |
 | Onda Cero Jaén | [m3u8](https://livefastly-webs.ondacero.es/jaen-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/jaen/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Jerez de la Frontera | [m3u8](https://livefastly-webs.ondacero.es/jerez-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/jerez-frontera/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Marbella | [m3u8](https://livefastly-webs.ondacero.es/marbella-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/marbella/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
@@ -306,6 +307,10 @@
 | Radio Teide | [stream](http://c01.lexycast.de:5070/.mp3) | [web](https://www.radioteide.eu/) | [logo](https://graph.facebook.com/RadioTeide/picture?width=200&height=200) | - | - |
 | Canal 11 Radio | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal11lapalma.net/escuchanos.html) | [logo](https://graph.facebook.com/189726651071598/picture?width=200&height=200) | - | - |
 | MUZ.FM | [mp3](http://185.229.9.121:8000/muzfm.mp3) | [web](http://muz.fm/?lang=es) | [logo](https://graph.facebook.com/muzfmradio/picture?width=200&height=200) | - | - |
+| EuropaFm Tenerife | [stream](http://str1.mediatelekom.net:9950/live) | [web](https://www.europafmtenerife.com/) | [logo](https://graph.facebook.com/tueuropafm /picture?width=200&height=200) | - | - |
+| EuropaFm Santa Cruz La Laguna | [stream](http://str1.mediatelekom.net:8010/;) | [web](https://www.europafmtenerife.com/santa-cruz-la-laguna/) | [logo](https://graph.facebook.com/tueuropafm /picture?width=200&height=200) | - | - |
+| EuropaFm Lanzarote / Fuerteventura | [stream](http://str1.mediatelekom.net:8097/;) | [web](https://www.europafmtenerife.com/lanzarote-fuerteventura/) | [logo](https://graph.facebook.com/tueuropafm /picture?width=200&height=200) | - | - |
+
 
 ### Cantabria
 
@@ -328,6 +333,7 @@
 | Top FM | [stream](http://topcantabriafm.myddns.me:8080/live) | [web](http://www.topcantabriafm.com/radio-online/) | [logo](https://graph.facebook.com/259600300728660/picture?width=200&height=200) | - | WICE |
 | Cadena Mix | [stream](http://ns6.emisionlocal.com:8000/;) | [web](http://www.cadenamix.es/) | [logo](https://graph.facebook.com/cadenamixfm/picture?width=200&height=200) | - | WICE |
 | Ason FM | [stream](http://ns100.emisionlocal.com:8064/live) | [web](http://www.asonfm.com/) | [logo](https://graph.facebook.com/asonfm/picture?width=200&height=200) | - | WICE |
+|Radio Merindad de Campoo| [mp3](http://45.80.86.10:8098/stream?type=.mp3) | [web](http://www.radiomc.es/) | [logo](https://graph.facebook.com/Radio-Merindad-de-Campoo/picture?width=200&height=200) | - | - |
 
 ### Castilla-La Mancha
 
