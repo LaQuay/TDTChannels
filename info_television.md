@@ -366,6 +366,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Navarra TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleRibera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Xaloa Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Parlamento de Navarra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Valenciana
@@ -469,7 +470,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Goierri Irrati TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 28 Kanala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Durangaldeko TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Xaloa Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Erlo TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Oizmendi TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Urola TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
