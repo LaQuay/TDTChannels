@@ -59,7 +59,7 @@
 | Sevilla TV | - | [web](https://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | SevillaTV.TV | - |
 | Betis TV | - | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | BetisTV.TV | W3U,EXTA |
 | Real Sociedad TV | [youtube](https://www.youtube.com/channel/UCfeqewEKWQ8CXY8OiXoMxxw/live) | [web](https://www.realsociedad.eus/es/noticias) | [logo](https://graph.facebook.com/RealSociedadFutbol/picture?width=200&height=200) | - | EMB |
-| UD Las Palmas TV | [m3u8](https://cdn041.fractalmedia.es/stream/live/udtv/index.m3u8) | [web](https://playud.udlaspalmas.es/es/udtv-en-directoaes73) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | - |
+| UD Las Palmas TV | [m3u8](https://cdn044.fractalmedia.es:9443/live015/stream/live/cudtv/index.m3u8) | [web](https://playud.udlaspalmas.es/es/udtv-en-directo) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | NONAV |
 | RCD Mallorca TV | [youtube](https://www.youtube.com/c/OficialRCDMallorca/live) | [web](https://www.rcdmallorca.es/contenidos/noticias) | [logo](https://graph.facebook.com/RCDMallorcaOficial/picture?width=200&height=200) | - | - |
 | Cádiz CF TV | [m3u8](https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8) | [web](https://www.cadizcf.com/cadizcf-tv) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200) | - | - |
 | LaLiga Santander | [youtube](https://www.youtube.com/channel/UCTv-XvfzLX3i4IGWAm4sbmA/live) | [web](https://www.laliga.com/) | [logo](https://graph.facebook.com/LaLiga/picture?width=200&height=200) | - | EMB |
