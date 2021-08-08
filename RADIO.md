@@ -821,7 +821,7 @@
 | - | - | - | - | - | - |
 | Radio Nacional La Rioja | [stream](https://crtve-rne1-rio.cast.addradio.de/crtve/rne1/rio/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 La Rioja | [stream](https://crtve-rne5-rio.cast.addradio.de/crtve/rne5/rio/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
-| SER Arnedo | [mp3](http://server8.emitironline.com:18324/) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
+| SER Arnedo | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ARNEDO.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Rioja | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RIOJA.mp3) | [web](https://play.cadenaser.com/emisora/radio_rioja/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | COPE Logroño | [mp3](https://wecast-b01-02.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Logroño | [m3u8](https://livefastly-webs.ondacero.es/logrono-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/rioja/rioja/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
