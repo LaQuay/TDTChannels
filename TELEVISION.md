@@ -655,7 +655,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | ABC Australia | [m3u8 # EN](https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8) | [web](https://iview.abc.net.au/show/abc-live-stream) | [logo](https://graph.facebook.com/abcnews.au/picture?width=200&height=200) | - | - |
-| United Nations TV | [m3u8 # EN](https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8) | [web](http://webtv.un.org/) | [logo](https://graph.facebook.com/unitednations/picture?width=200&height=200) | - | - |
+| United Nations TV | - | [web](https://media.un.org/en/webtv/) | [logo](https://graph.facebook.com/unitednations/picture?width=200&height=200) | - | W3U,EXTA |
 | Bloomberg Quicktake | [m3u8 # EN](https://www.bloomberg.com/media-manifest/streams/qt.m3u8) | [web](https://www.bloomberg.com/qt/live) | [logo](https://graph.facebook.com/quicktake/picture?width=200&height=200) | - | - |
 | Tastemade | [m3u8](https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/playlist.m3u8) - [m3u8 # EN](https://tastemade.samsung.wurl.com/manifest/playlist.m3u8) | [web](https://watch.tastemade.com/live-tv) | [logo](https://graph.facebook.com/TastemadeEs/picture?width=200&height=200) | - | - |
 | Fashion TV | [m3u8](https://publica.cloudycdn.services/playlist.m3u8?network_id=569) | [web](https://www.fashiontv.com/#ftv_uhd) | [logo](https://graph.facebook.com/FTV/picture?width=200&height=200) | - | - |
