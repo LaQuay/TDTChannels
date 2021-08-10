@@ -209,7 +209,7 @@
 | Canal 4 Tenerife | [m3u8](https://5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8) | [web](https://www.canal4tenerife.tv/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200) | - | - |
 | Tindaya TV | [m3u8](https://cdn01.yowi.tv/FFFFFFFFFF/master.m3u8) | [web](https://www.tindayatv.com/) | [logo](https://graph.facebook.com/TindayaTV/picture?width=200&height=200) | - | NONAV |
 | Biosfera TV | [m3u8](https://tvdatta.com:3832/live/biosferatvlive.m3u8) | [web](https://tvdatta.com/broadcaster/biosferatv/live/player) | [logo](https://yt3.ggpht.com/ytc/AAUvwngYKpxPcwLUrhvWQ0njMp6EDkyhdhiZ4X6udTy4VA=s200-c-k-c0x00ffffff-no-rj) | - | EMB |
-| NORTEvisión | [m3u8](http://amaru.dyndns.org:8835/0.m3u8) | [web](http://nortevision.es/directo/) | [logo](https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200) | - | - |
+| NORTEvisión | [m3u8](http://amaru.dyndns.org:8870/0.m3u8) | [web](http://nortevision.es/directo/) | [logo](https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200) | - | - |
 | Noroeste TV | [m3u8](https://cloudvideo.servers10.com:8081/8032/index.m3u8) | [web](http://www.noroestetv.es/) | [logo](https://graph.facebook.com/105757328157868/picture?width=200&height=200) | - | - |
 | Este Canal TV | [stream](https://livestream.com/accounts/8817409/events/7051352) | [web](http://www.estecanaltv.com/este-canal-en-directo/) | [logo](https://graph.facebook.com/estecanaltv/picture?width=200&height=200) | - | EXTB |
 | RTV Mogán | [m3u8](https://cloudvideo.servers10.com:8081/8028/index.m3u8) | [web](https://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | [logo](https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200) | - | - |
