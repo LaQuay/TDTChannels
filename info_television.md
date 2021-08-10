@@ -574,7 +574,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Turistik TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Noticias Caracol Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Capital Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Teleantioquia Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Teleantioquia Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Señal Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telepacifico Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Telecaribe Colombia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
