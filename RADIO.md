@@ -553,7 +553,7 @@
 | Radio Romanul | [stream](http://streaming.radioromanul.es:55556/radioromanul) | [web](http://www.radioromanul.es/live/) | [logo](https://graph.facebook.com/RadioRomanul/picture?width=200&height=200) | - | WICE |
 | Top Radio | [stream](https://21223.live.streamtheworld.com/TOPRADIO_SC) | [web](http://www.topradio.es) | [logo](https://graph.facebook.com/topradioes/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
-| Radio Ya | [stream](https://s20.prositel.net:9085/RadioYA) | [web](https://www.radioya.es/) | [logo](https://graph.facebook.com/radioya.es/picture?width=200&height=200) | - | - |
+| Radio Ya | [stream](https://s20.prositel.net:9085/RadioYA) | [web](https://www.radioya.es/) | [logo](https://www.radioya.es/imagenes/logo_pie.png) | - | - |
 | Master FM | [m3u8](https://radios.lamaster.es:8000/madrid) | [web](https://lamaster.es/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | WICE |
 | Happy FM | [mp3](https://happyfm.streaming-pro.com:8010/live.mp3) | [web](https://happyfm.es/player/new_player.html) | [logo](https://graph.facebook.com/happyfmradio/picture?width=200&height=200) | - | - |
 | Radio Vallekas | [mp3](https://radiobot.radioslibres.info/radio/8120/radio.mp3) | [web](http://www.radiovallekas.org/) | [logo](https://graph.facebook.com/radiovallekas/picture?width=200&height=200) | - | - |
@@ -914,7 +914,7 @@
 | Radio QK | [mp3](http://34.77.177.144:8000/radioqk_master.mp3) | [web](https://www.radioqk.org/) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=200&height=200) | - | - |
 | Radio San Martín | [stream](https://stream.zeno.fm/rd9m3ynpeg0uv/;) | [web](https://sanmartinradio.blogspot.com/) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=200&height=200) | - | - |
 | La Cuenca Radio | [stream](http://usa3.lhdserver.es:8082/stream) | [web](https://lacuencadelnalon.jimdofree.com/) | [logo](https://graph.facebook.com/lacuencafm/picture?width=200&height=200) | - | - |
-| Guateque FM | [stream](https://node-10.zeno.fm/2pt7d8ycxzzuv) | [web](https://radio106.jimdofree.com/guateque-fm/) | [logo](https://image.jimcdn.com/app/cms/image/transf/dimension=200x200:format=jpg/path/scd134114b478e3ef/image/ic2677af984751827/version/1610107624/image.jpg) | - | - |
+| Exitos XL | [stream](https://usa3.lhdserver.es:8083/stream) | [web](https://vivaasturias.jimdofree.com/) | [logo](https://image.jimcdn.com/app/cms/image/transf/dimension=225x10000:format=jpg/path/s98de8d6f8eb72202/image/i8c8218bae30d27ab/version/1627743387/image.jpg) | - | - |
 | Radio 4G Oviedo | [stream](https://server1.radiocast.es:8000/r4govd) | [web](https://radio4goviedo.com/) | [logo](https://pbs.twimg.com/profile_images/1276972238009491456/cb9OVQyn_200x200.jpg) | - | - |
 | APQ Radio | [stream](http://stm1.emiteonline.com:8012/apqradio) | [web](http://www.apqradio.es/) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | WICE |
 
