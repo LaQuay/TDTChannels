@@ -166,7 +166,6 @@
 | 8TV Jerez | [youtube](https://www.youtube.com/channel/UC_Z78uo-XNGbE57X2QUZWbQ/live) | [web](https://8tvjerez.com) | [logo](https://graph.facebook.com/8TvJerez/picture?width=200&height=200) | - | EMB |
 | Sal TV | [m3u8](https://www.tdtchannels.com/stream/saltv.m3u8) | [web](https://saltv.es) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | - |
 | 9 la Loma TV | [m3u8](https://9laloma.tv/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=200&height=200) | 9LaLoma.TV | - |
-| Fion TV | [m3u8](http://stream.fion.es:1936/live/smil:fion.smil/master.m3u8) | [web](https://www.fion.es) | [logo](https://graph.facebook.com/Fioncomunicaciones/picture?width=200&height=200) | - | - |
 | TV Carmona | [stream](https://www.ustream.tv/embed/24087674?html5ui&autoplay=true) | [web](https://www.televisioncarmona.com) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | CanalMalaga.TV | - |
 | PTV Granada | [m3u8](https://streamer.zapitv.com/PTV-GRANADA/tracks-v1a1/mono.m3u8) | [web](https://ptvtelecom.com/canales/granada.html) | [logo](https://graph.facebook.com/PTVGranada/picture?width=200&height=200) | - | NONAV |

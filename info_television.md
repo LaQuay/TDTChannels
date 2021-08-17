@@ -185,7 +185,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 8TV Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Fion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Carmona | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Granada | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
