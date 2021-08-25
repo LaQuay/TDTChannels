@@ -101,7 +101,7 @@
 | Radio Nacional | [m3u8 # 1](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 2](https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586409/master.m3u8) | [web](https://www.rtve.es/radio/directo/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 3 | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/rne_c201_lv3_aosv4_gl0.m3u8) | [web](https://www.rtve.es/radio/radio3/directo/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | - | - |
 | Del 40 al 1 | [m3u8](https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8) | [web](https://del40al1.los40.com/) | [logo](https://graph.facebook.com/del40al1/picture?width=200&height=200) | - | - |
-| Rock Fm EVENTOS | [m3u8](https://hls-directo03-cope-stream.flumotion.com/cope/directo03/playlist.m3u8) | [web](https://www.rockfm.fm/programas/video-en-directo) | [logo](https://graph.facebook.com/RockFM/picture?width=200&height=200) | - | - |
+| Rock Fm EVENTOS | [m3u8](https://programa-live.flumotion.com/programa-live/playlist.m3u8) | [web](https://www.cadena100.es/programas/video-en-directo) | [logo](https://graph.facebook.com/CADENA100/picture?width=200&height=200) | - | - |
 
 ## Autonómicos
 
