@@ -643,6 +643,7 @@
 | LOS40 Classic Castellón | [stream](http://stream.radiocastellon.com/40cl) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200) | - | WICE |
 | Cadena Dial Castellón | [stream](http://stream.radiocastellon.com/dial) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/cadenadialcastelllon/picture?width=200&height=200) | - | WICE |
 | Cadena 100 Benidorm | [stream](http://rsirena.dnsalias.com:8000/cad100benidorm) | [web](https://www.radiosirena.es/radio-online/cadena-100/) | [logo](https://graph.facebook.com/cadena100benidorm/picture?width=200&height=200) | - | WICE |
+| Los40 Benidorm | [acc](https://22723.live.streamtheworld.com/LOS40_ASO_BENIDORMAAC.aac) | [web](https://40benidorm.com/assets/player/player.html) | [logo](https://pbs.twimg.com/profile_images/732171106782695424/eSJEnwoL_200x200.jpg) | - | - |
 | Europa FM Gandia | [mp3](https://streamssl.eu:2302/;stream.mp3) | [web](https://melodiafmgandia.com/) | [logo](https://graph.facebook.com/europafmgandia/picture?width=200&height=200) | - | - |
 | esRadio Alicante | [stream](http://streaming12.elitecomunicacion.es:8260/stream) | [web](http://esradioalicante.com/) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | esRadio Elche | [mp3](http://ns6.emisionlocal.com:8040/;.mp3) | [web](https://www.esradioelche.com/) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
