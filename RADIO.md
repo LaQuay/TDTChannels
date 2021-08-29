@@ -177,7 +177,7 @@
 | Cadena Dial Andalucia Este | [stream](http://streaming5.elitecomunicacion.es:8226/stream) | [web](http://dialandaluciaeste.com/) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
 | Cadena Dial Arahal | [mp3](https://20863.live.streamtheworld.com/DIAL_ASO_MORON.mp3) | [web](https://www.arahalaldia.com/) | [logo](https://graph.facebook.com/ArahalalDia/picture?width=200&height=200) | - | - |
 | Radiolé Costa de la Luz | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_ASO_COSTA_LUZ.mp3) | [web](http://radiolecostaluz.com/reproductor.html) | [logo](https://graph.facebook.com/RadioleCostaDeLaLuz/picture?width=200&height=200) | - | - |
-| Onda Cádiz Radio | [mp3](http://adc-radio-stream.flumotion.com/adc/live-radio.mp3) | [web](https://tv.ocadizdigital.es/radio) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | - | - |
+| Onda Cádiz Radio | [mp3](http://adc-radio-stream.flumotion.com/adc/live-radio.mp3) | [web](https://ondacadiz.es/radio/directo) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [stream](https://www.lajunglaradio.com:8003/lajunglawebssl) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | - |
 | Radio Mijas | [stream](https://s9.voscast.com:9691/stream) | [web](https://mijascomunicacion.com/radio-mijas-en-directo/) | [logo](https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200) | - | WICE |
 | Radio Planeta | [stream](https://radioplaneta.emitironline.com/) | [web](https://www.radioplaneta.com/) | [logo](https://graph.facebook.com/RadioPlaneta92.8/picture?width=200&height=200) | - | WICE |
