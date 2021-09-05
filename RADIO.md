@@ -224,6 +224,7 @@
 | Radio Arcos | [mp3](http://s8.myradiostream.com:8262/;listen.mp3) | [web](http://www.radioarcos.es/radioonline.htm) | [logo](https://cdn-radiotime-logos.tunein.com/s111974q.png) | - | - |
 | Radio Benamocarra | [mp3](http://91.121.174.141:28908/;mp3) | [web](http://radiobenamocarra.es/) | [logo](https://graph.facebook.com/radiobenamocarra/picture?width=200&height=200) | - | - |
 | Son Latino | [stream](https://streaming.sonmedia.es/8002/stream) | [web](https://sonlatino.es/) | [logo](https://static.mytuner.mobi/media/tvos_radios/qntbfehh6xux.png) | - | - |
+| Radio Almaina | [ogg](http://blimp.streampunk.cc/_stream/almaina.ogg) | [web](https://www.radioalmaina.org/emision.html) | [logo](https://pbs.twimg.com/profile_images/2117013357/perfil-facebook_200x200.jpg) | - | - |
 
 ### Aragón
 
