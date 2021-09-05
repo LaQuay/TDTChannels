@@ -579,6 +579,8 @@
 | Canora Radio | [mp3](http://s8.streammonster.com:8335/stream) | [web](http://www.canora.es/) | [logo](https://graph.facebook.com/31116475535/picture?width=200&height=200) | - | WICE |
 | Radio Univ. Alcalá Henares | [stream](http://streaming.elitecomunicacion.es:8066/;) | [web](http://www.ruah.es/emision-online/) | [logo](https://graph.facebook.com/ruahradio/picture?width=200&height=200) | - | - |
 | Sol Radio | [stream](https://server.spainbroadcast.net/8054/stream) | [web](https://solradiomadrid.com/) | [logo](https://graph.facebook.com/solradio99.8/picture?width=200&height=200) | - | - |
+| REC Radio | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg91643?mp=/stream) | [web](https://www.recradio.es/) | [logo](https://graph.facebook.com/SomosRecRadio/picture?width=200&height=200) | - | - |
+| La Equis | [stream](https://streaming12.elitecomunicacion.es:8264/stream) | [web](https://laequis.es/) | [logo](https://graph.facebook.com/laequis.es/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
 
