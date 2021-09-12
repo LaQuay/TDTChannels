@@ -590,7 +590,7 @@
 | CDN 37 República Dominicana | - | [web](https://cdn.com.do/envivo/) | [logo](https://graph.facebook.com/cdn.com.do/picture?width=200&height=200) | - | W3U,EXTA |
 | Telemicro República Dominicana | [m3u8](https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8) | [web](https://telemicro.com.do/web/telemicro-en-vivo/) | [logo](https://graph.facebook.com/telemicro5/picture?width=200&height=200) | - | - |
 | Color Visión República Dominicana | [stream](https://www.dailymotion.com/embed/video/x7gy059?autoplay=1) | [web](https://colorvision.com.do/en-vivo/) | [logo](https://graph.facebook.com/colorvisionc9/picture?width=200&height=200) | - | EMB |
-| HCH Honduras | [stream](https://www.dailymotion.com/embed/video/x81za5c?autoplay=1) | [web](https://hch.tv/live/) | [logo](https://pbs.twimg.com/profile_images/1362163071272255490/hkgMSxBw_200x200.jpg) | - | EMB |
+| HCH Honduras | [stream](https://www.dailymotion.com/embed/video/x81za5c?autoplay=1) | [web](https://hch.tv/live/) | [logo](https://pbs.twimg.com/profile_images/1433025782771748864/nD737-30_200x200.jpg) | - | EMB |
 | ABC TV Paraguay | [m3u8](https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8) | [web](https://www.abc.com.py/tv/) | [logo](https://graph.facebook.com/ABCTVpy/picture?width=200&height=200) | - | - |
 | Trece Paraguay | [m3u8](http://174.138.118.252/live/trece.m3u8) | [web](http://www.trece.com.py/envivo) | [logo](https://graph.facebook.com/trecepy/picture?width=200&height=200) | - | - |
 | Unicanal Paraguay | [m3u8](http://45.55.127.106/live/unicanal_mid.m3u8) | [web](http://www.unicanal.com.py/) | [logo](https://graph.facebook.com/Unicanal/picture?width=200&height=200) | - | - |
