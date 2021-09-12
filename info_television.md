@@ -517,8 +517,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | NDR Niedersachsen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sky News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GB News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTP 1 Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
-| RTP 2 Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| RTP 1 Portugal | ✔ | 🌐 | 🌐 | ❌ | ✔ | ❌ | 🌐 | - |
+| RTP 2 Portugal | ✔ | 🌐 | 🌐 | ❌ | ✔ | ❌ | 🌐 | - |
 | RTP 3 Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | RTP Madeira Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTP Açores Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
