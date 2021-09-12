@@ -514,8 +514,8 @@
 | TVR Int. Rumania | [m3u8 # RO](https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8) | [web](https://www.tvrplus.ro/live/tvr-international) | [logo](https://yt3.ggpht.com/ytc/AKedOLQPhatBUYxLNlDGhiNXlV_asQCDPHa_MfnUy4Nr=s200-c-k-c0x00ffffff-no-rj) | - | - |
 | RÚV Islandia | [m3u8 # IS # 1](https://ruvruverl-live-hls.secure.footprint.net/4cb25e14619fb1e9711a400b8a5b21119605cb9a-1/ruv/ruverl/index/stream1.m3u8) - [m3u8 # IS # 2](https://ruvruverl-live-hls.secure.footprint.net/24beacf6e543ecd6f62c8dc98b1827650c5507f8-1/ruv/ruv2erl/index/stream1.m3u8) | [web](https://www.ruv.is/sjonvarp/beint/ruv) | [logo](https://graph.facebook.com/RUVohf/picture?width=200&height=200) | - | - |
 | Current Time TV | [m3u8 # RU](http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8) | [web](https://www.currenttime.tv/p/6018.html) | [logo](https://graph.facebook.com/currenttimetv/picture?width=200&height=200) | - | - |
-| RT News | [m3u8 # EN]( https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8) - [m3u8 # EN UK](https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8) - [m3u8 # EN USA](https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8) - [m3u8 # FR]( https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8) | [web](https://www.rt.com/on-air/) | [logo](https://graph.facebook.com/RTnews/picture?width=200&height=200) | - | - |
-| RT Documentary | [m3u8 # EN](:https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8) | [web](https://rtd.rt.com/on-air/) | [logo](https://graph.facebook.com/RTDocumentary/picture?width=200&height=200) | RTDoc.TV | - |
+| RT News | [m3u8 # EN](https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8) - [m3u8 # EN UK](https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8) - [m3u8 # EN USA](https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8) - [m3u8 # FR]( https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8) | [web](https://www.rt.com/on-air/) | [logo](https://graph.facebook.com/RTnews/picture?width=200&height=200) | - | - |
+| RT Documentary | [m3u8 # EN](https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8) | [web](https://rtd.rt.com/on-air/) | [logo](https://graph.facebook.com/RTDocumentary/picture?width=200&height=200) | RTDoc.TV | - |
 
 ## Int. América
 
