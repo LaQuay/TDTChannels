@@ -572,7 +572,7 @@
 | Canal IPe Perú | [m3u8](https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8) | [web](https://www.canalipe.tv/) | [logo](https://graph.facebook.com/canalipe/picture?width=200&height=200) | - | NONAV |
 | TeleSUR Venezuela | [m3u8](https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/) | [logo](https://graph.facebook.com/teleSUR/picture?width=200&height=200) | TeleSUR.TV | - |
 | Globovision Venezuela | [youtube](https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live) | [web](https://globovision.com/) | [logo](https://graph.facebook.com/globovision/picture?width=200&height=200) | - | EMB |
-| Venezolana de Televisión | [m3u8](https://livestream.streamingconnect.com/hls/vtvweb.m3u8) | [web](https://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | - |
+| Venezolana de Televisión | [stream](https://www.dailymotion.com/embed/video/x828i6j?autoplay=1) | [web](https://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | EMB |
 | Televen TV Venezuela | [m3u8](https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8) | [web](http://www.televen.com/enlinea/) | [logo](https://graph.facebook.com/TelevenTV/picture?width=200&height=200) | - | - |
 | VPI TV Venezuela | [stream](https://www.dailymotion.com/embed/video/x7zfpo2?autoplay=1) | [web](https://vpitv.com/en-vivo/) | [logo](https://graph.facebook.com/vpitv/picture?width=200&height=200) | - | EMB |
 | La Tele Tuya Venezuela | - | [web](https://teletplay.lateletuya.com/) | [logo](https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200) | - | W3U,EXTA |
@@ -580,7 +580,7 @@
 | 24h Chile | [youtube](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live) | [web](https://www.24horas.cl/envivo/) | [logo](https://graph.facebook.com/24horas.cl/picture?width=200&height=200) | - | EMB |
 | TELE13 Chile | [youtube](https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live) | [web](https://www.t13.cl/en-vivo) | [logo](https://graph.facebook.com/teletrece/picture?width=200&height=200) | - | EMB |
 | Meganoticias Chile | [youtube](https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live) | [web](https://www.meganoticias.cl/senal-en-vivo/) | [logo](https://graph.facebook.com/meganoticiascl/picture?width=200&height=200) | - | EMB |
-| TC TV Ecuador | [m3u8](https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8) | [web](https://www.tctelevision.com/en-vivo) | [logo](https://graph.facebook.com/tctelevision10/picture?width=200&height=200) | - | - |
+| TC TV Ecuador | [stream](https://www.dailymotion.com/embed/video/x7wijay?autoplay=1) | [web](https://www.tctelevision.com/en-vivo) | [logo](https://graph.facebook.com/tctelevision10/picture?width=200&height=200) | - | EMB |
 | TeleAmazonas Ecuador | [m3u8](https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8) | [web](http://www.teleamazonas.com/teleamazonas-en-vivo/) | [logo](https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200) | - | - |
 | Bolivia 7.1 TV | - | [web](http://www.boliviatv.bo/principal/tvenvivo71.php) | [logo](https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200) | - | W3U,EXTA |
 | Bolivia 7.2 TV | [m3u8](https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8) | [web](http://www.boliviatv.bo/principal/tvenvivo72.php) | [logo](https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200) | - | - |
