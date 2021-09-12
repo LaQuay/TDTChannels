@@ -804,7 +804,7 @@
 | Ibiza Sonica Radio | [stream](http://s1.sonicabroadcast.com:7005/;stream) | [web](https://www.ibizasonica.com/) | [logo](https://graph.facebook.com/ibizasonicaradio/picture?width=200&height=200) | - | - |
 | Última Hora Mallorca | [stream](http://stream.fibwi.com:9020/stream) | [web](http://radio.gsstatic.es/) | [logo](https://graph.facebook.com/UltimaHora.Mallorca/picture?width=200&height=200) | - | WICE |
 | Das Inselradio | [mp3](https://stream.inselradio.com/high.inselradio.mp3) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/DasInselradio/picture?width=200&height=200) | - | - |
-| Canal 4 Ràdio | [stream](http://91.121.156.27:8011/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=200&height=200) | - | WICE |
+| Canal 4 Ràdio | [stream](http://91.121.156.27:8011/stream) | [web](http://grup4.com/radio-murta/) | [logo](http://grup4.com/wp-content/uploads/2016/07/3-300x300.png) | - | WICE |
 | Radio OneMallorca | [stream](http://80.32.132.126:8000/;) | [web](http://www.radioonemallorca.com/) | [logo](https://graph.facebook.com/RadioOneMallorca/picture?width=200&height=200) | - | - |
 | Mallorca Sunshine Radio | [mp3](https://stream2.inselradio.com/high.sunshine.mp3) | [web](https://www.mallorcasunshineradio.com/player/) | [logo](https://graph.facebook.com/MallorcaSunshineRadio/picture?width=200&height=200) | - | - |
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com/) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=200&height=200) | - | - |
@@ -816,7 +816,7 @@
 | EcoRadio | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg781899?mp=/stream) | [web](http://www.ecoradio.es/) | [logo](https://graph.facebook.com/ecoradio.es/picture?width=200&height=200) | - | - |
 | Formentera Radio | [stream](http://srv0411.lcinternet.com:8012/stream) | [web](http://player.lcinternet.es/v9/cc654_id977/) | [logo](https://graph.facebook.com/FormenteraRadio/picture?width=200&height=200) | - | WICE |
 | Isla 106 | [stream](https://stream.isla106.com/isla106) | [web](https://www.isla106.com/) | [logo](https://graph.facebook.com/Isla106Radio/picture?width=200&height=200) | - | - |
-| Radio Murta | [stream](http://91.121.156.27:8013/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=200&height=200) | - | WICE |
+| Radio Murta | [stream](http://91.121.156.27:8013/stream) | [web](http://grup4.com/radio-murta/) | [logo](http://grup4.com/wp-content/uploads/2016/07/7-300x300.png) | - | WICE |
 | Dale Caña FM | [mp3](https://broadcast.radioponiente.org:8032/;mp3) | [web](https://www.facebook.com/dcfmallorca/) | [logo](https://graph.facebook.com/dcfmallorca/picture?width=200&height=200) | - | - |
 
 ### La Rioja
