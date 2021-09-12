@@ -225,15 +225,14 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 24h Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mírame TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Tindaya TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Biosfera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 4 TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 Telde TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Cantabria
 

@@ -199,28 +199,27 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| GranCanariaTV.com | [youtube](https://www.youtube.com/channel/UCDdnBGLNmifjQqHjAA_DUrA/live) | [web](https://www.grancanariatv.com/) | [logo](https://graph.facebook.com/GranCanariaTV/picture?width=200&height=200) | - | EMB |
+| GranCanariaTV.com | [youtube](https://www.youtube.com/channel/UCDdnBGLNmifjQqHjAA_DUrA/live) | [web](https://www.grancanariatv.com) | [logo](https://graph.facebook.com/GranCanariaTV/picture?width=200&height=200) | - | EMB |
 | TV Canaria | [m3u8](https://rtvc-live1.flumotion.com/playlist.m3u8) | [web](https://rtvc.es/en-directo/) | [logo](https://graph.facebook.com/188600904655/picture?width=200&height=200) | Canarias.TV | - |
 | La 1 Canarias | [m3u8](https://ztnr.rtve.es/ztnr/5190066.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-canarias/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1_CAT.TV | - |
 | La 2 Canarias | [m3u8](https://ztnr.rtve.es/ztnr/5468585.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-canarias/la-2-can/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2_CAT.TV | - |
 | 24h Canarias | [m3u8](https://ztnr.rtve.es/ztnr/5473142.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-canarias/24-h-can/) | [logo](https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png) | - | - |
-| Mírame TV | [m3u8](https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8) | [web](https://mirametv.com/) | [logo](https://graph.facebook.com/MirameTVCanarias/picture?width=200&height=200) | MirameTV.TV | - |
-| Canal 4 Tenerife | [m3u8](https://5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8) | [web](https://www.canal4tenerife.tv/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200) | - | - |
-| Tindaya TV | [m3u8](https://cdn01.yowi.tv/FFFFFFFFFF/master.m3u8) | [web](https://www.tindayatv.com/) | [logo](https://graph.facebook.com/TindayaTV/picture?width=200&height=200) | - | NONAV |
-| Biosfera TV | [m3u8](https://tvdatta.com:3832/live/biosferatvlive.m3u8) | [web](https://tvdatta.com/broadcaster/biosferatv/live/player) | [logo](https://yt3.ggpht.com/ytc/AAUvwngYKpxPcwLUrhvWQ0njMp6EDkyhdhiZ4X6udTy4VA=s200-c-k-c0x00ffffff-no-rj) | - | EMB |
+| Mírame TV | [m3u8](https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8) | [web](https://mirametv.com) | [logo](https://graph.facebook.com/MirameTVCanarias/picture?width=200&height=200) | MirameTV.TV | - |
+| Canal 4 Tenerife | [m3u8](https://5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8) | [web](https://www.canal4tenerife.tv) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200) | - | - |
+| Biosfera TV | [m3u8](https://tvdatta.com:3832/live/biosferatvlive.m3u8) | [web](https://tvdatta.com/broadcaster/biosferatv/live/player) | [logo](https://graph.facebook.com/biosferamedia/picture?width=200&height=200) | - | EMB |
 | NORTEvisión | [m3u8](http://amaru.dyndns.org:8870/0.m3u8) | [web](http://nortevision.es/directo/) | [logo](https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200) | - | - |
-| Noroeste TV | [m3u8](https://cloudvideo.servers10.com:8081/8032/index.m3u8) | [web](http://www.noroestetv.es/) | [logo](https://graph.facebook.com/105757328157868/picture?width=200&height=200) | - | - |
 | Este Canal TV | [stream](https://livestream.com/accounts/8817409/events/7051352) | [web](http://www.estecanaltv.com/este-canal-en-directo/) | [logo](https://graph.facebook.com/estecanaltv/picture?width=200&height=200) | - | EXTB |
 | RTV Mogán | [m3u8](https://cloudvideo.servers10.com:8081/8028/index.m3u8) | [web](https://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | [logo](https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200) | - | - |
 | Ahora TV | [m3u8](https://5940924978228.streamlock.net/8171/8171/playlist.m3u8) | [web](https://www.ahoratelevision.es/directos/) | [logo](https://graph.facebook.com/ahoratvtenerife/picture?width=200&height=200) | - | NONAV |
-| Canal 4 TV | [stream](https://iframe.dacast.com/b/126422/c/496014) | [web](https://canal4tvtelde.es/en-directo) | [logo](https://graph.facebook.com/canal4tvtelde/picture?width=200&height=200) | - | EMB |
-| Lancelot TV | [m3u8](https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8) | [web](https://www.lancelot.tv/directo) | [logo](https://graph.facebook.com/288850935035196/picture?width=200&height=200) | - | - |
+| Lancelot TV | [m3u8](https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8) | [web](https://www.lancelot.tv/directo/) | [logo](https://graph.facebook.com/288850935035196/picture?width=200&height=200) | - | - |
+| Canal 4 Telde TV | [stream](https://iframe.dacast.com/b/126422/c/496014) | [web](https://canal4tvtelde.es/en-directo) | [logo](https://graph.facebook.com/canal4tvtelde/picture?width=200&height=200) | - | EMB |
+| Noroeste TV | [m3u8](https://cloudvideo.servers10.com:8081/8032/index.m3u8) | [web](http://www.noroestetv.es) | [logo](https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200) | - | - |
 
 ### Cantabria
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Cantabria TV | [youtube](https://www.youtube.com/channel/UC0sXB5ZoIoXWvqdizegaifg/live) | [web](http://www.vegavision.tv/blog/section/television1) | [logo](https://graph.facebook.com/vegavisiontvcantabria/picture?width=200&height=200) | - | EMB |
+| Cantabria TV | [youtube](https://www.youtube.com/channel/UC0sXB5ZoIoXWvqdizegaifg/live) | [web](http://www.cantabriatv.es/) | [logo](https://graph.facebook.com/vegavisiontvcantabria/picture?width=200&height=200) | - | EMB |
 | Popular TV Cantabria | [m3u8](https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](https://populartvcantabria.com/en-directo/) | [logo](https://graph.facebook.com/populartvcantabria/picture?width=200&height=200) | PopularTV_S.TV | - |
 
 ### Castilla-La Mancha
@@ -467,7 +466,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 7 R. de Murcia | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | [logo](https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200) | 7RM.TV | - |
-| TeleArchena | [m3u8](https://ott.mapeka.es:64000/live/_definst_/telearchena/playlist.m3u8?bid=mapeka&sid=1&ref=bb22a7fda046cceead5da8d964caf620) | [web](https://telearchena.es/) | [logo](https://graph.facebook.com/telearchena.es/picture?width=200&height=200) | - | - |
+| TeleArchena | [m3u8](https://ott.mapeka.es:64000/live/_definst_/telearchena/playlist.m3u8?bid=mapeka&sid=1&ref=bb22a7fda046cceead5da8d964caf620) | [web](https://telearchena.es) | [logo](https://graph.facebook.com/telearchena.es/picture?width=200&height=200) | - | - |
 | Popular TV Murcia | [m3u8](https://cloud.streamingconnect.tv:455/populartvrm/populartvrm.m3u8) | [web](https://www.populartvrm.com/) | [logo](https://graph.facebook.com/poptvregiondemurcia/picture?width=200&height=200) | PopularMU.TV | - |
 | Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es/) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
 
