@@ -102,6 +102,7 @@
 | Radio Nacional | [m3u8](https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586409/master.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 3 | [m3u8](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/rne_c201_lv3_aosv4_gl0.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | - | - |
 | Del 40 al 1 | [m3u8](https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8) | [web](https://del40al1.los40.com) | [logo](https://graph.facebook.com/del40al1/picture?width=200&height=200) | - | - |
+| CanariasTV Eventos | [m3u8](https://rtvc-oca1.flumotion.com/playlist.m3u8) | [web](https://rtvc.es/en-directo/) | [logo](https://graph.facebook.com/188600904655/picture?width=200&height=200) | - | - |
 
 ## Autonómicos
 
