@@ -209,7 +209,7 @@
 | Cadena Luna | [stream](https://streaming.sonmedia.es/8010/stream) | [web](https://www.cadenaluna.es/) | [logo](https://graph.facebook.com/CadenaLunaRadio/picture?width=200&height=200) | - | - |
 | La Mas FM | [stream](https://streaming2.elitecomunicacion.es:8142/stream) | [web](https://lamasfm.com/) | [logo](https://graph.facebook.com/LAMASFM/picture?width=200&height=200) | - | - |
 | Cadena Latino | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es/) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=200&height=200) | - | - |
-| Radio Cartaya | [stream](http://5.135.183.124:8018/stream) | [web](http://www.radiocartaya.es/) | [logo](https://graph.facebook.com/radiocartaya/picture?width=200&height=200) | - | - |
+| Radio Cartaya | [stream](https://eu1.lhdserver.es:9237/stream) | [web](http://www.radiocartaya.es/) | [logo](https://graph.facebook.com/radiocartaya/picture?width=200&height=200) | - | - |
 | Central FM | [mp3](http://s29.myradiostream.com:4922/;listen.mp3) | [web](http://www.centralfm.com/) | [logo](https://graph.facebook.com/131322746891532/picture?width=200&height=200) | - | - |
 | Radio Oro | [mp3 # 1](http://185.23.192.118:8002/;stream.mp3) - [mp3 # 2](http://185.23.192.118:8004/;stream.mp3) | [web](http://www.radiooro.es/) | [logo](https://graph.facebook.com/RadioOroMalaga/picture?width=200&height=200) | - | - |
 | Canal Málaga RTV | [mp3](https://wecast-m01-01.flumotion.com/canalmalaga/live.mp3) | [web](http://canalmalaga.es/radio-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
