@@ -961,7 +961,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Radio Exterior | [m3u8](https://hlsliveamdgl0-lh.akamaihd.net/i/rneree_1@793572/master.m3u8) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](https://graph.facebook.com/RadioExterior/picture?width=200&height=200) | - | - |
+| Radio Exterior | [stream](https://crtve-ice-edge-2001-fra-eco-cdn.cast.addradio.de/crtve/rneree/main/aac/high) | [web](https://www.rtve.es/play/radio/radio-exterior/) | [logo](https://graph.facebook.com/RadioExterior/picture?width=200&height=200) | - | - |
 | SER Andorra | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3) | [web](https://play.cadenaser.com/emisora/radio_ser_principat_d_andorra/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Andorra.Radio | - |
 | Flaix Andorra | [mp3](http://radio.garden/api/ara/content/listen/2kvum5QK/channel.mp3) | [web](http://radios.flaixandorra.com/flaixfmand.html) | [logo](https://graph.facebook.com/flaixandorra/picture?width=200&height=200) | - | - |
 | Flaixbac Andorra | [mp3](http://radio.garden/api/ara/content/listen/lCLIa9LS/channel.mp3) | [web](http://radios.flaixandorra.com/flaixbacand.html) | [logo](https://graph.facebook.com/flaixbac/picture?width=200&height=200) | - | - |
