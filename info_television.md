@@ -691,6 +691,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | World Padel Tour | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Redbull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Meridiano Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| Channel Fight | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Stadium USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MsMotor TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
