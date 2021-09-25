@@ -158,7 +158,6 @@
 | Onda Cero El Ejido | [m3u8](https://livefastly-webs.ondacero.es/elejido-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/el-ejido/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Granada | [m3u8](https://livefastly-webs.ondacero.es/granada-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/granada/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Huelva | [m3u8](https://livefastly-webs.ondacero.es/huelva-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/huelva/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
-| EuropaFm Huelva | [stream](https://stm2.emiteonline.com:9001/europafmhuelva) | [web](http://www.andalucia.europafm.online/) | [logo](https://graph.facebook.com/EuropaFmAndalucia/picture?width=200&height=200) | - | - |
 | Onda Cero Jaén | [m3u8](https://livefastly-webs.ondacero.es/jaen-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/jaen/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Jerez de la Frontera | [m3u8](https://livefastly-webs.ondacero.es/jerez-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/jerez-frontera/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Marbella | [m3u8](https://livefastly-webs.ondacero.es/marbella-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/andalucia/marbella/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
@@ -173,6 +172,7 @@
 | LOS40 Costa de la Luz | [stream](http://5.135.183.124:8326/stream) | [web](http://www.los40costadelaluz.com/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | LOS40 Guadix | [stream](http://20873.live.streamtheworld.com:3690/LOS40_ASO_GUADIX_SC) | [web](https://cadenaser.com/emisora/radio_guadix/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | LOS40 Indalo | [stream](http://212.83.164.82:8011/40indalo.mp3) | [web](http://www.seralmeria.com/onlineradio/40indalo.html) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
+| Europa FM Huelva | [stream](https://stm2.emiteonline.com:9001/europafmhuelva) | [web](http://www.andalucia.europafm.online/) | [logo](https://graph.facebook.com/EuropaFmAndalucia/picture?width=200&height=200) | - | - |
 | Cadena Dial Almería | [mp3](http://212.83.164.82:8002/dial.mp3) | [web](http://www.seralmeria.com/onlineradio/dial.php) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
 | Cadena Dial Andalucia Este | [stream](http://streaming5.elitecomunicacion.es:8226/stream) | [web](http://dialandaluciaeste.com/) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
 | Cadena Dial Arahal | [mp3](https://20863.live.streamtheworld.com/DIAL_ASO_MORON.mp3) | [web](https://www.arahalaldia.com/) | [logo](https://graph.facebook.com/ArahalalDia/picture?width=200&height=200) | - | - |
@@ -289,6 +289,10 @@
 | COPE Gran Canaria | [mp3](https://wecast-b03-01.flumotion.com/copesedes/laspalmas.mp3) | [web](https://www.cope.es/directos/gran-canaria) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Tenerife | [mp3](https://wecast-m01-03.flumotion.com/copesedes/tenerife.mp3) | [web](https://www.cope.es/directos/tenerife) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Las Palmas | [m3u8](https://livefastly-webs.ondacero.es/canarias-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/canarias/las-palmas/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
+| Europa FM Tenerife / La Gomera | [stream](http://str1.mediatelekom.net:9950/live) | [web](https://www.europafmtenerife.com) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
+| Europa FM Tenerife / La Palma | [stream](https://str2.mediatelekom.net:9968/;) | [web](https://www.europafmtenerife.com/tenerife-norte-la-palma/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
+| Europa FM Santa Cruz | [stream](http://str1.mediatelekom.net:8010/;) | [web](https://www.europafmtenerife.com/santa-cruz-la-laguna/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
+| Europa FM Lanzarote / Fuerteventura | [stream](http://str1.mediatelekom.net:8097/;) | [web](https://www.europafmtenerife.com/lanzarote-fuerteventura/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Kiss FM Canarias | [mp3](http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3) | [web](http://kissfm.es/player/canarias.html) | [logo](https://graph.facebook.com/kissfm.es/picture?width=200&height=200) | - | - |
 | Radio Marca Tenerife | [stream](https://cervera.eldialdigital.com:22131/stream) | [web](https://radiomarcatenerife.com/) | [logo](https://graph.facebook.com/RadioMarcaTfe/picture?width=200&height=200) | - | WICE |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
@@ -306,11 +310,7 @@
 | MIX FM Radio | [stream](https://server10.emitironline.com:8064/stream) | [web](https://www.mixfm-radio.com/) | [logo](https://graph.facebook.com/mixfmradiotenerifelaradiodelacomarca/picture?width=200&height=200) | - | - |
 | Radio Teide | [stream](http://c01.lexycast.de:5070/.mp3) | [web](https://www.radioteide.eu/) | [logo](https://graph.facebook.com/RadioTeide/picture?width=200&height=200) | - | - |
 | Canal 11 Radio | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal11lapalma.net/escuchanos.html) | [logo](https://graph.facebook.com/189726651071598/picture?width=200&height=200) | - | - |
-| MUZ.FM | [mp3](http://185.229.9.121:8000/muzfm.mp3) | [web](http://muz.fm/?lang=es) | [logo](https://graph.facebook.com/muzfmradio/picture?width=200&height=200) | - | - |
-| EuropaFm Tenerife | [stream](http://str1.mediatelekom.net:9950/live) | [web](https://www.europafmtenerife.com/) | [logo](https://graph.facebook.com/tueuropafm /picture?width=200&height=200) | - | - |
-| EuropaFm Santa Cruz La Laguna | [stream](http://str1.mediatelekom.net:8010/;) | [web](https://www.europafmtenerife.com/santa-cruz-la-laguna/) | [logo](https://graph.facebook.com/tueuropafm /picture?width=200&height=200) | - | - |
-| EuropaFm Lanzarote / Fuerteventura | [stream](http://str1.mediatelekom.net:8097/;) | [web](https://www.europafmtenerife.com/lanzarote-fuerteventura/) | [logo](https://graph.facebook.com/tueuropafm /picture?width=200&height=200) | - | - |
-
+| MUZ.FM | [mp3](http://185.229.9.121:8000/muzfm.mp3) | [web](http://muz.fm) | [logo](https://graph.facebook.com/muzfmradio/picture?width=200&height=200) | - | - |
 
 ### Cantabria
 
