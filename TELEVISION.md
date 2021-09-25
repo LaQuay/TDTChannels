@@ -226,9 +226,9 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| CMM | [m3u8](http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8) | [web](https://www.cmmedia.es/en-directo/tv/) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | CMM.TV | - |
-| TV Hellín | [m3u8](https://hellin-hls-live.flumotion.com/hellin/hellin-live/playlist.m3u8) | [web](https://www.televisionhellin.com/tv-en-directo) | [logo](https://graph.facebook.com/tvhellin/picture?width=200&height=200) | - | - |
-| Guadalajara Media | [youtube](https://www.youtube.com/channel/UCaEv8XC5Czu8vfV_QKUARLQ/live) | [web](https://nuevaalcarria.com/) | [logo](https://graph.facebook.com/canalguadalajara/picture?width=200&height=200) | - | EMB |
+| Castilla-La Mancha Media | [m3u8](http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8) | [web](https://www.cmmedia.es/en-directo/tv/) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | CMM.TV | - |
+| TV Hellín | [m3u8](https://hellin-hls-live.flumotion.com/hellin/hellin-live/playlist.m3u8) | [web](https://www.televisionhellin.com/tv-en-directo/) | [logo](https://graph.facebook.com/tvhellin/picture?width=200&height=200) | - | - |
+| Guadalajara Media | [youtube](https://www.youtube.com/channel/UCaEv8XC5Czu8vfV_QKUARLQ/live) | [web](https://nuevaalcarria.com) | [logo](https://graph.facebook.com/canalguadalajara/picture?width=200&height=200) | - | EMB |
 | Guada TV | [m3u8](https://cloud.streamingconnect.tv:455/guadatv/guadatv.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200) | - | - |
 | Visión 6 TV | [m3u8](https://secure3.todostreaming.es/live/visionseis-livestream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | [logo](https://graph.facebook.com/104927246235553/picture?width=200&height=200) | - | NONAV |
 | Imás TV | [m3u8](https://secure3.todostreaming.es/live/imastv-livestream.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | [logo](https://graph.facebook.com/television.imas/picture?width=200&height=200) | - | NONAV |
@@ -236,10 +236,10 @@
 | InfoCanal Almansa | - | [web](https://zonacliente.almatelecom.es/videos/infocanal) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=200&height=200) | - | W3U,EXTA |
 | Alcarria TV | [m3u8 # 1](https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8) - [m3u8 # 2](http://217.182.77.27/live/alcarriatv-livestream.m3u8) | [web](https://www.alcarria.tv/ver-en-directo/) | [logo](https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200) | - | - |
 | Ciudad Real TV | [youtube](https://www.youtube.com/channel/UCNxFBlUBOaI3iQW37T3hFww/live) | [web](https://www.ciudadreal.es/servicios-municipales/cr-tv.html) | [logo](https://graph.facebook.com/1765736930414544/picture?width=200&height=200) | - | EMB |
-| Manzanares10TV | [m3u8](https://cloud.streamingconnect.tv:455/manzanares/manzanares.m3u8) | [web](http://www.manzanares10.tv/) | [logo](https://graph.facebook.com/Manzanares10TV/picture?width=200&height=200) | - | - |
+| Manzanares10TV | [m3u8](https://cloud.streamingconnect.tv:455/manzanares/manzanares.m3u8) | [web](http://www.manzanares10.tv) | [logo](https://graph.facebook.com/Manzanares10TV/picture?width=200&height=200) | - | - |
 | Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8) | [web](https://villarrobledonoticias.com/canal-4-mancha/) | [logo](https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200) | - | - |
-| TeleToledo | [m3u8](https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8) | [web](https://www.teletoledo.es/) | [logo](https://graph.facebook.com/Teletoledo/picture?width=200&height=200) | - | - |
-| Canal 2000 La Solana | [m3u8](http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8) | [web](http://www.canal2000.com/) | [logo](https://pbs.twimg.com/profile_images/1703771489/logo1p_200x200.jpg) | - | - |
+| TeleToledo | [m3u8](https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8) | [web](https://www.teletoledo.es) | [logo](https://graph.facebook.com/Teletoledo/picture?width=200&height=200) | - | - |
+| Canal 2000 | [m3u8](http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8) | [web](http://www.canal2000.com) | [logo](https://graph.facebook.com/canal2000/picture?width=200&height=200) | - | - |
 
 ### Castilla y León
 
