@@ -572,7 +572,7 @@
 | Canal IPe Perú | [m3u8](https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8) | [web](https://www.canalipe.tv/) | [logo](https://graph.facebook.com/canalipe/picture?width=200&height=200) | - | NONAV |
 | TeleSUR Venezuela | [m3u8](https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/) | [logo](https://graph.facebook.com/teleSUR/picture?width=200&height=200) | TeleSUR.TV | - |
 | Globovision Venezuela | [youtube](https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live) | [web](https://globovision.com/) | [logo](https://graph.facebook.com/globovision/picture?width=200&height=200) | - | EMB |
-| Venezolana de Televisión | [stream](https://www.dailymotion.com/embed/video/x828i6j?autoplay=1) | [web](https://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | EMB |
+| Venezolana de Televisión | [stream](https://www.dailymotion.com/embed/video/x842lps?autoplay=1) | [web](https://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | EMB |
 | Televen TV Venezuela | [m3u8](https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8) | [web](http://www.televen.com/enlinea/) | [logo](https://graph.facebook.com/TelevenTV/picture?width=200&height=200) | - | - |
 | VPI TV Venezuela | [stream](https://www.dailymotion.com/embed/video/x7zfpo2?autoplay=1) | [web](https://vpitv.com/en-vivo/) | [logo](https://graph.facebook.com/vpitv/picture?width=200&height=200) | - | EMB |
 | La Tele Tuya Venezuela | - | [web](https://teletplay.lateletuya.com/) | [logo](https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200) | - | W3U,EXTA |
