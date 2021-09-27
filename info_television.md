@@ -326,6 +326,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Mataró Audiovisual | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTV Vilafranca | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV de Girona | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Piera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 Empordà | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Cardedeu | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Vallès Visió | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
