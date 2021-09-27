@@ -710,7 +710,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Cadena Elite España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mola TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Urban Revolution España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La Urban TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | EuroLatina TV España | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Spektra TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | STZ Telebista España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
