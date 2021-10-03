@@ -987,7 +987,7 @@
 | Radio Montecarlo | [mp3](https://icy.unitedradio.it/RMC.mp3) | [web](https://www.radiomontecarlo.net/sezioni/10476/radio-monte-carlo-fm) | [logo](https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200) | - | - |
 | Tomorrowland Radio | [m3u8](https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8) | [web](https://oneworldradio.tomorrowland.com/) | [logo](https://graph.facebook.com/tomorrowland/picture?width=200&height=200) | - | - |
 | Radio Swiss Jazz | [stream](http://stream.srg-ssr.ch/m/rsj/mp3_128) | [web](http://www.radioswissjazz.ch/en) | [logo](https://graph.facebook.com/radioswissjazz/picture?width=200&height=200) | - | - |
-| Total Rock UK | [stream](https://s04.whooshclouds.net:8220/live) | [web](https://totalrock.com) | [logo](https://graph.facebook.com/totalrockradio/picture?width=200&height=200) | - | - |
+| Total Rock UK | [stream](https://s04.whooshclouds.net:8220/live) | [web](https://totalrock.com) | [logo](https://pbs.twimg.com/profile_images/1409510362744037383/scyjUQkn_200x200.jpg) | - | - |
 | Gaydio UK | [mp3](https://listen-gaydio.sharp-stream.com/gaydiouk.mp3) | [web](https://www.gaydio.co.uk/london/radioplayer/) | [logo](https://graph.facebook.com/gaydio/picture?width=200&height=200) | - | - |
 | Radio Francia Internacional | [mp3](https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3) | [web](http://www.rfi.fr/es/) | [logo](https://graph.facebook.com/rfienespanol/picture?width=200&height=200) | - | - |
 | Jazz Radio Blues Francia | [m3u8](https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3) | [web](https://www.jazzradio.fr/radio/webradio/3/blues) | [logo](https://graph.facebook.com/jazzradio.fr/picture?width=200&height=200) | - | - |
