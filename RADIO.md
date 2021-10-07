@@ -990,7 +990,7 @@
 | Total Rock UK | [stream](https://s04.whooshclouds.net:8220/live) | [web](https://totalrock.com) | [logo](https://pbs.twimg.com/profile_images/1409510362744037383/scyjUQkn_200x200.jpg) | - | - |
 | Gaydio UK | [mp3](https://listen-gaydio.sharp-stream.com/gaydiouk.mp3) | [web](https://www.gaydio.co.uk/london/radioplayer/) | [logo](https://graph.facebook.com/gaydio/picture?width=200&height=200) | - | - |
 | Radio Francia Internacional | [mp3](https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3) | [web](http://www.rfi.fr/es/) | [logo](https://graph.facebook.com/rfienespanol/picture?width=200&height=200) | - | - |
-| Jazz Radio Blues Francia | [m3u8](https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3) | [web](https://www.jazzradio.fr/radio/webradio/3/blues) | [logo](https://graph.facebook.com/jazzradio.fr/picture?width=200&height=200) | - | - |
+| Jazz Radio Francia | [mp3](https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3) | [web](https://www.jazzradio.fr/radio/webradio/1/jazz-radio) | [logo](https://graph.facebook.com/jazzradio.fr/picture?width=200&height=200) | - | - |
 | Rinse FM UK | [stream](https://streamer-uk.rinse.fm:8443/stream) | [web](https://rinse.fm/player/) | [logo](https://graph.facebook.com/rinsefm/picture?width=200&height=200) | - | WICE |
 | LOS40 Argentina | [stream](https://19253.live.streamtheworld.com/LOS40_ARGENTINAAAC) | [web](https://player.los40.com.ar) | [logo](https://graph.facebook.com/los40argentina/picture?width=200&height=200) | - | - |
 | FM Rock & Pop Argentina | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3) | [web](https://fmrockandpop.com/) | [logo](https://graph.facebook.com/FmRockandPop/picture?width=200&height=200) | - | - |
