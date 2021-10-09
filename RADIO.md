@@ -612,6 +612,7 @@
 | Trak FM Pamplona | [stream](https://pr1cen101.emisionlocal.com/proxy/trakfm?mp=/stream) | [web](https://trakfm.com/) | [logo](https://graph.facebook.com/trakfmpamplona/picture?width=200&height=200) | - | - |
 | Eguzki Irratia | [mp3](http://51.68.46.71:9000/eguzki.mp3) | [web](https://eguzki.eus/) | [logo](https://graph.facebook.com/293039954137807/picture?width=200&height=200) | - | - |
 | Radio Universidad de Navarra | [mp3](http://s37.myradiostream.com/8638/listen.mp3) | [web](https://www.unav.edu/radioplayer/endirecto.html) | [logo](https://graph.facebook.com/radiouniversidaddenavarra/picture?width=200&height=200) | - | - |
+| RadioJonvlogs21 98.6 | [stream](https://stream.zeno.fm/y2fr3wuvezzuv.mp3) | [web](https://sites.google.com/view/radiojonvlogs21/inicio) | [logo](https://graph.facebook.com/RadioJonvlogs21/picture?width=200&height=200) | - | WICE |
 
 ### C. Valenciana
 
