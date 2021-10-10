@@ -692,7 +692,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Cadena Elite España | [m3u8](https://cloudvideo.servers10.com:8081/8004/index.m3u8) | [web](https://www.cadenaelite.es/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
-| Mola TV España | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | [web](http://www.molatv.cat/) | [logo](https://yt3.ggpht.com/ytc/AKedOLS65DU0LM7LoQfWrUiJ7b415-pBALgR5WU0mEeP7A=s200-c-k-c0x00ffffff-no-rj) | - | - |
+| Molahits TV España | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | [web](http://www.molatv.cat/) | [logo](https://graph.facebook.com/molahitstv/picture?width=200&height=200) | - | - |
 | La Urban TV España | [m3u8](https://urbanrevolution.es:8443/live/TV/master.m3u8) | [web](https://www.urbanrevolution.es/?page_id=37) | [logo](https://graph.facebook.com/fmurban/picture?width=200&height=200) | - | - |
 | EuroLatina TV España | [m3u8](https://cdn01.yowi.tv/ZM1I2N6F9E/master.m3u8) | [web](https://www.eurolatinatv.com/) | [logo](https://graph.facebook.com/eurolatinatelevisioneuropa/picture?width=200&height=200) | - | NONAV |
 | Spektra TV España | [m3u8](https://streamtv.mediasector.es/hls/spektratv/index.m3u8) | [web](https://spektratv.com/) | [logo](https://graph.facebook.com/SpektraTelevision/picture?width=200&height=200) | - | - |
