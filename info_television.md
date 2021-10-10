@@ -275,8 +275,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La 8 Soria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 8 Valladolid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 8 Zamora | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV Benavente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 987 Live | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emisión eventual |
+| TV Benavente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 54 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TV Aranda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Junta Castilla y León | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -302,8 +302,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | teve.cat | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terres de l'Ebre | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| El 9 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Reus TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| El 9 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Empordà TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | BDN | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TAC 12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -327,15 +327,15 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTV Vilafranca | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV de Girona | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Piera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 10 Empordà | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Cardedeu | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| Canal 10 Empordà | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vallès Visió | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV del Ripollès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | etv | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Mar TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Sant Cugat | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| RTV10 Sesrovires | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| RTV10 Sesrovires | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | 25 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV de Sant Martí | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
@@ -355,10 +355,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | LaOtra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
 | Webcam OndaMadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleganés | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Distrito TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Déjate de Historias TV | 🌐 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telesur Madrid | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GCM TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Foral de Navarra
