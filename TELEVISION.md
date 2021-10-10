@@ -585,7 +585,7 @@
 | TeleAmazonas Ecuador | [m3u8](https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8) | [web](http://www.teleamazonas.com/teleamazonas-en-vivo/) | [logo](https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200) | - | - |
 | Bolivia 7.1 TV | - | [web](http://www.boliviatv.bo/principal/tvenvivo71.php) | [logo](https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200) | - | W3U,EXTA |
 | Bolivia 7.2 TV | [m3u8](https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8) | [web](http://www.boliviatv.bo/principal/tvenvivo72.php) | [logo](https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200) | - | - |
-| Red Pat Bolivia | [m3u8](https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8) | [web](https://www.redpat.tv/envivo/) | [logo](https://graph.facebook.com/patboliviahd/picture?width=200&height=200) | - | - |
+| Red Pat Bolivia | [m3u8](https://master.tucableip.com/pat/playlist.m3u8) | [web](https://www.redpat.tv/envivo/) | [logo](https://graph.facebook.com/patboliviahd/picture?width=200&height=200) | - | - |
 | Cubavisión TV | [stream](https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true) | [web](https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ) | [logo](https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200) | - | EMB |
 | CDN 37 República Dominicana | - | [web](https://cdn.com.do/envivo/) | [logo](https://graph.facebook.com/cdn.com.do/picture?width=200&height=200) | - | W3U,EXTA |
 | Telemicro República Dominicana | [m3u8](https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8) | [web](https://telemicro.com.do/web/telemicro-en-vivo/) | [logo](https://graph.facebook.com/telemicro5/picture?width=200&height=200) | - | - |
