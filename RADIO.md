@@ -370,8 +370,8 @@
 | Onda Cero Toledo | [m3u8](https://livefastly-webs.ondacero.es/toledo-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/castilla-la-mancha/toledo/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Toledo.Radio | - |
 | Onda Cero Valdepeñas | [m3u8](https://livefastly-webs.ondacero.es/valdepenas-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/castilla-la-mancha/valdepenas/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Valdepenas.Radio | - |
 | esRadio Albacete | [mp3](http://82.223.28.73:8000/esradioalbacete.mp3) | [web](https://www.esradioalbacete.es/) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
-| Surco Tomelloso | [mp3](http://stream.emisorasmusicales.com:8005/rsurco.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/radiosurco/picture?width=200&height=200) | - | WICE |
-| Surco Manzanares | [mp3](http://stream.emisorasmusicales.com:8006/manzanares.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/radiosurco/picture?width=200&height=200) | - | WICE |
+| Surco Tomelloso | [stream](https://node-19.zeno.fm/52vdh1y07qzuv) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/radiosurco/picture?width=200&height=200) | - | - |
+| Surco Manzanares | [stream](https://node-31.zeno.fm/v9k530trzwzuv) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/radiosurco/picture?width=200&height=200) | - | - |
 | AB95 FM | [stream](https://node-24.zeno.fm/xs2xvmvrzwzuv) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/ab95fm/picture?width=200&height=200) | - | - |
 | POP10 FM | [mp3](http://stream.emisorasmusicales.com:8006/pop10fmalcazar.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/pop10fm/picture?width=200&height=200) | - | WICE |
 | RM La Manchuela | [stream](https://cast.rmradio.es/radio/8040/stream) | [web](https://www.rmradio.es/lamanchuela/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
