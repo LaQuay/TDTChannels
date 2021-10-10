@@ -599,7 +599,7 @@
 | Canal 33 El Salvador | [m3u8](https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8) | [web](https://canal33.tv/home/tv-en-vivo/) | [logo](https://graph.facebook.com/CANAL33.TV/picture?width=200&height=200) | - | - |
 | Multimedios Costa Rica | [m3u8](https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8) | [web](https://www.multimedios.cr/video) | [logo](https://graph.facebook.com/MultimediosCR/picture?width=200&height=200) | - | - |
 | Trece Costa Rica | [stream](https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1) | [web](https://costaricamedios.cr/envivo) | [logo](https://graph.facebook.com/SinartTreceCostaRica/picture?width=200&height=200) | - | EMB |
-| Nex TV Panamá | [m3u8](https://rtmp02.portalexpress.es/nextv/nextv/playlist.m3u8) | [web](https://nexpanama.com/en-vivo/) | [logo](https://graph.facebook.com/nextvpanama/picture?width=200&height=200) | - | NONAV |
+| Nex TV Panamá | [m3u8](https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8) | [web](https://nexpanama.com/en-vivo/?streaming) | [logo](https://graph.facebook.com/nextvpanama/picture?width=200&height=200) | - | NONAV |
 | WIPR TV Puerto Rico | [m3u8](https://stream-wipr.online/hls/wipr/2_1/index.m3u8) | [web](https://wipr.pr/envivo/) | [logo](https://graph.facebook.com/wiprtv/picture?width=200&height=200) | - | - |
 | CNN Brasil | [youtube](https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live) | [web](https://www.cnnbrasil.com.br/ao-vivo) | [logo](https://graph.facebook.com/cnnbrasil/picture?width=200&height=200) | - | EMB |
 | SBT Interior Brasil | - | [web](https://sbtinterior.com/aovivo/) | [logo](https://graph.facebook.com/sbtnointerior/picture?width=200&height=200) | - | W3U,EXTA |
