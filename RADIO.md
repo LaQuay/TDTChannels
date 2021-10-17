@@ -601,15 +601,18 @@
 | SER Pamplona | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_PAMPLONA.mp3) | [web](https://play.cadenaser.com/emisora/radio_pamplona/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Pamplona.Radio | - |
 | SER Tafalla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TAFALLA.mp3) | [web](https://play.cadenaser.com/emisora/radio_tafalla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Tafalla.Radio | - |
 | SER Tudela | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TUDELA.mp3) | [web](https://play.cadenaser.com/emisora/ser_tudela/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Tudela.Radio | - |
+| COPE Estella | [stream](http://server1.emitironline.com:9866/radio) | [web](http://radioestella.com/inicio/) | [logo](https://pbs.twimg.com/profile_images/3722393260/a28c650e8db40bef24f20a2a184d2b8e_200x200.png) | - | - |
 | COPE Pamplona | [mp3](https://wecast-b03-02.flumotion.com/copesedes/pamplona.mp3) | [web](https://www.cope.es/directos/pamplona) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Tudela | [mp3](https://wecast-b03-02.flumotion.com/copesedes/tudela.mp3) | [web](https://www.cope.es/directos/tudela) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Pamplona | [m3u8](https://livefastly-webs.ondacero.es/pamplona-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/navarra/pamplona/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Pamplona.Radio | - |
+| Cadena 100 Estella | [stream](http://server9.emitironline.com:9373/radio) | [web](http://radioestella.com/) | [logo](https://graph.facebook.com/CADENA100/picture?width=200&height=200) | - | - |
 | Europa FM Ribera | [stream](http://srv0625.lcinternet.com:8033/stream) | [web](http://www.europafmribera.com/) | [logo](https://graph.facebook.com/EuropaFMRibera99.1/picture?width=200&height=200) | - | WICE |
 | esRadio Tudela | [stream](https://server.spainbroadcast.net/9010/stream) | [web](http://www.tudelahoy.com/estaticas/radio-tudela-esradio-960-fm.html) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
 | Euskalerria Irratia | [stream](http://server4.beatproducciones.com:8014/;) | [web](https://euskalerriairratia.eus/irratia/zuzenekoa) | [logo](https://graph.facebook.com/euskalerriairratia/picture?width=200&height=200) | - | - |
 | Trak FM Pamplona | [stream](https://pr1cen101.emisionlocal.com/proxy/trakfm?mp=/stream) | [web](https://trakfm.com/) | [logo](https://graph.facebook.com/trakfmpamplona/picture?width=200&height=200) | - | - |
 | Eguzki Irratia | [mp3](http://51.68.46.71:9000/eguzki.mp3) | [web](https://eguzki.eus/) | [logo](https://graph.facebook.com/293039954137807/picture?width=200&height=200) | - | - |
+| Estella-Lizarra FM | [stream](http://server9.emitironline.com:19512/radio) | [web](http://radioestella.com/) | [logo](https://graph.facebook.com/estellalizarrafm/picture?width=200&height=200) | - | - |
 | Radio Universidad de Navarra | [mp3](http://s37.myradiostream.com/8638/listen.mp3) | [web](https://www.unav.edu/radioplayer/endirecto.html) | [logo](https://graph.facebook.com/radiouniversidaddenavarra/picture?width=200&height=200) | - | - |
 
 ### C. Valenciana
@@ -866,7 +869,7 @@
 | Gaztea | [m3u8](https://eitb-live-dvr.global.ssl.fastly.net/live-content/gaztea-hls/master.m3u8) | [web](https://www.eitb.eus/eu/gaztea/gaztea-online/) | [logo](https://graph.facebook.com/gaztea/picture?width=200&height=200) | - | - |
 | Radio Nacional País Vasco | [stream](https://crtve-rne1-eus.cast.addradio.de/crtve/rne1/eus/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 País Vasco | [stream](https://crtve-rne5-vit.cast.addradio.de/crtve/rne5/vit/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
-| Radio Marca Bilbao | [mp3](http://stream.emisorasmusicales.com:8005/berrizfm.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
+| Radio Marca Bilbao | [stream](https://server8.emitironline.com:18475/stream) | [web](https://www.radiomarcabilbao.com/) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | Radio Marca Donostia | [stream](https://marca-sansebastian.streaming-pro.com:6101/live) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | Radio Marca Vitoria | [mp3](https://control.streaming-pro.com:6014/marcavitoria.mp3) | [web](http://kiroleros.com) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | SER Bilbao | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BILBAO.mp3) | [web](https://play.cadenaser.com/emisora/radio_bilbao/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Bilbao.Radio | - |
@@ -979,7 +982,7 @@
 | RDP Int. Portugal | [m3u8 # PT](https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u8) | [web](https://www.rtp.pt/play/direto/rdpinternacional) | [logo](https://graph.facebook.com/rtp/picture?width=200&height=200) | - | - |
 | Radio Comercial Portugal | [m3u8 # PT](https://media2.mcr.iol.pt/livefm/comercial/playlist.m3u8) | [web](https://m.radiocomercial.iol.pt/player/emissaofm) | [logo](https://graph.facebook.com/RadioComercial/picture?width=200&height=200) | - | - |
 | RFM Portugal | [stream # PT](https://21273.live.streamtheworld.com/RFMAAC) | [web](https://rfm.sapo.pt/emissaopub) | [logo](https://graph.facebook.com/rfmoficial/picture?width=200&height=200) | - | - |
-| Sputnik News Rusia | [mp3](http://icecast-ruvr.cdnvideo.ru/rian.voicespa?hash=.mp3) | [web](https://sputniknews.com/) | [logo](https://graph.facebook.com/SputnikNews/picture?width=200&height=200) | - | - |
+| Sputnik News Rusia | [stream](https://riavoice.gcdn.co/voicespa) | [web](https://mundo.sputniknews.com/) | [logo](https://graph.facebook.com/SputnikNews/picture?width=200&height=200) | - | - |
 | BFBS Gibraltar 1 | [mp3](https://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs7.aac) | [web](https://radio.bfbs.com/stations/bfbs-gibraltar) | [logo](https://graph.facebook.com/BFBSRadio/picture?width=200&height=200) | - | - |
 | BFBS Gibraltar 2 | [mp3](https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.aac) | [web](https://radio.bfbs.com/stations/bfbs-gibraltar) | [logo](https://graph.facebook.com/BFBSRadio/picture?width=200&height=200) | - | - |
 | Radio Montecarlo | [mp3](https://icy.unitedradio.it/RMC.mp3) | [web](https://www.radiomontecarlo.net/sezioni/10476/radio-monte-carlo-fm) | [logo](https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200) | - | - |
