@@ -806,7 +806,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTV Vida España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Solidaria TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Diócesis de San Sebastián España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Betania TV España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El Sembrador TV Europa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
