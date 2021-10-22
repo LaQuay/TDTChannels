@@ -200,6 +200,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101 Tele Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101 TV Axarquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trebujena TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Cádiz 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
