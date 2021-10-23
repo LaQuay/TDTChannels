@@ -219,7 +219,7 @@
 | Chocolate FM | [stream # 1](http://streaming5.elitecomunicacion.es:8082/live.mp3) - [stream # 2](https://streaming2.elitecomunicacion.es:8030/live.mp3) | [web](https://www.chocolatefm.com/) | [logo](https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200) | - | - |
 | Onda Mencía Radio | [stream](https://streaming12.elitecomunicacion.es:8146/stream) | [web](http://escucha.ondamenciaradio.com/) | [logo](https://graph.facebook.com/OndaMenciaRadio/picture?width=200&height=200) | - | - |
 | Radio Poniente | [stream](https://broadcast.radioponiente.org:8036/;) | [web](https://www.radioponiente.com/) | [logo](https://graph.facebook.com/radioponientedeportes/picture?width=200&height=200) | - | - |
-| 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](http://www.90fm.es/) | [logo](https://graph.facebook.com/90FMmalaga/picture?width=200&height=200) | - | - |
+| 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](http://www.90fm.es/) | [logo](https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg) | - | - |
 | Antena Huelva | [stream](http://stm1.emiteonline.com:8024/antenahuelva) | [web](http://antenahuelva.com/) | [logo](https://graph.facebook.com/109385783852066/picture?width=200&height=200) | - | WICE |
 | Estilo FM | [stream](https://streaming12.elitecomunicacion.es:8140/stream) | [web](https://estilofm.es/) | [logo](https://graph.facebook.com/estilofmes/picture?width=200&height=200) | - | - |
 | Radio Almaina | [ogg](http://blimp.streampunk.cc/_stream/almaina.ogg) | [web](https://www.radioalmaina.org/emision.html) | [logo](https://pbs.twimg.com/profile_images/2117013357/perfil-facebook_200x200.jpg) | - | - |
@@ -498,7 +498,7 @@
 | Metro FM | [stream](http://mp3.metroaudio1.stream.avstreaming.net:7200/metro) | [web](http://metrofm.es/) | [logo](https://graph.facebook.com/metrofm.es/picture?width=200&height=200) | - | - |
 | Ràdio Vilafranca | [stream](http://194.32.133.102:8000/;) | [web](https://www.rtvvilafranca.cat/radio-vilafranca/radio-en-directe/) | [logo](https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200) | - | - |
 | Ona La Torre | [stream](https://radio.cdnmedia.tv/radio/8070/onalatorre) | [web](http://onalatorre.alacarta.cat/escoltans-en-directe) | [logo](https://graph.facebook.com/ona.latorre/picture?width=200&height=200) | - | - |
-| Ràdio Estel | [stream](https://srv6021.dns-lcinternet.com:10247/stream) | [web](https://www.radioestel.cat/) | [logo](https://graph.facebook.com/Radioestelbcn/picture?width=200&height=200) | - | WICE |
+| Ràdio Estel | [stream](https://srv6021.dns-lcinternet.com:10247/stream) | [web](https://www.radioestel.cat/) | [logo](https://pbs.twimg.com/profile_images/1435594703458689026/8Xpo_Rrg_200x200.jpg) | - | WICE |
 | Gum FM Vielha | [stream](https://s4.radio.co/sc1cb45a9f/listen) | [web](https://gum.cat/) | [logo](https://graph.facebook.com/gumfm/picture?width=200&height=200) | - | - |
 | RAP107 | [mp3](http://streaming.enantena.com:8000/rap56.mp3) - [stream](https://enacast.com/rap107/streams/SD) | [web](https://enacast.com/rap107/) | [logo](https://graph.facebook.com/rap107/picture?width=200&height=200) | - | - |
 | Ràdio Caldes | [mp3](http://streaming.enantena.com:8000/radiocaldes56.mp3) - [stream](https://enacast.com/radiocaldes/streams/HD) | [web](http://www.radiocaldes.cat/) | [logo](https://graph.facebook.com/RadioCaldes107.8fm/picture?width=200&height=200) | - | - |
