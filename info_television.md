@@ -134,6 +134,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 7TV Andalucía - Algeciras | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía - Almería | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía - Bahía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía - El Puerto | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía - Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía - Costa Noroeste | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía - Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
