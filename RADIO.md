@@ -960,7 +960,7 @@
 | Radio Intereconomía Murcia | [stream](http://eu1.lhdserver.es:9152/stream) | [web](http://intereconomiamurcia.blogspot.com/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [stream](https://stm2.emiteonline.com:9040/web) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | WICE |
 | Loca FM Murcia | [stream](http://185.36.211.142:57321/locac) | [web](http://www.locafmmurcia.net/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
-| Wifon FM | [stream](http://675305b885ce.sn.mynetname.net:8085/wifonfm) | [web](http://wifonfm.es/streaming) | [logo](https://graph.facebook.com/wifonfm/picture?width=200&height=200) | - | WICE |
+| Wifon FM | [stream](http://betelgeuse.dribbcast.com:9177/live) | [web](http://wifonfm.es/streaming) | [logo](https://graph.facebook.com/wifonfm/picture?width=200&height=200) | - | WICE |
 | Metropólitan Radio | [stream](https://metropolis.radioca.st/stream) | [web](https://metropolisfm.es/) | [logo](https://yt3.ggpht.com/bKiREMXpQ0k2o78hBrRS_a4PAh2_o1GrG5KGGI6KnYg5BnKmHrFPXXYWe9QjMZ48pUuffjtX1A=s200-c-k-c0x00ffffff-no-rj) | - | - |
 | Caravaca Radio | [stream](http://84.232.12.14:8000/caravacaradio) | [web](https://www.caravacaradio.com/) | [logo](https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200) | - | WICE |
 | Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](http://www.radiocalasparra.es/) | [logo](https://graph.facebook.com/RadioCalasparra/picture?width=200&height=200) | - | - |
