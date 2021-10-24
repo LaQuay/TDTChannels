@@ -103,6 +103,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Paka Paka | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Cartoon Network Latino | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Eventuales
 
