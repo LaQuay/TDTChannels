@@ -70,7 +70,7 @@
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 | AS | [youtube](https://www.youtube.com/diarioas/live) | [web](https://as.com) | [logo](https://graph.facebook.com/as/picture?width=200&height=200) | - | EMB |
 | El 10 del Barça | [youtube](https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live) | [web](https://xn--el10delbara-v9a.com) | [logo](https://graph.facebook.com/El10delBarsa/picture?width=200&height=200) | - | EMB |
-| OKLIGA TV | [youtube](https://www.youtube.com/channel/UC6RLLzXQJWy1yCAEysy1Wgw/live) | [web](https://okliga.tv) | [logo](https://pbs.twimg.com/profile_images/1415300818224521218/rPcuCB7E_200x200.jpg) | - | EMB |
+| OKLIGA TV | [youtube](https://www.youtube.com/channel/UC6RLLzXQJWy1yCAEysy1Wgw/live) | [web](https://okliga.tv) | [logo](https://yt3.ggpht.com/ytc/AKedOLRCpkRZNcBfZLGvM1SO_Qf77p_xtv6OnU26aa23Vw=s200-c-k-c0x00ffffff-no-rj) | - | EMB |
 | FedHielo TV | [youtube](https://www.youtube.com/channel/UCuys7LUNfFcwwToSG3yMocw/live) | [web](https://www.rfedh.es/fedhielo-tv/) | [logo](https://graph.facebook.com/fedhielo/picture?width=200&height=200) | - | EMB |
 
 ## Infantiles
@@ -788,7 +788,7 @@
 | RTV Diocesana Toledo España | [m3u8](https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8) | [web](http://rtvd.org/) | [logo](https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_200x200.jpg) | - | NONAV |
 | Abadia de Montserrat España | [m3u8 # 1](https://live-edge-lon-1.cdn.enetres.net/CDB35895D88B49599996A01201668E06022/live-misas/index.m3u8) - [m3u8 # 2](https://play.cdn.enetres.net/CDB35895D88B49599996A01201668E06022/022/playlist.m3u8) | [web](http://www.montserratcomunicacio.cat/) | [logo](https://estatics.montserratvisita.com/img/imgTxtGenerals/foto_banners_nous_base117.jpg) | - | - |
 | Religión COPE España | [m3u8](https://cope-religion-video.flumotion.com/playlist.m3u8) | [web](https://www.cope.es/religion) | [logo](https://graph.facebook.com/religioncope/picture?width=200&height=200) | - | - |
-| RTV Vida España | [m3u8](https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/television/) | [logo](https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_400x400.jpg) | - | - |
+| RTV Vida España | [m3u8](https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/television/) | [logo](https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg) | - | - |
 | Solidaria TV España | [m3u8](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](https://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | - | - |
 | TBN España | [m3u8](https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt_new.stream_all/playlist_DVR.m3u8) | [web](https://xn--tbnespaa-j3a.es) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
 | Betania TV España | [youtube](https://www.youtube.com/channel/UCkMli1Vn4L17IoTLI0GEyHQ/live) | [web](https://www.elizagipuzkoa.org/base.php) | [logo](https://graph.facebook.com/152714321436277/picture?width=200&height=200) | - | EMB |
