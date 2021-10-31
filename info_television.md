@@ -254,8 +254,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Guada TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Visión 6 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Imás TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| CanalImagen Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| InfoCanal Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| CanalImagen Almansa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| InfoCanal Almansa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Alcarria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudad Real TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Manzanares10TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
