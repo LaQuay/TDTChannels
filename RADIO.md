@@ -842,6 +842,7 @@
 | Onda Cero Rioja | [m3u8](https://server10.emitironline.com:8200/stream) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Rioja.Radio | - |
 | Europa FM Rioja | [stream](https://server10.emitironline.com:8202/stream) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Melodía FM Rioja | [stream](https://server10.emitironline.com:8204/stream) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=200&height=200) | - | - |
+| Radio Logroño | [stream](https://riojared.radioca.st/radiologrono) | [web](https://radiologrono.es) | [logo](https://graph.facebook.com/radiologrono/picture?width=200&height=200) | - | WICE |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
 | Onda Ocio | [stream](https://radioserver10.profesionalhosting.com:23334/stream) | [web](https://www.ondaocio.es/) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | WICE |
 | Onda Fuenmayor | [mp3](http://78.129.240.14:31574/;.mp3) | [web](http://www.ondafuenmayor.com/) | [logo](https://4.bp.blogspot.com/-SEiOZH7JEi0/VhPnj-jC0aI/AAAAAAAAACo/gN3SGFY6iwM/s200/logo%2BONDA%2BFUENMAYOR%2Boriginal.jpg) | - | - |
