@@ -649,6 +649,7 @@
 | NBS TV Uganda | [m3u8 # EN](https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/10-hls/live-media.m3u8) | [web](https://nbs.ug/live/) | [logo](https://graph.facebook.com/nbstelevision/picture?width=200&height=200) | - | - |
 | TVGE 1 Guinea Ecuatorial | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](http://www.tvgelive.gq/images/logo-dark.png) | - | - |
 | RASD TV | [m3u8](https://cloud.streamingconnect.tv:455/rasdtv/rasdtv.m3u8) | [web](https://rasd.tv) | [logo](https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200) | - | - |
+| SenTv Senegal | [m3u8](https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8) - [youtube](https://www.youtube.com/channel/UCKbMNmSR3KlI9v3xeInHEYA/live) | [web](https://sentv.sn/direct#idscroll) | [logo](https://graph.facebook.com/sentvtelevision/picture?width=200&height=200) | - | NONAV |
 
 ## Int. Otros
 
