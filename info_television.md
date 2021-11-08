@@ -196,7 +196,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | PTV Granada | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TeleGilena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Campiña Sur TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Islatel | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Córdoba | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Sevilla | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
