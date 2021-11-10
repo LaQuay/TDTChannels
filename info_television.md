@@ -667,8 +667,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | NBS TV Uganda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVGE 1 Guinea Ecuatorial | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RASD TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| SenTv Senegal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-
+| SenTV Senegal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. Otros
 
