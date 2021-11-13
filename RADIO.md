@@ -845,7 +845,7 @@
 | Radio Logroño | [stream](https://riojared.radioca.st/radiologrono) | [web](https://radiologrono.es) | [logo](https://graph.facebook.com/radiologrono/picture?width=200&height=200) | - | WICE |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
 | Onda Ocio | [stream](https://radioserver10.profesionalhosting.com:23334/stream) | [web](https://www.ondaocio.es/) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | WICE |
-| Onda Fuenmayor | [mp3](http://78.129.240.14:31574/;.mp3) | [web](http://www.ondafuenmayor.com/) | [logo](https://4.bp.blogspot.com/-SEiOZH7JEi0/VhPnj-jC0aI/AAAAAAAAACo/gN3SGFY6iwM/s200/logo%2BONDA%2BFUENMAYOR%2Boriginal.jpg) | - | - |
+| Onda Fuenmayor | [mp3](http://78.129.229.113:30387/;stream.mp3) | [web](http://www.ondafuenmayor.com/) | [logo](https://4.bp.blogspot.com/-SEiOZH7JEi0/VhPnj-jC0aI/AAAAAAAAACo/gN3SGFY6iwM/s200/logo%2BONDA%2BFUENMAYOR%2Boriginal.jpg) | - | - |
 
 ### Melilla
 
