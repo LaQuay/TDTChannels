@@ -489,7 +489,7 @@
 | Altafulla Ràdio | [mp3](http://streaming.enantena.com:8000/altafulla128.mp3) - [stream](https://enacast.com/altafullaradio/streams/HD) | [web](http://altafullaradio.cat/) | [logo](https://graph.facebook.com/altafulla.radio/picture?width=200&height=200) | - | - |
 | Radio Kanal BCN | [stream](https://radioserver10.profesionalhosting.com:60970/stream) | [web](https://radiokanalbarcelona.com/) | [logo](https://graph.facebook.com/radiokanalbarcelona/picture?width=200&height=200) | - | WICE |
 | La Marina FM | [stream](http://endirecte.amcl.cat:8000/lamarinafm) | [web](http://lamarina.cat/endirecte/) | [logo](https://graph.facebook.com/lamarinacat/picture?width=200&height=200) | - | WICE |
-| Mataró Ràdio | [stream](https://radio.cdnmedia.tv/radio/8030/mataroradio) | [web](https://mataroaudiovisual.alacarta.cat/directeR) | [logo](https://graph.facebook.com/mataroaudiovisual/picture?width=200&height=200) | - | - |
+| Mataró Ràdio | [stream](https://radio.cdnmedia.tv/radio/8030/mataroradio) | [web](https://mataroaudiovisual.alacarta.cat/directeR) | [logo](https://pbs.twimg.com/profile_images/1462469660226592772/MG4pwTJT_200x200.png) | - | - |
 | Cooltura FM | [mp3](https://server9.emitironline.com:19244/) | [web](http://coolturafm.com/) | [logo](https://graph.facebook.com/coolturafm/picture?width=200&height=200) | - | - |
 | Radio Bronka | [ogg](http://stream.nonfqdn.net:8000/rbronka.ogg) | [web](http://radiobronka.info/) | [logo](https://graph.facebook.com/RadioBronka/picture?width=200&height=200) | - | - |
 | Ràdio Silenci | [mp3](http://streaming.enacast.com:8000/radiosilenci56.mp3) - [stream](https://enacast.com/radiosilenci/streams/HD) | [web](http://www.radiosilenci.cat) | [logo](https://graph.facebook.com/rsilenci/picture?width=200&height=200) | - | - |
@@ -960,7 +960,7 @@
 | La Jungla Radio | [stream](https://stm2.emiteonline.com:9040/web) | [web](https://lajunglaradio.com/) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | WICE |
 | Loca FM Murcia | [stream](http://185.36.211.142:57321/locac) | [web](http://www.locafmmurcia.net/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Wifon FM | [stream](http://betelgeuse.dribbcast.com:9177/live) | [web](http://wifonfm.es/streaming) | [logo](https://graph.facebook.com/wifonfm/picture?width=200&height=200) | - | WICE |
-| Metropólitan Radio | [stream](https://metropolis.radioca.st/stream) | [web](https://metropolisfm.es/) | [logo](https://yt3.ggpht.com/bKiREMXpQ0k2o78hBrRS_a4PAh2_o1GrG5KGGI6KnYg5BnKmHrFPXXYWe9QjMZ48pUuffjtX1A=s200-c-k-c0x00ffffff-no-rj) | - | - |
+| Metropólitan Radio | [stream](https://metropolis.radioca.st/stream) | [web](https://metropolisfm.es/) | [logo](https://pbs.twimg.com/profile_images/1435351436523626507/lBjfSU1K_200x200.jpg) | - | - |
 | Caravaca Radio | [stream](http://84.232.12.14:8000/caravacaradio) | [web](https://www.caravacaradio.com/) | [logo](https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200) | - | WICE |
 | Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](http://www.radiocalasparra.es/) | [logo](https://graph.facebook.com/RadioCalasparra/picture?width=200&height=200) | - | - |
 | Inter Radio | [mp3](https://sonic.mediatelekom.net/8040/stream/;.mp3) | [web](https://lainter.es/) | [logo](https://graph.facebook.com/LaInter.es/picture?width=200&height=200) | - | - |
