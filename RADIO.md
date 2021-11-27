@@ -590,6 +590,8 @@
 | Radio Univ. Alcalá Henares | [stream](http://streaming.elitecomunicacion.es:8066/;) | [web](http://www.ruah.es/emision-online/) | [logo](https://graph.facebook.com/ruahradio/picture?width=200&height=200) | - | - |
 | Sol Radio | [stream](https://server.spainbroadcast.net/8054/stream) | [web](https://solradiomadrid.com/) | [logo](https://graph.facebook.com/solradio99.8/picture?width=200&height=200) | - | - |
 | La Equis | [stream](https://streaming12.elitecomunicacion.es:8264/stream) | [web](https://laequis.es/) | [logo](https://graph.facebook.com/laequis.es/picture?width=200&height=200) | - | - |
+| Esencia Radio | [stream](https://stream.zeno.fm/apu4qxap0rquv) | [web](https://www.esenciaradio.com/endirecto/) | [logo](https://graph.facebook.com/esenciaradio/picture?width=200&height=200) | - | - |
+| Antena CEMU | [stream](http://str1.mediatelekom.net:8110/;) | [web](http://antenacemu.com/emision-online/) | [logo](https://pbs.twimg.com/profile_images/912395345312862208/dp-ZE36J_200x200.jpg) | - | - |
 
 ### C. Foral de Navarra
 
