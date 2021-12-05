@@ -4,8 +4,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 1 | [m3u8 # 1](https://rtvelivestreamv3.akamaized.net/la1/la1_main_dvr.m3u8) - [m3u8 # 2](https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8) - [m3u8 # 3](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) | [web](https://www.rtve.es/play/videos/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
-| La 2 | [m3u8 # 1](https://rtvelivestreamv3.akamaized.net/la2/la2_main_dvr.m3u8) - [m3u8 # 2](https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8) - [m3u8 # 3](https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8) | [web](https://www.rtve.es/play/videos/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
+| La 1 | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1688877.m3u8) - [m3u8 # 2](https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8) - [m3u8 # 3](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) | [web](https://www.rtve.es/play/videos/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
+| La 2 | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1688885.m3u8) - [m3u8 # 2](https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8) - [m3u8 # 3](https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8) | [web](https://www.rtve.es/play/videos/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
 | Antena 3 | - | [web](https://www.atresplayer.com/directos/antena3/) | [logo](https://graph.facebook.com/antena3/picture?width=200&height=200) | Antena3.TV | W3U,EMB,EXTA |
 | Cuatro | -| [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | W3U,EMB,EXTA |
 | Telecinco | - | [web](https://www.mitele.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=200&height=200) | Telecinco.TV | W3U,EMB,EXTA |
@@ -78,7 +78,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Boing | - | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=200&height=200) | Boing.TV | W3U,EMB,EXTA |
-| Clan | [m3u8 # GEO](https://rtvelivestreamv3.akamaized.net/clan/clan_main_dvr.m3u8) - [m3u8 # GEO # 2](https://rtvelivestreamv3.akamaized.net/rtvesec/clan_bkp_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/clan/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | - |
+| Clan | [m3u8 # GEO](https://ztnr.rtve.es/ztnr/5466990.m3u8) - [m3u8 # GEO # 2](https://rtvelivestreamv3.akamaized.net/rtvesec/clan_bkp_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/clan/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | - |
 | Pequeradio TV | [m3u8](https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8) | [web](https://www.pequeradio.es/) | [logo](https://graph.facebook.com/Pequeradio/picture?width=200&height=200) | - | - |
 | Pocoyó | [youtube](https://www.youtube.com/channel/UCnB5W_ZJgiDFnklejRGADxw/live) | [web](https://www.pocoyo.com) | [logo](https://graph.facebook.com/pocoyo/picture?width=200&height=200) | - | EMB |
 | Warner Bros Kids | [youtube](https://www.youtube.com/channel/UCB82v6uKp1S-I-DVoL2neDA/live) | [web](https://www.wbkidsgo.com) | [logo](https://graph.facebook.com/WarnerBrosPicturesEspana/picture?width=200&height=200) | - | EMB |
