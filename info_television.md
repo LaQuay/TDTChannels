@@ -100,7 +100,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Cartoon Network Latino | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| LEGO Ninjago | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| LEGO Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Paka Paka | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
