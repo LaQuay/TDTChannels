@@ -357,7 +357,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Webcam OndaMadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleganés | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Distrito TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Déjate de Historias TV | 🌐 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Déjate de Historias TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Telesur Madrid | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GCM TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
