@@ -584,6 +584,7 @@
 | Onda Merlín C Radio | [stream](https://cervera.eldialdigital.com:25131/stream) | [web](https://www.omcradio.org/escuchanos/) | [logo](https://graph.facebook.com/OmcRadio/picture?width=200&height=200) | - | WICE |
 | Radio Morata | [stream](https://cervera.eldialdigital.com:25141/stream) | [web](http://www.radiomorata.com/lavoz/) | [logo](https://graph.facebook.com/radiomorata/picture?width=200&height=200) | - | WICE |
 | Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com/) | [logo](https://graph.facebook.com/Radio4GOficial/picture?width=200&height=200) | - | - |
+| Esencia Radio | [stream](https://stream.zeno.fm/apu4qxap0rquv) | [web](https://www.esenciaradio.com/endirecto/) | [logo](https://graph.facebook.com/esenciaradio/picture?width=200&height=200) | - | - |
 | Libertad FM | [mp3](https://endirecto.libertadfm.es/hq-libertadfm.mp3) | [web](https://libertadfm.es/2017/11/23/en-directo/) | [logo](https://graph.facebook.com/LIBERTADFM107/picture?width=200&height=200) | - | - |
 | Radio Las Águilas | [stream](http://server2.crearradio.com:8306/;stream) | [web](http://www.radiolasaguilas.es/) | [logo](https://pbs.twimg.com/profile_images/564877578943864832/0WaT4f5B_200x200.jpeg) | - | - |
 | ECO Leganés | [stream](https://cervera.eldialdigital.com:25191/stream) | [web](http://ecoleganes.org/) | [logo](https://graph.facebook.com/ecoleganes01/picture?width=200&height=200) | - | WICE |
@@ -593,8 +594,8 @@
 | Inforadio UCM | [stream](https://inforadio.ucm.es:8000/inforadio01) | [web](https://www.ucm.es/inforadio) | [logo](https://graph.facebook.com/inforadiocomplutense/picture?width=200&height=200) | - | WICE |
 | Canora Radio | [mp3](http://s8.streammonster.com:8335/stream) | [web](http://www.canora.es/) | [logo](https://graph.facebook.com/31116475535/picture?width=200&height=200) | - | WICE |
 | Radio Univ. Alcalá Henares | [stream](http://streaming.elitecomunicacion.es:8066/;) | [web](http://www.ruah.es/emision-online/) | [logo](https://graph.facebook.com/ruahradio/picture?width=200&height=200) | - | - |
+| Antena CEMU | [stream](http://str1.mediatelekom.net:8110/;) | [web](http://antenacemu.com/emision-online/) | [logo](https://graph.facebook.com/401769933317531/picture?width=200&height=200) | - | - |
 | Sol Radio | [stream](https://server.spainbroadcast.net/8054/stream) | [web](https://solradiomadrid.com/) | [logo](https://graph.facebook.com/solradio99.8/picture?width=200&height=200) | - | - |
-| La Equis | [stream](https://streaming12.elitecomunicacion.es:8264/stream) | [web](https://laequis.es/) | [logo](https://graph.facebook.com/laequis.es/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
 
