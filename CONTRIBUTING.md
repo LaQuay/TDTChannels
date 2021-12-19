@@ -66,4 +66,17 @@ Aplica lo mismo que para la TV. La preferencia siempre será la de elegir el _st
 ## Cúando se considera un canal de interés para TDTChannels?
 El objetivo del proyecto es el de incluir todos los canales que emitan de forma legal para España. Por ello, cualquier canal que tenga su centro de emisión en España será incluido. Sin embargo, si se trata de emisiones internacionales, habrá un conjunto de criterios que serán los que determinen la inclusión del canal. Estos criterios se resumen en la importancia del canal a incluir. Empezando por el número de seguidores a nivel global (una buena metrica es Facebook y Twitter). Más info: https://github.com/LaQuay/TDTChannels/pull/1279#issuecomment-774562588
 
+## Requisitos de inclusión
+Las emisiones deben cumplir los siguientes puntos:
+- La fuente debe ser la página oficial de la emisión.
+- El acceso debe ser directo, no se aceptarán emisiones previo registro / pago.
+- Deben ser visibles en España. Es el objetivo del proyecto. La mayoría del tiempo deben ser visibles en territorio español.
+
+### Vía Pull Request
+En [este documento](https://github.com/LaQuay/TDTChannels/edit/master/CONTRIBUTING.md) encontrarás la información de como realizar la Pull Request
+
+### Vía Formulario
+En [este formulario](https://tdtchannels.com/peticion) podrás realizar la petición.
+
+
 Gracias por colaborar!
