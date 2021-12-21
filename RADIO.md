@@ -65,7 +65,7 @@
 | Loca FM Loca Pride | [stream](http://s02.fjperezdj.com:8070/live) | [web](http://www.locafm.com/loca-pride/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Industrial | [stream](http://s02.fjperezdj.com:8076/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Drum&Bass | [stream](http://s02.fjperezdj.com:8065/live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
-| Loca FM Urban | [mp3](https://locafm-live3.flumotion.com/locafm/live3.mp3) | [web](http://www.locafm.com/loca-urban/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Urban | [stream](http://81.25.120.165:8015/live) | [web](http://www.locafm.com/loca-urban/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Clásica FM Radio | [stream](https://edge.mixlr.com/channel/asnfw) | [web](https://clasicafmradio.es/cfm-escucha/) | [logo](https://graph.facebook.com/clasicafmradio/picture?width=200&height=200) | - | - |
 | digitalHits FM | [stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](http://www.digitalhits.cat/directe/) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
 | La Urban Radio | [mp3](https://st1.urbanrevolution.es:8443/laurbanfm.mp3) | [web](https://www.urbanrevolution.es/?page_id=80) | [logo](https://graph.facebook.com/fmurban/picture?width=200&height=200) | - | - |
