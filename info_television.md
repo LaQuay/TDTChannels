@@ -555,7 +555,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Entertainment Tonight USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | America's Voice USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | BUZZR TV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Dabl USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Zee Mundo USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Newsmax TV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NTN24 América | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |

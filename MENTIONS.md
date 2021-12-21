@@ -1,4 +1,4 @@
-### Aparecemos en
+## Aparecemos en
 
 A continuación puedes encontrar los medios de información que nos han citado. Si crees que falta alguno, comunicanoslo,
 por favor!
