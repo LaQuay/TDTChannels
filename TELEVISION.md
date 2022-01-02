@@ -21,7 +21,6 @@
 | TRECE | [m3u8](https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | - |
 | El Toro TV | [m3u8](https://live1-eltorotv.flumotion.com/playlist.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | - |
 | mtmad 24h | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8) | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=200&height=200) | - | EXTA |
-| Secret Story 24h | - | [web](https://www.mitele.es/directo/secret-story-24h/) | [logo](https://graph.facebook.com/SecretStoryEs/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | UHD Spain | [m3u8](http://18.168.248.67/webdav/UHDSpain_SDR.m3u8) | [web](http://player.uhdspain.com) | [logo](https://i.ibb.co/PCK083P/UHD-Spain.png) | - | - |
 | Ten | - | [web](https://tentv.es/) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
@@ -176,7 +175,7 @@
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | CanalMalaga.TV | - |
 | 101 TV Axarquía | [m3u8](https://limited38.todostreaming.es/live/101tv-webAxarquia.m3u8) | [web](https://www.101tv.es/directo.axarquia.aspx) | [logo](https://graph.facebook.com/101tvaxarquia/picture?width=200&height=200) | 101Axarquía.TV | - |
 | PTV Granada | [m3u8](https://streamer.zapitv.com/PTV-GRANADA/tracks-v1a1/mono.m3u8) | [web](https://ptvtelecom.com/canales/granada.html) | [logo](https://graph.facebook.com/PTVGranada/picture?width=200&height=200) | - | NONAV |
-| TeleGilena | [m3u8](https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8) | [web](http://www.telegilena.com/directo/) | [logo](https://pbs.twimg.com/profile_images/1323402078153285632/xCLDLju__200x200.jpg) | - | - |
+| TeleGilena | [m3u8](https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8) | [web](http://www.telegilena.com/directo/) | [logo](https://pbs.twimg.com/profile_images/1472227862098894851/HMFlX048_200x200.jpg) | - | - |
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200) | FuengirolaTV.TV | - |
 | Islatel | [m3u8](https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8) | [web](https://islatel.es/canal-local/) | [logo](https://graph.facebook.com/101523104600501/picture?width=200&height=200) | - | - |
 | PTV Córdoba | [m3u8](https://streamer.zapitv.com/PTV_CORD/tracks-v1a1/mono.m3u8) | [web](https://ptvtelecom.com/canales/cordoba.html) | [logo](https://graph.facebook.com/PTVCOR/picture?width=200&height=200) | - | NONAV |
@@ -261,7 +260,7 @@
 | 987 Live | [youtube](https://www.youtube.com/channel/UC41bdA6AiwEb34_S7KcMHOw/live) | [web](http://987live.com/category/n8s-directo/) | [logo](https://graph.facebook.com/987live/picture?width=200&height=200) | - | EMB |
 | TV Benavente | [m3u8](https://cloud.streamingconnect.tv:455/tvbenavente/tvbenavente.m3u8) | [web](https://www.tvbenavente.es/directo/) | [logo](https://graph.facebook.com/benaventetv/picture?width=200&height=200) | Benavente.TV | - |
 | Canal 54 | [stream](https://player.twitch.tv/?channel=canal54tvburgos&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
-| TV Aranda | [m3u8](https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8) | [web](http://www.telearanda.es) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | NONAV |
+| TV Aranda | [m3u8](https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8) | [web](http://www.telearanda.es) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | NONAV |
 | Junta Castilla y León | [m3u8](https://16escalones-live2.flumotion.com/chunks.m3u8) | [web](http://jcyltv.16escalones.es) | [logo](https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200) | - | - |
 
 ### Cataluña
@@ -537,7 +536,6 @@
 | Entertainment Tonight USA | [m3u8 # EN](https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8) | [web](https://www.etonline.com/live) | [logo](https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200) | - | - |
 | America's Voice USA | [m3u8 # EN](https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8) | [web](https://americasvoice.news) | [logo](https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200) | - | - |
 | BUZZR TV USA | [m3u8 # EN](https://buzzr-samsungus.amagi.tv/playlist.m3u8) | [web](https://buzzrtv.com/watch) | [logo](https://graph.facebook.com/BUZZRtv/picture?width=200&height=200) | - | - |
-| Zee Mundo USA | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/index-1628318189-now.m3u8) | [web](https://es.zeemundo.com/canal/zee-mundo-en-vivo) | [logo](https://pbs.twimg.com/profile_images/947029151327723521/52c8ZeZQ_200x200.jpg) | Zee.TV | - |
 | Newsmax TV USA | [m3u8 # EN](https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8) | [web](https://www.newsmaxtv.com) | [logo](https://graph.facebook.com/newsmax/picture?width=200&height=200) | - | - |
 | NTN24 América | [youtube](https://www.youtube.com/channel/UCEJs1fTF3KszRJGxJY14VrA/live) | [web](https://www.ntn24.com/en-vivo/) | [logo](https://graph.facebook.com/NTN24/picture?width=200&height=200) | NTN24.TV | EMB |
 | Canal 6 Multimedios Mexico | [m3u8](https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8) | [web](https://www.multimedios.com/video) | [logo](https://graph.facebook.com/multimediostv/picture?width=200&height=200) | - | - |
