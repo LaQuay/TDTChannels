@@ -498,7 +498,6 @@
 | Cooltura FM | [mp3](https://server9.emitironline.com:19244/) | [web](http://coolturafm.com/) | [logo](https://graph.facebook.com/coolturafm/picture?width=200&height=200) | - | - |
 | Radio Bronka | [ogg](http://stream.nonfqdn.net:8000/rbronka.ogg) | [web](http://radiobronka.info/) | [logo](https://graph.facebook.com/RadioBronka/picture?width=200&height=200) | - | - |
 | Ràdio Silenci | [mp3](http://streaming.enacast.com:8000/radiosilenci56.mp3) - [stream](https://enacast.com/radiosilenci/streams/HD) | [web](http://www.radiosilenci.cat) | [logo](https://graph.facebook.com/rsilenci/picture?width=200&height=200) | - | - |
-| Metro FM | [stream](http://mp3.metroaudio1.stream.avstreaming.net:7200/metro) | [web](http://metrofm.es/) | [logo](https://graph.facebook.com/metrofm.es/picture?width=200&height=200) | - | - |
 | Ràdio Vilafranca | [stream](http://194.32.133.102:8000/;) | [web](https://www.rtvvilafranca.cat/radio-vilafranca/radio-en-directe/) | [logo](https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200) | - | - |
 | Ona La Torre | [stream](https://radio.cdnmedia.tv/radio/8070/onalatorre) | [web](http://onalatorre.alacarta.cat/escoltans-en-directe) | [logo](https://graph.facebook.com/ona.latorre/picture?width=200&height=200) | - | - |
 | Ràdio Estel | [stream](https://srv6021.dns-lcinternet.com:10247/stream) | [web](https://www.radioestel.cat/) | [logo](https://pbs.twimg.com/profile_images/1435594703458689026/8Xpo_Rrg_200x200.jpg) | - | WICE |
@@ -830,7 +829,6 @@
 | Ona Mediterrània | [mp3](http://streaming.enantena.com:8000/onamediterrania128.mp3) | [web](http://www.onamediterrania.cat/) | [logo](https://graph.facebook.com/OnaMediterrani/picture?width=200&height=200) | - | - |
 | Titoieta Ràdio | [stream](http://195.154.33.95:8034/stream) | [web](http://www.titoieta.cat/) | [logo](https://graph.facebook.com/titoieta/picture?width=200&height=200) | - | WICE |
 | Radio Balear.es | [stream](https://server10.emitironline.com:8076/stream) | [web](https://radiobalear.net/radio-en-directo/) | [logo](https://graph.facebook.com/rbalear.interbaleares/picture?width=200&height=200) | - | - |
-| EcoRadio | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg781899?mp=/stream) | [web](http://www.ecoradio.es/) | [logo](https://graph.facebook.com/ecoradio.es/picture?width=200&height=200) | - | - |
 | Formentera Radio | [stream](http://srv0411.lcinternet.com:8012/stream) | [web](http://player.lcinternet.es/v9/cc654_id977/) | [logo](https://graph.facebook.com/FormenteraRadio/picture?width=200&height=200) | - | WICE |
 | Isla 106 | [stream](https://stream.isla106.com/isla106) | [web](https://www.isla106.com/) | [logo](https://graph.facebook.com/Isla106Radio/picture?width=200&height=200) | - | - |
 | Radio Murta | [stream](http://91.121.156.27:8013/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://static-media.streema.com/media/cache/c1/a3/c1a323d20e5cd83f4199fb3f23961f41.jpg) | - | WICE |
