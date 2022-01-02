@@ -533,6 +533,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Televizija Eslovenia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVR Int. Rumania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RÚV Islandia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| San Marino RTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Current Time TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RT News | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RT Documentary | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
