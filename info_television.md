@@ -483,7 +483,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | TPA7 | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | EsAsturiasTV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Canal 10 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Comercio Audiovisual | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### R. de Murcia
 

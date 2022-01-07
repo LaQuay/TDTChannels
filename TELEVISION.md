@@ -465,7 +465,7 @@
 | - | - | - | - | - | - |
 | TPA7 | - | [web](https://www.rtpa.es/tpa-television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | W3U,EXTA |
 | EsAsturiasTV | [m3u8](https://cloud.streamingconnect.tv:455/asturiastv/asturiastv.m3u8) | [web](https://www.esasturias.tv/directo) | [logo](https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200) | - | NONAV |
-| Canal 10 | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](http://www.canal10tv.com) | [logo](https://graph.facebook.com/canal10videosasturias/picture?width=200&height=200) | - | - |
+| El Comercio Audiovisual | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](https://www.elcomerciotv.es) | [logo](https://graph.facebook.com/canal10videosasturias/picture?width=200&height=200) | - | - |
 
 ### R. de Murcia
 
