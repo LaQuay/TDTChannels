@@ -289,8 +289,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | TV3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 324 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 33 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Super3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 33 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión eventual, comparte señal con Super3 |
+| Super3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión eventual, comparte señal con 33 |
 | CCMA Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CCMA Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 1 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
