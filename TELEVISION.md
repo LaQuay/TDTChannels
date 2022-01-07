@@ -445,8 +445,8 @@
 | - | - | - | - | - | - |
 | ETB 1 | [m3u8](https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB1.TV | - |
 | ETB 2 | [m3u8](https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB2.TV | - |
-| ETB Eventos 1 | [m3u8](https://etbvnogeo-lh.akamaihd.net/i/OCA1HD_1@748519/master.m3u8) | [web](https://www.eitb.eus/es/noticias/actualidad-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
-| ETB Eventos 2 | [m3u8 # GEO](https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
+| ETB Eventos 1 | [m3u8](https://live-dvr.eitb-fastly.cross-media.es/live-content/oka1hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/noticias/actualidad-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
+| ETB Eventos 2 | [m3u8 # GEO](https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
 | Hamaika TV | [m3u8](https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8) | [web](https://www.hamaika.eus/zuzenean) | [logo](https://graph.facebook.com/HamaikaTb/picture?width=200&height=200) | - | - |
 | Tele 7 | [m3u8](https://5df8a678a3840.streamlock.net/8012/8012/playlist.m3u8) | [web](https://tele7.tv/tele-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200) | - | - |
 | Goiena Eus | [m3u8](https://zuzenean.goienamedia.eus:8443/goiena-telebista.m3u8) | [web](https://goiena.eus/telebista/zuzenekoa) | [logo](https://graph.facebook.com/goiena.eus/picture?width=200&height=200) | - | - |
@@ -480,7 +480,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TV3CAT | [m3u8 # GEOCAT](https://directes-tv-es.ccma.cat/ca/ngrp:tvc_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:tvc_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/tv3cat/) | [logo](https://graph.facebook.com/tv3/picture?width=200&height=200) | - | - |
-| EITB Basque | [m3u8](https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8) | [web](https://www.eitb.eus/es/television/eitb-basque/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETBSAT.TV | - |
+| EITB Basque | [m3u8](https://live-dvr.eitb-fastly.cross-media.es/live-content/eitbbasque-hls/master.m3u8) | [web](https://www.eitb.eus/es/television/eitb-basque/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETBSAT.TV | - |
 | TVG América | [m3u8](https://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
 | ATV Andorra | - | [web](https://www.andorradifusio.ad/endirecte/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVHD.TV | W3U,EMB,EXTA |
 | ATV Web Andorra | - | [web](https://www.andorradifusio.ad/endirecte/canalweb) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVCW.TV | W3U,EMB,EXTA |
