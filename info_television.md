@@ -559,6 +559,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | America's Voice USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | BUZZR TV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Newsmax TV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| America TeVe USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NTN24 América | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal 6 Multimedios Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Milenio Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
