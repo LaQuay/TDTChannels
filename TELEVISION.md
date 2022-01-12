@@ -68,7 +68,7 @@
 | LaLiga SmartBank | [youtube](https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg/live) | [web](https://www.laliga.com/laliga-smartbank) | [logo](https://graph.facebook.com/LaLiga/picture?width=200&height=200) | - | EMB |
 | Real Federación Española de Fútbol | [m3u8](https://rfef-live3.flumotion.com/playlist.m3u8) | [web](https://www.rfef.es) | [logo](https://graph.facebook.com/RFEF/picture?width=200&height=200) | - | - |
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
-| AS | [youtube](https://www.youtube.com/diarioas/live) | [web](https://as.com) | [logo](https://graph.facebook.com/as/picture?width=200&height=200) | - | EMB |
+| AS | [youtube](https://www.youtube.com/diarioas/live) | [web](https://as.com) | [logo](https://pbs.twimg.com/profile_images/1479412940654759940/RhU0sOpo_200x200.jpg) | - | EMB |
 | El 10 del Barça | [youtube](https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live) | [web](https://xn--el10delbara-v9a.com) | [logo](https://graph.facebook.com/El10delBarsa/picture?width=200&height=200) | - | EMB |
 | OKLIGA TV | [youtube](https://www.youtube.com/channel/UC6RLLzXQJWy1yCAEysy1Wgw/live) | [web](https://okliga.tv) | [logo](https://yt3.ggpht.com/ytc/AKedOLRCpkRZNcBfZLGvM1SO_Qf77p_xtv6OnU26aa23Vw=s200-c-k-c0x00ffffff-no-rj) | - | EMB |
 | FedHielo TV | [youtube](https://www.youtube.com/channel/UCuys7LUNfFcwwToSG3yMocw/live) | [web](https://www.rfedh.es/fedhielo-tv/) | [logo](https://graph.facebook.com/fedhielo/picture?width=200&height=200) | - | EMB |
