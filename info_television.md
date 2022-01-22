@@ -132,21 +132,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Algeciras | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Almería | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Bahía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - El Puerto | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Costa Noroeste | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Huelv | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Jaen | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Jerez | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Sevilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía - Sierra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Emite en directo a través de Facebook |
 | Jerez TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
