@@ -26,7 +26,7 @@
 | Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
-| Paramount Network | - | [web](https://www.paramountnetwork.es) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200) | Paramount.TV | NOEM |
+| Paramount Network | [m3u8](http://185.41.244.69/paramountnetwork/tracks-v2a1a2/playlist.m3u8) | [web](https://www.paramountnetwork.es) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200) | Paramount.TV | NOEM |
 | BOM Cine | - | [web](https://www.bomcine.com) | [logo](https://graph.facebook.com/BOMCINEtv/picture?width=200&height=200) | BOMCine.TV | NOEM |
 
 ## Informativos
