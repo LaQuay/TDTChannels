@@ -104,6 +104,7 @@
 | Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/2795617.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | - | - |
 | Del 40 al 1 | [m3u8](https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8) | [web](https://del40al1.los40.com) | [logo](https://graph.facebook.com/del40al1/picture?width=200&height=200) | - | - |
 | De sábado con Christian Gálvez | [m3u8](https://hls-directo02-cope-stream.flumotion.com/cope/directo02/playlist.m3u8) | [web](https://www.cadena100.es/programas/de-sabado-con-christian-galvez) | [logo](https://graph.facebook.com/SabadoCADENA100/picture?width=200&height=200) | - | - |
+| Como el perro y el gato | [m3u8](https://live-estudio.ondacero.es/estudio_oc-pull/video/master.m3u8) | [web](https://www.melodia-fm.com/programas/como-perro-gato/) | [logo](https://graph.facebook.com/cpgradio.es/picture?width=200&height=200) | - | - |
 
 ## Autonómicos
 
