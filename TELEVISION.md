@@ -42,6 +42,7 @@
 | Libertad Digital TV | [stream](https://www.dailymotion.com/embed/video/xnm032?autoplay=1) | [web](https://tv.libertaddigital.com/directo.html) | [logo](https://graph.facebook.com/libertad.digital.tv/picture?width=200&height=200) | Libertad.TV | EMB |
 | Negocios TV | [m3u8](https://live.gooru.live/negocios/live.m3u8) - [youtube](https://www.youtube.com/channel/UCwd8Byi93KbnsYmCcKLExvQ/live) | [web](https://www.negocios.com/directo) | [logo](https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg) | Negocios.TV | - |
 | 7NN Noticias | [m3u8](https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8) | [web](https://7nn.tv) | [logo](https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg) | - | - |
+| Aragón Noticias | [m3u8](https://cartv.streaming.aranova.es/hls/live/anoticias_canal2.m3u8) | [web](https://www.cartv.es/aragonnoticias/directo) | [logo](https://graph.facebook.com/AragonNoticias/picture?width=200&height=200) | - | - |
 
 ## Deportivos
 
