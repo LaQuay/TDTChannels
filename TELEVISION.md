@@ -359,7 +359,7 @@
 | 12TV Alicante | [m3u8](https://cloud.streamingconnect.tv:455/12tv/gcmin.m3u8) | [web](https://www.12tv.es) | [logo](https://graph.facebook.com/12tv.es/picture?width=200&height=200) | - | - |
 | Levante TV | [m3u8](https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8) | [web](http://www.levantetv.es) | [logo](https://graph.facebook.com/levantetv/picture?width=200&height=200) | - | - |
 | TV de San Vicente | [m3u8](https://emision.arpamedia.es:4343/hls/emisionsanvicente.m3u8) | [web](https://www.televisiondesanvicente.es/alacarta/endirecto/) | [logo](https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200) | - | - |
-| TV Vega Baja | [m3u8](https://streaming.tvt-datos.es:8080/hls/tvb/live.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | - |
+| TV Vega Baja | [m3u8](https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | - |
 | TV 4 Vall de Uxó | [m3u8](https://limited09.todostreaming.es/live/tarson-livestream.m3u8) | [web](https://teve4lavall.com) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=200&height=200) | - | - |
 | Burriana TV | - | [web](https://www.burrianateve.com/burrianateve-en-directe/) | [logo](https://graph.facebook.com/burrianateve/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | telesafor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](https://telesafor.com) | [logo](https://graph.facebook.com/Tele7Safor/picture?width=200&height=200) | - | - |
