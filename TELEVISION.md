@@ -330,6 +330,8 @@
 | Telesur Madrid | [m3u8](https://live.yowi.tv/1314e346aedca6930f48/master.m3u8) | [web](https://telesurmadrid.wordpress.com) | [logo](https://graph.facebook.com/telesurmadrid/picture?width=200&height=200) | - | NONAV |
 | C33 Madrid | [m3u8](https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8) | [web](http://www.canal33.info) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
 | GCM TV | [m3u8](https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8) | [web](https://grupocadenamediatv.com) | [logo](https://graph.facebook.com/100146922067408/picture?width=200&height=200) | - | - |
+| Nesting TV | [m3u8](https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_j5bz42qbg5s8.m3u8) | [web](https://nesting.tv) | [logo](https://graph.facebook.com/nestingtv/picture?width=200&height=200) | - | - |
+| Latin Channel TV | [m3u8](https://limited39.todostreaming.es/live/salome-livestream.m3u8) | [web](https://www.latinchanneltv.es) | [logo](https://graph.facebook.com/latinchanneltelevision/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
 
@@ -357,19 +359,19 @@
 | 12TV Alicante | [m3u8](https://cloud.streamingconnect.tv:455/12tv/gcmin.m3u8) | [web](https://www.12tv.es) | [logo](https://graph.facebook.com/12tv.es/picture?width=200&height=200) | - | - |
 | Levante TV | [m3u8](https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8) | [web](http://www.levantetv.es) | [logo](https://graph.facebook.com/levantetv/picture?width=200&height=200) | - | - |
 | TV de San Vicente | [m3u8](https://emision.arpamedia.es:4343/hls/emisionsanvicente.m3u8) | [web](https://www.televisiondesanvicente.es/alacarta/endirecto/) | [logo](https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200) | - | - |
-| TV Vega Baja | [m3u8](https://streaming.tvt-datos.es:8080/hls/tvb/live.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | - |
+| TV Vega Baja | [m3u8](https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | - |
 | TV 4 Vall de Uxó | [m3u8](https://limited09.todostreaming.es/live/tarson-livestream.m3u8) | [web](https://teve4lavall.com) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=200&height=200) | - | - |
 | Burriana TV | - | [web](https://www.burrianateve.com/burrianateve-en-directe/) | [logo](https://graph.facebook.com/burrianateve/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | telesafor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](https://telesafor.com) | [logo](https://graph.facebook.com/Tele7Safor/picture?width=200&height=200) | - | - |
 | Canal 56 | [m3u8](https://videos.canal56.com/directe/stream/index.m3u8) | [web](https://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=200&height=200) | - | NONAV |
 | Tevequatre TV | [m3u8](https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8) | [web](https://teve4.com/directe/) | [logo](https://graph.facebook.com/teve4televisio/picture?width=200&height=200) | - | NONAV |
 | Maestrat TV | [m3u8](https://stream.maestrat.tv/hls/stream.m3u8) | [web](https://www.maestrat.tv/directe) | [logo](https://graph.facebook.com/maestrat.tv/picture?width=200&height=200) | - | - |
-| Univers TV | [m3u8](https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8) | [web](https://www.universvalencia.es) | [logo](https://graph.facebook.com/UniversValenciaMedia/picture?width=200&height=200) | - | - |
+| Univers TV | [m3u8](https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8) | [web](https://www.universvalencia.es) | [logo](https://graph.facebook.com/UniversValenciaOficial/picture?width=200&height=200) | - | - |
 | TV Almassora | - | [web](https://www.tvalmassora.com/en-directo/) | [logo](https://graph.facebook.com/tvalmassora/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Onda 15 TV | [m3u8](https://cloudvideo.servers10.com:8081/8034/index.m3u8) | [web](https://onda15.es) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
 | Elche 7 TV | [m3u8](https://elche7tv.gestec-video.com/hls/canal2.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://pbs.twimg.com/profile_images/1350010679554695169/WXojvq15_200x200.jpg) | - | NONAV |
 | Punt 3 Vall Uixó | [m3u8](https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8) | [web](https://www.punt3.es/Directo/) | [logo](https://graph.facebook.com/Punt3Television/picture?width=200&height=200) | - | - |
-| El Toro Valencia TV | [m3u8](https://streaming-audio-1.magentalabs.es:19360/eltorotv/eltorotv.m3u8) | [web](https://television.intereconomiavalencia.com) | [logo](https://graph.facebook.com/radiointereconomiavalencia1071/picture?width=200&height=200) | - | - |
+| El Toro Valencia TV | [m3u8](https://video3.lhdserver.es/eltorovalencia/live.m3u8) | [web](https://television.intereconomiavalencia.com) | [logo](https://graph.facebook.com/radiointereconomiavalencia1071/picture?width=200&height=200) | - | - |
 | Televisión de Alicante | [m3u8](https://emision.arpamedia.es:4343/hls/emisionalicante.m3u8) | [web](https://www.televisiondealicante.es/alacarta/endirecto/) | [logo](https://graph.facebook.com/televisiondealicante/picture?width=200&height=200) | - | - |
 | Onda Valencia | [m3u8](https://cloudvideo.servers10.com:8081/8116/index.m3u8) | [web](https://www.ondavalencia.es/en-directo/onda-valencia-tv) | [logo](https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200) | - | - |
 | Ciudades Del Ocio TV | [m3u8](https://cloudvideo.servers10.com:8081/8024/index.m3u8) | [web](http://www.ciudadesdelocio.tv) | [logo](https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200&height=200) | - | NONAV |
@@ -452,7 +454,7 @@
 | - | - | - | - | - | - |
 | TPA7 | - | [web](https://www.rtpa.es/tpa-television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | W3U,EXTA |
 | EsAsturiasTV | [m3u8](https://cloud.streamingconnect.tv:455/asturiastv/asturiastv.m3u8) | [web](https://www.esasturias.tv/directo) | [logo](https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200) | - | NONAV |
-| El Comercio Audiovisual | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](https://www.elcomerciotv.es) | [logo](https://graph.facebook.com/canal10videosasturias/picture?width=200&height=200) | - | - |
+| El Comercio Audiovisual | [m3u8](https://bcsecurelivehls-i.akamaihd.net/hls/live/735833/78527750001/playlist.m3u8) | [web](https://www.elcomerciotv.es) | [logo](https://graph.facebook.com/canal10videosasturias/picture?width=200&height=200) | - | - |
 
 ### R. de Murcia
 
@@ -536,7 +538,7 @@
 | Excelsior Mexico | [youtube](https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live) | [web](https://www.excelsior.com.mx/tv) | [logo](https://graph.facebook.com/ExcelsiorMex/picture?width=200&height=200) | - | EMB |
 | Televisa News Mexico | [m3u8](https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8) | [web](https://noticieros.televisa.com/noticias-vivo-forotv/) | [logo](https://graph.facebook.com/FOROtv/picture?width=200&height=200) | - | - |
 | ADN40 Mexico | [m3u8](https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8) | [web](https://live.adn40.mx) | [logo](https://graph.facebook.com/ADN40mx/picture?width=200&height=200) | ADN40.TV | - |
-| Canal Once Mexico | [m3u8 # 1](https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8) - [m3u8 # 2](https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8) | [web](https://canalonce.mx/en-vivo) | [logo](https://graph.facebook.com/CANALONCETV/picture?width=200&height=200) | - | - |
+| Canal Once Mexico | [m3u8](https://live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8) | [web](https://canalonce.mx/en-vivo) | [logo](https://graph.facebook.com/CANALONCETV/picture?width=200&height=200) | - | - |
 | Quiero TV Mexico | [stream](https://www.dailymotion.com/embed/video/x8452uw?autoplay=1) | [web](https://quierotv.mx/videoenvivo/) | [logo](https://graph.facebook.com/quierotvGDL/picture?width=200&height=200) | - | EMB |
 | Mexico Travel TV | [stream](https://www.dailymotion.com/embed/video/x7v76vf?autoplay=1) | [web](https://www.mexicotravelchannel.com.mx) | [logo](https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200) | - | EMB |
 | Turistik TV Mexico | [m3u8](https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8) | [web](https://turistiktv.com.mx/inicio/) | [logo](https://graph.facebook.com/turistikmedia/picture?width=200&height=200) | - | - |
@@ -617,7 +619,7 @@
 | New Delhi TV 24x7 India | [m3u8 # EN](https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8) | [web](https://www.ndtv.com/video/live/channel/ndtv24x7) | [logo](https://graph.facebook.com/ndtv/picture?width=200&height=200) | - | - |
 | Times Now India | [m3u8 # EN # 1](https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8) - [m3u8 # EN # 2](https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8) | [web](https://timesofindia.indiatimes.com/live-tv) | [logo](https://graph.facebook.com/Timesnow/picture?width=200&height=200) | - | - |
 | Republic World TV India | [m3u8 # EN](https://weblive.republicworld.com/httppush/ottr_republic_english/master.m3u8) | [web](https://www.republicworld.com/livetv) | [logo](https://graph.facebook.com/RepublicWorld/picture?width=200&height=200) | - | - |
-| Hispan TV Iran | [m3u8](https://live.presstv.ir/live/smil:live.smil/hispan.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://pbs.twimg.com/profile_images/1399973032349863937/hkQtV-73_200x200.jpg) | - | - |
+| Hispan TV Iran | [m3u8](https://live.presstv.ir/live/smil:live.smil/hispan.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://pbs.twimg.com/profile_images/1489915604014354435/FoT4lMdj_200x200.jpg) | - | - |
 | Channel NewsAsia | [m3u8 # EN](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8) | [web](https://www.channelnewsasia.com/watch) | [logo](https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200) | - | - |
 | TVBS News Taiwán | [youtube # ZH](https://www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ/live) | [web](https://news.tvbs.com.tw/live/news4live) | [logo](https://graph.facebook.com/tvbsfb/picture?width=200&height=200) | - | EMB |
 | SET News Taiwán | [youtube # ZH # 1](https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live) - [youtube # ZH # 2](https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live) | [web](https://live.setn.com) | [logo](https://graph.facebook.com/setnews/picture?width=200&height=200) | - | EMB |
@@ -648,7 +650,7 @@
 | Bloomberg Quicktake | [m3u8 # EN](https://www.bloomberg.com/media-manifest/streams/qt.m3u8) | [web](https://www.bloomberg.com/qt/live) | [logo](https://graph.facebook.com/quicktake/picture?width=200&height=200) | - | - |
 | Tastemade | [m3u8](https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/playlist.m3u8) - [m3u8 # EN](https://tastemade.samsung.wurl.com/manifest/playlist.m3u8) | [web](https://watch.tastemade.com/live-tv) | [logo](https://graph.facebook.com/TastemadeEs/picture?width=200&height=200) | - | - |
 | Fashion TV | [m3u8](https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8) | [web](https://www.fashiontv.com/#ftv_uhd) | [logo](https://graph.facebook.com/FTV/picture?width=200&height=200) | - | - |
-| Miami TV | [m3u8 # 1](https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w214662580_b2592000.m3u8) - [m3u8 # 2](https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8) - [m3u8 # 3](https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8) | [web](https://miamitvhd.com) | [logo](https://graph.facebook.com/miamitv/picture?width=200&height=200) | - | - |
+| Miami TV | [m3u8 # 1](https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8) - [m3u8 # 2](https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8) - [m3u8 # 3](https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8) | [web](https://miamitvhd.com) | [logo](https://graph.facebook.com/miamitv/picture?width=200&height=200) | - | - |
 | Locomotion TV | [m3u8 # 1](http://locomotiontv.com/envivo/loco_ch/stream.m3u8) - [m3u8 # 2](http://51.222.85.85:81/hls/loco/index.m3u8) | [web](http://locomotiontv.com/envivo) | [logo](https://graph.facebook.com/locomotionxtv/picture?width=200&height=200) | - | - |
 | Classic Arts Showcase | [m3u8 # EN](https://gcamhls02-i.akamaihd.net/hls/live/1024257/ClassicArts/master.m3u8) | [web](https://www.classicartsshowcase.org/watch-classic-arts-showcase/) | [logo](https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg) | - | - |
 | American Horrors Movies | [m3u8 # EN](http://170.178.189.70:1935/live/Stream1/playlist.m3u8) | [web](http://www.americanhorrors.com) | [logo](https://graph.facebook.com/AMERICANHORRORS/picture?width=200&height=200) | - | - |
@@ -664,7 +666,7 @@
 | World Padel Tour | [youtube](https://www.youtube.com/channel/UCK59dYVs3Wgwoe73nDTH6jw/live) | [web](https://www.worldpadeltour.com/en-directo/) | [logo](https://graph.facebook.com/worldpadeltour/picture?width=200&height=200) | - | EMB |
 | Redbull TV | [m3u8 # EN](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](https://graph.facebook.com/RedBull/picture?width=200&height=200) | - | - |
 | Meridiano Venezuela | [youtube](https://www.youtube.com/channel/UCcYfZbinuodyF8rVkl4u7Lw/live) | [web](https://meridiano.net/meridianotv.html) | [logo](https://graph.facebook.com/Meridiano.Dearmas/picture?width=200&height=200) | - | EMB |
-| Channel Fight | - | [web](https://www.channelfight.com) | [logo](https://graph.facebook.com/channelfightofficial/picture?width=200&height=200) | - | W3U,EXTA |
+| Channel Fight | [m3u8 # EN](https://api-ott.channelfight.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=269&partner=TDTChannels) | [web](https://www.channelfight.com) | [logo](https://graph.facebook.com/channelfightofficial/picture?width=200&height=200) | - | - |
 | Stadium USA | [m3u8 # EN](https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8) | [web](https://watchstadium.com/live/) | [logo](https://graph.facebook.com/watchstadium/picture?width=200&height=200) | - | - |
 | Garage TV | [m3u8](http://186.0.233.76:1935/Garage/garage.smil/.m3u8) | [web](http://elgarage.com/tv-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
 | MsMotor TV | - | [web](https://www.msmotor.tv/) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | W3U,EXTA |
@@ -675,7 +677,7 @@
 | Harley Davidson Garage TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/eff90f01-0158-4680-83f3-4c030033c720.m3u8) | [web](https://tv.harley-davidson.com) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyG.TV | - |
 | Harley Davidson Rides TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8) | [web](https://tv.harley-davidson.com) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyRI.TV | - |
 | MotorTrend Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | [web](https://it.dplay.com/motor-trend/) | [logo](https://graph.facebook.com/motortrendIT/picture?width=200&height=200) | - | - |
-| Best Cable Sports Perú | [m3u8](https://tv.siete.us:19360/bestcablesports/bestcablesports/index.m3u8) | [web](https://bestcableperu.com.pe/tv6.html) | [logo](https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200) | - | - |
+| Best Cable Sports Perú | [m3u8](https://ca.inka.net.pe/bestcablesports/bestcablesports/index.m3u8) | [web](https://bestcableperu.com.pe/tv6.html) | [logo](https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200) | - | - |
 
 ## Musicales
 
@@ -712,7 +714,7 @@
 | Radio 21 Rock'n Pop Alemania | [m3u8 # DE](https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8) | [web](https://www.radio21.de/programm/radio-21-tv.html) | [logo](https://graph.facebook.com/RADIO21germany/picture?width=200&height=200) | - | NONAV |
 | RadioU TV USA | [m3u8 # EN](https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8) | [web](https://radiou.com/tv/) | [logo](https://graph.facebook.com/RadioU/picture?width=200&height=200) | - | - |
 | First Music Channel Bielorrusia | [m3u8 # 1](http://hz1.teleport.cc/HLS/HD.m3u8) - [m3u8 # 2](http://hz1.teleport.cc/HLS/SD.m3u8) | [web](http://www.1muz.com) | [logo](https://graph.facebook.com/onemusicchannel/picture?width=200&height=200) | - | - |
-| Otto FM Italia | [m3u8 # IT](http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8) | [web](http://ottofm.com/otto-fm-tv-limpronta-digitale-degli-anni-ottanta/) | [logo](https://graph.facebook.com/Ottotivu/picture?width=200&height=200) | - | - |
+| Otto FM Italia | [m3u8 # IT](http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8) | [web](http://ottofm.com/otto-fm-tv-limpronta-digitale-degli-anni-ottanta/) | [logo](https://graph.facebook.com/Ottotivu/picture?width=200&height=200) | - | - |
 | Ibiza Global TV | [m3u8 # EN](https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8) | [web](http://ibizaglobal.tv/live/) | [logo](https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200) | - | - |
 | Café del Mar Ibiza | [youtube](https://www.youtube.com/channel/UCha0QKR45iw7FCUQ3-1PnhQ/live) | [web](https://cafedelmar.com) | [logo](https://graph.facebook.com/cafedelmaribizaofficialpage/picture?width=200&height=200) | - | EMB |
 | Sonus FM Alemania | [m3u8](http://www.sonus.fm:1935/public/stream_source/playlist.m3u8) | [web](http://www.sonus.fm/) | [logo](https://graph.facebook.com/sonusfmpage/picture?width=200&height=200) | - | - |
@@ -776,7 +778,7 @@
 | Religión COPE España | [m3u8](https://cope-religion-video.flumotion.com/playlist.m3u8) | [web](https://www.cope.es/religion) | [logo](https://graph.facebook.com/religioncope/picture?width=200&height=200) | - | - |
 | RTV Vida España | [m3u8](https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/television/) | [logo](https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg) | - | - |
 | Solidaria TV España | [m3u8](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](https://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | - | - |
-| TBN España | [m3u8](https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt_new.stream_all/playlist_DVR.m3u8) | [web](https://xn--tbnespaa-j3a.es) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
+| TBN España | [m3u8](https://cdn.livepeer.com/hls/5f2bn741bzs1pan3/index.m3u8) | [web](https://xn--tbnespaa-j3a.es) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
 | Cetelmon TV España | [m3u8](http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8) | [web](https://www.cetelmon.tv) | [logo](https://graph.facebook.com/cetelmon.television/picture?width=200&height=200) | - | - |
 | Vatican News | [youtube](https://www.youtube.com/channel/UCnB5vfb9FMMNTnC6-kAT3fQ/live) | [web](https://www.vaticannews.va/es.html) | [logo](https://graph.facebook.com/vaticannews.es/picture?width=200&height=200) | - | EMB |
 | El Sembrador TV Europa | [m3u8](https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8) | [web](https://elsembradoreuropa.com/tv-en-vivo) | [logo](https://graph.facebook.com/elsembradoresne/picture?width=200&height=200) | - | - |

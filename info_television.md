@@ -349,6 +349,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Telesur Madrid | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GCM TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Nesting TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Latin Channel TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Foral de Navarra
 
@@ -681,7 +683,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | World Padel Tour | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Redbull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Meridiano Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
-| Channel Fight | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Channel Fight | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Stadium USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MsMotor TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
