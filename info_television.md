@@ -367,7 +367,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | À Punt | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7 TeleValencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Intercomarcal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Intercomarcal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TeleElx | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Ribera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8 La Marina TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
