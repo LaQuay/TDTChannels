@@ -972,6 +972,7 @@
 | Caravaca Radio | [stream](http://84.232.12.14:8000/caravacaradio) | [web](https://www.caravacaradio.com) | [logo](https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200) | - | WICE |
 | Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](http://www.radiocalasparra.es) | [logo](https://graph.facebook.com/RadioCalasparra/picture?width=200&height=200) | - | - |
 | Inter Radio | [mp3](https://sonic.mediatelekom.net/8040/stream/;.mp3) | [web](https://lainter.es) | [logo](https://graph.facebook.com/LaInter.es/picture?width=200&height=200) | - | - |
+| Radio Compañía | [m3u8](http://live.redctnet.es:1935/live/Molina/Molina/playlist.m3u8) | [web](http://radiomolina.com/escuchanos-en-directo/) | [logo](https://graph.facebook.com/radiomolina/picture?width=200&height=200) | - | - |
 
 ## Internacionales
 
