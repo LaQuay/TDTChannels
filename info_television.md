@@ -52,7 +52,6 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Nius | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Euronews | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El País | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -525,8 +524,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RÚV Islandia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | San Marino RTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Current Time TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RT News | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RT Documentary | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. América
 
