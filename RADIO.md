@@ -106,7 +106,7 @@
 | Radio Marca Sevilla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_SEVILLA.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | SER Algeciras | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALGECIRAS.mp3) | [web](https://play.cadenaser.com/emisora/radio_algeciras) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Algeciras.Radio | - |
 | SER Almería | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMERIA.mp3) | [web](https://play.cadenaser.com/emisora/ser_almeria/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Almeria.Radio | - |
-| SER Andalucía Centro | [stream](https://21223.live.streamtheworld.com/SER_ASO_ESTEPA_SC) | [web](https://play.cadenaser.com/emisora/ser_andalucia_centro) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_AndaluciaCentro.Radio | WICE |
+| SER Andalucía Centro | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ESTEPA.mp3) | [web](https://play.cadenaser.com/emisora/ser_andalucia_centro) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_AndaluciaCentro.Radio | WICE |
 | SER Andújar | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ANDUJAR.mp3) | [web](https://play.cadenaser.com/emisora/ser_andujar) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Andujar.Radio | - |
 | SER Antequera | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ANTEQUERA.mp3) | [web](https://play.cadenaser.com/emisora/ser_antequera) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Antequera.Radio | - |
 | SER Axarquía | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_AXARQUIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_axarquia) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Axarquia.Radio | - |
@@ -435,9 +435,8 @@
 | Power FM Valladolid | [stream](https://streaming.powerfmvalladolid.com:4430/stream) | [web](https://powerfmvalladolid.com) | [logo](https://graph.facebook.com/PowerFmValladolid/picture?width=200&height=200) | - | WICE |
 | Radio Guardo | [stream](http://server10.emitironline.com:10654/radi) | [web](http://radioguardoamgu.org) | [logo](https://graph.facebook.com/RadioGuardo/picture?width=200&height=200) | - | - |
 | Fabulosa FM | [stream](https://cast2.vulnerados.es:8102/stream) | [web](https://lafabulosafm.com) | [logo](https://graph.facebook.com/fabulosa99.9/picture?width=200&height=200) | - | - |
-| Radio Pedrajas | [stream](https://s10.myradiostream.com/:10126/;) | [web](http://radiopedrajas.wix.com/home) | [logo](https://graph.facebook.com/RadioPedrajas/picture?width=200&height=200) | - | - |
 | Radio 4G Iscar | [stream](https://stm2.emiteonline.com:9005/radio4giscar) | [web](http://radio4giscar.es) | [logo](https://graph.facebook.com/radioiscar/picture?width=200&height=200) | - | WICE |
-| ACUP Radio | [stream](https://s3streamingradio.desafiohosting.com:9036/stream) | [web](https://acupradio.es) | [logo](https://graph.facebook.com/ACUPRadio/picture?width=200&height=200) | - | - |
+| ACUP Radio | [stream](http://s3streamingradio.desafiohosting.com:9036/stream) | [web](https://acupradio.es) | [logo](https://graph.facebook.com/ACUPRadio/picture?width=200&height=200) | - | - |
 | Radio Universitaria León | [stream # 1](http://radio.unileon.es:8000/radio-unileon-320) - [stream # 2](http://radio.unileon.es:8000/radio-unileon-192) | [web](https://servicios.unileon.es/radio-universitaria/) | [logo](https://graph.facebook.com/unileon/picture?width=200&height=200) | - | WICE |
 | Radio Universitaria Salamanca | [mp3](http://212.128.140.98:8000/usalradio.mp3) | [web](http://radio.usal.es) | [logo](https://graph.facebook.com/universidaddesalamanca/picture?width=200&height=200) | - | - |
 
@@ -799,7 +798,8 @@
 | Cuac FM | [mp3](https://streaming.cuacfm.org/cuacfm-128k.mp3) | [web](https://cuacfm.org/directo/) | [logo](https://graph.facebook.com/cuacfm/picture?width=200&height=200) | - | - |
 | Radio Negreira | [stream](http://srv0411.lcinternet.com:9011/stream) | [web](http://concellodenegreira.gal) | [logo](https://graph.facebook.com/radionegreira/picture?width=200&height=200) | - | - |
 | Radio Fene | [stream](http://srv0490.lcinternet.com:8002/stream) | [web](https://www.radiofusion.eu/emisora/radio-fene) | [logo](https://graph.facebook.com/Radiofene/picture?width=200&height=200) | - | WICE |
-| Radiofusión | [stream](http://srv0411.lcinternet.com:9005/stream) | [web](https://www.radiofusion.eu/) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | WICE |
+| +Buena FM | [stream](https://sonic.mediatelekom.net/8156/stream) | [web](https://masbuenafm.com) | [logo](https://graph.facebook.com/masbuenafm/picture?width=200&height=200) | - | - |
+| Radiofusión | [stream](http://srv0411.lcinternet.com:9005/stream) | [web](https://www.radiofusion.eu) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | WICE |
 
 ### Illes Balears
 
@@ -821,7 +821,7 @@
 | Ibiza Sonica Radio | [stream](http://s1.sonicabroadcast.com:7005/;stream) | [web](https://www.ibizasonica.com) | [logo](https://graph.facebook.com/ibizasonicaradio/picture?width=200&height=200) | - | - |
 | Das Inselradio | [mp3](https://stream.inselradio.com/high.inselradio.mp3) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/DasInselradio/picture?width=200&height=200) | - | - |
 | Canal 4 Ràdio | [stream](http://91.121.156.27:8011/stream) | [web](http://grup4.com/radio-murta/) | [logo](https://www.radio.es/images/broadcasts/cb/c6/103018/1/c300.png) | - | WICE |
-| Radio OneMallorca | [stream](http://80.32.132.126:8000/;) | [web](http://www.radioonemallorca.com) | [logo](https://graph.facebook.com/RadioOneMallorca/picture?width=200&height=200) | - | - |
+| Radio OneMallorca | [stream](http://62.171.132.79:8000/mount8) | [web](http://www.radioonemallorca.com) | [logo](https://graph.facebook.com/RadioOneMallorca/picture?width=200&height=200) | - | WICE |
 | Mallorca Sunshine Radio | [mp3](https://stream2.inselradio.com/high.sunshine.mp3) | [web](https://www.mallorcasunshineradio.com/player/) | [logo](https://graph.facebook.com/MallorcaSunshineRadio/picture?width=200&height=200) | - | - |
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=200&height=200) | - | - |
 | Ràdioilla Formentera | [stream](https://srv6021.dns-lcinternet.com:10220/stream) | [web](https://player.lcinternet.es/v9/player/index.php#Radio%20Illa%20Formentera%20HQ) | [logo](https://graph.facebook.com/radioilla.formentera/picture?width=200&height=200) | - | WICE |
@@ -911,7 +911,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| RPA | [m3u8](https://cdnlive2.shooowit.net/rtpalive/smil:radio.smil/master.m3u8) | [web](https://rtpa.es/radio) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | - | - |
+| RPA | [m3u8](https://cdnlive.codev8.net/rtpalive/smil:radio.smil/playlist.m3u8) | [web](https://rtpa.es/radio) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | - | - |
 | Radio Nacional Asturias | [stream](https://crtve-rne1-ast.cast.addradio.de/crtve/rne1/ast/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Asturias | [stream](https://crtve-rne5-ast.cast.addradio.de/crtve/rne5/ast/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | Radio Marca Asturias | [mp3](https://streaming.enacast.com/radiomarcaasturiasHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
@@ -932,11 +932,12 @@
 | Carrusel FM | [mp3](http://server10.emitironline.com:8921/radio?1584744975456.mp3) | [web](http://www.carruselfm.com) | [logo](https://graph.facebook.com/467719623356931/picture?width=200&height=200) | - | - |
 | Master FM | [stream](https://radios.lamaster.es:8000/asturias) | [web](https://lamaster.es/asturias/) | [logo](https://graph.facebook.com/masterfmasturias/picture?width=200&height=200) | - | - |
 | Onda Peñes | [mp3](http://5.135.183.124:9279/stream?type=.mp3) | [web](http://www.gaxarte.com) | [logo](https://graph.facebook.com/onda.penes/picture?width=200&height=200) | - | - |
+| La Bomba Radio | [stream](http://stm2.emiteonline.com:8014/labomba) | [web](http://www.labombaradio.es/) | [logo](https://graph.facebook.com/Labombaradioasturias/picture?width=200&height=200) | - | WICE |
 | Radio Ujo | [stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com) | [logo](https://pbs.twimg.com/profile_images/822520464836849664/C124fpj__200x200.jpg) | - | WICE |
 | Radio QK | [mp3](http://52.16.104.57:8000/radioqk_master.mp3) | [web](https://www.radioqk.org) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=200&height=200) | - | - |
 | Radio San Martín | [stream](https://stream.zeno.fm/rd9m3ynpeg0uv/;) | [web](https://sanmartinradio.blogspot.com) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=200&height=200) | - | - |
 | La Cuenca Radio | [stream](http://usa3.lhdserver.es:8082/stream) | [web](https://lacuencadelnalon.jimdofree.com) | [logo](https://graph.facebook.com/lacuencafm/picture?width=200&height=200) | - | - |
-| Radio 4G Oviedo | [stream](https://server1.radiocast.es:8000/r4govd) | [web](https://radio4goviedo.com) | [logo](https://graph.facebook.com/R4GOviedo/picture?width=200&height=200) | - | - |
+| Xtrema FM | [stream](https://sonic.mediatelekom.net/8156/stream) | [web](https://www.xtremafm.es) | [logo](https://graph.facebook.com/xtremafm/picture?width=200&height=200) | - | - |
 | APQ Radio | [stream](http://stm1.emiteonline.com:8012/apqradio) | [web](http://www.apqradio.es) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | WICE |
 
 ### R. de Murcia
@@ -1004,7 +1005,7 @@
 | RPP Noticias Perú | [stream](https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio) | [web](https://rpp.pe/audio/) | [logo](https://graph.facebook.com/rppnoticias/picture?width=200&height=200) | - | - |
 | Radio La Zona Perú | [stream](https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio) | [web](https://audioplayer.pe/lazona) | [logo](https://graph.facebook.com/Radiolazona/picture?width=200&height=200) | - | - |
 | Radio Oxígeno Perú | [stream](https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio) | [web](https://radio.oxigeno.com.pe/) | [logo](https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200) | - | - |
-| Radio Z Rock & Pop Perú | [mp3](http://167.114.118.120:7440/;mp3) | [web](http://www.radioz.pe/) | [logo](https://graph.facebook.com/ZRocknPop/picture?width=200&height=200) | - | - |
+| Radio Z Rock & Pop Perú | [mp3](http://167.114.118.120:7440/;.mp3) | [web](http://www.radioz.pe/) | [logo](https://graph.facebook.com/ZRocknPop/picture?width=200&height=200) | - | - |
 | Radio Nacional Perú | [m3u8](http://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8) | [web](https://www.radionacional.com.pe/alacarta) | [logo](https://graph.facebook.com/radionacionaldelperu/picture?width=200&height=200) | - | - |
 | Radio Lipova Rumania | [mp3](https://securestreams5.autopo.st:1888/;mp3) | [web](https://www.radiolipova.ro/live/) | [logo](https://graph.facebook.com/RadioLipovaPopular/picture?width=200&height=200) | - | - |
 | CBN Classic Christian | [stream](https://streams.cbnradio.com/Classic-Christian-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=classicchristian&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/classic300x300.jpg) | - | - |
