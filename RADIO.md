@@ -20,7 +20,7 @@
 | Cadena Dial | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3) | [web](https://play.cadenadial.com) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | CadenaDial.Radio | - |
 | Cadena 100 | [m3u8](https://cadena100-cope.flumotion.com/chunks.m3u8) | [web](https://www.cadena100.es) | [logo](https://graph.facebook.com/CADENA100/picture?width=200&height=200) | Cadena100.Radio | - |
 | Europa FM | [m3u8](https://livefastly-webs.europafm.com/europafm/audio/master.m3u8) | [web](https://www.europafm.com/directo/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | EuropaFM.Radio | - |
-| Rock FM | [m3u8](https://rockfm-cope.flumotion.com/playlist.m3u8) | [web](https://player.rockfm.fm/) | [logo](https://graph.facebook.com/RockFM/picture?width=200&height=200) | RockFM.Radio | - |
+| Rock FM | [m3u8](https://rockfm-cope.flumotion.com/playlist.m3u8) | [web](https://player.rockfm.fm) | [logo](https://graph.facebook.com/RockFM/picture?width=200&height=200) | RockFM.Radio | - |
 | Radio 3 | [m3u8](https://rtvelivestreamv3.akamaized.net/rne_r3_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-3/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | RNE3.Radio | - |
 | LOS40 Classic | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3) | [web](https://play.los40.com/emisora/los40_classic/) | [logo](https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200) | los40classic.Radio | - |
 | Kiss FM | [mp3](https://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](https://kissfm.es/player/) | [logo](https://graph.facebook.com/kissfm.es/picture?width=200&height=200) | KissFm.Radio | - |
@@ -31,7 +31,7 @@
 | RAC 105 | [stream](https://streaming.rac105.cat) - [nsv](http://rac105.radiocat.net/;*.nsv) | [web](https://www.rac105.cat) | [logo](https://graph.facebook.com/rac105/picture?width=200&height=200) | - | - |
 | Ràdio Tele-Taxi | [mp3](https://radiott-web.streaming-pro.com:6103/radiott.mp3) | [web](https://www.radioteletaxi.com/reproductor/) | [logo](https://graph.facebook.com/radioteletaxi/picture?width=200&height=200) | Teletaxi.Radio | - |
 | Hit FM | [mp3](https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3) | [web](https://www.hitfm.es) | [logo](https://graph.facebook.com/hitfm.es/picture?width=200&height=200) | HitFM.Radio | - |
-| MegaStar FM | [m3u8](https://megastar-cope.flumotion.com/playlist.m3u8) | [web](https://www.megastar.fm/) | [logo](https://graph.facebook.com/MegaStarFM/picture?width=200&height=200) | MegaStar.Radio | - |
+| MegaStar FM | [m3u8](https://megastar-cope.flumotion.com/playlist.m3u8) | [web](https://www.megastar.fm) | [logo](https://graph.facebook.com/MegaStarFM/picture?width=200&height=200) | MegaStar.Radio | - |
 | Melodía FM | [m3u8](https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8) | [web](https://www.melodia-fm.com/directo/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=200&height=200) | - | - |
 | Loca FM | [stream](http://s3.we4stream.com:8045/live) | [web](http://www.locafm.com/live/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | LocaFM.Radio | - |
 | Radio Clásica RNE | [m3u8](https://rtvelivestreamv3.akamaized.net/rne_r2_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-clasica/) | [logo](https://graph.facebook.com/radioclasicartve/picture?width=200&height=200) | RNEClasica.Radio | - |
@@ -189,12 +189,12 @@
 | Gozadera FM Andalucia | [stream](https://server.spainbroadcast.net:10998/;) | [web](https://www.gozadera.es/endirecto/) | [logo](https://graph.facebook.com/GozaderaSpain/picture?width=200&height=200) | - | - |
 | Elixir FM | [stream](https://radio.grupoelixir.es:9006/stream) | [web](https://grupoelixir.es) | [logo](https://graph.facebook.com/fiestaselixir.fm/picture?width=200&height=200) | - | WICE |
 | Beachgrooves | [stream](http://stream.beachgrooves.com:8000/stream) | [web](https://beachgrooves.com) | [logo](https://graph.facebook.com/beach.grooves/picture?width=200&height=200) | - | - |
-| La Fresca FM | [stream](https://stream.produccionesdale.com:8900/altacalidad) | [web](https://www.lafresca.fm/) | [logo](https://graph.facebook.com/lafresca.es/picture?width=200&height=200) | - | - |
+| La Fresca FM | [stream](https://stream.produccionesdale.com:8900/altacalidad) | [web](https://www.lafresca.fm) | [logo](https://graph.facebook.com/lafresca.es/picture?width=200&height=200) | - | - |
 | Radio Sierra | [stream](http://srv01.redsanmarcos.com:8000/stream) | [web](http://www.radiosierra.es) | [logo](https://graph.facebook.com/RadioSierraFM/picture?width=200&height=200) | - | WICE |
-| Radio Puerto | [stream](https://enacast.com/radiopuerto/streams/HD) | [web](http://www.radiopuerto.fm/) | [logo](https://graph.facebook.com/radiopuertofm/picture?width=200&height=200) | - | - |
+| Radio Puerto | [stream](https://enacast.com/radiopuerto/streams/HD) | [web](http://www.radiopuerto.fm) | [logo](https://graph.facebook.com/radiopuertofm/picture?width=200&height=200) | - | - |
 | Onda Capital | [stream](https://capital.radiocast.es:8000/capitalweb) | [web](https://ondacapital.es) | [logo](https://graph.facebook.com/ondacapitalfm/picture?width=200&height=200) | - | - |
 | Radio Chipiona | [stream](http://srv01.redsanmarcos.com:8021/stream) | [web](http://www.chipionatv.com) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | WICE |
-| Spectrum FM | [stream](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1) | [web](https://spectrumfm.net/) | [logo](https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200) | - | - |
+| Spectrum FM | [stream](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1) | [web](https://spectrumfm.net) | [logo](https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200) | - | - |
 | Onda Jerez Radio | [mp3](http://radio.ondajerez.com:8000/Ondajerez.mp3) | [web](https://www.ondajerez.com/radio) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200) | - | - |
 | Global Radio | [mp4](http://stream.seav.co.uk:8000/stream.mp4) | [web](https://global.fm/streamwindow/) | [logo](https://graph.facebook.com/loveglobalradio/picture?width=200&height=200) | - | - |
 | Candil Radio | [mp3](https://candilradio.com/liveradio/candil/live.mp3) | [web](https://candilradio.com) | [logo](https://graph.facebook.com/890332081024749/picture?width=200&height=200) | - | - |
@@ -482,7 +482,7 @@
 | Radio La Mina | [stream](https://cervera.eldialdigital.com:21121/stream) | [web](https://radiolamina.blogspot.com) | [logo](https://pbs.twimg.com/profile_images/1022133616304898054/8JX95zQq_200x200.jpg) | - | WICE |
 | Ràdio Olot | [stream](http://chrome.frilab.com:8000/radiolot) | [web](http://www.radiolot.cat) | [logo](https://graph.facebook.com/Radiolot/picture?width=200&height=200) | - | - |
 | Imagina Ràdio | [mp3](https://relay.stream.enacast-cloud.com:30286/imaginaradioHD.mp3) | [web](http://www.imaginaradio.cat/directe/) | [logo](https://graph.facebook.com/ImaginaRadio103/picture?width=200&height=200) | - | - |
-| Ràdio Sabadell | [stream](http://online.radiosabadell.fm:8013/stream) | [web](https://radiosabadell.fm/) | [logo](https://graph.facebook.com/RadioSabadell/picture?width=200&height=200) | - | - |
+| Ràdio Sabadell | [stream](http://online.radiosabadell.fm:8013/stream) | [web](https://radiosabadell.fm) | [logo](https://graph.facebook.com/RadioSabadell/picture?width=200&height=200) | - | - |
 | Canal Blau Ràdio | [mp3](http://streaming.enantena.com:8000/canalblau128.mp3) - [stream](https://enacast.com/canalblau/streams/SD) | [web](http://podcast.canalblau.cat) | [logo](https://graph.facebook.com/CanalBlau/picture?width=200&height=200) | - | - |
 | Ràdio El Vendrell | [mp3](http://streaming.enantena.com:8000/rtvelvendrell128.mp3) -  [stream](https://enacast.com/rtvelvendrell/streams/HD) | [web](http://www.rtvelvendrell.cat/radio-online/) | [logo](https://graph.facebook.com/rtvelvendrell/picture?width=200&height=200) | - | - |
 | Ràdio Capital | [stream](http://streaming.martiproduccions.com:8000/capitalhd) | [web](https://www.radiocapital.cat/endirecte/) | [logo](https://graph.facebook.com/capitalemporda/picture?width=200&height=200) | - | WICE |
@@ -575,7 +575,7 @@
 | Peperadio | [stream](https://server10.emitironline.com:8032/) | [web](https://peperadio.es) | [logo](https://pbs.twimg.com/profile_images/905319409992044544/x35XzF3A_200x200.jpg) | - | - |
 | Espacio 4 FM | [stream](http://radiogestion.com:7003/mount3) | [web](https://www.espacio4fm.com) | [logo](https://graph.facebook.com/Espacio4Fm/picture?width=200&height=200) | - | WICE |
 | Círculo de Bellas Artes Madrid | [m3u8](https://play.cdn.enetres.net/863690D2607511E098B669C2DFD72085028/02984/playlist.m3u8) | [web](https://www.circulobellasartes.com/radiocirculo/) | [logo](https://pbs.twimg.com/profile_images/3749689279/708ad0114d946cc9545665477b6f6d21_200x200.jpeg) | - | - |
-| Radio Almenara | [stream](https://cervera.eldialdigital.com:25211/stream) | [web](http://www.radioalmenara.net/) | [logo](https://graph.facebook.com/RadioAlmenara/picture?width=200&height=200) | - | WICE |
+| Radio Almenara | [stream](https://cervera.eldialdigital.com:25211/stream) | [web](http://www.radioalmenara.net) | [logo](https://graph.facebook.com/RadioAlmenara/picture?width=200&height=200) | - | WICE |
 | Radio 21 | [stream](http://node-01.zeno.fm/q39semrpyk8uv) | [web](http://www.radio21.es) | [logo](https://pbs.twimg.com/profile_images/894682648500740097/f__fTwxZ_200x200.jpg) | - | - |
 | Onda Merlín C Radio | [stream](https://cervera.eldialdigital.com:25131/stream) | [web](https://www.omcradio.org/escuchanos/) | [logo](https://graph.facebook.com/OmcRadio/picture?width=200&height=200) | - | WICE |
 | Radio Morata | [stream](https://cervera.eldialdigital.com:25141/stream) | [web](http://www.radiomorata.com/lavoz/) | [logo](https://graph.facebook.com/radiomorata/picture?width=200&height=200) | - | WICE |
@@ -699,7 +699,7 @@
 | Onda Ilicitana R4G | [mp3](http://212.83.151.18:38722/;.mp3) | [web](http://ondailicitana.com) | [logo](https://graph.facebook.com/ondailicitana/picture?width=200&height=200) | - | - |
 | Radio 4G Benidorm | [stream](http://ip45.ip-217-182-209.eu:8000/gestionabenidorm.ogg?/directo) | [web](https://radio4gbenidorm.com) | [logo](https://graph.facebook.com/Radio4GOficial/picture?width=200&height=200) | - | - |
 | 99.9 Valencia Radio | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://www.la999.es) | [logo](https://graph.facebook.com/999VlcRadio/picture?width=200&height=200) | - | WICE |
-| ON Radio | [mp3](https://streaming-audio-1.magentalabs.es:8100/onradio.mp3) | [web](https://www.onradio.fm/) | [logo](https://graph.facebook.com/onradio.fm/picture?width=200&height=200) | - | - |
+| ON Radio | [mp3](https://streaming-audio-1.magentalabs.es:8100/onradio.mp3) | [web](https://www.onradio.fm) | [logo](https://graph.facebook.com/onradio.fm/picture?width=200&height=200) | - | - |
 | Vega Baja Radio | [stream](https://node-21.zeno.fm/3xnvzk9dztzuv) | [web](https://vegabajaradio.com) | [logo](https://graph.facebook.com/vegabajaradio/picture?width=200&height=200) | - | - |
 | Radio 7 Valencia | [m3u8](https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247024/027/playlist.m3u8) | [web](https://radiosiete.com/emision-en-directo/) | [logo](https://graph.facebook.com/radiosiete/picture?width=200&height=200) | - | - |
 | Ràdio Klara | [stream](https://cervera.eldialdigital.com:21111/stream) | [web](http://www.radioklara.org) | [logo](https://graph.facebook.com/radioklara/picture?width=200&height=200) | - | WICE |
@@ -827,7 +827,7 @@
 | Mallorca Sunshine Radio | [mp3](https://stream2.inselradio.com/high.sunshine.mp3) | [web](https://www.mallorcasunshineradio.com/player/) | [logo](https://graph.facebook.com/MallorcaSunshineRadio/picture?width=200&height=200) | - | - |
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=200&height=200) | - | - |
 | Ràdioilla Formentera | [stream](https://srv6021.dns-lcinternet.com:10220/stream) | [web](https://player.lcinternet.es/v9/player/index.php#Radio%20Illa%20Formentera%20HQ) | [logo](https://graph.facebook.com/radioilla.formentera/picture?width=200&height=200) | - | WICE |
-| Playasol Ibiza | [stream](https://edge.mixlr.com/channel/udesp) | [web](https://www.playasolibizaradio.fm/) | [logo](https://graph.facebook.com/PlayasolIbizaRadio/picture?width=200&height=200) | - | - |
+| Playasol Ibiza | [stream](https://edge.mixlr.com/channel/udesp) | [web](https://www.playasolibizaradio.fm) | [logo](https://graph.facebook.com/PlayasolIbizaRadio/picture?width=200&height=200) | - | - |
 | Ona Mediterrània | [mp3](http://streaming.enantena.com:8000/onamediterrania128.mp3) | [web](http://www.onamediterrania.cat) | [logo](https://graph.facebook.com/OnaMediterrani/picture?width=200&height=200) | - | - |
 | Titoieta Ràdio | [stream](http://195.154.33.95:8034/stream) | [web](http://www.titoieta.cat) | [logo](https://graph.facebook.com/titoieta/picture?width=200&height=200) | - | WICE |
 | Radio Balear.es | [stream](https://server10.emitironline.com:8076/stream) | [web](https://radiobalear.net/radio-en-directo/) | [logo](https://graph.facebook.com/rbalear.interbaleares/picture?width=200&height=200) | - | - |
