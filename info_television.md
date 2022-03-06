@@ -489,8 +489,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV3CAT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ETB SAT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG América | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| ATV Andorra | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
-| ATV Web Andorra | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| ATV Andorra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ATV Web Andorra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GBC Gibraltar | - | - | - | - | - | - | - | Emisión eventual |
 | Euronews Internacional | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | CNN Internacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
