@@ -767,8 +767,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Muzzik ZZ TV Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Sense Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Glazzba Serbia | - | - | - | - | - | - | - | - |
-| Muzzik T REX Serbia | - | - | - | - | - | - | - | - |
-| Muzzik ZZ 4000 Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Flashback Serbia | - | - | - | - | - | - | - | - |
 | Muzzik OKK Serbia | - | - | - | - | - | - | - | - |
 | La Karibeña Perú | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
