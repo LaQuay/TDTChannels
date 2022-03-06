@@ -52,7 +52,6 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Nius | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Euronews | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El País | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -349,6 +348,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Telesur Madrid | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GCM TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Nesting TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Latin Channel TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Foral de Navarra
 
@@ -365,7 +366,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | À Punt | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7 TeleValencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Intercomarcal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Intercomarcal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TeleElx | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Ribera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8 La Marina TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -523,14 +524,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RÚV Islandia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | San Marino RTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Current Time TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RT News | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RT Documentary | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. América
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| FOX News USA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| FOX Live Now USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ABC News USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NBC News USA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | CBS News USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -611,7 +610,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | SBT Interior Brasil | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Record News Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Rede Massa Brasil |  ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Trinidad and Tobago Television | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Trinidad and Tobago Television | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. Asia
 
@@ -681,7 +680,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | World Padel Tour | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Redbull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Meridiano Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
-| Channel Fight | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Channel Fight | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Stadium USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MsMotor TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
@@ -721,7 +720,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | ON TV Portugal | - | - | - | - | - | - | - | - |
 | 1 Music Hungria | - | - | - | - | - | - | - | - |
 | Hit Music Channel | - | - | - | - | - | - | - | - |
-| Gotv Austria | - | - | - | - | - | - | - | - |
+| NRG91 Grecia | - | - | - | - | - | - | - | - |
 | V2Beat TV | - | - | - | - | - | - | - | - |
 | The K-POP Korea | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |
