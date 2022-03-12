@@ -616,7 +616,7 @@
 | Trak FM Pamplona | [stream](https://pr1cen101.emisionlocal.com/proxy/trakfm?mp=/stream) | [web](https://trakfm.com) | [logo](https://graph.facebook.com/trakfmpamplona/picture?width=200&height=200) | - | - |
 | Eguzki Irratia | [mp3](http://51.68.46.71:9000/eguzki.mp3) | [web](https://eguzki.eus) | [logo](https://graph.facebook.com/293039954137807/picture?width=200&height=200) | - | - |
 | Estella-Lizarra FM | [stream](http://server9.emitironline.com:19512/radio) | [web](http://radioestella.com) | [logo](https://graph.facebook.com/estellalizarrafm/picture?width=200&height=200) | - | - |
-| Radio Universidad de Navarra | [mp3](http://s37.myradiostream.com/8638/listen.mp3) | [web](https://www.unav.edu/radioplayer/endirecto.html) | [logo](https://graph.facebook.com/radiouniversidaddenavarra/picture?width=200&height=200) | - | - |
+| Radio Universidad de Navarra | [stream](https://s2.radio.co/sb23429e9f/listen) | [web](https://www.unav.edu/web/radio-universidad-de-navarra/en-directo) | [logo](https://graph.facebook.com/radiouniversidaddenavarra/picture?width=200&height=200) | - | - |
 
 ### C. Valenciana
 
