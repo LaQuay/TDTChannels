@@ -198,6 +198,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Aragón TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Aragón Noticias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Calamocha TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal 25 Barbastro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 15tv Zaragoza | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
