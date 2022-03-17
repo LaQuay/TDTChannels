@@ -176,6 +176,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 8TV Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Vivamóvil TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Carmona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101 TV Axarquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
