@@ -157,6 +157,7 @@
 | 8TV Jerez | [youtube](https://www.youtube.com/channel/UC_Z78uo-XNGbE57X2QUZWbQ/live) | [web](https://8tvjerez.com) | [logo](https://graph.facebook.com/8TvJerez/picture?width=200&height=200) | - | EMB |
 | Sal TV | [m3u8](https://www.tdtchannels.com/stream/saltv.m3u8) | [web](https://saltv.es) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | - |
 | 9 la Loma TV | [m3u8](https://9laloma.tv/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=200&height=200) | 9LaLoma.TV | - |
+| Vivamóvil TV | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8) | [web](https://vivamovil.tv/en-directo/) | [logo](https://graph.facebook.com/VivamovilTV/picture?width=200&height=200) | - | - |
 | TV Carmona | [youtube](https://www.youtube.com/channel/UCEqYDRitpW-b3FV-FJAgDkQ/live) | [web](https://www.televisioncarmona.com) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | CanalMalaga.TV | - |
 | 101 TV Axarquía | [m3u8](https://limited38.todostreaming.es/live/101tv-webAxarquia.m3u8) | [web](https://www.101tv.es/directo.axarquia.aspx) | [logo](https://graph.facebook.com/101tvaxarquia/picture?width=200&height=200) | 101Axarquía.TV | - |
