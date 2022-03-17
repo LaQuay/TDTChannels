@@ -88,7 +88,7 @@
 | Sevilla FC Radio | [m3u8](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8) | [web](https://live.sevillafc.es) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | - | - |
 | Real Betis Radio | [mp3](https://wecast-b03-01.flumotion.com/betistv/radio1.mp3) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-radio) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | - | - |
 | UD Almeria Radio | [stream](http://sd395-a.lcinternet.com:9148/livelq) | [web](http://www.udalmeriasad.com/udaradio/bienvenidos-a-uda-radio) | [logo](https://graph.facebook.com/udalmeriasad/picture?width=200&height=200) | - | WICE |
-
+| Radio Barça | [m3u8](https://open.http.mp.streamamg.com/p/3000707/sp/300070700/playManifest/entryId/0_dej0sx5j/format/applehttp/protocol/https/uiConfId/30024000/a.m3u8) | [web](https://www.fcbarcelona.es/club/radio-barca) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=200&height=200) | - | - |
 ## Autonómicas
 
 ### Andalucía
