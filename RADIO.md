@@ -852,6 +852,7 @@
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.canalebro.com/radioonline/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
 | Onda Ocio | [stream](https://radioserver10.profesionalhosting.com:23334/stream) | [web](https://www.ondaocio.es) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | WICE |
 | Onda Fuenmayor | [stream](http://109.73.65.69:15597/;) | [web](http://www.ondafuenmayor.com) | [logo](https://4.bp.blogspot.com/-SEiOZH7JEi0/VhPnj-jC0aI/AAAAAAAAACo/gN3SGFY6iwM/s200/logo%2BONDA%2BFUENMAYOR%2Boriginal.jpg) | - | - |
+| Los 40 Rioja | [stream](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac) | [web](https://los40.com/los40/emisoras/) | [logo](https://graph.facebook.com/RadioRiojaCadenaSer/picture?width=200&height=200) | - | - |
 
 ### Melilla
 
