@@ -738,6 +738,7 @@
 | Los 40 Zafra-Río Bodión | [mp3](http://83.56.8.228:8000/loscuarenta) | [web](http://www.radiotvzafra.es/en-directo/los-40) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | WICE |
 | Cadena Dial Zafra-Río Bodión | [mp3](http://83.56.8.228:8000/cadenadial) | [web](http://www.radiotvzafra.es/en-directo/cadena-dial-zafra) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | WICE |
 | COPE Badajoz | [mp3](https://wecast-b01-06.flumotion.com/copesedes/badajoz.mp3) | [web](https://www.cope.es/directos/badajoz) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| Cadena 100 Vegas Altas | [stream](https://eu1.lhdserver.es:8017/stream?1647641000414) | [web](http://cadena100vegasaltas.com/) | [logo](https://pbs.twimg.com/profile_images/913021961802014721/OQq2ZY6e_200x200.jpg) | - | - |
 | COPE Cáceres | [mp3](https://wecast-b01-06.flumotion.com/copesedes/caceres.mp3) | [web](https://www.cope.es/directos/caceres) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Mérida | [mp3](https://wecast-m01-03.flumotion.com/copesedes/merida.mp3) | [web](https://www.cope.es/directos/merida) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Badajoz | [m3u8](https://livefastly-webs.ondacero.es/badajoz-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/extremadura/badajoz//directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Badajoz.Radio | - |
