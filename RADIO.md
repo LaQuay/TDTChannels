@@ -3,7 +3,7 @@
 ## Nacionales
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
-| - | - | - | - | - | - |
+| - | - | - | - | - | - |f
 | Cadena SER | [mp3 # 1](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3) - [mp3 # 2](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3) - [mp3 # 3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3) | [web](https://play.cadenaser.com) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | CadenaS.Radio | - |
 | COPE | [mp3 # 1](https://flucast-m04-06.flumotion.com/cope/net1.mp3) - [mp3 # 2](https://flucast-m04-06.flumotion.com/cope/net2.mp3) | [web # 1](https://www.cope.es/directos/net1) - [web # 2](https://www.cope.es/directos/net2) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | COPE.Radio | - |
 | Onda Cero | [m3u8 # 1](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) - [m3u8 # 2](https://livefastly-webs.ondacero.es/eventosaudio/audio/master.m3u8) | [web](https://www.ondacero.es/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC.Radio | - |
@@ -617,6 +617,8 @@
 | Eguzki Irratia | [mp3](http://51.68.46.71:9000/eguzki.mp3) | [web](https://eguzki.eus) | [logo](https://graph.facebook.com/293039954137807/picture?width=200&height=200) | - | - |
 | Estella-Lizarra FM | [stream](http://server9.emitironline.com:19512/radio) | [web](http://radioestella.com) | [logo](https://graph.facebook.com/estellalizarrafm/picture?width=200&height=200) | - | - |
 | Radio Universidad de Navarra | [stream](https://s2.radio.co/sb23429e9f/listen) | [web](https://www.unav.edu/web/radio-universidad-de-navarra/en-directo) | [logo](https://graph.facebook.com/radiouniversidaddenavarra/picture?width=200&height=200) | - | - |
+| Radio Marca Navarra | [mp3](https://s7.myradiostream.com/sc1/:6040/listen.mp3) | [web](https://radiomarcanavarra.com/) | [logo](https://graph.facebook.com/235423470315674/picture?width=200&height=200) | - | - |
+
 
 ### C. Valenciana
 
