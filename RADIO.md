@@ -477,7 +477,7 @@
 | Ràdio Terrassa | [stream](https://radio.cdnmedia.tv/radio/8050/terrassa) | [web](http://terrassadigital.cat/radio/) | [logo](https://graph.facebook.com/canalterrassa/picture?width=200&height=200) | - | - |
 | Ràdio Ciutat de Badalona | [stream](https://enacast.com/radiob/streams/HD) - [mp3](http://streaming.enantena.com:8000/radiob128.mp3) | [web](https://www.radiociutatdebadalona.cat) | [logo](https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_200x200.jpg) | - | - |
 | ScannerFM | [stream](https://eu10.fastcast4u.com/scannerfm) | [web](https://www.scannerfm.com) | [logo](https://graph.facebook.com/scannerFM/picture?width=200&height=200) | - | - |
-| Jazz Radio BCN | [stream](https://node-04.zeno.fm/tvt6bya8hg8uv) | [web](https://www.jazzradiobcn.com) | [logo](http://files.jazzradiobcn.webnode.es/system_preview_detail_200000029-183d119379/Jazz%20Radio%20300x300%202.jpg) | - | - |
+| Jazz Radio BCN | [stream](https://node-04.zeno.fm/tvt6bya8hg8uv) | [web](https://www.jazzradiobcn.com) | [logo](https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4a/10/37312/1/c300.png) | - | - |
 | Radio La Mina | [stream](https://cervera.eldialdigital.com:21121/stream) | [web](https://radiolamina.blogspot.com) | [logo](https://pbs.twimg.com/profile_images/1022133616304898054/8JX95zQq_200x200.jpg) | - | WICE |
 | Ràdio Olot | [stream](http://chrome.frilab.com:8000/radiolot) | [web](http://www.radiolot.cat) | [logo](https://graph.facebook.com/Radiolot/picture?width=200&height=200) | - | - |
 | Imagina Ràdio | [mp3](https://relay.stream.enacast-cloud.com:30286/imaginaradioHD.mp3) | [web](http://www.imaginaradio.cat/directe/) | [logo](https://graph.facebook.com/ImaginaRadio103/picture?width=200&height=200) | - | - |
