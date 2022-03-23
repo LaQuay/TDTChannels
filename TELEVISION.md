@@ -509,6 +509,9 @@
 | TVR Int. Rumania | [m3u8 # RO](https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8) | [web](https://www.tvrplus.ro/live/tvr-international) | [logo](https://yt3.ggpht.com/ytc/AKedOLQPhatBUYxLNlDGhiNXlV_asQCDPHa_MfnUy4Nr=s200-c-k-c0x00ffffff-no-rj) | - | - |
 | RÚV Islandia | [m3u8 # IS # 1](https://ruvruverl-live-hls.secure.footprint.net/4cb25e14619fb1e9711a400b8a5b21119605cb9a-1/ruv/ruverl/index/stream1.m3u8) - [m3u8 # IS # 2](https://ruvruverl-live-hls.secure.footprint.net/24beacf6e543ecd6f62c8dc98b1827650c5507f8-1/ruv/ruv2erl/index/stream1.m3u8) | [web](https://www.ruv.is/sjonvarp/beint/ruv) | [logo](https://graph.facebook.com/RUVohf/picture?width=200&height=200) | - | - |
 | San Marino RTV | [m3u8 # IT # 1](https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/master.m3u8) - [m3u8 # IT # 2](https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8) | [web](https://www.sanmarinortv.sm/programmi/web-tv) | [logo](https://graph.facebook.com/SanMarinoRTV/picture?width=200&height=200) | - | - |
+| 1+1 Ucrania | [youtube # UK](https://www.youtube.com/watch?v=lhs2JS_f9bI) | [web](https://1plus1.video/tvguide/1plus1/online) | [logo](https://graph.facebook.com/1plus1.ua/picture?width=200&height=200) | - | EMB |
+| Ukraine 24 Ucrania | [m3u8 # UK](http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8) | [web](https://u24.ua) | [logo](https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200) | - | - |
+| ICTV Ucrania | [youtube # UK](https://www.youtube.com/channel/UCG26bSkEjJc7SqGsxoHNnbA/live) | [web](https://ictv.ua/ua/online/) | [logo](https://graph.facebook.com/ICTVchannel/picture?width=200&height=200) | - | EMB |
 | Current Time TV | [m3u8 # RU](http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8) | [web](https://www.currenttime.tv/live) | [logo](https://graph.facebook.com/currenttimetv/picture?width=200&height=200) | - | - |
 
 ## Int. América
