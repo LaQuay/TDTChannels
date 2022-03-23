@@ -527,6 +527,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVR Int. Rumania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RÚV Islandia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | San Marino RTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 1+1 Ucrania | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Ukraine 24 Ucrania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ICTV Ucrania | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Current Time TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. América
