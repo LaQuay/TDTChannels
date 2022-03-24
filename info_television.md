@@ -781,10 +781,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
 | Onda Digital Perú | - | - | - | - | - | - | - | - |
 | La Mega Mundial USA | - | - | - | - | - | - | - | - |
-| Telemúsica Colombia | - | - | - | - | - | - | - | - |
 | Music Top Argentina | - | - | - | - | - | - | - | - |
-| Portal Foxmix Colombia | - | - | - | - | - | - | - | - |
-| Melody Channel Colombia | - | - | - | - | - | - | - | - |
+| Portal Foxmix Chile | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
 | Spirit TV USA | - | - | - | - | - | - | - | - |
 
