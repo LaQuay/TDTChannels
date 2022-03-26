@@ -294,7 +294,7 @@
 | Europa FM Tenerife Norte / La Palma | [stream](http://str2.mediatelekom.net:9968/;) | [web](https://www.europafmtenerife.com/tenerife-norte-la-palma/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Europa FM Santa Cruz | [stream](http://str1.mediatelekom.net:8010/;) | [web](https://www.europafmtenerife.com/santa-cruz-la-laguna/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Europa FM Lanzarote / Fuerteventura | [stream](http://str1.mediatelekom.net:8097/;) | [web](https://www.europafmtenerife.com/lanzarote-fuerteventura/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
-| Kiss FM Canarias | [mp3](http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3) | [web](http://kissfm.es/player/canarias.html) | [logo](https://graph.facebook.com/kissfm.es/picture?width=200&height=200) | - | - |
+| Kiss FM Canarias | [mp3](http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3) | [web](https://www.kissfm.es/player-canarias/) | [logo](https://graph.facebook.com/kissfm.es/picture?width=200&height=200) | - | - |
 | Radio Marca Tenerife | [stream](https://cervera.eldialdigital.com:22131/stream) | [web](https://radiomarcatenerife.com) | [logo](https://graph.facebook.com/RadioMarcaTfe/picture?width=200&height=200) | - | WICE |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
 | Q FM | [stream](http://51.255.235.165:5092/;) | [web](http://www.qmusica.com/es) | [logo](https://graph.facebook.com/qmusica/picture?width=200&height=200) | - | - |
