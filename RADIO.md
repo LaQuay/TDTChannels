@@ -298,7 +298,7 @@
 | Radio Marca Tenerife | [stream](https://cervera.eldialdigital.com:22131/stream) | [web](https://radiomarcatenerife.com) | [logo](https://graph.facebook.com/RadioMarcaTfe/picture?width=200&height=200) | - | WICE |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
 | Q FM | [stream](http://51.255.235.165:5092/;) | [web](http://www.qmusica.com/es) | [logo](https://graph.facebook.com/qmusica/picture?width=200&height=200) | - | - |
-| Canal 4 Tenerife | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal4tenerife.tv/radio/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200) | - | - |
+| Canal 4 Tenerife | [stream](http://142.132.212.201:8024/live) | [web](http://www.canal4tenerife.tv/radio/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200) | - | - |
 | Radio Mogán | [stream](https://streaming2.elitecomunicacion.es:8100/stream) | [web](https://www.mogan.es/45-radio-television-de-mogan/3295-escuchar-radio-mogan-en-directo) | [logo](https://graph.facebook.com/AyuntamientodeMogan/picture?width=200&height=200) | - | - |
 | Inolvidable FM | [stream](https://uk1.streamingpulse.com/ssl/inolvidablefm) | [web](https://inolvidablefm.es) | [logo](https://graph.facebook.com/inolvidablefmradio/picture?width=200&height=200) | - | WICE |
 | La Diez Radio | [stream](http://panel.soydigital.fm:8012/live) | [web](https://www.ladiez.es) | [logo](https://graph.facebook.com/ladiezradio/picture?width=200&height=200) | - | - |
