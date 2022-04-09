@@ -21,7 +21,6 @@
 | TRECE | [m3u8](https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | - |
 | El Toro TV | [m3u8](https://live1-eltorotv.flumotion.com/playlist.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | - |
 | mtmad 24h | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8) | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=200&height=200) | - | EXTA |
-| Secret Story 24h | [m3u8](https://premium0506-i.akamaihd.net/hls/live/827156/premium05/01.m3u8) | [web](https://www.mitele.es/directo/secret-story-24h/) | [logo](https://graph.facebook.com/SecretStoryEs/picture?width=200&height=200) | - | - |
 | Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
