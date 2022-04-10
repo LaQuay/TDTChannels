@@ -153,7 +153,7 @@
 | CostadelSol TV | [m3u8](https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8) | [web](http://www.costadelsoltv.es) | [logo](https://graph.facebook.com/costadelsoltv/picture?width=200&height=200) | - | - |
 | Bailén TV | [m3u8](http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8) | [web](http://bailen.tv) | [logo](https://graph.facebook.com/BailenTv/picture?width=200&height=200) | - | - |
 | 101 TV Antequera | [m3u8](https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8) | [web](https://www.101tv.es/directo-antequera.aspx) | [logo](https://graph.facebook.com/101tvAntequera/picture?width=200&height=200) | 101Antequera.TV | - |
-| 8TV Jerez | [youtube](https://www.youtube.com/channel/UC_Z78uo-XNGbE57X2QUZWbQ/live) | [web](https://8tvjerez.com) | [logo](https://graph.facebook.com/8TvJerez/picture?width=200&height=200) | - | EMB |
+| 8TV Jerez | [m3u8](http://84.78.128.76:8080/8tvjerez.m3u8) - [youtube](https://www.youtube.com/channel/UC_Z78uo-XNGbE57X2QUZWbQ/live) | [web](https://8tvjerez.com) | [logo](https://graph.facebook.com/8TvJerez/picture?width=200&height=200) | - | - |
 | Sal TV | [m3u8](https://www.tdtchannels.com/stream/saltv.m3u8) | [web](https://saltv.es) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | - |
 | 9 la Loma TV | [m3u8](https://9laloma.tv/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=200&height=200) | 9LaLoma.TV | - |
 | Vivamóvil TV | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8) | [web](https://vivamovil.tv/en-directo/) | [logo](https://graph.facebook.com/VivamovilTV/picture?width=200&height=200) | - | - |
