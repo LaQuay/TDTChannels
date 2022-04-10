@@ -3,7 +3,6 @@
 ## Nacionales
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
-| - | - | - | - | - | - |
 | Cadena SER | [mp3 # 1](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3) - [mp3 # 2](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3) - [mp3 # 3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3) | [web](https://play.cadenaser.com) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | CadenaS.Radio | - |
 | COPE | [mp3 # 1](https://flucast-m04-06.flumotion.com/cope/net1.mp3) - [mp3 # 2](https://flucast-m04-06.flumotion.com/cope/net2.mp3) | [web # 1](https://www.cope.es/directos/net1) - [web # 2](https://www.cope.es/directos/net2) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | COPE.Radio | - |
 | Onda Cero | [m3u8 # 1](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) - [m3u8 # 2](https://livefastly-webs.ondacero.es/eventosaudio/audio/master.m3u8) | [web](https://www.ondacero.es/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC.Radio | - |
@@ -899,6 +898,7 @@
 | Radio Tropical | [stream](https://radiotropical.streaming-pro.com:6136/radiotropical) | [web](https://www.radiotropical.es) | [logo](https://graph.facebook.com/RTROPICAL/picture?width=200&height=200) | - | - |
 | Onda Vasca | [stream # 1](https://live.ondavasca.com:8001/bizkaia) - [stream # 2](https://live.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com) | [logo](https://graph.facebook.com/ondavasca/picture?width=200&height=200) | - | WICE |
 | Bizkaia Irratia | [stream](https://nerbioi.radiopopular.eus/bizkaiairratia2) | [web](http://www.bizkaiairratia.eus/) | [logo](https://graph.facebook.com/BizkaiaIrratia/picture?width=200&height=200) | - | - |
+| Donostia Kultura Irratia | [stream](https://s35.myradiostream.com/:26100/;) | [web](https://irratia.donostiakultura.eus/eu/) | [logo](https://graph.facebook.com/DKirratia/picture?width=200&height=200) | - | - |
 | Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com) | [logo](https://graph.facebook.com/radioformulahit/picture?width=200&height=200) | - | - |
 | Radio Popular - Herri Irratia | [stream](https://nerbioi.radiopopular.eus/radiopopular1) | [web](https://radiopopular.com) | [logo](https://graph.facebook.com/herriirratia/picture?width=200&height=200) | - | - |
 | Radio Donosti | [mp3](https://nodo03-cloud01.streaming-pro.com:6139/radiodonosti.mp3) | [web](http://www.radiodonosti.com) | [logo](https://graph.facebook.com/radiodonosti/picture?width=200&height=200) | - | - |
