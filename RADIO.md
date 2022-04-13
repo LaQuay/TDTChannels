@@ -74,10 +74,10 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Babyradio | [stream](http://sd396babyradio1.lcinternet.com:8000/stream) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | WICE |
-| Babyradio - Música para bailar | [stream](http://sd396babyradio1.lcinternet.com:8009/live) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | WICE |
-| Babyradio - Nanas | [stream](http://sd396babyradio1.lcinternet.com:8004/live) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | WICE |
-| Babyradio - Cuentos infantiles | [stream](http://sd396babyradio1.lcinternet.com:8008/live) | [web](https://babyradio.es/emision-espana/) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | WICE |
+| Babyradio | [stream](https://sd396babyradio1.dns-lcinternet.com/8002/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
+| Babyradio LatinoAmérica | [stream](https://sd396babyradio1.dns-lcinternet.com/8004/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
+| Babyradio - Nanas | [stream](https://sd396babyradio1.dns-lcinternet.com/8010/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
+| Babyradio - Cuentos infantiles | [stream](https://sd396babyradio1.dns-lcinternet.com/8006/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
 | Dial Mini | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_04.mp3) | [web](https://play.cadenadial.com/emisora/dial_babyradio) | [logo](https://play.cadenadial.com/build/assets/cadenadialespana/img/images-radios/Dial_Mini_Radio.png) | - | - |
 
 ## Deportivas
