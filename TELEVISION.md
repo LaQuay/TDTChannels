@@ -137,7 +137,6 @@
 | Lebrija TV | [m3u8](https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8) | [web](http://www.lebrija.tv/directo/) | [logo](https://graph.facebook.com/lebrijatelevision/picture?width=200&height=200) | LebrijaTV.TV | - |
 | Canal Doñana | [m3u8](https://secure5.todostreaming.es/live/division-alm.m3u8) | [web](http://www.canaldonana.com) | [logo](https://yt3.ggpht.com/ytc/AAUvwniAZB2q-vXPojR8-s48qBkScsAsVmJBpZSs6ZkMwA=s200-c-k-c0x00ffffff-no-rj) | - | - |
 | Onda Jerez TV | - | [web](http://www.ondajerez.com) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200) | - | W3U,EMB,EXTA |
-| OndaMezquita 7 TV | [m3u8](https://cloud.streamingconnect.tv/hls/mezquita/mezquita.m3u8) | [web](https://www.ahoracordoba.es) | [logo](https://graph.facebook.com/7TVOndaMezquita/picture?width=200&height=200) | - | - |
 | Axarquía TV | [youtube](https://www.youtube.com/channel/UC0N3U1saaQQWMt2rRPbU0DQ/live) | [web](https://www.youtube.com/channel/UC0N3U1saaQQWMt2rRPbU0DQ) | [logo](https://graph.facebook.com/AxarquiaTV/picture?width=200&height=200) | - | EMB |
 | PTV Linares | [m3u8](https://streamer.zapitv.com/ptv-linarez/index.m3u8) | [web](https://www.ptvtelecom.com/canales/linares.html) | [logo](https://graph.facebook.com/tvlinares/picture?width=200&height=200) | - | NONAV |
 | Telécija | [youtube](https://www.youtube.com/channel/UC7HfpyAtrMUcv8vxNblK3aA/live) | [web](https://ecijadigital.es) | [logo](https://graph.facebook.com/telecija.televisioncomarcal/picture?width=200&height=200) | - | EMB |
