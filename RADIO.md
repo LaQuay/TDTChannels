@@ -940,7 +940,7 @@
 | Radio Ujo | [stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com) | [logo](https://pbs.twimg.com/profile_images/822520464836849664/C124fpj__200x200.jpg) | - | WICE |
 | Radio QK | [mp3](http://52.16.104.57:8000/radioqk_master.mp3) | [web](https://www.radioqk.org) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=200&height=200) | - | - |
 | Radio San Martín | [stream](https://stream.zeno.fm/rd9m3ynpeg0uv/;) | [web](https://sanmartinradio.blogspot.com) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=200&height=200) | - | - |
-| La Cuenca Radio | [stream](http://usa3.lhdserver.es:8082/stream) | [web](https://lacuencadelnalon.jimdofree.com) | [logo](https://graph.facebook.com/lacuencafm/picture?width=200&height=200) | - | - |
+| Onda Langreo | [stream](https://server1.radiocast.es/radio/8060/ondalangreo) | [web](https://www.ondalangreo.com/) | [logo](https://pbs.twimg.com/profile_images/1507063226315517963/b2a3wCkg_200x200.jpg) | - | - |
 | Xtrema FM | [stream](https://sonic.mediatelekom.net/8156/stream) | [web](https://www.xtremafm.es) | [logo](https://graph.facebook.com/xtremafm/picture?width=200&height=200) | - | - |
 | APQ Radio | [stream](http://stm1.emiteonline.com:8012/apqradio) | [web](http://www.apqradio.es) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | WICE |
 
