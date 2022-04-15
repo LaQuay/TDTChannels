@@ -725,7 +725,7 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Canal Extremadura Radio | [m3u8](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel3.smil/playlist.m3u8) | [web](http://www.canalextremadura.es/radio/directo) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | - | - |
-| Onda 100 Extremadura | [mp3](http://shaincast.caster.fm:17659/listen.mp3?authnfb0a48321c6bf2b852135192256cd777) | [web](https://onda100.com/) | [logo](https://graph.facebook.com/onda100medina/picture?width=200&height=200) | - | - |
+| Onda 100 Extremadura | [mp3](http://shaincast.caster.fm:17659/listen.mp3?authnf5d9d38bb2ff58b5aa6c9ccad002508c) | [web](https://onda100.com/) | [logo](https://graph.facebook.com/onda100medina/picture?width=200&height=200) | - | - |
 | Radio Nacional Extremadura | [stream](https://crtve-rne1-ext.cast.addradio.de/crtve/rne1/ext/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Extremadura | [stream](https://crtve-rne5-cce.cast.addradio.de/crtve/rne5/cce/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | SER Cáceres | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CACERES.mp3) | [web](https://play.cadenaser.com/emisora/ser_caceres/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Caceres.Radio | - |
