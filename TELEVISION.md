@@ -63,7 +63,6 @@
 | UD Las Palmas TV | [m3u8](https://cdn044.fractalmedia.es:9443/live015/stream/live/cudtv/index.m3u8) | [web](https://playud.udlaspalmas.es/es/udtv-en-directo) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | - |
 | LaLiga Santander | [youtube](https://www.youtube.com/channel/UCTv-XvfzLX3i4IGWAm4sbmA/live) | [web](https://www.laliga.com) | [logo](https://graph.facebook.com/LaLiga/picture?width=200&height=200) | - | EMB |
 | LaLiga SmartBank | [youtube](https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg/live) | [web](https://www.laliga.com/laliga-smartbank) | [logo](https://graph.facebook.com/LaLiga/picture?width=200&height=200) | - | EMB |
-| Real Federación Española de Fútbol | [m3u8](https://rfef-live3.flumotion.com/playlist.m3u8) | [web](https://www.rfef.es) | [logo](https://graph.facebook.com/RFEF/picture?width=200&height=200) | - | - |
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 | AS | [youtube](https://www.youtube.com/diarioas/live) | [web](https://as.com) | [logo](https://graph.facebook.com/diarioas/picture?width=200&height=200) | - | EMB |
 | El 10 del Barça | [youtube](https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live) | [web](https://xn--el10delbara-v9a.com) | [logo](https://graph.facebook.com/El10delBarsa/picture?width=200&height=200) | - | EMB |
