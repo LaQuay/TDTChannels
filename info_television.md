@@ -691,10 +691,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MsMotor TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | OnlyMotors | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Harley Davidson TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Harley Davidson Racing TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Harley Davidson Factory TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Harley Davidson Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MotorTrend Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Best Cable Sports Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
