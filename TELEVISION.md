@@ -249,7 +249,7 @@
 | 987 Live | [youtube](https://www.youtube.com/channel/UC41bdA6AiwEb34_S7KcMHOw/live) | [web](http://987live.com/category/n8s-directo/) | [logo](https://pbs.twimg.com/profile_images/1496162819590479879/4sM-HkAD_200x200.jpg) | - | EMB |
 | TV Benavente | [m3u8](https://cloud.streamingconnect.tv/hls//tvbenavente/tvbenavente.m3u8) | [web](https://www.tvbenavente.es/directo/) | [logo](https://graph.facebook.com/benaventetv/picture?width=200&height=200) | Benavente.TV | - |
 | Canal 54 | [stream](https://player.twitch.tv/?channel=canal54tvburgos&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
-| TV Aranda | [m3u8](https://cloudusa.streamingconnect.com/telearanda/telearanda.m3u8) | [web](http://www.telearanda.es) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | - |
+| TV Aranda | [m3u8](https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8) | [web](http://www.telearanda.es) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | - |
 | Junta Castilla y León | [m3u8](https://16escalones-live2.flumotion.com/chunks.m3u8) | [web](http://jcyltv.16escalones.es) | [logo](https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200) | - | - |
 
 ### Cataluña
