@@ -300,7 +300,7 @@
 | Canal 4 Tenerife | [stream](http://142.132.212.201:8024/live) | [web](http://www.canal4tenerife.tv/radio/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200) | - | - |
 | Radio Mogán | [stream](https://streaming2.elitecomunicacion.es:8100/stream) | [web](https://www.mogan.es/45-radio-television-de-mogan/3295-escuchar-radio-mogan-en-directo) | [logo](https://graph.facebook.com/AyuntamientodeMogan/picture?width=200&height=200) | - | - |
 | Inolvidable FM | [stream](https://uk1.streamingpulse.com/ssl/inolvidablefm) | [web](https://inolvidablefm.es) | [logo](https://graph.facebook.com/inolvidablefmradio/picture?width=200&height=200) | - | WICE |
-| La Diez Radio | [stream](http://panel.soydigital.fm:8012/live) | [web](https://www.ladiez.es) | [logo](https://graph.facebook.com/ladiezradio/picture?width=200&height=200) | - | - |
+| La Diez Radio | [stream](https://panel5.soydigital.fm/8030/stream) | [web](https://www.ladiez.es) | [logo](https://graph.facebook.com/ladiezradio/picture?width=200&height=200) | - | - |
 | El Pejeverde | [m3u8](https://5c0956165db0b.streamlock.net/radio/lancelot.stream_aac/playlist.m3u8) | [web](http://www.elpejeverde.com) | [logo](https://graph.facebook.com/552642618121698/picture?width=200&height=200) | - | - |
 | Radio Guiniguada | [stream](http://185.129.248.251:9874/;) | [web](http://www.radioguiniguada.com) | [logo](https://graph.facebook.com/radioguiniguada/picture?width=200&height=200) | - | - |
 | Radio Gigante | [stream](https://server8.emitironline.com:18163/stream) | [web](https://radiogigante.com) | [logo](https://graph.facebook.com/radiogigantecanarias/picture?width=200&height=200) | - | - |
