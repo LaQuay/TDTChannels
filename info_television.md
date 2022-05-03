@@ -37,7 +37,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Be Mad | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
-| mtmad 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| mtmad 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DMAX | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DKISS | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
@@ -96,7 +96,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Cartoon Network Latino | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Cartoon Network Latino | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LEGO Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -351,7 +351,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GCM TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Nesting TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Latin Channel TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| IBEROAMERICA TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Foral de Navarra
 
@@ -514,8 +514,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTP 1 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTP 2 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTP 3 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| RTP Madeira Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTP Açores Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTP Madeira Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| RTP Açores Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Porto Canal Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTÉ News Irlanda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -557,7 +557,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Milenio Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El Financiero Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Excelsior Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Televisa News Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| FORO TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ADN40 Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Once Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Quiero TV Mexico | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -691,10 +691,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MsMotor TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | OnlyMotors | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Harley Davidson TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Harley Davidson Racing TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Harley Davidson Factory TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Harley Davidson Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MotorTrend Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Best Cable Sports Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
