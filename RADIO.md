@@ -193,7 +193,7 @@
 | Radio Sierra | [stream](http://srv01.redsanmarcos.com:8000/stream) | [web](http://www.radiosierra.es) | [logo](https://graph.facebook.com/RadioSierraFM/picture?width=200&height=200) | - | WICE |
 | Radio Puerto | [stream](https://enacast.com/radiopuerto/streams/HD) | [web](http://www.radiopuerto.fm) | [logo](https://graph.facebook.com/radiopuertofm/picture?width=200&height=200) | - | - |
 | Onda Capital | [stream](https://capital.radiocast.es:8000/capitalweb) | [web](https://ondacapital.es) | [logo](https://graph.facebook.com/ondacapitalfm/picture?width=200&height=200) | - | - |
-| Radio Chipiona | [stream](http://srv01.redsanmarcos.com:8021/stream) | [web](http://www.chipionatv.com) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | WICE |
+| Radio Chipiona | [stream](https://node-03.zeno.fm/ca74a7vdvnhvv) | [web](http://www.chipionatv.com) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | WICE |
 | Spectrum FM | [stream](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1) | [web](https://spectrumfm.net) | [logo](https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200) | - | - |
 | Onda Jerez Radio | [mp3](http://radio.ondajerez.com:8000/Ondajerez.mp3) | [web](https://www.ondajerez.com/radio) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200) | - | - |
 | Global Radio | [mp4](http://stream.seav.co.uk:8000/stream.mp4) | [web](https://global.fm/streamwindow/) | [logo](https://graph.facebook.com/loveglobalradio/picture?width=200&height=200) | - | - |
