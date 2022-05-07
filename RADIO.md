@@ -190,7 +190,7 @@
 | Elixir FM | [stream](https://radio.grupoelixir.es:9006/stream) | [web](https://grupoelixir.es) | [logo](https://graph.facebook.com/fiestaselixir.fm/picture?width=200&height=200) | - | WICE |
 | Beachgrooves | [stream](http://stream.beachgrooves.com:8000/stream) | [web](https://beachgrooves.com) | [logo](https://graph.facebook.com/beach.grooves/picture?width=200&height=200) | - | - |
 | La Fresca FM | [stream](https://stream.produccionesdale.com:8900/altacalidad) | [web](https://www.lafresca.fm) | [logo](https://graph.facebook.com/lafresca.es/picture?width=200&height=200) | - | - |
-| Radio Sierra | [stream](http://srv01.redsanmarcos.com:8000/stream) | [web](http://www.radiosierra.es) | [logo](https://graph.facebook.com/RadioSierraFM/picture?width=200&height=200) | - | WICE |
+| Radio Sierra | [stream](https://srv7031.dns-lcinternet.com/8050/stream) | [web](http://www.radiosierra.es) | [logo](https://graph.facebook.com/RadioSierraFM/picture?width=200&height=200) | - | - |
 | Radio Puerto | [stream](https://enacast.com/radiopuerto/streams/HD) | [web](http://www.radiopuerto.fm) | [logo](https://graph.facebook.com/radiopuertofm/picture?width=200&height=200) | - | - |
 | Onda Capital | [stream](https://capital.radiocast.es:8000/capitalweb) | [web](https://ondacapital.es) | [logo](https://graph.facebook.com/ondacapitalfm/picture?width=200&height=200) | - | - |
 | Radio Chipiona | [stream](http://srv01.redsanmarcos.com:8021/stream) | [web](http://www.chipionatv.com) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | WICE |
