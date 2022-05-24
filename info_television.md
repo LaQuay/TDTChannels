@@ -160,12 +160,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | OndaMezquita 7 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | PTV Linares | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Telequivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| Telequivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Telemotril | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Medial TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
