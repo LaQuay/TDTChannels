@@ -726,7 +726,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | The K-POP Korea | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |
 | Rock TV Romania | - | - | - | - | - | - | - | - |
-| Radio 21 Rock'n Pop Alemania | - | - | - | - | - | - | - | - |
 | RadioU TV | - | - | - | - | - | - | - | - |
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - | - |
 | Otto FM Italia | - | - | - | - | - | - | - | - |
