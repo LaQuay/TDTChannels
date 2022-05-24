@@ -237,8 +237,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Castilla-La Mancha Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Hellín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Guadalajara Media | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Guada TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Guada TV Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Visión 6 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Imás TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CanalImagen Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
