@@ -307,7 +307,7 @@
 | TV Sant Cugat | [youtube](https://www.youtube.com/channel/UCoFs7RGrmWQkqU5KNNGvCjA/live) | [web](https://www.tvsantcugat.cat/cobertura/directe-tv-hd/) | [logo](https://graph.facebook.com/tvsantcugat/picture?width=200&height=200) | - | EMB |
 | TV Sabadell Vallès | [m3u8 # 1](https://liveingesta118.cdnmedia.tv/tvsabadelllive/smil:live.smil/playlist.m3u8) - [m3u8 # 2](https://liveingesta119.cdnmedia.tv/tvsabadelllive/smil:live.smil/playlist.m3u8) | [web](https://tvsabadell-valles.cat/tv-sabadell-%C2%B7-valles-en-directe/) | [logo](https://graph.facebook.com/tvsabadellvalles/picture?width=200&height=200) | - | UAGLI |
 | RTV10 Sesrovires | [m3u8 # 1](https://liveingesta118.cdnmedia.tv/tvstestevelive/smil:tele.smil/playlist.m3u8) - [m3u8 # 2](https://liveingesta119.cdnmedia.tv/tvstestevelive/smil:tele.smil/playlist.m3u8) | [web](https://rtv10.alacarta.cat) | [logo](https://graph.facebook.com/rtv10sesrovires/picture?width=200&height=200) | - | UAGLI |
-| 25 TV | [m3u8](https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8) | [web](https://www.25televisio.com/streaming.php) | [logo](https://graph.facebook.com/298335373532952/picture?width=200&height=200) | - | - |
+| 25 TV | [m3u8](https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8) | [web](https://www.25televisio.com/streaming.php) | [logo](https://pbs.twimg.com/profile_images/2265456469/f4oiu35dw7y1ew89240s_200x200.gif) | - | - |
 | TV de Sant Martí | [youtube](https://www.youtube.com/channel/UCGXp77nMffJ9lk5If2dYj3w/live) | [web](https://granviaradio8.wixsite.com/rtvsm/directe) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | EMB |
 
 ### Ceuta
