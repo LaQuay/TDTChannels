@@ -903,7 +903,7 @@
 | Radio Tropical | [stream](https://radiotropical.streaming-pro.com:6136/radiotropical) | [web](https://www.radiotropical.es) | [logo](https://graph.facebook.com/RTROPICAL/picture?width=200&height=200) | - | - |
 | Onda Vasca | [stream # 1](https://live.ondavasca.com:8001/bizkaia) - [stream # 2](https://live.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com) | [logo](https://graph.facebook.com/ondavasca/picture?width=200&height=200) | - | WICE |
 | Bizkaia Irratia | [stream](https://nerbioi.radiopopular.eus/bizkaiairratia2) | [web](http://www.bizkaiairratia.eus/) | [logo](https://graph.facebook.com/BizkaiaIrratia/picture?width=200&height=200) | - | - |
-| Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com) | [logo](https://graph.facebook.com/radioformulahit/picture?width=200&height=200) | - | - |
+| Formula Hit | [mp3](https://server1.emitironline.com:9400/formulahit) | [web](https://www.formulahit.com) | [logo](https://pbs.twimg.com/profile_images/1967694999/Formula_Hit_200x200.jpg) | - | - |
 | Radio Popular - Herri Irratia | [stream](https://nerbioi.radiopopular.eus/radiopopular1) | [web](https://radiopopular.com) | [logo](https://graph.facebook.com/herriirratia/picture?width=200&height=200) | - | - |
 | Radio Donosti | [mp3](https://nodo03-cloud01.streaming-pro.com:6139/radiodonosti.mp3) | [web](http://www.radiodonosti.com) | [logo](https://graph.facebook.com/radiodonosti/picture?width=200&height=200) | - | - |
 | Santurtzi Irratia | [stream](https://secureradio.eu:6104/;) | [web](https://www.stzirratia.com) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
