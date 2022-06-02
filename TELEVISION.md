@@ -53,7 +53,7 @@
 | Aragón Deporte | [m3u8](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8) - [m3u8 # 2](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte2.m3u8) - [m3u8 # 3](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8) | [web](https://www.cartv.es/aragondeporte/directo) | [logo](https://graph.facebook.com/aragondeporte/picture?width=200&height=200) | AragonD.TV | - |
 | VinxTV Asturias | [youtube](https://www.youtube.com/channel/UCJDjXO0kv_ZOtLntIO0d4bw/live) | [web](https://www.vinx.es/vinx-live/) | [logo](https://graph.facebook.com/VinxTV/picture?width=200&height=200) | - | EMB |
 | IB3 Esports | [youtube](https://www.youtube.com/channel/UCOmWJETLyAlFrHkmccOQ-3w/live) | [web](https://ib3.org/directe) | [logo](https://graph.facebook.com/EsportsIB3/picture?width=200&height=200) | - | EMB |
-| RealMadrid TV | - | [web](https://www.realmadrid.com/real-madrid-tv) | [logo](https://graph.facebook.com/RealMadrid/picture?width=200&height=200) | RMTV.TV | W3U,EMB,EXTA |
+| RealMadrid TV [m3u8](https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8)|  | [web](https://www.realmadrid.com/real-madrid-tv) | [logo](https://graph.facebook.com/RealMadrid/picture?width=200&height=200) | RMTV.TV | W3U,EXTA |
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=200&height=200) | BarcaTV.TV | NOEM |
 | Sevilla TV | - | [web](https://live.sevillafc.es) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | SevillaTV.TV | - |
 | Betis TV | - | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | BetisTV.TV | W3U,EXTA |
