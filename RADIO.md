@@ -726,6 +726,7 @@
 | Cassette FM | [mp3](https://cdn4.onstream.audio:9154/cassettefm.mp3) | [web](https://costafm.es/cassettefm/) | [logo](https://tlgur.com/d/GYwvVzl4) | - | - |
 | Radio 90FM | [stream](https://node-33.zeno.fm/015h6n8vfzzuv) | [web](https://radio90fmvalencia.wixsite.com/90fm) | [logo](https://static.wixstatic.com/media/f5b851_67e1cadb04a642e2a353a636264ca548~mv2.png) | - | WICE |
 | Standfy FM | [mp3](https://stream.standfymedia.net/radio/8000/standfy#.mp3) | [web](https://standfy.es) | [logo](https://graph.facebook.com/standfymedia/picture?width=200&height=200) | - | - |
+| Ràdio l'Om | [mp3](https://radiolom.es:8800/;.mp3) | [web](https://radiolom.es/) | [logo](https://graph.facebook.com/radiolompicassent/picture?width=200&height=200) | - | - |
 
 ### Extremadura
 
