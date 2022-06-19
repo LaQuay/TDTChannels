@@ -421,9 +421,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleVigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemiño | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Hermes TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Hermes TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Auria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Nós TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ### Illes Balears
 
