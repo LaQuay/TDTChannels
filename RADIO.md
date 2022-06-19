@@ -444,9 +444,9 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Catalunya Informació | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-informacio/) | [logo](https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png) | - | - |
-| Cat Música | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catmusica/) | [logo](https://graph.facebook.com/catmusica/picture?width=200&height=200) | - | - |
-| iCat | [m3u8](https://directes-radio-int.ccma.cat/int/mp4:icatfm/playlist.m3u8) | [web](https://www.ccma.cat/catradio/directe/icat/) | [logo](https://pbs.twimg.com/profile_images/901098808314081280/lN5lymcl_200x200.jpg) | - | - |
+| Catalunya Informació | [m3u8](https://directes-radio-int.ccma.cat/live-content/catalunya-informacio-hls/master.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catalunya-informacio/) | [logo](https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png) | - | - |
+| Cat Música | [m3u8](https://directes-radio-int.ccma.cat/live-content/catalunya-musica-hls/master.m3u8) | [web](https://www.ccma.cat/catradio/directe-avancat/catmusica/) | [logo](https://graph.facebook.com/catmusica/picture?width=200&height=200) | - | - |
+| iCat | [m3u8](https://directes-radio-int.ccma.cat/live-content/icat-hls/master.m3u8) | [web](https://www.ccma.cat/catradio/directe/icat/) | [logo](https://pbs.twimg.com/profile_images/901098808314081280/lN5lymcl_200x200.jpg) | - | - |
 | Radio Nacional Catalunya | [stream](https://crtve-rne1-cat.cast.addradio.de/crtve/rne1/cat/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Ràdio 4 RNE | [m3u8](https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r4_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-4/) | [logo](https://pbs.twimg.com/profile_images/463278104547303424/pjD8VKWi_200x200.jpeg) | - | - |
 | Radio 5 Catalunya | [stream](https://crtve-rne5-bcn.cast.addradio.de/crtve/rne5/bcn/mp3/high) | [web](https://www.rtve.es/radio/emisiones-territoriales/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
