@@ -462,7 +462,7 @@
 | - | - | - | - | - | - |
 | 7 R. de Murcia | [m3u8](https://obelix.nopiensomas.com/stream/abr/first.m3u8) | [web](http://webtv.7tvregiondemurcia.es) | [logo](https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200) | 7RM.TV | - |
 | Popular TV Murcia | [m3u8](https://cloud.streamingconnect.tv/hls/populartvrm/populartvrm.m3u8) | [web](https://www.populartvmurcia.com) | [logo](https://pbs.twimg.com/profile_images/1442865104614158343/5MprEWSZ_200x200.jpg) | PopularMU.TV | - |
-| Canal 1 Mar Menor | [m3u8](https://directo.tuwebtv.es/canal1.m3u8) | [web](https://directo.tuwebtv.es/canal1.m3u8) | [logo](https://miguel.tuwebtv.es/images/canal_1.png) | - | - |
+| Canal 1 Mar Menor Torre Pacheco | [m3u8](https://directo.tuwebtv.es/canal1.m3u8) | [web](https://www.tuwebtv.es/directo.php) | [logo](https://miguel.tuwebtv.es/images/canal_1.png) | - | - |
 | Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
 
 ## Int. Europa
