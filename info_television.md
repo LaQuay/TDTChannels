@@ -111,9 +111,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | +24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | +tdp | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Atresplayer 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Atresplayer 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Atresplayer 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Presidente) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
