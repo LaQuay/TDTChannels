@@ -460,8 +460,8 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 7 R. de Murcia | [m3u8](https://obelix.nopiensomas.com/stream/abr/first.m3u8) | [web](http://webtv.7tvregiondemurcia.es) | [logo](https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200) | 7RM.TV | - |
-| TeleArchena | [m3u8](https://ott.mapeka.es:64000/live/_definst_/telearchena/playlist.m3u8?bid=mapeka&sid=1&ref=bb22a7fda046cceead5da8d964caf620) | [web](https://www.mapeka.es/telearchena-tv-24-horas/) | [logo](https://graph.facebook.com/telearchena.es/picture?width=200&height=200) | - | - |
 | Popular TV Murcia | [m3u8](https://cloud.streamingconnect.tv/hls/populartvrm/populartvrm.m3u8) | [web](https://www.populartvmurcia.com) | [logo](https://pbs.twimg.com/profile_images/1442865104614158343/5MprEWSZ_200x200.jpg) | PopularMU.TV | - |
+| Canal 1 Mar Menor Torre Pacheco | [m3u8](https://directo.tuwebtv.es/canal1.m3u8) | [web](https://www.tuwebtv.es/directo.php) | [logo](https://miguel.tuwebtv.es/images/canal_1.png) | - | - |
 | Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
 
 ## Int. Europa
