@@ -194,7 +194,7 @@
 | La Fresca FM | [stream](https://stream.produccionesdale.com:8900/altacalidad) | [web](https://www.lafresca.fm) | [logo](https://graph.facebook.com/lafresca.es/picture?width=200&height=200) | - | - |
 | Radio Sierra | [stream](https://srv7031.dns-lcinternet.com/8050/stream) | [web](http://www.radiosierra.es) | [logo](https://graph.facebook.com/RadioSierraFM/picture?width=200&height=200) | - | - |
 | Radio Puerto | [stream](https://enacast.com/radiopuerto/streams/HD) | [web](http://www.radiopuerto.fm) | [logo](https://graph.facebook.com/radiopuertofm/picture?width=200&height=200) | - | - |
-| Onda Capital | [stream](https://capital.radiocast.es:8000/capitalweb) | [web](https://ondacapital.es) | [logo](https://graph.facebook.com/ondacapitalfm/picture?width=200&height=200) | - | - |
+| Onda Capital | [stream](https://streaming.ondacapital.es/radio/8000/capitalweb) | [web](https://ondacapital.es) | [logo](https://graph.facebook.com/ondacapitalfm/picture?width=200&height=200) | - | - |
 | Radio Chipiona | [stream](https://node-03.zeno.fm/ca74a7vdvnhvv) | [web](http://www.chipionatv.com) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | - |
 | Spectrum FM | [stream](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1) | [web](https://spectrumfm.net) | [logo](https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200) | - | - |
 | Onda Jerez Radio | [mp3](http://radio.ondajerez.com:8000/Ondajerez.mp3) | [web](https://www.ondajerez.com/radio) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200) | - | - |
@@ -650,7 +650,7 @@
 | COPE Castellón-Vinaroz | [mp3](https://wecast-b01-02.flumotion.com/copesedes/vinaroz.mp3) | [web](https://www.cope.es/directos/castellon-vinaroz) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Denia | [mp3](https://wecast-b01-02.flumotion.com/copesedes/denia.mp3) | [web](https://www.cope.es/directos/denia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Elche | [stream](https://srv7021.dns-lcinternet.com:10979/live) | [web](https://www.copeelche.com) | [logo](https://graph.facebook.com/CopeElche/picture?width=200&height=200) | - | - |
-| COPE Onda Naranja | [stream](https://radioserver11.profesionalhosting.com/proxy/pcvzalrd?mp=/directo) | [web](https://www.ondanaranjacope.com) | [logo](https://graph.facebook.com/ondanaranjacope/picture?width=200&height=200) | - | - |
+| COPE Onda Naranja | [stream](https://radioserver11.profesionalhosting.com/proxy/pcvzalrd?mp=/directo) | [web](https://ondanaranjacope.com/player) | [logo](https://graph.facebook.com/ondanaranjacope/picture?width=200&height=200) | - | - |
 | COPE Valencia | [mp3](https://wecast-b01-02.flumotion.com/copesedes/valencia.mp3) | [web](https://www.cope.es/directos/valencia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Alicante | [m3u8](https://livefastly-webs.ondacero.es/alicante-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-valenciana/alicante/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Alicante.Radio | - |
 | Onda Cero Alzira | [m3u8](https://livefastly-webs.ondacero.es/alzira-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-valenciana/alzira/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Alzira.Radio | - |
