@@ -611,7 +611,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | SBT Interior Brasil | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Record News Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Rede Massa Brasil |  ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Trinidad and Tobago Television | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Trinidad and Tobago Television | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ## Int. Asia
 
