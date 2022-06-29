@@ -146,7 +146,6 @@
 | Telequivir | [stream](https://player.twitch.tv/?channel=telequivir&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](http://www.telequivir.com) | [logo](https://graph.facebook.com/telequivirtv/picture?width=200&height=200) | - | EMB |
 | Telemotril | [m3u8](https://5940924978228.streamlock.net/8431/8431/playlist.m3u8) | [web](https://telemotril.com/telemotril-en-vivo/) | [logo](https://graph.facebook.com/telemotriltv/picture?width=200&height=200) | Telemotril.TV | NONAV |
 | Diez TV | [m3u8](https://streaming.cloud.innovasur.es/mmj/index.m3u8) | [web](https://www.dieztv.es) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | DiezTV.TV | - |
-| Medial TV | [stream](https://player.twitch.tv/?channel=medialtv2020&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://medialtv.com/category/television/) | [logo](https://graph.facebook.com/MEDIALTELEVISION/picture?width=200&height=200) | - | EMB |
 | RTV Tarifa | [youtube](https://www.youtube.com/channel/UCx5_sA41mFHsZio4umTH3Qw/live) | [web](https://rtvtarifa.com) | [logo](https://graph.facebook.com/RTVTARIFA/picture?width=200&height=200) | - | EMB |
 | CostadelSol TV | [m3u8](https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8) | [web](http://www.costadelsoltv.es) | [logo](https://graph.facebook.com/costadelsoltv/picture?width=200&height=200) | - | - |
 | Bailén TV | [m3u8](http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8) | [web](http://bailen.tv) | [logo](https://graph.facebook.com/BailenTv/picture?width=200&height=200) | - | - |
