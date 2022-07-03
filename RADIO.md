@@ -370,7 +370,7 @@
 | Surco Manzanares | [stream](https://node-31.zeno.fm/v9k530trzwzuv) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/radiosurco/picture?width=200&height=200) | - | - |
 | RM La Manchuela | [stream](https://cast.rmradio.es/radio/8040/stream) | [web](https://www.rmradio.es/lamanchuela/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
 | RM Quintanar del Rey | [stream](https://cast.rmradio.es/radio/8020/stream) | [web](https://www.rmradio.es/quintanardelrey/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
-| Locactiva Radio | [mp3](http://91.121.77.67:8106/;.mp3) | [web](http://www.locactivaradio.es) | [logo](https://graph.facebook.com/LOCACTIVARADIO/picture?width=200&height=200) | - | - |
+| Locactiva Radio | [stream](https://pr1cen101.emisionlocal.com/proxy/locactivaradio?mp=/stream) | [web](http://www.locactivaradio.es) | [logo](https://graph.facebook.com/LOCACTIVARADIO/picture?width=200&height=200) | - | - |
 | Curadio | [stream](http://95.111.248.189:8003/stream) | [web](http://www.curadio.es/Emisoras.asp) | [logo](https://pbs.twimg.com/profile_images/737928418378010624/5K5y8wIm_200x200.jpg) | - | WICE |
 | Radio Kolor | [stream](https://stream20.usastreams.com/8122/stream) | [web](http://www.radiokolor.es) | [logo](https://graph.facebook.com/kolor.cuenca/picture?width=200&height=200) | - | - |
 | Radio Mora | [stream](https://server10.emitironline.com:9075/radio) | [web](https://radiomora.es) | [logo](https://graph.facebook.com/rmorafm/picture?width=200&height=200) | - | - |
