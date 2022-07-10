@@ -1,13 +1,12 @@
-#### Lead
+#### Author
 - Marc [@LaQuay](https://github.com/LaQuay)
 
 #### Team
 - Antonio [@atnbueno](https://github.com/atnbueno)
-- HelmerLuzo [@HelmerLuzo](https://github.com/HelmerLuzo)
+- Paco [@pacoDevelop](https://github.com/pacoDevelop)
 - José Antonio [@nomentero](https://github.com/Nomenteros)
-- Playz [@playzzz](https://github.com/playzzz)
 
-#### Contributions (in alphabetical order)
+#### Colaboradores (in alphabetical order)
 - Adrian [@adrianpaniagualeon](https://github.com/adrianpaniagualeon)
 - Aitor [@aitorillo](https://github.com/aitorillo)
 - Alex Gabriel [@97carmine](https://github.com/97carmine)
@@ -24,4 +23,10 @@
 - Ricardo [@RicardoVelaC](https://github.com/RicardoVelaC)
 - Valentin [@vk496](https://github.com/vk496)
 
+#### Antiguos Colaboradores)
+- HelmerLuzo [@HelmerLuzo](https://github.com/HelmerLuzo)
+- Playz [@playzzz](https://github.com/playzzz)
+
 Si haces una *Pull Request*, no olvides incluirte en este fichero. 
+
+Más info: https://www.tdtchannels.com/colabora
