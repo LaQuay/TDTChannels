@@ -506,7 +506,7 @@
 | 1+1 Ucrania | [youtube # UK](https://www.youtube.com/watch?v=lhs2JS_f9bI) | [web](https://1plus1.video/tvguide/1plus1/online) | [logo](https://graph.facebook.com/1plus1.ua/picture?width=200&height=200) | - | EMB |
 | Ukraine 24 Ucrania | [m3u8 # UK](http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8) | [web](https://u24.ua) | [logo](https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200) | - | - |
 | ICTV Ucrania | [youtube # UK](https://www.youtube.com/channel/UCG26bSkEjJc7SqGsxoHNnbA/live) | [web](https://ictv.ua/ua/online/) | [logo](https://graph.facebook.com/ICTVchannel/picture?width=200&height=200) | - | EMB |
-| Current Time TV | [m3u8 # RU](http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8) | [web](https://www.currenttime.tv/live) | [logo](https://graph.facebook.com/currenttimetv/picture?width=200&height=200) | - | - |
+| Current Time TV | [m3u8 # RU](https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8) | [web](https://www.currenttime.tv/live) | [logo](https://graph.facebook.com/currenttimetv/picture?width=200&height=200) | - | - |
 
 ## Int. América
 
