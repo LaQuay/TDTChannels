@@ -165,7 +165,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Telequivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Telemotril | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Medial TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bailén TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
