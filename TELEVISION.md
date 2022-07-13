@@ -198,7 +198,7 @@
 | RTV Mogán | [m3u8](https://cloudvideo.servers10.com:8081/8028/index.m3u8) | [web](https://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | [logo](https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200) | - | - |
 | Lancelot TV | [m3u8](https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8) | [web](https://www.lancelot.tv/directo/) | [logo](https://graph.facebook.com/288850935035196/picture?width=200&height=200) | - | - |
 | Canal 4 Telde TV | [stream](https://iframe.dacast.com/b/126422/c/496014) | [web](https://canal4tvtelde.com/web/en-directo) | [logo](https://graph.facebook.com/canal4tvtelde/picture?width=200&height=200) | - | EMB |
-| Noroeste TV | [m3u8](https://cloudvideo.servers10.com:8081/8032/index.m3u8) | [web](http://www.noroestetv.es) | [logo](https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200) | - | - |
+| Noroeste TV | [m3u8](https://livestreams.flote.app:5443/flote/streams/f7c103f4-4247-4537-be81-f9b3896d74cb.m3u8) | [web](http://www.noroestetv.es) | [logo](https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200) | - | - |
 | Afortunadas TV | [m3u8](https://cloudvideo.servers10.com:8081/8108/index.m3u8) | [web](https://www.afortunadastv.com) | [logo](https://graph.facebook.com/afortunadastv/picture?width=200&height=200) | - | - |
 
 ### Cantabria
