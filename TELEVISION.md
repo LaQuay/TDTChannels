@@ -38,7 +38,7 @@
 | La Vanguardia | [youtube](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live) | [web](https://www.lavanguardia.com) | [logo](https://graph.facebook.com/LaVanguardia/picture?width=200&height=200) | - | EMB |
 | Agencia EFE | [youtube](https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live) | [web](https://www.efe.com) | [logo](https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200) | - | EMB |
 | Libertad Digital TV | [stream](https://www.dailymotion.com/embed/video/xnm032?autoplay=1) | [web](https://tv.libertaddigital.com/directo.html) | [logo](https://graph.facebook.com/libertad.digital.tv/picture?width=200&height=200) | Libertad.TV | EMB |
-| Negocios TV | [m3u8](https://live.gooru.live/negocios/live.m3u8) - [youtube](https://www.youtube.com/channel/UCwd8Byi93KbnsYmCcKLExvQ/live) | [web](https://www.negocios.com/directo) | [logo](https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg) | Negocios.TV | - |
+| Negocios TV | [m3u8](https://streaming013.gestec-video.com/hls/negociostv.m3u8) - [youtube](https://www.youtube.com/channel/UCwd8Byi93KbnsYmCcKLExvQ/live) | [web](https://www.negocios.com/directo) | [logo](https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg) | Negocios.TV | - |
 | 7NN Noticias | [m3u8](https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8) | [web](https://7nn.tv) | [logo](https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg) | - | - |
 | El Confidencial | [m3u8](https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8) | [web](https://www.elconfidencial.com/television/) | [logo](https://graph.facebook.com/elconfidencial/picture?width=200&height=200) | - | - |
 
@@ -428,7 +428,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| ETB 1 | [m3u8](https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB1.TV | - |
+| ETB 1 | [m3u8]([https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8](https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8)) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB1.TV | - |
 | ETB 2 | [m3u8](https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB2.TV | - |
 | ETB Eventos 1 | [m3u8](https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/noticias/actualidad-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
 | ETB Eventos 2 | [m3u8 # GEO](https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
