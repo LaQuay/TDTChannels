@@ -449,7 +449,7 @@
 | - | - | - | - | - | - |
 | TPA7 | - | [web](https://www.rtpa.es/tpa-television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | W3U,EXTA |
 | EsAsturiasTV | [m3u8](https://cloud.streamingconnect.tv/hls/asturiastv/asturiastv.m3u8) | [web](https://www.esasturias.tv/directo) | [logo](https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200) | - | NONAV |
-| El Comercio Audiovisual | [m3u8](https://bcsecurelivehls-i.akamaihd.net/hls/live/735833/78527750001/playlist.m3u8) | [web](https://www.elcomerciotv.es) | [logo](https://graph.facebook.com/canal10videosasturias/picture?width=200&height=200) | - | - |
+| El Comercio Audiovisual | [m3u8](https://bcovlive-a.akamaihd.net/fb52eae31b0d48a9a8b270215d352569/eu-west-1/85707284001/playlist.m3u8) | [web](https://www.elcomerciotv.es) | [logo](https://graph.facebook.com/canal10videosasturias/picture?width=200&height=200) | - | - |
 
 ### R. de Murcia
 
