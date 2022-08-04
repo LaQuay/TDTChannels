@@ -99,7 +99,6 @@
 | Radio Nacional | [m3u8](https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586409/master.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/2795617.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | - | - |
 | Del 40 al 1 | [m3u8](https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8) | [web](https://del40al1.los40.com) | [logo](https://graph.facebook.com/del40al1/picture?width=200&height=200) | - | - |
-| De sábado con Christian Gálvez | [m3u8](https://hls-directo02-cope-stream.flumotion.com/cope/directo02/playlist.m3u8) | [web](https://www.cadena100.es/programas/de-sabado-con-christian-galvez) | [logo](https://graph.facebook.com/SabadoCADENA100/picture?width=200&height=200) | - | - |
 
 ## Autonómicos
 
@@ -448,7 +447,6 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TPA7 | - | [web](https://www.rtpa.es/tpa-television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | W3U,EXTA |
-| EsAsturiasTV | [m3u8](https://cloud.streamingconnect.tv/hls/asturiastv/asturiastv.m3u8) | [web](https://www.esasturias.tv/directo) | [logo](https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200) | - | NONAV |
 | El Comercio Audiovisual | [m3u8](https://bcsecurelivehls-i.akamaihd.net/hls/live/735833/78527750001/playlist.m3u8) | [web](https://www.elcomerciotv.es) | [logo](https://graph.facebook.com/canal10videosasturias/picture?width=200&height=200) | - | - |
 
 ### R. de Murcia
