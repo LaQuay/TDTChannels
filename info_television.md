@@ -55,7 +55,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Libertad Digital TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Negocios TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Negocios TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | 7NN Noticias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Confidencial | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
