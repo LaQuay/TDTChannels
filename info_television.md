@@ -663,7 +663,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Tastemade | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fashion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Miami TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Locomotion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Classic Arts Showcase | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | American Horrors Movies | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mr Bean 24h | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
