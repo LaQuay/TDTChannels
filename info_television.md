@@ -518,7 +518,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TRT Haber Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTCG SAT Montenegro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televizija Eslovenia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVR Int. Rumania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RÚV Islandia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | San Marino RTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 1+1 Ucrania | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
