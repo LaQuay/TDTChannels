@@ -661,7 +661,6 @@
 | Stadium USA | [m3u8 # EN](https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8) | [web](https://watchstadium.com/live/) | [logo](https://graph.facebook.com/watchstadium/picture?width=200&height=200) | - | - |
 | Garage TV | [m3u8](http://186.0.233.76:1935/Garage/garage.smil/.m3u8) | [web](http://elgarage.com/tv-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
 | MsMotor TV | - | [web](https://www.msmotor.tv/) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | W3U,EXTA |
-| OnlyMotors | [m3u8 # EN](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=553) | [web](https://onlymotors.tv/) | [logo](https://graph.facebook.com/onlymotors/picture?width=200&height=200) | - | - |
 | MotorTrend Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | [web](https://it.dplay.com/motor-trend/) | [logo](https://graph.facebook.com/motortrendIT/picture?width=200&height=200) | - | - |
 | Best Cable Sports Perú | [m3u8](https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8) | [web](https://bestcableperu.com.pe/tv6.html) | [logo](https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200) | - | - |
 

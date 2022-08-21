@@ -681,7 +681,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Stadium USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MsMotor TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| OnlyMotors | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MotorTrend Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Best Cable Sports Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
