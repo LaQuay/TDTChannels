@@ -358,18 +358,20 @@
 | TV 4 Vall de Uxó | [m3u8](https://limited09.todostreaming.es/live/tarson-livestream.m3u8) | [web](https://teve4lavall.com) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=200&height=200) | - | - |
 | Burriana TV | [m3u8](https://www.burrianateve.com/hls/btv.m3u8) | [web](https://www.burrianateve.com/burrianateve-en-directe/) | [logo](https://graph.facebook.com/burrianateve/picture?width=200&height=200) | - | - |
 | telesafor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](https://telesafor.com) | [logo](https://graph.facebook.com/Tele7Safor/picture?width=200&height=200) | - | - |
+| Elche 7 TV | [m3u8](https://elche7tv.gestec-video.com/hls/canal2.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://graph.facebook.com/elche7hd/picture?width=200&height=200) | - | NONAV |
 | Canal 56 | [m3u8](https://videos.canal56.com/directe/stream/index.m3u8) | [web](https://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=200&height=200) | - | NONAV |
 | Tevequatre TV | [m3u8](https://live.yowi.tv/030d78427f4b6a6a3911/master.m3u8) | [web](https://teve4.com/directe/) | [logo](https://graph.facebook.com/teve4televisio/picture?width=200&height=200) | - | NONAV |
 | Maestrat TV | [m3u8](https://stream.maestrat.tv/hls/stream.m3u8) | [web](https://www.maestrat.tv/directe) | [logo](https://graph.facebook.com/maestrat.tv/picture?width=200&height=200) | - | - |
 | Univers TV | [m3u8](https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8) | [web](https://www.universvalencia.es) | [logo](https://yt3.ggpht.com/ytc/AKedOLQb35mWN9WQKdrbrrl30uG9PdY_du6DmbB_khSZdA=s200-c-k-c0x00ffffff-no-rj) | - | - |
 | TV Almassora | [m3u8](https://live.fullsport.es/hls/tva_src/index.m3u8) | [web](https://www.tvalmassora.com/en-directo/) | [logo](https://graph.facebook.com/tvalmassora/picture?width=200&height=200) | - | - |
 | Onda 15 TV | [m3u8](https://cloudvideo.servers10.com:8081/8034/index.m3u8) | [web](https://onda15.es) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
-| Elche 7 TV | [m3u8](https://elche7tv.gestec-video.com/hls/canal2.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://graph.facebook.com/elche7hd/picture?width=200&height=200) | - | NONAV |
+| Canal 3 Biar | [m3u8](http://217.76.154.142:8080/hls/canal3.m3u8) | [web](http://canal3biar.es) | [logo](https://graph.facebook.com/canal3biar/picture?width=200&height=200) | - | - |
+| Ràdio Bocairent TV | [m3u8](http://185.81.77.4/BocairentTV/index.m3u8) | [web](https://radiobocairent.com) | [logo](https://graph.facebook.com/radiobocairent/picture?width=200&height=200) | - | - |
 | Punt 3 Vall Uixó | [m3u8](https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8) | [web](https://www.punt3.es/Directo/) | [logo](https://graph.facebook.com/Punt3Television/picture?width=200&height=200) | - | - |
 | El Toro Valencia TV | [m3u8](https://video3.lhdserver.es/eltorovalencia/live.m3u8) | [web](https://television.intereconomiavalencia.com) | [logo](https://graph.facebook.com/radiointereconomiavalencia1071/picture?width=200&height=200) | - | - |
+| Ciudades Del Ocio TV | [m3u8](https://cloudvideo.servers10.com:8081/8024/index.m3u8) | [web](http://www.ciudadesdelocio.tv) | [logo](https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200&height=200) | - | NONAV |
 | Televisión de Alicante | [m3u8](https://emision.arpamedia.es:4343/hls/emisionalicante.m3u8) | [web](https://www.televisiondealicante.es/alacarta/endirecto/) | [logo](https://graph.facebook.com/televisiondealicante/picture?width=200&height=200) | - | - |
 | Onda Valencia | [m3u8](https://cloudvideo.servers10.com:8081/8116/index.m3u8) | [web](https://www.ondavalencia.es/en-directo/onda-valencia-tv) | [logo](https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200) | - | - |
-| Ciudades Del Ocio TV | [m3u8](https://cloudvideo.servers10.com:8081/8024/index.m3u8) | [web](http://www.ciudadesdelocio.tv) | [logo](https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200&height=200) | - | NONAV |
 | Une Vinalopó | [m3u8](http://78.41.83.88:8880/hls/unesd.m3u8) | [web](https://www.unevinalopo.es/directo/) | [logo](https://graph.facebook.com/UneVinalopo/picture?width=200&height=200) | - | - |
 | Corts Valencianes | [m3u8](https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8) | [web](https://mediateca.cortsvalencianes.es/library/lives/) | [logo](https://graph.facebook.com/cortsval/picture?width=200&height=200) | - | - |
 
