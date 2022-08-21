@@ -323,7 +323,7 @@
 | Teleganés | [m3u8](https://live.yowi.tv/f79437b2aa253f8e59f1/master.m3u8) | [web](https://www.teleganes.com/en-directo/) | [logo](https://graph.facebook.com/1423419417957760/picture?width=200&height=200) | - | NONAV |
 | Distrito TV | [m3u8](https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8) | [web](http://distritotv.es) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | NONAV |
 | Déjate de Historias TV | [youtube](https://www.youtube.com/channel/UChMCkc02GVSi89TrvhbRasA/live) | [web](https://dejatedehistorias.es/emision-online) | [logo](https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200) | Dejate.TV | EMB |
-| Telesur Madrid | [m3u8](https://live.yowi.tv/1314e346aedca6930f48/master.m3u8) | [web](https://telesurmadrid.wordpress.com) | [logo](https://graph.facebook.com/telesurmadrid/picture?width=200&height=200) | - | NONAV |
+| Telesur Madrid | - | [web](https://telesurmadrid.wordpress.com) | [logo](https://graph.facebook.com/telesurmadrid/picture?width=200&height=200) | - | NOEM |
 | C33 Madrid | [m3u8](https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8) | [web](http://www.canal33.info) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
 | GCM TV | [m3u8](https://cloud.streamingconnect.tv/hls/tbmadrid/tbmadrid.m3u8) | [web](https://grupocadenamediatv.com) | [logo](https://graph.facebook.com/100146922067408/picture?width=200&height=200) | - | - |
 | Nesting TV | [m3u8](https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_j5bz42qbg5s8.m3u8) | [web](https://nesting.tv) | [logo](https://graph.facebook.com/nestingtv/picture?width=200&height=200) | - | - |
