@@ -64,7 +64,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Teledeporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| GOL TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| GOL Play | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Esport 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | ETB Deportes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Aragón Deporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emite eventualmente |
@@ -500,8 +500,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | CNEWS Francia | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Rai News 24 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sport Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Tg La 7 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Tg Lad 7 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La7 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La7d Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | DW Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | WDR Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
