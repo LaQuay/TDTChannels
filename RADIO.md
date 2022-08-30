@@ -643,7 +643,7 @@
 | SER Villena | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VILLENA.mp3) | [web](https://play.cadenaser.com/emisora/radio_villena/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Villena.Radio | - |
 | SER Xàtiva | [stream](https://directe.radioontinyent.com/serxativa) | [web](https://play.cadenaser.com/emisora/radio_xativa/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Xativa.Radio | - |
 | COPE Alcoy | [stream](https://server8.emitironline.com:10876/;) | [web](https://www.copealcoy.es) | [logo](https://graph.facebook.com/copealcoy/picture?width=200&height=200) | - | - |
-| COPE Alicante | [mp3](https://wecast-b01-02.flumotion.com/copesedes/alicante.mp3) | [web](https://www.cope.es/directos/alicante) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Alicante | [mp3](https://wecast-m01-02.flumotion.com/copesedes/alicante.mp3) | [web](https://www.cope.es/directos/alicante) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Castellón | [mp3](https://wecast-b01-02.flumotion.com/copesedes/castellon.mp3) | [web](https://www.cope.es/directos/castellon) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Castellón-Vinaroz | [mp3](https://wecast-b01-02.flumotion.com/copesedes/vinaroz.mp3) | [web](https://www.cope.es/directos/castellon-vinaroz) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Denia | [mp3](https://wecast-b01-02.flumotion.com/copesedes/denia.mp3) | [web](https://www.cope.es/directos/denia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
