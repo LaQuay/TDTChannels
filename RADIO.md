@@ -264,6 +264,7 @@
 | Radio Calamocha | [mp3](http://178.32.221.43/ondacerocalamocha.mp3) | [web](https://www.radiocalamocha.es/player.html) | [logo](https://graph.facebook.com/radiocalamocha/picture?width=200&height=200) | - | - |
 | Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=200&height=200) | - | - |
 | Tea FM | [stream](https://cervera.eldialdigital.com:21161/stream) | [web](http://www.teafm.net) | [logo](https://graph.facebook.com/teafm/picture?width=200&height=200) | - | - |
+| Vale Radio | [stream](https://sonic.sistemahost.es/8160/stream) | [web](http://www.valeradio.es/) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
 | Onda Aragonesa | [stream](http://eu1.lhdserver.es:9046/stream) | [web](https://ondaaragonesa.com) | [logo](https://graph.facebook.com/RadioOndaAragonesa/picture?width=200&height=200) | - | - |
 | Radio Barbastro-Ainsa | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARBASTRO.mp3) | [web](https://cadenaser.com/radio-ainsa/contacto/) | [logo](https://graph.facebook.com/RadioBarbastroyAinsa/picture?width=200&height=200) | - | - |
 | Radio Huesca Graus | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GRAUS.mp3) | [web](https://cadenaser.com/radio-graus/contacto/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
