@@ -261,6 +261,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La 8 Soria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 8 Valladolid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 8 Zamora | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 9 Soria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | 987 Live | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emisión eventual |
 | TV Benavente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 54 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
