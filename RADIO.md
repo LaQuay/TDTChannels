@@ -962,7 +962,7 @@
 | COPE Espuña | [stream](http://5.135.183.124:8110/stream) | [web](https://copealhama.es.tl/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Lorca | [mp3](https://wecast-m01-03.flumotion.com/copesedes/lorca.mp3) | [web](https://www.cope.es/directos/lorca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Murcia | [mp3](https://wecast-m01-03.flumotion.com/copesedes/murcia.mp3) | [web](https://www.cope.es/directos/murcia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Sureste | [stream](http://91.121.77.67:8068) | [web](http://www.rsureste.com) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Sureste | [mp3](http://91.121.77.67:8068/;.mp3) | [web](http://www.rsureste.com) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Jumilla | [stream](https://eu1.lhdserver.es:9055/stream) | [web](https://www.copejumilla.com) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Yecla | [stream](http://eu1.lhdserver.es:9168/stream) | [web](http://copeyecla.com) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Cartagena | [m3u8](https://livefastly-webs.ondacero.es/cartagena-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/murcia/cartagena/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Cartagena.Radio | - |
