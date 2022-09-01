@@ -373,7 +373,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV Artequatre | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | 12TV Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV de San Vicente | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall de Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Burriana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -390,7 +390,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro Valencia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudades Del Ocio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Televisión de Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Televisión de Alicante | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -469,7 +469,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | TPA7 | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| El Comercio Audiovisual | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Comercio Audiovisual | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### R. de Murcia
 
