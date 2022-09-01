@@ -230,6 +230,7 @@
 | Radio Arcos | [mp3](http://s4.myradiostream.com:4350/;.mp3) | [web](http://www.radioarcos.es/radioonline.htm) | [logo](https://cdn-radiotime-logos.tunein.com/s111974q.png) | - | - |
 | Radio Benamocarra | [mp3](http://91.121.174.141:28908/;mp3) | [web](http://radiobenamocarra.es) | [logo](https://graph.facebook.com/radiobenamocarra/picture?width=200&height=200) | - | - |
 | 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](http://www.90fm.es) | [logo](https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg) | - | - |
+| SportDirect Radio | [mp3](https://streaming12.elitecomunicacion.es:8036/stream) | [web](http://sportdirectradio.es/) | [logo](https://graph.facebook.com/SportDirectRadio/picture?width=200&height=200) | - | - |
 
 ### Aragón
 
