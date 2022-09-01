@@ -147,7 +147,7 @@
 | Diez TV | [m3u8](https://streaming.cloud.innovasur.es/mmj/index.m3u8) | [web](https://www.dieztv.es) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | DiezTV.TV | - |
 | RTV Tarifa | [youtube](https://www.youtube.com/channel/UCx5_sA41mFHsZio4umTH3Qw/live) | [web](https://rtvtarifa.com) | [logo](https://graph.facebook.com/RTVTARIFA/picture?width=200&height=200) | - | EMB |
 | CostadelSol TV | [m3u8](https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8) | [web](http://www.costadelsoltv.es) | [logo](https://graph.facebook.com/costadelsoltv/picture?width=200&height=200) | - | - |
-| Bailén TV | [m3u8](http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8) | [web](http://bailen.tv) | [logo](https://graph.facebook.com/BailenTv/picture?width=200&height=200) | - | - |
+| Bailén TV | [m3u8 # 1](http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8) - [m3u8 # 2](http://cpd.bailen.tv:8080/Directos/index.m3u8) | [web](http://bailen.tv) | [logo](https://graph.facebook.com/BailenTv/picture?width=200&height=200) | - | - |
 | 101 TV Antequera | [m3u8](https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8) | [web](https://www.101tv.es/directo-antequera/) | [logo](https://graph.facebook.com/101tvAntequera/picture?width=200&height=200) | 101Antequera.TV | - |
 | 8TV Jerez | [m3u8](https://cloudvideo.servers10.com:8081/8164/index.m3u8) - [youtube](https://www.youtube.com/channel/UC_Z78uo-XNGbE57X2QUZWbQ/live) | [web](https://8tvjerez.com) | [logo](https://graph.facebook.com/8TvJerez/picture?width=200&height=200) | - | - |
 | Sal TV | [m3u8](https://cloudvideo.servers10.com:8081/8182/index.m3u8) | [web](https://saltv.es) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | - |
