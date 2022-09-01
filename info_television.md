@@ -698,6 +698,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Spektra TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | STZ Telebista España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | VIVA RTV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Drop TV España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
 | Virgin Radio Italia | - | - | - | - | - | - | - | - |
 | R 101 Italia | - | - | - | - | - | - | - | - |
