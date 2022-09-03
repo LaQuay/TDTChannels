@@ -794,3 +794,4 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Emmanuel TV Nigeria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Redevida Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 3ABN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| JLTV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
