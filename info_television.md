@@ -787,7 +787,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Betania TV España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Cetelmon España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| El Sembrador TV Europa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ESNE | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | CBN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Enlace TV Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
