@@ -433,7 +433,6 @@
 | Power FM Valladolid | [stream](https://streaming.powerfmvalladolid.com:4430/stream) | [web](https://powerfmvalladolid.com) | [logo](https://graph.facebook.com/PowerFmValladolid/picture?width=200&height=200) | - | WICE |
 | Radio Guardo | [stream](http://server10.emitironline.com:10654/radi) | [web](http://radioguardoamgu.org) | [logo](https://graph.facebook.com/RadioGuardo/picture?width=200&height=200) | - | - |
 | Fabulosa FM | [stream](https://cast2.vulnerados.es:8102/stream) | [web](https://lafabulosafm.com) | [logo](https://graph.facebook.com/fabulosa99.9/picture?width=200&height=200) | - | - |
-| Radio 4G Iscar | [stream](https://stm2.emiteonline.com:9005/radio4giscar) | [web](http://radio4giscar.es) | [logo](https://graph.facebook.com/Radio4GOficial/picture?width=200&height=200) | - | WICE |
 | ACUP Radio | [stream](https://s3streamingradio.desafiohosting.com/proxy/joagua00/stream) | [web](https://acupradio.es) | [logo](https://graph.facebook.com/ACUPRadio/picture?width=200&height=200) | - | - |
 | Radio Universitaria León | [stream # 1](http://radio.unileon.es:8000/radio-unileon-320) - [stream # 2](http://radio.unileon.es:8000/radio-unileon-192) | [web](https://servicios.unileon.es/radio-universitaria/) | [logo](https://graph.facebook.com/unileon/picture?width=200&height=200) | - | WICE |
 | Radio Universitaria Salamanca | [mp3](http://212.128.140.98:8000/usalradio.mp3) | [web](http://radio.usal.es) | [logo](https://graph.facebook.com/universidaddesalamanca/picture?width=200&height=200) | - | - |
@@ -579,7 +578,7 @@
 | Radio 21 | [stream](http://node-01.zeno.fm/q39semrpyk8uv) | [web](http://www.radio21.es) | [logo](https://pbs.twimg.com/profile_images/894682648500740097/f__fTwxZ_200x200.jpg) | - | - |
 | Onda Merlín C Radio | [stream](https://cervera.eldialdigital.com:25131/stream) | [web](https://www.omcradio.org/escuchanos/) | [logo](https://graph.facebook.com/OmcRadio/picture?width=200&height=200) | - | WICE |
 | Radio Morata | [stream](https://cervera.eldialdigital.com:25141/stream) | [web](http://www.radiomorata.com/lavoz/) | [logo](https://graph.facebook.com/radiomorata/picture?width=200&height=200) | - | WICE |
-| Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com) | [logo](https://graph.facebook.com/Radio4GOficial/picture?width=200&height=200) | - | - |
+| Radio 4G | [mp3](https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3) | [web](https://www.radio4g.com) | [logo](https://www.radio4g.com/img/emisoras/logo_r4g-fm.jpg) | - | - |
 | Esencia Radio | [stream](https://stream.zeno.fm/apu4qxap0rquv) | [web](https://www.esenciaradio.com/endirecto/) | [logo](https://graph.facebook.com/esenciaradio/picture?width=200&height=200) | - | - |
 | Radio Villalba | [stream](https://srv7041.dns-lcinternet.com/8042/stream) | [web](http://www.colladovillalba.es/es/actualidad/radio-villalba/radio-villalba-en-directo/) | [logo](https://graph.facebook.com/radiovillalbafm/picture?width=200&height=200) | - | - |
 | Libertad FM | [mp3](https://endirecto.libertadfm.es/hq-libertadfm.mp3) | [web](https://libertadfm.es/2017/11/23/en-directo/) | [logo](https://graph.facebook.com/LIBERTADFM107/picture?width=200&height=200) | - | - |
@@ -697,11 +696,11 @@
 | Radio 6 | [mp3](http://stream.mediasector.es/radio/8150/radio6.mp3) | [web](https://www.emisorasmusicales.net/emisoras/radio6/) | [logo](https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/05/Radio-6.png?fit=200%2C200) | - | - |
 | Radio Sirena COPE Benidorm | [stream](http://rsirena.dnsalias.com:8000/rsirenacope) | [web](https://www.radiosirena.es/radio-online/radio-sirena/) | [logo](https://graph.facebook.com/radiosirena/picture?width=200&height=200) | - | WICE |
 | TVB Radio | [stream](http://streaming.tvt-datos.es:8000/radio) | [web](http://www.televisionvegabaja.es/tvb-radio/) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | WICE |
+| Radio 4G Benidorm | [stream](http://ip45.ip-217-182-209.eu:8000/gestionabenidorm.ogg?/directo) | [web](https://radio4gbenidorm.com) | [logo](https://graph.facebook.com/Radio4Gbenidorm/picture?width=200&height=200) | - | - |
 | Código FM | [mp3](https://streaming-audio-1.magentalabs.es:8100/codigofm.mp3) | [web](https://www.codigofm.com/escuchanos/) | [logo](https://graph.facebook.com/codigofmradio/picture?width=200&height=200) | - | - |
 | Plaza Radio | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://plazaradio.es/onair) | [logo](https://pbs.twimg.com/profile_images/1438771594952839170/aBOGp4Rl_200x200.jpg) | - | WICE |
 | Radio Ibi | [mp3](http://streaming.enacast.com:8000/radioibiSD.mp3) | [web](https://www.radioibi.com) | [logo](https://pbs.twimg.com/profile_images/524879648971165696/0R6A-gKg_200x200.jpeg) | - | - |
 | Onda Ilicitana R4G | [mp3](http://212.83.151.18:38722/;.mp3) | [web](http://ondailicitana.com) | [logo](https://graph.facebook.com/ondailicitana/picture?width=200&height=200) | - | - |
-| Radio 4G Benidorm | [stream](http://ip45.ip-217-182-209.eu:8000/gestionabenidorm.ogg?/directo) | [web](https://radio4gbenidorm.com) | [logo](https://graph.facebook.com/Radio4GOficial/picture?width=200&height=200) | - | - |
 | 99.9 Valencia Radio | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://www.la999.es) | [logo](https://graph.facebook.com/999VlcRadio/picture?width=200&height=200) | - | WICE |
 | ON Radio | [mp3](https://streaming-audio-1.magentalabs.es:8100/onradio.mp3) | [web](https://www.onradio.fm) | [logo](https://graph.facebook.com/onradio.fm/picture?width=200&height=200) | - | - |
 | Vega Baja Radio | [stream](https://node-21.zeno.fm/3xnvzk9dztzuv) | [web](https://vegabajaradio.com) | [logo](https://graph.facebook.com/vegabajaradio/picture?width=200&height=200) | - | - |
