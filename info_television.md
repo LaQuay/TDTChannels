@@ -127,6 +127,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 2 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite, previa subscripción en su web |
+| 7NN Andalucía | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Jerez TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -419,6 +420,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG Eventos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleVigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7NN Galicia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Telemiño | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Hermes TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Auria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
