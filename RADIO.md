@@ -366,8 +366,8 @@
 | esRadio Albacete | [mp3](http://82.223.28.73:8000/esradioalbacete.mp3) | [web](https://www.esradioalbacete.es) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | Surco Tomelloso | [stream](https://node-19.zeno.fm/52vdh1y07qzuv) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/radiosurco/picture?width=200&height=200) | - | - |
 | Surco Manzanares | [stream](https://node-31.zeno.fm/v9k530trzwzuv) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/radiosurco/picture?width=200&height=200) | - | - |
-| RM La Manchuela | [stream](https://cast.rmradio.es/radio/8040/stream) | [web](https://www.rmradio.es/lamanchuela/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
-| RM Quintanar del Rey | [stream](https://cast.rmradio.es/radio/8020/stream) | [web](https://www.rmradio.es/quintanardelrey/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
+| RM La Manchuela | [stream](https://cast.rmradio.es/radio/8040/stream) | [web](https://www.rmradio.es/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
+| RM Quintanar del Rey | [stream](https://cast.rmradio.es/radio/8020/stream) | [web](https://www.rmradio.es/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
 | Locactiva Radio | [stream](https://pr1cen101.emisionlocal.com/proxy/locactivaradio?mp=/stream) | [web](http://www.locactivaradio.es) | [logo](https://graph.facebook.com/LOCACTIVARADIO/picture?width=200&height=200) | - | - |
 | Curadio | [stream](http://95.111.248.189:8003/stream) | [web](http://www.curadio.es/Emisoras.asp) | [logo](https://pbs.twimg.com/profile_images/737928418378010624/5K5y8wIm_200x200.jpg) | - | WICE |
 | Radio Kolor | [stream](https://stream20.usastreams.com/8122/stream) | [web](http://www.radiokolor.es) | [logo](https://graph.facebook.com/kolor.cuenca/picture?width=200&height=200) | - | - |
@@ -673,7 +673,7 @@
 | Remember The Music FM | [stream](https://eu1.lhdserver.es:9041/stream) | [web](https://rememberthemusicfm.com) | [logo](https://pbs.twimg.com/profile_images/1034848375705878528/qt4gn64O_200x200.jpg) | - | - |
 | TeleElx Radio | [mp3](https://directo.teleelx.es:8000/radio.mp3) | [web](https://teleelx.es/radio/) | [logo](https://graph.facebook.com/teleelx/picture?width=200&height=200) | - | - |
 | Hot FM Benidorm | [stream](https://streaming.broadcastradio.com:11815/hotfm962) | [web](https://www.hotfm.fm/radio962/) | [logo](https://graph.facebook.com/HotFMSpain/picture?width=200&height=200) | - | WICE |
-| RM Requena Utiel | [stream](https://cast.rmradio.es/radio/8010/stream) | [web](https://www.rmradio.es/requena-utiel/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
+| RM Requena Utiel | [stream](https://cast.rmradio.es/radio/8010/stream) | [web](https://www.rmradio.es/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
 | Radio Esport Valencia | [stream](https://streaming.radioesport914.com:58000/stream) | [web](http://radioesport914.com) | [logo](https://graph.facebook.com/radioesport914/picture?width=200&height=200) | - | WICE |
 | Torrevieja Radio | [stream](https://sonicpanel.globalstream.pro:10973/;) | [web](https://torreviejaradio.com) | [logo](https://graph.facebook.com/TorreviejaRadio107.1/picture?width=200&height=200) | - | - |
 | Alzira Ràdio | [mp3](https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3) | [web](https://alziraradio.com/alzira-radio-en-directe/) | [logo](https://graph.facebook.com/alziraradio/picture?width=200&height=200) | - | - |
