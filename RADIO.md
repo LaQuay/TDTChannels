@@ -433,7 +433,7 @@
 | Anda Onda Lerma | [stream](http://streaming.andaonda.es:8000/live) | [web](http://andaonda.es) | [logo](https://graph.facebook.com/andaondalerma/picture?width=200&height=200) | - | WICE |
 | Power FM Valladolid | [stream](https://streaming.powerfmvalladolid.com:4430/stream) | [web](https://powerfmvalladolid.com) | [logo](https://graph.facebook.com/PowerFmValladolid/picture?width=200&height=200) | - | WICE |
 | Europa FM Medina | [stream](https://server10.emitironline.com:8102/;) | [web](https://www.ondacerotierrasdemedina.es/escuchar-europafm-medina-del-campo-en-directo/) | [logo](https://graph.facebook.com/EuropaFmAndalucia/picture?width=200&height=200) | - | - |
-| Onda Medina | [stream](https://s4.voscast.com:8753/stream) | [web](https://www.lavozdemedinadigital.com/wordpress/) | [logo](https://pbs.twimg.com/profile_images/1246037468878495744/ZIIXcdoK_200x200.jpg) | - | WICE | 
+| Onda Medina | [mp3](https://s28.myradiostream.com/:13006/listen.mp3) | [web](https://www.lavozdemedinadigital.com/wordpress/) | [logo](https://pbs.twimg.com/profile_images/1246037468878495744/ZIIXcdoK_200x200.jpg) | - | WICE | 
 | Radio Guardo | [stream](http://server10.emitironline.com:10654/radi) | [web](http://radioguardoamgu.org) | [logo](https://graph.facebook.com/RadioGuardo/picture?width=200&height=200) | - | - |
 | Fabulosa FM | [stream](https://cast2.vulnerados.es:8102/stream) | [web](https://lafabulosafm.com) | [logo](https://graph.facebook.com/fabulosa99.9/picture?width=200&height=200) | - | - |
 | Radio 4G Iscar | [stream](https://stm2.emiteonline.com:9005/radio4giscar) | [web](http://radio4giscar.es) | [logo](https://graph.facebook.com/Radio4GOficial/picture?width=200&height=200) | - | WICE |
