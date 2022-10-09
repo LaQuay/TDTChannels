@@ -287,7 +287,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal Parlament | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | betevé | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Fibracat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| teve.cat | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terres de l'Ebre | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Reus TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
