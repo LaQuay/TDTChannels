@@ -357,7 +357,7 @@
 | TV Artequatre | [m3u8](https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8) | [web](https://www.tv-a.es) | [logo](https://graph.facebook.com/tvArtequatre/picture?width=200&height=200) | - | NONAV |
 | 12TV Alicante | [m3u8](https://cloud.streamingconnect.tv/hls/12tv/gcmin.m3u8) | [web](https://www.12tv.es) | [logo](https://graph.facebook.com/12tv.es/picture?width=200&height=200) | - | - |
 | Levante TV | [m3u8](https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8) | [web](http://www.levantetv.es) | [logo](https://graph.facebook.com/levantetv/picture?width=200&height=200) | - | - |
-| TV de San Vicente | [m3u8](https://emision.arpamedia.es:4343/hls/emisionsanvicente.m3u8) | [web](https://www.televisiondesanvicente.es/alacarta/endirecto/) | [logo](https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200) | - | - |
+| TV de San Vicente | - | [web](https://www.televisiondesanvicente.es/alacarta/) | [logo](https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200) | - | NOEM |
 | TV Vega Baja | [m3u8](https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | - |
 | TV 4 Vall de Uxó | [m3u8](https://limited09.todostreaming.es/live/tarson-livestream.m3u8) | [web](https://teve4lavall.com) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=200&height=200) | - | - |
 | Burriana TV | [m3u8](https://www.burrianateve.com/hls/btv.m3u8) | [web](https://www.burrianateve.com/burrianateve-en-directe/) | [logo](https://graph.facebook.com/burrianateve/picture?width=200&height=200) | - | - |
@@ -375,7 +375,7 @@
 | Punt 3 Vall Uixó | [m3u8](https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8) | [web](https://www.punt3.es/Directo/) | [logo](https://graph.facebook.com/Punt3Television/picture?width=200&height=200) | - | - |
 | El Toro Valencia TV | [m3u8](https://video3.lhdserver.es/eltorovalencia/live.m3u8) | [web](https://television.intereconomiavalencia.com) | [logo](https://graph.facebook.com/radiointereconomiavalencia1071/picture?width=200&height=200) | - | - |
 | Ciudades Del Ocio TV | [m3u8](https://cloudvideo.servers10.com:8081/8024/index.m3u8) | [web](http://www.ciudadesdelocio.tv) | [logo](https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200&height=200) | - | NONAV |
-| Televisión de Alicante | [m3u8](https://emision.arpamedia.es:4343/hls/emisionalicante.m3u8) | [web](https://www.televisiondealicante.es/alacarta/endirecto/) | [logo](https://graph.facebook.com/televisiondealicante/picture?width=200&height=200) | - | - |
+| Televisión de Alicante | - | [web](https://www.televisiondealicante.es/alacarta/) | [logo](https://graph.facebook.com/televisiondealicante/picture?width=200&height=200) | - | NOEM |
 | Onda Valencia | [m3u8](https://cloudvideo.servers10.com:8081/8116/index.m3u8) | [web](https://www.ondavalencia.es/en-directo/onda-valencia-tv) | [logo](https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200) | - | - |
 | Une Vinalopó | [m3u8](http://78.41.83.88:8880/hls/unesd.m3u8) | [web](https://www.unevinalopo.es/directo/) | [logo](https://graph.facebook.com/UneVinalopo/picture?width=200&height=200) | - | - |
 | Corts Valencianes | [m3u8](https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8) | [web](https://mediateca.cortsvalencianes.es/library/lives/) | [logo](https://graph.facebook.com/cortsval/picture?width=200&height=200) | - | - |
@@ -454,7 +454,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TPA7 | - | [web](https://www.rtpa.es/tpa-television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | W3U,EXTA |
-| El Comercio Audiovisual | [m3u8](https://bcsecurelivehls-i.akamaihd.net/hls/live/735833/78527750001/playlist.m3u8) | [web](https://www.elcomerciotv.es) | [logo](https://graph.facebook.com/canal10videosasturias/picture?width=200&height=200) | - | - |
+| El Comercio Audiovisual | - | [web](https://www.elcomerciotv.es) | [logo](https://graph.facebook.com/canal10videosasturias/picture?width=200&height=200) | - | NOEM |
 
 ### R. de Murcia
 
