@@ -221,6 +221,7 @@
 | Radio Oro | [mp3 # 1](http://185.23.192.118:8002/;stream.mp3) - [mp3 # 2](http://185.23.192.118:8004/;stream.mp3) | [web](http://www.radiooro.es) | [logo](https://graph.facebook.com/RadioOroMalaga/picture?width=200&height=200) | - | - |
 | Canal Málaga RTV | [mp3](https://wecast-b01-04.flumotion.com/canalmalaga/live.mp3) | [web](http://canalmalaga.es/radio-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
 | Onda Loja Radio | [stream](http://5.196.73.188:8008/;) | [web](https://www.ondaloja.es) | [logo](https://graph.facebook.com/370465614347/picture?width=200&height=200) | - | - |
+| SportDirect Radio | [stream](https://streaming12.elitecomunicacion.es:8036/stream) | [web](http://sportdirectradio.es/) | [logo](https://graph.facebook.com/SportDirectRadio/picture?width=200&height=200) | - | - |
 | Chocolate FM | [stream # 1](http://streaming5.elitecomunicacion.es:8082/live.mp3) - [stream # 2](https://streaming2.elitecomunicacion.es:8030/live.mp3) | [web](https://www.chocolatefm.com) | [logo](https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200) | - | - |
 | Onda Mencía Radio | [stream](https://streaming12.elitecomunicacion.es:8146/stream) | [web](http://escucha.ondamenciaradio.com) | [logo](https://graph.facebook.com/OndaMenciaRadio/picture?width=200&height=200) | - | - |
 | Radio Poniente | [stream](https://broadcast.radioponiente.org:8036/;) | [web](https://www.radioponiente.com) | [logo](https://graph.facebook.com/radioponientedeportes/picture?width=200&height=200) | - | - |
@@ -553,6 +554,7 @@
 | COPE Madrid | [mp3](https://flucast-m05-04.flumotion.com/cope/madrid.mp3) | [web](https://www.cope.es/directos/madrid) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Más Madrid | [mp3](https://flucast-b03-04.flumotion.com/cope/net4.mp3) | [web](https://www.cope.es/directos/madrid-cope-mas) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE de la Sierra | [mp3](https://wecast-m02-06.flumotion.com/copesedes/villalba.mp3) | [web](https://www.cope.es/directos/villalba) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Pinares | [stream](http://server9.emitironline.com:10928/;) | [web](https://copepinares.es/) | [logo](https://graph.facebook.com/COPEPINARES/picture?width=200&height=200) | - | - |
 | Onda Cero Alcalá de Henares | [m3u8](https://livefastly-webs.ondacero.es/alcala-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/alcala-de-henares/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_AlcaladeHenares.Radio | - |
 | Onda Cero Madrid | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/madrid/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Madrid.Radio | - |
 | Onda Cero Madrid Sur | [stream](https://node-25.zeno.fm/dzqaazsn3p8uv) | [web](https://www.ondaceromadridsur.es/directo) | [logo](https://graph.facebook.com/ondaceromadridsur/picture?width=200&height=200) | - | - |
@@ -573,6 +575,7 @@
 | Radio Cigüeña | [stream](https://cervera.eldialdigital.com:25171/stream) | [web](http://www.radiociguena.org) | [logo](https://graph.facebook.com/297157036138/picture?width=200&height=200) | - | WICE |
 | Radio Inter | [stream](https://live.radiointer.es/stream) | [web](https://www.radiointer.es) | [logo](https://graph.facebook.com/radiointerspain/picture?width=200&height=200) | - | - |
 | Radio Utopía | [mp3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](http://www.radioutopia.org.es) | [logo](https://graph.facebook.com/179099278878655/picture?width=200&height=200) | - | - |
+| Onda Fuenlabrada | [mp3](http://radioserver7.profesionalhosting.com:41008/;stream.mp3) | [web](https://ondafuenlabrada.es/emision/) | [logo](https://graph.facebook.com/onda.fuenlabrada/picture?width=200&height=200) | - | - |
 | Peperadio | [stream](https://server10.emitironline.com:8032/) | [web](https://peperadio.es) | [logo](https://pbs.twimg.com/profile_images/905319409992044544/x35XzF3A_200x200.jpg) | - | - |
 | Espacio 4 FM | [stream](http://radiogestion.com:7003/mount3) | [web](https://www.espacio4fm.com) | [logo](https://graph.facebook.com/Espacio4Fm/picture?width=200&height=200) | - | WICE |
 | Círculo de Bellas Artes Madrid | [m3u8](https://play.cdn.enetres.net/863690D2607511E098B669C2DFD72085028/02984/playlist.m3u8) | [web](https://www.circulobellasartes.com/radiocirculo/) | [logo](https://pbs.twimg.com/profile_images/3749689279/708ad0114d946cc9545665477b6f6d21_200x200.jpeg) | - | - |
