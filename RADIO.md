@@ -500,7 +500,7 @@
 | Altafulla Ràdio | [mp3](http://streaming.enantena.com:8000/altafulla128.mp3) - [stream](https://enacast.com/altafullaradio/streams/HD) | [web](http://altafullaradio.cat) | [logo](https://graph.facebook.com/altafulla.radio/picture?width=200&height=200) | - | - |
 | Radio Kanal BCN | [stream](https://radioserver10.profesionalhosting.com:60970/stream) | [web](https://radiokanalbarcelona.com) | [logo](https://pbs.twimg.com/profile_images/3653625672/1d981811d07359248593fdca59aae77d_200x200.jpeg) | - | WICE |
 | Montcada Ràdio | [mp3](https://streaming.enacast.com/montcada128.mp3) | [web](https://www.montcadaradio.com) | [logo](https://graph.facebook.com/MontcadaComunicacio/picture?width=200&height=200) | - | - |
-| La Marina FM | [stream](http://endirecte.amcl.cat:8000/lamarinafm) | [web](http://lamarina.cat/endirecte/) | [logo](https://graph.facebook.com/lamarinacat/picture?width=200&height=200) | - | WICE |
+| La Marina FM | [stream](http://endirecte.amcl.cat:8000/stream) | [web](http://lamarina.cat/endirecte/) | [logo](https://graph.facebook.com/lamarinacat/picture?width=200&height=200) | - | WICE |
 | Cerdanyola Radio | [mp3](https://wecast-b01-04.flumotion.com/ajcerdanyola/live.mp3) | [web](https://cerdanyola.info/cerdanyola-radio) | [logo](https://graph.facebook.com/cerdanyola.info/picture?width=200&height=200) | - | - |
 | Mataró Ràdio | [stream](https://radio.cdnmedia.tv/radio/8030/mataroradio) | [web](https://mataroaudiovisual.alacarta.cat/directeR) | [logo](https://pbs.twimg.com/profile_images/1462469660226592772/MG4pwTJT_200x200.png) | - | - |
 | Cooltura FM | [mp3](https://server9.emitironline.com:19244/) | [web](http://coolturafm.com) | [logo](https://graph.facebook.com/coolturafm/picture?width=200&height=200) | - | - |
