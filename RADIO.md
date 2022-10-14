@@ -268,6 +268,7 @@
 | Onda Cero Zaragoza | [m3u8](https://livefastly-webs.ondacero.es/zaragoza-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/aragon/zaragoza/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Zaragoza.Radio | - |
 | Onda Cero Cinca | [aac](http://sonando-us.digitalproserver.com/litera.aac) | [web](https://www.ondacerocinca.es/) | [logo](https://graph.facebook.com/ondacerocinca/picture?width=200&height=200) | - | - |
 | LOS40 Huesca | [stream](https://streamingradio.radiohuesca.com:8061/radio40principales) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | WICE |
+| MDT Radio | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | - | - |
 | Radio La Comarca | [mp3](https://radioonlinelacomarca.net:8100/ser.mp3) | [web](https://www.lacomarca.net/radio-streaming/?channel=radio-la-comarca) | [logo](https://graph.facebook.com/lacomarcanews/picture?width=200&height=200) | - | - |
 | Ebro FM | [stream](http://s2.prositel.net:7010/ebrofm) | [web](https://diarioaragones.com) | [logo](https://pbs.twimg.com/profile_images/522841077712044032/6hH3W4_F_200x200.jpeg) | - | - |
 | Rumba FM | [mp3](http://streaming.hdserver.biz:9348/;mp3) | [web](http://www.rumba93.es) | [logo](https://graph.facebook.com/RumbaFMZaragoza/picture?width=200&height=200) | - | - |
