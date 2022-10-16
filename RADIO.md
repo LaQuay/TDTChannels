@@ -246,7 +246,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Aragón Radio Zaragoza | [mp3](https://cartv.streaming.aranova.es/mp3/live/aragonradio_aragonradio1_96.mp3) | [web](https://www.cartv.es/aragonradio/radio?id=canal1) | [logo](https://graph.facebook.com/aragonradio/picture?width=200&height=200) | - | - |
+| Aragón Radio Zaragoza | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8) | [web](https://www.cartv.es/aragonradio/radio?id=canal1) | [logo](https://graph.facebook.com/aragonradio/picture?width=200&height=200) | - | - |
 | Aragón Radio Huesca | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_huesca.m3u8) | [web](https://www.cartv.es/aragonradio/radio?id=canal2) | [logo](https://graph.facebook.com/aragonradio/picture?width=200&height=200) | - | - |
 | Aragón Radio Teruel | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_teruel.m3u8) | [web](https://www.cartv.es/aragonradio/radio?id=canal3) | [logo](https://graph.facebook.com/aragonradio/picture?width=200&height=200) | - | - |
 | Radio Nacional Aragón | [stream](https://crtve-rne1-ara.cast.addradio.de/crtve/rne1/ara/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_ara-live/3893524/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
