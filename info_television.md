@@ -545,9 +545,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | CourtTV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV Public | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| The Weather Channel USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+
 | WeatherNation USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Entertainment Tonight USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | America's Voice USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | BUZZR TV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Newsmax TV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
