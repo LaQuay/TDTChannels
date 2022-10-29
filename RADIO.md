@@ -855,7 +855,7 @@
 | Formentera Radio | [stream](https://srv7031.dns-lcinternet.com/8020/stream) | [web](http://player.lcinternet.es/v9/cc654_id977/) | [logo](https://graph.facebook.com/FormenteraRadio/picture?width=200&height=200) | - | - |
 | Isla 106 | [stream](https://stream.isla106.com/isla106) | [web](https://www.isla106.com) | [logo](https://graph.facebook.com/Isla106Radio/picture?width=200&height=200) | - | - |
 | Radio Murta | [stream](https://murta.recasound.es/stream) | [web](https://www.grup4.com/?page_id=10861) | [logo](https://static-media.streema.com/media/cache/c1/a3/c1a323d20e5cd83f4199fb3f23961f41.jpg) | - | WICE |
-| Dale Caña FM | [stream](https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s1_35664_stream) | [web](https://dalecanafm.radio12345.com/) | [logo](https://graph.facebook.com/dcfmallorca/picture?width=200&height=200) | - | - |
+| Dale Caña FM | [mp3](https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s1_35664_stream.mp3) | [web](https://dalecanafm.radio12345.com/) | [logo](https://graph.facebook.com/dcfmallorca/picture?width=200&height=200) | - | - |
 
 ### La Rioja
 
