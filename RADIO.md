@@ -196,7 +196,7 @@
 | Radiolé Costa de la Luz | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_ASO_COSTA_LUZ.mp3) | [web](http://radiolecostaluz.com/reproductor.html) | [logo](https://graph.facebook.com/RadioleCostaDeLaLuz/picture?width=200&height=200) | - | - |
 | Onda Cádiz Radio | [mp3](http://adc-radio-stream.flumotion.com/adc/live-radio.mp3) | [web](https://ondacadiz.es/radio/directo) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [mp3](https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3) | [web](https://lajunglaradio.com) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | WICE |
-| Radio Mijas | [stream](https://s9.voscast.com:9691/stream) | [web](https://mijascomunicacion.com/radio-mijas-en-directo/) | [logo](https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200) | - | WICE |
+| Radio Mijas | [stream](https://s9.voscast.com:9691/stream) | [web](https://mijascomunicacion.com/radio-mijas-en-directo/) | [logo](https://graph.facebook.com/RadioMijas/picture?width=200&height=200) | - | WICE |
 | Radio Planeta | [stream](https://radioplaneta.emitironline.com) | [web](https://www.radioplaneta.com) | [logo](https://yt3.ggpht.com/ytc/AKedOLRETQgEcm3bzxRJOct7AMt2oYneaikmoSjYi_GqxQ=s200-c-k-c0x00ffffff-no-rj) | - | WICE |
 | Nostalgia FM | [stream](https://azura.abcorp.es/radio/8040/live) | [web](https://nostalgiafm.es/web/) | [logo](https://graph.facebook.com/nostalgiaspain/picture?width=200&height=200) | - | - |
 | Gozadera FM Andalucia | [stream](https://azura.abcorp.es/radio/8030/live) | [web](https://gozadera.es/web/) | [logo](https://graph.facebook.com/GozaderaSpain/picture?width=200&height=200) | - | - |
