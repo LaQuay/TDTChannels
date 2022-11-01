@@ -110,12 +110,14 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | +24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | +tdp | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ¡HOLA! Play | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Presidente) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Ministros) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Nacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Onda Cero | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Del 40 al 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Sábados de 10 a 14 |
 
 ## Autonómicos
@@ -265,6 +267,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV Benavente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 54 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TV Aranda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 9 Soria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Junta Castilla y León | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Cataluña
@@ -275,8 +278,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 324 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 33 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España. Emisión eventual, comparte señal con Super3 |
 | Super3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España. Emisión eventual, comparte señal con 33 |
-| CCMA Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| CCMA Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CCMA Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| CCMA Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| CCMA Exclusiu 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | La 1 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -284,7 +288,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal Parlament | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | betevé | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Fibracat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| teve.cat | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terres de l'Ebre | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Reus TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
@@ -373,10 +377,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV Artequatre | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | 12TV Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV de San Vicente | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall de Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Burriana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Distrito TV Valencia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | telesafor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Elche 7 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -388,9 +393,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal 3 Biar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ràdio Bocairent TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El Toro Valencia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7NN Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudades Del Ocio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Televisión de Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Televisión de Alicante | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -435,7 +440,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | TV Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7 La Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7 La Rioja | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Parlamento de La Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión eventual |
 
 ### Melilla
@@ -469,7 +474,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | TPA7 | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| El Comercio Audiovisual | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Comercio Audiovisual | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### R. de Murcia
 
@@ -507,7 +512,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | WDR Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NDR Niedersachsen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sky News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| GB News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| GB News UK | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | RTP 1 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTP 2 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTP 3 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
@@ -541,7 +546,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | CourtTV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV Public | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| NASA TV ISS Views | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | The Weather Channel USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | WeatherNation USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Entertainment Tonight USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -602,7 +606,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | ABC TV Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Unicanal Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Nicavisión TV Nicaragua | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Nicavisión TV Nicaragua | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | WTV Nicaragua | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 33 El Salvador | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | TeleDiario Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -767,7 +771,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La Karibeña Perú | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
 | Onda Digital Perú | - | - | - | - | - | - | - | - |
-| La Mega Mundial USA | - | - | - | - | - | - | - | - |
+| La Mega Mundial USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Music Top Argentina | - | - | - | - | - | - | - | - |
 | Portal Foxmix Chile | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
@@ -794,3 +798,4 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Emmanuel TV Nigeria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Redevida Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 3ABN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| JLTV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
