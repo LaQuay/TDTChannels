@@ -41,6 +41,7 @@
 | Negocios TV | [m3u8](https://streaming013.gestec-video.com/hls/negociostv.m3u8) - [youtube](https://www.youtube.com/channel/UCwd8Byi93KbnsYmCcKLExvQ/live) | [web](https://www.negocios.com/directo) | [logo](https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg) | Negocios.TV | NONAV |
 | 7NN Noticias | [m3u8](https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8) | [web](https://7nn.tv) | [logo](https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg) | - | - |
 | El Confidencial | [m3u8](https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8) | [web](https://www.elconfidencial.com/television/) | [logo](https://graph.facebook.com/elconfidencial/picture?width=200&height=200) | - | - |
+| ¡HOLA! Play | [m3u8](https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8) | [web](https://www.hola.com/tv/) | [logo](https://graph.facebook.com/revistahola/picture?width=200&height=200) | - | - |
 
 ## Deportivos
 
