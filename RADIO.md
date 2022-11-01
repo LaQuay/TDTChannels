@@ -196,7 +196,6 @@
 | Radio Puerto | [stream](https://enacast.com/radiopuerto/streams/HD) | [web](http://www.radiopuerto.fm) | [logo](https://graph.facebook.com/radiopuertofm/picture?width=200&height=200) | - | - |
 | Onda Capital | [stream](https://server1.radiocast.es/listen/onda_capital/capitalweb) | [web](https://ondacapital.es) | [logo](https://graph.facebook.com/ondacapitalfm/picture?width=200&height=200) | - | - |
 | Radio Chipiona | [stream](https://node-03.zeno.fm/ca74a7vdvnhvv) | [web](http://www.chipionatv.com) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | - |
-| Radio Nerja | [stream](https://secureradio.eu:2130/stream) | [web](https://radionerja.com/escucha-radio-nerja-dese-cualquier-lugar/) | [logo](https://graph.facebook.com/radionerja/picture?width=200&height=200) | - | - |
 | Spectrum FM | [stream](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1) | [web](https://spectrumfm.net) | [logo](https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200) | - | - |
 | Onda Jerez Radio | [mp3](http://radio.ondajerez.com:8000/Ondajerez.mp3) | [web](https://www.ondajerez.com/radio) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200) | - | - |
 | Global Radio | [mp4](http://stream.seav.co.uk:8000/stream.mp4) | [web](https://global.fm/streamwindow/) | [logo](https://graph.facebook.com/loveglobalradio/picture?width=200&height=200) | - | - |
@@ -219,6 +218,7 @@
 | Cadena Latino | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=200&height=200) | - | - |
 | Radio Cartaya | [stream](https://eu1.lhdserver.es:9237/stream) | [web](http://www.radiocartaya.es) | [logo](https://graph.facebook.com/radiocartaya/picture?width=200&height=200) | - | - |
 | Central FM | [mp3](http://s29.myradiostream.com:4922/;listen.mp3) | [web](http://www.centralfm.com) | [logo](https://graph.facebook.com/131322746891532/picture?width=200&height=200) | - | - |
+| Radio Nerja | [stream](https://secureradio.eu:2130/stream) | [web](https://radionerja.com/escucha-radio-nerja-dese-cualquier-lugar/) | [logo](https://graph.facebook.com/radionerja/picture?width=200&height=200) | - | - |
 | Radio Oro | [mp3 # 1](http://185.23.192.118:8002/;stream.mp3) - [mp3 # 2](http://185.23.192.118:8004/;stream.mp3) | [web](http://www.radiooro.es) | [logo](https://graph.facebook.com/RadioOroMalaga/picture?width=200&height=200) | - | - |
 | Canal Málaga RTV | [mp3](https://wecast-b01-04.flumotion.com/canalmalaga/live.mp3) | [web](http://canalmalaga.es/radio-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
 | Onda Loja Radio | [stream](http://5.196.73.188:8008/;) | [web](https://www.ondaloja.es) | [logo](https://graph.facebook.com/370465614347/picture?width=200&height=200) | - | - |
