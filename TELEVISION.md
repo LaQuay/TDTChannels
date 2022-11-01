@@ -111,7 +111,6 @@
 | 7TV Andalucía | - | [web](https://7tvandalucia.es) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | 7Andalucia.TV | NOEM |
 | Jerez TV | [youtube](https://www.youtube.com/channel/UCHVquS6wXQAsESO2bwZ7esw/live) | [web](https://jereztelevision.com) | [logo](https://graph.facebook.com/jerez.television/picture?width=200&height=200) | - | EMB |
 | 101TV Málaga | [m3u8](https://limited38.todostreaming.es/live/101tv-web101tv.m3u8) | [web](https://www.101tv.es/endirecto101tv/) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | 101Malaga.TV | - |
-| Mijas 3.40 TV | [m3u8](https://streaming004.gestec-video.com/hls/MIJAS.m3u8) | [web](https://mijascomunicacion.com/mijas-340-tv-en-directo/) | [logo](https://graph.facebook.com/Mijas340TV/picture?width=200&height=200) | Mijas340TV.TV | - |
 | Onda Cádiz | [m3u8](https://adc-hls.flumotion.com/playlist.m3u8) | [web](https://ondacadiz.es/television-directo) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | OndaCadiz.TV | - |
 | M95 Marbella | [m3u8](https://limited2.todostreaming.es/live/m95-livestream.m3u8) | [web](http://m95tv.es) | [logo](https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200) | - | - |
 | Huelva TV | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8) | [web](http://huelvatv.com/directo/) | [logo](https://graph.facebook.com/Huelvatv/picture?width=200&height=200) | HuelvaTV.TV | - |
@@ -157,6 +156,7 @@
 | TV Carmona | [youtube](https://www.youtube.com/channel/UC_FCG-Dn0LUaUjz06IqwHwA/live) | [web](https://www.televisioncarmona.com) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | CanalMalaga.TV | - |
 | 101 TV Axarquía | [m3u8](https://limited38.todostreaming.es/live/101tv-webAxarquia.m3u8) | [web](https://www.101tv.es/directo-axarquia-almijara/) | [logo](https://graph.facebook.com/101tvaxarquia/picture?width=200&height=200) | 101Axarquía.TV | - |
+| Mijas 3.40 TV | [m3u8](https://streaming004.gestec-video.com/hls/MIJAS.m3u8) | [web](https://mijascomunicacion.com/mijas-340-tv-en-directo/) | [logo](https://graph.facebook.com/Mijas340TV/picture?width=200&height=200) | Mijas340TV.TV | - |
 | PTV Granada | [m3u8](https://streamer.zapitv.com/PTV-granada/index.m3u8) | [web](https://ptvtelecom.com/canales/granada.html) | [logo](https://graph.facebook.com/PTVGranada/picture?width=200&height=200) | - | NONAV |
 | TeleGilena | [m3u8](https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8) | [web](http://www.telegilena.com/directo/) | [logo](https://graph.facebook.com/tele.gilena/picture?width=200&height=200) | - | - |
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200) | FuengirolaTV.TV | - |
