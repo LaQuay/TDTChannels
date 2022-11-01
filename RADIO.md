@@ -248,9 +248,9 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Aragón Radio Zaragoza | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8) | [web](http://www.aragonradio.es) | [logo](https://graph.facebook.com/aragonradio/picture?width=200&height=200) | - | - |
-| Aragón Radio Huesca | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_huesca.m3u8) | [web](http://www.aragonradio.es) | [logo](https://graph.facebook.com/aragonradio/picture?width=200&height=200) | - | - |
-| Aragón Radio Teruel | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_teruel.m3u8) | [web](http://www.aragonradio.es) | [logo](https://graph.facebook.com/aragonradio/picture?width=200&height=200) | - | - |
+| Aragón Radio Zaragoza | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8) | [web](https://www.cartv.es/aragonradio/radio?id=canal1) | [logo](https://graph.facebook.com/aragonradio/picture?width=200&height=200) | - | - |
+| Aragón Radio Huesca | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_huesca.m3u8) | [web](https://www.cartv.es/aragonradio/radio?id=canal2) | [logo](https://graph.facebook.com/aragonradio/picture?width=200&height=200) | - | - |
+| Aragón Radio Teruel | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragonradio_teruel.m3u8) | [web](https://www.cartv.es/aragonradio/radio?id=canal3) | [logo](https://graph.facebook.com/aragonradio/picture?width=200&height=200) | - | - |
 | Radio Nacional Aragón | [stream](https://crtve-rne1-ara.cast.addradio.de/crtve/rne1/ara/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_ara-live/3893524/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Aragón | [stream](https://crtve-rne5-zgz.cast.addradio.de/crtve/rne5/zgz/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_ara/3894741/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | Radio Marca Zaragoza | [stream](https://c6.auracast.net/radio/8020/rmzgz) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
