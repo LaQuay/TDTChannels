@@ -728,7 +728,6 @@
 | Radio 7 Valencia | [m3u8](https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247024/027/playlist.m3u8) | [web](https://radiosiete.com/emision-en-directo/) | [logo](https://graph.facebook.com/radiosiete/picture?width=200&height=200) | - | - |
 | Ràdio l'Om | [mp3](https://radiolom.es:8800/;.mp3) | [web](https://radiolom.es) | [logo](https://graph.facebook.com/radiolompicassent/picture?width=200&height=200) | - | - |
 | Ràdio Klara | [stream](https://cervera.eldialdigital.com:21111/stream) | [web](http://www.radioklara.org) | [logo](https://graph.facebook.com/radioklara/picture?width=200&height=200) | - | WICE |
-| Xtra Hits FM | [stream](https://srv1.multiesfera.com:8020/stream) | [web](https://xtrahits.es/directo/) | [logo](https://graph.facebook.com/XtraHits/picture?width=200&height=200) | - | - |
 | SOL FM Radio | [stream](https://eu1.lhdserver.es:9135/stream) | [web](http://www.solfm.com) | [logo](https://graph.facebook.com/solfmradio/picture?width=200&height=200) | - | - |
 | Radio Monóvar | [stream](http://s3radio.hostingwebcloud.com:8215/;stream) | [web](https://monover.com/radio-monovar-online/) | [logo](https://graph.facebook.com/monovercom/picture?width=200&height=200) | - | - |
 | Xtra FM | [stream](https://stream.jfkradio.es/xtrafm) | [web](https://xtrafm.es/player/#South) | [logo](https://graph.facebook.com/xtrafmcostablanca/picture?width=200&height=200) | - | WICE |
