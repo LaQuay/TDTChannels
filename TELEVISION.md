@@ -150,7 +150,6 @@
 | CostadelSol TV | [m3u8](https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8) | [web](http://www.costadelsoltv.es) | [logo](https://graph.facebook.com/costadelsoltv/picture?width=200&height=200) | - | - |
 | Bailén TV | [m3u8 # 1](http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8) - [m3u8 # 2](http://cpd.bailen.tv:8080/Directos/index.m3u8) | [web](http://bailen.tv) | [logo](https://graph.facebook.com/BailenTv/picture?width=200&height=200) | - | - |
 | 101 TV Antequera | [m3u8](https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8) | [web](https://www.101tv.es/directo-antequera/) | [logo](https://graph.facebook.com/101tvAntequera/picture?width=200&height=200) | 101Antequera.TV | - |
-| 8TV Jerez | [m3u8](http://srv.panelcast.net/8tvjerez/live/playlist.m3u8) - [youtube](https://www.youtube.com/channel/UC_Z78uo-XNGbE57X2QUZWbQ/live) | [web](https://8tvjerez.com) | [logo](https://graph.facebook.com/8TvJerez/picture?width=200&height=200) | - | - |
 | Sal TV | [m3u8](https://cloudvideo.servers10.com:8081/8254/index.m3u8) | [web](https://saltv.es) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | - |
 | 9 la Loma TV | [m3u8](https://9laloma.tv/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=200&height=200) | 9LaLoma.TV | - |
 | Vivamóvil TV | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8) | [web](https://vivamovil.tv/en-directo/) | [logo](https://graph.facebook.com/VivamovilTV/picture?width=200&height=200) | - | - |
@@ -166,7 +165,6 @@
 | PTV Córdoba | [m3u8](https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8) | [web](https://ptvtelecom.com/canales/cordoba.html) | [logo](https://graph.facebook.com/PTVCOR/picture?width=200&height=200) | - | NONAV |
 | Canal Coín | [m3u8](https://cloudtv.provideo.es/live/canalcoin-livestream.m3u8) | [web](http://canalcoin.com/tv-directo) | [logo](https://graph.facebook.com/106272064368271/picture?width=200&height=200) | CanalCoin.TV | - |
 | TVM Córdoba | [m3u8](https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8) | [web](https://www.cordoba.es/emision_directo/) | [logo](https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200) | - | - |
-| 8 TV Cádiz | [m3u8](https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8) | [web](https://www.8cadiz.es/directo/) | [logo](https://graph.facebook.com/8tvcadiz/picture?width=200&height=200) | - | - |
 | Cancionero TV | [m3u8](http://89.140.229.4/hls1/cancionero.m3u8) | [web](http://www.cancionero.es/tv/) | [logo](https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png) | - | - |
 | Trebujena TV | [m3u8](http://212.104.160.156:1935/live/trebujenatv2/master.m3u8) | [web](http://trebujena.tv) | [logo](https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg) | - | - |
 | La Fábrica TV | [m3u8](https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8) | [web](https://app.lafabricatv.es/canal-en-directo) | [logo](https://graph.facebook.com/LaFabricaTV/picture?width=200&height=200) | - | - |
