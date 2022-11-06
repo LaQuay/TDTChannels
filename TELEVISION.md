@@ -199,7 +199,6 @@
 | RTV Mogán | [m3u8](https://cloudvideo.servers10.com:8081/8028/index.m3u8) | [web](https://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | [logo](https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200) | - | - |
 | Lancelot TV | [m3u8](https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8) | [web](https://www.lancelot.tv/directo/) | [logo](https://graph.facebook.com/288850935035196/picture?width=200&height=200) | - | - |
 | Este Canal TV | [m3u8](http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8) | [web](http://www.estecanaltv.com/este-canal-en-directo/) | [logo](https://graph.facebook.com/estecanaltv/picture?width=200&height=200) | - | NONAV |
-| Canal 4 Telde TV | [stream](https://iframe.dacast.com/b/126422/c/496014) | [web](https://canal4tvtelde.com/web/en-directo) | [logo](https://graph.facebook.com/canal4tvtelde/picture?width=200&height=200) | - | EMB |
 | Noroeste TV | [m3u8](https://livestreams.flote.app:5443/flote/streams/f7c103f4-4247-4537-be81-f9b3896d74cb.m3u8) | [web](http://www.noroestetv.es) | [logo](https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200) | - | - |
 | Afortunadas TV | [m3u8](https://cloudvideo.servers10.com:8081/8108/index.m3u8) | [web](https://www.afortunadastv.com) | [logo](https://graph.facebook.com/afortunadastv/picture?width=200&height=200) | - | - |
 
@@ -374,7 +373,6 @@
 | Canal 3 Biar | [m3u8](http://217.76.154.142:8080/hls/canal3.m3u8) | [web](http://canal3biar.es) | [logo](https://graph.facebook.com/canal3biar/picture?width=200&height=200) | - | - |
 | Ràdio Bocairent TV | [m3u8](http://185.81.77.4/BocairentTV/index.m3u8) | [web](https://radiobocairent.com) | [logo](https://graph.facebook.com/radiobocairent/picture?width=200&height=200) | - | - |
 | Punt 3 Vall Uixó | [m3u8](https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8) | [web](https://www.punt3.es/Directo/) | [logo](https://graph.facebook.com/Punt3Television/picture?width=200&height=200) | - | - |
-| 7NN Valencia | [m3u8](https://video3.lhdserver.es/eltorovalencia/live.m3u8) | [web](https://television.intereconomiavalencia.com) | [logo](https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg) | - | - |
 | Ciudades Del Ocio TV | [m3u8](https://cloudvideo.servers10.com:8081/8024/index.m3u8) | [web](http://www.ciudadesdelocio.tv) | [logo](https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200&height=200) | - | NONAV |
 | Televisión de Alicante | - | [web](https://www.televisiondealicante.es/alacarta/) | [logo](https://graph.facebook.com/televisiondealicante/picture?width=200&height=200) | - | NOEM |
 | Onda Valencia | [m3u8](https://cloudvideo.servers10.com:8081/8116/index.m3u8) | [web](https://www.ondavalencia.es/en-directo/onda-valencia-tv) | [logo](https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200) | - | - |
@@ -388,7 +386,6 @@
 | Canal Extremadura | [m3u8](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8) | [web](https://www.canalextremadura.es/directo/television) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | NONAV |
 | TV Extremeña | [stream](https://player.twitch.tv/?channel=tvextremena&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.xn--televisionextremea-30b.com/directo/) | [logo](https://graph.facebook.com/TELEVISIONEXTREMENA/picture?width=200&height=200) | - | EMB |
 | Zafra TV | [m3u8](https://cloud.streamingconnect.tv/hls/radiotvzafra/gcmin.m3u8) | [web](https://webtv.radiotvzafra.es) | [logo](https://graph.facebook.com/ZFtelevision/picture?width=200&height=200) | - | - |
-| Cáceres Tevé | [m3u8](https://cerestv.ddns.net/hls/caceres.m3u8) | [web](https://caceresteve.es/video/directo-streaming-caceres-tv/) | [logo](https://graph.facebook.com/caceresteve/picture?width=200&height=200) | - | - |
 | Villafranca TV | [youtube](https://www.youtube.com/channel/UCIp5TEcJidiaN3p_mguOrTQ/live) | [web](http://www.villafrancadelosbarros.es/index.php/medios-de-comunicacion) | [logo](https://pbs.twimg.com/profile_images/1180389927709810688/BgzpxkjA_200x200.jpg) | - | EMB |
 
 ### Galicia
