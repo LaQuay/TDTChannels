@@ -716,8 +716,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | NumberOne Turquía | - | - | - | - | - | - | - | - |
 | m2o Italia | - | - | - | - | - | - | - | - |
 | ON TV Portugal | - | - | - | - | - | - | - | - |
-| 1 Music Hungria | - | - | - | - | - | - | - | - |
-| Hit Music Channel | - | - | - | - | - | - | - | - |
 | NRG91 Grecia | - | - | - | - | - | - | - | - |
 | V2Beat TV | - | - | - | - | - | - | - | - |
 | The K-POP Korea | - | - | - | - | - | - | - | - |
