@@ -462,7 +462,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| 7 R. de Murcia | [m3u8](https://rtv-murcia-live.globalmest.com/stream/abr/first.m3u8) | [web](https://www.la7tv.es/video/a-la-carta/7tv-en-directo/20220810150726000939.html) | [logo](https://graph.facebook.com/la7tele/picture?width=200&height=200) | 7RM.TV | - |
+| 7 R. de Murcia | [youtube](https://www.youtube.com/@la7tele/live) | [web](https://www.la7tv.es/video/a-la-carta/7tv-en-directo/20220810150726000939.html) | [logo](https://graph.facebook.com/la7tele/picture?width=200&height=200) | 7RM.TV | EMB |
 | Popular TV Murcia | [m3u8](https://cloud.streamingconnect.tv/hls/populartvrm/populartvrm.m3u8) | [web](https://www.populartvmurcia.com) | [logo](https://pbs.twimg.com/profile_images/1582861401126838272/zErBKiA9_200x200.jpg) | PopularMU.TV | - |
 | Canal 1 Mar Menor Torre Pacheco | [m3u8](https://directo.tuwebtv.es/canal1.m3u8) | [web](https://www.tuwebtv.es/directo.php) | [logo](https://miguel.tuwebtv.es/images/canal_1.png) | - | - |
 | Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
