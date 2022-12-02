@@ -576,8 +576,8 @@
 | Meganoticias Chile | [youtube](https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live) | [web](https://www.meganoticias.cl/senal-en-vivo/) | [logo](https://graph.facebook.com/meganoticiascl/picture?width=200&height=200) | - | EMB |
 | TC TV Ecuador | [stream](https://www.dailymotion.com/embed/video/x7wijay?autoplay=1) | [web](https://www.tctelevision.com/en-vivo) | [logo](https://graph.facebook.com/tctelevision10/picture?width=200&height=200) | - | EMB |
 | TeleAmazonas Ecuador | [m3u8](https://api.new.livestream.com/accounts/1359588/events/9942377/live.m3u8) | [web](http://www.teleamazonas.com/teleamazonas-en-vivo/) | [logo](https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200) | - | - |
-| Bolivia 7.1 TV | - | [web](http://www.boliviatv.bo/principal/vivo71.php) | [logo](https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200) | - | W3U,EXTA |
-| Bolivia 7.2 TV | [m3u8](https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8) | [web](http://www.boliviatv.bo/principal/vivo72.php) | [logo](https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200) | - | - |
+| Bolivia 7.1 TV | - | [web](http://www.boliviatv.bo/principal/vivo71.php) | [logo](https://pbs.twimg.com/profile_images/1593005114633195529/mQFd1xjp_200x200.jpg) | - | W3U,EXTA |
+| Bolivia 7.2 TV | [m3u8](https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8) | [web](http://www.boliviatv.bo/principal/vivo72.php) | [logo](https://pbs.twimg.com/profile_images/1593005114633195529/mQFd1xjp_200x200.jpg) | - | - |
 | Red Pat Bolivia | [m3u8](https://master.tucableip.com/pat/playlist.m3u8) | [web](https://www.redpat.tv/envivo/) | [logo](https://graph.facebook.com/patboliviahd/picture?width=200&height=200) | - | - |
 | Cubavisión TV | [m3u8](https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8) | [web](https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true) | [logo](https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200) | Cubavision.TV | REF |
 | CDN 37 República Dominicana | - | [web](https://cdn.com.do/envivo/) | [logo](https://graph.facebook.com/cdn.com.do/picture?width=200&height=200) | - | W3U,EXTA |
@@ -595,7 +595,7 @@
 | CNN Brasil | [youtube](https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live) | [web](https://www.cnnbrasil.com.br/ao-vivo) | [logo](https://graph.facebook.com/cnnbrasil/picture?width=200&height=200) | - | EMB |
 | SBT Interior Brasil | - | [web](https://sbtinterior.com/aovivo/) | [logo](https://graph.facebook.com/sbtnointerior/picture?width=200&height=200) | - | W3U,EXTA |
 | Record News Brasil | [youtube # BR](https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live) | [web](https://noticias.r7.com/record-news) | [logo](https://graph.facebook.com/recordnews/picture?width=200&height=200) | - | EMB |
-| Rede Massa Brasil | [m3u8 # BR](https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8) | [web](https://www.redemassa.com.br/aovivo/) | [logo](https://pbs.twimg.com/profile_images/1521181649622417412/S7X22or5_200x200.jpg) | - | - |
+| Rede Massa Brasil | [m3u8 # BR](https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8) | [web](https://www.redemassa.com.br/aovivo/) | [logo](https://pbs.twimg.com/profile_images/1595423243598528513/RTXLU8Wa_200x200.jpg) | - | - |
 | Trinidad and Tobago Television | [stream](https://tegostream.com/player/tego-player.php?broadcaster=ttt&channel=255) | [web](https://www.ttt.live/stream/) | [logo](https://graph.facebook.com/tttliveonline/picture?width=200&height=200) | - | EMB |
 ## Int. Asia
 
