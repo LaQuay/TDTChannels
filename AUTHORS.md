@@ -3,7 +3,7 @@
 
 #### Team
 - Antonio [@atnbueno](https://github.com/atnbueno)
-- Paco [@pacoDevelop](https://github.com/pacoDevelop))
+- Paco [@pacoDevelop](https://github.com/pacoDevelop)
 - Jacobo [@poborp](https://github.com/poborp)
 
 #### Colaboradores (in alphabetical order)
