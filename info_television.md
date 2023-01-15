@@ -346,7 +346,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Déjate de Historias TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Telesur Madrid | No emite en directo por Internet |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| GCM TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| EsTuTele | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Nesting TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | IBEROAMERICA TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
