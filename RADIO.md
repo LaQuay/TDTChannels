@@ -608,7 +608,7 @@
 | Libertad FM | [mp3](https://endirecto.libertadfm.es/hq-libertadfm.mp3) | [web](https://libertadfm.es/2017/11/23/en-directo/) | [logo](https://graph.facebook.com/LIBERTADFM107/picture?width=200&height=200) | - | - |
 | ECO Leganés | [stream](https://cervera.eldialdigital.com:25191/stream) | [web](http://ecoleganes.org) | [logo](https://graph.facebook.com/ecoleganes01/picture?width=200&height=200) | - | WICE |
 | REC Radio | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg91643?mp=/stream) | [web](https://www.recradio.es) | [logo](https://graph.facebook.com/SomosRecRadio/picture?width=200&height=200) | - | - |
-| Globo FM | [stream](https://sonic.sistemahost.es/8200/stream) | [web](http://www.globofm.es) | [logo](https://pbs.twimg.com/profile_images/972013004484173824/BMLZEKXs_200x200.jpg) | - | - |
+| Globo FM | [mp3](https://sonic.sistemahost.es/8200/;.mp3) | [web](http://www.globofm.es) | [logo](https://pbs.twimg.com/profile_images/972013004484173824/BMLZEKXs_200x200.jpg) | - | - |
 | Radio Madrid Sierra | [stream](https://streaming12.elitecomunicacion.es:8070/stream) | [web](https://radiomadridsierra.com) | [logo](https://graph.facebook.com/radiomadridsierra/picture?width=200&height=200) | - | - |
 | Onda Latina | [stream](https://cervera.eldialdigital.com:21131/stream) | [web](http://www.ondalatina.com.es) | [logo](https://graph.facebook.com/ondalatina.com.es/picture?width=200&height=200) | - | WICE |
 | Inforadio UCM | [stream](https://inforadio.ucm.es:8000/inforadio01) | [web](https://www.ucm.es/inforadio) | [logo](https://graph.facebook.com/inforadiocomplutense/picture?width=200&height=200) | - | WICE |
