@@ -526,7 +526,7 @@
 | Hit103 | [mp3](http://streaming.enantena.com:8000/radiovalls128.mp3) | [web](http://hit103.cat/3405-2/) | [logo](https://graph.facebook.com/Hit103/picture?width=200&height=200) | - | - |
 | Styl Manresa | [stream](http://s2.nexuscast.com:8024/;) | [web](http://www.stylfm.com) | [logo](https://graph.facebook.com/stylfm/picture?width=200&height=200) | - | - |
 | Styl Classics Manresa | [stream](http://s2.nexuscast.com:8042/;) | [web](http://www.stylclassics.com) | [logo](https://graph.facebook.com/stylfm/picture?width=200&height=200) | - | - |
-| Ona Sants FM | [stream](https://edge.mixlr.com/channel/dlyio) | [web](https://onadesants.cat) | [logo](https://graph.facebook.com/Radioonadesants/picture?width=200&height=200) | - | WICE |
+| Ona de Sants FM | [stream](https://edge.mixlr.com/channel/dlyio) | [web](https://onadesants.cat) | [logo](https://graph.facebook.com/Radioonadesants/picture?width=200&height=200) | - | WICE |
 | Constantí Ràdio | [mp3](http://streaming.enantena.com:8000/radioconstantiSD.mp3) - [m3u8](http://live10.cdnmedia.tv/ocasionalradio2live/smil:live.smil/master.m3u8) | [web](http://www.constantiradio.cat) | [logo](https://graph.facebook.com/ConstantiRadio/picture?width=200&height=200) | - | - |
 | PròximaFM | [stream](http://91.187.93.115:8000/;stream/1) | [web](http://www.proxima.cat) | [logo](https://graph.facebook.com/proximafm/picture?width=200&height=200) | - | - |
 | Ripollet Radio | [stream](https://directe.ripolletradio.cat/live) | [web](https://www.ripolletradio.cat) | [logo](https://graph.facebook.com/RipolletRadio/picture?width=200&height=200) | - | WICE |
