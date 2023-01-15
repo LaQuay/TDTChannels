@@ -415,6 +415,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Xabarin | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Pequerrech@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Cativ@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Mociñ@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Musigal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Cultura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Momentos G | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
