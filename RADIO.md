@@ -586,7 +586,7 @@
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
 | Decisión Radio | [stream](https://s2.radio.co/s41b5a1af1/low) | [web](https://www.decisionradio.com/en-directo) | [logo](https://graph.facebook.com/decisionradioes/picture?width=200&height=200) | - | - |
 | Master FM | [m3u8](https://radios.lamaster.es:8000/madrid) | [web](https://lamaster.es) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | WICE |
-| Radio Vallekas | [mp3](https://radiobot.radioslibres.info/radio/8120/radio.mp3) | [web](http://www.radiovallekas.org) | [logo](https://graph.facebook.com/radiovallekas/picture?width=200&height=200) | - | - |
+| Radio Vallekas | [mp3](https://radio.radiobot.org/listen/rvk/rvk.mp3) | [web](http://www.radiovallekas.org) | [logo](https://graph.facebook.com/radiovallekas/picture?width=200&height=200) | - | - |
 | Capital Radio | [mp3](https://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3) | [web](https://www.capitalradio.es/directo) | [logo](https://graph.facebook.com/capitalradiob/picture?width=200&height=200) | - | - |
 | Radio Tentación | [mp3](http://88.26.228.190:8010/;.mp3) | [web](https://www.radiotentacion.com) | [logo](https://graph.facebook.com/radiotentacionofficial/picture?width=200&height=200) | - | - |
 | Radio Enlace | [stream](https://cervera.eldialdigital.com:25121/stream) | [web](http://www.radioenlace.org) | [logo](https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200) | - | WICE |
@@ -598,7 +598,7 @@
 | Espacio 4 FM | [stream](http://radiogestion.com:7003/mount3) | [web](https://www.espacio4fm.com) | [logo](https://graph.facebook.com/Espacio4Fm/picture?width=200&height=200) | - | WICE |
 | Círculo de Bellas Artes Madrid | [m3u8](https://play.cdn.enetres.net/863690D2607511E098B669C2DFD72085028/02984/playlist.m3u8) | [web](https://www.circulobellasartes.com/radiocirculo/) | [logo](https://pbs.twimg.com/profile_images/1575774106863210496/aixsYXCE_200x200.jpg) | - | - |
 | Radio Almenara | [stream](https://cervera.eldialdigital.com:25211/stream) | [web](http://www.radioalmenara.net) | [logo](https://graph.facebook.com/RadioAlmenara/picture?width=200&height=200) | - | WICE |
-| Radio 21 | [stream](http://90.77.61.41:8000/live) | [web](http://www.radio21.es) | [logo](https://pbs.twimg.com/profile_images/894682648500740097/f__fTwxZ_200x200.jpg) | - | WICE |
+| Radio 21 | [stream](http://90.166.124.83:8000/live) | [web](http://www.radio21.es) | [logo](https://pbs.twimg.com/profile_images/894682648500740097/f__fTwxZ_200x200.jpg) | - | WICE |
 | Onda Merlín C Radio | [stream](https://cervera.eldialdigital.com:25131/stream) | [web](https://www.omcradio.org/escuchanos/) | [logo](https://graph.facebook.com/OmcRadio/picture?width=200&height=200) | - | WICE |
 | Radio Morata | [stream](https://cervera.eldialdigital.com:25141/stream) | [web](http://www.radiomorata.com/lavoz/) | [logo](https://graph.facebook.com/radiomorata/picture?width=200&height=200) | - | WICE |
 | BOM Radio | [mp3](https://bomradio-mp3-live.flumotion.com/bomradio/bomradio-mp3-live.mp3) | [web](https://www.bomradio.com) | [logo](https://graph.facebook.com/BOMRadioOficial/picture?width=200&height=200) | - | - |
