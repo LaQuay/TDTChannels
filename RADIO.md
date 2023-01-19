@@ -408,6 +408,8 @@
 | SER Bierzo | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BIERZO.mp3) | [web](https://play.cadenaser.com/emisora/radio_bierzo/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Bierzo.Radio | - |
 | SER Castilla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS.mp3) | [web](https://play.cadenaser.com/emisora/radio_castilla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Castilla.Radio | - |
 | SER León | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEON.mp3) | [web](https://play.cadenaser.com/emisora/radio_leon/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Leon.Radio | - |
+| LOS40 León | [aac](https://21633.live.streamtheworld.com/LOS40_ASO_LEONAAC.aac) | [web](https://los40.com/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
+
 | SER Medina | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MEDINA.mp3) | [web](https://play.cadenaser.com/emisora/radio_medina/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Medina.Radio | - |
 | SER Miranda | [mp3](https://22603.live.streamtheworld.com/SER_ASO_MIRANDA_EBRO.mp3) | [web](https://play.cadenaser.com/emisora/ser_miranda/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Miranda.Radio | - |
 | SER Palencia | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_PALENCIA.mp3) | [web](https://play.cadenaser.com/emisora/radio_palencia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Palencia.Radio | - |
