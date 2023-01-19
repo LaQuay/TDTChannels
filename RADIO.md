@@ -417,6 +417,7 @@
 | SER Soria | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3) | [web](https://play.cadenaser.com/emisora/ser_soria/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Soria.Radio | - |
 | SER Valladolid | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3) | [web](https://play.cadenaser.com/emisora/radio_valladolid/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Valladolid.Radio | - |
 | SER Zamora | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3) | [web](https://play.cadenaser.com/emisora/radio_zamora/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Zamora.Radio | - |
+| LOS40 Zamora | [aac](https://19983.live.streamtheworld.com/LOS40_ASO_ZAMORAAAC.aac) | [web](https://los40.com/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | COPE Ávila | [mp3](https://wecast-b01-04.flumotion.com/copesedes/avila.mp3) | [web](https://www.cope.es/directos/avila) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Burgos | [mp3](https://wecast-b01-04.flumotion.com/copesedes/burgos.mp3) | [web](https://www.cope.es/directos/burgos) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Salamanca | [mp3](https://wecast-b01-04.flumotion.com/copesedes/salamanca.mp3) | [web](https://www.cope.es/directos/salamanca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
@@ -457,6 +458,7 @@
 | ACUP Radio | [stream](https://s3streamingradio.desafiohosting.com/proxy/joagua00/stream) | [web](https://acupradio.es) | [logo](https://graph.facebook.com/ACUPRadio/picture?width=200&height=200) | - | - |
 | Radio Universitaria León | [stream # 1](http://radio.unileon.es:8000/radio-unileon-320) - [stream # 2](http://radio.unileon.es:8000/radio-unileon-192) | [web](https://servicios.unileon.es/radio-universitaria/) | [logo](https://graph.facebook.com/unileon/picture?width=200&height=200) | - | WICE |
 | Radio Universitaria Salamanca | [mp3](http://212.128.140.98:8000/usalradio.mp3) | [web](http://radio.usal.es) | [logo](https://graph.facebook.com/universidaddesalamanca/picture?width=200&height=200) | - | - |
+| LOS40 Benavente | [aac](https://23613.live.streamtheworld.com/LOS40_ASO_BENAVENTEAAC.aac) | [web](https://los40.com/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 
 ### Cataluña
 
