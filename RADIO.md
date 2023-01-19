@@ -839,6 +839,7 @@
 | Fibwi Radio | [stream](http://stream.fibwi.com:9000/stream) | [web](https://fibwiradio.com) | [logo](https://graph.facebook.com/GrupoFibwi/picture?width=200&height=200) | - | WICE |
 | SER Ibiza | [stream](http://cadenaserebre.streaming-pro.com:6021/stream) | [web](https://play.cadenaser.com/emisora/radio_ibiza/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Ibiza.Radio | - |
 | SER Mallorca | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALLORCA.mp3) | [web](https://play.cadenaser.com/emisora/radio_mallorca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Mallorca.Radio | - |
+| LOS40 Mallorca | [aac](https://20043.live.streamtheworld.com/LOS40_MALLORCAAAC.aac) | [web](https://los40.com/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | SER Menorca | [stream](http://server10.emitironline.com:8040/;) | [web](https://play.cadenaser.com/emisora/radio_menorca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Menorca.Radio | - |
 | COPE Mallorca | [mp3](https://wecast-b03-04.flumotion.com/copesedes/mallorca.mp3) | [web](https://www.cope.es/directos/mallorca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Menorca | [mp3](https://wecast-b03-04.flumotion.com/copesedes/menorca.mp3) | [web](https://www.cope.es/directos/menorca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
