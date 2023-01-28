@@ -390,7 +390,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal 3 Biar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ràdio Bocairent TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7NN Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudades Del Ocio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televisión de Alicante | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
