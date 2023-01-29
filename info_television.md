@@ -215,7 +215,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 4 Telde TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 Telde TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fuerteventura TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Afortunadas TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
