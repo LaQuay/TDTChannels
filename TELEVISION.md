@@ -425,6 +425,7 @@
 | TV Rioja | [m3u8](https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8) | [web](https://www.tvr.es/directo-20210408161442-nt.html) | [logo](https://graph.facebook.com/tvrtelevision/picture?width=200&height=200) | TVR.TV | - |
 | 7 La Rioja | [stream](https://geo.dailymotion.com/player/x9xwn.html?video=x8dhao1) | [web](https://www.7rioja.tv/Directo) | [logo](https://graph.facebook.com/7riojatv/picture?width=200&height=200) | 7Rioja.TV | EMB |
 | Parlamento de La Rioja | [m3u8](https://media.parlamento-larioja.org:1943/live/parlarioja/master.m3u8) | [web](https://videoteca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200) | - | - |
+| Camino De Santiago TV | [m3u8](https://5f700d5b2c46f.streamlock.net/santiagotv/santiagotv/playlist.m3u8) | [web](https://elcaminodesantiago.tv/) | [logo](https://graph.facebook.com/elcaminodesantiagotv/picture?width=200&height=200) | - | - |
 
 ### Melilla
 
