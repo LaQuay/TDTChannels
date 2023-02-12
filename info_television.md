@@ -340,8 +340,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Telemadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
 | LaOtra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
 | Webcam OndaMadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Teleganés | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Distrito TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Teleganés | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Distrito TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Déjate de Historias TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Telesur Madrid | No emite en directo por Internet |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -464,7 +464,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Hamaika TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele 7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Goiena Eus | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Durangaldeko TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Durangaldeko TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Goierri Irrati TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 28 Kanala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleBilbao | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
