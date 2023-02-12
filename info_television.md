@@ -117,6 +117,25 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Onda Cero | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Del 40 al 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Sábados de 10 a 14 |
 
+## Streaming
+
+Estos canales emiten a ciertas horas del día, únicamente.
+
+| Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
+| - | - | - | - | - | - |
+| Ibai | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Auronplay | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| TheGrefg | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Rubius | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Illojuan | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Juansguarnizo | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Elxokas | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Alexby11 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| IamCristinini | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| biyin | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| LOLITOFDEZ | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Kings League | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+
 ## Autonómicos
 
 ### Andalucía
