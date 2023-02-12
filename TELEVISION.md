@@ -611,7 +611,7 @@
 | KBS World Korea | [youtube # KO # 1](https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig/live) - [youtube # KO # 2](https://www.youtube.com/channel/UCWw_gejTX29Yn89LLpcINZQ/live) | [web](http://world.kbs.co.kr) | [logo](https://graph.facebook.com/KBSWORLD/picture?width=200&height=200) | - | EMB |
 | Al Arabiya Emiratos Árabes | [m3u8 # AR](https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8) | [web](https://www.alarabiya.net/ar/live-stream) | [logo](https://graph.facebook.com/AlArabiya/picture?width=200&height=200) | - | - |
 | Dubai One Emiratos Árabes | [m3u8 # EN](https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8) | [web](https://www.dubaione.ae/content/dubaione/en-ae/live.html) | [logo](https://graph.facebook.com/dubaionetv/picture?width=200&height=200) | - | - |
-| Ary News Pakistan | [youtube](https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live) | [web](https://live.arynews.tv/) | [logo](https://graph.facebook.com/arynewsasia/picture?width=200&height=200) | - | EMB |
+| Ary News Pakistan | [youtube](https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live) | [web](https://live.arynews.tv) | [logo](https://graph.facebook.com/arynewsasia/picture?width=200&height=200) | - | EMB |
 | Geo News Pakistan | [m3u8 # UR](https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8) | [web](https://live.geo.tv) | [logo](https://graph.facebook.com/GeoUrduDotTv/picture?width=200&height=200) | - | - |
 | Express News Pakistan | [stream # UR](https://www.dailymotion.com/embed/video/x7zrxeg?autoplay=1) | [web](https://www.express.pk/live/) | [logo](https://graph.facebook.com/expressnewspk/picture?width=200&height=200) | - | EMB |
 | India Today | [m3u8 # EN](https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8) - [m3u8 # HI](https://feeds.intoday.in/aajtak/api/master.m3u8) | [web](https://www.indiatoday.in/livetv) | [logo](https://graph.facebook.com/IndiaToday/picture?width=200&height=200) | - | - |
@@ -653,7 +653,7 @@
 | Classic Arts Showcase | [m3u8 # EN](https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8) | [web](https://www.classicartsshowcase.org/watch-classic-arts-showcase/) | [logo](https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg) | - | - |
 | American Horrors Movies | [m3u8 # EN](http://170.178.189.70:1935/live/Stream1/playlist.m3u8) | [web](http://www.americanhorrors.com) | [logo](https://graph.facebook.com/AMERICANHORRORS/picture?width=200&height=200) | - | - |
 | Mr Bean 24h | [youtube # EN](https://www.youtube.com/channel/UCkAGrHCLFmlK3H2kd6isipg/live) | [web](https://www.mrbean.com) | [logo](https://graph.facebook.com/MrBean/picture?width=200&height=200) | - | EMB |
-| AKC TV Dogs | [m3u8 # EN # 1](https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8) - [m3u8 # EN # 2](https://video.blivenyc.com/broadcast/prod/2061/29/desktop-playlist.m3u8) | [web](https://akc.tv/) | [logo](https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200) | - | - |
+| AKC TV Dogs | [m3u8 # EN # 1](https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8) - [m3u8 # EN # 2](https://video.blivenyc.com/broadcast/prod/2061/29/desktop-playlist.m3u8) | [web](https://akc.tv) | [logo](https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200) | - | - |
 
 ## Deportivos Int.
 
@@ -667,7 +667,7 @@
 | Channel Fight | [m3u8 # EN](https://api-ott.channelfight.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=269&partner=TDTChannels) | [web](https://www.channelfight.com) | [logo](https://graph.facebook.com/channelfightofficial/picture?width=200&height=200) | - | - |
 | Stadium USA | [m3u8 # EN](https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8) | [web](https://watchstadium.com/live/) | [logo](https://graph.facebook.com/watchstadium/picture?width=200&height=200) | - | - |
 | Garage TV | [m3u8](http://186.0.233.76:1935/Garage/garage.smil/.m3u8) | [web](http://elgarage.com/tv-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
-| MsMotor TV | - | [web](https://www.msmotor.tv/) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | W3U,EXTA |
+| MsMotor TV | - | [web](https://www.msmotor.tv) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | W3U,EXTA |
 | Best Cable Sports Perú | [m3u8](https://ca2.inka.net.pe/bestcablesports/index.m3u8) | [web](https://bestcableperu.com.pe/tv6.html) | [logo](https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200) | - | - |
 
 ## Musicales
@@ -688,7 +688,7 @@
 | Radio Montecarlo Italia | [m3u8 # IT](https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8) | [web](https://www.mediasetplay.mediaset.it/programmi-tv/radiomontecarlo_b100002525) | [logo](https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200) | - | - |
 | Kronehit Austria | [m3u8](https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8) | [web](https://www.kronehit.at/) | [logo](https://graph.facebook.com/kronehit/picture?width=200&height=200) | - | - |
 | QMusic Holanda | [m3u8 # NL](https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8) | [web](https://qmusic.nl/live/kijk) | [logo](https://graph.facebook.com/QmusicNL/picture?width=200&height=200) | - | - |
-| 4FUN TV Polonia | [m3u8 # PL](https://stream.4fun.tv:8888/hls/4f_high/index.m3u8) | [web](https://4fun.tv/) | [logo](https://graph.facebook.com/4FUN.TV/picture?width=200&height=200) | - | - |
+| 4FUN TV Polonia | [m3u8 # PL](https://stream.4fun.tv:8888/hls/4f_high/index.m3u8) | [web](https://4fun.tv) | [logo](https://graph.facebook.com/4FUN.TV/picture?width=200&height=200) | - | - |
 | Tomorrowland TV | [youtube](https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ/live) | [web](https://oneworldradio.tomorrowland.com) | [logo](https://graph.facebook.com/tomorrowland/picture?width=200&height=200) | - | EMB |
 | Radio Italia TV | [m3u8 # IT](https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8) | [web](https://www.radioitalia.it/radioitaliatv) | [logo](https://graph.facebook.com/radioitalia/picture?width=200&height=200) | - | - |
 | Ocko Chequia | [m3u8 # CZ](https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8) | [web](https://ocko.tv/zive) | [logo](https://graph.facebook.com/tvocko/picture?width=200&height=200) | - | - |
