@@ -46,7 +46,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Teledeporte | [m3u8 # GEO # 1](https://ztnr.rtve.es/ztnr/1712295.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tdp/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200) | TDP.TV | - |
+| Teledeporte | [m3u8 # GEO # 1](https://ztnr.rtve.es/ztnr/1712295.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8) | [web](https://www.rtve.es/play/videos/directo/tdp/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200) | TDP.TV | - |
 | GOL Play | - | [web](https://www.goltelevision.com/en-directo) | [logo](https://graph.facebook.com/goltv.es/picture?width=200&height=200) | GOL.TV | W3U,EXTA |
 | Esport 3 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/esport3) | [logo](https://graph.facebook.com/Esport3/picture?width=200&height=200) | E3.TV | - |
 | ETB Deportes | [m3u8](https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200) | ETBD.TV | - |
