@@ -23,14 +23,14 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | - | - | - | - | - | - | - | - | - |
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Antena 3 | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Antena 3 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
 | Cuatro | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Telecinco | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| laSexta | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Neox | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Nova | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Mega | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Atreseries | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| laSexta | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
+| Neox | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
+| Nova | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
+| Mega | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
+| Atreseries | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
 | FDF | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Energy | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Divinity | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
