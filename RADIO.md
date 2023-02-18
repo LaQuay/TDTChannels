@@ -998,7 +998,7 @@
 | Loca FM Murcia | [stream](http://s3.we4stream.com:8045/liv) | [web](https://www.locafm.com/dial/murcia-costa-calida-92-4/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Wifon FM | [stream](https://pegasus.nucast.co.uk:2020/stream/8024/live) | [web](http://wifonfm.es/streaming) | [logo](https://graph.facebook.com/wifonfm/picture?width=200&height=200) | - | - |
 | Metropólitan Radio | [stream](https://metropolis.radioca.st/stream) | [web](https://metropolisfm.es) | [logo](https://pbs.twimg.com/profile_images/1435351436523626507/lBjfSU1K_200x200.jpg) | - | - |
-| Radio Compañía | [m3u8](http://live.redctnet.es:1935/live/Molina/Molina/playlist.m3u8) | [web](http://radiomolina.com/escuchanos-en-directo/) | [logo](https://graph.facebook.com/radiomolina/picture?width=200&height=200) | - | - |
+| Radio Compañía | [stream](https://sonic.mediatelekom.net/8276/stream) | [web](http://radiomolina.com/escuchanos-en-directo/) | [logo](https://graph.facebook.com/radiomolina/picture?width=200&height=200) | - | - |
 | Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](http://www.radiocalasparra.es) | [logo](https://graph.facebook.com/RadioCalasparra/picture?width=200&height=200) | - | - |
 | Caravaca Radio | [stream](http://84.232.12.14:8000/caravacaradio) | [web](https://www.caravacaradio.com) | [logo](https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200) | - | WICE |
 | Inter Radio | [mp3](https://sonic.mediatelekom.net/8040/stream/;.mp3) | [web](https://lainter.es) | [logo](https://graph.facebook.com/LaInter.es/picture?width=200&height=200) | - | - |
