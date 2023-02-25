@@ -504,6 +504,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | - | - | - | - | - | - | - | - | - |
 | 7 R. de Murcia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Popular TV Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Arabi TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 1 Mar Menor Torre Pacheco | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 6 Totana | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
