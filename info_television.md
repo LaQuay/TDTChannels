@@ -741,7 +741,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | V2Beat TV | - | - | - | - | - | - | - | - |
 | The K-POP Korea | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |
-| Rock TV Romania | - | - | - | - | - | - | - | - |
+| Rock TV Romania | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | RadioU TV | - | - | - | - | - | - | - | - |
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - | - |
 | Otto FM Italia | - | - | - | - | - | - | - | - |
