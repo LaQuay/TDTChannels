@@ -338,7 +338,7 @@
 | Onda Cero Santander | [m3u8](https://livefastly-webs.ondacero.es/santander-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/cantabria/santander/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Santander.Radio | - |
 | La Jungla Radio | [mp3](https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3) | [web](https://lajunglaradio.com) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | WICE |
 | esRadio Cantabria | [stream](http://ns100.emisionlocal.com:9428/live) | [web](http://www.esradiocantabria.es) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | WICE |
-| Onda Occidental | [stream](http://server9.emitironline.com:10944/) | [web](http://www.ondaoccidental.es) | [logo](https://graph.facebook.com/ondaoccidental/picture?width=200&height=200) | - | - |
+| Onda Occidental | [mp3](https://server9.emitironline.com:10944/;.mp3) | [web](http://www.ondaoccidental.es) | [logo](https://graph.facebook.com/ondaoccidental/picture?width=200&height=200) | - | - |
 | Radio Camargo | [mp3](http://91.121.77.67:8048/;.mp3) | [web](http://www.radiocamargo.es) | [logo](https://graph.facebook.com/RadioCamargo100.4FM/picture?width=200&height=200) | - | - |
 | Distinta FM | [mp3](http://ns100.emisionlocal.com:8050/;stream.mp3) | [web](http://distintafm.es) | [logo](https://graph.facebook.com/distintafm/picture?width=200&height=200) | - | - |
 | Radio Merindad de Campoo | [mp3](http://54.36.243.24:8098/stream?type=.mp3) | [web](http://www.radiomc.es) | [logo](https://graph.facebook.com/103380741524107/picture?width=200&height=200) | - | - |
