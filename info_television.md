@@ -424,7 +424,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Extremeña | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Nuestra Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Zafra TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Cáceres Tevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ### Galicia
