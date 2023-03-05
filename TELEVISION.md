@@ -422,9 +422,9 @@
 | TVG Eventos | [m3u8 # 1](https://events1-crtvg.flumotion.com/playlist.m3u8) - [m3u8 # 2](https://events2-crtvg.flumotion.com/playlist.m3u8) - [m3u8 # 3](https://events3-crtvg.flumotion.com/playlist.m3u8) - [m3u8 # 4](https://events4-crtvg.flumotion.com/playlist.m3u8) - [m3u8 # 5](https://events5-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
 | TV Ferrol | [m3u8](https://directo.tvferrol.es/tv.m3u8) | [web](https://tvferrol.es/es/contenido.php?c=4) | [logo](https://graph.facebook.com/tvferrol/picture?width=200&height=200) | - | - |
 | TeleVigo | [m3u8](https://cloud.streamingconnect.tv/hls/televigo/televigo.m3u8) | [web](http://www.televigo.com) | [logo](https://graph.facebook.com/televigo/picture?width=200&height=200) | - | - |
-| Anove TV | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/anove/anove.m3u8) | [web](https://anove.gal) | [logo](https://graph.facebook.com/anove.tv/picture?width=200&height=200) | - | - |
 | Telemiño | [youtube](https://www.youtube.com/channel/UCIfXJopeFMqPigsB_NqfLXQ/live) | [web](https://www.teleminho.com) | [logo](https://graph.facebook.com/teleminho/picture?width=200&height=200) | - | EMB |
 | Hermes TV | [youtube](https://www.youtube.com/channel/UCv_HqaMNADVSi7A3jLrVPsA/live) | [web](http://www.hermesvigo.com/directo-tv.php) | [logo](https://graph.facebook.com/491789551017784/picture?width=200&height=200) | - | EMB |
+| Anove TV | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/anove/anove.m3u8) | [web](https://anove.gal) | [logo](https://graph.facebook.com/anove.tv/picture?width=200&height=200) | - | - |
 | Auria TV | [youtube](https://www.youtube.com/channel/UC4xDk-vc3i4CB45U7_wmm5g/live) | [web](http://www.auria.es) | [logo](https://yt3.ggpht.com/a-/AAuE7mBbJ5XfzqqDgg1IkOk23GJ6JZntYZtYT-n1CA=s200) | - | EMB |
 
 ### Illes Balears
