@@ -454,7 +454,6 @@
 | Radio Guardo | [stream](http://server10.emitironline.com:10654/radi) | [web](http://radioguardoamgu.org) | [logo](https://graph.facebook.com/RadioGuardo/picture?width=200&height=200) | - | - |
 | Radio Arlanzón | [stream](http://node-04.zeno.fm/mc6wd9enrv8uv) | [web](http://servicios.burgosnoticias.com/radio/player.html) | [logo](https://graph.facebook.com/radioarlanzon/picture?width=200&height=200) | - | - |
 | Fabulosa FM | [stream](https://cast2.vulnerados.es:8102/stream) | [web](https://lafabulosafm.com) | [logo](https://graph.facebook.com/fabulosa99.9/picture?width=200&height=200) | - | - |
-| ACUP Radio | [stream](https://s3streamingradio.desafiohosting.com/proxy/joagua00/stream) | [web](https://acupradio.es) | [logo](https://graph.facebook.com/ACUPRadio/picture?width=200&height=200) | - | - |
 | Radio Universitaria León | [stream # 1](http://radio.unileon.es:8000/radio-unileon-320) - [stream # 2](http://radio.unileon.es:8000/radio-unileon-192) | [web](https://servicios.unileon.es/radio-universitaria/) | [logo](https://graph.facebook.com/unileon/picture?width=200&height=200) | - | WICE |
 | Radio Universitaria Salamanca | [mp3](http://212.128.140.98:8000/usalradio.mp3) | [web](http://radio.usal.es) | [logo](https://graph.facebook.com/universidaddesalamanca/picture?width=200&height=200) | - | - |
 
