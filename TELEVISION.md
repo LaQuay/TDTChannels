@@ -133,7 +133,7 @@
 | Canal 45 TV | [m3u8](https://live.yowi.tv/58b79e6a71f5459d5fc9/master.m3u8) | [web](http://www.canal45tv.com) | [logo](https://graph.facebook.com/canal45television/picture?width=200&height=200) | - | NONAV |
 | PTV Málaga | [m3u8](https://streamer.zapitv.com/PTV-malaga/index.m3u8) | [web](https://ptvtelecom.com/canales/malaga.html) | [logo](https://graph.facebook.com/PTVMalaga/picture?width=200&height=200) | - | NONAV |
 | Córdoba TV | [m3u8](https://cloudvideo.servers10.com:8081/8020/index.m3u8) | [web](https://www.cordoba-tv.com) | [logo](https://graph.facebook.com/cordobatvonline/picture?width=200&height=200) | - | - |
-| Costa Noroeste TV | [mPD](https://tdcstreaming.es/dash/stream.mpd) | [web](http://www.costanoroestetv.net) | [logo](https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200) | CostaNO.TV | - |
+| Costa Noroeste TV | [mpd](https://tdcstreaming.es/dash/stream.mpd) | [web](http://www.costanoroestetv.net) | [logo](https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200) | CostaNO.TV | - |
 | Teleonuba | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8) | [web](https://www.teleonuba.es/en-directo/) | [logo](https://graph.facebook.com/Teleonuba/picture?width=200&height=200) | Teleonuba.TV | - |
 | Condavisión | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8) | [web](https://www.condavision.es) | [logo](https://graph.facebook.com/condavision/picture?width=200&height=200) | Condavision.TV | - |
 | CanalCosta | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8) | [web](https://www.canalcostatv.es) | [logo](https://graph.facebook.com/canalcosta/picture?width=200&height=200) | CanalCosta.TV | - |
