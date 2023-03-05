@@ -521,7 +521,7 @@
 | Ràdio Molins de Rei | [mp3](https://streaming.enacast.com/radiomolins.mp3) | [web](https://www.radiomolinsderei.cat) | [logo](https://graph.facebook.com/radiomolins/picture?width=200&height=200) | - | - |
 | Actuality FM | [stream](https://node-26.zeno.fm/gta5xkfvbrruv) | [web](https://www.actualityfm.es/p/play.html) | [logo](https://graph.facebook.com/ActualityFM.es/picture?width=200&height=200) | - | - |
 | Ràdio Cubelles | [mp3](http://streaming.enantena.com:8000/cubelles128.mp3) - [stream](https://enacast.com/radiocubelles/streams/HD) | [web](http://www.radiocubelles.cat) | [logo](https://graph.facebook.com/radiocubelles/picture?width=200&height=200) | - | - |
-| Ràdio Granollers | [mp3](https://relay.stream.enacast-cloud.com:30324/radiogranollersHD.mp3) | [web](http://www.radiogranollers.cat/) | [logo](https://graph.facebook.com/RadioGranollers/picture?width=200&height=200) | - | - |
+| Ràdio Granollers | [mp3](https://relay.stream.enacast-cloud.com:30324/radiogranollersHD.mp3) | [web](https://www.radiogranollers.cat) | [logo](https://graph.facebook.com/RadioGranollers/picture?width=200&height=200) | - | - |
 | Ràdio Maricel | [mp3](http://94.23.87.98:8065/;&type=mp3) | [web](http://www.radiomaricel.cat) | [logo](https://graph.facebook.com/radiomaricel/picture?width=200&height=200) | - | - |
 | Hit103 | [mp3](http://streaming.enantena.com:8000/radiovalls128.mp3) | [web](http://hit103.cat/3405-2/) | [logo](https://graph.facebook.com/Hit103/picture?width=200&height=200) | - | - |
 | Styl Manresa | [stream](http://s2.nexuscast.com:8024/;) | [web](http://www.stylfm.com) | [logo](https://graph.facebook.com/stylfm/picture?width=200&height=200) | - | - |
