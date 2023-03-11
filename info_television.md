@@ -549,6 +549,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | CNN Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | Porto Canal Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Digi24 Rumanía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTÉ News Irlanda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televixin Malta | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TRT Haber Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
