@@ -57,11 +57,11 @@
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=200&height=200) | BarcaTV.TV | NOEM |
 | Sevilla TV | - | [web](https://live.sevillafc.es) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | SevillaTV.TV | - |
 | Betis TV | - | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | BetisTV.TV | W3U,EXTA |
-| UD Las Palmas TV | [m3u8](https://cdn320.fractalmedia.es/live318/hls/cudtv/high/index.m3u8) | [web](https://playud.udlaspalmas.es/es/udtv-en-directo) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | - |
 | Real Sociedad TV | [youtube](https://www.youtube.com/channel/UCfeqewEKWQ8CXY8OiXoMxxw/live) | [web](https://www.realsociedad.eus/es/noticias) | [logo](https://graph.facebook.com/RealSociedadFutbol/picture?width=200&height=200) | - | EMB |
 | RCD Espanyol de Barcelona TV | [youtube](https://www.youtube.com/espanyoltv/live) | [web](https://www.rcdespanyol.com) | [logo](https://graph.facebook.com/RCDEspanyol/picture?width=200&height=200) | - | - |
 | Cádiz CF TV | - | [web](https://tv.cadizcf.com/directo) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200) | - | - |
 | RCD Mallorca TV | [youtube](https://www.youtube.com/c/OficialRCDMallorca/live) | [web](https://www.rcdmallorca.es/contenidos/videos) | [logo](https://graph.facebook.com/RCDMallorcaOficial/picture?width=200&height=200) | - | - |
+| UD Las Palmas TV | [m3u8](https://cdn306.fractalmedia.es/live318/hls/cudtv/master.m3u8) | [web](https://playud.udlaspalmas.es/es/udtv-en-directo) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | - |
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 | AS | [youtube](https://www.youtube.com/diarioas/live) | [web](https://as.com) | [logo](https://graph.facebook.com/diarioas/picture?width=200&height=200) | - | EMB |
 | El 10 del Barça | [youtube](https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live) | [web](https://xn--el10delbara-v9a.com) | [logo](https://graph.facebook.com/El10delBarsa/picture?width=200&height=200) | - | EMB |
