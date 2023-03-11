@@ -57,6 +57,7 @@
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=200&height=200) | BarcaTV.TV | NOEM |
 | Sevilla TV | - | [web](https://live.sevillafc.es) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | SevillaTV.TV | - |
 | Betis TV | - | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | BetisTV.TV | W3U,EXTA |
+| UD Las Palmas TV | [m3u8](https://cdn320.fractalmedia.es/live318/hls/cudtv/high/index.m3u8) | [web](https://playud.udlaspalmas.es/es/udtv-en-directo) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | - |
 | Real Sociedad TV | [youtube](https://www.youtube.com/channel/UCfeqewEKWQ8CXY8OiXoMxxw/live) | [web](https://www.realsociedad.eus/es/noticias) | [logo](https://graph.facebook.com/RealSociedadFutbol/picture?width=200&height=200) | - | EMB |
 | RCD Espanyol de Barcelona TV | [youtube](https://www.youtube.com/espanyoltv/live) | [web](https://www.rcdespanyol.com) | [logo](https://graph.facebook.com/RCDEspanyol/picture?width=200&height=200) | - | - |
 | Cádiz CF TV | - | [web](https://tv.cadizcf.com/directo) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200) | - | - |
