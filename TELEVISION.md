@@ -190,6 +190,7 @@
 | La Fábrica TV | [m3u8](https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8) | [web](https://app.lafabricatv.es/canal-en-directo) | [logo](https://graph.facebook.com/LaFabricaTV/picture?width=200&height=200) | - | - |
 | PTV Almería | [m3u8](https://streamer.zapitv.com/ptv_almeria/index.m3u8) | [web](https://ptvtelecom.com/canales/almeria.html) | [logo](https://yt3.googleusercontent.com/xpmtGgfJkNyRXmRDBCaI1UwgnNESJbc0edjazTUsNNdGPq_NvYz6quCiuJMwx-uF9pTWx5hcqQ=s200) | - | NONAV |
 | Onda Cádiz 24h | [m3u8](https://ondacadiztv.es:30443/octv/24h/playlist.m3u8) | [web](https://ondacadiz.es/index.php/canal-24-horas) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | - | - |
+| 101TV Sevilla | [youtube](https://www.youtube.com/@101TVSevilla/live) | [web](https://www.101tvsevilla.es/) | [logo](https://graph.facebook.com/101TVSevilla/picture?width=200&height=200) | - | EMB |
 | Parlamento de Andalucía | [m3u8 # 1](http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8) - [m3u8 # 2](http://193.147.254.64:1935/realizacion2/realizacion2/playlist.m3u8) - [m3u8 # 3](http://193.147.254.64:1935/realizacion3/realizacion3/playlist.m3u8) - [m3u8 # 4](http://193.147.254.64:1935/realizacion4/realizacion4/playlist.m3u8) | [web](https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/actividadparlamentaria/parlamentoabierto/sesionesendirecto/programacion.do) | [logo](https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200) | - | - |
 
 ### Aragón
