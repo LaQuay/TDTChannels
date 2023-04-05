@@ -375,7 +375,7 @@
 | Alacantí TV | [m3u8](https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8) | [web](http://www.alacantitv.com/en-directo/) | [logo](https://graph.facebook.com/alacantitv/picture?width=200&height=200) | - | NONAV |
 | TV Castelló | [stream](https://player.twitch.tv/?channel=televisiodecastello&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://tvcs.tv/en-directe/) | [logo](https://graph.facebook.com/TelevisiondeCastellon/picture?width=200&height=200) | - | EMB |
 | TV Artequatre | [m3u8](https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8) | [web](https://www.tv-a.es) | [logo](https://graph.facebook.com/tvArtequatre/picture?width=200&height=200) | - | NONAV |
-| 12TV Alicante | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8) | [web](https://webtv.12tv.es/) | [logo](https://graph.facebook.com/12tv.es/picture?width=200&height=200) | - | - |
+| 12TV Alicante | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8) | [web](https://webtv.12tv.es) | [logo](https://graph.facebook.com/12tv.es/picture?width=200&height=200) | - | - |
 | Levante TV | [m3u8](https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8) | [web](http://www.levantetv.es) | [logo](https://graph.facebook.com/levantetv/picture?width=200&height=200) | - | - |
 | TV de San Vicente | - | [web](https://www.televisiondesanvicente.es/alacarta/) | [logo](https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200) | - | NOEM |
 | TV Vega Baja | [m3u8](https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | - |
