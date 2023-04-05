@@ -387,7 +387,7 @@
 | Tevequatre TV | [m3u8](https://live.yowi.tv/cd05f7e9533c73d701d0_teve4/index.m3u8) | [web](https://teve4.com/directe/) | [logo](https://pbs.twimg.com/profile_images/438700741801177088/MdnaVxtC_200x200.png) | - | NONAV |
 | Maestrat TV | [m3u8](https://stream.maestrat.tv/hls/stream.m3u8) | [web](https://www.maestrat.tv/directe) | [logo](https://graph.facebook.com/maestrat.tv/picture?width=200&height=200) | - | - |
 | Univers TV | [m3u8](https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8) | [web](https://www.universvalencia.es) | [logo](https://yt3.ggpht.com/ytc/AKedOLQb35mWN9WQKdrbrrl30uG9PdY_du6DmbB_khSZdA=s200) | - | - |
-| TV Almassora | [m3u8](https://live.fullsport.es/hls/tva_src/index.m3u8) | [web](https://www.tvalmassora.com/en-directo/) | [logo](https://graph.facebook.com/tvalmassora/picture?width=200&height=200) | - | - |
+| TV Almassora | [m3u8](https://live.fullsport.es/hls/tvalmassora_src/index.m3u8) | [web](https://www.tvalmassora.com/en-directo/) | [logo](https://graph.facebook.com/tvalmassora/picture?width=200&height=200) | - | - |
 | Onda 15 TV | [m3u8](https://cloudvideo.servers10.com:8081/8034/index.m3u8) | [web](https://onda15.es) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
 | Canal 3 Biar | [m3u8](http://217.76.154.142:8080/hls/canal3.m3u8) | [web](http://canal3biar.es) | [logo](https://graph.facebook.com/canal3biar/picture?width=200&height=200) | - | - |
 | Ràdio Bocairent TV | [m3u8](http://185.81.77.4/BocairentTV/index.m3u8) | [web](https://radiobocairent.com) | [logo](https://graph.facebook.com/radiobocairent/picture?width=200&height=200) | - | - |
