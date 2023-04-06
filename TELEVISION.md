@@ -124,7 +124,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Canal Sur Andalucía | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8) - [youtube](https://www.youtube.com/@canalsur/live) | [web](https://www.canalsurmas.es/videos/category/5247-directos) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | CanalSurA.TV | - |
-| Canal Sur 2 Andalucía | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/42791-canal-sur-2-accesible) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
+| Canal Sur 2 Accesible | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/42791-canal-sur-2-accesible) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
 | 7TV Andalucía | - | [web](https://7tvandalucia.es) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | 7Andalucia.TV | NOEM |
 | Jerez TV | [youtube](https://www.youtube.com/channel/UCHVquS6wXQAsESO2bwZ7esw/live) | [web](https://jereztelevision.com) | [logo](https://graph.facebook.com/jerez.television/picture?width=200&height=200) | - | EMB |
 | 101TV Málaga | [m3u8](https://limited38.todostreaming.es/live/101tv-web101tv.m3u8) - [youtube](https://www.youtube.com/@101tvmalaga./live) | [web](https://www.101tv.es/endirecto101tv/) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | 101Malaga.TV | - |
