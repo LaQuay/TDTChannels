@@ -810,7 +810,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | - | - | - | - | - | - | - | - | - |
 | EWTN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Diocesana Toledo España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Abadia de Montserrat España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Abadia de Montserrat España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Ecclesia COPE España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Vida España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Solidaria TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
