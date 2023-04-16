@@ -578,7 +578,7 @@
 | Telepacifico Colombia | [m3u8](https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8) | [web](https://telepacifico.com/envivo/) | [logo](https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200) | - | - |
 | Canal Telecaribe Colombia | - | [web](https://www.play.telecaribe.co/live) | [logo](https://pbs.twimg.com/profile_images/1623689806470324225/LdyZDxeY_200x200.jpg) | - | W3U,EXTA |
 | Canal TRO Colombia | [m3u8](https://liveingesta318.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8?DVR) | [web](https://canaltro.com) | [logo](https://graph.facebook.com/canaltro/picture?width=200&height=200) | - | UAGLI |
-| Todo Noticias Argentina | [youtube](https://youtu.be/wHn1_QVoXGM) | [web](https://tn.com.ar/envivo/24hs/) | [logo](https://graph.facebook.com/todonoticias/picture?width=200&height=200) | - | - |
+| Todo Noticias Argentina | [youtube](https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live) | [web](https://tn.com.ar/envivo/24hs/) | [logo](https://graph.facebook.com/todonoticias/picture?width=200&height=200) | - | EMB |
 | C5N Argentina | [youtube](https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live) | [web](https://www.c5n.com/vivo) | [logo](https://graph.facebook.com/C5N.Noticias/picture?width=200&height=200) | - | EMB |
 | Telefé Noticias Argentina | [youtube](https://www.youtube.com/channel/UChxGASjdNEYHhVKpl667Huw/live) | [web](https://telefenoticias.com.ar) | [logo](https://graph.facebook.com/telefe/picture?width=200&height=200) | - | EMB |
 | La Nación Argentina | [youtube](https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live) | [web](https://lnmas.lanacion.com.ar) | [logo](https://graph.facebook.com/lanacion/picture?width=200&height=200) | - | EMB |
