@@ -827,6 +827,7 @@
 | Radio Negreira | [stream](https://srv7031.dns-lcinternet.com/8030/stream) | [web](http://concellodenegreira.gal) | [logo](https://graph.facebook.com/radionegreira/picture?width=200&height=200) | - | - |
 | Radio Fene | [stream](https://srv7031.dns-lcinternet.com/8086/stream) | [web](https://www.radiofusion.eu/emisora/radio-fene) | [logo](https://graph.facebook.com/Radiofene/picture?width=200&height=200) | - | - |
 | +Buena FM | [stream](https://sonic.mediatelekom.net/8156/stream) | [web](https://masbuenafm.com) | [logo](https://graph.facebook.com/masbuenafm/picture?width=200&height=200) | - | - |
+| Verbena FM | [stream](https://streaming12.elitecomunicacion.es:8222/stream) | [web](https://verbenafm.com/) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
 | Radiofusión | [stream](https://srv7031.dns-lcinternet.com/8032/stream) | [web](https://www.radiofusion.eu) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | - |
 
 ### Illes Balears
