@@ -700,6 +700,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| Sol Música España | [youtube](https://www.youtube.com/channel/UC37skGdc1_9lp2_ImA2B9vQ/live) | [web](https://tuamc.tv/sol-musica) | [logo](https://graph.facebook.com/solmusica/picture?width=200&height=200) | - | EMB |
 | Activa TV España | [m3u8](https://streamtv.mediasector.es/hls/activatv/index.m3u8) | [web](https://www.emisorasmusicales.net/activa-tv/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
 | Cadena Elite España | [m3u8](https://cloudvideo.servers10.com:8081/8004/index.m3u8) | [web](https://www.cadenaelite.es) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 | Molahits TV España | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | [web](http://www.molatv.cat) | [logo](https://graph.facebook.com/molahitstv/picture?width=200&height=200) | - | - |
