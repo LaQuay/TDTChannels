@@ -184,7 +184,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Telemotril | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV Úbeda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV Las Villas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bailén TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
