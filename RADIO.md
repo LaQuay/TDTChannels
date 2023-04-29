@@ -351,7 +351,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| CMM Radio | [m3u8](https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_xfwsgzdj/format/applehttp/.m3u8) | [web](https://www.cmmedia.es/play/en-directo/radio) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | - | - |
+| CMM Radio | [mp3](https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_xfwsgzdj/format/applehttp/.mp3) | [web](https://www.cmmedia.es/play/en-directo/radio) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | - | - |
 | Radio Nacional Castilla-La Mancha | [stream](https://dispatcher.rndfnk.com/crtve/rne1/clm/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_clm-live/3893547/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Castilla-La Mancha | [stream](https://dispatcher.rndfnk.com/crtve/rne5/tol/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_clm-live/3894725/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | SER 90 Motilla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MOTILLA.mp3) | [web](https://play.cadenaser.com/emisora/radio_90_motilla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_90Motilla.Radio | - |
