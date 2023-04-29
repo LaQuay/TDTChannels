@@ -860,6 +860,7 @@
 | Formentera Radio | [stream](https://srv7031.dns-lcinternet.com/8020/stream) | [web](http://player.lcinternet.es/v9/cc654_id977/) | [logo](https://graph.facebook.com/FormenteraRadio/picture?width=200&height=200) | - | - |
 | Isla 106 | [stream](https://stream.isla106.com/isla106) | [web](https://www.isla106.com) | [logo](https://graph.facebook.com/Isla106Radio/picture?width=200&height=200) | - | - |
 | Radio Murta | [stream](https://murta.recasound.es/stream) | [web](https://www.grup4.com/?page_id=10861) | [logo](https://static-media.streema.com/media/cache/c1/a3/c1a323d20e5cd83f4199fb3f23961f41.jpg) | - | WICE |
+| Radio Es Castell | [stream](https://escastell.recasound.es/stream) | [web](https://www.aj-escastell.org/Contingut.aspx?IDIOMA=2&IdPub=1614) | [logo](https://dbs.radioline.fr/pictures/radio_7accbb2e9ac8744b7142f22a637f6b60/logo200.jpg) | - | WICE |
 
 ### La Rioja
 
