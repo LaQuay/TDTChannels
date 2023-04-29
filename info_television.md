@@ -744,7 +744,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Ocko Chequia | - | - | - | - | - | - | - | - |
 | Ocko Star Chequia | - | - | - | - | - | - | - | - |
 | Ocko Expres Chequia | - | - | - | - | - | - | - | - |
-| NumberOne Turquía | - | - | - | - | - | - | - | - |
+| NumberOne Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | m2o Italia | - | - | - | - | - | - | - | - |
 | ON TV Portugal | - | - | - | - | - | - | - | - |
 | NRG91 Grecia | - | - | - | - | - | - | - | - |
