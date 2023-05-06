@@ -207,7 +207,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 8TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trebujena TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Play Andalucía TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Play Andalucía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | La Fábrica TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Almería | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Cádiz 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
