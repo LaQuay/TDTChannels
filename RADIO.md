@@ -617,6 +617,7 @@
 | Antena CEMU | [stream](http://str1.mediatelekom.net:8110/;) | [web](http://antenacemu.com/emision-online/) | [logo](https://graph.facebook.com/401769933317531/picture?width=200&height=200) | - | - |
 | Sol Radio | [stream](https://server.spainbroadcast.net/8054/stream) | [web](https://solradiomadrid.com) | [logo](https://graph.facebook.com/solradio99.8/picture?width=200&height=200) | - | - |
 | Onda Vallekana | [stream](https://sonic.sistemahost.es/8152/;) | [web](https://www.ondavallekana.es) | [logo](https://pbs.twimg.com/profile_images/1447528417654710279/IlV_01hC_200x200.jpg) | - | - |
+| El Salto Radio | [mp3](https://radio.radiobot.org/listen/salto/elsaltoradio.mp3) | [web](https://www.elsaltodiario.com/el-salto-radio/) | [logo](https://graph.facebook.com/ElSaltoDiario/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
 
