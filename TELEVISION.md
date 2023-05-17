@@ -115,6 +115,7 @@
 | Shadoune666 | [stream](https://player.twitch.tv/?channel=shadoune666&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@Shadoune666) | [web](https://www.twitch.tv/shadoune666) | [logo](https://yt3.googleusercontent.com/lwsuAhWzsYboI7jLitc5m5KoghscFy39zn0N9UdFhbwoqRN_hzCXcXxmgXx6gww6bGqYIHsc=s200) | - | EMB |
 | Kings League | [stream](https://player.twitch.tv/?channel=kingsleague&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@KingsLeagueOfficial) | [web](https://www.twitch.tv/kingsleague) | [logo](https://yt3.googleusercontent.com/ztVUQow4OGg9mI1PHiHEgY6tTk7K9KVk47uPt042P3HBnfCM4ZtuHKOQ5ERfiq81REFwkHlW2Q8=s200) | - | EMB |
 | Gerard Romero | [stream](https://player.twitch.tv/?channel=gerardromero&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@gerardromero1700) | [web](https://www.twitch.tv/gerardromero) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJWYz4vMGrfae-n-0qgGieuUNdwgDypMKpxoCCCfoA=s200) | - | EMB |
+| Iván Cortes | [youtube](https://www.youtube.com/channel/UCuqwlvR_AB95mMa6WQAF-3Q/live) | [web](https://www.youtube.com/@ivancortesradio) | [logo](https://yt3.googleusercontent.com/2q67nsrXRVs55QlEVGEf6GqFWrfIkAHuK0beB1klI9mo7WJFZs7pkcaIEwiieFUXVaSOfIwIZ68=s200) | - | EMB |
 
 ## Autonómicos
 
