@@ -131,7 +131,7 @@
 | M95 Marbella | [m3u8](https://limited2.todostreaming.es/live/m95-livestream.m3u8) | [web](http://m95tv.es) | [logo](https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200) | - | - |
 | Huelva TV | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8) | [web](http://huelvatv.com/directo/) | [logo](https://graph.facebook.com/Huelvatv/picture?width=200&height=200) | HuelvaTV.TV | - |
 | Canal Sierra de Cádiz | [m3u8](https://s.emisoras.tv:8081/sierradecadiz/index.m3u8) | [web](http://www.canalsierradecadiz.com/emision-en-directo/) | [logo](https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200) | - | - |
-| Canal 45 TV | [m3u8](https://live.yowi.tv/58b79e6a71f5459d5fc9/master.m3u8) | [web](http://www.canal45tv.com) | [logo](https://graph.facebook.com/canal45television/picture?width=200&height=200) | - | NONAV |
+| Canal 45 TV | [m3u8](https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8) | [web](https://www.canal45tv.com) | [logo](https://graph.facebook.com/canal45television/picture?width=200&height=200) | - | - |
 | PTV Málaga | [m3u8](https://streamer.zapitv.com/PTV-malaga/index.m3u8) | [web](https://ptvtelecom.com/canales/malaga.html) | [logo](https://graph.facebook.com/PTVMalaga/picture?width=200&height=200) | - | NONAV |
 | Córdoba TV | [m3u8](https://cloudvideo.servers10.com:8081/8020/index.m3u8) | [web](https://www.cordoba-tv.com) | [logo](https://graph.facebook.com/cordobatvonline/picture?width=200&height=200) | - | - |
 | 101TV Sevilla | [youtube](https://www.youtube.com/channel/UCfNy1pSiPIhs0LxRpVeqeRA/live) | [web](https://www.101tvsevilla.es) | [logo](https://graph.facebook.com/101TVSevilla/picture?width=200&height=200) | - | EMB |
