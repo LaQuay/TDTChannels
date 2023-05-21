@@ -31,7 +31,6 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Nova | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Mega | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Atreseries | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| flooxer | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | FDF | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Energy | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Divinity | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
@@ -112,10 +111,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Presidente) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Ministros) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| flooxer | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Radio Nacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Cero | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Del 40 al 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Sábados de 10 a 14 |
+| COPE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Streaming
 
