@@ -241,7 +241,7 @@
 | Canal Sevilla Visión | [stream](https://sevillavision.radioca.st/stream) | [web](https://canalsevillavision.wixsite.com/canal-sevilla-vision) | [logo](https://graph.facebook.com/canalsevillavision/picture?width=200&height=200) | - | WICE |
 | Antena Huelva | [stream](http://stm1.emiteonline.com:8024/antenahuelva) | [web](http://antenahuelva.com) | [logo](https://graph.facebook.com/109385783852066/picture?width=200&height=200) | - | WICE |
 | Radio Almaina | [ogg](http://blimp.streampunk.cc/_stream/almaina.ogg) | [web](https://www.radioalmaina.org/emision.html) | [logo](https://pbs.twimg.com/profile_images/2117013357/perfil-facebook_200x200.jpg) | - | - |
-| Radio Arcos | [mp3](https://streaming2.elitecomunicacion.es:8098/stream?type=.mp3) | [web](https://www.radioarcos.com/) | [logo](https://graph.facebook.com/RadioArcos/picture?width=200&height=200) | - | - |
+| Radio Arcos | [mp3](https://streaming2.elitecomunicacion.es:8098/stream?type=.mp3) | [web](https://www.radioarcos.com) | [logo](https://graph.facebook.com/RadioArcos/picture?width=200&height=200) | - | - |
 | Radio Benamocarra | [mp3](http://91.121.174.141:28908/;mp3) | [web](http://radiobenamocarra.es) | [logo](https://graph.facebook.com/radiobenamocarra/picture?width=200&height=200) | - | - |
 | 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](http://www.90fm.es) | [logo](https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg) | - | - |
 
