@@ -358,7 +358,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Navarra TV | [stream](https://geo.dailymotion.com/player/x9xwm.html?video=x8dhap9) | [web](https://www.navarratelevision.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | - |
+| Navarra TV | [stream](https://www.dailymotion.com/embed/video/x8dhap9?autoplay=1) | [web](https://www.navarratelevision.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | EMB |
 | TeleRibera | [m3u8](http://37.187.7.106/teleribera/live.m3u8) | [web](http://www.teleribera.com) | [logo](https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg) | - | - |
 | Xaloa Telebista | [m3u8](https://streaming.mediacast.pro:9443/hls/xaloa/playlist.m3u8) | [web](https://xaloatelebista.eus/zuzenean/) | [logo](https://graph.facebook.com/xaloatb/picture?width=200&height=200) | - | NONAV |
 | Parlamento de Navarra | [m3u8 # 1](https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8) - [m3u8 # 2](https://broadcasting.parlamentodenavarra.es/live/canal2/master.m3u8) | [web](https://www.parlamentodenavarra.es) | [logo](https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg) | - | - |
@@ -447,7 +447,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TV Rioja | [m3u8](https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8) | [web](https://www.tvr.es/directo-20210408161442-nt.html) | [logo](https://graph.facebook.com/tvrtelevision/picture?width=200&height=200) | TVR.TV | - |
-| 7 La Rioja | [stream](https://geo.dailymotion.com/player/x9xwn.html?video=x8dhao1) | [web](https://www.7rioja.tv/Directo) | [logo](https://graph.facebook.com/7riojatv/picture?width=200&height=200) | 7Rioja.TV | EMB |
+| 7 La Rioja | [stream](https://www.dailymotion.com/embed/video/x8dhao1?autoplay=1) | [web](https://www.7rioja.tv/Directo) | [logo](https://graph.facebook.com/7riojatv/picture?width=200&height=200) | 7Rioja.TV | EMB |
 | Parlamento de La Rioja | [m3u8](https://media.parlamento-larioja.org:1943/live/parlarioja/master.m3u8) | [web](https://videoteca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200) | - | - |
 | El Camino De Santiago TV | [m3u8](https://5f700d5b2c46f.streamlock.net/santiagotv/santiagotv/playlist.m3u8) | [web](https://elcaminodesantiago.tv) | [logo](https://graph.facebook.com/elcaminodesantiagotv/picture?width=200&height=200) | - | - |
 
