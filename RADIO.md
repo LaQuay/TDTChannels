@@ -214,7 +214,7 @@
 | Candil Radio | [mp3](https://candilradio.com/liveradio/candil/live.mp3) | [web](https://candilradio.com) | [logo](https://graph.facebook.com/890332081024749/picture?width=200&height=200) | - | - |
 | Radio La Isla | [stream](https://server10.emitironline.com:30132/stream) | [web](https://radiolaisla.com) | [logo](https://graph.facebook.com/radiolaisla/picture?width=200&height=200) | - | WICE |
 | Radio del Condado | [mp3](https://streaming.radiorociana.com/;stream.mp3) | [web](https://www.radiorociana.com/player) | [logo](https://graph.facebook.com/radiorociana/picture?width=200&height=200) | - | - |
-| Integración Radio | [stream](http://5.135.183.124:8023/stream) | [web](http://www.integracionradio.com) | [logo](https://graph.facebook.com/integracionradio/picture?width=200&height=200) | - | - |
+| Integración Radio | [stream](https://eu1.lhdserver.es:9061/stream) | [web](https://www.integracionradio.com) | [logo](https://pbs.twimg.com/profile_images/603682455984414720/aXSEPW0z_200x200.jpg) | - | - |
 | Radio Sevillanas | [mp3](http://radio.wesped.com:8000/;stream.mp3) | [web](https://www.radiosevillanas.com) | [logo](https://graph.facebook.com/web.radiosevillanas/picture?width=200&height=200) | - | - |
 | Fiebre Latina Radio | [stream](https://eu1.lhdserver.es:9035/stream) | [web](https://fiebrelatinaradio.com) | [logo](https://graph.facebook.com/fiebrelatinaradio/picture?width=200&height=200) | - | - |
 | Radio Marbella | [m3u8](https://streaming.rtvmarbella.tv/hls/streamingradio.m3u8) | [web](http://rtvmarbella.tv/radio-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=200&height=200) | - | - |
