@@ -732,7 +732,7 @@
 | Ràdio Klara | [stream](https://cervera.eldialdigital.com:21111/stream) | [web](http://www.radioklara.org) | [logo](https://graph.facebook.com/radioklara/picture?width=200&height=200) | - | WICE |
 | SOL FM Radio | [stream](https://eu1.lhdserver.es:9135/stream) | [web](http://www.solfm.com) | [logo](https://graph.facebook.com/solfmradio/picture?width=200&height=200) | - | - |
 | Radio Monóvar | [stream](http://s3radio.hostingwebcloud.com:8215/;stream) | [web](https://monover.com/radio-monovar-online/) | [logo](https://graph.facebook.com/monovercom/picture?width=200&height=200) | - | - |
-| Xtra FM | [stream](https://stream.jfkradio.es/xtrafm) | [web](https://xtrafm.es/player/#South) | [logo](https://graph.facebook.com/xtrafmcostablanca/picture?width=200&height=200) | - | WICE |
+| Xtra FM | [m3u8](https://hls1.eu.peppermindmedia.com/xtrafm/south/XtraFMSouth.m3u8) | [web](https://listen.xtrafm.es) | [logo](https://graph.facebook.com/xtrafmcostablanca/picture?width=200&height=200) | - | WICE |
 | Onda 15 Radio | [stream](https://streaming12.elitecomunicacion.es:8628/stream) | [web](https://www.onda15.es) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
 | Costafm Alicante | [mp3](https://cdn4.onstream.audio:6064/stream.mp3) | [web](https://www.costafm.es) | [logo](https://graph.facebook.com/costafm/picture?width=200&height=200) | - | - |
 | Onda Azul Torrevieja | [mp3](https://usa3.lhdserver.es:8199/stream?type=.mp3) | [web](https://ondaazulradio.es) | [logo](https://pbs.twimg.com/profile_images/691063766784577536/3-ftz8tQ_200x200.jpg) | - | - |
