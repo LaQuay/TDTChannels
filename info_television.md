@@ -330,7 +330,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | RTV El Vendrell | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Taronja Anoia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Cugat Mèdia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| VOTV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| VOTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Ulldecona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal Taronja Osona i Moianés | ✔ | ✔ | ✔ | - | - | - | ✔ | - |
 | tvmataró | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |

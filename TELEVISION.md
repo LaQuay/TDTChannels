@@ -274,7 +274,7 @@
 ### Cataluña
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
-| - | - | - | - | - | - |
+| - | - | - | - | - |  |
 | TV3 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/live-origin/tv3-hls/master.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/tv3) | [logo](https://graph.facebook.com/tv3/picture?width=200&height=200) | TV3.TV | - |
 | 324 | [m3u8](https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/324) | [logo](https://graph.facebook.com/324cat/picture?width=200&height=200) | 324.TV | - |
 | 33 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/live-origin/c33-super3-hls/master.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/33) | [logo](https://graph.facebook.com/Canal33/picture?width=200&height=200) | C33.TV | - |
@@ -309,7 +309,7 @@
 | RTV El Vendrell | [m3u8](https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:live.smil/playlist.m3u8?DVR) | [web](https://www.rtvelvendrell.cat/directes/televisio/) | [logo](https://graph.facebook.com/rtvelvendrell/picture?width=200&height=200) | - | UAGLI |
 | Canal Taronja Anoia | [m3u8](https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8) | [web](https://www.canaltaronja.cat/anoia/canal-taronja-en-directe/) | [logo](https://graph.facebook.com/canaltaronjaanoia/picture?width=200&height=200) | - | UAGLI |
 | Cugat Mèdia | [m3u8](https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8) | [web](https://www.cugat.cat/tv/directe) | [logo](https://graph.facebook.com/cugatmedia/picture?width=200&height=200) | - | UAGLI |
-| VOTV | [m3u8](https://liveingesta318.cdnmedia.tv/votvlive/smil:live.smil/playlist.m3u8?DVR) | [web](http://votv.alacarta.cat/votv-en-directe) | [logo](https://graph.facebook.com/votv.cat/picture?width=200&height=200) | - | UAGLI |
+| VOTV | [m3u8](https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8) | [web](https://votv.cat/votv-en-directe/) | [logo](https://graph.facebook.com/votv.cat/picture?width=200&height=200) | - | - |
 | RTV Ulldecona | [youtube](https://www.youtube.com/channel/UCONoC_N5uhMiorZWmDQ2XRg/live) | [web](https://www.radioulldecona.net) | [logo](https://graph.facebook.com/radioulldecona/picture?width=200&height=200) | - | EMB |
 | Canal Taronja Osona i Moianés | [m3u8](https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8) | [web](https://www.canaltaronja.cat/osona/canal-taronja-en-directe/) | [logo](https://graph.facebook.com/TaronjaTV/picture?width=200&height=200) | - | - |
 | tvmataró | [m3u8](https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://mataroaudiovisual.alacarta.cat/directe) | [logo](https://graph.facebook.com/tvmataro/picture?width=200&height=200) | - | UAGLI |
