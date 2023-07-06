@@ -52,7 +52,7 @@
 | Vinx TV Asturias | [m3u8](https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8) - [youtube](https://www.youtube.com/channel/UCJDjXO0kv_ZOtLntIO0d4bw/live) | [web](https://vinxtv.es/en-directo/) | [logo](https://graph.facebook.com/VinxTV/picture?width=200&height=200) | - | EMB |
 | IB3 Esports | [youtube](https://www.youtube.com/channel/UCOmWJETLyAlFrHkmccOQ-3w/live) | [web](https://ib3.org/directe) | [logo](https://graph.facebook.com/EsportsIB3/picture?width=200&height=200) | - | EMB |
 | RealMadrid TV | [m3u8](https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8) | [web](https://www.realmadrid.com/real-madrid-tv) | [logo](https://graph.facebook.com/RealMadrid/picture?width=200&height=200) | RMTV.TV | W3U,EXTA |
-| Barça TV | - | [web](https://barcatv.fcbarcelona.es) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=200&height=200) | BarcaTV.TV | NOEM |
+| Barça TV | - | [web](https://www.fcbarcelona.es/es/culers) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=200&height=200) | BarcaTV.TV | NOEM |
 | Sevilla TV | - | [web](https://live.sevillafc.es) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | SevillaTV.TV | - |
 | Betis TV | - | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | BetisTV.TV | W3U,EXTA |
 | Real Sociedad TV | [youtube](https://www.youtube.com/channel/UCfeqewEKWQ8CXY8OiXoMxxw/live) | [web](https://www.realsociedad.eus/es/noticias) | [logo](https://graph.facebook.com/RealSociedadFutbol/picture?width=200&height=200) | - | EMB |
