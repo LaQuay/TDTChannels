@@ -238,7 +238,7 @@
 | - | - | - | - | - | - |
 | Castilla-La Mancha Media | [m3u8](https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8) | [web](https://www.cmmedia.es/play/en-directo/tv) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | CMM.TV | W3U,EXTA |
 | TV Hellín | [m3u8](https://hellin-hls-live.flumotion.com/playlist.m3u8) | [web](https://www.televisionhellin.com/tv-en-directo/) | [logo](https://graph.facebook.com/tvhellin/picture?width=200&height=200) | - | - |
-| Guada TV Media | [m3u8](https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200) | - | - |
+| Guada TV Media | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/guadatv/guadatv.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200) | - | - |
 | Visión 6 TV | [m3u8](https://streaming.proceso.info:8888/vision6-web/stream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | [logo](https://graph.facebook.com/104927246235553/picture?width=200&height=200) | - | NONAV |
 | Imás TV | [m3u8](https://secure3.todostreaming.es/live/imastv-livestream.m3u8) | [web](http://imastv.es/ver-imastv-en-directo) | [logo](https://graph.facebook.com/television.imas/picture?width=200&height=200) | - | NONAV |
 | CanalImagen Almansa | - | [web](https://zonacliente.almatelecom.es/videos/canalimagen) | [logo](https://graph.facebook.com/TvAlmansa/picture?width=200&height=200) | - | W3U,EXTA |
