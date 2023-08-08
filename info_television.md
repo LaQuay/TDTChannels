@@ -460,7 +460,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | IB3 Global | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TEF | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Fibwi | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
+| Fibwi Diario | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### La Rioja
 
