@@ -106,6 +106,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | +24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | +tdp | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Somos Cine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ¡HOLA! Play | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
