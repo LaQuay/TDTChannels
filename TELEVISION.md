@@ -381,7 +381,7 @@
 | TV Artequatre | [m3u8](https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8) | [web](https://www.tv-a.es) | [logo](https://graph.facebook.com/tvArtequatre/picture?width=200&height=200) | - | NONAV |
 | 12TV Alicante | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8) | [web](https://webtv.12tv.es) | [logo](https://graph.facebook.com/12tv.es/picture?width=200&height=200) | - | - |
 | Levante TV | [stream](https://player.twitch.tv/?channel=levante_tv&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.levante-emv.com/videos/levante-tv) | [logo](https://graph.facebook.com/levantetv/picture?width=200&height=200) | - | EMB |
-| TV de San Vicente | - | [web](https://www.televisiondesanvicente.es/alacarta/) | [logo](https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200) | - | NOEM |
+| TV de San Vicente |  [m3u8](https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8) | [web](https://www.televisiondesanvicente.es/alacarta/) | [logo](https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200) | - | - |
 | TV Vega Baja | [m3u8](https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | - |
 | TV 4 Vall de Uxó | [m3u8](https://limited09.todostreaming.es/live/tarson-livestream.m3u8) | [web](https://teve4lavall.com) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=200&height=200) | - | - |
 | Burriana TV | [m3u8](https://www.burrianateve.com/hls/btv.m3u8) | [web](https://www.burrianateve.com/burrianateve-en-directe/) | [logo](https://graph.facebook.com/burrianateve/picture?width=200&height=200) | - | - |
