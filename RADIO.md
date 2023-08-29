@@ -996,6 +996,7 @@
 | Onda Regional de Murcia | [m3u8](https://crmlive.redctnet.es/liveedge/orm/orm/playlist.m3u8) | [web](https://www.orm.es/directo/orm/) | [logo](https://graph.facebook.com/OndaRegional/picture?width=200&height=200) | - | - |
 | Onda Regional Música | [m3u8](https://crmlive.redctnet.es/liveedge/orm/ormmusical/playlist.m3u8) | [web](https://www.orm.es/directo/or-musica/) | [logo](https://graph.facebook.com/OndaRegional/picture?width=200&height=200) | - | - |
 | esRadio Murcia | [stream](https://sonic.mediatelekom.net/8274/stream) | [web](http://www.esradiomurcia.es) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
+| Europa FM Murcia | [m3u8](https://atres-live.europafm.com/delegaciones/efm/murcia/master.m3u8) | [web](https://www.europafm.com/frecuencias/murcia/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Radio Intereconomía Murcia | [stream](http://eu1.lhdserver.es:9152/stream) | [web](http://intereconomiamurcia.blogspot.com) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [mp3](https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3) | [web](https://lajunglaradio.com) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | - | WICE |
 | Loca FM Murcia | [stream](http://s3.we4stream.com:8045/liv) | [web](https://www.locafm.com/dial/murcia-costa-calida-92-4/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
