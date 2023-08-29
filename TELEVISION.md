@@ -223,6 +223,7 @@
 | Canal 4 Telde TV | [m3u8](https://stream.castr.com/63516516d5d3d0036518a3cd/live_73194be0508a11edb25de99cc96ba4dc/index.m3u8) | [web](https://canal4tvtelde.com/web/en-directo) | [logo](https://graph.facebook.com/canal4tvtelde/picture?width=200&height=200) | - | REF3,NONAV |
 | Noroeste TV | [m3u8](https://livestreams.flote.app:5443/flote/streams/f7c103f4-4247-4537-be81-f9b3896d74cb.m3u8) | [web](http://www.noroestetv.es) | [logo](https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200) | - | - |
 | Fuerteventura TV | [m3u8](https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8) | [web](https://fuerteventuratelevision.com) | [logo](https://yt3.ggpht.com/NGDcQX5v1Px2BBFD5G4aHYNrCyDWoEkRF5Gpsyfz-b_9swNpy6s-Z7-Glu-9WDr7JpP_MsCB=s200) | - | - |
+| Onda Gran Canaria TV | [m3u8](https://vdo1.panelstreaming.live:3070/stream/play.m3u8) | [web](https://www.ondagrancanaria.com/estaticas/tv-en-directo.html) | [logo](https://graph.facebook.com/OndaGranCanaria/picture?width=200&height=200) | - | - |
 | Tele Carnaval | [m3u8](https://eu1.servers10.com:8081/8116/index.m3u8) | [web](https://www.radiocarnaval.net) | [logo](https://graph.facebook.com/radiocarnavalgc/picture?width=200&height=200) | - | - |
 | Afortunadas TV | [m3u8](https://cloudvideo.servers10.com:8081/8108/index.m3u8) | [web](https://www.afortunadastv.com) | [logo](https://graph.facebook.com/afortunadastv/picture?width=200&height=200) | - | - |
 
