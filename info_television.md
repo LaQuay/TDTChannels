@@ -191,7 +191,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bailén TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Hoy Jerez | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vivamóvil TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
