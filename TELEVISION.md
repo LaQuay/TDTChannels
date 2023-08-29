@@ -170,7 +170,7 @@
 | RTV Tarifa | [youtube](https://www.youtube.com/channel/UCx5_sA41mFHsZio4umTH3Qw/live) | [web](https://rtvtarifa.com) | [logo](https://graph.facebook.com/RTVTARIFA/picture?width=200&height=200) | - | EMB |
 | CostadelSol TV | [m3u8](https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8) | [web](http://www.costadelsoltv.es) | [logo](https://graph.facebook.com/costadelsoltv/picture?width=200&height=200) | - | - |
 | Bailén TV | [m3u8 # 1](http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8) - [m3u8 # 2](http://cpd.bailen.tv:8080/Directos/index.m3u8) | [web](http://bailen.tv) | [logo](https://graph.facebook.com/BailenTv/picture?width=200&height=200) | - | - |
-| 101TV Antequera | [m3u8](https://streaming101tv.es/hls/webantequera.m3u8) | [web](https://www.101tv.es/directo-antequera/) | [logo](https://graph.facebook.com/101tvAntequera/picture?width=200&height=200) | 101Antequera.TV | - |
+| 101TV Cádiz | [m3u8](https://streaming101tv.es/hls/webcadiz.m3u8) | [web](https://www.101tvcadiz.es/directo/) | [logo](https://graph.facebook.com/101tvAntequera/picture?width=200&height=200) | - | - |
 | Hoy Jerez | [m3u8](https://cloudvideo.servers10.com:8081/8210/index.m3u8) | [web](https://hoyjerez.com) | [logo](https://graph.facebook.com/hoyjerezdiario/picture?width=200&height=200) | - | - |
 | Sal TV | [m3u8](https://cloudvideo.servers10.com:8081/8254/index.m3u8) | [web](https://saltv.es) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | - |
 | 9 la Loma TV | [m3u8](https://9laloma.tv/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=200&height=200) | 9LaLoma.TV | - |
@@ -223,7 +223,6 @@
 | Canal 4 Telde TV | [m3u8](https://stream.castr.com/63516516d5d3d0036518a3cd/live_73194be0508a11edb25de99cc96ba4dc/index.m3u8) | [web](https://canal4tvtelde.com/web/en-directo) | [logo](https://graph.facebook.com/canal4tvtelde/picture?width=200&height=200) | - | REF3,NONAV |
 | Noroeste TV | [m3u8](https://livestreams.flote.app:5443/flote/streams/f7c103f4-4247-4537-be81-f9b3896d74cb.m3u8) | [web](http://www.noroestetv.es) | [logo](https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200) | - | - |
 | Fuerteventura TV | [m3u8](https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8) | [web](https://fuerteventuratelevision.com) | [logo](https://yt3.ggpht.com/NGDcQX5v1Px2BBFD5G4aHYNrCyDWoEkRF5Gpsyfz-b_9swNpy6s-Z7-Glu-9WDr7JpP_MsCB=s200) | - | - |
-| Onda Gran Canaria TV | [m3u8](https://vdo1.panelstreaming.live:3070/stream/play.m3u8) | [web](https://www.ondagrancanaria.com/estaticas/tv-en-directo.html) | [logo](https://graph.facebook.com/OndaGranCanaria/picture?width=200&height=200) | - | - |
 | Tele Carnaval | [m3u8](https://eu1.servers10.com:8081/8116/index.m3u8) | [web](https://www.radiocarnaval.net) | [logo](https://graph.facebook.com/radiocarnavalgc/picture?width=200&height=200) | - | - |
 | Afortunadas TV | [m3u8](https://cloudvideo.servers10.com:8081/8108/index.m3u8) | [web](https://www.afortunadastv.com) | [logo](https://graph.facebook.com/afortunadastv/picture?width=200&height=200) | - | - |
 
