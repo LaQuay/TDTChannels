@@ -763,24 +763,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Café del Mar Ibiza | - | - | - | - | - | - | - | - |
 | Sonus FM Alemania | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | DanceStar TV | - | - | - | - | - | - | - | - |
-| HqM Hits | - | - | - | - | - | - | - | - |
-| HqM Spanish | - | - | - | - | - | - | - | - |
-| HqM Rock | - | - | - | - | - | - | - | - |
-| HqM Remember | - | - | - | - | - | - | - | - |
-| HqM Relax | - | - | - | - | - | - | - | - |
-| HqM Pop | - | - | - | - | - | - | - | - |
-| HqM Latin | - | - | - | - | - | - | - | - |
-| HqM Kids | - | - | - | - | - | - | - | - |
-| HqM Jazz | - | - | - | - | - | - | - | - |
-| HqM Hip Hop | - | - | - | - | - | - | - | - |
-| HqM Folk | - | - | - | - | - | - | - | - |
-| HqM Dance | - | - | - | - | - | - | - | - |
-| HqM Classic | - | - | - | - | - | - | - | - |
-| HqM Chill Out | - | - | - | - | - | - | - | - |
-| HqM Blues | - | - | - | - | - | - | - | - |
-| HqM Baladas | - | - | - | - | - | - | - | - |
-| HqM Arabic | - | - | - | - | - | - | - | - |
-| HqM Gym | - | - | - | - | - | - | - | - |
 | The Good Life Radio | - | - | - | - | - | - | - | - |
 | LoFi Hip-Hop Beats Music | - | - | - | - | - | - | - | - |
 | Beautiful Piano Music | - | - | - | - | - | - | - | - |

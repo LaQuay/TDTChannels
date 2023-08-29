@@ -743,24 +743,6 @@
 | Café del Mar Ibiza | [youtube](https://www.youtube.com/channel/UCha0QKR45iw7FCUQ3-1PnhQ/live) | [web](https://cafedelmar.com) | [logo](https://graph.facebook.com/cafedelmaribizaofficialpage/picture?width=200&height=200) | - | EMB |
 | Sonus FM Alemania | [m3u8](http://www.sonus.fm:1935/public/stream_source/playlist.m3u8) | [web](http://www.sonus.fm) | [logo](https://graph.facebook.com/sonusfmpage/picture?width=200&height=200) | - | REF,NONAV |
 | DanceStar TV | [m3u8 # EN](https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8) | [web](http://dancestartv.com) | [logo](https://graph.facebook.com/DancestarTV/picture?width=200&height=200) | - | - |
-| HqM Hits | [stream](https://yowi.tv/embed/hitshqm/) | [web](https://hqm.es/canales/hits-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/hits-hqm-logo.png) | - | EMB |
-| HqM Spanish | [stream](https://yowi.tv/embed/spanishhqm/) | [web](https://hqm.es/canales/spanish-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/spanish-hqm-logo.png) | - | EMB |
-| HqM Rock | [stream](https://yowi.tv/embed/rockhqm/) | [web](https://hqm.es/canales/rock-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/rock-hqm-logo.png) | - | EMB |
-| HqM Remember | [stream](https://yowi.tv/embed/rememberhqm/) | [web](https://hqm.es/canales/remember-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/remember-hqm-logo.png) | - | EMB |
-| HqM Relax | [stream](https://yowi.tv/embed/relaxhqm/) | [web](https://hqm.es/canales/relax-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/relax-hqm-logo.png) | - | EMB |
-| HqM Pop | [stream](https://yowi.tv/embed/pophqm/) | [web](https://hqm.es/canales/pop-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/pop-hqm-logo.png) | - | EMB |
-| HqM Latin | [stream](https://yowi.tv/embed/latinhqm/) | [web](https://hqm.es/canales/latin-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/latin-hqm-logo.png) | - | EMB |
-| HqM Kids | [stream](https://yowi.tv/embed/kidshqm/) | [web](https://hqm.es/canales/kids-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/kids-hqm-logo.png) | - | EMB |
-| HqM Jazz | [stream](https://yowi.tv/embed/jazzhqm/) | [web](https://hqm.es/canales/jazz-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/jazz-hqm-logo.png) | - | EMB |
-| HqM Hip Hop | [stream](https://yowi.tv/embed/hiphophqm/) | [web](https://hqm.es/canales/hip-hop-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/hip-hop-hqm-logo.png) | - | EMB |
-| HqM Folk | [stream](https://yowi.tv/embed/folkhqm/) | [web](https://hqm.es/canales/folk-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/folk-hqm-logo.png) | - | EMB |
-| HqM Dance | [stream](https://yowi.tv/embed/dancehqm/) | [web](https://hqm.es/canales/dance-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/dance-hqm-logo.png) | - | EMB |
-| HqM Classic | [stream](https://yowi.tv/embed/classichqm/) | [web](https://hqm.es/canales/classic-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/classic-hqm-logo.png) | - | EMB |
-| HqM Chill Out | [stream](https://yowi.tv/embed/ChillOutHQM/) | [web](https://hqm.es/canales/chill-out-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/chill-out-hqm-logo.png) | - | EMB |
-| HqM Blues | [stream](https://yowi.tv/embed/blueshqm/) | [web](https://hqm.es/canales/blues-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/blues-hqm-logo.png) | - | EMB |
-| HqM Baladas | [stream](https://yowi.tv/embed/baladashqm/) | [web](https://hqm.es/canales/baldas-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/baladas-hqm-logo.png) | - | EMB |
-| HqM Arabic | [stream](https://yowi.tv/embed/arabichqm/) | [web](https://hqm.es/canales/arabic-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/arabic-hqm-logo-1.png) | - | EMB |
-| HqM Gym | [stream](https://yowi.tv/embed/gymhqm/) | [web](https://hqm.es/canales/gym-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/gym-hqm-logo.png) | - | EMB |
 | The Good Life Radio | [youtube](https://youtu.be/36YnV9STBqc) | [web](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA) | [logo](https://yt3.ggpht.com/a/AATXAJw_0O4Q7vmQvtqUOGDFHS3GQZaH2OKMnc3_1itvxg=s200) | - | - |
 | LoFi Hip-Hop Beats Music | [youtube](https://www.youtube.com/@steezyasfvck/live) | [web](https://stzzzy.com) | [logo](https://pbs.twimg.com/profile_images/1155872804786466817/z1k1zxIi_200x200.jpg) | - | - |
 | Beautiful Piano Music | [youtube](https://www.youtube.com/live/2OM7adQl-YQ/live) | [web](https://soothingrelaxation.com) | [logo](https://graph.facebook.com/SoothingRelaxation/picture?width=200&height=200) | - | - |
