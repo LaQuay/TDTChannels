@@ -390,7 +390,7 @@
 | Canal 56 | [m3u8](https://videos.canal56.com/directe/stream/index.m3u8) | [web](https://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=200&height=200) | - | NONAV |
 | Tevequatre TV | [m3u8](https://nlb1-live.emitstream.com/hls/646wzsnqyforndavy6de/master.m3u8) | [web](https://teve4.com/directe/) | [logo](https://pbs.twimg.com/profile_images/438700741801177088/MdnaVxtC_200x200.png) | - | - |
 | Maestrat TV | [m3u8](https://stream.maestrat.tv/hls/stream.m3u8) | [web](https://www.maestrat.tv/directe) | [logo](https://graph.facebook.com/maestrat.tv/picture?width=200&height=200) | - | - |
-| Univers TV | [m3u8](https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8) | [web](https://www.universvalencia.es) | [logo](https://yt3.ggpht.com/ytc/AKedOLQb35mWN9WQKdrbrrl30uG9PdY_du6DmbB_khSZdA=s200) | - | - |
+| Univers TV | [m3u8](https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8) | [web](https://www.universvalencia.es) | [logo](https://yt3.ggpht.com/ytc/AKedOLQb35mWN9WQKdrbrrl30uG9PdY_du6DmbB_khSZdA=s200) | - | - |
 | TV Almassora | [m3u8](https://live.fullsport.es/hls/tvalmassora_src/index.m3u8) | [web](https://www.tvalmassora.com/en-directo/) | [logo](https://graph.facebook.com/tvalmassora/picture?width=200&height=200) | - | - |
 | Onda 15 TV | [m3u8](https://cloudvideo.servers10.com:8081/8034/index.m3u8) | [web](https://onda15.es) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
 | Canal 3 Biar | [m3u8](https://avantstreaming.es/hls/canal3hd.m3u8) | [web](https://canal3biar.es/canal-3-hd-en-directe/) | [logo](https://graph.facebook.com/canal3biar/picture?width=200&height=200) | - | - |
