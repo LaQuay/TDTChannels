@@ -620,7 +620,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Globovision Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Venezolana de Televisión | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | VPI TV Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La Tele Tuya Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La Tele Tuya Venezuela | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Canal Antigua Guatemala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TELE13 Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
