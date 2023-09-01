@@ -39,6 +39,7 @@
 | Libertad Digital TV | [stream](https://www.dailymotion.com/embed/video/xnm032?autoplay=1) | [web](https://tv.libertaddigital.com/directo.html) | [logo](https://graph.facebook.com/libertad.digital.tv/picture?width=200&height=200) | Libertad.TV | EMB |
 | Negocios TV | [m3u8](https://streaming013.gestec-video.com/hls/negociostv.m3u8) - [youtube](https://www.youtube.com/channel/UCwd8Byi93KbnsYmCcKLExvQ/live) | [web](https://www.negocios.com/directo) | [logo](https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg) | Negocios.TV | NONAV |
 | El Confidencial | [m3u8](https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8) | [web](https://www.elconfidencial.com/television/) | [logo](https://graph.facebook.com/elconfidencial/picture?width=200&height=200) | - | - |
+| Europa Press | [m3u8](https://europapresslive.flumotion.cloud/europapresslive/smil:channel1.smil/playlist.m3u8) | [web](https://www.europapress.es/) | [logo](https://graph.facebook.com/europapress.es/picture?width=200&height=200) | - | - |
 
 ## Deportivos
 
