@@ -72,6 +72,7 @@
 | - | - | - | - | - | - |
 | Boing | - | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=200&height=200) | Boing.TV | W3U,EMB,EXTA |
 | Clan | [m3u8 # GEO](https://ztnr.rtve.es/ztnr/5466990.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/clan/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | - |
+| Kidz | - | [web](https://www.atresplayer.com/directos/canal-kidz/) | [logo](https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Pequeradio TV | [m3u8](https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8) | [web](https://www.pequeradio.es) | [logo](https://graph.facebook.com/Pequeradio/picture?width=200&height=200) | - | - |
 | Pocoyó | [youtube](https://www.youtube.com/channel/UCnB5W_ZJgiDFnklejRGADxw/live) | [web](https://www.pocoyo.com) | [logo](https://graph.facebook.com/pocoyo/picture?width=200&height=200) | - | EMB |
 | Warner Bros Kids | [youtube](https://www.youtube.com/channel/UCB82v6uKp1S-I-DVoL2neDA/live) | [web](https://www.wbkidsgo.com) | [logo](https://graph.facebook.com/WarnerBrosPicturesEspana/picture?width=200&height=200) | - | EMB |
@@ -94,12 +95,34 @@
 | La Moncloa (Presidente) | [m3u8](https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg) | [web](https://www.lamoncloa.gob.es/multimedia/videos/presidente/Paginas/directo.aspx) | [logo](https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200) | - | - |
 | La Moncloa (Ministros) | [m3u8](https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=o0RCNMRf-BPdBiuDSId7vbxANj4YFVpbXkxNkFKm35s&output=z3mwepuDBMOnja63VsgAcCGwmmOPD-I5yFYOiyCvBcc&channel=FBDoImE2NP77XpNbdycjnwCkI0YjxLeqTKr8QGV9bAI&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg) | [web](https://www.lamoncloa.gob.es/multimedia/videos/consejoministros/Paginas/directo.aspx) | [logo](https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200) | - | - |
 | flooxer | - | [web](https://www.atresplayer.com/directos/canal-flooxer/) | [logo](https://graph.facebook.com/flooxer/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| Onda Cero | - | [web](https://www.atresplayer.com/directos/onda-cero/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC.Radio | W3U,EMB,EXTA |
+| Europa FM | - | [web](https://www.atresplayer.com/directos/europa-fm/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | EuropaFM.Radio | W3U,EMB,EXTA |
+| Melodía FM | - | [web](https://www.atresplayer.com/directos/melodia-fm/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Radio Nacional | [m3u8](https://ztnr.rtve.es/ztnr/1938076.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/2795617.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | - | - |
 | Ràdio 4 | [m3u8](https://ztnr.rtve.es/ztnr/6782425.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/Radio4RNE/picture?width=200&height=200) | - | - |
 | Onda Cero | [m3u8](https://live-estudio.ondacero.es/estudio_oc-pull/video/master.m3u8) | [web](https://www.ondacero.es) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Del 40 al 1 | [m3u8](https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8) | [web](https://del40al1.los40.com) | [logo](https://graph.facebook.com/del40al1/picture?width=200&height=200) | - | - |
 | COPE | [m3u8](https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8) | [web](https://www.cope.es/directos/video) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+
+## Fast
+
+| Canal | M3U8 | Web | Logo | EPG ID | Info |
+| - | - | - | - | - | - |
+| El Hormiguero | - | [web](https://www.atresplayer.com/directos/el-hormiguero/) | [logo](https://graph.facebook.com/elhormiguero/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| El club de la comedia | - | [web](https://www.atresplayer.com/directos/el-club-de-la-comedia/) | [logo](https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| Equipo de investigación | - | [web](https://www.atresplayer.com/directos/equipo-de-investigacion/) | [logo](https://graph.facebook.com/EqInvestigacion/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| Aquí no hay quién viva | - | [web](https://www.atresplayer.com/directos/aqui-no-hay-quien-viva/) | [logo](https://graph.facebook.com/AQUINHQV/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| Física o química | - | [web](https://www.atresplayer.com/directos/foq/) | [logo](https://graph.facebook.com/fisicaoquimica/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| Atresplayer Clásicos | - | [web](https://www.atresplayer.com/directos/clasicos/) | [logo](https://graph.facebook.com/atresplayer/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| Atresplayer Multicine | - | [web](https://www.atresplayer.com/directos/multicine/) | [logo](https://graph.facebook.com/atresplayer/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| Atresplayer Comedia | - | [web](https://www.atresplayer.com/directos/comedia/) | [logo](https://graph.facebook.com/atresplayer/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| Atresplayer Inquietos | - | [web](https://www.atresplayer.com/directos/mentes-inquietas/) | [logo](https://graph.facebook.com/atresplayer/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| RTVE Crimen | [m3u8](https://ztnr.rtve.es/ztnr/6924117.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/play-crimen/) | [logo](https://graph.facebook.com/rtve/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| RTVE Época | [m3u8](https://ztnr.rtve.es/ztnr/6922467.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/play-epoca/) | [logo](https://graph.facebook.com/rtve/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| RTVE La Promesa | [m3u8](https://ztnr.rtve.es/ztnr/6909843.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/play-promesa/) | [logo](https://graph.facebook.com/lapromesartve/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| RTVE Somos Cine | [m3u8](https://ztnr.rtve.es/ztnr/6909845.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/play-cine/) | [logo](https://graph.facebook.com/rtve/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| RTVE Dale al play! | [m3u8](https://ztnr.rtve.es/ztnr/6712406.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/dale-play-promesa-salon-moderna/23529/) | [logo](https://graph.facebook.com/rtve/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 
 ## Streaming
 
