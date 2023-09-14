@@ -424,6 +424,7 @@
 | COPE León | [mp3](https://wecast-b01-04.flumotion.com/copesedes/leon.mp3) | [web](https://www.cope.es/directos/leon) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Palencia | [mp3](https://wecast-b01-04.flumotion.com/copesedes/palencia.mp3) | [web](https://www.cope.es/directos/palencia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Segovia | [mp3](https://wecast-b01-04.flumotion.com/copesedes/segovia.mp3) | [web](https://www.cope.es/directos/segovia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| Vive! Segovia | [stream](https://streaming.viveradio.es/vivesegovia) | [web](https://www.viveradio.es/viveSegovia) | [logo](https://www.viveradio.es/dist/images/vive_dial_Segovia.svg) | - | WICE |
 | COPE Soria | [mp3](https://wecast-b01-04.flumotion.com/copesedes/soria.mp3) | [web](https://www.cope.es/directos/soria) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Valladolid | [mp3](https://wecast-b01-04.flumotion.com/copesedes/valladolid.mp3) | [web](https://www.cope.es/directos/valladolid) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Zamora | [mp3](https://wecast-b01-04.flumotion.com/copesedes/zamora.mp3) | [web](https://www.cope.es/directos/zamora) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
