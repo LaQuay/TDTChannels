@@ -192,6 +192,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Bailén TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101TV Ronda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vivamóvil TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
