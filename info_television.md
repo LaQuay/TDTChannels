@@ -89,6 +89,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | - | - | - | - | - | - | - | - | - |
 | Boing | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Kidz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
