@@ -442,7 +442,7 @@
 | IB3 Global | [youtube](https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live) | [web](https://ib3.org/directe) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | IB3.TV | EMB |
 | TEF | [m3u8](https://5940924978228.streamlock.net/EIVISSA_2/EIVISSA_2/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](https://graph.facebook.com/TEFTV/picture?width=200&height=200) | - | NONAV |
 | Canal 4 Televisió | [m3u8](https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8) | [web](https://www.grup4.com/?page_id=14505) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | - |
-| Fibwi Diario | [m3u8](https://hostcdn3.fibwi.com/fibwi_diario/index.m3u8) | [web](https://fibwidiario.com/fibwi-tv/) | [logo](https://graph.facebook.com/Fibwidiario/picture?width=200&height=200) | - | - |
+| Fibwi Diario | [m3u8](https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8) | [web](https://fibwidiario.com/fibwi-tv/) | [logo](https://graph.facebook.com/Fibwidiario/picture?width=200&height=200) | - | - |
 
 ### La Rioja
 
