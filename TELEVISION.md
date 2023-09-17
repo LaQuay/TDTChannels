@@ -701,7 +701,7 @@
 | Stadium USA | [m3u8 # EN](https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8) | [web](https://watchstadium.com/live/) | [logo](https://graph.facebook.com/watchstadium/picture?width=200&height=200) | - | - |
 | Garage TV Argentina | [m3u8](https://stream1.sersat.com/hls/garagetv.m3u8) | [web](http://elgarage.com) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
 | MsMotor TV | - | [web](https://www.msmotor.tv) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | W3U,EXTA |
-| Best Cable Sports Perú | [m3u8](https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8) | [web](https://bestcableperu.com.pe/tv6.html) | [logo](https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200) | - | - |
+| Best Cable Sports Perú | [m3u8](https://mi.godo.net.pe/Best-sport-00000x111/index.m3u8) | [web](https://bestcableperu.com.pe/tv6.html) | [logo](https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200) | - | - |
 
 ## Musicales
 
