@@ -620,7 +620,7 @@
 | Color Visión República Dominicana | [stream](https://www.dailymotion.com/embed/video/x7gy059?autoplay=1) | [web](https://colorvision.com.do/en-vivo/) | [logo](https://graph.facebook.com/colorvisionc9/picture?width=200&height=200) | - | EMB |
 | HCH Honduras | [stream](https://www.dailymotion.com/embed/video/x81za5c?autoplay=1) | [web](https://hch.tv/live/) | [logo](https://pbs.twimg.com/profile_images/1571129300623015936/-HJCmEk3_200x200.jpg) | - | EMB |
 | ABC TV Paraguay | [m3u8](https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8) | [web](https://www.abc.com.py/tv/) | [logo](https://graph.facebook.com/ABCTVpy/picture?width=200&height=200) | - | - |
-| Trece Paraguay | [m3u8](http://174.138.118.252/live/trece.m3u8) | [web](http://www.trece.com.py/envivo) | [logo](https://graph.facebook.com/trecepy/picture?width=200&height=200) | - | - |
+| Trece Paraguay | [m3u8](https://rds3gen.desdeparaguay.net/trecetv/trecetv_baja/playlist.m3u8) | [web](https://trece.com.py/) | [logo](https://graph.facebook.com/trecepy/picture?width=200&height=200) | - | - |
 | Unicanal Paraguay | [m3u8](http://45.55.127.106/live/unicanal_mid.m3u8) | [web](http://www.unicanal.com.py) | [logo](https://graph.facebook.com/Unicanal/picture?width=200&height=200) | - | - |
 | Nicavisión TV Nicaragua | - | [web](http://www.canal12.com.ni/en-vivo) | [logo](https://graph.facebook.com/200823376627607/picture?width=200&height=200) | - | W3U,EXTA |
 | WTV Nicaragua | [m3u8](https://cloudvideo.servers10.com:8081/8130/index.m3u8) | [web](http://wtvnicaragua.com/player/tv-player.html) | [logo](https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200) | - | - |
