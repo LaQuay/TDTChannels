@@ -252,7 +252,7 @@
 | Alcarria TV | [m3u8 # 1](https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8) - [m3u8 # 2](http://217.182.77.27/live/alcarriatv-livestream.m3u8) | [web](https://www.alcarria.tv/ver-en-directo/) | [logo](https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200) | - | - |
 | Ciudad Real TV | [youtube](https://www.youtube.com/channel/UCNxFBlUBOaI3iQW37T3hFww/live) | [web](https://www.ciudadreal.es/servicios-municipales/cr-tv.html) | [logo](https://graph.facebook.com/1765736930414544/picture?width=200&height=200) | - | EMB |
 | Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8) | [web](https://villarrobledonoticias.com/canal-4-mancha/) | [logo](https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200) | - | - |
-| TeleToledo | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8) | [web](https://www.teletoledo.es) | [logo](https://graph.facebook.com/Teletoledo/picture?width=200&height=200) | - | - |
+| TeleToledo | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8) | [web](https://www.teletoledo.es) | [logo](https://graph.facebook.com/Teletoledo/picture?width=200&height=200) | - | REFG1 |
 | Canal 2000 | [m3u8](http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8) | [web](http://www.canal2000.com) | [logo](https://graph.facebook.com/canal2000/picture?width=200&height=200) | - | - |
 
 ### Castilla y León
@@ -355,7 +355,7 @@
 | Déjate de Historias TV | [youtube](https://www.youtube.com/channel/UChMCkc02GVSi89TrvhbRasA/live) | [web](https://dejatedehistorias.es/emision-online) | [logo](https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200) | Dejate.TV | EMB |
 | Telesur Madrid | - | [web](https://telesurmadrid.wordpress.com) | [logo](https://graph.facebook.com/telesurmadrid/picture?width=200&height=200) | - | NOEM |
 | C33 Madrid | [m3u8](https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8) | [web](http://www.canal33.info) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
-| EsTuTele | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/estutele/estutele.m3u8) | [web](https://estutele.com) | [logo](https://graph.facebook.com/100146922067408/picture?width=200&height=200) | - | - |
+| EsTuTele | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/estutele/estutele.m3u8) | [web](https://estutele.com) | [logo](https://graph.facebook.com/100146922067408/picture?width=200&height=200) | - | REFG1 |
 
 ### C. Foral de Navarra
 
@@ -380,7 +380,7 @@
 | Alacantí TV | [m3u8](https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8) | [web](http://www.alacantitv.com/en-directo/) | [logo](https://graph.facebook.com/alacantitv/picture?width=200&height=200) | - | NONAV |
 | TV Castelló | [stream](https://player.twitch.tv/?channel=televisiodecastello&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://tvcs.tv/en-directe/) | [logo](https://graph.facebook.com/TelevisiondeCastellon/picture?width=200&height=200) | - | EMB |
 | TV Artequatre | [m3u8](https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8) | [web](https://www.tv-a.es) | [logo](https://graph.facebook.com/tvArtequatre/picture?width=200&height=200) | - | NONAV |
-| 12TV Alicante | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8) | [web](https://webtv.12tv.es) | [logo](https://graph.facebook.com/12tv.es/picture?width=200&height=200) | - | - |
+| 12TV Alicante | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8) | [web](https://webtv.12tv.es) | [logo](https://graph.facebook.com/12tv.es/picture?width=200&height=200) | - | REFG1 |
 | Levante TV | [stream](https://player.twitch.tv/?channel=levante_tv&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.levante-emv.com/videos/levante-tv) | [logo](https://graph.facebook.com/levantetv/picture?width=200&height=200) | - | EMB |
 | TV de San Vicente | [m3u8](https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8) | [web](https://www.televisiondesanvicente.es/alacarta/endirecto/) | [logo](https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200) | - | - |
 | TV Vega Baja | [m3u8](https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8) | [web](http://programas.televisionvegabaja.es/directo) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | - |
@@ -412,7 +412,7 @@
 | Canal Extremadura Toros | [m3u8](https://cdnlive.codev8.net/canalextremaduralive/smil:channel5.smil/playlist.m3u8) | [web](https://www.canalextremadura.es/directo/web) | [logo](https://www.canalextremadura.es/sites/default/files/styles/medium/public/Media/Images/2022-03/logo-toros.jpg) | - | - |
 | TV Extremeña | [stream](https://player.twitch.tv/?channel=tvextremena&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.xn--televisionextremea-30b.com/directo/) | [logo](https://graph.facebook.com/TELEVISIONEXTREMENA/picture?width=200&height=200) | - | EMB |
 | Nuestra Comarca TV | [stream](https://player.twitch.tv/?channel=nuestracomarcatelevision&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.nuestracomarca.com) | [logo](https://graph.facebook.com/nuestra.comarca/picture?width=200&height=200) | - | EMB |
-| Zafra TV | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/radiotvzafra/radiotvzafra.m3u8) | [web](https://webtv.radiotvzafra.es) | [logo](https://graph.facebook.com/ZFtelevision/picture?width=200&height=200) | - | - |
+| Zafra TV | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/radiotvzafra/radiotvzafra.m3u8) | [web](https://webtv.radiotvzafra.es) | [logo](https://graph.facebook.com/ZFtelevision/picture?width=200&height=200) | - | REFG1 |
 | Villafranca TV | [youtube](https://www.youtube.com/channel/UCIp5TEcJidiaN3p_mguOrTQ/live) | [web](http://www.villafrancadelosbarros.es/index.php/medios-de-comunicacion) | [logo](https://pbs.twimg.com/profile_images/1180389927709810688/BgzpxkjA_200x200.jpg) | - | EMB |
 
 ### Galicia
@@ -430,7 +430,7 @@
 | TVG Momentos G | [m3u8](https://momentog-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/momentosG) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
 | TVG Eventos | [m3u8 # 1](https://events1-crtvg.flumotion.com/playlist.m3u8) - [m3u8 # 2](https://events2-crtvg.flumotion.com/playlist.m3u8) - [m3u8 # 3](https://events3-crtvg.flumotion.com/playlist.m3u8) - [m3u8 # 4](https://events4-crtvg.flumotion.com/playlist.m3u8) - [m3u8 # 5](https://events5-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
 | TV Ferrol | [m3u8](https://directo.tvferrol.es/tv.m3u8) | [web](https://tvferrol.es/es/contenido.php?c=4) | [logo](https://graph.facebook.com/tvferrol/picture?width=200&height=200) | - | - |
-| TeleVigo | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8) | [web](http://www.televigo.com) | [logo](https://graph.facebook.com/televigo/picture?width=200&height=200) | - | REF |
+| TeleVigo | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8) | [web](http://www.televigo.com) | [logo](https://graph.facebook.com/televigo/picture?width=200&height=200) | - | REFG1 |
 | Telemiño | [youtube](https://www.youtube.com/channel/UCIfXJopeFMqPigsB_NqfLXQ/live) | [web](https://www.teleminho.com) | [logo](https://graph.facebook.com/teleminho/picture?width=200&height=200) | - | EMB |
 | Hermes TV | [stream](https://player.twitch.tv/?channel=hermestelevisionvigo&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](http://www.hermesvigo.com/directo-tv.php) | [logo](https://graph.facebook.com/491789551017784/picture?width=200&height=200) | - | EMB |
 | Anove TV | [m3u8](https://205245.gvideo.io/cmaf/205245_786753/master.m3u8) | [web](https://anove.gal) | [logo](https://graph.facebook.com/anove.tv/picture?width=200&height=200) | - | - |
@@ -492,7 +492,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 7 R. de Murcia | [m3u8 # 1](https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8) - [m3u8 # 2](https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.m3u8) | [web](https://www.la7tv.es/video/a-la-carta/7tv-en-directo/20220810150726000939.html) | [logo](https://graph.facebook.com/la7tele/picture?width=200&height=200) | 7RM.TV | - |
-| Popular TV Murcia | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/populartvrm/populartvrm.m3u8) | [web](https://www.populartvmurcia.com) | [logo](https://pbs.twimg.com/profile_images/1633748275521105920/o_45zyRx_200x200.jpg) | PopularMU.TV | - |
+| Popular TV Murcia | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/populartvrm/populartvrm.m3u8) | [web](https://www.populartvmurcia.com) | [logo](https://pbs.twimg.com/profile_images/1633748275521105920/o_45zyRx_200x200.jpg) | PopularMU.TV | REFG1 |
 | Canal 1 Mar Menor Torre Pacheco | [m3u8](https://directo.tuwebtv.es/canal1.m3u8) | [web](https://www.tuwebtv.es/directo.php) | [logo](https://graph.facebook.com/tuwebtv/picture?width=200&height=200) | - | - |
 | Arabi TV | [m3u8](https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8) | [web](https://www.arabitv.es/en-directo/) | [logo](https://yt3.googleusercontent.com/c6kb-kHU27wqpuH7CF4wJqdiczouiXr4zJ1R0lZ6N-2jZscZ9_gn77gDUIykoQLzE56fbxIZhIA=s200) | - | - |
 | Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
