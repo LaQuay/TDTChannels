@@ -245,7 +245,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Este Canal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Telde TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Noroeste TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Fuerteventura TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Gran Canaria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele Carnaval | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
