@@ -228,7 +228,7 @@
 | Noroeste TV | [m3u8](https://stream.castr.com/5f64ae0f634f513c4b37d23e/live_5dfc3d60e44d11edaa0a918d6859a7b8/index.m3u8) | [web](http://www.noroestetv.es) | [logo](https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200) | - | NONAV,REFC1 |
 | Fuerteventura TV | [m3u8](https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8) | [web](https://fuerteventuratelevision.com) | [logo](https://yt3.ggpht.com/NGDcQX5v1Px2BBFD5G4aHYNrCyDWoEkRF5Gpsyfz-b_9swNpy6s-Z7-Glu-9WDr7JpP_MsCB=s200) | - | - |
 | Onda Gran Canaria TV | [m3u8](https://vdo1.panelstreaming.live:3070/stream/play.m3u8) | [web](https://www.ondagrancanaria.com/estaticas/tv-en-directo.html) | [logo](https://graph.facebook.com/OndaGranCanaria/picture?width=200&height=200) | - | - |
-| Tele Carnaval | [m3u8](https://eu1.servers10.com:8081/8116/index.m3u8) | [web](https://www.radiocarnaval.net) | [logo](https://graph.facebook.com/radiocarnavalgc/picture?width=200&height=200) | - | - |
+| Factoría de Carnaval  | [m3u8](https://eu1.servers10.com:8081/8116/index.m3u8) | [web](https://multicarnaval.com/) | [logo](https://graph.facebook.com/Multicarnaval/picture?width=200&height=200) | - | - |
 | Afortunadas TV | [m3u8](https://cloudvideo.servers10.com:8081/8108/index.m3u8) | [web](https://www.afortunadastv.com) | [logo](https://graph.facebook.com/afortunadastv/picture?width=200&height=200) | - | - |
 
 ### Cantabria
