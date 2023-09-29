@@ -590,6 +590,7 @@
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
 | Decisión Radio | [stream](https://s2.radio.co/s41b5a1af1/low) | [web](https://www.decisionradio.com/en-directo) | [logo](https://pbs.twimg.com/profile_images/1661312001069445120/woBR7dbH_200x200.jpg) | - | - |
 | Master FM | [stream](https://radios.lamaster.es:8000/madrid) | [web](https://lamaster.es) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
+| Informa Radio | [stream](https://streams.radio.co/se18e1e587/low) | [web](https://www.edatv.news/informaradio/) | [logo](https://play-lh.googleusercontent.com/ntLOKzyfIRmb7dEHkaT0_U4ASYiOEJx_j8W9GjM_xYhukq5ZMb3P35AjYOj6YIrtDuci=w200-h200) | - | - |
 | Radio Vallekas | [mp3](https://radio.radiobot.org/listen/rvk/rvk.mp3) | [web](http://www.radiovallekas.org) | [logo](https://graph.facebook.com/radiovallekas/picture?width=200&height=200) | - | - |
 | Capital Radio | [mp3](https://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3) | [web](https://www.capitalradio.es/directo) | [logo](https://graph.facebook.com/capitalradiob/picture?width=200&height=200) | - | - |
 | Radio Tentación | [mp3](http://88.26.228.190:8020/;.mp3) | [web](https://www.radiotentacion.com) | [logo](https://graph.facebook.com/radiotentacionofficial/picture?width=200&height=200) | - | - |
