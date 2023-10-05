@@ -25,8 +25,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | **Página web** | [TDTChannels](https://www.tdtchannels.com/) |
 | **Aplicación Android** | [TDTChannels](https://www.tdtchannels.com/android) |
 | **Aplicación iOS** | [TDTChannels](https://www.tdtchannels.com/iphone) |
-| **Grupo - Telegram** | [Acceder](https://t.me/tdtchannels) al grupo |
-| **Canal de Avisos - Telegram** | [Acceder](https://t.me/tdtchannels_avisos) al canal |
+| **Comunidad en Discord** | [Acceder](https://discord.gg/FHs4Hn7Ty) a la comunidad |
 
 ### Noticias
 [Aquí](https://github.com/LaQuay/TDTChannels/blob/master/MENTIONS.md) puedes encontrar los medios de información que nos han citado. 
