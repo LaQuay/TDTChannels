@@ -604,7 +604,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Teleantioquia Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Señal Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telepacifico Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Telecaribe Colombia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Canal Telecaribe Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal TRO Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Todo Noticias Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | C5N Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
