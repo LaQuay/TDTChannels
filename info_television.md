@@ -472,7 +472,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7 La Rioja | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Parlamento de La Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión eventual |
-| El Camino De Santiago TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cocina Familiar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Melilla
 
