@@ -725,7 +725,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Stadium USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MsMotor TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| Best Cable Sports Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Best Cable Sports Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 
 ## Musicales
 
