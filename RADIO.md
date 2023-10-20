@@ -596,7 +596,7 @@
 | Radio Enlace | [stream](https://cervera.eldialdigital.com:25121/stream) | [web](http://www.radioenlace.org) | [logo](https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200) | - | WICE |
 | Radio Cigüeña | [stream](https://cervera.eldialdigital.com:25171/stream) | [web](http://www.radiociguena.org) | [logo](https://graph.facebook.com/297157036138/picture?width=200&height=200) | - | WICE |
 | Radio Inter | [stream](https://live.radiointer.es/stream) | [web](https://www.radiointer.es) | [logo](https://graph.facebook.com/radiointerspain/picture?width=200&height=200) | - | - |
-| Radio Intercontinental | [stream](https://cast5.servcast.net/proxy/inter/stream) | [web](https://www.radiointercontinental.net/) | [logo](https://es.wikipedia.org/wiki/Radio_Inter#/media/Archivo:Radio_Intercontinental.jpg) | - | - |
+| Radio Intercontinental | [stream](https://cast5.servcast.net/proxy/inter/stream) | [web](https://www.radiointercontinental.net) | [logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Radio_Intercontinental.jpg) | - | - |
 | Radio Utopía | [mp3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](http://www.radioutopia.org.es) | [logo](https://graph.facebook.com/179099278878655/picture?width=200&height=200) | - | - |
 | Onda Fuenlabrada | [mp3](https://radioserver12.profesionalhosting.com/proxy/pkg78581/stream.mp3) | [web](https://ondafuenlabrada.es/emision/) | [logo](https://graph.facebook.com/onda.fuenlabrada/picture?width=200&height=200) | - | - |
 | Peperadio | [stream](https://server10.emitironline.com:8032/) | [web](https://peperadio.es) | [logo](https://peperadio.es/Content/images/logo.png) | - | - |
