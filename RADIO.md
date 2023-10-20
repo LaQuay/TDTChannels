@@ -740,8 +740,6 @@
 | Costafm Alicante | [mp3](https://cdn4.onstream.audio:6064/stream.mp3) | [web](https://www.costafm.es) | [logo](https://graph.facebook.com/costafm/picture?width=200&height=200) | - | - |
 | Onda Azul Torrevieja | [mp3](https://usa3.lhdserver.es:8199/stream?type=.mp3) | [web](https://ondaazulradio.es) | [logo](https://pbs.twimg.com/profile_images/691063766784577536/3-ftz8tQ_200x200.jpg) | - | - |
 | Spektra FM | [stream](http://stm1.emiteonline.com:8008/spektrafm) | [web](http://www.spektrafm.es) | [logo](https://pbs.twimg.com/profile_images/1481295109090168838/EIFYjVaz_200x200.jpg) | - | WICE |
-| Ràdio Sol Albal | [mp3](http://emisora.radiosol.albal.es:8000/;audio.mp3) | [web](https://albal.es/noticies/radio-sol/) | [logo](https://graph.facebook.com/radiosolalbal937/picture?width=200&height=200) | - | - |
-| VIVA Radio | [stream](https://radio.marcsoul.com/viva) | [web](https://viva-rtv.es/viva-radio.html) | [logo](https://graph.facebook.com/ProduccionesAudiovisuales.CV/picture?width=200&height=200) | - | WISE |
 | Radio Malibú | [mp3](https://cdn4.onstream.audio:9158/maliburadio.mp3) | [web](https://www.radiomalibu.es) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
 | Litoral FM | [mp3](https://stream.mediasector.es/radio/8310/litoralfm.mp3) | [web](https://radiolitoral.com) | [logo](https://graph.facebook.com/Laradiolitoral/picture?width=200&height=200) | - | - |
 | UPV Ràdio | [m3u8](https://streaming.upv.es/radioupv/onlineradio/playlist.m3u8) | [web](http://www.upv.es/rtv/radio/directo) | [logo](https://graph.facebook.com/UPVTV/picture?width=200&height=200) | - | - |
