@@ -67,7 +67,7 @@
 | OKLIGA TV | [youtube](https://www.youtube.com/channel/UC6RLLzXQJWy1yCAEysy1Wgw/live) | [web](https://okliga.tv) | [logo](https://yt3.ggpht.com/ytc/AKedOLRCpkRZNcBfZLGvM1SO_Qf77p_xtv6OnU26aa23Vw=s200) | - | EMB |
 | FedHielo TV | [youtube](https://www.youtube.com/channel/UCuys7LUNfFcwwToSG3yMocw/live) | [web](https://www.rfedh.es/fedhielo-tv/) | [logo](https://graph.facebook.com/fedhielo/picture?width=200&height=200) | - | EMB |
 | Cazaflix | [stream](https://player.viloud.tv/embed/channel/292a2a75da8d1d6335cd7b6e600b04e8?autoplay=1&volume=1&controls=1&title=0&share=0&open_playlist=0) | [web](https://cazaflix.com/tv-directo/) | [logo](https://graph.facebook.com/cazaflixoficial/picture?width=200&height=200) | - | EMB |
-| Mundo Nautica | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8) | [web](https://mundonautica.tv/) | [logo](https://graph.facebook.com/MundoNautica/picture?width=200&height=200) | - | REFG1 |
+| Mundo Nautica | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8) | [web](https://mundonautica.tv) | [logo](https://graph.facebook.com/MundoNautica/picture?width=200&height=200) | - | REFG1 |
 
 ## Infantiles
 
