@@ -673,7 +673,7 @@
 | Channels TV Nigeria | [youtube # EN](https://www.youtube.com/channel/UCEXGDNclvmg6RW0vipJYsTQ/live) | [web](https://www.channelstv.com) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | EMB |
 | NBS TV Uganda | [m3u8 # EN](https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/10-hls/live-media.m3u8) | [web](https://nbs.ug/live/) | [logo](https://graph.facebook.com/nbstelevision/picture?width=200&height=200) | - | - |
 | TVGE 1 Guinea Ecuatorial | [m3u8](https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](http://www.tvgelive.gq/images/logo-dark.png) | - | - |
-| RASD TV | [m3u8](https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8) | [web](https://rasd.tv) | [logo](https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200) | - | - |
+| RASD TV | [m3u8](https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8) | [web](https://rasd.tv) | [logo](https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200) | - | - |
 | SenTV Senegal | [m3u8](https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8) - [youtube](https://www.youtube.com/channel/UCKbMNmSR3KlI9v3xeInHEYA/live) | [web](https://sentv.sn/direct) | [logo](https://graph.facebook.com/sentvtelevision/picture?width=200&height=200) | - | - |
 
 ## Int. Otros
