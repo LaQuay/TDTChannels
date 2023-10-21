@@ -503,7 +503,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TVE Int. Europa | [m3u8 # 2](https://ztnr.rtve.es/ztnr/6891743.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-internacional-europa/) | [logo](https://graph.facebook.com/tveInternacional/picture?width=200&height=200) | - | - |
+| TVE Int. Europa | [m3u8 # 1](https://ztnr.rtve.es/ztnr/6891743.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-internacional-europa/) | [logo](https://graph.facebook.com/tveInternacional/picture?width=200&height=200) | - | - |
 | TV3CAT | [m3u8](https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8) | [web](https://www.ccma.cat/tv3/directe/tv3/) | [logo](https://graph.facebook.com/tv3/picture?width=200&height=200) | - | - |
 | EITB Basque | [m3u8](https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8) | [web](https://www.eitb.eus/es/television/eitb-basque/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETBSAT.TV | - |
 | TVG América | [m3u8](https://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
