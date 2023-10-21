@@ -110,13 +110,28 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | +24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | +tdp | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Somos Cine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ¡HOLA! Play | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| flooxer | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Atresplayer Clásicos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Atresplayer Comedia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Atresplayer Mentes Inquietas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Atresplayer Multicine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Hormiguero | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El club de la comedia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Equipo de investigación | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Aquí no hay quién viva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Física o química | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Crimen | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Dale al play! | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Época | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE La Promesa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Somos Cine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Mitele Comedia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
+| Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Presidente) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Ministros) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| flooxer | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Radio Nacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Cero | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
