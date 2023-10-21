@@ -755,6 +755,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | STZ Telebista España | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | VIVA RTV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
 | Virgin Radio Italia | - | - | - | - | - | - | - | - |
 | R 101 Italia | - | - | - | - | - | - | - | - |
