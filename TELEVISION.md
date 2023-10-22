@@ -104,7 +104,7 @@
 | Física o química | [m3u8](https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8) | [web](https://www.atresplayer.com/directos/foq/) | [logo](https://graph.facebook.com/fisicaoquimica/picture?width=200&height=200) | - | - |
 | RTVE Crimen | [m3u8](https://ztnr.rtve.es/ztnr/6924117.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/play-crimen/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
 | RTVE Época | [m3u8](https://ztnr.rtve.es/ztnr/6922467.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/play-epoca/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
-| RTVE La Promesa | [m3u8](https://ztnr.rtve.es/ztnr/6909843.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/play-promesa/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
+| RTVE Cuéntame | [m3u8](https://ztnr.rtve.es/ztnr/6909843.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/play-promesa/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
 | RTVE Somos Cine | [m3u8](https://ztnr.rtve.es/ztnr/6909845.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/play-cine/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
 | Mitele Comedia | - | [web](https://www.mitele.es/directo/mitele-comedia/) | [logo](https://graph.facebook.com/mitele.es/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Mitele Viajes | - | [web](https://www.mitele.es/directo/mitele-viajes/) | [logo](https://graph.facebook.com/mitele.es/picture?width=200&height=200) | - | W3U,EMB,EXTA |
