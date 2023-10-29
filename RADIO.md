@@ -749,7 +749,7 @@
 | Radio Benicarló | [mp3](https://streaming.enacast.com/radiobenicarlo128.mp3) | [web](https://www.radiobenicarlo.org) | [logo](https://pbs.twimg.com/profile_images/1544316931175550979/6M8VF3dz_200x200.jpg) | - | - |
 | Cassette FM | [mp3](https://cdn4.onstream.audio:9154/cassettefm.mp3) | [web](https://costafm.es/cassettefm/) | [logo](https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2021/05/Cassette.png?fit=200%2C200) | - | - |
 | Radio 90FM | [stream](https://node-33.zeno.fm/015h6n8vfzzuv) | [web](https://radio90fmvalencia.wixsite.com/90fm) | [logo](https://static.wixstatic.com/media/f5b851_67e1cadb04a642e2a353a636264ca548~mv2.png) | - | WICE |
-| Standfy FM | [mp3 # 1](https://stream.standfymedia.net/radio/8000/standfy#.mp3) - [mp3 # 2](https://stream.standfymedia.net/radio/8010/standfy_classic#.mp3) - [mp3 # 3](https://stream.standfymedia.net/radio/8020/standfy_dance#.mp3) - [mp3 # 4](https://stream.standfymedia.net/radio/8030/standfy_rock#.mp3) - [mp3 # 5](https://stream.standfymedia.net/radio/8040/standfy_urban#.mp3) | [web](https://www.standfy.es/play/) | [logo](https://graph.facebook.com/standfymedia/picture?width=200&height=200) | - | - |
+| Standfy FM | [mp3 # 1](https://stream.standfymedia.net/radio/8000/standfy#.mp3) - [mp3 # 2](https://stream.standfymedia.net/radio/8010/standfy_classic#.mp3) - [mp3 # 3](https://stream.standfymedia.net/radio/8020/standfy_dance#.mp3) - [mp3 # 4](https://stream.standfymedia.net/radio/8030/standfy_rock#.mp3) - [mp3 # 5](https://stream.standfymedia.net/radio/8040/standfy_urban#.mp3) | [web](https://www.standfy.es/play/) | [logo](https://www.standfy.es/wp-content/uploads/2023/09/standfy_fm_logo_play-170x170-optimized.png) | - | - |
 
 ### Extremadura
 
