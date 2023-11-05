@@ -635,9 +635,9 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Exitosa Noticias Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Panamericana Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Willax Perú | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| TV Perú | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TV Perú Noticias | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Canal IPe Perú | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| TV Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| TV Perú Noticias | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Canal IPe Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | TeleSUR Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Globovision Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Venezolana de Televisión | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
