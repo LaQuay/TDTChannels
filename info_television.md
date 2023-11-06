@@ -40,7 +40,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | mtmad 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | GH VIP 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
-| DMAX | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| DMAX | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | DKISS | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | Paramount Network | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | BOM Cine | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
