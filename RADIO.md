@@ -349,6 +349,7 @@
 | Radio Santoña | [mp3](http://server10.emitironline.com:10212/radio.mp3) | [web](http://www.xn--santoa-0wa.es/escuchar-radio-santo%C3%B1a) | [logo](https://graph.facebook.com/radiosantona107.3/picture?width=200&height=200) | - | - |
 | Cadena Mix | [stream](https://ns6.emisionlocal.com/proxy/radiomix?mp=%2Fstream) | [web](http://www.cadenamix.es) | [logo](https://graph.facebook.com/cadenamixfm/picture?width=200&height=200) | - | - |
 | Radio Líder | [stream](https://server10.emitironline.com:10855/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
+| Radio Flow | [mp3](https://topradio.uno:8018/live) | [web](https://www.radioflow.es) | [logo](https://www.radioflow.es/flowfuegotg.png) | - | - |
 
 ### Castilla-La Mancha
 
