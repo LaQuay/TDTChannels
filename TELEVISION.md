@@ -503,7 +503,6 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TPA7 | [m3u8](https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR) | [web](https://www.rtpa.es/tpa-television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | W3U,EXTA |
-| El Comercio Audiovisual | - | [web](https://www.elcomerciotv.es) | [logo](https://graph.facebook.com/canal10videosasturias/picture?width=200&height=200) | - | NOEM |
 
 ### R. de Murcia
 
