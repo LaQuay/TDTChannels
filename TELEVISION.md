@@ -378,7 +378,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Navarra TV | [stream](https://www.dailymotion.com/embed/video/x8dhap9?autoplay=1) | [web](https://www.navarratelevision.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | EMB |
+| Navarra TV | - | [web](https://www.navarratelevision.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | EMB |
 | TeleRibera | [m3u8](https://video1.lhdserver.es/teleribera/live.m3u8) | [web](https://teleribera.com) | [logo](https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg) | - | - |
 | Xaloa Telebista | [m3u8](https://streaming.mediacast.pro:9443/hls/xaloa/playlist.m3u8) | [web](https://xaloatelebista.eus/zuzenean/) | [logo](https://graph.facebook.com/xaloatb/picture?width=200&height=200) | - | NONAV |
 | Parlamento de Navarra | [m3u8 # 1](https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8) - [m3u8 # 2](https://broadcasting.parlamentodenavarra.es/live/canal2/master.m3u8) | [web](https://www.parlamentodenavarra.es) | [logo](https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg) | - | - |
@@ -468,7 +468,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TV Rioja | [m3u8](https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8) | [web](https://www.tvr.es/directo-20210408161442-nt.html) | [logo](https://graph.facebook.com/tvrtelevision/picture?width=200&height=200) | TVR.TV | - |
-| 7 La Rioja | [stream](https://www.dailymotion.com/embed/video/x8dhao1?autoplay=1) | [web](https://www.7rioja.tv/Directo) | [logo](https://graph.facebook.com/7riojatv/picture?width=200&height=200) | 7Rioja.TV | EMB |
+| 7 La Rioja | - | [web](https://www.7rioja.tv/Directo) | [logo](https://graph.facebook.com/7riojatv/picture?width=200&height=200) | 7Rioja.TV | EMB |
 | Parlamento de La Rioja | [m3u8](https://media.parlamento-larioja.org:1943/live/parlarioja/master.m3u8) | [web](https://mediateca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200) | - | - |
 | Cocina Familiar | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/cocinafamiliar/cocinafamiliar.m3u8) | [web](https://cocina-familiar.com) | [logo](https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200) | - | REFG1 |
 
