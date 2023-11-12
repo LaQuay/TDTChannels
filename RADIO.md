@@ -69,6 +69,7 @@
 | Clásica FM Radio | [stream](https://edge.mixlr.com/channel/asnfw) | [web](https://clasicafmradio.es/cfm-escucha/) | [logo](https://graph.facebook.com/clasicafmradio/picture?width=200&height=200) | - | - |
 | digitalHits FM | [stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](http://www.digitalhits.cat/directe/) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
 | La Urban Radio | [mp3](https://st1.urbanrevolution.es:8443/laurbanfm.mp3) | [web](https://www.urbanrevolution.es/?page_id=80) | [logo](https://graph.facebook.com/fmurban/picture?width=200&height=200) | - | - |
+| Ushuaia Radio | [stream](https://streaming.radio.co/sc9798b8a8/listen) | [web](https://ushuaia.radio/es/) | [logo](https://yt3.googleusercontent.com/QOZ-pdDPKRBJhZ1w3Qe6y9r9fO243sDLlgLHTyL3sq7E2dldgkKeGlartFMy5YoQ5CQQcGBQgQ=s200) | - | - |
 
 ## Infantiles
 
