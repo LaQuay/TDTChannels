@@ -294,7 +294,7 @@
 | Canal 54 | [stream](https://player.twitch.tv/?channel=canal54tvburgos&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
 | TV Aranda | [m3u8](https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8) | [web](http://www.telearanda.es) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | - |
 | Canal 9 Soria | [stream](https://player.twitch.tv/?channel=canal9_soria&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://soriatv.com) | [logo](https://graph.facebook.com/100830372347460/picture?width=200&height=200) | - | EMB |
-| Junta Castilla y León | [m3u8](https://16escalones-live2.flumotion.com/chunks.m3u8) | [web](http://jcyltv.16escalones.es) | [logo](https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200) | - | - |
+| Junta Castilla y León | [m3u8](https://16escalones-live2.flumotion.com/chunks.m3u8) | [web](https://www.jcyl.es/web/jcyltv.html) | [logo](https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200) | - | - |
 
 ### Cataluña
 
