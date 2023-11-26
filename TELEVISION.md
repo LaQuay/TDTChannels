@@ -490,7 +490,7 @@
 | Hamaika TV | [m3u8](https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8) | [web](https://www.hamaika.eus/zuzenean) | [logo](https://graph.facebook.com/HamaikaTb/picture?width=200&height=200) | - | - |
 | Tele 7 | [m3u8](https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8) | [web](https://tele7.tv/tele-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200) | - | - |
 | Goiena Eus | [m3u8](https://zuzenean.goienamedia.eus/goiena-telebista.m3u8) | [web](https://goiena.eus/telebista/zuzenekoa) | [logo](https://graph.facebook.com/goiena.eus/picture?width=200&height=200) | - | - |
-| Durangaldeko TV | [m3u8](https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8) | [web](https://dotb.eus) | [logo](https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200) | - | - |
+| Durangaldeko TV | [m3u8](https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8) | [web](https://dotb.eus/tbkanala/) | [logo](https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200) | - | - |
 | Goierri Irrati TV | [m3u8](https://5940924978228.streamlock.net/8155/8155/playlist.m3u8) | [web](http://www.gitb.eus) | [logo](https://graph.facebook.com/GoierriIrratiTelebista/picture?width=200&height=200) | - | - |
 | 28 Kanala | [m3u8](https://5940924978228.streamlock.net/8157/8157/master.m3u8) | [web](https://www.28kanala.eus) | [logo](https://graph.facebook.com/28kanala/picture?width=200&height=200) | - | - |
 | TeleBilbao | [m3u8](https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8) | [web](https://www.telebilbao.es/directo/) | [logo](https://graph.facebook.com/312994995454199/picture?width=200&height=200) | - | NONAV,UAG |
