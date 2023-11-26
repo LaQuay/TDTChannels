@@ -549,6 +549,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | GBC Gibraltar | - | - | - | - | - | - | - | Emisión eventual |
 | Euronews Internacional | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | CNN Internacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| National Geographic Wild | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Bloomberg Europe | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | France 24 Francia | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | BFM TV Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -734,7 +735,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Olympic Channel TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | FIBA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | World Padel Tour | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
-| Redbull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Red Bull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Meridiano Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Channel Fight | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Stadium USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
