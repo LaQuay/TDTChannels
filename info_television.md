@@ -50,7 +50,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Euronews | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Euronews | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El País | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
