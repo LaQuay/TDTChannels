@@ -1045,7 +1045,7 @@
 | Rinse FM UK | [stream](https://streamer-uk.rinse.fm:8443/stream) | [web](https://rinse.fm/player/) | [logo](https://graph.facebook.com/rinsefm/picture?width=200&height=200) | - | WICE |
 | LOS40 Argentina | [stream](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA) | [web](https://player.los40.com.ar) | [logo](https://graph.facebook.com/los40argentina/picture?width=200&height=200) | - | - |
 | FM Rock & Pop Argentina | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3) | [web](https://fmrockandpop.com) | [logo](https://graph.facebook.com/FmRockandPop/picture?width=200&height=200) | - | - |
-| RPP Noticias Perú | [stream](https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio) | [web](https://rpp.pe/audio/) | [logo](https://graph.facebook.com/rppnoticias/picture?width=200&height=200) | - | - |
+| RPP Noticias Perú | [stream](https://stream-155.zeno.fm/n0fc3vk78ehvv) | [web](https://rpp.pe/audio/) | [logo](https://graph.facebook.com/rppnoticias/picture?width=200&height=200) | - | - |
 | Radio La Zona Perú | [stream](https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio) | [web](https://audioplayer.pe/lazona) | [logo](https://graph.facebook.com/Radiolazona/picture?width=200&height=200) | - | - |
 | Radio Oxígeno Perú | [stream](https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio) | [web](https://radio.oxigeno.com.pe) | [logo](https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200) | - | - |
 | Radio Z Rock & Pop Perú | [stream](https://cpliv3.onliv3.com/stream/radiozeta) | [web](https://radioz.pe) | [logo](https://graph.facebook.com/ZRocknPop/picture?width=200&height=200) | - | - |
