@@ -195,6 +195,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal Luz Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Jerez TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | PTV Linares | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Écija Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
