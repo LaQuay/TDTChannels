@@ -974,7 +974,7 @@
 | Radio QK | [mp3](http://52.16.104.57:8000/radioqk_master.mp3) | [web](https://www.radioqk.org) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=200&height=200) | - | - |
 | Radio San Martín | [stream](https://stream.zeno.fm/rd9m3ynpeg0uv/;) | [web](https://sanmartinradio.blogspot.com) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=200&height=200) | - | - |
 | Medea FM | [stream](https://server1.radiocast.es/radio/8060/ondalangreo) | [web](https://www.medeafm.es/medea-langreo/) | [logo](https://graph.facebook.com/radiomedeafm/picture?width=200&height=200) | - | - |
-| Xtrema FM | [stream](https://server1.radiocast.es:8010/xtremafm) | [web](https://www.xtremafm.es) | [logo](https://graph.facebook.com/xtremafm/picture?width=200&height=200) | - | - |
+| Xtrema FM | [stream](https://server1.radiocast.es/listen/xtrema_fm/xtremafm) | [web](https://www.xtremafm.es) | [logo](https://graph.facebook.com/xtremafm/picture?width=200&height=200) | - | - |
 | APQ Radio | [stream](http://stm1.emiteonline.com:8012/apqradio) | [web](http://www.apqradio.es) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | WICE |
 | Radio Líder | [stream](https://server8.emitironline.com:18462/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 
