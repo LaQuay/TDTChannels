@@ -287,7 +287,6 @@
 | La 8 Valladolid | - | [web](https://www.cyltv.es/live/La8Valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | 8Valladolid.TV | W3U,EXTA |
 | La 8 Zamora | - | [web](https://www.cyltv.es/live/La8Zamora) | [logo](https://graph.facebook.com/la8zamora/picture?width=200&height=200) | 8Zamora.TV | W3U,EXTA |
 | 987 Live | [youtube](https://www.youtube.com/channel/UC41bdA6AiwEb34_S7KcMHOw/live) | [web](https://987tv.es) | [logo](https://pbs.twimg.com/profile_images/1496162819590479879/4sM-HkAD_200x200.jpg) | - | EMB |
-| TV Benavente | - | [web](https://www.tvbenavente.es) | [logo](https://graph.facebook.com/benaventetv/picture?width=200&height=200) | - | NOEM |
 | Canal 54 | [stream](https://player.twitch.tv/?channel=canal54tvburgos&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
 | TV Aranda | [m3u8](https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8) | [web](http://www.telearanda.es) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | - |
 | Canal 9 Soria | [stream](https://player.twitch.tv/?channel=canal9_soria&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://soriatv.com) | [logo](https://graph.facebook.com/100830372347460/picture?width=200&height=200) | - | EMB |
