@@ -307,7 +307,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | La 8 Valladolid | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | La 8 Zamora | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | 987 Live | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emisión eventual |
-| TV Benavente | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | Canal 54 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TV Aranda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 9 Soria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
