@@ -191,7 +191,7 @@
 | Cadena 100 Campo de Gibraltar | [stream](https://stream.zeno.fm/fkq1xae5bzzuv) | [web](https://www.copecampodegibraltar.com) | [logo](https://graph.facebook.com/CADENA100/picture?width=200&height=200) | - | - |
 | Cadena Dial Almería | [mp3](http://212.83.164.82:8002/dial.mp3) | [web](http://www.seralmeria.com/onlineradio/dial.php) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
 | Cadena Dial Andalucia Este | [stream](http://streaming5.elitecomunicacion.es:8226/stream) | [web](http://dialandaluciaeste.com) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
-| Cadena Dial Arahal | [mp3](https://20863.live.streamtheworld.com/DIAL_ASO_MORON.mp3) | [web](https://www.arahalaldia.com) | [logo](https://graph.facebook.com/ArahalalDia/picture?width=200&height=200) | - | - |
+| Cadena Dial Arahal | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/DIAL_ASO_MORON.mp3) | [web](https://www.arahalaldia.com) | [logo](https://graph.facebook.com/ArahalalDia/picture?width=200&height=200) | - | - |
 | Cadena Dial Levante | [mp3](http://212.83.164.82:8018/diallevante.mp3) | [web](https://www.lavozdealmeria.com/radios/diallevante) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
 | Cadena Dial Sierra - Alcaudete | [stream](http://streaming.cloud.innovasur.es:8810/alcaudete) | [web](https://dialsierra.com) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
 | Radiolé Almeria | [mp3](http://212.83.164.82:8005/radiole.mp3) | [web](http://www.seralmeria.com/onlineradio/radiole.html) | [logo](https://graph.facebook.com/radiole/picture?width=200&height=200) | - | - |
