@@ -120,6 +120,7 @@
 | Onda Cero | [m3u8](https://live-estudio.ondacero.es/estudio_oc-pull/video/master.m3u8) | [web](https://www.ondacero.es) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Del 40 al 1 | [m3u8](https://prisaradio-live.prisasd.com/live-content/directo40al1/master.m3u8) | [web](https://del40al1.los40.com) | [logo](https://graph.facebook.com/del40al1/picture?width=200&height=200) | - | - |
 | COPE | [m3u8](https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8) | [web](https://www.cope.es/directos/video) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| Rock FM | [m3u8](https://hls-directo03-cope-stream.flumotion.com/playlist.m3u8) | [web](https://www.rockfm.fm) | [logo](https://graph.facebook.com/RockFM/picture?width=200&height=200) | - | - |
 
 ## Streaming
 
