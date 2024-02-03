@@ -324,7 +324,7 @@
 | Lleida TV | [m3u8](https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://lleidatv.alacarta.cat/endirecte) | [logo](https://graph.facebook.com/LleidaTV/picture?width=200&height=200) | - | UAGLI |
 | TV Costa Brava | [m3u8](https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://www.tvcostabrava.com/canals-online/televisio-costa-brava-online) | [logo](https://graph.facebook.com/tvcostabrava/picture?width=200&height=200) | - | UAGLI |
 | La Xarxa | - | [web](https://laxarxames.cat/directe) | [logo](https://graph.facebook.com/laxarxa/picture?width=200&height=200) | - | - |
-| Olot TV | [m3u8](https://liveingesta318.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://www.olot.tv/olot-televisio-en-directe/) | [logo](https://graph.facebook.com/olotelevisio/picture?width=200&height=200) | - | UAGLI |
+| Olot TV | - | [web](https://laxarxames.cat/channel/8042) | [logo](https://graph.facebook.com/olotelevisio/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Canal Blau | - | [web](https://www.laxarxames.cat/player/8032) | [logo](https://graph.facebook.com/CanalBlau/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Canal Taronja Central | [m3u8](https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8) | [web](https://www.canaltaronja.cat/central/canal-taronja-en-directe/) | [logo](https://graph.facebook.com/taronja.cat/picture?width=200&height=200) | - | UAGLI |
 | TV L'Hospitalet | [m3u8](https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR) | [web](https://lhdigital.cat/en-directe/) | [logo](https://graph.facebook.com/lhdigital/picture?width=200&height=200) | - | UAGLI |
