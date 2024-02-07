@@ -334,6 +334,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | betevé | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terres de l'Ebre | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal TE24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Reus TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | El 9 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Empordà TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
