@@ -365,8 +365,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Telemadrid | [m3u8](https://telemadrid-23.secure2.footprint.net/master.m3u8) | [web](https://www.telemadrid.es/emision-en-directo/) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | Telemadrid.TV | - |
-| LaOtra | [m3u8](https://laotra-1-23.secure2.footprint.net/master.m3u8) | [web](https://www.telemadrid.es/emision-en-directo-laotra/) | [logo](https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg) | LaOtra.TV | - |
+| Telemadrid | [m3u8](https://telemadrid-23-secure2.akamaized.net/master.m3u8) | [web](https://www.telemadrid.es/emision-en-directo/) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | Telemadrid.TV | - |
+| LaOtra | [m3u8](https://laotra-1-23-secure2.akamaized.net/master.m3u8) | [web](https://www.telemadrid.es/emision-en-directo-laotra/) | [logo](https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg) | LaOtra.TV | - |
 | Webcam OndaMadrid | [m3u8](https://tvradio-1-23.secure2.footprint.net/master.m3u8) | [web](https://www.telemadrid.es/emision-en-directo-ondamadrid/) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.TV | - |
 | Teleganés | [m3u8](https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8) | [web](https://www.teleganes.com/en-directo/) | [logo](https://graph.facebook.com/1423419417957760/picture?width=200&height=200) | - | - |
 | Distrito TV | [m3u8](https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8) | [web](http://distritotv.es) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | - |
@@ -524,7 +524,7 @@
 | TV3.CAT | [m3u8](https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8) | [web](https://www.ccma.cat/3cat/directes/tv3/) | [logo](https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png) | TVC.TV | - |
 | EITB Basque | [m3u8](https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8) | [web](https://www.eitb.eus/es/television/eitb-basque/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETBSAT.TV | - |
 | TVG América | [m3u8](https://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
-| Telemadrid Internacional | [m3u8](https://new-international-23.secure2.footprint.net/index.m3u8) | [web](https://www.telemadrid.es/emision-en-directo-telemadrid-int/) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | TeleMadridInt.TV | - |
+| Telemadrid Internacional | [m3u8](https://new-international-23-secure2.akamaized.net/index.m3u8) | [web](https://www.telemadrid.es/emision-en-directo-telemadrid-int/) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | TeleMadridInt.TV | - |
 | ATV Andorra | [m3u8](https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C021/021/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVHD.TV | EXTA |
 | ATV Web Andorra | [m3u8](https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/022/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/canalweb) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVCW.TV | EXTA |
 | Lòria TV Andorra | [youtube](https://www.youtube.com/channel/UCCCnrECJpv84QKM4olodZOQ/live) | [web](http://loriatv.com) | [logo](https://graph.facebook.com/LoriaTV/picture?width=200&height=200) | - | EMB |
