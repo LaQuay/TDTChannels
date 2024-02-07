@@ -368,7 +368,7 @@
 | - | - | - | - | - | - |
 | Telemadrid | [m3u8](https://telemadrid-23-secure2.akamaized.net/master.m3u8) | [web](https://www.telemadrid.es/emision-en-directo/) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | Telemadrid.TV | - |
 | LaOtra | [m3u8](https://laotra-1-23-secure2.akamaized.net/master.m3u8) | [web](https://www.telemadrid.es/emision-en-directo-laotra/) | [logo](https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg) | LaOtra.TV | - |
-| Webcam OndaMadrid | [m3u8](https://tvradio-1-23.secure2.footprint.net/master.m3u8) | [web](https://www.telemadrid.es/emision-en-directo-ondamadrid/) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.TV | - |
+| Webcam OndaMadrid | [m3u8](https://tvradio-1-23-secure2.akamaized.net/master.m3u8) | [web](https://www.telemadrid.es/emision-en-directo-ondamadrid/) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.TV | - |
 | Teleganés | [m3u8](https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8) | [web](https://www.teleganes.com/en-directo/) | [logo](https://graph.facebook.com/1423419417957760/picture?width=200&height=200) | - | - |
 | Distrito TV | [m3u8](https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8) | [web](http://distritotv.es) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | - |
 | Déjate de Historias TV | [youtube](https://www.youtube.com/channel/UChMCkc02GVSi89TrvhbRasA/live) | [web](https://dejatedehistorias.es/en-directo-dejatetv-3) | [logo](https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200) | Dejate.TV | EMB |
