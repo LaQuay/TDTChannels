@@ -97,11 +97,11 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Cartoon Network Latino | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cartoon Network Latino | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | LEGO Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Paka Paka | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Paka Paka | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Eventuales
 
@@ -169,7 +169,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | - | - | - | - | - | - | - | - | - |
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 2 Accesible | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Sur Navidad | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CarnavalSur | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Andalucía Cocina | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Andalucía Turismo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite, previa subscripción en su web |
@@ -333,18 +333,19 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | betevé | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terres de l'Ebre | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal TE24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Reus TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | El 9 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Empordà TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | BDN | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TAC 12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terrassa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 21 Ebre | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Canal 21 Ebre | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | Necesita registro web en Xarxa+ |
 | Lleida TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV Costa Brava | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | La Xarxa | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
 | Olot TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| Canal Blau | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Canal Blau | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | Necesita registro web en Xarxa+ |
 | Canal Taronja Central | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV L'Hospitalet | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV del Berguedà | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
@@ -354,15 +355,16 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | VOTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Ulldecona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal Taronja Osona i Moianés | ✔ | ✔ | ✔ | - | - | - | ✔ | - |
-| tvmataró | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| RTV Vilafranca | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| tvmataró | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | Necesita registro web en Xarxa+ |
+| RTV Vilafranca | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | Necesita registro web en Xarxa+ |
+| Banyoles Televisió | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | Necesita registro web en Xarxa+ |
 | TV de Girona | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Piera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Cardedeu | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal 10 Empordà | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pirineus TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Vallès Visió | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| TV del Ripollès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| TV del Ripollès | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | Necesita registro web en Xarxa+ |
 | etv | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Mar TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Sant Cugat | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
