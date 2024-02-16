@@ -227,7 +227,7 @@
 | Oldies FM | [stream](https://h3004255.stratoserver.net:8000/oldiesfm) | [web](https://oldiesfm.net) | [logo](https://pbs.twimg.com/profile_images/1601901671105404929/NgHWOkze_200x200.jpg) | - | WICE |
 | Radio Salobreña | [stream](https://streaming2.elitecomunicacion.es:8078/stream) | [web](https://www.radiosalobrena.com/endirecto/) | [logo](https://graph.facebook.com/radiosalobrena/picture?width=200&height=200) | - | - |
 | Radio Martos | [stream](https://streaming2.elitecomunicacion.es:8234/stream) | [web](https://martos.es/index.php/nuevas-tecnologias/radio-martos/emision-en-directo/) | [logo](https://graph.facebook.com/radiomartos/picture?width=200&height=200) | - | - |
-| Cadena Luna | [stream](https://streaming.sonmedia.es/8010/stream) | [web](https://www.cadenaluna.es) | [logo](https://graph.facebook.com/CadenaLunaRadio/picture?width=200&height=200) | - | - |
+| Cadena Luna | [stream](https://streaming.cadenaluna.es:8010/radio) | [web](https://www.cadenaluna.es) | [logo](https://graph.facebook.com/CadenaLunaRadio/picture?width=200&height=200) | - | - |
 | La Mas FM | [stream](https://streaming2.elitecomunicacion.es:8142/stream) | [web](https://lamasfm.com) | [logo](https://graph.facebook.com/LAMASFM/picture?width=200&height=200) | - | - |
 | Cadena Latino | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=200&height=200) | - | - |
 | Radio Cartaya | [stream](https://eu1.lhdserver.es:9237/stream) | [web](http://www.radiocartaya.es) | [logo](https://graph.facebook.com/radiocartaya/picture?width=200&height=200) | - | - |
