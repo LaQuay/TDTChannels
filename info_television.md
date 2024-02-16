@@ -170,7 +170,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 2 Accesible | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CarnavalSur | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Cine Andaluz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Andalucía Cocina | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Andalucía Turismo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite, previa subscripción en su web |
