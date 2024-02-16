@@ -484,7 +484,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TEF | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fibwi Diario | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| SAM Ibiza | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| SAM Ibiza | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 
 ### La Rioja
 
