@@ -37,7 +37,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Be Mad | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | DMAX | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
+| El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cortan la emisión eventualmente |
 | mtmad 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | GH VIP 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Operación Triunfo | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |

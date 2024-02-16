@@ -4,8 +4,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 1 | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1688877.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
-| La 2 | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1688885.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
+| La 1 | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1688877.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8) - [m3u8 # 3] (https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8)| [web](https://www.rtve.es/play/videos/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | - |
+| La 2 | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1688885.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8) - [m3u8 # 3] (https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8)| [web](https://www.rtve.es/play/videos/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | - |
 | Antena 3 | - | [web](https://www.atresplayer.com/directos/antena3/) | [logo](https://graph.facebook.com/antena3/picture?width=200&height=200) | Antena3.TV | W3U,EMB,EXTA |
 | Cuatro | -| [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | W3U,EMB,EXTA |
 | Telecinco | - | [web](https://www.mitele.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=200&height=200) | Telecinco.TV | W3U,EMB,EXTA |
@@ -33,7 +33,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| 24h | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1694255.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/24h/) | [logo](https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png) | 24Horas.TV | - |
+| 24h | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1694255.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8) - [m3u8 # 3](https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8) | [web](https://www.rtve.es/play/videos/directo/24h/) | [logo](https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png) | 24Horas.TV | - |
 | Euronews | [m3u8](https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8) - [youtube](https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live) | [web](https://es.euronews.com/live) | [logo](https://graph.facebook.com/es.euronews/picture?width=200&height=200) | Euronews.TV | EMB |
 | El País | [m3u8](https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8) - [youtube](https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw/live) | [web](https://elpais.com) | [logo](https://graph.facebook.com/elpais/picture?width=200&height=200) | - | EMB |
 | La Vanguardia | [youtube](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live) | [web](https://www.lavanguardia.com) | [logo](https://graph.facebook.com/LaVanguardia/picture?width=200&height=200) | - | EMB |
@@ -46,7 +46,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Teledeporte | [m3u8 # GEO # 1](https://ztnr.rtve.es/ztnr/1712295.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8) | [web](https://www.rtve.es/play/videos/directo/tdp/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200) | TDP.TV | - |
+| Teledeporte | [m3u8 # GEO # 1](https://ztnr.rtve.es/ztnr/1712295.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8) - [m3u8 # 3](https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8) | [web](https://www.rtve.es/play/videos/directo/tdp/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200) | TDP.TV | - |
 | GOL Play | - | [web](https://www.goltelevision.com/en-directo) | [logo](https://graph.facebook.com/goltv.es/picture?width=200&height=200) | GOL.TV | W3U,EXTA |
 | Esport 3 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8) | [web](https://www.ccma.cat/3cat/directes/esport3/) | [logo](https://graph.facebook.com/Esport3/picture?width=200&height=200) | E3.TV | - |
 | ETB Deportes | [m3u8](https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8) - [m3u8 # 2](https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8) - [m3u8 # 3](https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200) | ETBD.TV | - |
@@ -75,7 +75,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Boing | - | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=200&height=200) | Boing.TV | W3U,EMB,EXTA |
-| Clan | [m3u8 # GEO](https://ztnr.rtve.es/ztnr/5466990.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/clan/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | - |
+| Clan | [m3u8 # GEO](https://ztnr.rtve.es/ztnr/5466990.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8) - [m3u8 # 3] (https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8) | [web](https://www.rtve.es/play/videos/directo/clan/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | - |
 | Kidz | [m3u8](https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8) | [web](https://www.atresplayer.com/directos/canal-kidz/) | [logo](https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200) | - | - |
 | Pequeradio TV | [m3u8](https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8) | [web](https://www.pequeradio.es) | [logo](https://graph.facebook.com/Pequeradio/picture?width=200&height=200) | - | - |
 | Pocoyó | [youtube](https://www.youtube.com/channel/UCnB5W_ZJgiDFnklejRGADxw/live) | [web](https://www.pocoyo.com) | [logo](https://graph.facebook.com/pocoyo/picture?width=200&height=200) | - | EMB |
