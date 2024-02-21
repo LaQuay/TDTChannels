@@ -336,7 +336,7 @@
 | RTV Ulldecona | [youtube](https://www.youtube.com/channel/UCONoC_N5uhMiorZWmDQ2XRg/live) | [web](https://www.uradio.cat) | [logo](https://graph.facebook.com/radioulldecona/picture?width=200&height=200) | - | EMB |
 | Canal Taronja Osona i Moianés | [m3u8](https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8) | [web](https://www.canaltaronja.cat/osona/canal-taronja-en-directe/) | [logo](https://graph.facebook.com/TaronjaTV/picture?width=200&height=200) | - | - |
 | tvmataró | - | [web](https://www.laxarxames.cat/player/6126) | [logo](https://graph.facebook.com/tvmataro/picture?width=200&height=200) | - | W3U,EMB,EXTA |
-| RTV Vilafranca | - | [web](https://www.laxarxames.cat/player/8043) | [logo](https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| Penedès TV | [m3u8](https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:directe.smil/playlist.m3u8) | [web](https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR) | [logo](https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200) | - | UAGLI |
 | Banyoles Televisió | - | [web](https://www.laxarxames.cat/player/8029) | [logo](https://graph.facebook.com/banyolestelevisio/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | TV de Girona | [m3u8](http://ventdelnord.tv:8080/girona/directe.m3u8) | [web](http://ventdelnord.tv/tvgirona) | [logo](https://graph.facebook.com/tvgirona/picture?width=200&height=200) | - | - |
 | Piera TV | [m3u8](http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8) | [web](http://08-produccions.cat/pieratv/) | [logo](https://yt3.ggpht.com/WtsIUXtvmo0QQFYhj9qbxpttucZF0ZElx8oju9r7ISrKfn9GHBuRR7s9JN4YRnzvbLr6GiUtWQ=s200) | - | - |
