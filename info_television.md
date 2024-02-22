@@ -364,7 +364,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal 10 Empordà | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pirineus TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Vallès Visió | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| TV del Ripollès | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | Necesita registro web en Xarxa+ |
+| TV del Ripollès | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | etv | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Mar TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Sant Cugat | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
