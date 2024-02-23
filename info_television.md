@@ -362,7 +362,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Piera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Cardedeu | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal 10 Empordà | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Pirineus TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Pirineus TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vallès Visió | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV del Ripollès | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | Necesita registro web en Xarxa+ |
 | etv | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
