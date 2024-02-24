@@ -372,7 +372,7 @@
 | Distrito TV | [m3u8](https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8) | [web](http://distritotv.es) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | - |
 | Déjate de Historias TV | [youtube](https://www.youtube.com/channel/UChMCkc02GVSi89TrvhbRasA/live) | [web](https://dejatedehistorias.es/en-directo-dejatetv-3) | [logo](https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200) | Dejate.TV | EMB |
 | Telesur Madrid | - | [web](https://telesurmadrid.wordpress.com) | [logo](https://graph.facebook.com/telesurmadrid/picture?width=200&height=200) | - | NOEM |
-| C33 Madrid | [m3u8](https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8) | [web](http://www.canal33.info) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
+| C33 Madrid | [m3u8](https://media2.streambrothers.com:1936/8140/8140/.m3u8) | [web](http://www.canal33.info) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
 | EsTuTele | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/estutele/estutele.m3u8) | [web](https://estutele.com) | [logo](https://graph.facebook.com/100146922067408/picture?width=200&height=200) | - | REFG1 |
 | Canal Red | [youtube](https://www.youtube.com/channel/UCky112obBMG68Nw5MrSNNPA/live) | [web](https://canalred.tv) | [logo](https://graph.facebook.com/canalredtelevision/picture?width=200&height=200) | - | EMB |
 
