@@ -350,7 +350,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal Taronja Anoia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Cugat Mèdia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | VOTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV Ulldecona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal Taronja Osona i Moianés | ✔ | ✔ | ✔ | - | - | - | ✔ | - |
 | tvmataró | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | Necesita registro web en Xarxa+ |
 | Penedès TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
