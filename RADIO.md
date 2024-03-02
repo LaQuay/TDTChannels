@@ -928,7 +928,7 @@
 | Radio Popular - Herri Irratia | [stream](https://nerbioi.radiopopular.eus/radiopopular1) | [web](https://radiopopular.com) | [logo](https://graph.facebook.com/herriirratia/picture?width=200&height=200) | - | - |
 | Radio Donosti | [mp3](https://nodo03-cloud01.streaming-pro.com:6139/radiodonosti.mp3) | [web](http://www.radiodonosti.com) | [logo](https://graph.facebook.com/radiodonosti/picture?width=200&height=200) | - | - |
 | Santurtzi Irratia | [stream](https://secureradio.eu:6104/;) | [web](https://www.stzirratia.com) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
-| Bilbo Hiria Irratia | [stream](https://s3radio.hostingwebcloud.com/proxy/bilbohiria/stream) | [web](https://www.bilbohiria.eus/zuzen1/) | [logo](https://graph.facebook.com/bilbohiria/picture?width=200&height=200) | - | - |
+| Bilbo Hiria Irratia | [stream](https://server8.emitironline.com:18392/stream) | [web](https://www.bilbohiria.eus/zuzen1/) | [logo](https://graph.facebook.com/bilbohiria/picture?width=200&height=200) | - | - |
 | Mozoilo Irratia | [stream](https://radioserver11.profesionalhosting.com/proxy/alettwge?mp=/stream) | [web](http://mozoiloirratia.eus/play/) | [logo](https://pbs.twimg.com/profile_images/1484550043474485254/drNX1pMl_200x200.jpg) | - | - |
 | Activate FM | [stream](https://streaming12.elitecomunicacion.es:8085/stream) | [web](https://www.activate.fm) | [logo](https://graph.facebook.com/activatespain/picture?width=200&height=200) | - | - |
 | Radio Gorbea | [mp3](https://nodo09-cloud01.streaming-pro.com:6135/radiogorbea.mp3) | [web](https://www.radiogorbea.com) | [logo](https://graph.facebook.com/radiogorbea/picture?width=200&height=200) | - | - |
