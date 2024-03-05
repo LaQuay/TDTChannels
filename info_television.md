@@ -662,7 +662,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Unicanal Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Nicavisión TV Nicaragua | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | WTV Nicaragua | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 33 El Salvador | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Canal 12 El Salvador | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TeleDiario Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | CNN Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
