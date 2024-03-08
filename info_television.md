@@ -339,7 +339,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal Terrassa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 21 Ebre | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | Necesita registro web en Xarxa+ |
 | Lleida TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| TV Costa Brava | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| TV Costa Brava | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Xarxa | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
 | Olot TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Blau | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | Necesita registro web en Xarxa+ |
