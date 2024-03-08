@@ -904,7 +904,6 @@
 | Radio 5 País Vasco | [stream](https://dispatcher.rndfnk.com/crtve/rne5/vit/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_eus-live/3894782/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | Radio Marca Bilbao | [stream](https://server8.emitironline.com:18475/stream) | [web](https://www.radiomarcabilbao.com) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | Radio Marca Donostia | [stream](https://marca-sansebastian.streaming-pro.com:6101/live) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
-| Habla Radio | [mp3](http://s33.myradiostream.com/15294/;stream.mp3) | [web](https://hablaradio.com/) | [logo](https://graph.facebook.com/HablaRadioSS/picture?width=200&height=200) | - | - |
 | Radio Marca Vitoria | [mp3](https://control.streaming-pro.com:6014/marcavitoria.mp3) | [web](http://kiroleros.com) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | SER Bilbao | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BILBAO.mp3) | [web](https://cadenaser.com/radio-bilbao/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Bilbao.Radio | - |
 | SER Eibar | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_EIBAR.mp3) | [web](https://cadenaser.com/radio-eibar/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Eibar.Radio | - |
@@ -938,6 +937,7 @@
 | Durango Irratia | [mp3](https://durangoirratia.streaming-pro.com:6006/durangoirratia.mp3) | [web](https://durangoirratia.durango.eus) | [logo](https://pbs.twimg.com/profile_images/674943257789505537/0P8QkXHx_200x200.jpg) | - | - |
 | Donostia Kultura Irratia | [mp3](https://s35.myradiostream.com:26101/listen.mp3) | [web](https://irratia.donostiakultura.eus) | [logo](https://graph.facebook.com/DKirratia/picture?width=200&height=200) | - | - |
 | Radio Líder | [stream](https://server8.emitironline.com:18792/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
+| Habla Radio | [mp3](http://s33.myradiostream.com/15294/;stream.mp3) | [web](https://hablaradio.com) | [logo](https://graph.facebook.com/HablaRadioSS/picture?width=200&height=200) | - | - |
 
 ### P. de Asturias
 
