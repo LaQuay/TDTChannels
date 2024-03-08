@@ -107,7 +107,7 @@
 | RTVE Cuéntame | [m3u8](https://ztnr.rtve.es/ztnr/6909843.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-cuentame/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
 | RTVE Somos Cine | [m3u8](https://ztnr.rtve.es/ztnr/6909845.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-cine/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
 | RTVE Docs | [m3u8](https://ztnr.rtve.es/ztnr/6987938.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-docs/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
-| RTVE La promesa | [m3u8](https://ztnr.rtve.es/ztnr/2472039.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-docs/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
+| RTVE La promesa | [m3u8](https://ztnr.rtve.es/ztnr/2472039.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-promesa/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
 | Mitele Comedia | - | [web](https://www.mitele.es/directo/mitele-comedia/) | [logo](https://graph.facebook.com/mitele.es/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Mitele Viajes | - | [web](https://www.mitele.es/directo/mitele-viajes/) | [logo](https://graph.facebook.com/mitele.es/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Canal Parlamento | [m3u8](https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8) | [web](https://www.congreso.es/actualidad/canal-parlamento) | [logo](https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200) | - | - |
