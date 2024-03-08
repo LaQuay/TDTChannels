@@ -384,7 +384,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| À Punt | [m3u8](https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8) | [web](https://apuntmedia.es/va/directe/tv) | [logo](https://graph.facebook.com/apuntmedia/picture?width=200&height=200) | APUNT.TV | - |
+| À Punt | [m3u8](https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8) | [web](https://apuntmedia.es/va/directe/tv) | [logo](https://graph.facebook.com/apuntmedia/picture?width=200&height=200) | APUNT.TV | - |
 | 7 TeleValencia | [m3u8](https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8) | [web](https://7televalencia.com/directo-7televalencia/) | [logo](https://pbs.twimg.com/profile_images/1762438298276929536/SLxbr2oh_200x200.jpg) | - | - |
 | Intercomarcal TV | [m3u8 # 1](https://streamingtvi.gestec-video.com/hls/tvixa.m3u8) - [m3u8 # 2](https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8) - [m3u8 # 3](https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8) | [web](https://www.intercomarcal.com) | [logo](https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200) | - | NONAV |
 | TeleElx | [m3u8](https://tvdirecto.teleelx.es/stream/teleelx.m3u8) | [web](https://teleelx.es/directo/) | [logo](https://graph.facebook.com/teleelx/picture?width=200&height=200) | TeleElx.TV | NONAV |
