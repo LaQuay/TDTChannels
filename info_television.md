@@ -367,7 +367,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Sant Cugat | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Fitel Television | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV10 Sesrovires | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV de Sant Martí | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ### Ceuta
