@@ -750,10 +750,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Cadena Elite España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Molahits TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Urban TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| EuroLatina TV España | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Spektra TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | STZ Telebista España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| VIVA RTV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
