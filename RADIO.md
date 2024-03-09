@@ -325,7 +325,7 @@
 | Radio San Borondón | [stream](http://s3radio.hostingwebcloud.com:8053/stream) | [web](http://www.sanborondon.info/images/_streamer/rsb.html) | [logo](https://graph.facebook.com/RSanBorondon/picture?width=200&height=200) | - | WICE |
 | MIX FM Radio | [stream](https://server10.emitironline.com:8064/stream) | [web](https://www.mixfm-radio.com) | [logo](https://yt3.ggpht.com/ytc/AKedOLQaktY1_Rv_MrWTve_Lj8JyaB9EektpPVByC6G0=s200-c-k-c0x00ffffff-no-rj) | - | - |
 | La Mueve | [mp3](https://relay.stream.enacast-cloud.com:40227/lamuevefmHD.mp3) | [web](https://www.lamueve.com) | [logo](https://graph.facebook.com/lamueveradio/picture?width=200&height=200) | - | - |
-| Onda Gran Canaria | [stream](https://cast2.shoutcasting.uk/8030/stream) | [web](https://www.ondagrancanaria.com) | [logo](https://pbs.twimg.com/profile_images/1752020883143573505/gpI6G0Ku_200x200.png) | - | - |
+| 9 Radio | [stream](https://app.sonicpanelradio.com/8072/stream) | [web](https://9radio.es/) | [logo](https://graph.facebook.com/9radiocanarias/picture?width=200&height=200) | - | - |
 | Radio Teide | [stream](http://c01.lexycast.de:5070/.mp3) | [web](https://www.radioteide.eu) | [logo](https://graph.facebook.com/RadioTeide/picture?width=200&height=200) | - | - |
 
 ### Cantabria
