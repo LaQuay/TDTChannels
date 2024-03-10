@@ -147,7 +147,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Canal Sur Andalucía | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8) - [youtube](https://www.youtube.com/channel/UChtLgH7ZJLqLGWJpBnzy9Lg/live) | [web](https://www.canalsurmas.es/videos/category/5247-directos) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | CanalSurA.TV | - |
-| Canal Sur 2 Accesible | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/42791-canal-sur-2-accesible) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
+| Canal Sur 2 Accesible | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/77595-canal-sur-2-accesible) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
 | Andalucía Cocina | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8) | [web](https://vivaespaña.tv/user/live-tv/ch201-andalucia-cocina/11) | [logo](https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200) | - | REFG1 |
 | Andalucía Turismo | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8) | [web](https://xn--vivaespaa-s6a.tv/user/live-tv/ch200-andalucia-turismo/12) | [logo](https://yt3.googleusercontent.com/ytc/APkrFKYsl5e6jEIMtXIoTUHvkJqXxDfASrvQP_QFRRww=s200) | - | REFG1 |
 | 7TV Andalucía | - | [web](https://7tvandalucia.es) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | 7Andalucia.TV | NOEM |
@@ -434,7 +434,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TVG | [m3u8](https://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGAL.TV | - |
+| TVG | [m3u8](https://europa-crtvg.flumotion.com/playlist.m3u8) | [web](https://www.agalega.gal/videos/76475-tvg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGAL.TV | - |
 | TVG 2 | [m3u8](https://crtvg-tvg2.flumotion.cloud/playlist.m3u8) | [web](https://www.agalega.gal/videos/77550-tv-g2) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVG2.TV | - |
 | TVG Xabarin | [m3u8](https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8) | [web](https://www.agalega.gal/videos/76534-xabarin-tv) | [logo](https://graph.facebook.com/oxabarinclub/picture?width=200&height=200) | - | - |
 | TVG Pequerrech@s | [m3u8](https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8) | [web](https://www.agalega.gal/videos/76535-xabarin-r1) | [logo](https://graph.facebook.com/oxabarinclub/picture?width=200&height=200) | - | - |
