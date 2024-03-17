@@ -333,7 +333,7 @@
 | tvmataró | - | [web](https://www.laxarxames.cat/player/6126) | [logo](https://graph.facebook.com/tvmataro/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Penedès TV | [m3u8](https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:directe.smil/playlist.m3u8?DVR) | [web](https://www.rtvvilafranca.cat/penedes-televisio-en-directe/) | [logo](https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200) | - | UAGLI |
 | Banyoles Televisió | - | [web](https://www.laxarxames.cat/player/8029) | [logo](https://graph.facebook.com/banyolestelevisio/picture?width=200&height=200) | - | W3U,EMB,EXTA |
-| TV de Girona | [m3u8](http://ventdelnord.tv:8080/girona/directe.m3u8) | [web](http://ventdelnord.tv/tvgirona) | [logo](https://graph.facebook.com/tvgirona/picture?width=200&height=200) | - | - |
+| TV de Girona | [m3u8](https://ventdelnord.tv:8080/girona/directe.m3u8) | [web](https://ventdelnord.tv/ftvgirona) | [logo](https://graph.facebook.com/tvgirona/picture?width=200&height=200) | - | - |
 | Piera TV | [m3u8](http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8) | [web](http://08-produccions.cat/pieratv/) | [logo](https://yt3.ggpht.com/WtsIUXtvmo0QQFYhj9qbxpttucZF0ZElx8oju9r7ISrKfn9GHBuRR7s9JN4YRnzvbLr6GiUtWQ=s200) | - | - |
 | RTV Cardedeu | [m3u8](https://liveingesta318.cdnmedia.tv/tvcardedeulive/smil:rtmp01.smil/playlist.m3u8?DVR) | [web](https://www.rtvc.cat/tele/) | [logo](https://graph.facebook.com/TelevisioCardedeu/picture?width=200&height=200) | - | UAGLI |
 | Canal 10 Empordà | [m3u8](https://ventdelnord.tv:8080/escala/directe.m3u8) | [web](http://www.canal10.cat/endirecte) | [logo](https://graph.facebook.com/canal10emporda/picture?width=200&height=200) | - | - |
