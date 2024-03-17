@@ -989,7 +989,7 @@
 | SER Lorca | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LORCA.mp3) | [web](https://cadenaser.com/radio-lorca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Lorca.Radio | - |
 | SER Murcia | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3) | [web](https://cadenaser.com/radio-murcia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Murcia.Radio | - |
 | COPE Cartagena | [mp3](https://wecast-b01-01.flumotion.com/copesedes/cartagena.mp3) | [web](https://www.cope.es/directos/cartagena) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Espuña | [stream](http://5.135.183.124:8110/stream) | [web](https://copealhama.es.tl/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Espuña | [stream](http://5.135.183.124:8110/stream) | [web](https://copealhama.es.tl) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Cartagena | [mp3](https://wecast09-h-cloud.flumotion.com/copesedes/cartagena.mp3) | [web](https://www.cope.es/directos/cartagena) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Espuña | [stream](http://5.135.183.124:8110/stream) | [web](https://copealhama.es.tl/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Lorca | [mp3](https://wecast09-h-cloud.flumotion.com/copesedes/lorca.mp3) | [web](https://www.cope.es/directos/lorca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
