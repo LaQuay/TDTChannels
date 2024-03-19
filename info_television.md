@@ -389,6 +389,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Telesur Madrid | No emite en directo por Internet |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | EsTuTele | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 TV Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Red | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ### C. Foral de Navarra
