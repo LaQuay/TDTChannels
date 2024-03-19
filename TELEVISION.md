@@ -369,6 +369,7 @@
 | Telesur Madrid | - | [web](https://telesurmadrid.wordpress.com) | [logo](https://graph.facebook.com/telesurmadrid/picture?width=200&height=200) | - | NOEM |
 | C33 Madrid | [m3u8](https://media2.streambrothers.com:1936/8140/8140/.m3u8) | [web](http://www.canal33.info) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
 | EsTuTele | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/estutele/estutele.m3u8) | [web](https://estutele.com) | [logo](https://graph.facebook.com/100146922067408/picture?width=200&height=200) | - | REFG1 |
+| Canal 4 TV Madrid | [m3u8](https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8) | [web](https://www.grup4.com/?page_id=14505) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | - |
 | Canal Red | [youtube](https://www.youtube.com/channel/UCky112obBMG68Nw5MrSNNPA/live) | [web](https://canalred.tv) | [logo](https://graph.facebook.com/canalredtelevision/picture?width=200&height=200) | - | EMB |
 
 ### C. Foral de Navarra
