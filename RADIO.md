@@ -66,7 +66,6 @@
 | Loca FM Industrial | [stream](http://s02.fjperezdj.com:8076/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Drum&Bass | [stream](http://s02.fjperezdj.com:8065/live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Urban | [stream](http://locafm02.we4stream.com:8015/live) | [web](http://www.locafm.com/loca-urban/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
-| Clásica FM Radio | [stream](https://edge.mixlr.com/channel/asnfw) | [web](https://clasicafmradio.es/cfm-escucha/) | [logo](https://graph.facebook.com/clasicafmradio/picture?width=200&height=200) | - | - |
 | digitalHits FM | [stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](http://www.digitalhits.cat/directe/) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
 | La Urban Radio | [mp3](https://st1.urbanrevolution.es:8443/laurbanfm.mp3) | [web](https://www.urbanrevolution.es/?page_id=80) | [logo](https://graph.facebook.com/fmurban/picture?width=200&height=200) | - | - |
 | Ushuaia Radio | [stream](https://s4.radio.co/sc6f29e098/listen) | [web](https://ushuaia.radio/es/) | [logo](https://yt3.googleusercontent.com/QOZ-pdDPKRBJhZ1w3Qe6y9r9fO243sDLlgLHTyL3sq7E2dldgkKeGlartFMy5YoQ5CQQcGBQgQ=s200) | - | - |
@@ -533,7 +532,6 @@
 | Ràdio Maricel | [mp3](https://radioserver.radiomaricel.cat/proxy/radio_maricel?mp=/stream.mp3) | [web](http://www.radiomaricel.cat) | [logo](https://graph.facebook.com/radiomaricel/picture?width=200&height=200) | - | - |
 | Hit103 | [mp3](http://streaming.enantena.com:8000/radiovalls128.mp3) | [web](http://hit103.cat/3405-2/) | [logo](https://graph.facebook.com/Hit103/picture?width=200&height=200) | - | - |
 | Styl Manresa | [stream](http://s2.nexuscast.com:8024/;) | [web](http://www.stylfm.com) | [logo](https://graph.facebook.com/stylfm/picture?width=200&height=200) | - | - |
-| Styl Classics Manresa | [stream](http://s2.nexuscast.com:8042/;) | [web](http://www.stylclassics.com) | [logo](https://graph.facebook.com/stylfm/picture?width=200&height=200) | - | - |
 | Ona de Sants FM | [stream](https://edge.mixlr.com/channel/dlyio) | [web](https://onadesants.cat) | [logo](https://graph.facebook.com/Radioonadesants/picture?width=200&height=200) | - | WICE |
 | Constantí Ràdio | [mp3](http://streaming.enantena.com:8000/radioconstantiSD.mp3) - [m3u8](http://live10.cdnmedia.tv/ocasionalradio2live/smil:live.smil/master.m3u8) | [web](http://www.constantiradio.cat) | [logo](https://graph.facebook.com/ConstantiRadio/picture?width=200&height=200) | - | - |
 | PròximaFM | [stream](http://91.187.93.115:8000/;stream/1) | [web](http://www.proxima.cat) | [logo](https://graph.facebook.com/proximafm/picture?width=200&height=200) | - | - |
