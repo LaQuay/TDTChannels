@@ -245,7 +245,7 @@
 | Radio Almaina | [ogg](http://blimp.streampunk.cc/_stream/almaina.ogg) | [web](https://www.radioalmaina.org/emision.html) | [logo](https://pbs.twimg.com/profile_images/2117013357/perfil-facebook_200x200.jpg) | - | - |
 | Radio Arcos | [mp3](https://streaming2.elitecomunicacion.es:8098/stream?type=.mp3) | [web](https://www.radioarcos.com) | [logo](https://graph.facebook.com/RadioArcos/picture?width=200&height=200) | - | - |
 | Radio Benamocarra | [mp3](http://91.121.174.141:28908/;mp3) | [web](http://radiobenamocarra.es) | [logo](https://graph.facebook.com/radiobenamocarra/picture?width=200&height=200) | - | - |
-| Noventa Radio | [mp3](https://streaming.noventaserver.com/listen/noventa_radio/radio.mp3) | [web](https://noventadigital.es/noventaradio/) | [logo](https://pbs.twimg.com/profile_images/1709650236564500480/gIQQSYTa_200x200.jpg) | - | - |
+| Noventa Radio | [mp3](https://streaming.noventaserver.com/listen/noventa_radio/radio.mp3) | [web](https://noventadigital.es/noventaradio/) | [logo](https://noventadigital.es/wp-content/uploads/2023/10/logod.jpg) | - | - |
 | 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](http://www.90fm.es) | [logo](https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg) | - | - |
 
 ### Aragón
