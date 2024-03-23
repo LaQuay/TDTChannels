@@ -563,7 +563,7 @@
 | Radio Nacional Ceuta | [stream](https://dispatcher.rndfnk.com/crtve/rne1/ceu/mp3/high) | [web](https://www.rtve.es/play/audios/programa/radio1-ceuta/4143261/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Ceuta | [stream](https://dispatcher.rndfnk.com/crtve/rne5/ceu/mp3/high) | [web](https://www.rtve.es/play/audios/programa/radio5-ceuta/4143281/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | SER Ceuta | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CEUTA.mp3) | [web](https://cadenaser.com/radio-ceuta/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Ceuta.Radio | - |
-| Onda Cero Ceuta | [m3u8](https://livefastly-webs.ondacero.es/ceuta-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/ceuta/ceuta/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Ceuta.Radio | - |
+| Onda Cero Ceuta | [m3u8](https://atres-live.ondacero.es/live/delegaciones/oc/ceuta/master.m3u8) | [web](https://www.ondacero.es/emisoras/ceuta/ceuta/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Ceuta.Radio | - |
 
 ### C. de Madrid
 
@@ -583,7 +583,7 @@
 | COPE de la Sierra | [mp3](https://wecast13-h-cloud.flumotion.com/copesedes/villalba.mp3) | [web](https://www.cope.es/directos/villalba) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Pinares | [stream](http://server9.emitironline.com:10928/;) | [web](https://copepinares.es) | [logo](https://graph.facebook.com/COPEPINARES/picture?width=200&height=200) | - | - |
 | Onda Cero Alcalá de Henares | [m3u8](https://livefastly-webs.ondacero.es/alcala-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/alcala-de-henares/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_AlcaladeHenares.Radio | - |
-| Onda Cero Madrid | [m3u8](https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/madrid/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Madrid.Radio | - |
+| Onda Cero Madrid | [m3u8](https://atres-live.ondacero.es/live/ondacero/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/madrid/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Madrid.Radio | - |
 | Onda Cero Madrid Sur | [stream](https://node-25.zeno.fm/dzqaazsn3p8uv) | [web](https://www.ondaceromadridsur.es/directo) | [logo](https://graph.facebook.com/ondaceromadridsur/picture?width=200&height=200) | - | - |
 | Onda Cero Sierra | [stream](https://liveradio.com.es:8042/stream) | [web](https://lavozdelasierra.es/onda-cero-sierra/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Sierra.Radio | WICE |
 | Vaughan Radio | [mp3](https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3) | [web](https://grupovaughan.com/vaughan-radio/) | [logo](https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200) | - | - |
@@ -639,7 +639,7 @@
 | COPE Estella | [stream](http://server1.emitironline.com:9866/radio) | [web](http://radioestella.com/inicio/) | [logo](https://pbs.twimg.com/profile_images/3722393260/a28c650e8db40bef24f20a2a184d2b8e_200x200.png) | - | - |
 | COPE Pamplona | [mp3](https://wecast08-h-cloud.flumotion.com/copesedes/pamplona.mp3) | [web](https://www.cope.es/directos/pamplona) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Tudela | [mp3](https://wecast08-h-cloud.flumotion.com/copesedes/tudela.mp3) | [web](https://www.cope.es/directos/tudela) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| Onda Cero Pamplona | [m3u8](https://livefastly-webs.ondacero.es/pamplona-pull/audio/master.m3u8) - [m3u8 # 2](https://livefastly-webs.ondacero.es/pamplonaeventos-pull/audio/playlist.m3u8) | [web](https://www.ondacero.es/emisoras/navarra/pamplona/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Pamplona.Radio | - |
+| Onda Cero Pamplona | [m3u8](https://atres-live.ondacero.es/live/delegaciones/oc/pamplona/master.m3u8) - [m3u8 # 2](https://livefastly-webs.ondacero.es/pamplonaeventos-pull/audio/playlist.m3u8) | [web](https://www.ondacero.es/emisoras/navarra/pamplona/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Pamplona.Radio | - |
 | Cadena 100 Estella | [stream](http://server9.emitironline.com:9373/radio) | [web](http://radioestella.com) | [logo](https://graph.facebook.com/CADENA100/picture?width=200&height=200) | - | - |
 | Europa FM Pamplona | [m3u8](https://atres-live.europafm.com/delegaciones/efm/pamplona/master.m3u8) | [web](https://www.europafm.com/frecuencias/pamplona/) | [logo](https://graph.facebook.com/europafmnavarra/picture?width=200&height=200) | - | - |
 | esRadio Tudela | [stream](https://azura.abcorp.es/radio/8110/stream) | [web](http://www.tudelahoy.com/estaticas/radio-tudela-esradio-960-fm.html) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
