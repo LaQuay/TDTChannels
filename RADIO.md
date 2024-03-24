@@ -624,7 +624,7 @@
 | Radio Univ. Alcalá Henares | [stream](https://streaming2.elitecomunicacion.es:8066/stream) | [web](http://www.ruah.es/emision-online/) | [logo](https://graph.facebook.com/ruahradio/picture?width=200&height=200) | - | - |
 | Pozuelo Radio | [stream](http://5.135.183.124:8138/stream) | [web](https://www.pozueloradio.es) | [logo](https://graph.facebook.com/pozueloradio/picture?width=200&height=200) | - | - |
 | Antena CEMU | [stream](http://str1.mediatelekom.net:8110/;) | [web](http://antenacemu.com/emision-online/) | [logo](https://graph.facebook.com/401769933317531/picture?width=200&height=200) | - | - |
-| Sol Radio | [stream](https://server.spainbroadcast.net/8054/stream) | [web](https://solradiomadrid.com) | [logo](https://graph.facebook.com/solradio99.8/picture?width=200&height=200) | - | - |
+| Sol Radio | [stream](https://azura.abcorp.es/radio/8220/solradio) | [web](https://solradiomadrid.com) | [logo](https://graph.facebook.com/solradio99.8/picture?width=200&height=200) | - | - |
 | Onda Vallekana | [stream](https://sonic.sistemahost.es/8152/;) | [web](https://www.ondavallekana.es) | [logo](https://pbs.twimg.com/profile_images/1447528417654710279/IlV_01hC_200x200.jpg) | - | - |
 
 ### C. Foral de Navarra
