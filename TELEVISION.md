@@ -475,7 +475,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Melilla TV | [m3u8](https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8) | [web](https://playmelilla.es/directo) | [logo](https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200) | MelillaTV.TV | - |
-| Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8) | [web](http://populartvmelilla.com) | [logo](https://graph.facebook.com/populartvml/picture?width=200&height=200) | - | - |
+| Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8) | [web](http://populartvmelilla.com) | [logo](https://pbs.twimg.com/profile_images/1269158662444060673/z6oX-wsR_200x200.jpg) | - | - |
 
 ### País Vasco
 
