@@ -685,8 +685,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| AfricaNews | [youtube # EN](https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live) | [web](https://www.channelstv.com) | [logo](https://graph.facebook.com/africanews.channel/picture?width=200&height=200) | - | EMB |
-| Joy News TV Ghana | [stream](https://www.dailymotion.com/embed/video/x7w7197?autoplay=1) | [web](https://www.myjoyonline.com/media/joy-news-live) | [logo](https://graph.facebook.com/JoyNewsOnTV/picture?width=200&height=200) | - | EMB |
+| AfricaNews | [youtube # EN](https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live) | [web](https://www.africanews.com/live/) | [logo](https://graph.facebook.com/africanews.channel/picture?width=200&height=200) | - | EMB |
+| Joy News TV Ghana | [youtube # EN](https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw/live) | [web](https://www.myjoyonline.com/media/joy-news-live) | [logo](https://graph.facebook.com/JoyNewsOnTV/picture?width=200&height=200) | - | EMB |
 | Channels TV Nigeria | [youtube # EN](https://www.youtube.com/channel/UCEXGDNclvmg6RW0vipJYsTQ/live) | [web](https://www.channelstv.com) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | EMB |
 | NBS TV Uganda | [m3u8 # EN](https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/10-hls/live-media.m3u8) | [web](https://nbs.ug/live/) | [logo](https://graph.facebook.com/nbstelevision/picture?width=200&height=200) | - | - |
 | TVGE 1 Guinea Ecuatorial | [m3u8](https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](http://www.tvgelive.gq/images/logo-dark.png) | - | - |
