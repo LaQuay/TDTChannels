@@ -801,7 +801,6 @@
 | RTV Vida España | [m3u8](https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/television/) | [logo](https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg) | - | - |
 | Solidaria TV España | [m3u8](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](https://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | - | - |
 | TBN España | [m3u8](https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8) | [web](https://xn--tbnespaa-j3a.es) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
-| Betania TV España | [stream](https://player.twitch.tv/?channel=betania_tv&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.betania.tv) | [logo](https://graph.facebook.com/104210188885428/picture?width=200&height=200) | - | EMB |
 | Cetelmon TV España | [m3u8](http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8) | [web](https://www.cetelmon.tv) | [logo](https://graph.facebook.com/cetelmon.television/picture?width=200&height=200) | - | - |
 | Vatican News | [youtube](https://www.youtube.com/channel/UCnB5vfb9FMMNTnC6-kAT3fQ/live) | [web](https://www.vaticannews.va/es.html) | [logo](https://graph.facebook.com/vaticannews.es/picture?width=200&height=200) | - | EMB |
 | ESNE | - | [web](https://elsembradorministries.com/esne_deployment/tv) | [logo](https://graph.facebook.com/elsembradoresne/picture?width=200&height=200) | - | W3U,EXTA |
