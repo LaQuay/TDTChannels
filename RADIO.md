@@ -512,7 +512,7 @@
 | Ràdio Capital | [stream](http://streaming.martiproduccions.com:8000/capitalhd) | [web](https://www.radiocapital.cat/endirecte/) | [logo](https://graph.facebook.com/capitalemporda/picture?width=200&height=200) | - | WICE |
 | Altafulla Ràdio | [mp3](http://streaming.enantena.com:8000/altafulla128.mp3) - [stream](https://enacast.com/altafullaradio/streams/HD) | [web](http://altafullaradio.cat) | [logo](https://graph.facebook.com/altafulla.radio/picture?width=200&height=200) | - | - |
 | La Marina FM | [stream](https://streaming2.elitecomunicacion.es:8248/stream) | [web](http://lamarina.cat/endirecte/) | [logo](https://graph.facebook.com/lamarinacat/picture?width=200&height=200) | - | WICE |
-| Cerdanyola Radio | [mp3](https://wecast-b01-04.flumotion.com/ajcerdanyola/live.mp3) | [web](https://cerdanyola.info/cerdanyola-radio) | [logo](https://graph.facebook.com/cerdanyola.info/picture?width=200&height=200) | - | - |
+| Cerdanyola Radio | [mp3](https://wecast20-h-cloud.flumotion.com/ajcerdanyola/live.mp3) | [web](https://www.cerdanyola.info/cerdanyola-radio/live) | [logo](https://graph.facebook.com/cerdanyola.info/picture?width=200&height=200) | - | - |
 | Mataró Ràdio | [mp3](https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3) | [web](https://mataroaudiovisual.cat/radio) | [logo](https://graph.facebook.com/mataroradiomunicipal/picture?width=200&height=200) | - | - |
 | Can Deu FM | [stream](https://radios.sonidoshd.com/8078/stream) | [web](http://candeufm.com) | [logo](https://graph.facebook.com/candeufm/picture?width=200&height=200) | - | WICE |
 | Cooltura FM | [mp3](https://server9.emitironline.com:19244/) | [web](http://coolturafm.com) | [logo](https://graph.facebook.com/coolturafm/picture?width=200&height=200) | - | - |
