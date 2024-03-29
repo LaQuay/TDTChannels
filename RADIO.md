@@ -995,7 +995,6 @@
 | Onda Cero Cartagena | [m3u8](https://livefastly-webs.ondacero.es/cartagena-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/murcia/cartagena/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Cartagena.Radio | - |
 | Onda Cero Murcia | [m3u8](https://livefastly-webs.ondacero.es/murcia-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/murcia/murcia/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Murcia.Radio | - |
 | Onda Cero Yecla | [m3u8](https://livefastly-webs.ondacero.es/yecla-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/murcia/yecla/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Yecla.Radio | - |
-| La Jungla Yecla | [stream](https://streaming12.elitecomunicacion.es:8204/stream) | [web](https://www.lajunglayecla.com/en-directo/) | [logo](https://graph.facebook.com/lajunglaradioyecla/picture?width=200&height=200) | - | - |
 | Onda Cero Noroeste | [stream](http://stream.ondaceronoroeste.es:8000/stream) | [web](https://www.ondaceronoroeste.es/directo.html) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Noroeste.Radio | WICE |
 | Onda Regional de Murcia | [m3u8](https://crmlive.redctnet.es/liveedge/orm/orm/playlist.m3u8) | [web](https://www.orm.es/directo/orm/) | [logo](https://graph.facebook.com/OndaRegional/picture?width=200&height=200) | - | - |
 | Onda Regional Música | [m3u8](https://crmlive.redctnet.es/liveedge/orm/ormmusical/playlist.m3u8) | [web](https://www.orm.es/directo/or-musica/) | [logo](https://graph.facebook.com/OndaRegional/picture?width=200&height=200) | - | - |
@@ -1010,6 +1009,7 @@
 | Radio Calasparra | [stream](http://213.96.195.21:8000/;) | [web](http://www.radiocalasparra.es) | [logo](https://graph.facebook.com/RadioCalasparra/picture?width=200&height=200) | - | - |
 | Caravaca Radio | [stream](http://84.232.12.14:8000/caravacaradio) | [web](https://www.caravacaradio.com) | [logo](https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200) | - | WICE |
 | Inter Radio | [mp3](https://sonic.mediatelekom.net/8040/stream/;.mp3) | [web](https://lainter.es) | [logo](https://graph.facebook.com/LaInter.es/picture?width=200&height=200) | - | - |
+| La Jungla Yecla | [stream](https://streaming12.elitecomunicacion.es:8204/stream) | [web](https://www.lajunglayecla.com/en-directo/) | [logo](https://graph.facebook.com/lajunglaradioyecla/picture?width=200&height=200) | - | - |
 | Onda Color FM | [stream](https://streaming12.elitecomunicacion.es:8212/stream) | [web](https://ondacolor.es) | [logo](https://graph.facebook.com/ondacolor/picture?width=200&height=200) | - | - |
 
 ## Internacionales
