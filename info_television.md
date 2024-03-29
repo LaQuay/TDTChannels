@@ -189,7 +189,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Interalmería TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tuya La Janda TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Más Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| TV Centro Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Centro Andalucía | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal San Roque | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Algeciras TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
