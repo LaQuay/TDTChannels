@@ -722,7 +722,7 @@
 | Stadium USA | [m3u8 # EN](https://bcovlive-a.akamaihd.net/77f552c75f084189959f8a7e54d87700/us-east-1/5994000126001/playlist.m3u8) | [web](https://watchstadium.com/live/) | [logo](https://graph.facebook.com/watchstadium/picture?width=200&height=200) | - | - |
 | Garage TV Argentina | [m3u8](https://stream1.sersat.com/hls/garagetv.m3u8) | [web](http://elgarage.com) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
 | MsMotor TV | - | [web](https://www.msmotor.tv) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | W3U,EXTA |
-| Best Cable Sports Perú | - | [web](https://bestcableperu.com.pe/lima/enVivo/bestSportTV) | [logo](https://pbs.twimg.com/profile_images/1574548998999998464/IK17LZ5K_200x200.jpg) | - | W3U,EXTA |
+| Best Cable Sports Perú | - | [web](https://bestcableperu.com.pe/lima/enVivo/bestCableSport) | [logo](https://pbs.twimg.com/profile_images/1574548998999998464/IK17LZ5K_200x200.jpg) | - | W3U,EXTA |
 
 ## Musicales
 
