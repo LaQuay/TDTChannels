@@ -822,7 +822,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | RTV Vida España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Solidaria TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Betania TV España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Cetelmon España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | ESNE | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
