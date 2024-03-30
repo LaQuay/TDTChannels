@@ -405,7 +405,7 @@
 | TV 4 Vall de Uxó | [m3u8](https://limited09.todostreaming.es/live/tarson-livestream.m3u8) | [web](https://teve4lavall.com) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=200&height=200) | - | - |
 | Burriana TV | [m3u8](https://www.burrianateve.com/hls/btv.m3u8) | [web](https://www.burrianateve.com/burrianateve-en-directe/) | [logo](https://graph.facebook.com/burrianateve/picture?width=200&height=200) | - | - |
 | Distrito TV Valencia | [m3u8](https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8) | [web](https://eldistrito.es/distrito-tv-llega-a-la-comunidad-valenciana-a-traves-de-la-tdt/) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | - |
-| telesafor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](https://telesafor.com) | [logo](https://yt3.ggpht.com/ytc/APkrFKZ5UffEAeHVZWc1fbQsPu4VNureSfNMwlMoRmgH=s200) | - | - |
+| Tele Safor | [m3u8](https://video.telesafor.com/hls/video.m3u8) | [web](https://telesafor.com) | [logo](https://yt3.ggpht.com/ytc/APkrFKZ5UffEAeHVZWc1fbQsPu4VNureSfNMwlMoRmgH=s200) | - | - |
 | Elche 7 TV | [m3u8](https://elche7tv.gestec-video.com/hls/canal2.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://pbs.twimg.com/profile_images/1543985670066245632/cX_NvIkT_200x200.jpg) | - | NONAV |
 | Canal 56 | [m3u8](https://videos.canal56.com/directe/stream/index.m3u8) | [web](https://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=200&height=200) | - | NONAV |
 | Tevequatre TV | [m3u8](https://nlb1-live.emitstream.com/hls/646wzsnqyforndavy6de/master.m3u8) | [web](https://teve4.com/directe/) | [logo](https://pbs.twimg.com/profile_images/438700741801177088/MdnaVxtC_200x200.png) | - | - |

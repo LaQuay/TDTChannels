@@ -425,7 +425,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV 4 Vall de Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Burriana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Distrito TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| telesafor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tele Safor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Elche 7 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Tevequatre TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
