@@ -32,6 +32,7 @@
 | Radio TeleTaxi | [mp3](https://radiott-web.streaming-pro.com:6103/radiott.mp3) | [web](https://www.radioteletaxi.com/reproductor/) | [logo](https://graph.facebook.com/radioteletaxi/picture?width=200&height=200) | Teletaxi.Radio | - |
 | Hit FM | [mp3](https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3) | [web](https://www.hitfm.es) | [logo](https://graph.facebook.com/hitfm.es/picture?width=200&height=200) | HitFM.Radio | - |
 | Loca FM | [stream](http://s3.we4stream.com:8045/live) | [web](https://www.locafm.com/live/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | LocaFM.Radio | - |
+| MegaStar FM | [m3u8](https://megastar-cope.flumotion.com/playlist.m3u8) | [web](https://www.megastar.fm) | [logo](https://graph.facebook.com/MegaStarFM/picture?width=200&height=200) | MegaStar.Radio | - |
 | Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | RadioMaria.Radio | - |
 
 ## Musicales
@@ -40,7 +41,6 @@
 | - | - | - | - | - | - |
 | LOS40 Dance | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3) | [web](https://play.los40.com/emisora/los40_dance) | [logo](https://graph.facebook.com/los40dance/picture?width=200&height=200) | los40dance.Radio | - |
 | LOS40 Urban | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3) | [web](https://play.los40.com/emisora/los40_urban) | [logo](https://graph.facebook.com/los40urban/picture?width=200&height=200) | los40urban.Radio | - |
-| MegaStar FM | [m3u8](https://megastar-cope.flumotion.com/playlist.m3u8) | [web](https://www.megastar.fm) | [logo](https://graph.facebook.com/MegaStarFM/picture?width=200&height=200) | MegaStar.Radio | - |
 | Melodía FM | [m3u8](https://atres-live.melodia-fm.com/live/melodiafm/master.m3u8) | [web](https://www.melodia-fm.com/directo/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=200&height=200) | - | - |
 | Radio Clásica RNE | [m3u8](https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r2_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-clasica/) | [logo](https://graph.facebook.com/radioclasicartve/picture?width=200&height=200) | RNEClasica.Radio | - |
 | Dial Baladas | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3) | [web](https://play.cadenadial.com/emisora/dialbaladas) | [logo](https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg) | - | - |
@@ -86,8 +86,8 @@
 | Dial Mini | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_04.mp3) | [web](https://play.cadenadial.com/emisora/dial_babyradio) | [logo](https://www.cadenadial.com/wp-content/uploads/2020/08/Dial-mini.jpeg) | - | - |
 | Babyradio | [stream](https://sd396babyradio1.dns-lcinternet.com/8002/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
 | Babyradio LatinoAmérica | [stream](https://sd396babyradio1.dns-lcinternet.com/8004/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
-| Babyradio - Nanas | [stream](https://sd396babyradio1.dns-lcinternet.com/8010/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
-| Babyradio - Cuentos infantiles | [stream](https://sd396babyradio1.dns-lcinternet.com/8006/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
+| Babyradio Nanas | [stream](https://sd396babyradio1.dns-lcinternet.com/8010/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
+| Babyradio Cuentos Infantiles | [stream](https://sd396babyradio1.dns-lcinternet.com/8006/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
 
 ## Autonómicas
 
