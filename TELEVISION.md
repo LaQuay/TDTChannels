@@ -68,7 +68,7 @@
 | Cazaflix | [stream](https://player.viloud.tv/embed/channel/292a2a75da8d1d6335cd7b6e600b04e8?autoplay=1&volume=1&controls=1&title=0&share=0&open_playlist=0) | [web](https://cazaflix.com/tv-directo/) | [logo](https://graph.facebook.com/cazaflixoficial/picture?width=200&height=200) | - | EMB |
 | Mundo Nautica | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8) | [web](https://mundonautica.tv) | [logo](https://graph.facebook.com/MundoNautica/picture?width=200&height=200) | - | REFG1 |
 | MyPadel TV | [m3u8](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8) | [web](https://www.mypadel.tv) | [logo](https://graph.facebook.com/mypadeltv/picture?width=200&height=200) | - | - |
-| FUTSALMAFER TV | [m3u8](https://cloudvideo.servers10.com:8081/8184/index.m3u8) | [web](https://canalsports.tv/sample-page-2/) | [logo](https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200) | - | - |
+| Futsalmafer.tv | [m3u8](https://cloudvideo.servers10.com:8081/8184/index.m3u8) | [web](https://canalsports.tv/directo-24-horas/) | [logo](https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200) | - | - |
 
 ## Infantiles
 
