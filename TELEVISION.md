@@ -84,6 +84,8 @@
 | Little Baby Bum | [youtube](https://www.youtube.com/channel/UCHicabXz9rUMWLcdMqBtbxQ/live) | [web](https://www.youtube.com/user/LittleBabyBumEspanol) | [logo](https://yt3.ggpht.com/a/AATXAJwn3r9U07S7ZOqoGZLUbuYHWiIqpE8xuLJsyg=s200) | - | EMB |
 | Talking Tom and Friends | [youtube](https://www.youtube.com/channel/UCC9R-cxQeOpPhq2lAru0V8w/live) | [web](https://www.youtube.com/TomFriendsEs) | [logo](https://yt3.ggpht.com/a/AATXAJwpm-5h1rjcPqno5uANZr75VhhCYKv4PS02gLUS0A=s200) | - | EMB |
 | Paka Paka | [m3u8](https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8) | [web](https://www.pakapaka.gob.ar/) | [logo](https://graph.facebook.com/canalpakapaka/picture?width=200&height=200) | - | - |
+| Zarok TV (Northern Kurdish - Kurmanji) | [m3u8](https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8) | [web](https://zaroktv.com.tr) | [logo](https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png) | - | - |
+| Zarok TV (Central Kurdish - Sorani) | [m3u8](https://zindisorani.zaroktv.com.tr/hls/stream.m3u8) | [web](https://zaroktv.krd) | [logo](https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png) | - | - |
 
 ## Eventuales
 
