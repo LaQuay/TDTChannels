@@ -85,6 +85,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Mundo Nautica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MyPadel TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| FUTSALMAFER TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Infantiles
 
