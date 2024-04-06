@@ -420,6 +420,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Artequatre | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | 12TV Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Levante TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Información TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TV de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall de Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
