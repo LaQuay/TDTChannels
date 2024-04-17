@@ -914,7 +914,6 @@
 | Radio Nervión | [stream](https://radionervion.streaming-pro.com:6132/radionervion) | [web](https://www.radionervion.com) | [logo](https://graph.facebook.com/RadioNervion/picture?width=200&height=200) | - | - |
 | Vinilo FM | [mp3](https://radio.vinilofm.es/radio/8000/bizkaia.mp3) | [web](https://vinilofm.es) | [logo](https://graph.facebook.com/vinilofm/picture?width=200&height=200) | - | - |
 | Radio 7 | [mp3](https://radio7.streaming-pro.com:6146/radio7.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200) | - | - |
-| Radio Tropical | [stream](https://radiotropical.streaming-pro.com:6136/radiotropical) | [web](https://www.radiotropical.es) | [logo](https://pbs.twimg.com/profile_images/1361241452488101888/lBN10u06_200x200.jpg) | - | - |
 | Onda Vasca | [stream # 1](https://live.ondavasca.com:8001/bizkaia) - [stream # 2](https://live.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com) | [logo](https://graph.facebook.com/ondavasca/picture?width=200&height=200) | - | WICE |
 | Bizkaia Irratia | [stream](https://nerbioi.radiopopular.eus/bizkaiairratia2) | [web](http://www.bizkaiairratia.eus/) | [logo](https://graph.facebook.com/BizkaiaIrratia/picture?width=200&height=200) | - | - |
 | Formula Hit | [mp3](https://sonic.sistemahost.es/8176/stream;.mp3) | [web](https://www.formulahit.com) | [logo](https://pbs.twimg.com/profile_images/1967694999/Formula_Hit_200x200.jpg) | - | - |
