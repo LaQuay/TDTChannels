@@ -653,7 +653,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TELE13 Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Meganoticias Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TC TV Ecuador | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| TeleAmazonas Ecuador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bolivia 7.1 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Bolivia 7.2 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Red Pat Bolivia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -695,7 +694,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Express News Pakistan | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | India Today | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | New Delhi TV 24x7 India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Times Now India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Republic World TV India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Hispan TV Iran | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Channel NewsAsia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
