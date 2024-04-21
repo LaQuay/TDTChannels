@@ -764,9 +764,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
-| Virgin Radio Italia | - | - | - | - | - | - | - | - |
-| R 101 Italia | - | - | - | - | - | - | - | - |
-| Radio Montecarlo Italia | - | - | - | - | - | - | - | - |
 | Kronehit Austria | - | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - | - |
 | 4FUN TV Polonia | - | - | - | - | - | - | - | - |
