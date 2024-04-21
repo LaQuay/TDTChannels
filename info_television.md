@@ -475,7 +475,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TeleVigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemiño | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Hermes TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Anove TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Anove TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Auria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ### Illes Balears
