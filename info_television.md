@@ -813,7 +813,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
 | Onda Digital Perú | - | - | - | - | - | - | - | - |
 | La Mega Mundial USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Music Top Argentina | - | - | - | - | - | - | - | - |
 | Portal Foxmix Chile | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
 | Spirit TV USA | - | - | - | - | - | - | - | - |
