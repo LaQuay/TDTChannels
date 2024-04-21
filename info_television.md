@@ -398,6 +398,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | EsTuTele | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 TV Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Red | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| LIRA TV | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Foral de Navarra
 
