@@ -262,7 +262,7 @@
 | SER Teruel | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TERUEL.mp3) | [web](https://cadenaser.com/ser-teruel/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Teruel.Radio | - |
 | SER Zaragoza | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3) | [web](https://cadenaser.com/radio-zaragoza/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Zaragoza.Radio | - |
 | COPE Huesca | [mp3](https://wecast16-h-cloud.flumotion.com/copesedes/huesca.mp3) | [web](https://www.cope.es/directos/huesca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| KissFM Huesca | [stream](çhttp://pr1cen101.emisionlocal.com:8002/stream) | [web](http://pr1cen101.emisionlocal.com:8002/stream) | [logo](https://graph.facebook.com/kissfm.es/picture?width=200&height=200) | - | - |
+| KissFM Huesca | [stream](http://pr1cen101.emisionlocal.com:8002/stream) | [web](http://pr1cen101.emisionlocal.com:8002/stream) | [logo](https://graph.facebook.com/kissfm.es/picture?width=200&height=200) | - | - |
 | COPE Jaca | [mp3](https://wecast17-h-cloud.flumotion.com/copesedes/jaca.mp3) | [web](https://www.cope.es/directos/jaca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Pirineos | [stream](http://85.25.217.22:8110/stream) | [web](http://www.radioribagorza.es/copeonline.html) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Teruel | [mp3](https://wecast02-h-cloud.flumotion.com/copesedes/teruel.mp3) | [web](https://www.cope.es/directos/teruel) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
