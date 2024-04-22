@@ -286,8 +286,8 @@
 | Radio Huesca Sabiñánigo | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SABINANIGO.mp3) | [web](https://cadenaser.com/radio-sabinanigo/contacto/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | Radio Huesca Sariñena | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SARINENA.mp3) | [web](https://cadenaser.com/radio-sarinena/contacto/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | Radio Mai | [stream # 1](http://radio.indaloweb.es:8001/live) - [stream # 2](http://radiomai.ddns.net:8020/live) | [web](http://radiomai.com/online/) | [logo](https://graph.facebook.com/radiomai/picture?width=200&height=200) | - | WICE |
-| LokuraFM | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg131447?mp=/stream) | [web](https://lokurafm.online) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
-| ValeRadio | [stream](https://sonic.sistemahost.es:8160/stream) | [web](https://www.valeradio.es/) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvqfZvUbQjrdsnFIhtqLy-mnkjBicLHHflgy5HWPCmyQqsYDZ) | - | - |
+| LokuraFM | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg131447?mp=/stream) | [web](https://lokurafm.online) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvqfZvUbQjrdsnFIhtqLy-mnkjBicLHHflgy5HWPCmyQqsYDZ) | - | - |
+| ValeRadio | [stream](https://sonic.sistemahost.es:8160/stream) | [web](https://www.valeradio.es/) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
 | BOM Radio Zaragoza | [stream](http://r4g-zaragoza1.streaming-pro.com:7000/enlacesigloxxi) | [web](https://www.bomradio.com) | [logo](https://graph.facebook.com/BOMRadioOficial/picture?width=200&height=200) | - | - |
 | Hit Pirineos | [stream](http://stm1.emiteonline.com:8022/hitpirineos) | [web](http://www.hitradiofm.es/hitpirineos.html) | [logo](https://graph.facebook.com/hitpirineos/picture?width=200&height=200) | - | - |
 
