@@ -19,7 +19,7 @@
 | Divinity | - | [web](https://www.mitele.es/directo/divinity) | [logo](https://graph.facebook.com/divinityes/picture?width=200&height=200) | Divinity.TV | W3U,EMB,EXTA |
 | Be Mad | - | [web](https://www.mitele.es/directo/bemad) | [logo](https://graph.facebook.com/BeMadTV/picture?width=200&height=200) | Bemad.TV | W3U,EMB,EXTA |
 | DMAX | - | [web](https://dmax.marca.com/en-directo) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | W3U,EMB,EXTA |
-| TRECE | [m3u8](https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | - |
+| TRECE | [m3u8](https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | - |
 | El Toro TV | [m3u8](https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8) - [m3u8 # 2](https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | - |
 | mtmad 24h | - | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
@@ -619,7 +619,7 @@
 | América TV Argentina | [youtube](https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live) | [web](https://www.americatv.com.ar/vivo) | [logo](https://graph.facebook.com/AmericaTV/picture?width=200&height=200) | - | EMB |
 | TV Pública Argentina | [youtube](https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live) | [web](http://www.tvpublica.com.ar) | [logo](https://graph.facebook.com/TVPublica/picture?width=200&height=200) | - | EMB |
 | Canal 9 Argentina | [stream](https://player.twitch.tv/?channel=elnuevevivo&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.elnueve.com.ar/en-vivo/) | [logo](https://graph.facebook.com/Canal9TV/picture?width=200&height=200) | - | EMB |
-| Exitosa Noticias Perú | [m3u8](https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/index.fmp4.m3u8) | [web](https://www.exitosanoticias.pe/tv/envivo) | [logo](https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200) | - | - |
+| Exitosa Noticias Perú | [m3u8](https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8) | [web](https://www.exitosanoticias.pe/tv/envivo) | [logo](https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200) | - | - |
 | Panamericana Perú | [m3u8](https://cdnhd.iblups.com/hls/ptv5.m3u8) | [web](https://panamericana.pe/tvenvivo/hd) | [logo](https://graph.facebook.com/panamericana.pe/picture?width=200&height=200) | - | - |
 | Willax Perú | [stream](https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1) | [web](https://willax.tv/en-vivo/) | [logo](https://graph.facebook.com/willaxtv/picture?width=200&height=200) | - | EMB |
 | TV Perú | - | [web](https://www.tvperu.gob.pe/play) | [logo](https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200) | - | W3U,EXTA |
