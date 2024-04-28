@@ -625,7 +625,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal Once Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Quiero TV Mexico | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Mexico Travel TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Turistik TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ESTRELLA TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Noticias Caracol Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Capital Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleantioquia Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
