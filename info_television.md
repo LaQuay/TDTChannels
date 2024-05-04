@@ -129,6 +129,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTVE Viajes  | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE La promesa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Series | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Conciertos Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Eurovisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mitele Comedia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
