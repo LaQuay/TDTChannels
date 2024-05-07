@@ -68,7 +68,7 @@
 | Loca FM Drum&Bass | [stream](http://s02.fjperezdj.com:8065/live) | [web](https://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Urban | [stream](http://locafm02.we4stream.com:8015/live) | [web](https://www.locafm.com/loca-urban/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | digitalHits FM | [stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](https://www.digitalhits.cat/directe/) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
-| La Urban Radio | [mp3](https://st1.urbanrevolution.es:8443/laurbanfm.mp3) | [web](https://www.urbanrevolution.es/?page_id=80) | [logo](https://graph.facebook.com/fmurban/picture?width=200&height=200) | - | - |
+| La Urban Radio | [mp3](https://st1.urbanrevolution.es:8443/laurbanfm.mp3) | [web](https://www.urbanrevolution.es/) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
 
 ## Deportivas
 
