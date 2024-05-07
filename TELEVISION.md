@@ -448,7 +448,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TVG | [m3u8](https://europa-crtvg.flumotion.com/playlist.m3u8) | [web](https://www.agalega.gal/videos/76475-tvg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGAL.TV | - |
+| TVG | [m3u8](https://crtvg-europa.flumotion.cloud/playlist.m3u8) | [web](https://www.agalega.gal/videos/76475-tvg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGAL.TV | - |
 | TVG 2 | [m3u8](https://crtvg-tvg2.flumotion.cloud/playlist.m3u8) | [web](https://www.agalega.gal/videos/77550-tv-g2) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVG2.TV | - |
 | TVG Xabarin | [m3u8](https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8) | [web](https://www.agalega.gal/videos/76534-xabarin-tv) | [logo](https://graph.facebook.com/oxabarinclub/picture?width=200&height=200) | - | - |
 | TVG Pequerrech@s | [m3u8](https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8) | [web](https://www.agalega.gal/videos/76535-xabarin-r1) | [logo](https://graph.facebook.com/oxabarinclub/picture?width=200&height=200) | - | - |
