@@ -690,7 +690,7 @@
 | UNTV News & Rescue Filipinas | [youtube](https://www.youtube.com/channel/UC3XaG-7UVi2vD8ZZEMNnnpw/live) | [web](https://www.untvweb.com/news/) | [logo](https://graph.facebook.com/UNTVNewsRescue/picture?width=200&height=200) | - | EMB |
 | TVK Camboya | [m3u8 # KM # 1](https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8) - [m3u8 # KM # 2](https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8) | [web](https://www.tvk.gov.kh) | [logo](https://graph.facebook.com/cambodiatvk/picture?width=200&height=200) | - | - |
 | RTHK 31 32 Hong Kong | [m3u8 # 1](https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8) - [m3u8 # 2](https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8) | [web](https://www.rthk.hk/tv) | [logo](https://graph.facebook.com/RTHK.HK/picture?width=200&height=200) | - | - |
-| Teledifusão de Macau | [m3u8 # PT # 1](https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8) - [m3u8 # ZH # 2](https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8) - [m3u8 # ZH # 3](https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8) | [web](https://www.tdm.com.mo/zh-hant/live) | [logo](https://graph.facebook.com/Canal.Macau/picture?width=200&height=200) | - | - |
+| Teledifusão de Macau | [m3u8 # PT # 1](https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8) - [m3u8 # ZH # 2](https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8) - [m3u8 # ZH # 3](https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8) | [web](https://www.tdm.com.mo/zh-hant/live) | [logo](https://graph.facebook.com/Canal.Macau/picture?width=200&height=200) | - | - |
 | Oman TV | - | [web](https://www.omaninfo.om/omantv) | [logo](https://graph.facebook.com/OmanTvGeneral/picture?width=200&height=200) | - | EMB |
 
 ## Int. África
