@@ -395,6 +395,7 @@
 | Pedro Muñoz FM | [mp3](http://185.190.102.41:8000/endirecto.mp3) | [web](https://pedromunozfm.com) | [logo](https://graph.facebook.com/pedromunozfm/picture?width=200&height=200) | - | - |
 | Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net) | [logo](https://graph.facebook.com/radioarrebato107.4/picture?width=200&height=200) | - | WICE |
 | ONE FM | [mp3](https://azura.streamingradio.online/listen/one_fm/onefm.mp3) | [web](http://directo.onefm.es) | [logo](https://graph.facebook.com/OneFM.es/picture?width=200&height=200) | - | - |
+| Radio Serranía | [mp3](https://stream.zeno.fm/suyydyfgwf9uv) | [web](https://www.radioserrania.es) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnacipw8b-DXWbR9fOFT5EwWOd3-QFrv0zdUHTlnh6Q&s) | - | - |
 
 ### Castilla y León
 
