@@ -474,10 +474,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TVG Pequerrech@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Cativ@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Mociñ@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Musigal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Cultura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Momentos G | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Eventos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Mira Radio Galega | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleVigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemiño | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
