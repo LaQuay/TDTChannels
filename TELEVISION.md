@@ -777,7 +777,6 @@
 | LoFi Hip-Hop Beats Music | [youtube](https://www.youtube.com/@steezyasfvck/live) | [web](https://stzzzy.com) | [logo](https://pbs.twimg.com/profile_images/1155872804786466817/z1k1zxIi_200x200.jpg) | - | - |
 | Beautiful Piano Music | [youtube](https://www.youtube.com/live/2OM7adQl-YQ/live) | [web](https://soothingrelaxation.com) | [logo](https://graph.facebook.com/SoothingRelaxation/picture?width=200&height=200) | - | - |
 | 30A Music USA | [m3u8 # EN](https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8) | [web](https://30a-tv.com/30a/30a-tv-music-channel/) | [logo](https://graph.facebook.com/30atv/picture?width=200&height=200) | - | - |
-| Vintage Music TV | [m3u8 # EN](https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8) | [web](https://vintagemusic.group/live-tv/watchvintagetv/) | [logo](https://graph.facebook.com/vintagemusicgroup/picture?width=200&height=200) | - | - |
 | Retro Plus TV Chile | [m3u8](https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8) | [web](https://www.retroplustv.com/#se%C3%B1ales) | [logo](https://graph.facebook.com/retroplustv/picture?width=200&height=200) | - | - |
 | California Music Channel USA | [m3u8 # EN](https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels) | [web](https://www.cmc-tv.com) | [logo](https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200) | - | - |
 | Retro Music TV Chequia | [m3u8 # EN](http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8) | [web](http://retromusic.cz/#retro_tv) | [logo](https://graph.facebook.com/retromusic/picture?width=200&height=200) | - | - |
@@ -792,12 +791,10 @@
 | Muzzik Glazzba Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8) | [web](https://muzzik.spectar.tv/#/dfk) | [logo](https://graph.facebook.com/muzzik.television/picture?width=200&height=200) | - | UAG |
 | Muzzik Flashback Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-8/playlist.m3u8) | [web](https://muzzik.spectar.tv/#/adr) | [logo](https://graph.facebook.com/muzzik.television/picture?width=200&height=200) | - | UAG |
 | Muzzik OKK Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-2/playlist.m3u8) | [web](https://muzzik.spectar.tv/#/okk) | [logo](https://graph.facebook.com/muzzik.television/picture?width=200&height=200) | - | UAG |
-| La Karibeña Perú | [m3u8](https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8) | [web](https://radiokaribena.pe/videoskaribenatv/) | [logo](https://graph.facebook.com/LaKaribena/picture?width=200&height=200) | - | - |
 | Top Latino TV Perú | [m3u8](https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8) | [web](https://toplatino.net/tv/) | [logo](https://graph.facebook.com/toplatinotv/picture?width=200&height=200) | - | - |
 | Onda Digital Perú | [m3u8](https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8) | [web](http://www.ondadigital.pe/) | [logo](https://graph.facebook.com/OndaDigitalPeru/picture?width=200&height=200) | - | - |
 | La Mega Mundial USA | [m3u8](https://server40.servistreaming.com:3477/stream/play.m3u8) | [web](https://www.lamegamundial.com) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200) | - | W3U,EXTA,NONAV |
 | Portal Foxmix Chile | [m3u8](https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8) | [web](https://www.portalfoxmix.cl/tv/) | [logo](https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200) | - | - |
-| Ditty TV USA | [m3u8 # EN](https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8) | [web](https://dittytv.com/watch/) | [logo](https://graph.facebook.com/DittyTV/picture?width=200&height=200) | - | - |
 | Spirit TV USA | [m3u8 # EN](https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8) | [web](https://myspirit.tv) | [logo](https://graph.facebook.com/MySpirittv/picture?width=200&height=200) | - | - |
 
 ## Religiosos
