@@ -796,7 +796,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | LoFi Hip-Hop Beats Music | - | - | - | - | - | - | - | - |
 | Beautiful Piano Music | - | - | - | - | - | - | - | - |
 | 30A Music USA | - | - | - | - | - | - | - | - |
-| Vintage Music TV | - | - | - | - | - | - | - | - |
 | Retro Plus TV Chile | - | - | - | - | - | - | - | - |
 | California Music Channel USA | - | - | - | - | - | - | - | - |
 | Retro Music TV Chequia | - | - | - | - | - | - | - | - |
@@ -811,7 +810,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Muzzik Glazzba Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Flashback Serbia | - | - | - | - | - | - | - | - |
 | Muzzik OKK Serbia | - | - | - | - | - | - | - | - |
-| La Karibeña Perú | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
 | Onda Digital Perú | - | - | - | - | - | - | - | - |
 | La Mega Mundial USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
