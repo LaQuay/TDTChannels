@@ -84,10 +84,10 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Dial Mini | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_04.mp3) | [web](https://play.cadenadial.com/emisora/dial_babyradio) | [logo](https://www.cadenadial.com/wp-content/uploads/2020/08/Dial-mini.jpeg) | - | - |
-| Babyradio | [stream](https://sd396babyradio1.dns-lcinternet.com/8002/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
-| Babyradio LatinoAmérica | [stream](https://sd396babyradio1.dns-lcinternet.com/8004/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
-| Babyradio Nanas | [stream](https://sd396babyradio1.dns-lcinternet.com/8010/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
-| Babyradio Cuentos Infantiles | [stream](https://sd396babyradio1.dns-lcinternet.com/8006/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://graph.facebook.com/Babyradio/picture?width=200&height=200) | - | - |
+| Babyradio | [stream](https://sd396babyradio1.dns-lcinternet.com/8002/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
+| Babyradio LatinoAmérica | [stream](https://sd396babyradio1.dns-lcinternet.com/8004/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
+| Babyradio Nanas | [stream](https://sd396babyradio1.dns-lcinternet.com/8010/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
+| Babyradio Cuentos Infantiles | [stream](https://sd396babyradio1.dns-lcinternet.com/8006/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
 
 ## Autonómicas
 
