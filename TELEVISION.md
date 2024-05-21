@@ -356,6 +356,7 @@
 | TV Sant Cugat | [youtube](https://www.youtube.com/channel/UCO_HcwAMD_XcZWfqidMtfgw/live) | [web](https://www.tvsantcugat.cat/cobertura/directe-tv-hd/) | [logo](https://graph.facebook.com/tvsantcugat/picture?width=200&height=200) | - | EMB |
 | TV Sabadell Vallès | [m3u8](https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8) | [web](https://tvsabadell-valles.cat/directe/) | [logo](https://graph.facebook.com/tvsabadellvalles/picture?width=200&height=200) | - | UAGLI,REFI1 |
 | Fitel Television | [m3u8](https://tv.mywifisocial.es/live.m3u8) | [web](https://fiteltelevision.com/directe/) | [logo](https://graph.facebook.com/FitelTelevision/picture?width=200&height=200) | - | - |
+| TVR Televisió Reus | [m3u8](https://eu1.servers10.com:8081/8166/index.m3u8) | [web](https://radiotelevisionmxm.com/) | [logo](https://yt3.googleusercontent.com/3CAKWoyldc7i44Zp5tO1KV8ePH0H8oezOjYxIU1sfJjA5LC7E7Wxra24Hpixp1UGZAh8LV2ymQ=s200) | - | - |
 | TV de Sant Martí | [youtube](https://www.youtube.com/channel/UCGXp77nMffJ9lk5If2dYj3w/live) | [web](https://granviaradio8.wixsite.com/rtvsm/directe) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | EMB |
 | Infociudades TV Catalunya | [m3u8](https://consultant1267.cloudhostservers.com:3150/hybrid/play.m3u8) | [web](https://consultant1267.cloudhostservers.com/broadcaster/infociudadestvcat/hybrid/player) | [logo](https://yt3.googleusercontent.com/3i65n-hibtpav8e1WwaXQXTIpSBfPY7l-blPvnu33QW8fdBo9lv-5aH8cL_Hv0aTvVbCfX_7ZLo=s200) | - | - |
 
