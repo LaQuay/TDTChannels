@@ -813,7 +813,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Muzzik OKK Serbia | - | - | - | - | - | - | - | - |
 | La Karibeña Perú | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
-| Onda Digital Perú | - | - | - | - | - | - | - | - |
 | La Mega Mundial USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Portal Foxmix Chile | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
