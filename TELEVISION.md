@@ -254,7 +254,7 @@
 | Canal 4 Telde TV | [m3u8](https://stream.castr.com/63516516d5d3d0036518a3cd/live_73194be0508a11edb25de99cc96ba4dc/index.m3u8) | [web](https://canal4tvtelde.com/web/en-directo) | [logo](https://graph.facebook.com/canal4tvtelde/picture?width=200&height=200) | - | NONAV,REFC1 |
 | Noroeste TV | [m3u8](https://stream.castr.com/5d1f649bed75c92e40481734/live_19364d50fbcd11ed91bd012c3488eabc/index.m3u8) | [web](https://sites.google.com/view/noroestetv/inicio) | [logo](https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200) | - | NONAV,REFC1 |
 | Fuerteventura TV | [m3u8](https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8) | [web](https://fuerteventuratelevision.com) | [logo](https://yt3.ggpht.com/NGDcQX5v1Px2BBFD5G4aHYNrCyDWoEkRF5Gpsyfz-b_9swNpy6s-Z7-Glu-9WDr7JpP_MsCB=s200) | - | - |
-| Factoría de Carnaval | [m3u8](https://eu1.servers10.com:8081/8116/index.m3u8) | [web](https://multicarnaval.com) | [logo](https://graph.facebook.com/Multicarnaval/picture?width=200&height=200) | - | - |
+| Factoría de Carnaval | [m3u8](https://eu1.servers10.com:8081/8116/index.m3u8) | [web](https://multicarnaval.com) | [logo](https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_200x200.jpg) | - | - |
 | Afortunadas TV | [m3u8](https://cloudvideo.servers10.com:8081/8108/index.m3u8) | [web](https://www.afortunadastv.com) | [logo](https://graph.facebook.com/afortunadastv/picture?width=200&height=200) | - | - |
 
 ### Cantabria
