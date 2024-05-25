@@ -289,6 +289,7 @@
 | LokuraFM | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg131447?mp=/stream) | [web](https://lokurafm.online) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvqfZvUbQjrdsnFIhtqLy-mnkjBicLHHflgy5HWPCmyQqsYDZ) | - | - |
 | BOM Radio Zaragoza | [stream](http://r4g-zaragoza1.streaming-pro.com:7000/enlacesigloxxi) | [web](https://www.bomradio.com) | [logo](https://graph.facebook.com/BOMRadioOficial/picture?width=200&height=200) | - | - |
 | Hit Pirineos | [stream](http://stm1.emiteonline.com:8022/hitpirineos) | [web](http://www.hitradiofm.es/hitpirineos.html) | [logo](https://graph.facebook.com/hitpirineos/picture?width=200&height=200) | - | - |
+| Vale Radio | [stream](https://sonic.sistemahost.es:8160/stream) | [web](https://www.valeradio.es/reproductor/index.php) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
 
 ### Canarias
 
