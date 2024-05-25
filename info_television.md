@@ -813,7 +813,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Muzzik Flashback Serbia | - | - | - | - | - | - | - | - |
 | Muzzik OKK Serbia | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
-| Onda Digital Perú | - | - | - | - | - | - | - | - |
 | La Mega Mundial USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Portal Foxmix Chile | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
