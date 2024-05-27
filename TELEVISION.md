@@ -358,7 +358,6 @@
 | TV Sabadell Vallès | [m3u8](https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8) | [web](https://tvsabadell-valles.cat/directe/) | [logo](https://graph.facebook.com/tvsabadellvalles/picture?width=200&height=200) | - | UAGLI,REFI1 |
 | Fitel Television | [m3u8](https://tv.mywifisocial.es/live.m3u8) | [web](https://fiteltelevision.com/directe/) | [logo](https://graph.facebook.com/FitelTelevision/picture?width=200&height=200) | - | - |
 | TV de Sant Martí | [youtube](https://www.youtube.com/channel/UCGXp77nMffJ9lk5If2dYj3w/live) | [web](https://granviaradio8.wixsite.com/rtvsm/directe) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | EMB |
-| Infociudades TV Catalunya | [m3u8](https://consultant1267.cloudhostservers.com:3150/hybrid/play.m3u8) | [web](https://consultant1267.cloudhostservers.com/broadcaster/infociudadestvcat/hybrid/player) | [logo](https://yt3.googleusercontent.com/3i65n-hibtpav8e1WwaXQXTIpSBfPY7l-blPvnu33QW8fdBo9lv-5aH8cL_Hv0aTvVbCfX_7ZLo=s200) | - | - |
 
 ### Ceuta
 
@@ -633,7 +632,7 @@
 | TeleSUR Venezuela | [m3u8](https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/) | [logo](https://graph.facebook.com/teleSUR/picture?width=200&height=200) | TeleSUR.TV | - |
 | Globovision Venezuela | [youtube](https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live) | [web](https://globovision.com) | [logo](https://graph.facebook.com/globovision/picture?width=200&height=200) | - | EMB |
 | Venezolana de Televisión | [stream](https://www.dailymotion.com/embed/video/x8rtkvs?autoplay=1) | [web](https://www.vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | EMB |
-| Televen TV Venezuela | [m3u8](https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8) | [web](http://www.televen.com/enlinea/) | [logo](https://graph.facebook.com/TelevenTV/picture?width=200&height=200) | - | - |
+| Televen TV Venezuela | [m3u8](https://d1diljksr5gd01.cloudfront.net/out/v1/99eaf10d0ece490fb8bd12eb6389daff/index.m3u8) | [web](http://www.televen.com/enlinea/) | [logo](https://graph.facebook.com/TelevenTV/picture?width=200&height=200) | - | - |
 | VPI TV Venezuela | [m3u8](https://ott.streann.com/loadbalancer/services/public/channels-secure/5d23d5882cdce61dae029fd8/playlist.m3u8) | [web](https://vpitv.com/en-vivo/) | [logo](https://graph.facebook.com/vpitv/picture?width=200&height=200) | - | - |
 | La Tele Tuya Venezuela | [stream](https://www.dailymotion.com/embed/video/x8my9op?autoplay=1) | [web](https://teletuya.net/en-vivo/) | [logo](https://graph.facebook.com/TeleTuya/picture?width=200&height=200) | - | EMB |
 | Canal Antigua Guatemala | [m3u8](https://streannlivefeedlatino.cachefly.net/feedlatino1/feedlatino1/playlist.m3u8) | [web](https://canalantigua.tv) | [logo](https://graph.facebook.com/canalantigua/picture?width=200&height=200) | - | - |
