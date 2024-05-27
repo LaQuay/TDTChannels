@@ -690,7 +690,7 @@
 | Cadena 100 Benidorm | [stream](http://rsirena.dnsalias.com:8000/cad100benidorm) | [web](https://www.radiosirena.es/radio-online/cadena-100/) | [logo](https://graph.facebook.com/cadena100benidorm/picture?width=200&height=200) | - | WICE |
 | Cadena Dial Castellón | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/cadenadialcastelllon/picture?width=200&height=200) | - | - |
 | Europa FM Gandia | [stream](https://one.cloudstreaming.eu/proxy/europa/stream) | [web](https://europafmgandia.com) | [logo](https://graph.facebook.com/europafmgandia/picture?width=200&height=200) | - | - |
-| Europa FM Marina Alta | [stream](https://stm2.emiteonline.com:9029/marinaefm) | [web](http://europafmmarinaalta.com) | [logo](https://graph.facebook.com/europafmmarinaalta/picture?width=200&height=200) | - | - |
+| Europa FM Marina Alta | [stream](https://stm2.emiteonline.com:9029/marinaefm) | [web](http://europafmmarinaalta.com) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | MDT Radio | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | - | - |
 | Remember The Music FM | [stream](https://eu1.lhdserver.es:9041/stream) | [web](https://rememberthemusicfm.com) | [logo](https://pbs.twimg.com/profile_images/1034848375705878528/qt4gn64O_200x200.jpg) | - | - |
 | TeleElx Radio | [mp3](https://directo.teleelx.es:8000/radio.mp3) | [web](https://teleelx.es/radio/) | [logo](https://graph.facebook.com/teleelx/picture?width=200&height=200) | - | - |
