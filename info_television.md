@@ -665,7 +665,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Red Pat Bolivia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cubavisión TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | CDN 37 República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| Telemicro República Dominicana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telemicro República Dominicana | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | Color Visión República Dominicana | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | HCH Honduras | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | ABC TV Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
