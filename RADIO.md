@@ -276,7 +276,7 @@
 | Radio La Comarca | [mp3](https://radioonlinelacomarca.net:8100/ser.mp3) | [web](https://www.lacomarca.net/radio-streaming/?channel=radio-la-comarca) | [logo](https://graph.facebook.com/lacomarcanews/picture?width=200&height=200) | - | - |
 | Ebro FM | [stream](http://s2.prositel.net:7010/ebrofm) | [web](https://diarioaragones.com) | [logo](https://pbs.twimg.com/profile_images/522841077712044032/6hH3W4_F_200x200.jpeg) | - | - |
 | Rumba FM | [mp3](http://streaming.hdserver.biz:9348/;mp3) | [web](http://www.rumba93.es) | [logo](https://graph.facebook.com/RumbaFMZaragoza/picture?width=200&height=200) | - | - |
-| Radio Calamocha | [mp3](https://directo.radiocalamocha.es:1443/radiocalamocha.mp3) | [web](https://www.radiocalamocha.es/player.html) | [logo](https://graph.facebook.com/radiocalamocha/picture?width=200&height=200) | - | - |
+| Radio Calamocha | [mp3](https://directo.radiocalamocha.es:1443/radiocalamocha.mp3) | [web](https://www.radiocalamocha.es/player.html) | [logo](http://www.radiocalamocha.es/img/radiocalamocha_home.png) | - | - |
 | Radio Chinchilla | [stream](http://streaming.radioalba.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=200&height=200) | - | - |
 | Tea FM | [stream](https://cervera.eldialdigital.com:21161/stream) | [web](http://www.teafm.net) | [logo](https://graph.facebook.com/teafm/picture?width=200&height=200) | - | - |
 | Onda Aragonesa | [stream](http://eu1.lhdserver.es:9046/stream) | [web](https://ondaaragonesa.com) | [logo](https://graph.facebook.com/RadioOndaAragonesa/picture?width=200&height=200) | - | - |
