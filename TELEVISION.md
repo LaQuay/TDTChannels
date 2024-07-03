@@ -703,7 +703,7 @@
 | NBS TV Uganda | [m3u8 # EN](https://readymedia.moderntv.cloud:8092/distribute/readymedia/NBS_Live_stream_ze/5-20-hls/live.m3u8) | [web](https://nbs.ug/live/) | [logo](https://graph.facebook.com/nbstelevision/picture?width=200&height=200) | - | - |
 | TVGE 1 Guinea Ecuatorial | [m3u8](https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](http://www.tvgelive.gq/images/logo-dark.png) | - | - |
 | RASD TV | [m3u8](https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8) | [web](https://rasd.tv) | [logo](https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200) | - | - |
-| SenTV Senegal | [m3u8](https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8) - [youtube](https://www.youtube.com/channel/UCKbMNmSR3KlI9v3xeInHEYA/live) | [web](https://sentv.sn/direct) | [logo](https://graph.facebook.com/sentvtelevision/picture?width=200&height=200) | - | - |
+| SenTV Senegal | [youtube](https://www.youtube.com/channel/UCKbMNmSR3KlI9v3xeInHEYA/live) | [web](https://sentv.sn/Sentv) | [logo](https://graph.facebook.com/sentvtelevision/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 
 ## Int. Otros
 
