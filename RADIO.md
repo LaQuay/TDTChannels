@@ -982,7 +982,6 @@
 | SER Cartagena | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CARTAGENA.mp3) | [web](https://cadenaser.com/radio-cartagena/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Cartagena.Radio | - |
 | SER Lorca | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LORCA.mp3) | [web](https://cadenaser.com/radio-lorca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Lorca.Radio | - |
 | SER Murcia | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3) | [web](https://cadenaser.com/radio-murcia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Murcia.Radio | - |
-| Onda Cieza | [stream](https://sonic.mediatelekom.net/8436/stream) | [web](https://www.ondacieza.com/) | [logo](https://pbs.twimg.com/profile_images/654189936971771904/1y9jkZJ-_200x200.jpg) | - | - |
 | COPE Cartagena | [mp3](https://wecast09-h-cloud.flumotion.com/copesedes/cartagena.mp3) | [web](https://www.cope.es/directos/cartagena) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Espuña | [stream](http://5.135.183.124:8110/stream) | [web](https://copealhama.es.tl) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Lorca | [mp3](https://wecast09-h-cloud.flumotion.com/copesedes/lorca.mp3) | [web](https://www.cope.es/directos/lorca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
@@ -999,9 +998,10 @@
 | esRadio Murcia | [stream](https://sonic.mediatelekom.net/8274/stream) | [web](http://www.esradiomurcia.es) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | Europa FM Murcia | [m3u8](https://atres-live.europafm.com/live/delegaciones/efm/murcia/master.m3u8) | [web](https://www.europafm.com/frecuencias/murcia/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Radio Intereconomía Murcia | [stream](http://eu1.lhdserver.es:9152/stream) | [web](http://intereconomiamurcia.blogspot.com) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | - |
-| Loca FM Murcia | [stream](http://s3.we4stream.com:8045/liv) | [web](https://www.locafm.com/dial/murcia-costa-calida-92-4/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Murcia | [stream](http://s3.we4stream.com:8045/liv) | [web](https://www.locafm.com/dial/murcia-costa-calida-92-4.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Wifon FM | [stream](https://pegasus.nucast.co.uk:2020/stream/8024/live) | [web](http://wifonfm.es/streaming) | [logo](https://graph.facebook.com/wifonfm/picture?width=200&height=200) | - | - |
-| Metropólitan Radio | [stream](https://sonic.mediatelekom.net/8012/stream) | [web](https://metropolisfm.es) | [logo](https://pbs.twimg.com/profile_images/1435351436523626507/lBjfSU1K_200x200.jpg) | - | - |
+| Onda Cieza | [stream](https://sonic.mediatelekom.net/8436/stream) | [web](https://www.ondacieza.com) | [logo](https://pbs.twimg.com/profile_images/654189936971771904/1y9jkZJ-_200x200.jpg) | - | - |
+| Metropólitan Radio | [stream](https://sonic.mediatelekom.net/8012/stream) | [web](https://metropolitan.radio) | [logo](https://pbs.twimg.com/profile_images/1435351436523626507/lBjfSU1K_200x200.jpg) | - | - |
 | Radio Compañía | [stream](https://sonic.mediatelekom.net/8276/stream) | [web](http://radiomolina.com/escuchanos-en-directo/) | [logo](https://graph.facebook.com/radiomolina/picture?width=200&height=200) | - | - |
 | Radio Calasparra | [stream](http://84.232.12.14:8000/RadioCalasparra) | [web](http://www.radiocalasparra.es) | [logo](https://graph.facebook.com/RadioCalasparra/picture?width=200&height=200) | - | - |
 | Caravaca Radio | [stream](http://84.232.12.14:8000/caravacaradio) | [web](https://www.caravacaradio.com) | [logo](https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200) | - | WICE |
