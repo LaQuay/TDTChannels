@@ -68,7 +68,7 @@
 | Loca FM Drum&Bass | [stream](http://s02.fjperezdj.com:8065/live) | [web](https://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Urban | [stream](http://locafm02.we4stream.com:8015/live) | [web](https://www.locafm.com/loca-urban/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | digitalHits FM | [stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](https://www.digitalhits.cat/directe/) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
-| La Urban Radio | [mp3](https://st1.urbanrevolution.es:8443/laurbanfm.mp3) | [web](https://www.urbanrevolution.es/) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
+| La Urban Radio | [mp3](https://st1.urbanrevolution.es:8443/laurbanfm.mp3) | [web](https://www.urbanrevolution.es) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
 
 ## Deportivas
 
@@ -407,7 +407,7 @@
 | - | - | - | - | - | - |
 | Radio Nacional Castilla y León | [stream](https://dispatcher.rndfnk.com/crtve/rne1/cyl/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_cyl-live/3893532/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Castilla y León | [steam](https://dispatcher.rndfnk.com/crtve/rne5/vll/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_cyl-live/3894781/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
-| Radio Marca Burgos | [mp3](https://relay.stream.enacast-cloud.com:30334/radiomarcaburgosSD.mp3) | [web](https://www.radiomarcaburgos.com/) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
+| Radio Marca Burgos | [mp3](https://relay.stream.enacast-cloud.com:30334/radiomarcaburgosSD.mp3) | [web](https://www.radiomarcaburgos.com) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | Radio Marca Valladolid | [mp3](https://radiomarcavalladolid.streaming-pro.com:6106/radiomarca.mp3) | [web](http://radiomarcavalladolid.com) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | SER Aranda | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ARANDA.mp3) | [web](https://cadenaser.com/radio-aranda/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Aranda.Radio | - |
 | SER Ávila | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_AVILA.mp3) | [web](https://cadenaser.com/ser-avila/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Avila.Radio | - |
@@ -859,7 +859,7 @@
 | Titoieta Ràdio | [stream](http://s3radio.hostingwebcloud.com:8058/stream) | [web](http://www.titoieta.cat/sintonitzador.php) | [logo](https://graph.facebook.com/titoieta/picture?width=200&height=200) | - | WICE |
 | Radio Balear.es | [stream](https://server10.emitironline.com:8076/stream) | [web](https://radiobalear.net/radio-en-directo/) | [logo](https://graph.facebook.com/rbalear.interbaleares/picture?width=200&height=200) | - | - |
 | Formentera Radio | [stream](https://eu1.lhdserver.es:3153/stream) | [web](https://players.lhdserver.es/social/formentera/playersocial/index.html) | [logo](https://yt3.googleusercontent.com/_xq2wmrPoMFSqUoyBIlMb1SzkrWyb80PgKf0h9gJ5Wwnl0W1n_wOZmbQZXvnERLApZksVdia=s200) | - | - |
-| SAM Ibiza | [m3u8](https://hls1.eu.peppermindmedia.com/samibiza/audio/playlist.m3u8) | [web](https://samibiza.com/) | [logo](https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200) | - | - |
+| SAM Ibiza | [m3u8](https://hls1.eu.peppermindmedia.com/samibiza/audio/playlist.m3u8) | [web](https://samibiza.com) | [logo](https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200) | - | - |
 | Radio Murta | [stream](https://murta.recasound.es/stream) | [web](https://www.grup4.com/?page_id=10861) | [logo](https://static-media.streema.com/media/cache/c1/a3/c1a323d20e5cd83f4199fb3f23961f41.jpg) | - | WICE |
 | Radio Es Castell | [stream](https://escastell.recasound.es/stream) | [web](https://www.aj-escastell.org/Contingut.aspx?IDIOMA=2&IdPub=1614) | [logo](https://graph.facebook.com/ajescastell/picture?width=200&height=200) | - | WICE |
 | Ushuaia Radio | [stream](https://s4.radio.co/sc6f29e098/listen) | [web](https://ushuaia.radio) | [logo](https://yt3.googleusercontent.com/QOZ-pdDPKRBJhZ1w3Qe6y9r9fO243sDLlgLHTyL3sq7E2dldgkKeGlartFMy5YoQ5CQQcGBQgQ=s200) | - | - |
@@ -972,7 +972,7 @@
 | Xtrema FM | [stream](https://server1.radiocast.es/listen/xtrema_fm/xtremafm) | [web](https://www.xtremafm.es) | [logo](https://graph.facebook.com/xtremafm/picture?width=200&height=200) | - | - |
 | APQ Radio | [stream](http://stm1.emiteonline.com:8012/apqradio) | [web](http://www.apqradio.es) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | WICE |
 | Radio Líder | [stream](https://server8.emitironline.com:18462/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
-| La Mega FM | [mp3](https://broadcast.radioponiente.org:8032/;.mp3) | [web](https://www.lamegafmasturias.com/) | [logo](https://yt3.googleusercontent.com/vSWjeYIVxQD-Ba_LLzcZb70Sy1vKwhIqDA0-kTBGvsrbjNPmMcIhJC9JcomFZDtiLnjOHqUx1A=s200) | - | - |
+| La Mega FM | [mp3](https://broadcast.radioponiente.org:8032/;.mp3) | [web](https://www.lamegafmasturias.com) | [logo](https://yt3.googleusercontent.com/vSWjeYIVxQD-Ba_LLzcZb70Sy1vKwhIqDA0-kTBGvsrbjNPmMcIhJC9JcomFZDtiLnjOHqUx1A=s200) | - | - |
 
 ### R. de Murcia
 
