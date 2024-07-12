@@ -744,7 +744,7 @@
 | Spektra TV España | [m3u8](https://cloudvideo.servers10.com:8081/8136/index.m3u8) | [web](https://spektratv.com) | [logo](https://graph.facebook.com/SpektraTelevision/picture?width=200&height=200) | - | - |
 | STZ Telebista España | [m3u8](https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8) | [web](https://stztelebista.com) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
 | Verbena TV España | [m3u8](https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8) | [web](https://verbenafm.com) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
-| RM TV España | [m3u8](https://limited43.todostreaming.es/live/simbana-livestream19.m3u8) | [web](https://rmradio.es/tv/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | - |
+| RM TV España | [m3u8](https://limited43.todostreaming.es/live/simbana-livestream19.m3u8) | [web](https://rmradio.es/tv/) | [logo](https://pbs.twimg.com/profile_images/1227224148079980544/kkxXv9jL_200x200.jpg) | - | - |
 | One TV España | [m3u8](https://eu1.servers10.com:19360/onetv-1/onetv-1.m3u8) | [web](https://onetv.es) | [logo](https://graph.facebook.com/onetveseuropa/picture?width=200&height=200) | - | NONAV |
 | RTL 102.5 Italia | [m3u8 # IT](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8) | [web](https://www.rtl.it/radiovisione) | [logo](https://graph.facebook.com/RTL102.5/picture?width=200&height=200) | - | - |
 | Kronehit Austria | [m3u8](https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8) | [web](https://www.kronehit.at/) | [logo](https://graph.facebook.com/kronehit/picture?width=200&height=200) | - | - |
