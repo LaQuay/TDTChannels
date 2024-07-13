@@ -699,7 +699,7 @@
 | Remember The Music FM | [stream](https://eu1.lhdserver.es:9041/stream) | [web](https://rememberthemusicfm.com) | [logo](https://pbs.twimg.com/profile_images/1034848375705878528/qt4gn64O_200x200.jpg) | - | - |
 | TeleElx Radio | [mp3](https://directo.teleelx.es:8000/radio.mp3) | [web](https://teleelx.es/radio/) | [logo](https://graph.facebook.com/teleelx/picture?width=200&height=200) | - | - |
 | Hot FM Benidorm | [stream](https://ukwesta.streaming.broadcast.radio/hotfm918) | [web](https://www.hotfm.fm/listen-live-gold-91-8) | [logo](https://graph.facebook.com/HotFMSpain/picture?width=200&height=200) | - | WICE |
-| RM Requena Utiel | [stream](https://cast.rmradio.es/radio/8010/stream) | [web](https://www.rmradio.es) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
+| RM Requena Utiel | [stream](https://cast.rmradio.es/radio/8010/stream) | [web](https://www.rmradio.es) | [logo](https://pbs.twimg.com/profile_images/1227224148079980544/kkxXv9jL_200x200.jpg) | - | WICE |
 | Radio Esport Valencia | [stream](https://streaming.radioesport914.com:58000/stream) | [web](https://radioesport914.com) | [logo](https://graph.facebook.com/radioesport914/picture?width=200&height=200) | - | WICE |
 | Torrevieja Radio | [stream](https://sonicpanel.globalstream.pro:10973/;) | [web](https://torreviejaradio.com) | [logo](https://graph.facebook.com/TorreviejaRadio107.1/picture?width=200&height=200) | - | - |
 | Alzira Ràdio | [mp3](https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3) | [web](https://alziraradio.com/alzira-radio-en-directe/) | [logo](https://graph.facebook.com/alziraradio/picture?width=200&height=200) | - | - |
