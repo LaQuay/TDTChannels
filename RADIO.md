@@ -1044,7 +1044,7 @@
 | RPP Noticias Perú | [m3u8](https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8) | [web](https://rpp.pe/audio/) | [logo](https://graph.facebook.com/rppnoticias/picture?width=200&height=200) | - | - |
 | Radio La Zona Perú | [stream](https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio) | [web](https://audioplayer.pe/lazona) | [logo](https://graph.facebook.com/Radiolazona/picture?width=200&height=200) | - | - |
 | Radio Oxígeno Perú | [stream](https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio) | [web](https://radio.oxigeno.com.pe) | [logo](https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200) | - | - |
-| Radio Z Rock & Pop Perú | [stream](https://stream.cusac.online/885-26fea3af-c83a-4d7e) | [web](https://radioz.pe) | [logo](https://graph.facebook.com/ZRocknPop/picture?width=200&height=200) | - | - |
+| Radio Z Rock & Pop Perú | [stream](https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/) | [web](https://radioz.pe) | [logo](https://graph.facebook.com/ZRocknPop/picture?width=200&height=200) | - | - |
 | Radio Nacional Perú | [m3u8](https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8) | [web](https://www.radionacional.com.pe/alacarta) | [logo](https://graph.facebook.com/radionacionaldelperu/picture?width=200&height=200) | - | - |
 | DelSol Uruguay | [stream](https://delsol-2.nty.uy/stream/1/) | [web](https://delsol.uy/envivo) | [logo](https://graph.facebook.com/DelSolUy/picture?width=200&height=200) | - | - |
 | Alfa 91.3 Mexico | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FM.mp3) | [web](https://alfaenlinea.com) | [logo](https://graph.facebook.com/Alfa913mx/picture?width=200&height=200) | - | - |
