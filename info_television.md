@@ -223,7 +223,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Costa del Sol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Ronda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Sal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vivamóvil TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Carmona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -783,7 +783,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | The K-POP Korea | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |
 | Rock TV Romania | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| RadioU TV | - | - | - | - | - | - | - | - |
+| RadioU TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - | - |
 | Otto FM Italia | - | - | - | - | - | - | - | - |
 | Ibiza Global TV | - | - | - | - | - | - | - | - |
