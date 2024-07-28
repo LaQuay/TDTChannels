@@ -320,7 +320,7 @@
 | Radio Guiniguada | [stream](https://stream.zeno.fm/tw4vmmrwhrhvv) | [web](http://www.radioguiniguada.com) | [logo](https://graph.facebook.com/radioguiniguada/picture?width=200&height=200) | - | - |
 | Radio Gigante | [stream](https://server8.emitironline.com:18163/stream) | [web](https://radiogigante.com) | [logo](https://graph.facebook.com/radiogigantecanarias/picture?width=200&height=200) | - | - |
 | Radio Carnaval Tenerife | [stream](https://eu1.lhdserver.es:2969/stream) | [web](https://multicarnaval.com) | [logo](https://graph.facebook.com/Multicarnaval/picture?width=200&height=200) | - | - |
-| Radio San Borondón | [stream](http://s3radio.hostingwebcloud.com:8053/stream) | [web](http://www.sanborondon.info/images/_streamer/rsb.html) | [logo](https://graph.facebook.com/RSanBorondon/picture?width=200&height=200) | - | WICE |
+| Radio San Borondón | [stream](https://cast5.my-control-panel.com/proxy/carlosal/stream) | [web](http://www.sanborondon.info) | [logo](https://graph.facebook.com/RSanBorondon/picture?width=200&height=200) | - | WICE |
 | MIX FM Radio | [stream](https://server10.emitironline.com:8064/stream) | [web](https://www.mixfm-radio.com) | [logo](https://yt3.ggpht.com/ytc/AKedOLQaktY1_Rv_MrWTve_Lj8JyaB9EektpPVByC6G0=s200-c-k-c0x00ffffff-no-rj) | - | - |
 | La Mueve | [mp3](https://relay.stream.enacast-cloud.com:40227/lamuevefmHD.mp3) | [web](https://www.lamueve.com) | [logo](https://graph.facebook.com/lamueveradio/picture?width=200&height=200) | - | - |
 | 9 Radio | [stream](https://app.sonicpanelradio.com/8072/stream) | [web](https://9radio.es) | [logo](https://graph.facebook.com/9radiocanarias/picture?width=200&height=200) | - | - |
