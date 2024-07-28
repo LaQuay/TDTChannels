@@ -846,7 +846,7 @@
 | Ibiza Global Radio | [stream](https://listenssl.ibizaglobalradio.com:8024/stream) | [web](https://ibizaglobalradio.com/player/) | [logo](https://graph.facebook.com/ibiza.radio/picture?width=200&height=200) | - | - |
 | Ibiza Sonica Radio | [stream](https://ibizasonica.streaming-pro.com:8000/ibizasonica) | [web](https://www.ibizasonica.com) | [logo](https://graph.facebook.com/ibizasonicaradio/picture?width=200&height=200) | - | - |
 | Das Inselradio | [mp3](https://stream.inselradio.com/high.inselradio.mp3) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/DasInselradio/picture?width=200&height=200) | - | - |
-| Canal 4 Ràdio | [stream](https://canal4radio.recasound.es/stream) | [web](https://www.grup4.com/?page_id=1241) | [logo](https://pbs.twimg.com/profile_images/1171423029806551040/WudNlkcd_200x200.jpg) | - | WICE |
+| Canal 4 Ràdio | [stream](https://stream.recasound.es/proxy/canal4radio/stream) | [web](https://www.grup4.com/?page_id=1241) | [logo](https://pbs.twimg.com/profile_images/1171423029806551040/WudNlkcd_200x200.jpg) | - | WICE |
 | Radio OneMallorca | [stream](https://pegasus.nucast.co.uk:8004/stream) | [web](http://www.radioonemallorca.com) | [logo](https://graph.facebook.com/RadioOneMallorca/picture?width=200&height=200) | - | WICE |
 | Mallorca Sunshine Radio | [mp3](https://stream2.inselradio.com/high.sunshine.mp3) | [web](https://www.mallorcasunshineradio.com/player/) | [logo](https://graph.facebook.com/MallorcaSunshineRadio/picture?width=200&height=200) | - | - |
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=200&height=200) | - | - |
