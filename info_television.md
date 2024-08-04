@@ -101,7 +101,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | LEGO Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Paka Paka | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Nick Jr | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Eventuales
 
