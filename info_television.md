@@ -632,6 +632,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Telepacifico Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Telecaribe Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal TRO Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| Citytv Colombia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Todo Noticias Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | C5N Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Telefé Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
