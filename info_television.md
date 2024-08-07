@@ -336,7 +336,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 24h Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bon Dia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Parlament | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
-| betevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Enlace no compatible con reproductores FFmpeg |
+| betevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión no compatible con ciertos reproductores (FFmpeg) |
 | Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terres de l'Ebre | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal TE24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
