@@ -287,7 +287,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| Castilla-La Mancha Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Enlace no compatible con reproductores FFmpeg |
+| Castilla-La Mancha Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión no compatible con ciertos reproductores (FFmpeg) |
 | TV Hellín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Guada TV Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Visión 6 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
