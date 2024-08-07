@@ -873,10 +873,10 @@
 | Europa FM Logroño | [m3u8](https://atres-live.europafm.com/live/delegaciones/efm/logrono/master.m3u8) | [web](https://www.europafm.com/frecuencias/logrono/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | EuropaFM.Radio | - |
 | Europa FM Rioja | [m3u8](https://atres-live.europafm.com/live/delegaciones/efm/logrono/master.m3u8) | [web](https://www.europafm.com/frecuencias/larioja/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | EuropaFM.Radio | - |
 | Melodía FM Rioja | [m3u8](https://atres-live.melodia-fm.com/live/melodiafm/master.m3u8) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=200&height=200) | - | - |
+| esRadio Arnedo | [stream](https://stream20.usastreams.com/8154/stream) | [web](https://www.radioarnedo.com) | [logo](https://graph.facebook.com/ondarioja.radioarnedo/picture?width=200&height=200) | - | - |
 | Radio Logroño | [stream](https://sonic.mediatelekom.net/8246/stream) | [web](https://radiologrono.es) | [logo](https://graph.facebook.com/radiologrono/picture?width=200&height=200) | - | - |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.canalebro.com/radioonline/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
 | Onda Ocio | [stream](https://radioserver10.profesionalhosting.com:23334/stream) | [web](https://www.ondaocio.es) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | WICE |
-| esRadio Arnedo | [stream](https://stream20.usastreams.com/8154/stream) | [web](https://www.radioarnedo.com/) | [logo](https://pbs.twimg.com/profile_images/643394226580029440/rQU2yyFO_200x200.jpg) | - | - |
 
 ### Melilla
 
