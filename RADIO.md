@@ -324,6 +324,7 @@
 | La Mueve | [mp3](https://relay.stream.enacast-cloud.com:40227/lamuevefmHD.mp3) | [web](https://www.lamueve.com) | [logo](https://graph.facebook.com/lamueveradio/picture?width=200&height=200) | - | - |
 | 9 Radio | [stream](https://app.sonicpanelradio.com/8072/stream) | [web](https://9radio.es) | [logo](https://graph.facebook.com/9radiocanarias/picture?width=200&height=200) | - | - |
 | Radio Teide | [stream](http://c01.lexycast.de:5070/.mp3) | [web](https://www.radioteide.eu) | [logo](https://graph.facebook.com/RadioTeide/picture?width=200&height=200) | - | - |
+| Radio Marca Lanzarote | [m3u8](https://5c0956165db0b.streamlock.net/radio/marca.stream_aac/playlist.m3u8) | [web](https://lancelot.es/radio.php) | [logo](https://graph.facebook.com/RadioMarcaLanzarote/picture?width=200&height=200) | - | - |
 
 ### Cantabria
 
