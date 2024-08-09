@@ -262,6 +262,7 @@
 | Cantabria TV | [youtube](https://www.youtube.com/channel/UC0sXB5ZoIoXWvqdizegaifg/live) | [web](http://www.cantabriatv.es) | [logo](https://graph.facebook.com/vegavisiontvcantabria/picture?width=200&height=200) | - | EMB |
 | 11 TV Laredo | [youtube](https://www.youtube.com/channel/UCuPHaVBv7cd-wWx3ztpALQw/live) | [web](https://www.11tv.es) | [logo](https://graph.facebook.com/11TvCantabria/picture?width=200&height=200) | - | EMB |
 | Popular TV Cantabria | [m3u8](https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](https://populartvcantabria.com/en-directo/) | [logo](https://graph.facebook.com/populartvcantabria/picture?width=200&height=200) | PopularTV_S.TV | - |
+| De Laredu Lin TV | [m3u8](https://eu1.servers10.com:8081/8034/tracks-v1a1/mono.m3u8) | [web](https://delaredulintv.com/video/tv-online/) | [logo](https://graph.facebook.com/delaredulintv/picture?width=200&height=200) | - | NONAV |
 
 ### Castilla-La Mancha
 
