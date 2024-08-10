@@ -239,7 +239,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TV Canaria | [youtube](https://www.youtube.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ/live) | [web](https://rtvc.es/en-directo/) | [logo](https://graph.facebook.com/188600904655/picture?width=200&height=200) | Canarias.TV | EMB |
+| TV Canaria | [youtube](https://www.youtube.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ/live) | [web](https://rtvc.es/en-directo/) | [logo](https://graph.facebook.com/188600904655/picture?width=200&height=200) | Canarias.TV | W3U,EMB,EXTA |
 | GranCanariaTV.com | [youtube](https://www.youtube.com/channel/UCDdnBGLNmifjQqHjAA_DUrA/live) | [web](https://www.grancanariatv.com) | [logo](https://graph.facebook.com/GranCanariaTV/picture?width=200&height=200) | - | EMB |
 | La 1 Canarias | [m3u8](https://ztnr.rtve.es/ztnr/5190066.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-canarias/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1_CAT.TV | - |
 | La 2 Canarias | [m3u8](https://ztnr.rtve.es/ztnr/5468585.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-canarias/la-2-can/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2_CAT.TV | - |
