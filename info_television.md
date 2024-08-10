@@ -766,6 +766,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | One TV España | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Tevecan 9 España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
 | Kronehit Austria | - | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - | - |
