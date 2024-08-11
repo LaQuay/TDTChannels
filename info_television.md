@@ -213,7 +213,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TeleQuivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Telemotril | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Telemotril | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV Úbeda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV Las Villas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
