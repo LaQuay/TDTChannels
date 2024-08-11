@@ -85,7 +85,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Mundo Nautica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MyPadel TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Futsalmafer.tv | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Futsalmafer.tv | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Infantiles
 
@@ -297,7 +297,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Ciudad Real TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal 4 Mancha Centro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleToledo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 2000 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 2000 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Castilla y León
 
