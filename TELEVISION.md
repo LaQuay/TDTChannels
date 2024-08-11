@@ -500,7 +500,7 @@
 | Goierri Irrati TV | [m3u8](https://streaming.gitb.eus/hls/z.m3u8) | [web](https://gitb.eus/telebista/zuzenekoa) | [logo](https://graph.facebook.com/GoierriIrratiTelebista/picture?width=200&height=200) | - | - |
 | 28 Kanala | [m3u8](https://streaming.28kanala.eus/hls/z.m3u8) | [web](https://28kanala.eus/telebista/zuzenekoa) | [logo](https://graph.facebook.com/28kanala/picture?width=200&height=200) | - | - |
 | TeleBilbao | [m3u8](https://tbilbo.dyndns.org/hls/stream.m3u8) | [web](https://www.telebilbao.es/directo/) | [logo](https://graph.facebook.com/312994995454199/picture?width=200&height=200) | - | NONAV,UAG |
-| Erlo TV | [m3u8](https://streaming.ukt.eus/hls/test.m3u8) | [web](http://www.erlotelebista.eus) | [logo](https://graph.facebook.com/542582126141223/picture?width=200&height=200) | - | - |
+| GUKA TB | [m3u8](https://streaming.ukt.eus/hls/test.m3u8) | [web](https://guka.eus/telebista/zuzenekoa) | [logo](https://graph.facebook.com/guka.eus/picture?width=200&height=200) | - | - |
 | Oizmendi TV | [m3u8](https://zuzenean.oizmendi.eus/hls/z.m3u8) | [web](https://zuzenean.oizmendi.eus) | [logo](https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200) | - | - |
 | Urola TV | [m3u8](https://5940924978228.streamlock.net/j_Directo2/j_Directo2/playlist.m3u8) | [web](https://www.urolatelebista.com) | [logo](https://graph.facebook.com/urolatelebista/picture?width=200&height=200) | - | - |
 
