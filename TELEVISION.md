@@ -435,7 +435,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Extremadura | - | [web](https://www.canalextremadura.es/directo/television) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | W3U,EXTA,NONAV |
+| Canal Extremadura | - | [web](https://www.canalextremadura.es/directo/television) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | W3U,EMB,EXTA |
 | TV Extremeña | [stream](https://player.twitch.tv/?channel=tvextremena&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.xn--televisionextremea-30b.com/directo/) | [logo](https://graph.facebook.com/TELEVISIONEXTREMENA/picture?width=200&height=200) | - | EMB |
 | Nuestra Comarca TV | [stream](https://player.twitch.tv/?channel=nuestracomarcatelevision&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.nuestracomarca.com) | [logo](https://graph.facebook.com/nuestra.comarca/picture?width=200&height=200) | - | EMB |
 | Villafranca TV | [youtube](https://www.youtube.com/channel/UCIp5TEcJidiaN3p_mguOrTQ/live) | [web](http://www.villafrancadelosbarros.es/index.php/medios-de-comunicacion) | [logo](https://pbs.twimg.com/profile_images/1180389927709810688/BgzpxkjA_200x200.jpg) | - | EMB |
