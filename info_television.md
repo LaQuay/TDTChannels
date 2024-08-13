@@ -281,6 +281,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | - | - | - | - | - | - | - | - | - |
 | Cantabria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | 11 TV Laredo | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| De Laredu Lin TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Popular TV Cantabria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Castilla-La Mancha
