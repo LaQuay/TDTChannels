@@ -84,7 +84,7 @@
 | LEGO Friends | [youtube](https://www.youtube.com/channel/UCP-Ng5SXUEt0VE-TXqRdL6g/live) | [web](https://www.youtube.com/channel/UCP-Ng5SXUEt0VE-TXqRdL6g) | [logo](https://pbs.twimg.com/profile_images/378800000257143498/6dbc45c353f641ef85ca51f75533a7e1_200x200.jpeg) | - | EMB |
 | Little Baby Bum | [youtube](https://www.youtube.com/channel/UCHicabXz9rUMWLcdMqBtbxQ/live) | [web](https://www.youtube.com/user/LittleBabyBumEspanol) | [logo](https://yt3.ggpht.com/a/AATXAJwn3r9U07S7ZOqoGZLUbuYHWiIqpE8xuLJsyg=s200) | - | EMB |
 | Talking Tom and Friends | [youtube](https://www.youtube.com/channel/UCC9R-cxQeOpPhq2lAru0V8w/live) | [web](https://www.youtube.com/TomFriendsEs) | [logo](https://yt3.ggpht.com/a/AATXAJwpm-5h1rjcPqno5uANZr75VhhCYKv4PS02gLUS0A=s200) | - | EMB |
-| Paka Paka | [m3u8](https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8) | [web](https://www.pakapaka.gob.ar/) | [logo](https://graph.facebook.com/canalpakapaka/picture?width=200&height=200) | - | - |
+| Nick Jr | [youtube](https://www.youtube.com/live/455NcD4Jnew) | [web](https://www.youtube.com/@NickJrEspanol/streams) | [logo](https://yt3.googleusercontent.com/YDp7l0bjkbUxzVFESmFqCl7csIUntX2nHmyDJX0y6Y6xVk106OGckYRuBaLfnG7kyQEW5PvdQis=s200) | - | EMB |
 
 ## Eventuales
 
