@@ -706,7 +706,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| ABC Australia | [m3u8 # EN](https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8) | [web](https://iview.abc.net.au/show/abc-live-stream) | [logo](https://graph.facebook.com/abcnews.au/picture?width=200&height=200) | - | - |
+| ABC News Australia | [m3u8 # EN](https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8) | [web](https://iview.abc.net.au/video/NS1413V001S00) | [logo](https://graph.facebook.com/abcnews.au/picture?width=200&height=200) | - | - |
 | United Nations TV | - | [web](https://media.un.org/en/webtv/) | [logo](https://graph.facebook.com/unitednations/picture?width=200&height=200) | - | W3U,EXTA |
 | Bloomberg Quicktake | [m3u8 # EN](https://www.bloomberg.com/media-manifest/streams/qt.m3u8) | [web](https://www.bloomberg.com/qt/live) | [logo](https://yt3.googleusercontent.com/67h6bB9Vlw5SpQkWek4Uk8weqxzaPNGH76sAMK4j431Jx8JlUt8mblVlTCwseeb7rDavn3yBJA=s200) | - | - |
 | Tastemade | [m3u8](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8) - [m3u8 # EN](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeinternationalenglish24i-ono/playlist.m3u8) | [web](https://watch.tastemade.com/live-tv) | [logo](https://graph.facebook.com/TastemadeEs/picture?width=200&height=200) | - | - |
