@@ -763,7 +763,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Cadena Elite España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Molahits TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Urban TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Spektra TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | STZ Telebista España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
