@@ -268,8 +268,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Castilla-La Mancha Media | - | [web](https://www.cmmedia.es/play/en-directo/tv) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | CMM.TV | W3U,EXTA,UAG |
-| Castilla-La Mancha Radio | - | [web](https://www.cmmedia.es/play/en-directo/radio/visual.html) | [logo](https://graph.facebook.com/RadioCLMes/picture?width=200&height=200) | - | W3U,EXTA,UAG |
+| Castilla-La Mancha Media | [m3u8](https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_ski67o97/protocol/https/format/applehttp/flavorIds/1_j798obxa,1_laa7c3yp,1_0dz7pqq5,1_mb6o228p,1_z38wqasa/manifest.m3u8) | [web](https://www.cmmedia.es/play/en-directo/tv) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | CMM.TV | W3U,EXTA,UAG |
+| Castilla-La Mancha Radio | [m3u8](https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_belryxvp/protocol/https/format/applehttp/flavorIds/1_z9x5q1th,1_vc9s7i8w,1_rfi2j62w/manifest.m3u8) | [web](https://www.cmmedia.es/play/en-directo/radio/visual.html) | [logo](https://graph.facebook.com/RadioCLMes/picture?width=200&height=200) | - | W3U,EXTA,UAG |
 | TV Hellín | [m3u8](https://5940924978228.streamlock.net/directohellin/directohellin/playlist.m3u8) | [web](https://televisionhellin.com/tvhellindirecto.html) | [logo](https://graph.facebook.com/tvhellin/picture?width=200&height=200) | - | - |
 | Guada TV Media | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/guadatv/guadatv.m3u8) | [web](http://www.guadatv.tv/streaming/) | [logo](https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200) | - | REFG1 |
 | Visión 6 TV | [m3u8](https://streaming.proceso.info:8888/vision6-web/stream.m3u8) | [web](http://www.visionseis.tv/tv-online-vision-seis/) | [logo](https://graph.facebook.com/104927246235553/picture?width=200&height=200) | - | NONAV |
