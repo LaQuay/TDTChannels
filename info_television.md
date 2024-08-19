@@ -84,7 +84,6 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | FedHielo TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Mundo Nautica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| MyPadel TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Futsalmafer.tv | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Infantiles
