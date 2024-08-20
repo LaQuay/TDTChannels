@@ -1,21 +1,24 @@
 # Estado de los canales de televisión
 
-A continuación puedes ver el estado de las emisiones, en qué sitios funciona y en cuales no. No refleja cambios en tiempo real. Se actualiza de forma manual.
+A continuación puedes ver el estado de las emisiones, en qué sitios funciona y en cuales no. Esta lista no refleja 
+los cambios que puedan ocurrir en las emisoras de forma puntual. Además, se actualiza de forma manual. Puedes ver en la 
+parte superior de esta web la última fecha de actualización.
 
+Estos son los posibles estados de la lista:
 - ✔ → Funcionando
 - 🌐 → Disponible mediante navegador web (externo o embebido)
 - ▶ → Disponible reproductor de terceros de forma embebida (YouTube, Vimeo, Twitch, Dailymotion, ...)
 - ❌ → No funciona
 - ➖ → Desconocido
-- ❗ → Problemas reportados
+- ❗ → Problemas reportados, mira la columna de "más info".
 
-Android y iOS significan TDTChannels Android y TDTChannels iOS, aplicaciones oficiales del proyecto.
-W3U es el formato de lista de Wiseplay.
-Cualquier otra aplicación para Android y iOS es considerada que utiliza la lista M3U/M3U8.
+Android y iOS significan [TDTChannels Player Android](https://www.tdtchannels.com/android/) y 
+[TDTChannels Player iOS](https://www.tdtchannels.com/ios/), las aplicaciones oficiales del proyecto.
+W3U es el formato de lista para la aplicación Wiseplay.
 
-Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe de ser correcta, el huso horario no importa.
+Nota: Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe de ser correcta, el huso horario no importa.
 
-Si deseas disponer de más información acerca de qué significa cada lista visita [TDTChannels - Listas](https://www.tdtchannels.com/listas)
+Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más información acerca de qué significa cada lista. 
 
 ## Nacionales
 
@@ -337,7 +340,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 24h Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bon Dia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Parlament | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
-| betevé | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| betevé | ✔ | 🌐 | ▶ | ❌ | ❌ | ❌ | ✔ | - |
 | Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terres de l'Ebre | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal TE24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
