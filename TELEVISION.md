@@ -714,6 +714,7 @@
 | Classic Arts Showcase | [m3u8 # EN](https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8) | [web](https://www.classicartsshowcase.org/watch-classic-arts-showcase/) | [logo](https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg) | - | - |
 | Mr Bean 24h | [youtube # EN](https://www.youtube.com/channel/UCkAGrHCLFmlK3H2kd6isipg/live) | [web](https://www.mrbean.com) | [logo](https://graph.facebook.com/MrBean/picture?width=200&height=200) | - | EMB |
 | AKC TV Dogs | [m3u8 # EN # 1](https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8) - [m3u8 # EN # 2](https://install.akctvcontrol.com/speed/broadcast/141/desktop-playlist.m3u8) | [web](https://akc.tv) | [logo](https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200) | - | - |
+| Earth TV | [stream](https://player.earthtv.com/?token=EAIY6wE4osiMWEgG.CgdlYXJ0aHR2EgtMTnJTM2E0QUJjbxoLSGljWUp6RUFCNUU.Zi8kA2JhC9NepQoaRue05uR6yMmW-UeiwnpJerMi7bkIV-yj4jU9M1PjaQP-d8sBdROeIiGkz8BeflskG9M25w) | [web](https://www.earthtv.com/en) | [logo](https://graph.facebook.com/earthTV/picture?width=200&height=200) | - | W3U,EMB,EXTB |
 
 ## Deportivos Int.
 

@@ -737,6 +737,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Classic Arts Showcase | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mr Bean 24h | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | AKC TV Dogs | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Earth TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Deportivos Int.
 
