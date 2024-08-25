@@ -856,7 +856,7 @@
 | Radio Balear.es | [stream](https://server10.emitironline.com:8076/stream) | [web](https://radiobalear.net/radio-en-directo/) | [logo](https://graph.facebook.com/rbalear.interbaleares/picture?width=200&height=200) | - | - |
 | Formentera Radio | [stream](https://eu1.lhdserver.es:3153/stream) | [web](https://players.lhdserver.es/social/formentera/playersocial/index.html) | [logo](https://yt3.googleusercontent.com/_xq2wmrPoMFSqUoyBIlMb1SzkrWyb80PgKf0h9gJ5Wwnl0W1n_wOZmbQZXvnERLApZksVdia=s200) | - | - |
 | SAM Ibiza | [m3u8](https://hls1.eu.peppermindmedia.com/samibiza/audio/playlist.m3u8) | [web](https://samibiza.com) | [logo](https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200) | - | - |
-| Radio Murta | [stream](https://murta.recasound.es/stream) | [web](https://www.grup4.com/?page_id=10861) | [logo](https://static-media.streema.com/media/cache/c1/a3/c1a323d20e5cd83f4199fb3f23961f41.jpg) | - | WICE |
+| Radio Murta | [stream](https://stream.recasound.es/proxy/radiomurta/stream) | [web](https://www.grup4.com/?page_id=10861) | [logo](https://static-media.streema.com/media/cache/c1/a3/c1a323d20e5cd83f4199fb3f23961f41.jpg) | - | WICE |
 | Radio Es Castell | [stream](https://stream.recasound.es/proxy/escastell/stream) | [web](https://www.aj-escastell.org/Contingut.aspx?IDIOMA=2&IdPub=1614) | [logo](https://graph.facebook.com/ajescastell/picture?width=200&height=200) | - | WICE |
 | Ushuaia Radio | [stream](https://s4.radio.co/sc6f29e098/listen) | [web](https://ushuaia.radio) | [logo](https://yt3.googleusercontent.com/QOZ-pdDPKRBJhZ1w3Qe6y9r9fO243sDLlgLHTyL3sq7E2dldgkKeGlartFMy5YoQ5CQQcGBQgQ=s200) | - | - |
 
