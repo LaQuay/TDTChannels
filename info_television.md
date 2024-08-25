@@ -629,6 +629,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Quiero TV Mexico | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Mexico Travel TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Estrella TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TELE 10 Nayarit Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Noticias Caracol Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Teleantioquia Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Señal Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
