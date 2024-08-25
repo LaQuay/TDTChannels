@@ -441,7 +441,7 @@
 | Europa FM Medina | [stream](https://server10.emitironline.com:8102/;) | [web](https://www.ondacerotierrasdemedina.es/escuchar-europafm-medina-del-campo-en-directo/) | [logo](https://graph.facebook.com/EuropaFmAndalucia/picture?width=200&height=200) | - | - |
 | esRadio Castilla y León | [aac](https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-low.aac) | [web](https://esradio.libertaddigital.com/castilla-y-leon/directo.html) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | esRadio Soria | [stream](https://srv6021.dns-lcinternet.com:10256/stream) | [web](https://esradio.libertaddigital.com/castilla-y-leon/soria.html) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
-| Onda Medina | [mp3](http://s28.myradiostream.com:13006/listen.mp3) | [web](https://www.lavozdemedinadigital.com/wordpress/) | [logo](https://graph.facebook.com/280328462004853/picture?width=200&height=200) | - | - |
+| Onda Medina | [stream](https://s4.voscast.com:8753/stream) | [web](https://www.lavozdemedinadigital.com/wordpress/) | [logo](https://graph.facebook.com/280328462004853/picture?width=200&height=200) | - | - |
 | Radio Evolución Burgos | [stream](http://radioevolucion.freeddns.org:8001/fibra_baja) | [web](https://radioevolucion.es/directo.html) | [logo](https://graph.facebook.com/Radioevolucionburgos/picture?width=200&height=200) | - | WICE |
 | Radio Espinosa Merindades | [stream](https://srv7021.dns-lcinternet.com/8072/stream) | [web](http://www.radioespinosamerindades.es) | [logo](https://graph.facebook.com/radioespinosamerindades/picture?width=200&height=200) | - | - |
 | Miranda FM | [stream](https://srv7031.dns-lcinternet.com/8058/stream) | [web](https://www.mirandafm.es/radio.html) | [logo](https://graph.facebook.com/1416829051928207/picture?width=200&height=200) | - | - |
@@ -1012,8 +1012,8 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Radio Exterior | [m3u8](https://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-exterior/) | [logo](https://graph.facebook.com/RadioExterior/picture?width=200&height=200) | - | - |
-| RNA Andorra | [m3u8](https://live-edge-ams-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C023/rna/index.m3u8) | [web](http://www.andorradifusio.ad/endirecte/rna) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | - | - |
-| AM Andorra | [m3u8](https://live-edge-ams-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C024/am/index.m3u8) | [web](http://www.andorradifusio.ad/endirecte/am) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | - | - |
+| RNA Andorra | [m3u8](https://live-edge-eu-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C023/live-196/index.m3u8) | [web](http://www.andorradifusio.ad/endirecte/rna) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | - | - |
+| AM Andorra | [m3u8](https://live-edge-ams-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C024/live-196/index.m3u8) | [web](http://www.andorradifusio.ad/endirecte/am) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | - | - |
 | SER Andorra | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3) | [web](https://play.cadenaser.com/emisora/radio_ser_principat_d_andorra/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Andorra.Radio | - |
 | Flaix Andorra | [mp3](https://streaming.giraweb.com/8020/stream/;.mp3) | [web](https://flaixandorra.com/ca/radio/flaixfm-and/) | [logo](https://graph.facebook.com/flaixandorra/picture?width=200&height=200) | - | - |
 | Flaixbac Andorra | [mp3](https://streaming.giraweb.com/8010/stream/;.mp3) | [web](https://flaixandorra.com/ca/radio/flaixbac-and/) | [logo](https://graph.facebook.com/flaixbac/picture?width=200&height=200) | - | - |
