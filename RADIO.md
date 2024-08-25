@@ -502,7 +502,6 @@
 | Radio La Mina | [stream](http://cervera.eldialdigital.com:11121/stream) | [web](https://radiolamina.blogspot.com) | [logo](https://graph.facebook.com/RadiolaMina/picture?width=200&height=200) | - | WICE |
 | Ràdio Olot | [stream](http://chrome.frilab.com:8000/radiolot) | [web](http://www.radiolot.cat) | [logo](https://graph.facebook.com/Radiolot/picture?width=200&height=200) | - | - |
 | Imagina Ràdio | [mp3](https://relay.stream.enacast-cloud.com:30286/imaginaradioHD.mp3) | [web](http://www.imaginaradio.cat/directe/) | [logo](https://graph.facebook.com/ImaginaRadio103/picture?width=200&height=200) | - | - |
-| 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
 | Ràdio Sabadell | [stream](http://online.radiosabadell.fm:8013/stream) | [web](https://radiosabadell.fm) | [logo](https://graph.facebook.com/RadioSabadell/picture?width=200&height=200) | - | - |
 | RCE Cultura i Esport | [stream](https://radioserver12.profesionalhosting.com/proxy/pkg155526/stream) | [web](https://rce.cat) | [logo](https://graph.facebook.com/rce106.9fm/picture?width=200&height=200) | - | WICE |
 | Canal Blau Ràdio | [mp3](http://streaming.enantena.com:8000/canalblau128.mp3) - [stream](https://enacast.com/canalblau/streams/SD) | [web](http://podcast.canalblau.cat) | [logo](https://graph.facebook.com/CanalBlau/picture?width=200&height=200) | - | - |
@@ -552,6 +551,7 @@
 | Ràdio Llançà | [stream](https://relay.stream.enacast-cloud.com:40323/radiollancaHD.mp3) | [web](https://radiollanca.cat) | [logo](https://graph.facebook.com/radiollanca/picture?width=200&height=200) | - | - |
 | Colera Ràdio | [stream](https://servidor24-5.brlogic.com:7494/live) | [web](https://coleraradio.com) | [logo](https://graph.facebook.com/101812002056328/picture?width=200&height=200) | - | - |
 | U Ràdio | [mp3](https://streaming.enacast.com/radioulldecona128.mp3) | [web](https://www.uradio.cat) | [logo](https://graph.facebook.com/uradiofm/picture?width=200&height=200) | - | - |
+| 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
 
 ### Ceuta
 
