@@ -288,7 +288,7 @@
 | LokuraFM | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg131447?mp=/stream) | [web](https://lokurafm.online) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvqfZvUbQjrdsnFIhtqLy-mnkjBicLHHflgy5HWPCmyQqsYDZ) | - | - |
 | BOM Radio Zaragoza | [stream](http://r4g-zaragoza1.streaming-pro.com:7000/enlacesigloxxi) | [web](https://www.bomradio.com) | [logo](https://graph.facebook.com/BOMRadioOficial/picture?width=200&height=200) | - | - |
 | Hit Pirineos | [stream](http://stm1.emiteonline.com:8022/hitpirineos) | [web](http://www.hitradiofm.es/hitpirineos.html) | [logo](https://graph.facebook.com/hitpirineos/picture?width=200&height=200) | - | - |
-| Vale Radio | [mp3](https://azura7.emisiononline.es/listen/vale_radio/radio.mp3) | [web](https://www.valeradio.es/reproductor/index.php) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
+| Vale Radio | [stream](https://sonic.sistemahost.es:8160/stream) | [web](https://www.valeradio.es/reproductor/index.php) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
 
 ### Canarias
 
@@ -502,6 +502,7 @@
 | Radio La Mina | [stream](http://cervera.eldialdigital.com:11121/stream) | [web](https://radiolamina.blogspot.com) | [logo](https://graph.facebook.com/RadiolaMina/picture?width=200&height=200) | - | WICE |
 | Ràdio Olot | [stream](http://chrome.frilab.com:8000/radiolot) | [web](http://www.radiolot.cat) | [logo](https://graph.facebook.com/Radiolot/picture?width=200&height=200) | - | - |
 | Imagina Ràdio | [mp3](https://relay.stream.enacast-cloud.com:30286/imaginaradioHD.mp3) | [web](http://www.imaginaradio.cat/directe/) | [logo](https://graph.facebook.com/ImaginaRadio103/picture?width=200&height=200) | - | - |
+| 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
 | Ràdio Sabadell | [stream](http://online.radiosabadell.fm:8013/stream) | [web](https://radiosabadell.fm) | [logo](https://graph.facebook.com/RadioSabadell/picture?width=200&height=200) | - | - |
 | RCE Cultura i Esport | [stream](https://radioserver12.profesionalhosting.com/proxy/pkg155526/stream) | [web](https://rce.cat) | [logo](https://graph.facebook.com/rce106.9fm/picture?width=200&height=200) | - | WICE |
 | Canal Blau Ràdio | [mp3](http://streaming.enantena.com:8000/canalblau128.mp3) - [stream](https://enacast.com/canalblau/streams/SD) | [web](http://podcast.canalblau.cat) | [logo](https://graph.facebook.com/CanalBlau/picture?width=200&height=200) | - | - |
@@ -632,17 +633,17 @@
 | SER Pamplona | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_PAMPLONA.mp3) | [web](https://cadenaser.com/radio-pamplona/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Pamplona.Radio | - |
 | SER Tafalla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TAFALLA.mp3) | [web](https://cadenaser.com/radio-tafalla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Tafalla.Radio | - |
 | SER Tudela | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TUDELA.mp3) | [web](https://cadenaser.com/ser-tudela/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Tudela.Radio | - |
-| COPE Estella | [stream](https://server8.emitironline.com:9866/radio) | [web](http://radioestella.com/inicio/) | [logo](https://pbs.twimg.com/profile_images/3722393260/a28c650e8db40bef24f20a2a184d2b8e_200x200.png) | - | - |
+| COPE Estella | [stream](http://server1.emitironline.com:9866/radio) | [web](http://radioestella.com/inicio/) | [logo](https://pbs.twimg.com/profile_images/3722393260/a28c650e8db40bef24f20a2a184d2b8e_200x200.png) | - | - |
 | COPE Pamplona | [mp3](https://wecast08-h-cloud.flumotion.com/copesedes/pamplona.mp3) | [web](https://www.cope.es/directos/pamplona) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Tudela | [mp3](https://wecast08-h-cloud.flumotion.com/copesedes/tudela.mp3) | [web](https://www.cope.es/directos/tudela) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Pamplona | [m3u8](https://atres-live.ondacero.es/live/delegaciones/oc/pamplona/master.m3u8) - [m3u8 # 2](https://livefastly-webs.ondacero.es/pamplonaeventos-pull/audio/playlist.m3u8) | [web](https://www.ondacero.es/emisoras/navarra/pamplona/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Pamplona.Radio | - |
 | esRadio Tudela | [stream](https://azura.abcorp.es/radio/8110/stream) | [web](http://www.tudelahoy.com/estaticas/radio-tudela-esradio-960-fm.html) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
-| Cadena 100 Estella | [stream](https://server9.emitironline.com:9373/radio) | [web](http://radioestella.com) | [logo](https://graph.facebook.com/CADENA100/picture?width=200&height=200) | - | - |
+| Cadena 100 Estella | [stream](http://server9.emitironline.com:9373/radio) | [web](http://radioestella.com) | [logo](https://graph.facebook.com/CADENA100/picture?width=200&height=200) | - | - |
 | Europa FM Pamplona | [m3u8](https://atres-live.europafm.com/live/delegaciones/efm/pamplona/master.m3u8) | [web](https://www.europafm.com/frecuencias/pamplona/) | [logo](https://graph.facebook.com/europafmnavarra/picture?width=200&height=200) | - | - |
 | Euskalerria Irratia | [stream](http://server4.beatproducciones.com:8014/;) | [web](https://euskalerriairratia.eus/irratia/zuzenekoa) | [logo](https://graph.facebook.com/euskalerriairratia/picture?width=200&height=200) | - | - |
 | Trak FM Pamplona | [stream](https://pr1cen101.emisionlocal.com/proxy/trakfm?mp=/stream) | [web](https://trakfm.com) | [logo](https://graph.facebook.com/trakfmpamplona/picture?width=200&height=200) | - | - |
 | Eguzki Irratia | [mp3](http://51.68.46.71:9000/eguzki.mp3) | [web](https://eguzki.eus) | [logo](https://graph.facebook.com/293039954137807/picture?width=200&height=200) | - | - |
-| Estella-Lizarra FM | [stream](https://server9.emitironline.com:19512/radio) | [web](http://radioestella.com) | [logo](https://graph.facebook.com/estellalizarrafm/picture?width=200&height=200) | - | - |
+| Estella-Lizarra FM | [stream](http://server9.emitironline.com:19512/radio) | [web](http://radioestella.com) | [logo](https://graph.facebook.com/estellalizarrafm/picture?width=200&height=200) | - | - |
 | Radio Universidad de Navarra | [stream](https://s2.radio.co/sb23429e9f/listen) | [web](https://www.unav.edu/web/radio-universidad-de-navarra/en-directo) | [logo](https://graph.facebook.com/radiouniversidaddenavarra/picture?width=200&height=200) | - | - |
 
 ### C. Valenciana
