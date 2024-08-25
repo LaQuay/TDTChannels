@@ -327,7 +327,7 @@
 | BDN | [m3u8](https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://player.instantvideocloud.net/#/embed/6f1c739f) | [logo](https://pbs.twimg.com/profile_images/1705169494958624768/uSn1eFVm_200x200.jpg) | - | UAG,REFI1 |
 | TAC 12 | [m3u8](https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8) | [web](https://www.tac12.tv/en-directe) | [logo](https://graph.facebook.com/tacdotze/picture?width=200&height=200) | - | - |
 | Canal Terrassa | [m3u8](https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8) | [web](https://terrassadigital.cat/televisio/) | [logo](https://graph.facebook.com/canalterrassa/picture?width=200&height=200) | - | - |
-| Canal 21 Ebre | - | [web](https://www.laxarxames.cat/player/8031) | [logo](https://graph.facebook.com/Canal21Ebre/picture?width=200&height=200) | - | W3U,EMB,EXTA |
+| Canal 21 Ebre | - | [web](https://www.canal21ebre.com/inici/en-directe/) | [logo](https://graph.facebook.com/Canal21Ebre/picture?width=200&height=200) | - | W3U,EXTA |
 | Lleida TV | [m3u8](https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://ott.lleidatv.cat/ca/pl/6) | [logo](https://graph.facebook.com/LleidaTV/picture?width=200&height=200) | - | UAG,REFI1 |
 | TV Costa Brava | [m3u8](https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8) | [web](https://www.tvcostabrava.com/canals-online/televisio-costa-brava-online) | [logo](https://graph.facebook.com/tvcostabrava/picture?width=200&height=200) | - | UAG,REFI1 |
 | La Xarxa | - | [web](https://laxarxames.cat/directe) | [logo](https://graph.facebook.com/laxarxa/picture?width=200&height=200) | - | - |
