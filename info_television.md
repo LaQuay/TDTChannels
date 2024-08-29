@@ -284,6 +284,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 11 TV Laredo | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | De Laredu Lin TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Popular TV Cantabria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tevecan 9 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Castilla-La Mancha
 
@@ -770,7 +771,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | One TV España | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Tevecan 9 España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
 | Kronehit Austria | - | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - | - |

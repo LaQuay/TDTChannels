@@ -261,6 +261,7 @@
 | 11 TV Laredo | [youtube](https://www.youtube.com/channel/UCuPHaVBv7cd-wWx3ztpALQw/live) | [web](https://www.11tv.es) | [logo](https://graph.facebook.com/11TvCantabria/picture?width=200&height=200) | - | EMB |
 | De Laredu Lin TV | [m3u8](https://eu1.servers10.com:8081/8034/index.m3u8) | [web](https://delaredulintv.com/video/tv-online/) | [logo](https://graph.facebook.com/delaredulintv/picture?width=200&height=200) | - | NONAV |
 | Popular TV Cantabria | [m3u8](https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](https://populartvcantabria.com/en-directo/) | [logo](https://graph.facebook.com/populartvcantabria/picture?width=200&height=200) | PopularTV_S.TV | - |
+| Tevecan 9 | [m3u8](https://streamlov.alsolnet.com/jarbhouse/live/playlist.m3u8) | [web](https://closeradio.tv/jarbhouse/) | [logo](https://static.wixstatic.com/media/4d3432_610170cea6c747a986bbea4137f5c15f~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/mosca%20logo%209_transparente.png) | - | - |
 
 ### Castilla-La Mancha
 
@@ -747,7 +748,6 @@
 | Verbena TV España | [m3u8](https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8) | [web](https://verbenafm.com) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
 | RM TV España | [m3u8](https://limited43.todostreaming.es/live/simbana-livestream19.m3u8) | [web](https://rmradio.es/tv/) | [logo](https://pbs.twimg.com/profile_images/1227224148079980544/kkxXv9jL_200x200.jpg) | - | - |
 | One TV España | [m3u8](https://eu1.servers10.com:19360/onetv-1/onetv-1.m3u8) | [web](https://onetv.es) | [logo](https://graph.facebook.com/onetveseuropa/picture?width=200&height=200) | - | NONAV |
-| Tevecan 9 España | [m3u8](https://streamlov.alsolnet.com/jarbhouse/live/playlist.m3u8) | [web](https://closeradio.tv/jarbhouse/) | [logo](https://static.wixstatic.com/media/4d3432_610170cea6c747a986bbea4137f5c15f~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/mosca%20logo%209_transparente.png) | - | - |
 | RTL 102.5 Italia | [m3u8 # IT](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8) | [web](https://www.rtl.it/radiovisione) | [logo](https://graph.facebook.com/RTL102.5/picture?width=200&height=200) | - | - |
 | Kronehit Austria | [m3u8](https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8) | [web](https://www.kronehit.at/) | [logo](https://graph.facebook.com/kronehit/picture?width=200&height=200) | - | - |
 | QMusic Holanda | [m3u8 # NL](https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8) | [web](https://qmusic.nl/live/kijk) | [logo](https://graph.facebook.com/QmusicNL/picture?width=200&height=200) | - | - |
