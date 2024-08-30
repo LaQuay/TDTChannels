@@ -860,6 +860,7 @@
 | Radio Murta | [stream](https://stream.recasound.es/proxy/radiomurta/stream) | [web](https://www.grup4.com/?page_id=10861) | [logo](https://static-media.streema.com/media/cache/c1/a3/c1a323d20e5cd83f4199fb3f23961f41.jpg) | - | WICE |
 | Radio Es Castell | [stream](https://stream.recasound.es/proxy/escastell/stream) | [web](https://www.aj-escastell.org/Contingut.aspx?IDIOMA=2&IdPub=1614) | [logo](https://graph.facebook.com/ajescastell/picture?width=200&height=200) | - | WICE |
 | Ushuaia Radio | [stream](https://s4.radio.co/sc6f29e098/listen) | [web](https://ushuaia.radio) | [logo](https://yt3.googleusercontent.com/QOZ-pdDPKRBJhZ1w3Qe6y9r9fO243sDLlgLHTyL3sq7E2dldgkKeGlartFMy5YoQ5CQQcGBQgQ=s200) | - | - |
+| Loca FM Mallorca | [stream](https://radio.thebest.fm:8443/locafm-mal-web) | [web](https://www.locafmmallorca.com/) | [logo](https://graph.facebook.com/locamallorcafm/picture?width=200&height=200) | - | - |
 
 ### La Rioja
 
