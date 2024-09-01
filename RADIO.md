@@ -970,6 +970,7 @@
 | APQ Radio | [stream # 1](http://stm1.emiteonline.com:8012/apqradio) - [stream # 2](http://stm1.emiteonline.com:8013/apqradio2) | [web](http://www.apqradio.es) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | WICE |
 | Radio Líder | [stream](https://server8.emitironline.com:18462/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | La Mega FM | [mp3](https://broadcast.radioponiente.org:8032/;.mp3) | [web](https://www.lamegafmasturias.com) | [logo](https://yt3.googleusercontent.com/vSWjeYIVxQD-Ba_LLzcZb70Sy1vKwhIqDA0-kTBGvsrbjNPmMcIhJC9JcomFZDtiLnjOHqUx1A=s200) | - | - |
+| Guateque FM | [stream](https://online.vibacomunicacion.com:5030/stream) | [web](https://guatequefm.com/) | [logo](https://play-lh.googleusercontent.com/29cOsGnQ8A3a-FJ1EkqBDVrMCIMWcQBORIWcmygreM9fNjU5C3Pci0CNDYDrv1NPPPD1=w200-h200) | - | - |
 
 ### R. de Murcia
 
