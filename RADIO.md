@@ -209,7 +209,7 @@
 | Radio Chipiona | [stream](https://node-03.zeno.fm/ca74a7vdvnhvv) | [web](https://www.chipionatv.com) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | - |
 | Spectrum FM | [stream](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1) | [web](https://spectrumfm.net) | [logo](https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200) | - | - |
 | Onda Jerez Radio | [mp3](http://radio.ondajerez.com:8000/Ondajerez.mp3) | [web](https://www.ondajerez.com/radio) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200) | - | - |
-| Global Radio | [mp3](https://stream.entertainmenttechnologies.co.uk:9000/stream.mp3) | [web](https://global.fm/streamwindow/) | [logo](https://graph.facebook.com/loveglobalradio/picture?width=200&height=200) | - | - |
+| Global Radio | [mp3](https://radio.entertainmenttechnologies.co.uk:8000/stream) | [web](https://global.fm/streamwindow/) | [logo](https://graph.facebook.com/loveglobalradio/picture?width=200&height=200) | - | - |
 | Candil Radio | [mp3](https://candilradio.com/liveradio/candil/live.mp3) | [web](https://candilradio.com) | [logo](https://graph.facebook.com/890332081024749/picture?width=200&height=200) | - | - |
 | Radio La Isla | [stream](https://server10.emitironline.com:30132/stream) | [web](https://radiolaisla.com) | [logo](https://graph.facebook.com/radiolaisla/picture?width=200&height=200) | - | WICE |
 | Radio del Condado | [mp3](https://streaming.radiorociana.com/;stream.mp3) | [web](https://www.radiorociana.com/player) | [logo](https://graph.facebook.com/radiorociana/picture?width=200&height=200) | - | - |
