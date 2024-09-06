@@ -940,7 +940,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| RPA | [m3u8](https://cdnlive.codev8.net/rtpalive/smil:radio.smil/playlist.m3u8) | [web](https://rtpa.es/radio) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | - | - |
+| RPA | [m3u8](https://rtparadio.flumotion.cloud/rtpalive/smil:radio.smil/playlist.m3u8) | [web](https://rtpa.es/radio) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | - | - |
 | Radio Nacional Asturias | [stream](https://dispatcher.rndfnk.com/crtve/rne1/ast/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_ast-live/3893526/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Asturias | [stream](https://dispatcher.rndfnk.com/crtve/rne5/ast/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_ast/3894742/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | Radio Marca Asturias | [mp3](https://streaming.enacast.com/radiomarcaasturiasHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
