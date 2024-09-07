@@ -724,7 +724,7 @@
 | - | - | - | - | - | - |
 | Olympic Channel TV | - | [web](https://olympics.com/es/live/) | [logo](https://graph.facebook.com/olympics/picture?width=200&height=200) | - | W3U,EMB |
 | FIBA | [youtube](https://www.youtube.com/user/FIBAWorld/live) | [web](https://www.livebasketball.tv/home) | [logo](https://graph.facebook.com/FIBA/picture?width=200&height=200) | - | EMB |
-| World Padel Tour | [youtube](https://www.youtube.com/channel/UCK59dYVs3Wgwoe73nDTH6jw/live) | [web](https://www.worldpadeltour.com/en-directo/) | [logo](https://graph.facebook.com/worldpadeltour/picture?width=200&height=200) | - | EMB |
+| Premier Padel | [youtube](https://www.youtube.com/@PremierPadelTV) | [web](https://premierpadel.com/es/wheretowatch) | [logo](https://graph.facebook.com/premierpadel/picture?width=200&height=200) | - | EMB |
 | Red Bull TV | [m3u8 # EN](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](https://graph.facebook.com/RedBull/picture?width=200&height=200) | - | - |
 | Motorsport.tv | [m3u8](https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8) | [web](https://motorsport.tv/motorsporttv/video/motorsporttv-fast/175854) | [logo](https://graph.facebook.com/Motorsport.tvUK/picture?width=200&height=200) | - | - |
 | Meridiano Venezuela | [youtube](https://www.youtube.com/channel/UCcYfZbinuodyF8rVkl4u7Lw/live) | [web](https://meridiano.net/meridianotv.html) | [logo](https://graph.facebook.com/Meridiano.Dearmas/picture?width=200&height=200) | - | EMB |
