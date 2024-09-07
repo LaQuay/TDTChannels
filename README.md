@@ -1,5 +1,6 @@
 # TDTChannels - Canales IPTV en abierto
-Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y a los principales canales Internacionales del mundo. Además la programación EPG está disponible e integrada automáticamente en los ficheros generados.
+Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España y a principales canales internacionales del mundo. 
+Además la programación EPG (guía de tv) está disponible e integrada automáticamente en los ficheros generados.
 
 ### Listas de reproducción
 [Listado](https://www.tdtchannels.com/listas) con todas las listas disponibles. Haz [click aquí](https://github.com/LaQuay/TDTChannels/blob/master/info_television.md) para saber el estado de las listas y comprobar qué emisiones hay en cada lista.
@@ -11,12 +12,12 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | **TV+Radio** | - | - | [m3u8](https://www.tdtchannels.com/lists/tvradio.m3u8) | [m3u](https://www.tdtchannels.com/lists/tvradio.m3u) | [m3u8 + mpd](https://www.tdtchannels.com/lists/tvradio_mpd.m3u8) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_combo.tv) | [w3u](https://www.tdtchannels.com/lists/tvradio.w3u) |
 | **Programación EPG** | [Navegador](https://www.tdtchannels.com/television) | [json](https://www.tdtchannels.com/epg/TV.json) | [xml](https://www.tdtchannels.com/epg/TV.xml) | [xml.gz](https://www.tdtchannels.com/epg/TV.xml.gz) | - | - | - |
 
-- *Navegador*: Visionado "manual" en el navegador.
-- *JSON*: Formato de datos especial para otros programas de lectura de datos. Por ejemplo, la aplicación TDTChannels iOS.
+- *Navegador*: Visionado en el navegador.
+- *JSON*: Formato para otros programas de lectura de datos (TDTChannels Android e iOS).
 - *M3U8* y *M3U*: Listado para introducir en tu reproductor deseado. Usa este enlace si deseas utilizar cualquier aplicación IPTV genérica. Utilíza la _M3U_ en caso que la _M3U8_ no te funcione.
 - *M3U8 + MPD*: _En pruebas_ Incluye los mismos canales que la M3U8, pero además los que emiten en formato _MPD_. 
-- *ENIGMA2*: Formato especial para el receptor Linux Enigma2.
-- *W3U*: Formato especial para [Wiseplay](https://play.google.com/store/apps/details?id=com.wiseplay).
+- *ENIGMA2*: Formato para el receptor Linux Enigma2.
+- *W3U*: Formato para [Wiseplay](https://play.google.com/store/apps/details?id=com.wiseplay).
 - *EPG*: Si no te carga de forma automática, deberás incluir la ruta en tu reproductor. 
 
 ### Herramientas
@@ -25,45 +26,16 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | **Página web** | [TDTChannels](https://www.tdtchannels.com/) |
 | **Aplicación Android** | [TDTChannels](https://www.tdtchannels.com/android) |
 | **Aplicación iOS** | [TDTChannels](https://www.tdtchannels.com/iphone) |
-| **Comunidad en Discord** | [Acceder](https://discord.gg/FHs4Hn7Ty) a la comunidad |
+| **Comunidad en Discord** | [Acceder](https://discord.gg/bMGFbRK4Qx) a la comunidad |
 
 ### Noticias
 [Aquí](https://github.com/LaQuay/TDTChannels/blob/master/MENTIONS.md) puedes encontrar los medios de información que nos han citado. 
-
-### Proyectos que utilizan esta plataforma
-#### Web
-| | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| - | - | - | - |
-| [TDTChannels](https://www.tdtchannels.com) | ✔ | ✔ | ✔ | [LaQuay](https://github.com/laquay) |
-| [Teleonline](http://teleonline.org) | ❌ | ✔ | ✔ | - |
-
-#### Android
-| | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| - | - | - | - |
-| [TDTChannels](https://www.tdtchannels.com/android) | ✔ | ✔ | ✔ | [LaQuay](https://marcvila.me) |
-| [FeedTV](https://github.com/juanro49/FeedTV) | ❌ | ✔ | ✔ | [Juanro49](https://github.com/juanro49) |
-
-#### iOS
-| | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| - | - | - | - |
-| [TDTChannels](https://tbearsoftware.es/apps/ios/tdtchannels/)	| ✔ | ✔ | ✔ | [Jako88](https://tbearsoftware.es/sobre-mi/) |
-| [TDTChannels](https://github.com/Rubenfer/TDTChannels) | ❌ | ✔ | ✔ | [RubenApps](https://ruben.app) |
-| [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17) | ❌ | ✔ | ✔ | [RubenApps](https://ruben.app) |
-
-#### macOS
-| | Soporte oficial | Gratuita | Sin publicidad | Desarrollador |
-| -	| - | - | - | - |
-| [TDTChannels](https://tbearsoftware.es/apps/ios/tdtchannels/)	| ✔ | ✔ | ✔ | [Jako88](https://tbearsoftware.es/sobre-mi/) |
-| [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels)	| ❌ | ✔ | ✔ | [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps) |
 
 ### Colaborar
 [CONTRIBUTING](https://github.com/LaQuay/TDTChannels/blob/master/CONTRIBUTING.md)
 
 Si localizas algún fallo, o algún canal no funciona, puedes abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*. Recuerda por favor incluir la fuente original de la emisión.
 Si deseas realizar una petición de nuevo canal, por favor, utiliza el [formulario](https://www.tdtchannels.com/peticion).
-
-> <a href="https://ko-fi.com/mlaquay"><img src="https://cdn.ko-fi.com/cdn/kofi1.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>   
-> Si te es útil este proyecto, considera realizar una pequeña donación. :relaxed:
 
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
