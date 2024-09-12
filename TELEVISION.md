@@ -480,10 +480,6 @@
 | Parlamento de La Rioja | [m3u8](https://media.parlamento-larioja.org/live/parlarioja/playlist.m3u8) | [web](https://mediateca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200) | - | - |
 | Cocina Familiar | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12108&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[https://tdtchannels.com/]&TDTChannels=) | [web](https://cocina-familiar.com) | [logo](https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200) | - | - |
 
-Cocina Familiar con Javier Romero (https://cocina-familiar.com/)
-Cocina Familiar | Recetas de Cocina Casera de Javier Romero
-Encuentra la receta perfecta para cada ocasión en Cocina Familiar de la mano del chef Javier Romero. Una excelente receta nueva cada día. ¡Visítanos!
-
 ### Melilla
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
