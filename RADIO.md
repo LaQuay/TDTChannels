@@ -740,7 +740,7 @@
 | Onda 15 Radio | [stream](https://streaming12.elitecomunicacion.es:8628/stream) | [web](https://www.onda15.es) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
 | Costafm Alicante | [mp3](https://cdn4.onstream.audio:6064/stream.mp3) | [web](https://www.costafm.es) | [logo](https://graph.facebook.com/costafm/picture?width=200&height=200) | - | - |
 | Onda Azul Torrevieja | [mp3](https://usa3.lhdserver.es:8199/stream?type=.mp3) | [web](https://www.ondaazultorrevieja.es) | [logo](https://pbs.twimg.com/profile_images/691063766784577536/3-ftz8tQ_200x200.jpg) | - | - |
-| Cassette FM | [mp3](https://cdn4.onstream.audio:9154/cassettefm.mp3) | [web](https://cassettefm.es) | [logo](https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2021/05/Cassette.png?fit=200%2C200) | - | - |
+| Cassette FM | [mp3](https://cdn4.onstream.audio:9154/cassettefm.mp3) | [web](https://cassettefm.es) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png) | - | - |
 | Radio 90FM | [stream](https://node-33.zeno.fm/015h6n8vfzzuv) | [web](https://radio90fmvalencia.wixsite.com/90fm) | [logo](https://static.wixstatic.com/media/f5b851_67e1cadb04a642e2a353a636264ca548~mv2.png) | - | WICE |
 | Radio Malibú | [mp3](https://cdn4.onstream.audio:9158/maliburadio.mp3) | [web](https://www.radiomalibu.es) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
 | Litoral FM | [mp3](https://stream.mediasector.es/radio/8310/litoralfm.mp3) | [web](https://radiolitoral.com) | [logo](https://graph.facebook.com/Laradiolitoral/picture?width=200&height=200) | - | - |
