@@ -656,7 +656,7 @@
 | Trece Paraguay | [m3u8](https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8) | [web](https://trece.com.py) | [logo](https://graph.facebook.com/trecepy/picture?width=200&height=200) | - | - |
 | Telefuturo Paraguay | - | [web](https://www.telefuturo.com.py/envivo) | [logo](https://graph.facebook.com/Telefuturo/picture?width=200&height=200) | - | W3U,EXTA |
 | Unicanal Paraguay | [m3u8](https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8) | [web](https://unicanal.com.py) | [logo](https://graph.facebook.com/Unicanal/picture?width=200&height=200) | - | - |
-| Noticias NPY Paraguay | - | [web](https://www.npy.com.py/en-vivo) | [logo](https://graph.facebook.com/npyoficial/picture?width=200&height=200) | W3U,EXTA |
+| Noticias NPY Paraguay | - | [web](https://www.npy.com.py/en-vivo) | [logo](https://graph.facebook.com/npyoficial/picture?width=200&height=200) | - | W3U,EXTA |
 | Nicavisión TV Nicaragua | - | [web](http://www.canal12.com.ni/en-vivo) | [logo](https://graph.facebook.com/200823376627607/picture?width=200&height=200) | - | W3U,EXTA |
 | WTV Nicaragua | [m3u8](https://cloudvideo.servers10.com:8081/8130/index.m3u8) | [web](http://wtvnicaragua.com/player/tv-player.html) | [logo](https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200) | - | - |
 | TeleDiario Costa Rica | [m3u8](https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8) | [web](https://www.telediario.cr/television) | [logo](https://graph.facebook.com/MultimediosCR/picture?width=200&height=200) | - | - |
