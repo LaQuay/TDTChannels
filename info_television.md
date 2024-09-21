@@ -596,6 +596,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | RTCG SAT Montenegro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RÚV Islandia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | San Marino RTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| N1 Croacia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| VizionPlus Albania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 1+1 Ucrania | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Ukraine 24 Ucrania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ICTV Ucrania | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -673,8 +675,11 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Color Visión República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | HCH Honduras | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | ABC TV Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| LaTele Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telefuturo Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Unicanal Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Noticias NPY Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Nicavisión TV Nicaragua | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | WTV Nicaragua | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleDiario Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
