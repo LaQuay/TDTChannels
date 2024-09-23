@@ -586,7 +586,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | RTP Madeira Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTP Açores Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | CNN Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
-| Porto Canal Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Porto Canal Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Digi24 Rumanía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVP Polonia | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
