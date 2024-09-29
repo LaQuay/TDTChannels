@@ -797,7 +797,10 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Otto FM Italia | - | - | - | - | - | - | - | - |
 | Retro Music TV Chequia | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |
-| First Music Channel Bielorrusia | - | - | - | - | - | - | - | - |
+| CMC Croacia | - | - | - | - | - | - | - | - |
+| Sky Folk Macedonia | - | - | - | - | - | - | - | - |
+| 1Muz Bielorrusia | - | - | - | - | - | - | - | - |
+| RU.TV Russia | - | - | - | - | - | - | - | - |
 | Muzzik TV Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Pop Star Serbia | - | - | - | - | - | - | - | - |
@@ -818,6 +821,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | The Good Life Radio | - | - | - | - | - | - | - | - |
 | LoFi Hip-Hop Beats Music | - | - | - | - | - | - | - | - |
 | Beautiful Piano Music | - | - | - | - | - | - | - | - |
+| VM Latino Costa Rica | - | - | - | - | - | - | - | - |
+| Venus Media Paraguay | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
 | La Mega Mundial USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | 30A Music USA | - | - | - | - | - | - | - | - |
