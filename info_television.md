@@ -779,52 +779,53 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | One TV España | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| RTL 102.5 Italia | - | - | - | - | - | - | - | - |
-| Kronehit Austria | - | - | - | - | - | - | - | - |
-| QMusic Holanda | - | - | - | - | - | - | - | - |
-| 4FUN TV Polonia | - | - | - | - | - | - | - | - |
+| Café del Mar Ibiza | - | - | - | - | - | - | - | - |
 | Tomorrowland TV | - | - | - | - | - | - | - | - |
 | Radio Italia TV | - | - | - | - | - | - | - | - |
+| RTL 102.5 Italia | - | - | - | - | - | - | - | - |
+| Number1 FM Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Kronehit Austria | - | - | - | - | - | - | - | - |
+| 4FUN TV Polonia | - | - | - | - | - | - | - | - |
+| QMusic Holanda | - | - | - | - | - | - | - | - |
 | Ocko Chequia | - | - | - | - | - | - | - | - |
 | Ocko Star Chequia | - | - | - | - | - | - | - | - |
 | Ocko Expres Chequia | - | - | - | - | - | - | - | - |
-| NumberOne Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | m2o Italia | - | - | - | - | - | - | - | - |
-| ON TV Portugal | - | - | - | - | - | - | - | - |
-| NRG91 Grecia | - | - | - | - | - | - | - | - |
-| V2Beat TV | - | - | - | - | - | - | - | - |
-| The K-POP Korea | - | - | - | - | - | - | - | - |
-| Power TV Turquía | - | - | - | - | - | - | - | - |
 | Rock TV Romania | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| RadioU TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| First Music Channel Bielorrusia | - | - | - | - | - | - | - | - |
+| On TV Portugal | - | - | - | - | - | - | - | - |
+| NRG91 Grecia | - | - | - | - | - | - | - | - |
 | Otto FM Italia | - | - | - | - | - | - | - | - |
+| Retro Music TV Chequia | - | - | - | - | - | - | - | - |
+| Power TV Turquía | - | - | - | - | - | - | - | - |
+| First Music Channel Bielorrusia | - | - | - | - | - | - | - | - |
+| Muzzik TV Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Pop Star Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Worldwide Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Jeka Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Tiktak Serbia | - | - | - | - | - | - | - | - |
+| Muzzik ZZ TV Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Sense Serbia | - | - | - | - | - | - | - | - |
+| Muzzik MTS Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Flashback Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Moba Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Electro Serbia | - | - | - | - | - | - | - | - |
+| V2Beat TV | - | - | - | - | - | - | - | - |
 | Ibiza Global TV | - | - | - | - | - | - | - | - |
-| Café del Mar Ibiza | - | - | - | - | - | - | - | - |
 | Sonus FM Alemania | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | DanceStar TV | - | - | - | - | - | - | - | - |
+| The K-POP Korea | - | - | - | - | - | - | - | - |
 | The Good Life Radio | - | - | - | - | - | - | - | - |
 | LoFi Hip-Hop Beats Music | - | - | - | - | - | - | - | - |
 | Beautiful Piano Music | - | - | - | - | - | - | - | - |
-| 30A Music USA | - | - | - | - | - | - | - | - |
-| Retro Plus TV Chile | - | - | - | - | - | - | - | - |
-| California Music Channel USA | - | - | - | - | - | - | - | - |
-| Retro Music TV Chequia | - | - | - | - | - | - | - | - |
-| Muzzik TV Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Cafe&Club Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Worldwide Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Rivijera Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Jeka Serbia | - | - | - | - | - | - | - | - |
-| Muzzik ZZ TV Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Sense Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Glazzba Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Flashback Serbia | - | - | - | - | - | - | - | - |
-| Muzzik OKK Serbia | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
 | La Mega Mundial USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Portal Foxmix Chile | - | - | - | - | - | - | - | - |
+| 30A Music USA | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
+| RadioU TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Retro Plus TV Chile | - | - | - | - | - | - | - | - |
+| California Music Channel USA | - | - | - | - | - | - | - | - |
+| Portal Foxmix Chile | - | - | - | - | - | - | - | - |
 | Spirit TV USA | - | - | - | - | - | - | - | - |
 
 ## Religiosos
