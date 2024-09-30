@@ -214,7 +214,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Écija Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TeleQuivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Telemotril | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -222,7 +221,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Diez TV Las Villas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Bailén TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Costa del Sol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -240,7 +238,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 8 TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele Jerez | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Cancionero TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Manilva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -416,7 +413,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | - | - | - | - | - | - | - | - | - |
 | Navarra TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TeleRibera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Xaloa Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Parlamento de Navarra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Valenciana
@@ -435,7 +431,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Artequatre | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | 12TV Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Levante TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| TV de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall de Uxó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Burriana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Distrito TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -779,7 +774,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | STZ Telebista España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| One TV España | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Café del Mar Ibiza | - | - | - | - | - | - | - | - |
 | Tomorrowland TV | - | - | - | - | - | - | - | - |
 | Radio Italia TV | - | - | - | - | - | - | - | - |
