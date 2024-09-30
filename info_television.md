@@ -817,6 +817,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Ibiza Global TV | - | - | - | - | - | - | - | - |
 | Sonus FM Alemania | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | DanceStar TV | - | - | - | - | - | - | - | - |
+| Dance TV Estonia | - | - | - | - | - | - | - | - |
 | The K-POP Korea | - | - | - | - | - | - | - | - |
 | The Good Life Radio | - | - | - | - | - | - | - | - |
 | LoFi Hip-Hop Beats Music | - | - | - | - | - | - | - | - |
