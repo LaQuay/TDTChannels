@@ -41,6 +41,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | DMAX | ✔❗ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Presenta incompatibilidades en Fire TV |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cortan la emisión eventualmente |
+| GH 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | mtmad 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | RNE para todos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
@@ -136,7 +137,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Mitele Top Series | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
-| GH 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Canal Quickie | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -795,7 +795,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | CMC Croacia | - | - | - | - | - | - | - | - |
 | Sky Folk Macedonia | - | - | - | - | - | - | - | - |
 | 1Muz Bielorrusia | - | - | - | - | - | - | - | - |
-| RU.TV Russia | - | - | - | - | - | - | - | - |
+| RU.TV Rusia | - | - | - | - | - | - | - | - |
 | Muzzik TV Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Pop Star Serbia | - | - | - | - | - | - | - | - |
