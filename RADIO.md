@@ -15,7 +15,7 @@
 | Catalunya Ràdio | [m3u8](https://directes-radio-int.ccma.cat/live-content/catalunya-radio-hls/master.m3u8) | [web](https://www.ccma.cat/3cat/directes/catalunya-radio/) | [logo](https://graph.facebook.com/catradio/picture?width=200&height=200) | CATRadio.Radio | - |
 | Canal Sur Radio | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel4.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/19988-canal-sur-radio) | [logo](https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200) | CanalSur.Radio | - |
 | Euskadi Irratia | [m3u8](https://multimedia.eitb.eus/live-content/euskadirratia-hls/master.m3u8) | [web](https://www.eitb.eus/eu/irratia/euskadi-irratia/irratia-online/) | [logo](https://graph.facebook.com/Euskadi.Irratia/picture?width=200&height=200) | RadioEuskadi.Radio | - |
-| Radio Galega | [m3u8](https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8) | [web](https://agalegaaudio.gal/videos/120144-radio-galega) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
+| Radio Galega | [m3u8](https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8) | [web](https://agalegaaudio.gal/videos/120144-radio-galega) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | RadioGalega.Radio | - |
 | LOS40 | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3) | [web](https://play.los40.com) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | Los40.Radio | - |
 | Cadena 100 | [m3u8](https://cadena100-cope.flumotion.com/chunks.m3u8) | [web](https://www.cadena100.es) | [logo](https://graph.facebook.com/CADENA100/picture?width=200&height=200) | Cadena100.Radio | - |
 | Cadena Dial | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3) | [web](https://play.cadenadial.com) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | CadenaDial.Radio | - |
@@ -783,7 +783,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Radio Galega | [m3u8](https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8) | [web](https://agalegaaudio.gal/videos/120144-radio-galega) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
+| Radio Galega | [m3u8](https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8) | [web](https://agalegaaudio.gal/videos/120144-radio-galega) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | RadioGalega.Radio | - |
 | Radio Galega Música | [m3u8](https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8) | [web](https://www.agalegaaudio.gal/videos/81609-rgmusica) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
 | Son Galicia Radio | [m3u8](https://crtvg-songalicia-hls.flumotion.cloud/playlist.m3u8) | [web](https://www.agalegaaudio.gal/videos/81610-rsong) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
 | Radio Picariña | [m3u8](https://crtvg-picarina-schlive.flumotion.cloud/crtvglive/smil:channel11PRG.smil/playlist.m3u8) | [web](https://www.agalegaaudio.gal/videos/117823-radio-picarina) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
