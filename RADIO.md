@@ -728,7 +728,7 @@
 | BOM Radio Benidorm | [stream](http://stream.netservers.ovh:8000/bomradiobenidorm.ogg?/directo) | [web](https://radio4gbenidorm.com) | [logo](https://graph.facebook.com/BOMRadioOficial/picture?width=200&height=200) | - | - |
 | Remember Radio | [stream](https://pr1cen101.emisionlocal.com/proxy/rememberfm?mp=/LIVE) | [web](https://www.rememberradio.es/Inicio.htm) | [logo](https://graph.facebook.com/rememberradiocs/picture?width=200&height=200) | - | - |
 | Spektra FM | [stream](http://stm1.emiteonline.com:8008/spektrafm) | [web](https://www.spektrafm.es) | [logo](https://pbs.twimg.com/profile_images/1481295109090168838/EIFYjVaz_200x200.jpg) | - | WICE |
-| Código FM | [stream](https://cloudstream2034.conectarhosting.com/8024/stream) | [web](https://www.codigofm.com/escuchanos/) | [logo](https://graph.facebook.com/codigofmradio/picture?width=200&height=200) | - | - |
+| Código FM | [stream](https://cloudstream2030.conectarhosting.com/8024/;) | [web](https://www.codigofm.com/escuchanos/) | [logo](https://graph.facebook.com/codigofmradio/picture?width=200&height=200) | - | - |
 | Plaza Radio | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://plazaradio.es/onair) | [logo](https://pbs.twimg.com/profile_images/1438771594952839170/aBOGp4Rl_200x200.jpg) | - | WICE |
 | Radio Ibi | [mp3](http://streaming.enacast.com:8000/radioibiSD.mp3) | [web](https://www.radioibi.com) | [logo](https://pbs.twimg.com/profile_images/524879648971165696/0R6A-gKg_200x200.jpeg) | - | - |
 | Onda Ilicitana | [mp3](http://212.83.151.18:38722/;.mp3) | [web](http://ondailicitana.com) | [logo](https://pbs.twimg.com/profile_images/1398237360647704579/GjZOgEvF_200x200.jpg) | - | - |
