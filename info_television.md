@@ -594,8 +594,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | San Marino RTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | N1 Croacia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | VizionPlus Albania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Channel 24 Ucrania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 1+1 Ucrania | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Ukraine 24 Ucrania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ICTV Ucrania | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | ICTV Ucrania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Current Time TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
