@@ -67,7 +67,7 @@
 | Loca FM Hard Techno | [stream](https://s2.we4stream.com/listen/loca_hard_techno/live) | [web](https://www.locafm.com/hard-techno/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Industrial | [stream](https://s2.we4stream.com/listen/loca_industrial/live) | [web](https://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Drum&Bass | [stream](https://s2.we4stream.com/listen/loca_drum__bass/live) | [web](https://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
-| digitalHits FM | [stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](https://www.digitalhits.cat/directe/) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
+| digitalHits FM | [stream](https://dhits.frilab.com:8443/dhits) | [web](https://www.digitalhits.cat/directe/) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
 | La Urban Radio | [mp3](https://st1.urbanrevolution.es:8443/laurbanfm.mp3) | [web](https://www.urbanrevolution.es) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
 
 ## Deportivas
