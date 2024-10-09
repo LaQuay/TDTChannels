@@ -627,6 +627,7 @@
 | TV Perú | - | [web](https://www.tvperu.gob.pe/play) | [logo](https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200) | - | W3U,EXTA |
 | TV Perú Noticias | - | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200) | - | W3U,EXTA |
 | Canal IPe Perú | - | [web](https://www.canalipe.tv/streaming) | [logo](https://graph.facebook.com/canalipe/picture?width=200&height=200) | - | W3U,EXTA |
+| NET Channel Perú | [stream](https://vdo.voxhdnet.com:3777/live/netchannellive.m3u8) | [web](https://www.netchanneltv.com) | [logo](https://pbs.twimg.com/profile_images/1839572220722454528/2u2sUAeY_200x200.jpg) | - | - |
 | TeleSUR Venezuela | [m3u8](https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/) | [logo](https://graph.facebook.com/teleSUR/picture?width=200&height=200) | TeleSUR.TV | - |
 | Globovision Venezuela | [youtube](https://www.youtube.com/channel/UC06Tup55KpXujnN9LzHXBAw/live) | [web](https://globovision.com) | [logo](https://graph.facebook.com/globovision/picture?width=200&height=200) | - | EMB |
 | Venezolana de Televisión | [stream](https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1) | [web](https://www.vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | EMB,EXTB |
