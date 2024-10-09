@@ -427,6 +427,7 @@
 | Veteve | [stream](https://player.twitch.tv/?channel=veteve&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://veteve.es) | [logo](https://yt3.googleusercontent.com/dUy97uBRPzF6LrRPXs72Terta2gamHMK3morI-yaPZ-9np4CMRU63OWhd0ujZC5AJM9oP8yfmA=s200) | - | EMB |
 | Enguera TV | [stream](https://player.twitch.tv/?channel=engueratv&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.enguera.es/content/enguera-tv) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJWP8ahafBlFAbCsP3tT17ooK6arGKNmcx6VES4o=s200) | - | EMB |
 | 33TV Valencia | [m3u8](https://limited43.todostreaming.es/live/simbana-livestream.m3u8) | [web](https://karyganet.com/33-tv/) | [logo](https://karyganet.com/wp-content/uploads/tv-33.jpg) | - | - |
+| Alfafar TV | [m3u8](https://streamtv2.elitecomunicacion.cloud:3576/live/alfafartvlive.m3u8) | [web](https://www.youtube.com/@alfafartv) | [logo](https://graph.facebook.com/Alfafartv/picture?width=200&height=200) | - | - |
 | Corts Valencianes | [m3u8](https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8) | [web](https://mediateca.cortsvalencianes.es/library/lives/) | [logo](https://graph.facebook.com/cortsval/picture?width=200&height=200) | - | - |
 
 ### Extremadura
