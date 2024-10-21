@@ -722,10 +722,11 @@ Estos canales emiten a ciertas horas del día, únicamente.
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
+| Medi1 TV Marruecos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| SNRT Marruecos | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | AfricaNews | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Joy News TV Ghana | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Channels TV Nigeria | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
-| NBS TV Uganda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVGE 1 Guinea Ecuatorial | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RASD TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | SenTV Senegal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
