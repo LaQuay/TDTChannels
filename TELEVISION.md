@@ -199,7 +199,6 @@
 | CostadelSol TV | [m3u8](https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8) | [web](https://www.costadelsoltv.es) | [logo](https://graph.facebook.com/costadelsoltv/picture?width=200&height=200) | - | - |
 | 101TV Antequera | [m3u8](https://www.streaming101tv.es:19360/antequera/antequera.m3u8) | [web](https://www.101tv.es/directo-antequera/) | [logo](https://graph.facebook.com/101tvAntequera/picture?width=200&height=200) | 101Antequera.TV | - |
 | 101TV Cádiz | [m3u8](https://www.streaming101tv.es:19360/cadiz/cadiz.m3u8) | [web](https://www.101tvcadiz.es/directo/) | [logo](https://graph.facebook.com/101tvAntequera/picture?width=200&height=200) | - | - |
-| 101TV Costa del Sol | [m3u8](https://www.streaming101tv.es:19360/costadelsol/costadelsol.m3u8) | [web](https://www.101tv.es/directo-costadelsol/) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | - | - |
 | 101TV Ronda | [m3u8](https://www.streaming101tv.es:19360/ronda/ronda.m3u8) | [web](https://www.101tv.es/directo101tvronda/) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | - | - |
 | Sal TV | [m3u8](https://vdo.grupolimalive.com:3431/live/saltvlive.m3u8) | [web](https://www.saltv.es/programacion/) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | REF,NONAV |
 | 9 la Loma TV | [m3u8](https://9laloma.tv/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=200&height=200) | 9LaLoma.TV | NONAV |
