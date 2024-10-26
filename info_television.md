@@ -332,11 +332,11 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 324 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 33 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España. Emisión eventual, comparte señal con SX3 |
 | SX3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España. Emisión eventual, comparte señal con 33 |
-| 3CAT Plats bruts | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| 3CAT Joc de Cartes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | 3CAT Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | 3CAT Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | 3CAT Exclusiu 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| 3CAT Joc de Cartes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| 3CAT Plats bruts | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | La 1 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
