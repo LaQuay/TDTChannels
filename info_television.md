@@ -592,6 +592,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | RTÉ News Irlanda | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Televixin Malta | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TRT World Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NOW TV Turquía | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| STAR TV Turquía | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | RTCG SAT Montenegro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RÚV Islandia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | San Marino RTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
