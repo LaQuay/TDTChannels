@@ -323,7 +323,7 @@
 | Canal Terres de l'Ebre | [m3u8](https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8) | [web](https://canalte.cat/en-directe/) | [logo](https://graph.facebook.com/canal.terresdelebre/picture?width=200&height=200) | Terres.TV | - |
 | Canal TE24 | [m3u8](https://ingest1-video.streaming-pro.com/esportsteABR/etestream/playlist.m3u8) | [web](https://canalte.cat/en-directe/) | [logo](https://graph.facebook.com/canalte24/picture?width=200&height=200) | - | - |
 | Canal Reus TV | [m3u8](https://ingest2-video.streaming-pro.com/creus/stream/playlist.m3u8) | [web](https://www.canalreustv.cat/directe) | [logo](https://yt3.googleusercontent.com/vY_iHAEOHFjaC4SU6-JBjA0nJq8Xm9ZedQouEOwjjy15AiWKg6cel8UX84fZ1D-387q-0ajobH4=s200) | - | UAG,REFI1 |
-| El 9 TV | [m3u8](https://liveingesta360.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://el9nou.cat/el9tv/) | [logo](https://graph.facebook.com/el9nou/picture?width=200&height=200) | - | UAG,REFI1 |
+| El 9 TV | [m3u8](https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://el9nou.cat/el9tv/) | [logo](https://graph.facebook.com/el9nou/picture?width=200&height=200) | - | UAG,REFI1 |
 | Empordà TV | [m3u8](https://video3.lhdserver.es/empordatv2/live.m3u8) | [web](https://www.empordadigital.cat/directe/) | [logo](https://graph.facebook.com/empordatv/picture?width=200&height=200) | - | - |
 | BDN | [m3u8](https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://player.instantvideocloud.net/#/embed/6f1c739f) | [logo](https://pbs.twimg.com/profile_images/1705169494958624768/uSn1eFVm_200x200.jpg) | - | UAG,REFI1 |
 | TAC 12 | [m3u8](https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8) | [web](https://www.tac12.tv/en-directe) | [logo](https://graph.facebook.com/tacdotze/picture?width=200&height=200) | - | - |
@@ -614,7 +614,7 @@
 | Teleantioquia Colombia | [m3u8](https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8) | [web](https://www.teleantioquia.co/al-aire/) | [logo](https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200) | - | UAG,REFI1 |
 | Señal Colombia | [m3u8](https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8) | [web](https://www.senalcolombia.tv/senal-en-vivo/) | [logo](https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200) | - | - |
 | Telepacifico Colombia | [m3u8](https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8) | [web](https://telepacifico.com/envivo/) | [logo](https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200) | - | REF,NONAV |
-| Canal Telecaribe Colombia | [m3u8](https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR) | [web](https://play.telecaribe.co/senal-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1847685731428220928/HHHx7VM5_200x200.jpg) | - | UAG,REFI1 |
+| Canal Telecaribe Colombia | [m3u8](https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR) | [web](https://play.telecaribe.co/senal-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1850052710403342336/m-om6omY_200x200.jpg) | - | UAG,REFI1 |
 | Canal TRO Colombia | [m3u8](https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8) | [web](https://www.canaltro.com/senal-en-vivo-2/) | [logo](https://graph.facebook.com/canaltro/picture?width=200&height=200) | - | UAG,REFI1 |
 | Citytv Colombia | [youtube](https://www.youtube.com/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ/live) | [web](https://citytv.eltiempo.com/en-vivo) | [logo](https://graph.facebook.com/citytv.com.co/picture?width=200&height=200) | - | EMB |
 | Todo Noticias Argentina | [youtube](https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live) | [web](https://tn.com.ar/envivo/24hs/) | [logo](https://graph.facebook.com/todonoticias/picture?width=200&height=200) | - | EMB |
@@ -711,7 +711,7 @@
 | Joy News TV Ghana | [youtube # EN](https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw/live) | [web](https://www.myjoyonline.com/media/joy-news-live) | [logo](https://graph.facebook.com/JoyNewsOnTV/picture?width=200&height=200) | - | EMB |
 | Channels TV Nigeria | [youtube # EN](https://www.youtube.com/channel/UCEXGDNclvmg6RW0vipJYsTQ/live) | [web](https://www.channelstv.com) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | EMB |
 | TVGE 1 Guinea Ecuatorial | [m3u8](https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8) | [web](https://www.tvgelive.gq/live.php) | [logo](https://www.tvgelive.gq/images/logo-dark.png) | - | - |
-| RASD TV | [m3u8](https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8) | [web](https://rasd.tv) | [logo](https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200) | - | - |
+| RASD TV | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830) | [web](https://rasd.tv) | [logo](https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200) | - | - |
 | SenTV Senegal | [youtube](https://www.youtube.com/channel/UCKbMNmSR3KlI9v3xeInHEYA/live) | [web](https://sentv.sn/Sentv) | [logo](https://graph.facebook.com/sentvtelevision/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 
 ## Int. Otros
