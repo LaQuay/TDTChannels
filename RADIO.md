@@ -233,7 +233,7 @@
 | Radio Oro | [mp3 # 1](http://185.23.192.118:8002/;stream.mp3) - [mp3 # 2](http://185.23.192.118:8004/;stream.mp3) | [web](http://www.radiooro.es) | [logo](https://graph.facebook.com/RadioOroMalaga/picture?width=200&height=200) | - | - |
 | Latino FM | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=200&height=200) | - | - |
 | Roquetas FM | [stream](https://stream20.usastreams.com/8224/stream/;.mp3) | [web](https://www.roquetasfm.com) | [logo](https://graph.facebook.com/roquetasfm/picture?width=200&height=200) | - | - |
-| Central FM | [mp3](http://s29.myradiostream.com:4922/;listen.mp3) | [web](https://www.centralfm.com) | [logo](https://graph.facebook.com/131322746891532/picture?width=200&height=200) | - | - |
+| Central FM | [mp3](https://s29.myradiostream.com/4922/listen.mp3) | [web](https://www.centralfm.com) | [logo](https://graph.facebook.com/131322746891532/picture?width=200&height=200) | - | - |
 | Radio Nerja | [stream](https://online.vibacomunicacion.com:9974/stream) | [web](https://radionerja.com) | [logo](https://graph.facebook.com/radionerja/picture?width=200&height=200) | - | - |
 | Onda Loja Radio | [stream](https://streaming2.elitecomunicacion.es:8708/stream) | [web](https://positivafm.es/ondaloja/) | [logo](https://graph.facebook.com/370465614347/picture?width=200&height=200) | - | - |
 | Onda Mencía Radio | [stream](https://streaming12.elitecomunicacion.es:8146/stream) | [web](https://escucha.ondamenciaradio.com) | [logo](https://graph.facebook.com/OndaMenciaRadio/picture?width=200&height=200) | - | - |
