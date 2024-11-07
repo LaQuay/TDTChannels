@@ -111,6 +111,7 @@
 | RTVE Época | [m3u8](https://ztnr.rtve.es/ztnr/2472035.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-epoca/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
 | RTVE Series | [m3u8](https://ztnr.rtve.es/ztnr/6922467.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-series/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
 | RTVE Conciertos Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/6924117.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/conciertos-radio-3/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
+| RTVE Mañana Más | [m3u8](https://ztnr.rtve.es/ztnr/6982914.m3u8) | - | [logo](https://img2.rtve.es/i/?w=200&h=200&i=https://img2.rtve.es/contenidos/rtve.directos/imagenes/mananamas.jpg) | - | - |
 | RTVE Crimen | [m3u8](https://ztnr.rtve.es/ztnr/2472037.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-crimen/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | - | - |
 | Mitele Comedia | - | [web](https://www.mitele.es/directo/mitele-comedia/) | [logo](https://graph.facebook.com/mitele.es/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Mitele Viajes | - | [web](https://www.mitele.es/directo/mitele-viajes/) | [logo](https://graph.facebook.com/mitele.es/picture?width=200&height=200) | - | W3U,EMB,EXTA |
