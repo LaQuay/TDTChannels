@@ -285,7 +285,6 @@
 | Radio Huesca Sariñena | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SARINENA.mp3) | [web](https://cadenaser.com/radio-sarinena/contacto/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | Radio Mai | [stream # 1](http://radio.indaloweb.es:8001/live) - [stream # 2](http://radiomai.duckdns.org:8020/live) | [web](https://radiomai.com/online/) | [logo](https://graph.facebook.com/radiomai/picture?width=200&height=200) | - | WICE |
 | LokuraFM | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg131447?mp=/stream) | [web](https://lokurafm.online) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvqfZvUbQjrdsnFIhtqLy-mnkjBicLHHflgy5HWPCmyQqsYDZ) | - | - |
-| BOM Radio Zaragoza | [stream](http://r4g-zaragoza1.streaming-pro.com:7000/enlacesigloxxi) | [web](https://www.bomradio.com) | [logo](https://graph.facebook.com/BOMRadioOficial/picture?width=200&height=200) | - | - |
 | Hit Pirineos | [stream](http://stm1.emiteonline.com:8022/hitpirineos) | [web](http://www.hitradiofm.es/hitpirineos.html) | [logo](https://graph.facebook.com/hitpirineos/picture?width=200&height=200) | - | - |
 | Vale Radio | [mp3](https://azura7.emisiononline.es/listen/vale_radio/radio.mp3) | [web](https://www.valeradio.es/reproductor/index.php) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
 
@@ -612,7 +611,6 @@
 | Radio 21 | [stream](http://92.59.119.113:8000/live) | [web](http://www.radio21.es) | [logo](https://pbs.twimg.com/profile_images/894682648500740097/f__fTwxZ_200x200.jpg) | - | WICE |
 | Onda Merlín C Radio | [mp3](https://radio.radiobot.org/listen/omc/directo.mp3) | [web](https://www.omcradio.org/escuchanos/) | [logo](https://graph.facebook.com/OmcRadio/picture?width=200&height=200) | - | WICE |
 | Radio Morata | [stream](https://cervera.eldialdigital.com:25141/stream) | [web](https://www.radiomorata.com) | [logo](https://graph.facebook.com/radiomorata/picture?width=200&height=200) | - | WICE |
-| BOM Radio | [mp3](https://bomradio-mp3-live.flumotion.com/bomradio/bomradio-mp3-live.mp3) | [web](https://www.bomradio.com) | [logo](https://graph.facebook.com/BOMRadioOficial/picture?width=200&height=200) | - | - |
 | Esencia Radio | [stream](https://stream.zeno.fm/apu4qxap0rquv) | [web](https://www.esenciaradio.com/endirecto/) | [logo](https://graph.facebook.com/esenciaradio/picture?width=200&height=200) | - | - |
 | Radio Villalba | [stream](https://srv7041.dns-lcinternet.com/8042/stream) | [web](https://www.colladovillalba.es/radio-villalba) | [logo](https://graph.facebook.com/radiovillalbafm/picture?width=200&height=200) | - | - |
 | Radio Libertad | [stream](https://server9.emitironline.com:19482/stream) | [web](https://radiolibertad.es/en-directo/) | [logo](https://graph.facebook.com/LIBERTADFM107/picture?width=200&height=200) | - | - |
