@@ -478,7 +478,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TVG Mira Radio Galega | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleVigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Telemiño | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Telemiño | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Hermes TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Anove TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Auria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
