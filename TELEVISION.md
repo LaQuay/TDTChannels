@@ -27,7 +27,7 @@
 | Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DKISS | - | [web](https://www.dkiss.es) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
 | Paramount Network | - | [web](https://www.paramountnetwork.es) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200) | Paramount.TV | NOEM |
-| BOM Cine | - | [web](https://www.bomcine.com) | [logo](https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_200x200.jpg) | BOMCine.TV | NOEM |
+| BOM Cine | - | [web](https://www.bomcine.com) | [logo](https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_200x200.jpg) | - | NOEM |
 
 ## Informativos
 
@@ -54,7 +54,7 @@
 | Vinx TV Asturias | [m3u8](https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8) - [youtube](https://www.youtube.com/channel/UCJDjXO0kv_ZOtLntIO0d4bw/live) | [web](https://vinxtv.es/en-directo/) | [logo](https://graph.facebook.com/VinxTV/picture?width=200&height=200) | - | EMB |
 | IB3 Esports | [youtube](https://www.youtube.com/channel/UCOmWJETLyAlFrHkmccOQ-3w/live) | [web](https://ib3.org/directe) | [logo](https://graph.facebook.com/EsportsIB3/picture?width=200&height=200) | - | EMB |
 | Real Madrid TV | [m3u8 # ES](https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8) - [m3u8 # EN](https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8) - [stream](https://player.twitch.tv/?channel=realmadrid&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.realmadrid.com/real-madrid-tv) | [logo](https://graph.facebook.com/RealMadrid/picture?width=200&height=200) | RMTV.TV | - |
-| Barça TV | - | [web](https://www.fcbarcelona.es/es/culers) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=200&height=200) | BarcaTV.TV | NOEM |
+| Barça TV | - | [web](https://www.fcbarcelona.es/es/culers) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=200&height=200) | - | NOEM |
 | Sevilla TV | - | [web](https://live.sevillafc.es) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | SevillaTV.TV | - |
 | Betis TV | - | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | BetisTV.TV | W3U,EXTA |
 | Real Sociedad TV | [youtube](https://www.youtube.com/channel/UCfeqewEKWQ8CXY8OiXoMxxw/live) | [web](https://www.realsociedad.eus/es/noticias) | [logo](https://graph.facebook.com/RealSociedadFutbol/picture?width=200&height=200) | - | EMB |
@@ -621,7 +621,7 @@
 | Citytv Colombia | [youtube](https://www.youtube.com/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ/live) | [web](https://citytv.eltiempo.com/en-vivo) | [logo](https://graph.facebook.com/citytv.com.co/picture?width=200&height=200) | - | EMB |
 | Todo Noticias Argentina | [youtube](https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live) | [web](https://tn.com.ar/envivo/24hs/) | [logo](https://graph.facebook.com/todonoticias/picture?width=200&height=200) | - | EMB |
 | C5N Argentina | [youtube](https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live) | [web](https://www.c5n.com/vivo) | [logo](https://graph.facebook.com/C5N.Noticias/picture?width=200&height=200) | - | EMB |
-| Telefé Noticias Argentina | [youtube](https://www.youtube.com/channel/UChxGASjdNEYHhVKpl667Huw/live) | [web](https://telefenoticias.com.ar) | [logo](https://graph.facebook.com/telefe/picture?width=200&height=200) | Telefe.TV | EMB |
+| Telefé Noticias Argentina | [youtube](https://www.youtube.com/channel/UChxGASjdNEYHhVKpl667Huw/live) | [web](https://telefenoticias.com.ar) | [logo](https://graph.facebook.com/telefe/picture?width=200&height=200) | - | EMB |
 | La Nación Argentina | [youtube](https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live) | [web](https://lnmas.lanacion.com.ar) | [logo](https://graph.facebook.com/lanacion/picture?width=200&height=200) | - | EMB |
 | América TV Argentina | [youtube](https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live) | [web](https://www.americatv.com.ar/vivo) | [logo](https://graph.facebook.com/AmericaTV/picture?width=200&height=200) | - | EMB |
 | TV Pública Argentina | [youtube](https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live) | [web](https://www.tvpublica.com.ar) | [logo](https://graph.facebook.com/TVPublica/picture?width=200&height=200) | - | EMB |
@@ -678,7 +678,7 @@
 | CGTN News | [m3u8 # EN](https://news.cgtn.com/resource/live/english/cgtn-news.m3u8) | [web](https://www.cgtn.com/tv) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200) | CGTNN.TV | - |
 | CGTN Documentary | [m3u8 # EN](https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8) | [web](https://www.cgtn.com/channel/documentary) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200) | CGTNDoc.TV | - |
 | Al Jazeera Qatar | [m3u8 # EN](https://live-hls-web-aje.getaj.net/AJE/index.m3u8) - [m3u8 # AR](https://live-hls-web-aja.getaj.net/AJA/index.m3u8) | [web](https://www.aljazeera.com/live) | [logo](https://graph.facebook.com/aljazeera/picture?width=200&height=200) | AlJQ.TV | - |
-| NHK World Japan | [m3u8 # EN](https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8) | [web](https://www3.nhk.or.jp/nhkworld/en/live/) | [logo](https://graph.facebook.com/nhkworld/picture?width=200&height=200) | NHK.TV | - |
+| NHK World Japan | [m3u8 # EN](https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8) | [web](https://www3.nhk.or.jp/nhkworld/en/live/) | [logo](https://graph.facebook.com/nhkworld/picture?width=200&height=200) | - | - |
 | Nippon News TV Japan | [m3u8 # JA](https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8) | [web](https://www.news24.jp) | [logo](https://graph.facebook.com/ntvnews24/picture?width=200&height=200) | - | - |
 | Arirang TV Korea | [m3u8 # EN](https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8) | [web](https://www.arirang.com/live) | [logo](https://graph.facebook.com/arirangtv/picture?width=200&height=200) | - | - |
 | KBS World Korea | [youtube # KO # 1](https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig/live) - [youtube # KO # 2](https://www.youtube.com/channel/UCWw_gejTX29Yn89LLpcINZQ/live) | [web](https://world.kbs.co.kr) | [logo](https://graph.facebook.com/KBSWORLD/picture?width=200&height=200) | - | EMB |
