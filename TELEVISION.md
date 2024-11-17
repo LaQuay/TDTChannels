@@ -674,8 +674,8 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | CGTN | [m3u8 # 1](https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8) - [m3u8 # 2](https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8) | [web](https://espanol.cgtn.com/en-directo) | [logo](https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200) | CGTN.TV | - |
-| CGTN News | [m3u8 # EN](https://news.cgtn.com/resource/live/english/cgtn-news.m3u8) | [web](https://www.cgtn.com/tv) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200) | CGTNN.TV | - |
-| CGTN Documentary | [m3u8 # EN](https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8) | [web](https://www.cgtn.com/channel/documentary) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200) | CGTNDoc.TV | - |
+| CGTN News | [m3u8 # EN](https://english-livebkali.cgtn.com/live/encgtn.m3u8) | [web](https://www.cgtn.com/tv) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200) | CGTNN.TV | - |
+| CGTN Documentary | [m3u8 # EN](https://english-livebkali.cgtn.com/live/doccgtn.m3u8) | [web](https://www.cgtn.com/channel/documentary) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200) | CGTNDoc.TV | - |
 | Al Jazeera Qatar | [m3u8 # EN](https://live-hls-web-aje.getaj.net/AJE/index.m3u8) - [m3u8 # AR](https://live-hls-web-aja.getaj.net/AJA/index.m3u8) | [web](https://www.aljazeera.com/live) | [logo](https://graph.facebook.com/aljazeera/picture?width=200&height=200) | AlJQ.TV | - |
 | NHK World Japan | [m3u8 # EN](https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8) | [web](https://www3.nhk.or.jp/nhkworld/en/live/) | [logo](https://graph.facebook.com/nhkworld/picture?width=200&height=200) | - | - |
 | Nippon News TV Japan | [m3u8 # JA](https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8) | [web](https://www.news24.jp) | [logo](https://graph.facebook.com/ntvnews24/picture?width=200&height=200) | - | - |
