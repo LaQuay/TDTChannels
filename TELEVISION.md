@@ -704,10 +704,10 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Medi1 TV Marruecos | [m3u8 # 1](https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR) - [m3u8 # 2](https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR) - [m3u8 # 3](https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?DVR) | [web](https://medi1tv.com) | [logo](https://graph.facebook.com/Medi1TV/picture?width=200&height=200) | - | - |
-| SNRT Al Aoula Marruecos | - | [web](https://snrtlive.ma/fr/al-aoula) | [logo](https://graph.facebook.com/AlAoulaTVMaroc/picture?width=200&height=200) | - | W3U,EXTA |
-| SNRT Laayoune El Aaiún Marruecos | - | [web](https://snrtlive.ma/fr/laayoune) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_lmtJVOIgmbIZIBq75f-RE14vGPXH6I5Ldx68nUeGioig=s200) | - | W3U,EXTA |
-| SNRT Arryadia Marruecos | - | [web](https://snrtlive.ma/fr/arryadia) | [logo](https://graph.facebook.com/ArryadiaTVMaroc/picture?width=200&height=200) | - | W3U,EXTA |
-| SNRT Athaqafia Marruecos | - | [web](https://snrtlive.ma/fr/athaqafia) | [logo](https://yt3.googleusercontent.com/b4uDfV0KUwJbiq3TQWwVhICbwdygqtyrNM1ND2MBzJTUw7JsCTKsr7VKNNlfRClAMXWCFTPbpg=s200) | - | W3U,EXTA |
+| SNRT Al Aoula Marruecos | - | [web](https://snrtlive.ma/fr/al-aoula) | [logo](https://graph.facebook.com/AlAoulaTVMaroc/picture?width=200&height=200) | - | W3U,EXTA,REF |
+| SNRT Laayoune El Aaiún Marruecos | - | [web](https://snrtlive.ma/fr/laayoune) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_lmtJVOIgmbIZIBq75f-RE14vGPXH6I5Ldx68nUeGioig=s200) | - | W3U,EXTA,REF |
+| SNRT Arryadia Marruecos | - | [web](https://snrtlive.ma/fr/arryadia) | [logo](https://graph.facebook.com/ArryadiaTVMaroc/picture?width=200&height=200) | - | W3U,EXTA,REF |
+| SNRT Athaqafia Marruecos | - | [web](https://snrtlive.ma/fr/athaqafia) | [logo](https://yt3.googleusercontent.com/b4uDfV0KUwJbiq3TQWwVhICbwdygqtyrNM1ND2MBzJTUw7JsCTKsr7VKNNlfRClAMXWCFTPbpg=s200) | - | W3U,EXTA,REF |
 | SNRT Al Maghribia Marruecos | - | [web](https://snrtlive.ma/fr/almaghribia) | [logo](https://pbs.twimg.com/profile_images/1387335238947414017/CVzIRZfG_200x200.png) | - | W3U,EXTA |
 | AfricaNews | [youtube # EN](https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live) | [web](https://www.africanews.com/live/) | [logo](https://graph.facebook.com/africanews.channel/picture?width=200&height=200) | - | EMB |
 | Joy News TV Ghana | [youtube # EN](https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw/live) | [web](https://www.myjoyonline.com/media/joy-news-live) | [logo](https://graph.facebook.com/JoyNewsOnTV/picture?width=200&height=200) | - | EMB |
