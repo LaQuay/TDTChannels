@@ -388,7 +388,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Navarra TV | - | [web](https://www.navarratelevision.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | EMB |
+| Navarra TV | - | [web](https://www.natvplay.es/player/75D7757C-BD70-4FAB-850A-B9EBA29A4C8/Navarra%20Televisi%C3%B3n%20Live) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | EMB |
 | TeleRibera | [m3u8](https://video3.lhdserver.es/teleribera/live.m3u8) | [web](https://teleribera.com) | [logo](https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg) | - | - |
 | Parlamento de Navarra | [m3u8 # 1](https://broadcasting.parlamentodenavarra.es/live/canal1/playlist.m3u8?DVR) - [m3u8 # 2](https://broadcasting.parlamentodenavarra.es/live/canal2/playlist.m3u8?DVR) - [m3u8 # 3](https://broadcasting.parlamentodenavarra.es/live/canal3/playlist.m3u8?DVR) | [web](https://www.parlamentodenavarra.es) | [logo](https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg) | - | - |
 
