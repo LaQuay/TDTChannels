@@ -233,6 +233,7 @@
 | Roquetas FM | [stream](https://stream20.usastreams.com/8224/stream/;.mp3) | [web](https://www.roquetasfm.com) | [logo](https://graph.facebook.com/roquetasfm/picture?width=200&height=200) | - | - |
 | Central FM | [mp3](https://s29.myradiostream.com/4922/listen.mp3) | [web](https://www.centralfm.com) | [logo](https://graph.facebook.com/131322746891532/picture?width=200&height=200) | - | - |
 | Radio Nerja | [stream](https://online.vibacomunicacion.com:9974/stream) | [web](https://radionerja.com) | [logo](https://graph.facebook.com/radionerja/picture?width=200&height=200) | - | - |
+| Amiga Radio Nerja | [mp3](https://streaming.narixasoft.es/icecast/amigaradio.mp3) | [web](https://www.amigaradio.es/) | [logo](https://graph.facebook.com/fiestas.tuttifrutti/picture?width=200&height=200) | - | - |
 | Onda Loja Radio | [stream](https://streaming2.elitecomunicacion.es:8708/stream) | [web](https://positivafm.es/ondaloja/) | [logo](https://graph.facebook.com/370465614347/picture?width=200&height=200) | - | - |
 | Onda Mencía Radio | [stream](https://streaming12.elitecomunicacion.es:8146/stream) | [web](https://escucha.ondamenciaradio.com) | [logo](https://graph.facebook.com/OndaMenciaRadio/picture?width=200&height=200) | - | - |
 | Chocolate FM | [mp3](https://streaming2.elitecomunicacion.es:8082/live.mp3) | [web](https://www.chocolatefm.com) | [logo](https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200) | - | - |
