@@ -237,6 +237,7 @@
 | Onda Mencía Radio | [stream](https://streaming12.elitecomunicacion.es:8146/stream) | [web](https://escucha.ondamenciaradio.com) | [logo](https://graph.facebook.com/OndaMenciaRadio/picture?width=200&height=200) | - | - |
 | Chocolate FM | [mp3](https://streaming2.elitecomunicacion.es:8082/live.mp3) | [web](https://www.chocolatefm.com) | [logo](https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200) | - | - |
 | Radio Arcos | [mp3](https://streaming2.elitecomunicacion.es:8098/stream?type=.mp3) | [web](https://www.radioarcos.com) | [logo](https://graph.facebook.com/RadioArcos/picture?width=200&height=200) | - | - |
+| Granada FM | [stream](https://streaming2.elitecomunicacion.es:8028/stream) | [web](https://granadafm.es) | [logo](https://pbs.twimg.com/profile_images/1572284910198722561/2BQxFxMX_200x200.jpg) | - | - |
 | Radio Poniente | [stream](https://broadcast.radioponiente.org:8036/;) | [web](https://www.radioponiente.com) | [logo](https://graph.facebook.com/radioponientedeportes/picture?width=200&height=200) | - | - |
 | Canal Sevilla Visión | [stream](https://sevillavision.radioca.st/stream) | [web](https://canalsevillavision.wixsite.com/canal-sevilla-vision) | [logo](https://graph.facebook.com/canalsevillavision/picture?width=200&height=200) | - | WICE |
 | Antena Huelva | [stream](https://stm2.emiteonline.com:9024/antenahuelva) | [web](https://antenahuelva.com) | [logo](https://graph.facebook.com/109385783852066/picture?width=200&height=200) | - | WICE |
