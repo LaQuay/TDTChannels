@@ -357,7 +357,7 @@
 | TV Sant Cugat | [youtube](https://www.youtube.com/channel/UCO_HcwAMD_XcZWfqidMtfgw/live) | [web](https://www.tvsantcugat.cat/cobertura/directe-tv-hd/) | [logo](https://graph.facebook.com/tvsantcugat/picture?width=200&height=200) | - | EMB |
 | TV Sabadell Vallès | [m3u8](https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8) | [web](https://tvsabadell-valles.cat/directe/) | [logo](https://graph.facebook.com/tvsabadellvalles/picture?width=200&height=200) | Xarxa_TV_Sabadell_Valles.TV | UAG,REFI1 |
 | Fitel Television | [m3u8](https://tv.mywifisocial.es/live.m3u8) | [web](https://fiteltelevision.com/directe/) | [logo](https://graph.facebook.com/FitelTelevision/picture?width=200&height=200) | - | - |
-| TV Gran Vía Radio | [m3u8](https://streamlov.alsolnet.com/granviaradiofm/live/playlist.m3u8) | [web](https://granviaradiofm.es/) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | - |
+| TV Gran Vía Radio | [m3u8](https://streamlov.alsolnet.com/granviaradiofm/live/playlist.m3u8) | [web](https://granviaradiofm.es) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | - |
 
 ### Ceuta
 
