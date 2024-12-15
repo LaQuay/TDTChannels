@@ -560,6 +560,7 @@
 | 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
 | amb2FM | [stream](https://frilab.wlan.cat/amb2fm) | [web](https://www.amb2fm.cat) | [logo](https://pbs.twimg.com/profile_images/1245054974628892673/tjBDH_-q_200x200.jpg) | - | - |
 | 7deRàdio | [stream](https://stream.7deradio.cat/proxy/7deradio/stream) | [web](https://7deradio.cat) | [logo](https://graph.facebook.com/7deradio/picture?width=200&height=200) | - | - |
+| MDT Radio Barcelona | [stream](https://streams1.mdtradio.com:8443/MdtBarcelonaEstudio) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/MDTradioBarcelona/picture?width=200&height=200) | - | - |
 
 ### Ceuta
 
@@ -631,6 +632,7 @@
 | Antena CEMU | [stream](https://sonic.mediatelekom.net/9980/stream) | [web](https://antenacemu.com/emision-online/) | [logo](https://graph.facebook.com/401769933317531/picture?width=200&height=200) | - | - |
 | Sol Radio | [stream](https://azura.abcorp.es/radio/8220/solradio) | [web](https://solradiomadrid.com) | [logo](https://graph.facebook.com/solradio99.8/picture?width=200&height=200) | - | - |
 | Onda Vallekana | [stream](https://sonic.sistemahost.es/8152/;) | [web](https://www.ondavallekana.es) | [logo](https://pbs.twimg.com/profile_images/1447528417654710279/IlV_01hC_200x200.jpg) | - | - |
+| MDT Radio Madrid | [stream](https://streams1.mdtradio.com:8443/MdtMadrid) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/mdtradiomadrid/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
 
