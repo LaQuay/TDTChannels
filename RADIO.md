@@ -309,7 +309,7 @@
 | Radio Marca Tenerife | [stream](https://cervera.eldialdigital.com:22131/stream) | [web](https://radiomarcatenerife.com) | [logo](https://graph.facebook.com/RadioMarcaTfe/picture?width=200&height=200) | - | WICE |
 | Q FM | [stream](https://securestreams4.autopo.st:1889/stream) | [web](https://www.qmusica.com/es) | [logo](https://graph.facebook.com/qmusica/picture?width=200&height=200) | - | - |
 | Canal 4 Tenerife | [stream](https://panel5.soydigital.fm/8024/live) | [web](https://www.canal4tenerife.tv/radio/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200) | - | - |
-| Rumberos FM | [stream](https://str1.mediatelekom.net:9952/live) | [web](https://www.radiorumberosfm.com) | [logo](https://pbs.twimg.com/profile_images/589410759173660672/h6ajWfi4_200x200.png) | - | - |
+| Rumberos FM | [stream](https://str1.mediatelekom.net:9952/live) | [web](https://www.radiorumberosfm.com) | [logo](https://pbs.twimg.com/profile_images/589410759173660672/h6ajWfi4_200x200.png) | RumberosFM.Radio | - |
 | Radio Mogán | [stream](https://streaming2.elitecomunicacion.es:8100/stream) | [web](https://www.mogan.es/45-radio-television-de-mogan/3295-escuchar-radio-mogan-en-directo) | [logo](https://graph.facebook.com/AyuntamientodeMogan/picture?width=200&height=200) | - | - |
 | Inolvidable FM | [stream](https://uk1.streamingpulse.com/ssl/inolvidablefm) | [web](https://inolvidablefm.es) | [logo](https://graph.facebook.com/inolvidablefmradio/picture?width=200&height=200) | - | WICE |
 | La Diez Radio | [stream](https://panel5.soydigital.fm/8030/stream) | [web](https://www.ladiez.es) | [logo](https://graph.facebook.com/ladiezradio/picture?width=200&height=200) | - | - |
