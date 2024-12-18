@@ -46,6 +46,10 @@
 | Dial Baladas | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3) | [web](https://play.cadenadial.com/emisora/dialbaladas) | [logo](https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg) | - | - |
 | Dial Latino | [stream](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC) | [web](https://play.cadenadial.com/emisora/diallatino) | [logo](https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg) | - | - |
 | MDT Radio Remember | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | MDTRadio.Radio | - |
+| MDT Radio Pop Stars | [stream](https://streams1.mdtradio.com:8443/PopStarsFm) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg) | - | - |
+| MDT Radio 80s | [stream](https://streams1.mdtradio.com:8443/MDTradio80) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg) | - | - |
+| MDT Radio 90s | [stream](https://streams1.mdtradio.com:8443/MDTradio90) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-90s-300x300.jpg) | - | - |
+| MDT Radio 2000 | [stream](https://streams1.mdtradio.com:8443/MDTradio2000) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-2000-300x300.jpg) | - | - |
 | Loca FM Urban | [stream](https://s1.we4stream.com:2020/stream/locaurban) | [web](https://www.locafm.com/loca-urban/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | LocaFMUrban.Radio | - |
 | Loca FM Dance | [stream](https://s2.we4stream.com/listen/loca_dance/live) | [web](https://www.locafm.com/dance/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Remember | [stream](https://s2.we4stream.com/listen/loca_remember/live) | [web](https://www.locafm.com/remember/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
@@ -309,7 +313,7 @@
 | Radio Marca Tenerife | [stream](https://cervera.eldialdigital.com:22131/stream) | [web](https://radiomarcatenerife.com) | [logo](https://graph.facebook.com/RadioMarcaTfe/picture?width=200&height=200) | - | WICE |
 | Q FM | [stream](https://securestreams4.autopo.st:1889/stream) | [web](https://www.qmusica.com/es) | [logo](https://graph.facebook.com/qmusica/picture?width=200&height=200) | - | - |
 | Canal 4 Tenerife | [stream](https://panel5.soydigital.fm/8024/live) | [web](https://www.canal4tenerife.tv/radio/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200) | - | - |
-| Rumberos FM | [stream](https://str1.mediatelekom.net:9952/live) | [web](https://www.radiorumberosfm.com) | [logo](https://pbs.twimg.com/profile_images/589410759173660672/h6ajWfi4_200x200.png) | - | - |
+| Rumberos FM | [stream](https://str1.mediatelekom.net:9952/live) | [web](https://www.radiorumberosfm.com) | [logo](https://pbs.twimg.com/profile_images/589410759173660672/h6ajWfi4_200x200.png) | RumberosFM.Radio | - |
 | Radio Mogán | [stream](https://streaming2.elitecomunicacion.es:8100/stream) | [web](https://www.mogan.es/45-radio-television-de-mogan/3295-escuchar-radio-mogan-en-directo) | [logo](https://graph.facebook.com/AyuntamientodeMogan/picture?width=200&height=200) | - | - |
 | Inolvidable FM | [stream](https://uk1.streamingpulse.com/ssl/inolvidablefm) | [web](https://inolvidablefm.es) | [logo](https://graph.facebook.com/inolvidablefmradio/picture?width=200&height=200) | - | WICE |
 | La Diez Radio | [stream](https://panel5.soydigital.fm/8030/stream) | [web](https://www.ladiez.es) | [logo](https://graph.facebook.com/ladiezradio/picture?width=200&height=200) | - | - |
@@ -556,6 +560,7 @@
 | 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
 | amb2FM | [stream](https://frilab.wlan.cat/amb2fm) | [web](https://www.amb2fm.cat) | [logo](https://pbs.twimg.com/profile_images/1245054974628892673/tjBDH_-q_200x200.jpg) | - | - |
 | 7deRàdio | [stream](https://stream.7deradio.cat/proxy/7deradio/stream) | [web](https://7deradio.cat) | [logo](https://graph.facebook.com/7deradio/picture?width=200&height=200) | - | - |
+| MDT Radio Barcelona | [stream](https://streams1.mdtradio.com:8443/MdtBarcelonaEstudio) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/MDTradioBarcelona/picture?width=200&height=200) | - | - |
 
 ### Ceuta
 
@@ -627,6 +632,7 @@
 | Antena CEMU | [stream](https://sonic.mediatelekom.net/9980/stream) | [web](https://antenacemu.com/emision-online/) | [logo](https://graph.facebook.com/401769933317531/picture?width=200&height=200) | - | - |
 | Sol Radio | [stream](https://azura.abcorp.es/radio/8220/solradio) | [web](https://solradiomadrid.com) | [logo](https://graph.facebook.com/solradio99.8/picture?width=200&height=200) | - | - |
 | Onda Vallekana | [stream](https://sonic.sistemahost.es/8152/;) | [web](https://www.ondavallekana.es) | [logo](https://pbs.twimg.com/profile_images/1447528417654710279/IlV_01hC_200x200.jpg) | - | - |
+| MDT Radio Madrid | [stream](https://streams1.mdtradio.com:8443/MdtMadrid) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/mdtradiomadrid/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
 
