@@ -451,7 +451,7 @@
 | Vive! Radio | [stream](https://streaming.viveradio.es/viveburgos) | [web](https://www.viveradio.es/viveBurgos) | [logo](https://graph.facebook.com/158974217473244/picture?width=200&height=200) | - | WICE |
 | Radio Aguilar FM | [stream](https://pr1cen101.emisionlocal.com/proxy/radioaguilar?mp=/stream) | [web](https://www.radioaguilar.com) | [logo](https://graph.facebook.com/213369399946/picture?width=200&height=200) | - | - |
 | Mortal FM | [stream](http://server2.20comunicacion.com:8044/stream) | [web](http://www.mortalfm.es/online) | [logo](https://graph.facebook.com/mortalfm/picture?width=200&height=200) | - | - |
-| Onda Bierzo | [stream](https://streams1.mdtradio.com:8443/MdtMadrid) | [web](https://ondabierzo.com/) | [logo](https://graph.facebook.com/ondabierzo/picture?width=200&height=200) | - | - |
+| Onda Bierzo | [stream](https://pr1cen101.emisionlocal.com/proxy/ondabierzo?mp=/stream) | [web](https://ondabierzo.com/) | [logo](https://graph.facebook.com/ondabierzo/picture?width=200&height=200) | - | - |
 | FM Bierzo | [stream](https://streaming12.elitecomunicacion.es:8648/stream) | [web](https://www.fmbierzo.com) | [logo](https://graph.facebook.com/FMBierzoOFICIAL/picture?width=200&height=200) | - | - |
 | Radio Briviesca | [stream](https://topradio.uno/proxy/radiobriviesca/stream) | [web](https://www.radiobriviesca.com/radio-briviesca-online/) | [logo](https://graph.facebook.com/RadioBriviesca/picture?width=200&height=200) | - | - |
 | Anda Onda Lerma | [stream](https://topradio.uno:8006/stream) | [web](https://andaonda.es) | [logo](https://graph.facebook.com/andaondalerma/picture?width=200&height=200) | - | WICE |
