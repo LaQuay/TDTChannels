@@ -550,7 +550,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | - | - | - | - | - | - | - | - | - |
 | TVE Int. Europa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión geolocalizada a Europa |
 | TV3.CAT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| EITB Basque | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ETB Basque | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG América | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemadrid Internacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GCM Internacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
