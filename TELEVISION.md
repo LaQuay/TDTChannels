@@ -775,7 +775,6 @@
 | Rock TV Romania | - | [web](https://www.rockfm.ro/rocktv) | [logo](https://graph.facebook.com/rockfmro/picture?width=200&height=200) | - | W3U,EXTA |
 | On TV Portugal | [m3u8](https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8) | [web](https://www.onfm.pt) | [logo](https://graph.facebook.com/ONFM93.8/picture?width=200&height=200) | - | - |
 | NRG91 Grecia | [m3u8](https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8) | [web](https://nrg91.gr/nrgtv.html) | [logo](https://yt3.googleusercontent.com/0MdQu8SZsLCmpnzO74z1t7-2g6Jm_6GKDckGY57snfyT28_YYB-THs3ig1IDzH5LB1NjeciS=s200) | - | - |
-| Otto FM Italia | [m3u8 # IT](http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8) | [web](http://ottofm.com/otto-fm-tv-limpronta-digitale-degli-anni-ottanta/) | [logo](https://graph.facebook.com/ottofm/picture?width=200&height=200) | - | - |
 | Retro Music TV Chequia | [m3u8 # EN](http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8) | [web](http://retromusic.cz/#retro_tv) | [logo](https://graph.facebook.com/retromusic/picture?width=200&height=200) | - | - |
 | Power TV Turquía | [m3u8](https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8) | [web](https://www.powerapp.com.tr/tvs/power-tvs/powertv/) | [logo](https://graph.facebook.com/powerapp/picture?width=200&height=200) | - | - |
 | CMC Croacia | [m3u8](https://stream.cmctv.hr:49998/cmc/live.m3u8) | [web](https://cmc.com.hr/program/cmc-tv-stream/) | [logo](https://graph.facebook.com/CroatianMusicChannel/picture?width=200&height=200) | - | - |
