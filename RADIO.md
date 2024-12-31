@@ -222,8 +222,6 @@
 | Onda Sur Motril | [stream](http://radio.telemotril.com:8000/live) | [web](https://telemotril.com/onda-sur-107-7fm/) | [logo](https://graph.facebook.com/telemotriltv/picture?width=200&height=200) | - | WICE |
 | Radio Chanquete | [mp3 # 1](http://185.23.192.118:8008/;stream.mp3) - [mp3 # 2](http://185.23.192.118:8012/;stream.mp3) - [mp3 # 3](http://185.23.192.118:8014/;stream.mp3) | [web](http://www.chanquetefm.com) | [logo](https://graph.facebook.com/radiochanquete/picture?width=200&height=200) | - | - |
 | La Mega Málaga | [mp3](https://streaming2.elitecomunicacion.es:8220//stream?type=.mp3) | [web](https://www.lamegamalaga.es) | [logo](https://graph.facebook.com/lamegacostadelsol/picture?width=200&height=200) | - | - |
-| La Mega FM Costa Tropical | [stream](https://streaming12.elitecomunicacion.es:8642/stream) | [web](https://decibeliafm.es/web/) | [logo](https://pbs.twimg.com/profile_images/1580311659226210310/umHvZ3-d_200x200.jpg) | - | - |
-| Decibelia FM | [stream](https://streaming.shoutcast.com/decibelia) | [web](https://decibeliafm.es/web/) | [logo](https://pbs.twimg.com/profile_images/1580311659226210310/umHvZ3-d_200x200.jpg) | - | - |
 | Onda Guillena Radio | [stream](https://stream-47.zeno.fm/9wpb3rau6fltv?zs=9KYOh8YrTPu3QKUekz1LNA) | [web](https://onda.guillena.org) | [logo](https://graph.facebook.com/onda.guillena/picture?width=200&height=200) | - | - |
 | Oldies FM | [stream](https://h3004255.stratoserver.net:8000/oldiesfm) | [web](https://oldiesfm.net) | [logo](https://pbs.twimg.com/profile_images/1601901671105404929/NgHWOkze_200x200.jpg) | - | WICE |
 | Radio Salobreña | [stream](https://streaming2.elitecomunicacion.es:8078/stream) | [web](https://www.radiosalobrena.com/endirecto/) | [logo](https://graph.facebook.com/radiosalobrena/picture?width=200&height=200) | - | - |
@@ -249,6 +247,8 @@
 | Antena Huelva | [stream](https://stm2.emiteonline.com:9024/antenahuelva) | [web](https://antenahuelva.com) | [logo](https://graph.facebook.com/109385783852066/picture?width=200&height=200) | - | WICE |
 | Radio Luz Dalías | [mp3](https://broadcast.radioponiente.org:8034/;.mp3) | [web](https://www.radioluzdalias.com/es/) | [logo](https://pbs.twimg.com/profile_images/1163744422116438016/Fw93iC2M_200x200.jpg) | - | - |
 | 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](http://www.90fm.es) | [logo](https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg) | - | - |
+| La Mega FM Costa Tropical | [stream](https://streaming12.elitecomunicacion.es:8642/stream) | [web](https://www.lamegafmcostatropical.com) | [logo](https://graph.facebook.com/megacostatropical/picture?width=200&height=200) | - | - |
+| Decibelia FM | [stream](https://streaming.shoutcast.com/decibelia) | [web](https://decibeliafm.es/web/) | [logo](https://pbs.twimg.com/profile_images/1580311659226210310/umHvZ3-d_200x200.jpg) | - | - |
 
 ### Aragón
 
