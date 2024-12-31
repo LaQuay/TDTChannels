@@ -248,6 +248,8 @@
 | Antena Huelva | [stream](https://stm2.emiteonline.com:9024/antenahuelva) | [web](https://antenahuelva.com) | [logo](https://graph.facebook.com/109385783852066/picture?width=200&height=200) | - | WICE |
 | Radio Luz Dalías | [mp3](https://broadcast.radioponiente.org:8034/;.mp3) | [web](https://www.radioluzdalias.com/es/) | [logo](https://pbs.twimg.com/profile_images/1163744422116438016/Fw93iC2M_200x200.jpg) | - | - |
 | 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](http://www.90fm.es) | [logo](https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg) | - | - |
+| La Mega FM Costa Tropical | [stream](https://streaming12.elitecomunicacion.es:8642/stream) | [web](https://www.lamegafmcostatropical.com) | [logo](https://graph.facebook.com/megacostatropical/picture?width=200&height=200) | - | - |
+| Decibelia FM | [stream](https://streaming.shoutcast.com/decibelia) | [web](https://decibeliafm.es/web/) | [logo](https://pbs.twimg.com/profile_images/1580311659226210310/umHvZ3-d_200x200.jpg) | - | - |
 
 ### Aragón
 
