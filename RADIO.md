@@ -708,7 +708,7 @@
 | Europa FM Marina Alta | [stream](https://stm2.emiteonline.com:9029/marinaefm) | [web](http://europafmmarinaalta.com) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | MDT Radio | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | - | - |
 | Remember The Music FM | [stream](https://eu1.lhdserver.es:9041/stream) | [web](https://rememberthemusicfm.com) | [logo](https://pbs.twimg.com/profile_images/1034848375705878528/qt4gn64O_200x200.jpg) | - | - |
-| TeleElx Radio | [mp3](https://directo.teleelx.es:8000/radio.mp3) | [web](https://teleelx.es/radio/) | [logo](https://graph.facebook.com/teleelx/picture?width=200&height=200) | - | - |
+| Radio Marca Elche | [mp3](https://directo.teleelx.es:8000/radio.mp3) | [web](https://radiomarcaelche.es/) | [logo](https://graph.facebook.com/radiomarcaelche/picture?width=200&height=200) | - | - |
 | Hot FM Benidorm | [stream](https://ukwesta.streaming.broadcast.radio/hotfm918) | [web](https://www.hotfm.fm/listen-live-gold-91-8) | [logo](https://graph.facebook.com/HotFMSpain/picture?width=200&height=200) | - | WICE |
 | RM Requena Utiel | [stream](https://cast.rmradio.es/radio/8010/stream) | [web](https://www.rmradio.es) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
 | Radio Esport Valencia | [stream](https://streaming.radioesport914.com:58000/stream) | [web](https://radioesport914.com) | [logo](https://graph.facebook.com/radioesport914/picture?width=200&height=200) | - | WICE |
@@ -755,8 +755,13 @@
 | Radio 90FM | [stream](https://node-33.zeno.fm/015h6n8vfzzuv) | [web](https://radio90fmvalencia.wixsite.com/90fm) | [logo](https://static.wixstatic.com/media/f5b851_67e1cadb04a642e2a353a636264ca548~mv2.png) | - | WICE |
 | Radio Malibú | [mp3](https://cdn4.onstream.audio:9158/maliburadio.mp3) | [web](https://www.radiomalibu.es) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
 | Litoral FM | [mp3](https://stream.mediasector.es/radio/8310/litoralfm.mp3) | [web](https://radiolitoral.com) | [logo](https://graph.facebook.com/Laradiolitoral/picture?width=200&height=200) | - | - |
+| Litoral Oro | [mp3](https://stream.mediasector.es/listen/litoral_oro/litoral-oro.mp3) | [web](https://radiolitoral.com/emisoras/litoral-oro) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2024/11/06182836/Logo-Litoral-ORO-200x200.jpg) | - | - |
+| Ràdio Calp | [mp3](https://stream.emisorasmusicales.net/listen/radio-calp/radio-calp.mp3) | [web](https://www.emisorasmusicales.net/emisoras/radio-calp/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2024/10/24105437/Logo-Radio-Calp-05-200x200.jpg) | - | - |
+| Versión Radio | [stream](https://radioserver11.profesionalhosting.com/proxy/hcauhcvs?mp=/stream) | [web](https://www.versionradio.es/) | [logo](https://graph.facebook.com/versionradioasjm/picture?width=200&height=200) | - | - |
+| Dénia FM | [mp3](https://stream.serviciospararadios.es/listen/denia_fm/deniafm.mp3) | [web](https://marinaalta.es/) | [logo](https://graph.facebook.com/deniafm92.5/picture?width=200&height=200) | - | - |
 | Radio Benicarló | [mp3](https://streaming.enacast.com/radiobenicarlo128.mp3) | [web](https://www.radiobenicarlo.org) | [logo](https://pbs.twimg.com/profile_images/1544316931175550979/6M8VF3dz_200x200.jpg) | - | - |
 | Onda 40 Music | [mp3](https://radioonda40music.es:8000/radio.mp3) | [web](https://onda40music.com) | [logo](https://graph.facebook.com/onda40music/picture?width=200&height=200) | - | - |
+| V30 Radio | [stream](https://streaming12.elitecomunicacion.es:8604/stream) | [web](https://ondavalencia.es/en-directo/onda-valencia-v30) | [logo](https://pbs.twimg.com/media/GfowgswXsAAk9wa.jpg) | - | - |
 | UPV Ràdio | [m3u8](https://streaming.upv.es/radioupv/onlineradio/playlist.m3u8) | [web](https://www.upv.es/rtv/radio/directo) | [logo](https://graph.facebook.com/UPVTV/picture?width=200&height=200) | - | - |
 | Vox UJI Ràdio | [mp3](https://radiouji.uji.es:8443/high.mp3) | [web](https://www.radio.uji.es) | [logo](https://pbs.twimg.com/profile_images/915478760299868160/FACNin_P_200x200.jpg) | - | - |
 
