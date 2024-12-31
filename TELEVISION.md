@@ -476,7 +476,7 @@
 | - | - | - | - | - | - |
 | TV Rioja | [m3u8 # 1](https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8) - [m3u8 # 2](https://5924d3ad0efcf.streamlock.net:443/riojatv2/riojatv2live/playlist.m3u8) | [web](https://www.tvr.es/directo-20210408161442-nt.html)  | [logo](https://graph.facebook.com/tvrtelevision/picture?width=200&height=200) | TVR.TV | - |
 | 7 La Rioja | - | [web](https://www.7rioja.tv/Directo) | [logo](https://graph.facebook.com/7riojatv/picture?width=200&height=200) | 7Rioja.TV | EMB |
-| Parlamento de La Rioja | [m3u8](https://media.parlamento-larioja.org/live/parlarioja/playlist.m3u8) | [web](https://mediateca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200) | - | - |
+| Parlamento de La Rioja | [m3u8](https://media.parlamento-larioja.org/live/parlarioja/playlist.m3u8) - [m3u8 # 2](https://media.parlamento-larioja.org/live/parlarioja_subtitulado/playlist.m3u8) | [web](https://mediateca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200) | - | - |
 | Cocina Familiar | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12108) | [web](https://cocina-familiar.com) | [logo](https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200) | - | - |
 
 ### Melilla
@@ -636,7 +636,7 @@
 | TeleSUR Venezuela | [m3u8](https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/) | [logo](https://graph.facebook.com/teleSUR/picture?width=200&height=200) | TeleSUR.TV | - |
 | Globovision Venezuela | [youtube](https://www.youtube.com/channel/UC06Tup55KpXujnN9LzHXBAw/live) | [web](https://globovision.com) | [logo](https://graph.facebook.com/globovision/picture?width=200&height=200) | - | EMB |
 | Venezolana de Televisión | [stream](https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1) | [web](https://www.vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | EMB,EXTB |
-| Televen TV Venezuela | - | [web](https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1) | [logo](https://graph.facebook.com/TelevenTV/picture?width=200&height=200) | - | W3U,EXTA |
+| Televen TV Venezuela | [m3u8](https://d39cdj6x0ssnqk.cloudfront.net/out/v1/ae3f5ad3ac9d4bcfbedc1894a62782b4/index.m3u8) | [web](https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1) | [logo](https://graph.facebook.com/TelevenTV/picture?width=200&height=200) | - | - |
 | VPI TV Venezuela | [m3u8](https://ott.streann.com/loadbalancer/services/public/channels-secure/5d23d5882cdce61dae029fd8/playlist.m3u8) | [web](https://vpitv.com/en-vivo/) | [logo](https://graph.facebook.com/vpitv/picture?width=200&height=200) | - | - |
 | La Tele Tuya Venezuela | [stream](https://www.dailymotion.com/embed/video/x8z1nnq?autoplay=1) | [web](https://teletuya.net/en-vivo/) | [logo](https://graph.facebook.com/TeleTuya/picture?width=200&height=200) | - | EMB,EXTB |
 | Canal Antigua Guatemala | - | [web](https://canalantigua.tv/envivo/) | [logo](https://graph.facebook.com/canalantigua/picture?width=200&height=200) | - | W3U,EXTA |
