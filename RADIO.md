@@ -937,7 +937,7 @@
 | Durango Irratia | [mp3](https://durangoirratia.streaming-pro.com:6006/durangoirratia.mp3) | [web](https://durangoirratia.durango.eus) | [logo](https://pbs.twimg.com/profile_images/674943257789505537/0P8QkXHx_200x200.jpg) | - | - |
 | Donostia Kultura Irratia | [mp3](https://s35.myradiostream.com:26101/listen.mp3) | [web](https://irratia.donostiakultura.eus) | [logo](https://graph.facebook.com/DKirratia/picture?width=200&height=200) | - | - |
 | Habla Radio | [mp3](https://s33.myradiostream.com/15294/;stream.mp3) | [web](https://hablaradio.com) | [logo](https://graph.facebook.com/HablaRadioSS/picture?width=200&height=200) | - | - |
-| Arrate Irratia | [stream](https://online.arrateirratia.eus/zuzenean) | [web](https://arrateirratia.eus/) | [logo](https://play-lh.googleusercontent.com/AWgxIb9V1Z6aIJQ6Mx98k8b7UbJbekd6NRjb849-MbATra820dBMfri8_hEgHNcnZd0=w200-h200) | - | - |
+| Arrate Irratia | [stream](https://online.arrateirratia.eus/zuzenean) | [web](https://arrateirratia.eus) | [logo](https://play-lh.googleusercontent.com/AWgxIb9V1Z6aIJQ6Mx98k8b7UbJbekd6NRjb849-MbATra820dBMfri8_hEgHNcnZd0=w200-h200) | - | - |
 
 ### P. de Asturias
 
