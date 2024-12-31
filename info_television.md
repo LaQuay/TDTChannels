@@ -798,7 +798,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Rock TV Romania | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | On TV Portugal | - | - | - | - | - | - | - | - |
 | NRG91 Grecia | - | - | - | - | - | - | - | - |
-| Otto FM Italia | - | - | - | - | - | - | - | - |
 | Retro Music TV Chequia | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |
 | CMC Croacia | - | - | - | - | - | - | - | - |
