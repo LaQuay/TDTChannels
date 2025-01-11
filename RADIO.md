@@ -72,6 +72,10 @@
 | Loca FM Drum&Bass | [stream](https://s2.we4stream.com/listen/loca_drum__bass/live) | [web](https://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | digitalHits FM | [stream](https://dhits.frilab.com:8443/dhits) | [web](https://www.digitalhits.cat/directe/) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
 | La Urban Radio | [mp3](https://st1.urbanrevolution.es:8443/laurbanfm.mp3) | [web](https://www.urbanrevolution.es) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
+| Élite Love | [stream](https://streaming2.elitecomunicacion.es/proxy/elitelove/stream) | [web](https://www.cadenaelite.es/elitelove/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
+| Élite Dance | [stream](https://streaming2.elitecomunicacion.es/proxy/elitedance/stream) | [web](https://www.cadenaelite.es/elitedance/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
+| Élite Oldies | [stream](https://streaming2.elitecomunicacion.es/proxy/eliteoldies/stream) | [web](https://www.cadenaelite.es/eliteoldies/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
+| Élite Urban | [stream](https://streaming2.elitecomunicacion.es/proxy/eliteurban/stream) | [web](https://www.cadenaelite.es/eliteurban/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 
 ## Deportivas
 
