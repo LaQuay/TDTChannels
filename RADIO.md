@@ -527,7 +527,7 @@
 | Ràdio Vilafranca | [mp3](https://radio.rtvvilafranca.cat/rtvvilafranca.mp3) | [web](https://www.rtvvilafranca.cat/radio-vilafranca/radio-en-directe/) | [logo](https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200) | - | - |
 | Ona La Torre | [mp3](https://streaming.enacast.com/onalatorreSD.mp3) | [web](https://www.ona-latorre.cat) | [logo](https://graph.facebook.com/ona.latorre/picture?width=200&height=200) | - | - |
 | Ràdio Estel | [stream](https://srv6021.dns-lcinternet.com:10244/stream) | [web](https://www.radioestel.cat/en-directe/) | [logo](https://graph.facebook.com/radioestel/picture?width=200&height=200) | - | WICE |
-| Gum FM Vielha | [stream](https://s4.radio.co/sc1cb45a9f/listen) | [web](https://www.gumfm.com/) | [logo](https://graph.facebook.com/gumfm/picture?width=200&height=200) | - | - |
+| Gum FM Vielha | [stream](https://s4.radio.co/sc1cb45a9f/listen) | [web](https://www.gumfm.com) | [logo](https://graph.facebook.com/gumfm/picture?width=200&height=200) | - | - |
 | Ràdio Igualada | [stream](https://srv7031.dns-lcinternet.com/8024/stream) | [web](www.lcinternet.es/player/v3299500_igualada/player.html) | [logo](https://graph.facebook.com/radioigualada/picture?width=200&height=200) | - | - |
 | RAP107 | [stream](https://enacast.com/rap107/streams/HD) - [mp3](https://relay.stream.enacast-cloud.com:40048/rapradio128.mp3) | [web](https://enacast.com/rap107/) | [logo](https://graph.facebook.com/rap107/picture?width=200&height=200) | - | - |
 | Ràdio Caldes | [stream](https://enacast.com/radiocaldes/streams/HD) - [mp3](https://relay.stream.enacast-cloud.com:40062/radiocaldes128.mp3) | [web](https://www.radiocaldes.cat) | [logo](https://graph.facebook.com/RadioCaldes107.8fm/picture?width=200&height=200) | - | - |
