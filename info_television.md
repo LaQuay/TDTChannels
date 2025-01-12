@@ -622,6 +622,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | America's Voice USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | BUZZR TV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Newsmax TV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Noticias Telemundo USA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | America TeVe USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NTN24 América | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal 6 Multimedios Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
