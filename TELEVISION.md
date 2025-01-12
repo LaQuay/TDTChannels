@@ -752,14 +752,14 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Sol Música España | [m3u8](https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8) | [web](https://tuamc.tv/sol-musica) | [logo](https://graph.facebook.com/solmusica/picture?width=200&height=200) | SOLMUSICA.TV | - |
+| Sol Música España | [m3u8](https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8) | [web](https://tuamc.tv/sol-musica) | [logo](https://graph.facebook.com/solmusica/picture?width=200&height=200) | SolMusica.TV | - |
 | Activa TV España | [m3u8](https://streamtv.mediasector.es/hls/activatv/index.m3u8) | [web](https://www.emisorasmusicales.net/activa-tv/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
 | Cadena Elite España | [m3u8](https://cloudvideo.servers10.com:8081/8004/index.m3u8) | [web](https://www.cadenaelite.es) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 | Molahits TV España | [m3u8](https://ventdelnord.tv:8080/mola/directe.m3u8) | [web](https://www.molatv.cat) | [logo](https://graph.facebook.com/molahitstv/picture?width=200&height=200) | - | - |
 | La Urban TV España | [m3u8](https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8) | [web](https://www.urbanrevolution.es/emision-en-directo-de-la-urban-tv/) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
 | STZ Telebista España | [m3u8](https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8) | [web](https://stztelebista.com) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
 | Verbena TV España | [m3u8](https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8) | [web](https://verbenafm.com) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
-| Ibiza Global TV España | - | [web](https://www.ibizaglobalradio.com/ibiza-global-tv.html) | [logo](https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200) | IBIZAGLOBAL.TV | W3U,EMB,EXTA |
+| Ibiza Global TV España | - | [web](https://www.ibizaglobalradio.com/ibiza-global-tv.html) | [logo](https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200) | IbizaGlobal.TV | W3U,EMB,EXTA |
 | Café del Mar Ibiza España | [youtube](https://www.youtube.com/channel/UCha0QKR45iw7FCUQ3-1PnhQ/live) | [web](https://cafedelmar.com) | [logo](https://graph.facebook.com/cafedelmaribizaofficialpage/picture?width=200&height=200) | - | EMB |
 | Tomorrowland TV | [youtube](https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ/live) | [web](https://oneworldradio.tomorrowland.com) | [logo](https://graph.facebook.com/tomorrowland/picture?width=200&height=200) | - | EMB |
 | Radio Italia TV | [m3u8 # IT](https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8) | [web](https://www.radioitalia.it/radioitaliatv) | [logo](https://graph.facebook.com/radioitalia/picture?width=200&height=200) | - | - |
