@@ -980,7 +980,7 @@
 | Carrusel FM | [mp3](https://server10.emitironline.com:8921/radio?.mp3) | [web](http://www.carruselfm.com) | [logo](https://pbs.twimg.com/profile_images/520332074147123200/pzYkTYHB_200x200.jpeg) | - | - |
 | Master FM | [stream](https://radios.lamaster.es:8000/asturias) | [web](https://lamaster.es/asturias/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
 | Onda Peñes | [mp3](https://eu1.lhdserver.es:2999/stream?type=.mp3) | [web](http://www.gaxarte.com) | [logo](https://graph.facebook.com/onda.penes/picture?width=200&height=200) | - | - |
-| La Bomba Radio | [stream](https://stm2.emiteonline.com:9014/labomba) | [web](http://www.labombaradio.es) | [logo](https://graph.facebook.com/Labombaradioasturias/picture?width=200&height=200) | - | WICE |
+| La Bomba Radio | [stream](https://stm2.emiteonline.com:9014/labomba) | [web](http://www.labombaradio.es) | [logo](https://play-lh.googleusercontent.com/RnnCJFfcSu-Ma6MSoLJ4hDT2qz9tNrzHz3AdOyFy-h5bjRb0oakVfVOMtPOn5F7tmA=w200) | - | WICE |
 | Radio Ujo | [stream](https://51551a56-d200-46f7-91c8-36c07a837e44.clouding.host:8000/radio) | [web](https://www.radioujo.com) | [logo](https://pbs.twimg.com/profile_images/822520464836849664/C124fpj__200x200.jpg) | - | WICE |
 | Radio QK | [mp3](http://212.231.231.169:8000/radioqk_master.mp3) | [web](https://www.radioqk.org) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=200&height=200) | - | - |
 | Radio San Martín | [mp3](http://78.129.252.13:37934/;.mp3) | [web](https://sanmartinradio.blogspot.com) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=200&height=200) | - | - |
