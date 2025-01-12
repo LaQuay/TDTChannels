@@ -783,7 +783,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | STZ Telebista España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Café del Mar Ibiza | - | - | - | - | - | - | - | - |
+| Ibiza Global TV España | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Café del Mar Ibiza España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Tomorrowland TV | - | - | - | - | - | - | - | - |
 | Radio Italia TV | - | - | - | - | - | - | - | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
@@ -817,7 +818,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Muzzik Moba Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Electro Serbia | - | - | - | - | - | - | - | - |
 | V2Beat TV | - | - | - | - | - | - | - | - |
-| Ibiza Global TV | - | - | - | - | - | - | - | - |
 | Sonus FM Alemania | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | DanceStar TV | - | - | - | - | - | - | - | - |
 | Dance TV Estonia | - | - | - | - | - | - | - | - |
