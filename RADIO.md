@@ -992,7 +992,7 @@
 | Medea FM | [stream](https://eu1.lhdserver.es:3127/stream) | [web](https://medeafm.es/langreo/) | [logo](https://graph.facebook.com/radiomedeafm/picture?width=200&height=200) | - | - |
 | Xtrema FM | [stream](https://server1.radiocast.es/listen/xtrema_fm/xtremafm) | [web](https://www.xtremafm.es) | [logo](https://graph.facebook.com/xtremafm/picture?width=200&height=200) | - | - |
 | APQ Radio | [stream # 1](https://stm2.emiteonline.com:9012/apqradio) - [stream # 2](https://stm2.emiteonline.com:9013/apqradio2) | [web](https://www.apqradio.es) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | WICE |
-| La Mega FM | [mp3](https://broadcast.radioponiente.org:8032/;.mp3) | [web](https://www.lamegafmasturias.com) | [logo](https://yt3.googleusercontent.com/vSWjeYIVxQD-Ba_LLzcZb70Sy1vKwhIqDA0-kTBGvsrbjNPmMcIhJC9JcomFZDtiLnjOHqUx1A=s200) | - | - |
+| La Mega FM Asturias | [mp3](https://broadcast.radioponiente.org:8032/;.mp3) | [web](https://www.lamegafmasturias.com) | [logo](https://play-lh.googleusercontent.com/c_sl-yRJP4jzCPQjkLe0xFWuGj6Xe6JaoShibnsuV98KnDkM7Ao54DsLD_1orN2eyDbC=w200) | - | - |
 | Guateque FM | [stream](https://online.vibacomunicacion.com:5066/stream) | [web](https://guatequefm.com) | [logo](https://play-lh.googleusercontent.com/29cOsGnQ8A3a-FJ1EkqBDVrMCIMWcQBORIWcmygreM9fNjU5C3Pci0CNDYDrv1NPPPD1=w200-h200) | - | - |
 | Radio Líder Asturias | [stream](https://server8.emitironline.com:18462/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 
