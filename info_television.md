@@ -343,7 +343,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Bon Dia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Parlament | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | betevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 TV Cataluña | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terres de l'Ebre | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal TE24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Reus TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
@@ -489,7 +489,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | - | - | - | - | - | - | - | - | - |
 | IB3 Global | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TEF | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 TV Mallorca | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fibwi Diario | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | SAM Ibiza | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 

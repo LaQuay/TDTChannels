@@ -320,7 +320,7 @@
 | Bon Dia TV | [m3u8](https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8) | [web](https://www.3cat.cat/bondiatv/) | [logo](https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png) | BonDiaTV_CAT.TV | - |
 | Canal Parlament | - | [web](https://parlament.cat/ext/f?p=700:1) | [logo](https://graph.facebook.com/parlamentcat/picture?width=200&height=200) | - | - |
 | betevé | [m3u8](https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0) | [web](https://beteve.cat/en-directe/) | [logo](https://graph.facebook.com/betevecat/picture?width=200&height=200) | BTV.TV | - |
-| Canal 4 Televisió | [m3u8](https://limited35.todostreaming.es/live/mitjans-livestream.m3u8) | [web](https://www.grup4.com/?page_id=14505) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | - |
+| Canal 4 TV Cataluña | [m3u8](https://limited35.todostreaming.es/live/mitjans-livestream.m3u8) | [web](https://www.grup4.com) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | - |
 | Canal Terres de l'Ebre | [m3u8](https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8) | [web](https://canalte.cat/en-directe/) | [logo](https://graph.facebook.com/canal.terresdelebre/picture?width=200&height=200) | Xarxa_Canal_Terres_Ebre.TV | - |
 | Canal TE24 | [m3u8](https://ingest1-video.streaming-pro.com/esportsteABR/etestream/playlist.m3u8) | [web](https://canalte.cat/en-directe/) | [logo](https://graph.facebook.com/canalte24/picture?width=200&height=200) | - | - |
 | Canal Reus TV | [m3u8](https://ingest2-video.streaming-pro.com/creus/stream/playlist.m3u8) | [web](https://www.canalreustv.cat/directe) | [logo](https://yt3.googleusercontent.com/vY_iHAEOHFjaC4SU6-JBjA0nJq8Xm9ZedQouEOwjjy15AiWKg6cel8UX84fZ1D-387q-0ajobH4=s200) | Xarxa_Canal_Reus_TV.TV | UAG,REFI1 |
@@ -381,7 +381,7 @@
 | Telesur Madrid | - | [web](https://telesurmadrid.wordpress.com) | [logo](https://graph.facebook.com/telesurmadrid/picture?width=200&height=200) | - | NOEM |
 | C33 Madrid | [m3u8](https://media2.streambrothers.com:1936/8140/8140/.m3u8) | [web](https://www.canal33.info) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
 | EsTuTele | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12680) | [web](https://estutele.com) | [logo](https://graph.facebook.com/100146922067408/picture?width=200&height=200) | - | - |
-| Canal 4 TV Madrid | [m3u8](https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8) | [web](https://www.grup4.com/?page_id=14505) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | - |
+| Canal 4 TV Madrid | [m3u8](https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8) | [web](https://www.grup4.com) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | - |
 | Canal Red | [youtube](https://www.youtube.com/channel/UCky112obBMG68Nw5MrSNNPA/live) | [web](https://canalred.tv) | [logo](https://graph.facebook.com/canalredtelevision/picture?width=200&height=200) | - | EMB |
 | LIRA TV | [m3u8](https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8) | [web](https://liratv.es) | [logo](https://graph.facebook.com/liratvlive/picture?width=200&height=200) | - | NONAV |
 
@@ -466,7 +466,7 @@
 | - | - | - | - | - | - |
 | IB3 Global | [youtube](https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live) | [web](https://ib3.org/directe) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | IB3.TV | EMB |
 | TEF | [m3u8](https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](https://graph.facebook.com/TEFTV/picture?width=200&height=200) | - | NONAV |
-| Canal 4 Televisió | [m3u8](https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8) | [web](https://www.grup4.com/?page_id=14505) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | - |
+| Canal 4 TV Mallorca | [m3u8](https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8) | [web](https://www.grup4.com) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | - |
 | Fibwi Diario | [m3u8](https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8) | [web](https://fibwidiario.com/fibwi-tv/) | [logo](https://graph.facebook.com/Fibwidiario/picture?width=200&height=200) | - | - |
 | SAM Ibiza | [m3u8](https://hls1.eu.peppermindmedia.com/av:vod1/SAMibiza/index.m3u8) | [web](https://listen.samibiza.com/video) | [logo](https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200) | - | - |
 
