@@ -86,7 +86,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | Emisión diaria entre las 21 - 23h |
 | OKLIGA TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | FedHielo TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Mundo Nautica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Futsalmafer.tv | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 
@@ -138,7 +138,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele Top Series | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Canal Quickie | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Canal Quickie | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Presidente) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -155,20 +155,20 @@ Estos canales emiten a ciertas horas del día, únicamente.
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
-| Ibai | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Auronplay | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| TheGrefg | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Rubius | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Illojuan | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Juansguarnizo | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Elxokas | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Alexby11 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| IamCristinini | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| biyin | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| LOLITOFDEZ | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Shadoune666 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Kings League | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Gerard Romero | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Ibai | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Auronplay | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| TheGrefg | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Rubius | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Illojuan | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Juansguarnizo | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Elxokas | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Alexby11 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| IamCristinini | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| biyin | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| LOLITOFDEZ | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Shadoune666 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Kings League | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Gerard Romero | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ## Autonómicos
 
@@ -196,7 +196,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Teleonuba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Condavisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CanalCosta | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Uvitel TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Uvitel TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | - |
 | Interalmería TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tuya La Janda TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Más Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -209,12 +209,12 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | PTV Linares | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Écija Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| TeleQuivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| TeleQuivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Telemotril | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV Úbeda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV Las Villas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -319,9 +319,9 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | La 8 Valladolid | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | La 8 Zamora | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | 987 Live | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | Emisión eventual |
-| Canal 54 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Canal 54 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TV Aranda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 9 Soria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Canal 9 Soria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Junta Castilla y León | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Cataluña
@@ -412,7 +412,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
-| Navarra TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Navarra TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TeleRibera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Parlamento de Navarra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -428,30 +428,30 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 8 La Marina TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | La 8 Mediterráneo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Alacantí TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| TV Castelló | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| TV Castelló | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TV Artequatre | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | 12TV Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Levante TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Levante TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TV 4 La Vall | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Burriana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Distrito TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Información TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Información TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Tele Safor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Elche 7 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Tevequatre TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Tevequatre TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Maestrat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Univers TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Almassora | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda 15 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 3 Biar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Ràdio Bocairent TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Ràdio Bocairent TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudades Del Ocio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Veteve | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Enguera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Veteve | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Enguera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | 33TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -460,8 +460,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | Canal Extremadura | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| TV Extremeña | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Nuestra Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| TV Extremeña | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Nuestra Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ### Galicia
@@ -498,7 +498,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | TV Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7 La Rioja | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| 7 La Rioja | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Parlamento de La Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión eventual |
 | Cocina Familiar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -566,7 +566,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | BFM TV Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV5Monde Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | franceinfo: Francia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| CNEWS Francia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| CNEWS Francia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Rai News 24 Italia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Sport Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La7 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -588,9 +588,9 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Porto Canal Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Digi24 Rumanía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVP Polonia | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| RTÉ News Irlanda | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Televixin Malta | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| TVP Polonia | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| RTÉ News Irlanda | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| Televixin Malta | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | TRT World Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NOW TV Turquía | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | STAR TV Turquía | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
@@ -627,13 +627,13 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | NTN24 América | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Canal 6 Multimedios Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Milenio Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| El Financiero Mexico | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| El Financiero Mexico | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Excelsior Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | FORO TV Mexico | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | - |
 | ADN40 Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Once Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Quiero TV Mexico | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Mexico Travel TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Quiero TV Mexico | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| Mexico Travel TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Estrella TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TELE 10 Nayarit Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Noticias Caracol Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
@@ -649,10 +649,10 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | La Nación Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | América TV Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TV Pública Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Canal 9 Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Canal 9 Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Exitosa Noticias Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Panamericana Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Willax Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Panamericana Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| Willax Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | TV Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Perú Noticias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal IPe Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -660,10 +660,10 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | NET Channel Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleSUR Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Globovision Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Venezolana de Televisión | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Venezolana de Televisión | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Televen TV Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a Europa |
 | VPI TV Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La Tele Tuya Venezuela | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| La Tele Tuya Venezuela | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Canal Antigua Guatemala | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | 24h Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TELE13 Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -676,23 +676,23 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Cubavisión TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | CDN 37 República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Telemicro República Dominicana | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Color Visión República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| HCH Honduras | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Color Visión República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| HCH Honduras | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | ABC TV Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| LaTele Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| LaTele Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Telefuturo Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Telefuturo Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Unicanal Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Noticias NPY Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
-| Nicavisión TV Nicaragua | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Noticias NPY Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| Nicavisión TV Nicaragua | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | WTV Nicaragua | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleDiario Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Trece Costa Rica | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Trece Costa Rica | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | - |
 | CNN Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | SBT Interior Brasil | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Record News Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Rede Massa Brasil | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Trinidad and Tobago Television | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Trinidad and Tobago Television | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | - |
 
 ## Int. Asia
 
@@ -735,7 +735,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | SNRT Athaqafia Marruecos | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | SNRT Al Maghribia Marruecos | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | AfricaNews | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Joy News TV Ghana | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | No disponible para W3U en Android TV |
+| Joy News TV Ghana | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Channels TV Nigeria | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | TVGE 1 Guinea Ecuatorial | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RASD TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
