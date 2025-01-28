@@ -296,9 +296,8 @@
 | La 8 Valladolid | - | [web](https://www.cyltv.es/live/La8Valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | La 8 Zamora | - | [web](https://www.cyltv.es/live/La8Zamora) | [logo](https://graph.facebook.com/la8zamora/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | 987 Live | [youtube](https://www.youtube.com/channel/UC41bdA6AiwEb34_S7KcMHOw/live) | [web](https://987tv.es) | [logo](https://pbs.twimg.com/profile_images/1496162819590479879/4sM-HkAD_200x200.jpg) | - | EMB |
-| Canal 54 | [stream](https://player.twitch.tv/?channel=canal54tvburgos&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
+| Canal 54 | [stream](https://www.youtube.com/channel/UCUe08XE2qatlrBclUWTr81Q/live) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
 | TV Aranda | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12686&live=1) | [web](https://www.telearanda.es) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | - |
-| Canal 9 Soria | [stream](https://player.twitch.tv/?channel=canal9_soria&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://soriatv.com) | [logo](https://graph.facebook.com/100830372347460/picture?width=200&height=200) | - | EMB |
 | Junta Castilla y León | [m3u8](https://16escalones-live2.flumotion.com/chunks.m3u8) | [web](https://www.jcyl.es/web/jcyltv.html) | [logo](https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200) | - | - |
 
 ### Cataluña
