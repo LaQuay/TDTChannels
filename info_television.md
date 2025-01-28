@@ -321,7 +321,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 987 Live | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | Emisión eventual |
 | Canal 54 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TV Aranda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 9 Soria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Junta Castilla y León | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Cataluña
