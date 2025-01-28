@@ -949,7 +949,7 @@
 | Radio Donosti | [stream](https://stream-154.zeno.fm/zgn5w0dsrusvv?zt) | [web](https://www.radiodonosti.com) | [logo](https://graph.facebook.com/radiodonosti/picture?width=200&height=200) | - | - |
 | Santurtzi Irratia | [stream](https://one.cloudstreaming.eu/proxy/stzradio/stream) | [web](https://www.stzirratia.com) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
 | Bilbo Hiria Irratia | [stream](https://server8.emitironline.com:18392/stream) | [web](https://www.bilbohiria.eus/zuzen1/) | [logo](https://graph.facebook.com/bilbohiria/picture?width=200&height=200) | - | - |
-| Mozoilo Irratia | [stream](https://radioserver11.profesionalhosting.com/proxy/alettwge?mp=/stream) | [web](https://mozoiloirratia.eus/play/) | [logo](https://pbs.twimg.com/profile_images/1484550043474485254/drNX1pMl_200x200.jpg) | - | - |
+| Mozoilo Irratia | [mp3](https://a10.asurahosting.com:9060/radio.mp3) | [web](https://mozoiloirratia.eus/play/) | [logo](https://pbs.twimg.com/profile_images/1484550043474485254/drNX1pMl_200x200.jpg) | - | - |
 | Activate FM | [stream](https://streaming12.elitecomunicacion.es:8085/stream) | [web](https://www.activate.fm) | [logo](https://graph.facebook.com/activatespain/picture?width=200&height=200) | - | - |
 | Radio Gorbea | [mp3](https://nodo09-cloud01.streaming-pro.com:6135/radiogorbea.mp3) | [web](https://www.radiogorbea.com) | [logo](https://graph.facebook.com/radiogorbea/picture?width=200&height=200) | - | - |
 | Antxeta Irratia | [stream](https://streaming.antxetamedia.eus:8443/antxeta2) | [web](https://antxetamedia.eus) | [logo](https://graph.facebook.com/Antxetairratia/picture?width=200&height=200) | - | - |
