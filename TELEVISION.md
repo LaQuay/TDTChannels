@@ -503,6 +503,7 @@
 | GUKA TB | [m3u8](https://streaming.ukt.eus/hls/test.m3u8) | [web](https://guka.eus/telebista/zuzenekoa) | [logo](https://graph.facebook.com/guka.eus/picture?width=200&height=200) | - | - |
 | Oizmendi TV | [m3u8](https://zuzenean.oizmendi.eus/hls/z.m3u8) | [web](https://zuzenean.oizmendi.eus) | [logo](https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200) | - | - |
 | Urola TV | [m3u8](https://5940924978228.streamlock.net/j_Directo2/j_Directo2/playlist.m3u8) | [web](https://www.urolatelebista.com) | [logo](https://graph.facebook.com/urolatelebista/picture?width=200&height=200) | - | - |
+| STZ Telebista | [m3u8](https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8) | [web](https://stztelebista.com) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
 
 ### P. de Asturias
 
@@ -757,7 +758,6 @@
 | Cadena Elite España | [m3u8](https://cloudvideo.servers10.com:8081/8004/index.m3u8) | [web](https://www.cadenaelite.es) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 | Molahits TV España | [m3u8](https://ventdelnord.tv:8080/mola/directe.m3u8) | [web](https://www.molatv.cat) | [logo](https://graph.facebook.com/molahitstv/picture?width=200&height=200) | - | - |
 | La Urban TV España | [m3u8](https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8) | [web](https://www.urbanrevolution.es/emision-en-directo-de-la-urban-tv/) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
-| STZ Telebista España | [m3u8](https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8) | [web](https://stztelebista.com) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
 | Verbena TV España | [m3u8](https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8) | [web](https://verbenafm.com) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
 | Ibiza Global TV España | - | [web](https://www.ibizaglobalradio.com/ibiza-global-tv.html) | [logo](https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200) | IbizaGlobal.TV | EXTA |
 | Café del Mar Ibiza España | [youtube](https://www.youtube.com/channel/UCha0QKR45iw7FCUQ3-1PnhQ/live) | [web](https://cafedelmar.com) | [logo](https://graph.facebook.com/cafedelmaribizaofficialpage/picture?width=200&height=200) | - | EMB |
