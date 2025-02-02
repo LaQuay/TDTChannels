@@ -293,7 +293,7 @@
 | La 8 Salamanca | - | [web](https://www.cyltv.es/live/La8Salamanca) | [logo](https://graph.facebook.com/la8salamanca/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | La 8 Segovia | - | [web](https://www.cyltv.es/live/La8Segovia) | [logo](https://graph.facebook.com/la8segovia/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | La 8 Soria | - | [web](https://www.cyltv.es/live/La8Soria) | [logo](https://graph.facebook.com/La8Soria/picture?width=200&height=200) | La8CYL.TV | EXTA |
-| La 8 Valladolid | - | [web](https://www.cyltv.es/live/La8Valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | La8CYL.TV | EXTA |
+| La 8 Valladolid | - | [web](https://www.cyltv.es/live/La8Valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | La8CYL_Valla.TV | EXTA |
 | La 8 Zamora | - | [web](https://www.cyltv.es/live/La8Zamora) | [logo](https://graph.facebook.com/la8zamora/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | 987 Live | [youtube](https://www.youtube.com/channel/UC41bdA6AiwEb34_S7KcMHOw/live) | [web](https://987tv.es) | [logo](https://pbs.twimg.com/profile_images/1496162819590479879/4sM-HkAD_200x200.jpg) | - | EMB |
 | Canal 54 | [youtube](https://www.youtube.com/channel/UCUe08XE2qatlrBclUWTr81Q/live) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
@@ -772,8 +772,6 @@
 | Star Chequia | [m3u8 # CZ](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8) | [web](https://ocko.tv/zive?channel=star) | [logo](https://graph.facebook.com/ockostar/picture?width=200&height=200) | - | - |
 | Expres Chequia | [m3u8 # CZ](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8) | [web](https://ocko.tv/zive?channel=expres) | [logo](https://graph.facebook.com/OckoExpres/picture?width=200&height=200) | - | - |
 | m2o Italia | [m3u8 # IT](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8) | [web](https://www.m2o.it/m2o-tv/) | [logo](https://graph.facebook.com/radiom2o/picture?width=200&height=200) | - | - |
-| Radio Capital Italia | [m3u8 # IT](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8) | [web](https://www.capital.it/tv/) | [logo](https://graph.facebook.com/RadioCapitalfm/picture?width=200&height=200) | - | - |
-| Radio ZETA Italia | [m3u8 # IT](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8) | [web](https://play.rtl.it/live/18/radio-zeta-radiovisione/) | [logo](https://graph.facebook.com/radiozeta.it/picture?width=200&height=200) | - | - |
 | Rock TV Romania | - | [web](https://www.rockfm.ro/rocktv) | [logo](https://graph.facebook.com/rockfmro/picture?width=200&height=200) | - | EXTA |
 | On TV Portugal | [m3u8](https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8) | [web](https://www.onfm.pt) | [logo](https://graph.facebook.com/ONFM93.8/picture?width=200&height=200) | - | - |
 | NRG91 Grecia | [m3u8](https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8) | [web](https://nrg91.gr/nrgtv.html) | [logo](https://yt3.ggpht.com/KGxBhcmGT-UX_3Hhnfw7Gwnypyn4XzUQ3_OElJuNKllBcZmE58-z_FpozwfIxl9fA7z9RPnVBwE=s200) | - | - |
