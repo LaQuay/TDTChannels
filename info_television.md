@@ -681,7 +681,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | LaTele Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telefuturo Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Unicanal Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Unicanal Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Noticias NPY Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Nicavisión TV Nicaragua | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | WTV Nicaragua | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
