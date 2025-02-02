@@ -293,7 +293,7 @@
 | La 8 Salamanca | - | [web](https://www.cyltv.es/live/La8Salamanca) | [logo](https://graph.facebook.com/la8salamanca/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | La 8 Segovia | - | [web](https://www.cyltv.es/live/La8Segovia) | [logo](https://graph.facebook.com/la8segovia/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | La 8 Soria | - | [web](https://www.cyltv.es/live/La8Soria) | [logo](https://graph.facebook.com/La8Soria/picture?width=200&height=200) | La8CYL.TV | EXTA |
-| La 8 Valladolid | - | [web](https://www.cyltv.es/live/La8Valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | La8CYL.TV | EXTA |
+| La 8 Valladolid | - | [web](https://www.cyltv.es/live/La8Valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | La8CYL_Valla.TV | EXTA |
 | La 8 Zamora | - | [web](https://www.cyltv.es/live/La8Zamora) | [logo](https://graph.facebook.com/la8zamora/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | 987 Live | [youtube](https://www.youtube.com/channel/UC41bdA6AiwEb34_S7KcMHOw/live) | [web](https://987tv.es) | [logo](https://pbs.twimg.com/profile_images/1496162819590479879/4sM-HkAD_200x200.jpg) | - | EMB |
 | Canal 54 | [youtube](https://www.youtube.com/channel/UCUe08XE2qatlrBclUWTr81Q/live) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
