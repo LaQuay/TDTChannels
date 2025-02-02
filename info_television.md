@@ -797,6 +797,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Ocko Star Chequia | - | - | - | - | - | - | - |
 | Ocko Expres Chequia | - | - | - | - | - | - | - |
 | m2o Italia | - | - | - | - | - | - | - |
+| Radio Capital Italia | - | - | - | - | - | - | - |
+| Radio ZETA Italia | - | - | - | - | - | - | - |
 | Rock TV Romania | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | On TV Portugal | - | - | - | - | - | - | - |
 | NRG91 Grecia | - | - | - | - | - | - | - |
