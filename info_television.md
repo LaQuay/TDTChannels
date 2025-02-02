@@ -427,7 +427,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 8 La Marina TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | La 8 Mediterráneo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Alacantí TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| TV Castelló | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| TV Castelló | ▶ | ▶ | ▶ | ❌ | ❌ | ❌ | - |
 | TV Artequatre | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | 12TV Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Levante TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -497,7 +497,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | TV Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7 La Rioja | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| 7 La Rioja | ▶ | ▶ | ▶ | ❌ | ❌ | ❌ | - |
 | Parlamento de La Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión eventual |
 | Cocina Familiar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 

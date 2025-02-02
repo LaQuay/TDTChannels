@@ -349,7 +349,7 @@
 | Piera TV | [m3u8](https://5d776b1861da1.streamlock.net/piera/smil:piera.smil/playlist.m3u8) | [web](https://piera.practic.cat/) | [logo](https://yt3.ggpht.com/Yo_LIch5OT5hTA24FMlshk7MtHpuUbVoOd8U2HJGw6el7-cCkAhH8_ISKmww17wHn37FCOF_rg=s200) | - | - |
 | RTV Cardedeu | [m3u8](https://liveingesta318.cdnmedia.tv/tvcardedeulive/smil:rtmp01.smil/playlist.m3u8?DVR) | [web](https://www.rtvc.cat/tele/) | [logo](https://graph.facebook.com/TelevisioCardedeu/picture?width=200&height=200) | - | UAG,REFI1 |
 | Canal 10 Empordà | [m3u8](https://ventdelnord.tv:8080/escala/directe.m3u8) | [web](https://www.canal10.cat/endirecte) | [logo](https://graph.facebook.com/canal10emporda/picture?width=200&height=200) | Xarxa_Canal_10_Emporda.TV | - |
-| Pirineus TV | [stream](https://g0.ipcamlive.com/player/player.php?alias=65564dc398f45&autoplay=1&disableplaybackspeedbutton=1) | [web](https://www.pirineustv.cat) | [logo](https://graph.facebook.com/PirineusTV/picture?width=200&height=200) | Pirineus.TV | EXTB |
+| Pirineus TV | [stream](https://g0.ipcamlive.com/player/player.php?alias=65564dc398f45&autoplay=1&disableplaybackspeedbutton=1) | [web](https://www.pirineustv.cat) | [logo](https://graph.facebook.com/PirineusTV/picture?width=200&height=200) | Pirineus.TV | EMB,EXTB |
 | Vallès Visió | [m3u8](https://liveingesta118.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://www.vallesvisio.cat/directe/) | [logo](https://graph.facebook.com/tvvallesvisio/picture?width=200&height=200) | Xarxa_Valles_Visio.TV | UAG,REFI1 |
 | TV del Ripollès | [m3u8](https://liveingesta118.cdnmedia.tv//tvripolleslive/smil:live.smil/playlist.m3u8?DVR) | [web](https://corisacat.cat/televisio-del-ripolles/) | [logo](https://graph.facebook.com/televisiodelripolles/picture?width=200&height=200) | Xarxa_Televisio_Ripolles.TV | UAG,REFI1 |
 | etv | [m3u8](https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8?DVR) | [web](https://www.etv.cat) | [logo](https://graph.facebook.com/etv.llobregat/picture?width=200&height=200) | Xarxa_ETV.TV | UAG,REFI1 |
@@ -388,7 +388,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Navarra TV | [stream](https://www.natvplay.es/player/75D7757C-BD70-4FAB-850A-B9EBA29A4C8/Navarra%20Televisi%C3%B3n%20Live) | [web](https://www.navarratelevision.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | EMB |
+| Navarra TV | [stream](https://www.dailymotion.com/embed/video/x8dhap9?autoplay=1) | [web](https://www.navarratelevision.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | EMB,EXTB |
 | TeleRibera | [m3u8](https://video3.lhdserver.es/teleribera/live.m3u8) | [web](https://teleribera.com) | [logo](https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg) | - | - |
 | Parlamento de Navarra | [m3u8 # 1](https://broadcasting.parlamentodenavarra.es/live/canal1/playlist.m3u8?DVR) - [m3u8 # 2](https://broadcasting.parlamentodenavarra.es/live/canal2/playlist.m3u8?DVR) - [m3u8 # 3](https://broadcasting.parlamentodenavarra.es/live/canal3/playlist.m3u8?DVR) | [web](https://www.parlamentodenavarra.es) | [logo](https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg) | - | - |
 
@@ -404,7 +404,7 @@
 | 8 La Marina TV | [m3u8](https://streaming005.gestec-video.com/hls/canal24.m3u8) | [web](https://8lamarinatv.com) | [logo](https://graph.facebook.com/8lamarinatelevision/picture?width=200&height=200) | - | NONAV |
 | La 8 Mediterráneo | [m3u8](https://streaming004.gestec-video.com/hls/8TV.m3u8) | [web](https://laocho.tv/tv-en-directo/) | [logo](https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200) | 8M.TV | - |
 | Alacantí TV | [m3u8](https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8) | [web](https://www.alacantitv.com/en-directo/) | [logo](https://graph.facebook.com/alacantitv/picture?width=200&height=200) | - | NONAV |
-| TV Castelló | [stream](https://kick.com/TelevisioCastello) | [web](https://tvcs.tv/en-directe/) | [logo](https://graph.facebook.com/TelevisiondeCastellon/picture?width=200&height=200) | - | EXTB |
+| TV Castelló | [stream](https://player.kick.com/televisiocastello) | [web](https://tvcs.tv/en-directe/) | [logo](https://graph.facebook.com/TelevisiondeCastellon/picture?width=200&height=200) | - | EMB,EXTB |
 | TV Artequatre | [m3u8](https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8) | [web](https://www.tv-a.es) | [logo](https://graph.facebook.com/tvArtequatre/picture?width=200&height=200) | - | NONAV |
 | 12TV Alicante | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12682&live=1) | [web](https://webtv.12tv.es) | [logo](https://graph.facebook.com/12tv.es/picture?width=200&height=200) | - | - |
 | Levante TV | [stream](https://player.twitch.tv/?channel=levante_tv&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.levante-emv.com/videos/levante-tv) | [logo](https://graph.facebook.com/levantetv/picture?width=200&height=200) | Levante.TV | EMB |
@@ -474,7 +474,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TV Rioja | [m3u8 # 1](https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8) - [m3u8 # 2](https://5924d3ad0efcf.streamlock.net:443/riojatv2/riojatv2live/playlist.m3u8) | [web](https://www.tvr.es/directo-20210408161442-nt.html)  | [logo](https://graph.facebook.com/tvrtelevision/picture?width=200&height=200) | TVR.TV | - |
-| 7 La Rioja | [stream](https://www.7riojaplay.tv/player/45E05AAE-9722-4D64-8BF4-E55EF40C76F/7Rioja%20%20Live) | [web](https://www.7rioja.tv/Directo) | [logo](https://graph.facebook.com/7riojatv/picture?width=200&height=200) | 7Rioja.TV | EMB |
+| 7 La Rioja | [stream](https://www.dailymotion.com/embed/video/x8dhao1?autoplay=1) | [web](https://www.7rioja.tv/Directo) | [logo](https://graph.facebook.com/7riojatv/picture?width=200&height=200) | 7Rioja.TV | EMB,EXTB |
 | Parlamento de La Rioja | [m3u8](https://media.parlamento-larioja.org/live/parlarioja/playlist.m3u8) - [m3u8 # 2](https://media.parlamento-larioja.org/live/parlarioja_subtitulado/playlist.m3u8) | [web](https://mediateca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200) | - | - |
 | Cocina Familiar | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12108&live=1) | [web](https://cocina-familiar.com) | [logo](https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200) | - | - |
 
