@@ -287,7 +287,7 @@
 | La 7 | - | [web](https://www.cyltv.es/live/La7) | [logo](https://graph.facebook.com/cyltv/picture?width=200&height=200) | La7.TV | EXTA |
 | La 8 Avila | - | [web](https://www.cyltv.es/live/La8Avila) | [logo](https://pbs.twimg.com/profile_images/1364545643319087104/7qp4nrtS_200x200.jpg) | La8CYL.TV | EXTA |
 | La 8 Bierzo | - | [web](https://www.cyltv.es/Live/La8Bierzo) | [logo](https://graph.facebook.com/La8Bierzo/picture?width=200&height=200) | La8CYL.TV | EXTA |
-| La 8 Burgos | - | [web](https://www.cyltv.es/live/La8Burgos) | [logo](https://graph.facebook.com/La8Burgos/picture?width=200&height=200) | La8CYL.TV | EXTA |
+| La 8 Burgos | - | [web](https://www.cyltv.es/live/La8Burgos) | [logo](https://graph.facebook.com/La8Burgos/picture?width=200&height=200) | La8CYL_Burgos.TV | EXTA |
 | La 8 Leon | - | [web](https://www.cyltv.es/live/La8Leon) | [logo](https://pbs.twimg.com/profile_images/1367754156711288839/c01QAS89_200x200.jpg) | La8CYL.TV | EXTA |
 | La 8 Palencia | - | [web](https://www.cyltv.es/live/La8Palencia) | [logo](https://graph.facebook.com/La8Palencia/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | La 8 Salamanca | - | [web](https://www.cyltv.es/live/La8Salamanca) | [logo](https://graph.facebook.com/la8salamanca/picture?width=200&height=200) | La8CYL.TV | EXTA |
