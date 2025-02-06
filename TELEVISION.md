@@ -201,7 +201,7 @@
 | 101TV Cádiz | [m3u8](https://www.streaming101tv.es:19360/cadiz/cadiz.m3u8) | [web](https://www.101tvcadiz.es/directo/) | [logo](https://graph.facebook.com/101tvAntequera/picture?width=200&height=200) | - | - |
 | 101TV Costa del Sol | [m3u8](https://www.streaming101tv.es:19360/costadelsol/costadelsol.m3u8) | [web](https://www.101tv.es/directo-costadelsol/) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | - | - |
 | 101TV Ronda | [m3u8](https://www.streaming101tv.es:19360/ronda/ronda.m3u8) | [web](https://www.101tv.es/directo101tvronda/) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | - | - |
-| Sal TV | [m3u8](https://vdo.grupolimalive.com:3431/live/saltvlive.m3u8) | [web](https://www.saltv.es/programacion/) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | REF,NONAV |
+| Sal TV | [m3u8](https://play.agenciastreaming.com:8081/saltv/index.m3u8) | [web](https://www.saltv.es/programacion/) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | - |
 | 9 la Loma TV | [m3u8](https://9laloma.tv/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=200&height=200) | 9LaLoma.TV | NONAV |
 | Vivamóvil TV | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8) | [web](https://vivamovil.es/vivamoviltv) | [logo](https://pbs.twimg.com/profile_images/1401880197578870789/_8jMKpKE_200x200.jpg) | - | - |
 | TV Carmona | [youtube](https://youtu.be/Uh-MAqb7MQo) | [web](https://www.televisioncarmona.com) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
