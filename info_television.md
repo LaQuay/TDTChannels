@@ -449,7 +449,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Ciudades Del Ocio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Veteve | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Enguera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | 33TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
