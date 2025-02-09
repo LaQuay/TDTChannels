@@ -145,7 +145,7 @@
 | LOLITOFDEZ | [stream](https://player.twitch.tv/?channel=lolitofdez&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@LOLiTOFDEZ) | [web](https://www.twitch.tv/lolitofdez) | [logo](https://yt3.ggpht.com/mKpJl4-mVy59lPn3X_gv1gfsufVK4yecUoW7_YAzgPMgNg04me10zA1q7B11A8Vw2dAxVY9E6A=s200) | - | EMB |
 | Shadoune666 | [stream](https://player.twitch.tv/?channel=shadoune666&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@Shadoune666) | [web](https://www.twitch.tv/shadoune666) | [logo](https://yt3.ggpht.com/nrtsSYEOEh3_V5cHKinj8zvfAV1YzRPwAAycHvPnQA88DJFjFV1OkjoqFXUoupXgZfAM42rW9w=s200) | - | EMB |
 | Kings League | [stream](https://player.twitch.tv/?channel=kingsleague&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/channel/UCtwslQPB_xJfaFuZv0OETNw/live) | [web](https://www.twitch.tv/kingsleague) | [logo](https://graph.facebook.com/kingsleague.pro/picture?width=200&height=200) | - | EMB |
-| Gerard Romero | [stream](https://player.twitch.tv/?channel=gerardromero&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@gerardromero1700) | [web](https://www.twitch.tv/gerardromero) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJWYz4vMGrfae-n-0qgGieuUNdwgDypMKpxoCCCfoA=s200) | - | EMB |
+| Gerard Romero | [stream](https://player.twitch.tv/?channel=gerardromero&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@GerardRomerotv) | [web](https://www.twitch.tv/gerardromero) | [logo](https://yt3.ggpht.com/1jxaHxZeE4bS01S1wGdRpkR_4vPpvstqTPUoViCqZ5W6jO7HF0eBR_nkBjzGCAy65fO-sggX=s200) | - | EMB |
 
 ## Autonómicos
 
