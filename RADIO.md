@@ -564,7 +564,7 @@
 | Gran Via Radio | [stream](https://antares.dribbcast.com/proxy/granviaradio?mp=/stream) | [web](https://granviaradio.wixsite.com/2020) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | - |
 | Ràdio Llançà | [stream](https://relay.stream.enacast-cloud.com:40323/radiollancaHD.mp3) | [web](https://radiollanca.cat) | [logo](https://graph.facebook.com/radiollanca/picture?width=200&height=200) | - | - |
 | Colera Ràdio | [stream](https://servidor24-5.brlogic.com:7494/live) | [web](https://coleraradio.com) | [logo](https://graph.facebook.com/101812002056328/picture?width=200&height=200) | - | - |
-| Ràdio Santpedor | [stream](https://rsantpedor.radioca.st/stream) | [web](https://santpedor.net/radio/) | [logo](https://graph.facebook.com/radiosantpedor/picture?width=200&height=200) | - | - |
+| Ràdio Santpedor | [stream](https://radiosantpedor.radioca.st/stream) | [web](https://santpedor.net/radio/) | [logo](https://graph.facebook.com/radiosantpedor/picture?width=200&height=200) | - | - |
 | U Ràdio | [mp3](https://streaming.enacast.com/radioulldecona128.mp3) | [web](https://www.uradio.cat) | [logo](https://graph.facebook.com/uradiofm/picture?width=200&height=200) | - | - |
 | 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
 | amb2FM | [stream](https://frilab.wlan.cat/amb2fm) | [web](https://www.amb2fm.cat) | [logo](https://pbs.twimg.com/profile_images/1245054974628892673/tjBDH_-q_200x200.jpg) | - | - |
