@@ -132,7 +132,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Ibai | [stream](https://player.twitch.tv/?channel=ibai&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@IbaiLlanos) | [web](https://www.twitch.tv/ibai) | [logo](https://yt3.googleusercontent.com/pk-jnYnbdNBUKEtBdc3buYbCM0Xu0_TDcVfYON1qAez3CVPbA-FWGyCbF4BaRF1T9MqxjG-mugk=s200) | - | EMB |
+| Ibai | [stream](https://player.twitch.tv/?channel=ibai&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@IbaiLlanos) | [web](https://www.twitch.tv/ibai) | [logo](https://graph.facebook.com/realibai/picture?width=200&height=200) | - | EMB |
 | Auronplay | [stream](https://player.twitch.tv/?channel=auronplay&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@AuronPlay) | [web](https://www.twitch.tv/auronplay) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJUPEKR92FAWkKk7XniD6J5Zdy5b-BH0u02P5LDAMw=s200) | - | EMB |
 | TheGrefg | [stream](https://player.twitch.tv/?channel=thegrefg&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@TheGrefg) | [web](https://www.twitch.tv/thegrefg) | [logo](https://pbs.twimg.com/profile_images/1763308910692184064/PD37Hou2_200x200.jpg) | - | EMB |
 | Rubius | [stream](https://player.twitch.tv/?channel=Rubius&parent=tdtchannels.com&parent=www.tdtchannels.com) - [youtube](https://www.youtube.com/@elrubiusOMG) | [web](https://www.twitch.tv/rubius) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJUK-iBPKMsn6Ql-CW7tnirEnh6GWrmRLpTG9OluyWA=s200) | - | EMB |
