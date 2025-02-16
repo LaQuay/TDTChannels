@@ -68,7 +68,7 @@
 | FedHielo TV | [youtube](https://www.youtube.com/channel/UCuys7LUNfFcwwToSG3yMocw/live) | [web](https://www.rfedh.es/fedhielo-tv/) | [logo](https://graph.facebook.com/fedhielo/picture?width=200&height=200) | - | EMB |
 | Cazaflix | [stream](https://player.viloud.tv/embed/channel/292a2a75da8d1d6335cd7b6e600b04e8?autoplay=1&volume=1&controls=1&title=0&share=0&open_playlist=0) | [web](https://cazaflix.com/tv-directo/) | [logo](https://graph.facebook.com/cazaflixoficial/picture?width=200&height=200) | - | EMB |
 | Mundo Nautica | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12109&live=1) | [web](https://mundonautica.tv) | [logo](https://graph.facebook.com/MundoNautica/picture?width=200&height=200) | - | - |
-| Futsalmafer.tv | [m3u8](https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8) | [web](https://canalsports.tv/directo-24-horas/) | [logo](https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200) | - | NONAV |
+| Futsalmafer.tv | [m3u8](https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8) | [web](https://canalsports.tv/directo-24-horas/) | [logo](https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200) | - | - |
 
 ## Infantiles
 
