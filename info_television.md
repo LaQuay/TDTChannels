@@ -98,6 +98,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Kidz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Disney Channel | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Cartoon Network Latino | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
