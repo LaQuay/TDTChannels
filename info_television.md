@@ -88,7 +88,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | FedHielo TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Mundo Nautica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Futsalmafer.tv | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Futsalmafer.tv | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Infantiles
 
@@ -224,7 +224,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Costa del Sol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Ronda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Sal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Vivamóvil TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Carmona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
