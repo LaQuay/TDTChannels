@@ -222,6 +222,8 @@
 | Cofradias 24H | [youtube](https://www.youtube.com/channel/UCv5WgSisSDgI90g8-E5rU7Q/live) | [web](https://www.youtube.com/@LIBETELTV) | [logo](https://yt3.ggpht.com/eM_41EMbfLT9omch7MIGSlwg71gjSrsrPpS7TuBlFjYXLrC5pIIx8zx9SJ0q2Gvf2Gj3nblYFAw=s200) | - | EMB |
 | Onda Cádiz 24h | [m3u8](https://ondacadiztv.es:30443/octv/24h/playlist.m3u8) | [web](https://ondacadiz.es/index.php/canal-24-horas) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | - | - |
 | Parlamento de Andalucía | [m3u8 # 1](https://stream1.parlamentodeandalucia.es/realizacion1/realizacion1/playlist.m3u8) - [m3u8 # 2](https://stream2.parlamentodeandalucia.es/realizacion2/realizacion2/playlist.m3u8) - [m3u8 # 3](https://stream2.parlamentodeandalucia.es/realizacion3/realizacion3/playlist.m3u8) - [m3u8 # 4](https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8) | [web](https://www.parlamentodeandalucia.es/stream/canal4.html) | [logo](https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200) | - | - |
+| Almería 24h TV | [m3u8](https://broadcast.radioponiente.org:9443/live/smil:almeria24h.smil/playlist.m3u8) | [web](https://www.almeria24htv.com/es/) | [logo](https://graph.facebook.com/107654981928274/picture?width=200&height=200) | - | - |
+| Cadena Joven TV | [m3u8](https://streamtv2.elitecomunicacion.cloud:3738/live/cadenajoventvlive.m3u8)| [web](https://cadenajoven.es/cadenajoven_tv/) | [logo](https://graph.facebook.com/cadenajovendigital/picture?width=200&height=200) | - | - |
 
 ### Aragón
 
@@ -232,6 +234,9 @@
 | Calamocha TV | [youtube](https://www.youtube.com/channel/UCl03PpRWoRjkiK5VT4uDKgA/live) | [web](https://www.mijilocatv.es/) | [logo](https://graph.facebook.com/CalamochaTV/picture?width=200&height=200) | - | EMB |
 | Canal 25 Barbastro TV | [m3u8](https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8) | [web](https://www.canal25tv.es/index.php/ct-menu-item-5) | [logo](https://graph.facebook.com/tvbarbastro/picture?width=200&height=200) | - | - |
 | Antena Aragón | [youtube](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/live) | [web](https://diarioaragones.com) | [logo](https://yt3.ggpht.com/ytc/AL5GRJWC1oJVC1hgcGBN1OHnroVVoe_pcgLvGJWvOA8aGQ=s200) | - | EMB |
+| Altoaragón TV | - | [web](https://altoaragontelevision.es/) | [logo](https://graph.facebook.com/AltoaragonTV/picture?width=200&height=200) | - | NOEM |
+| La 8 Zaragoza TV | - | [web](http://www.la8zaragoza.tv/index.php) | [logo](https://graph.facebook.com/laochozaragoza/picture?width=200&height=200) | - | NOEM |
+
 
 ### Canarias
 
@@ -429,6 +434,9 @@
 | Enguera TV | [stream](https://player.twitch.tv/?channel=engueratv&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.enguera.es/content/enguera-tv) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJWP8ahafBlFAbCsP3tT17ooK6arGKNmcx6VES4o=s200) | - | EMB |
 | 33TV Valencia | [m3u8](https://limited43.todostreaming.es/live/simbana-livestream.m3u8) | [web](https://karyganet.com/33-tv/) | [logo](https://karyganet.com/wp-content/uploads/tv-33.jpg) | - | - |
 | Corts Valencianes | [m3u8](https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8) | [web](https://mediateca.cortsvalencianes.es/library/lives/) | [logo](https://graph.facebook.com/cortsval/picture?width=200&height=200) | - | - |
+| Veteve | - | [web](https://veteve.es/) | [logo](https://graph.facebook.com/120380377704941/picture?width=200&height=200) | - | NOEM |
+| MediTV | - | [web](https://www.meditv.tv/)| [logo](https://graph.facebook.com/107657943992039/picture?width=200&height=200) | - | NOEM |
+| Comarcal.tv | - | [web](https://comarcal.tv/)| [logo](https://graph.facebook.com/televisiocomarcal/picture?width=200&height=200) | - | NOEM |
 
 ### Extremadura
 
@@ -457,6 +465,8 @@
 | Hermes TV | [stream](https://player.twitch.tv/?channel=hermestelevisionvigo&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://hermesvigo.com/directo-tv/) | [logo](https://graph.facebook.com/491789551017784/picture?width=200&height=200) | - | EMB |
 | Anove TV | [m3u8](https://205245.gvideo.io/mpegts/205245_786753/master_mpegts.m3u8) | [web](https://anove.gal) | [logo](https://graph.facebook.com/anove.tv/picture?width=200&height=200) | - | - |
 | Auria TV | [youtube](https://www.youtube.com/channel/UC4xDk-vc3i4CB45U7_wmm5g/live) | [web](https://www.auria.es) | [logo](https://yt3.ggpht.com/a-/AAuE7mBbJ5XfzqqDgg1IkOk23GJ6JZntYZtYT-n1CA=s200) | - | EMB |
+| Canal Rías Baixas | - | [web](https://www.canalriasbaixas.com/) | [logo](https://graph.facebook.com/canalriasbaixas/picture?width=200&height=200) | - | NOEM |
+| Nós Televisión | - | [web](https://nostelevision.gal/) | [logo](https://graph.facebook.com/NosTelevision/picture?width=200&height=200) | - | NOEM |
 
 ### Illes Balears
 
