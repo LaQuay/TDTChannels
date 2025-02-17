@@ -131,10 +131,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTVE Somos Cine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Viajes  | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE La promesa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Época | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Series | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Maestros de la Moda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Saber y ganar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Conciertos Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Crimen | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Late Xou | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mitele Comedia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
