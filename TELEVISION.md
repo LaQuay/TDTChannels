@@ -223,6 +223,7 @@
 | Onda Cádiz 24h | [m3u8](https://ondacadiztv.es:30443/octv/24h/playlist.m3u8) | [web](https://ondacadiz.es/index.php/canal-24-horas) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | - | - |
 | Parlamento de Andalucía | [m3u8 # 1](https://stream1.parlamentodeandalucia.es/realizacion1/realizacion1/playlist.m3u8) - [m3u8 # 2](https://stream2.parlamentodeandalucia.es/realizacion2/realizacion2/playlist.m3u8) - [m3u8 # 3](https://stream2.parlamentodeandalucia.es/realizacion3/realizacion3/playlist.m3u8) - [m3u8 # 4](https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8) | [web](https://www.parlamentodeandalucia.es/stream/canal4.html) | [logo](https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200) | - | - |
 | Almería 24h TV | [m3u8](https://broadcast.radioponiente.org:9443/live/smil:almeria24h.smil/playlist.m3u8) | [web](https://www.almeria24htv.com/es/) | [logo](https://graph.facebook.com/107654981928274/picture?width=200&height=200) | - | - |
+| La Vega Televisión | - | [web](https://lavegatelevision.com/) | [logo](https://graph.facebook.com/168992603489000/picture?width=200&height=200) | - | EXTA |
 
 ### Aragón
 
@@ -433,6 +434,9 @@
 | Enguera TV | [stream](https://player.twitch.tv/?channel=engueratv&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.enguera.es/content/enguera-tv) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJWP8ahafBlFAbCsP3tT17ooK6arGKNmcx6VES4o=s200) | - | EMB |
 | 33TV Valencia | [m3u8](https://limited43.todostreaming.es/live/simbana-livestream.m3u8) | [web](https://karyganet.com/33-tv/) | [logo](https://karyganet.com/wp-content/uploads/tv-33.jpg) | - | - |
 | Corts Valencianes | [m3u8](https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8) | [web](https://mediateca.cortsvalencianes.es/library/lives/) | [logo](https://graph.facebook.com/cortsval/picture?width=200&height=200) | - | - |
+| Veteve | - | [web](https://veteve.es/) | [logo](https://graph.facebook.com/120380377704941/picture?width=200&height=200) | - | NOEM |
+| MediTV | - | [web](https://www.meditv.tv/)| [logo](https://graph.facebook.com/107657943992039/picture?width=200&height=200) | - | NOEM |
+| Comarcal.tv | - | [web](https://comarcal.tv/)| [logo](https://graph.facebook.com/televisiocomarcal/picture?width=200&height=200) | - | NOEM |
 
 ### Extremadura
 
