@@ -223,7 +223,7 @@
 | Onda Cádiz 24h | [m3u8](https://ondacadiztv.es:30443/octv/24h/playlist.m3u8) | [web](https://ondacadiz.es/index.php/canal-24-horas) | [logo](https://graph.facebook.com/ondacadiz/picture?width=200&height=200) | - | - |
 | Parlamento de Andalucía | [m3u8 # 1](https://stream1.parlamentodeandalucia.es/realizacion1/realizacion1/playlist.m3u8) - [m3u8 # 2](https://stream2.parlamentodeandalucia.es/realizacion2/realizacion2/playlist.m3u8) - [m3u8 # 3](https://stream2.parlamentodeandalucia.es/realizacion3/realizacion3/playlist.m3u8) - [m3u8 # 4](https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8) | [web](https://www.parlamentodeandalucia.es/stream/canal4.html) | [logo](https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200) | - | - |
 | Almería 24h TV | [m3u8](https://broadcast.radioponiente.org:9443/live/smil:almeria24h.smil/playlist.m3u8) | [web](https://www.almeria24htv.com/es/) | [logo](https://graph.facebook.com/107654981928274/picture?width=200&height=200) | - | - |
-| La Vega Televisión | - | [web](https://lavegatelevision.com/) | [logo](https://graph.facebook.com/168992603489000/picture?width=200&height=200) | - | EXTA |
+| Cadena Joven TV | [m3u8](https://streamtv2.elitecomunicacion.cloud:3738/live/cadenajoventvlive.m3u8)| [web](https://cadenajoven.es/cadenajoven_tv/) | [logo](https://graph.facebook.com/cadenajovendigital/picture?width=200&height=200) | - | - |
 
 ### Aragón
 
