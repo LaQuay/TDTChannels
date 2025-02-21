@@ -254,6 +254,7 @@
 | Antena Huelva | [stream](https://stm2.emiteonline.com:9024/antenahuelva) | [web](https://antenahuelva.com) | [logo](https://graph.facebook.com/109385783852066/picture?width=200&height=200) | - | - |
 | Radio Luz Dalías | [mp3](https://broadcast.radioponiente.org:8034/;.mp3) | [web](https://www.radioluzdalias.com/es/) | [logo](https://pbs.twimg.com/profile_images/1163744422116438016/Fw93iC2M_200x200.jpg) | - | - |
 | Onda 4 Ronda | [stream](https://cervera.eldialdigital.com:23161/stream) | [web](https://onda4.org/en-directo/) | [logo](https://akouradio.com/StatImage/31583.png) | - | - |
+| Radio Rociana | [mp3](https://streaming.radiorociana.com/;stream.mp3) | [web](https://www.radiorociana.com/player) | [logo](https://graph.facebook.com/radiorociana/picture?width=200&height=200) | - | - |
 | 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](http://www.90fm.es) | [logo](https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg) | - | - |
 
 ### Aragón
