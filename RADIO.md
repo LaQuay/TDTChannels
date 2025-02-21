@@ -746,7 +746,7 @@
 | LEO Radio Benidorm | [stream](https://stream.netservers.ovh:8443/leoradiofm.ogg) | [web](https://leoradiofm.com/es) | [logo](https://graph.facebook.com/LeoRadiofm/picture?width=200&height=200) | - | - |
 | Plaza Radio | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://plazaradio.es/onair) | [logo](https://pbs.twimg.com/profile_images/1438771594952839170/aBOGp4Rl_200x200.jpg) | - | - |
 | Radio Ibi | [mp3](https://streaming.enacast.com:8000/radioibiSD.mp3) | [web](https://www.radioibi.com) | [logo](https://pbs.twimg.com/profile_images/524879648971165696/0R6A-gKg_200x200.jpeg) | - | - |
-| Onda Ilicitana | [mp3](http://212.83.151.18:38722/;.mp3) | [web](http://ondailicitana.com) | [logo](https://pbs.twimg.com/profile_images/1398237360647704579/GjZOgEvF_200x200.jpg) | - | - |
+| Spektra FM | [stream](https://stm2.emiteonline.com:9008/spektrafm) | [web](https://spektrafm.es/) | [logo](https://graph.facebook.com/spektrafm/picture?width=200&height=200) | - | - |
 | 99.9 Valencia Radio | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://www.la999.es) | [logo](https://graph.facebook.com/999VlcRadio/picture?width=200&height=200) | - | - |
 | Versión Radio | [stream](https://radioserver11.profesionalhosting.com/proxy/hcauhcvs?mp=/stream) | [web](https://www.versionradio.es) | [logo](https://graph.facebook.com/versionradioasjm/picture?width=200&height=200) | - | - |
 | Vega Baja Radio | [stream](https://node-21.zeno.fm/3xnvzk9dztzuv) | [web](https://vegabajaradio.com) | [logo](https://graph.facebook.com/vegabajaradio/picture?width=200&height=200) | - | - |
