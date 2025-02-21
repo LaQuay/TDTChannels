@@ -782,8 +782,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Molahits TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Urban TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ibiza Global TV España | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| Spektra TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Café del Mar Ibiza España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Tomorrowland TV | - | - | - | - | - | - | - |
 | Radio Italia TV | - | - | - | - | - | - | - |
