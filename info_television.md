@@ -126,10 +126,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Equipo de investigación | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Aquí no hay quién viva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Física o química | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE 4 Estrellas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE La Moderna | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Cuéntame | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Somos Cine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Viajes  | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE La promesa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Maestros de la Moda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Saber y ganar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
