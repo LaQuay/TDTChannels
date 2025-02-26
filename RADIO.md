@@ -20,7 +20,7 @@
 | Cadena 100 | [m3u8](https://cadena100-cope.flumotion.com/chunks.m3u8) | [web](https://www.cadena100.es) | [logo](https://graph.facebook.com/CADENA100/picture?width=200&height=200) | Cadena100.Radio | - |
 | Cadena Dial | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3) | [web](https://play.cadenadial.com) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | CadenaDial.Radio | - |
 | Europa FM | [m3u8](https://atres-live.europafm.com/live/europafm/master.m3u8) | [web](https://www.europafm.com/directo/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | EuropaFM.Radio | - |
-| Rock FM | [m3u8](https://rockfm-cope.flumotion.com/playlist.m3u8) | [web](https://player.rockfm.fm) | [logo](https://graph.facebook.com/RockFM/picture?width=200&height=200) | RockFM.Radio | - |
+| Rock FM | [m3u8](https://rockfm-cope.flumotion.com/playlist.m3u8) | [web](https://www.rockfm.fm/) | [logo](https://graph.facebook.com/RockFM/picture?width=200&height=200) | RockFM.Radio | - |
 | Radio 3 RNE | [m3u8](https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-3/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | RNE3.Radio | - |
 | LOS40 Classic | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3) | [web](https://play.los40.com/emisora/los40_classic/) | [logo](https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200) | Los40Classic.Radio | - |
 | Kiss FM | [mp3](https://kissfm.kissfmradio.cires21.com/kissfm.mp3) | [web](https://kissfm.es/player/) | [logo](https://graph.facebook.com/kissfm.es/picture?width=200&height=200) | KissFm.Radio | - |
