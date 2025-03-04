@@ -381,7 +381,7 @@
 | C33 Madrid | [m3u8](https://media2.streambrothers.com:1936/8140/8140/.m3u8) | [web](https://www.canal33.info) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
 | EsTuTele | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12680&live=1) | [web](https://estutele.com) | [logo](https://graph.facebook.com/100146922067408/picture?width=200&height=200) | - | - |
 | Canal 4 TV Madrid | [m3u8](https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8) | [web](https://www.grup4.com) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | - |
-| Canal Red | [youtube](https://www.youtube.com/channel/UCky112obBMG68Nw5MrSNNPA/live) | [web](https://canalred.tv) | [logo](https://graph.facebook.com/canalredtelevision/picture?width=200&height=200) | - | EMB |
+| Canal Red | [youtube](https://youtu.be/bBbkpazHYCE) | [web](https://canalred.tv) | [logo](https://graph.facebook.com/canalredtelevision/picture?width=200&height=200) | - | EMB |
 | LIRA TV | [m3u8](https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8) | [web](https://liratv.es) | [logo](https://graph.facebook.com/liratvlive/picture?width=200&height=200) | - | NONAV |
 
 ### C. Foral de Navarra
