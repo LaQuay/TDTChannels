@@ -67,7 +67,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | Teledeporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| GOL Play | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| GOL Play | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
 | Esport 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | ETB Deportes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Aragón Deporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emite eventualmente |
