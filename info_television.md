@@ -41,7 +41,6 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | DMAX | ✔❗ | ✔ | 🌐 | ❌ | ❌ | ❌ | Presenta incompatibilidades en Fire TV |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cortan la emisión eventualmente |
-| GH DÚO 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | mtmad 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | RNE para todos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
