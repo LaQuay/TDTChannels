@@ -21,7 +21,6 @@
 | DMAX | - | [web](https://dmax.marca.com/en-directo) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | EXTA |
 | TRECE | [m3u8](https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | - |
 | El Toro TV | [m3u8](https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8) - [m3u8 # 2](https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | - |
-| GH DÚO 24h | - | [web](https://www.mitele.es/directo/gh-duo-24h/) | [logo](https://graph.facebook.com/granhermano/picture?width=200&height=200) | - | EXTA |
 | mtmad 24h | - | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=200&height=200) | - | EXTA |
 | RNE para todos | [m3u8](https://ztnr.rtve.es/ztnr/6688753.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/rne-para-todos/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
