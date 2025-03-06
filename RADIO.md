@@ -219,7 +219,7 @@
 | Radio La Isla | [stream](https://server10.emitironline.com:30132/stream) | [web](https://radiolaisla.com) | [logo](https://graph.facebook.com/radiolaisla/picture?width=200&height=200) | - | - |
 | Global Radio | [mp3](https://radio.entertainmenttechnologies.co.uk:8000/stream) | [web](https://global.fm/streamwindow/) | [logo](https://graph.facebook.com/loveglobalradio/picture?width=200&height=200) | - | - |
 | Candil Radio | [mp3](https://candilradio.com/liveradio/candil/live.mp3) | [web](https://candilradio.com) | [logo](https://graph.facebook.com/CandilRadio/picture?width=200&height=200) | - | - |
-| Radio del Condado | [mp3](https://streaming.radiorociana.com/;stream.mp3) | [web](https://www.radiorociana.com/player) | [logo](https://graph.facebook.com/radiorociana/picture?width=200&height=200) | - | - |
+| Radio Rociana del Condado | [mp3](https://streaming.radiorociana.com/;stream.mp3) | [web](https://www.radiorociana.com/player) | [logo](https://graph.facebook.com/radiorociana/picture?width=200&height=200) | - | - |
 | Integración Radio | [stream](https://eu1.lhdserver.es:9061/stream) | [web](https://www.integracionradio.com) | [logo](https://pbs.twimg.com/profile_images/603682455984414720/aXSEPW0z_200x200.jpg) | - | - |
 | Onda Sur Motril | [stream](http://radio.telemotril.com:8000/live) | [web](https://telemotril.com/onda-sur-107-7fm/) | [logo](https://graph.facebook.com/telemotriltv/picture?width=200&height=200) | - | - |
 | Radio Sevillanas | [mp3](http://radio.wesped.com:8000/;stream.mp3) | [web](https://www.radiosevillanas.com) | [logo](https://graph.facebook.com/web.radiosevillanas/picture?width=200&height=200) | - | - |
