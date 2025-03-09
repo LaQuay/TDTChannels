@@ -456,7 +456,7 @@
 | TeleVigo | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12687&live=1) | [web](https://www.televigo.com) | [logo](https://graph.facebook.com/televigo/picture?width=200&height=200) | - | - |
 | Telemiño | [m3u8](https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8) | [web](https://www.laregion.es/articulo/ourense/programacion-telemino-directo/202310171934211250121.html) | [logo](https://graph.facebook.com/teleminho/picture?width=200&height=200) | - | - |
 | Hermes TV | [stream](https://player.twitch.tv/?channel=hermestelevisionvigo&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://hermesvigo.com/directo-tv/) | [logo](https://graph.facebook.com/491789551017784/picture?width=200&height=200) | - | EMB |
-| Anove TV | [m3u8](https://205245.gvideo.io/mpegts/205245_786753/master_mpegts.m3u8) | [web](https://anove.gal) | [logo](https://graph.facebook.com/anove.tv/picture?width=200&height=200) | - | - |
+| Anove TV | [m3u8]() | [web](https://cloud.fastchannel.es/mic/manifiest/anove.m3u8) | [logo](https://graph.facebook.com/anove.tv/picture?width=200&height=200) | - | REFG1 |
 | Auria TV | [youtube](https://www.youtube.com/channel/UC4xDk-vc3i4CB45U7_wmm5g/live) | [web](https://www.auria.es) | [logo](https://yt3.ggpht.com/a-/AAuE7mBbJ5XfzqqDgg1IkOk23GJ6JZntYZtYT-n1CA=s200) | - | EMB |
 
 ### Illes Balears
