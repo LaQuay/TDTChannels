@@ -640,6 +640,7 @@
 | Antena CEMU | [stream](https://sonic.mediatelekom.net/9980/stream) | [web](https://antenacemu.com/emision-online/) | [logo](https://graph.facebook.com/401769933317531/picture?width=200&height=200) | - | - |
 | Sol Radio | [stream](https://azura.abcorp.es/radio/8220/solradio) | [web](https://solradiomadrid.com) | [logo](https://graph.facebook.com/solradio99.8/picture?width=200&height=200) | - | - |
 | Onda Vallekana | [stream](https://sonic.sistemahost.es/8152/;) | [web](https://www.ondavallekana.es) | [logo](https://pbs.twimg.com/profile_images/1447528417654710279/IlV_01hC_200x200.jpg) | - | - |
+| Onda Aranjuez | [mp3](https://server8.emitironline.com:18544/;.mp3) | [web](https://www.aranjuez.es/onda/) | [logo](https://www.aranjuez.es/wp-content/uploads/2016/12/escucha-onda-aranjuez-300x264.png) | - | - |
 | MDT Radio Madrid | [stream](https://streams1.mdtradio.com:8443/MdtMadrid) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/mdtradiomadrid/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
