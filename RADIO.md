@@ -630,7 +630,7 @@
 | Radio Villalba | [stream](https://srv7041.dns-lcinternet.com/8042/stream) | [web](https://www.colladovillalba.es/radio-villalba) | [logo](https://graph.facebook.com/radiovillalbafm/picture?width=200&height=200) | - | - |
 | Radio Libertad | [stream](https://server9.emitironline.com:19482/stream) | [web](https://radiolibertad.es/en-directo/) | [logo](https://pbs.twimg.com/profile_images/1862403237363556352/R_cCFfhV_200x200.jpg) | - | - |
 | ECO Leganés | [stream](https://cervera.eldialdigital.com:25191/stream) | [web](https://ecoleganes.org) | [logo](https://graph.facebook.com/ecoleganes01/picture?width=200&height=200) | - | - |
-| REC Radio | [stream](https://sonic.sistemahost.es/8174/stream) | [web](https://www.recradio.es) | [logo](https://graph.facebook.com/RecRadioElCasar/picture?width=200&height=200) | - | - |
+| REC Radio | [stream](https://server9.emitironline.com:19488/stream) | [web](https://www.recradio.es) | [logo](https://graph.facebook.com/RecRadioElCasar/picture?width=200&height=200) | - | - |
 | Globo FM | [mp3](https://sonic.sistemahost.es/8200/;.mp3) | [web](https://www.globofm.es) | [logo](https://pbs.twimg.com/profile_images/972013004484173824/BMLZEKXs_200x200.jpg) | - | - |
 | Radio Madrid Sierra | [stream](https://streaming12.elitecomunicacion.es:8070/stream) | [web](https://radiomadridsierra.com) | [logo](https://pbs.twimg.com/profile_images/1613231096644116481/fk4e53OS_200x200.jpg) | - | - |
 | Onda Latina | [stream](https://cervera.eldialdigital.com:21131/stream) | [web](http://www.ondalatina.com.es) | [logo](https://graph.facebook.com/ondalatina.com.es/picture?width=200&height=200) | - | - |
