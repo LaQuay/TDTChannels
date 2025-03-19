@@ -638,7 +638,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TELE 10 Nayarit Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Noticias Caracol Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Teleantioquia Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| Señal Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Capital Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telepacifico Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Canal Telecaribe Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Canal TRO Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
