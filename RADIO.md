@@ -711,7 +711,7 @@
 | esRadio Valencia | [stream](https://aequum821.dns-lcinternet.com:8200/stream) | [web](https://esradiovalencia.com) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | LOS40 Benidorm | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_BENIDORM.mp3) | [web](https://40benidorm.com/assets/player/player.html) | [logo](https://pbs.twimg.com/profile_images/732171106782695424/eSJEnwoL_200x200.jpg) | - | - |
 | LOS40 Castellón | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_CASTELLON.mp3) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/Los40Castellon/picture?width=200&height=200) | - | - |
-| Cadena 100 Benidorm | [stream](http://rsirena.dnsalias.com:8000/cad100benidorm) | [web](https://www.radiosirena.es/radio-online/cadena-100/) | [logo](https://graph.facebook.com/cadena100benidorm/picture?width=200&height=200) | - | - |
+| Cadena 100 Benidorm | [stream](https://str1.mediatelekom.net/proxy/cadena100/stream) | [web](https://radiosirena.es/radio/cadena-100/) | [logo](https://graph.facebook.com/cadena100benidorm/picture?width=200&height=200) | - | - |
 | Cadena Dial Castellón | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/cadenadialcastelllon/picture?width=200&height=200) | - | - |
 | Europa FM Gandia | [stream](https://one.cloudstreaming.eu/proxy/europa/stream) | [web](https://europafmgandia.com) | [logo](https://graph.facebook.com/europafmgandia/picture?width=200&height=200) | - | - |
 | Europa FM Marina Alta | [stream](https://stm2.emiteonline.com:9029/marinaefm) | [web](http://europafmmarinaalta.com) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
@@ -725,6 +725,7 @@
 | Alzira Ràdio | [mp3](https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3) | [web](https://alziraradio.com/alzira-radio-en-directe/) | [logo](https://graph.facebook.com/alziraradio/picture?width=200&height=200) | - | - |
 | Play Radio Valencia | [stream](https://playradiovalencia.es/stream/) | [web](https://playradiovalencia.es) | [logo](https://graph.facebook.com/Playradiovalencia/picture?width=200&height=200) | - | - |
 | La Jungla Radio Valencia | [stream](https://sonic.sistemahost.es/8268/stream) | [web](https://lajunglavalencia.com) | [logo](https://graph.facebook.com/lajunglaradiovlc/picture?width=200&height=200) | - | - |
+| Capital Radio Valencia | [m3u8](https://capitalradio-valencia-hls.flumotion.com/capitalradio/valencia-source/playlist.m3u8) | [web](https://www.capitalradio.es/valencia) | [logo](https://pbs.twimg.com/profile_images/1256866004145242113/WZVY4CoE_200x200.jpg) | - | - |
 | Relax FM | [stream](https://server9.emitironline.com:19288/) | [web](https://relaxfm.es) | [logo](https://graph.facebook.com/relaxfmoficial/picture?width=200&height=200) | - | - |
 | Activa FM | [mp3](https://stream.mediasector.es/radio/8000/activafm.mp3) | [web](https://emisorasmusicales.net/activa/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
 | + Activa | [mp3](https://stream.mediasector.es/radio/8110/mas-activa.mp3) | [web](https://www.emisorasmusicales.net/emisoras/mas-activa/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2020/05/11022613/activa--200x200.png) | - | - |
@@ -760,6 +761,7 @@
 | Onda 15 Radio | [stream](https://streaming12.elitecomunicacion.es:8628/stream) | [web](https://www.onda15.es) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
 | Costafm Alicante | [mp3](https://cdn4.onstream.audio:6064/stream.mp3) | [web](https://www.costafm.es) | [logo](https://graph.facebook.com/costafm/picture?width=200&height=200) | - | - |
 | Onda Azul Torrevieja | [mp3](https://usa3.lhdserver.es:8199/stream?type=.mp3) | [web](https://www.ondaazultorrevieja.es) | [logo](https://pbs.twimg.com/profile_images/691063766784577536/3-ftz8tQ_200x200.jpg) | - | - |
+| Radio Onda 15 Castalla | [mp3](https://azc.standfy.com/radio/8200/onda15) | [web](https://www.onda15.com) | [logo](https://graph.facebook.com/radiocastalla/picture?width=200&height=200) | - | - |
 | Cassette FM | [mp3](https://cdn4.onstream.audio:9154/cassettefm.mp3) | [web](https://cassettefm.es) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png) | - | - |
 | Radio 90FM | [stream](https://node-33.zeno.fm/015h6n8vfzzuv) | [web](https://radio90fmvalencia.wixsite.com/90fm) | [logo](https://static.wixstatic.com/media/f5b851_67e1cadb04a642e2a353a636264ca548~mv2.png) | - | - |
 | Radio Malibú | [mp3](https://cdn4.onstream.audio:9158/maliburadio.mp3) | [web](https://www.radiomalibu.es) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
@@ -1030,6 +1032,7 @@
 | Onda Cieza | [stream](https://sonic.mediatelekom.net/8436/stream) | [web](https://www.ondacieza.com) | [logo](https://pbs.twimg.com/profile_images/654189936971771904/1y9jkZJ-_200x200.jpg) | - | - |
 | Metropólitan Radio | [stream](https://sonic.mediatelekom.net/8012/stream) | [web](https://metropolitan.radio) | [logo](https://pbs.twimg.com/profile_images/1435351436523626507/lBjfSU1K_200x200.jpg) | - | - |
 | Radio Compañía | [stream](https://sonic.mediatelekom.net/8276/stream) | [web](https://radiomolina.com/escuchanos-en-directo/) | [logo](https://graph.facebook.com/radiomolina/picture?width=200&height=200) | - | - |
+| Yecla Media Radio | [stream](https://emision.yeclamedia.com:8080/emision) | [web](https://yeclamedia.com/radio/) | [logo](https://graph.facebook.com/Yeclamedia/picture?width=200&height=200) | - | - |
 | Radio Calasparra | [stream](http://84.232.12.14:8000/RadioCalasparra) | [web](https://www.radiocalasparra.es) | [logo](https://graph.facebook.com/RadioCalasparra/picture?width=200&height=200) | - | - |
 | Caravaca Radio | [stream](http://84.232.12.14:8000/caravacaradio) | [web](https://www.caravacaradio.com) | [logo](https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200) | - | - |
 | Inter Radio | [mp3](https://sonic.mediatelekom.net/8040/stream/;.mp3) | [web](https://lainter.es) | [logo](https://graph.facebook.com/LaInter.es/picture?width=200&height=200) | - | - |
