@@ -910,8 +910,8 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Radio Nacional Melilla | [m3u8](https://rtvehlslivestream.akamaized.net/hls/live/2097731/rne1/mel/master.m3u8) | [web](https://www.rtve.es/play/audios/programa/radio1-melilla/4143282/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
-| Radio 5 Melilla | [stream](https://dispatcher.rndfnk.com/crtve/rne5/mel/mp3/high) | [web](https://www.rtve.es/play/audios/programa/radio5-melilla/4143283/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
+| Radio Nacional Melilla | [m3u8](https://rnelivestream.rtve.es/rne1/mel/master.m3u8) | [web](https://www.rtve.es/play/audios/programa/radio1-melilla/4143282/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
+| Radio 5 Melilla | [m3u8](https://rnelivestream.rtve.es/rne5/mel/master.m3u8) | [web](https://www.rtve.es/play/audios/programa/radio5-melilla/4143283/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | SER Melilla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MELILLA.mp3) | [web](https://cadenaser.com/radio-melilla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Melilla.Radio | - |
 | Onda Cero Melilla | [mp3](http://radioserver4.profesionalhosting.com:8146/;.mp3) | [web](https://www.ondaceromelilla.net/ml/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Melilla.Radio | - |
 
