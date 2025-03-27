@@ -282,6 +282,7 @@
 | Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8) | [web](https://villarrobledonoticias.com/canal-4-mancha/) | [logo](https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200) | - | - |
 | TeleToledo | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12688&live=1) | [web](https://www.teletoledo.es) | [logo](https://graph.facebook.com/Teletoledo/picture?width=200&height=200) | - | - |
 | Canal 2000 | [m3u8](http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8) | [web](http://www.canal2000.com) | [logo](https://graph.facebook.com/canal2000/picture?width=200&height=200) | - | NONAV |
+| Gobierno de Castilla-La Mancha | - | [web](https://www.castillalamancha.es/actualidad/emision-en-directo) | [logo](https://graph.facebook.com/juntadecastillalamancha/picture?width=200&height=200) | - | EXTA |
 
 ### Castilla y León
 
@@ -473,6 +474,7 @@
 | Canal 4 TV Mallorca | [m3u8](https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8) | [web](https://www.grup4.com) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | - |
 | Fibwi Diario | [m3u8](https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8) | [web](https://www.fibwidiario.com/estaticas/fibwi-tv.html) | [logo](https://graph.facebook.com/Fibwidiario/picture?width=200&height=200) | - | - |
 | SAM Ibiza | [m3u8](https://hls1.eu.peppermindmedia.com/av:vod1/SAMibiza/index.fmp4.m3u8) | [web](https://listen.samibiza.com/video) | [logo](https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200) | - | - |
+| Parlament de les Illes Balears | [youtube](https://www.youtube.com/channel/UCpLm25L3R1VVOQDFiSCCmDA/live) | [web](https://www.parlamentib.es/) | [logo](https://pbs.twimg.com/profile_images/1628713790303879168/hOxkqhuJ_200x200.jpg) | - | EMB |
 
 ### La Rioja
 
@@ -515,6 +517,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TPA7 | - | [web](https://www.rtpa.es/tpa-television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | EXTA |
+| Junta General del Principado de Asturias | [m3u8](https://wmserver.jgpa.es/live/_definst_/livestream2/playlist.m3u8) | [web](https://www.jgpa.es/emision-en-directo) | [logo](https://pbs.twimg.com/profile_images/1898981135515881472/kZzZjI1u_200x200.jpg) | - | - |
 
 ### R. de Murcia
 
@@ -525,6 +528,8 @@
 | Canal 1 Mar Menor Torre Pacheco | [m3u8](https://directo.tuwebtv.es/canal1.m3u8) | [web](https://www.tuwebtv.es/directo.php) | [logo](https://graph.facebook.com/tuwebtv/picture?width=200&height=200) | - | - |
 | Arabí TV | [m3u8](https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8) | [web](https://www.arabitv.es/en-directo/) | [logo](https://graph.facebook.com/arabitvyecla/picture?width=200&height=200) | - | - |
 | Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
+| Asamblea Regional de Murcia | [youtube](https://www.youtube.com/channel/UCGWt3Hunyq2i8Qso_de8x5g/live) | [web](https://www.asambleamurcia.es/) | [logo](https://graph.facebook.com/asambleamurcia/picture?width=200&height=200) | - | EMB |
+
 
 ## Int. Europa
 
