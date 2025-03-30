@@ -512,6 +512,7 @@
 | Oizmendi TV | [m3u8](https://zuzenean.oizmendi.eus/hls/z.m3u8) | [web](https://zuzenean.oizmendi.eus) | [logo](https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200) | - | - |
 | Urola TV | [m3u8](https://5940924978228.streamlock.net/j_Directo2/j_Directo2/playlist.m3u8) | [web](https://www.urolatelebista.com) | [logo](https://graph.facebook.com/urolatelebista/picture?width=200&height=200) | - | - |
 | STZ Telebista | [m3u8](https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8) | [web](https://stztelebista.com) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
+| Eusko Legebiltzarra | [m3u8 # 1](https://bideoak.legebiltzarra.eus/zuzenean/stream-3_channel-1/playlist.m3u8) - [m3u8 # 2](https://bideoak.legebiltzarra.eus/zuzenean/stream-3_channel-2/playlist.m3u8) | [web](https://www.legebiltzarra.eus/) | [logo](https://graph.facebook.com/legebiltzarra/picture?width=200&height=200) | - | - |
 
 ### P. de Asturias
 
