@@ -387,6 +387,7 @@
 | Canal 4 TV Madrid | [m3u8](https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8) | [web](https://www.grup4.com) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | - |
 | Canal Red | [youtube](https://www.youtube.com/channel/UCky112obBMG68Nw5MrSNNPA/live) | [web](https://canalred.tv) | [logo](https://graph.facebook.com/canalredtelevision/picture?width=200&height=200) | - | EMB |
 | LIRA TV | [m3u8](https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8) | [web](https://liratv.es) | [logo](https://graph.facebook.com/liratvlive/picture?width=200&height=200) | - | NONAV |
+| Asamblea de Madrid | [youtube](https://www.youtube.com/channel/UCqACQgeFG_-PmQCn3tdAFpg/live) | [web](https://www.asambleamadrid.es/) | [logo](https://graph.facebook.com/asambleamadrid/picture?width=200&height=200) | - | EMB |
 
 ### C. Foral de Navarra
 
@@ -442,7 +443,7 @@
 | TV Extremeña | [stream](https://player.twitch.tv/?channel=tvextremena&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.xn--televisionextremea-30b.com/directo/) | [logo](https://graph.facebook.com/TELEVISIONEXTREMENA/picture?width=200&height=200) | - | EMB |
 | Nuestra Comarca TV | [stream](https://player.twitch.tv/?channel=nuestracomarcatelevision&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.nuestracomarca.com) | [logo](https://graph.facebook.com/nuestra.comarca/picture?width=200&height=200) | - | EMB |
 | Villafranca TV | [youtube](https://www.youtube.com/channel/UCIp5TEcJidiaN3p_mguOrTQ/live) | [web](https://www.villafrancadelosbarros.es/blog/) | [logo](https://pbs.twimg.com/profile_images/1180389927709810688/BgzpxkjA_200x200.jpg) | - | EMB |
-| Asamblea de Extremadura | [youtube](https://www.youtube.com/channel/UCyBXbc0UicHRPJLmHppjpgQ/live) | [web](https://www.asambleaex.es/) | [logo](https://graph.facebook.com/AsambleaExtremadura/picture?width=200&height=200) | - | EMB |
+| Asamblea de Extremadura | [youtube](https://www.youtube.com/channel/UCDRei0Imqv9iV8mHQdYwGdQ/live) | [web](https://www.asambleaex.es/) | [logo](https://graph.facebook.com/AsambleaExtremadura/picture?width=200&height=200) | - | EMB |
 
 ### Galicia
 
