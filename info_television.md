@@ -133,6 +133,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTVE Saber y ganar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Conciertos Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Late Xou | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Talent | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mitele Comedia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
