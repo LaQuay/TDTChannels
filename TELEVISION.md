@@ -112,6 +112,7 @@
 | RTVE Conciertos Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/6924117.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/conciertos-radio-3/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Conciertos_R3.TV | - |
 | RTVE Late Xou | [m3u8](https://ztnr.rtve.es/ztnr/2472037.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-latexou/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_LateXou.TV | - |
 | RTVE Talent | [m3u8](https://ztnr.rtve.es/ztnr/16510071.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/play-talent/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Viajes.TV | - |
+| RTVE Procesiones | [m3u8](https://ztnr.rtve.es/ztnr/16519534.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-procesiones/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Crimen.TV | - |
 | Mitele Comedia | - | [web](https://www.mitele.es/directo/mitele-comedia/) | [logo](https://graph.facebook.com/mitele.es/picture?width=200&height=200) | Mitele_Comedia.TV | EXTA |
 | Mitele Viajes | - | [web](https://www.mitele.es/directo/mitele-viajes/) | [logo](https://graph.facebook.com/mitele.es/picture?width=200&height=200) | Mitele_Viajes.TV | EXTA |
 | Mitele En la Calle | - | [web](https://www.mitele.es/directo/mitele-en-la-calle/) | [logo](https://graph.facebook.com/mitele.es/picture?width=200&height=200) | Mitele_Calle.TV | EXTA |
