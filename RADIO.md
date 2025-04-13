@@ -582,7 +582,7 @@
 | Radio Nacional Ceuta | [stream](https://dispatcher.rndfnk.com/crtve/rne1/ceu/mp3/high) | [web](https://www.rtve.es/play/audios/programa/radio1-ceuta/4143261/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Ceuta | [stream](https://dispatcher.rndfnk.com/crtve/rne5/ceu/mp3/high) | [web](https://www.rtve.es/play/audios/programa/radio5-ceuta/4143281/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | SER Ceuta | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CEUTA.mp3) | [web](https://cadenaser.com/radio-ceuta/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Ceuta.Radio | - |
-| COPE Ceuta | [mp3](https://copeceuta.es/stream/?.mp3) | [web](https://elfarodeceuta.es/cope-ceuta/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Ceuta | [stream](https://stream.copeceuta.es/) | [web](https://copeceuta.es/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Ceuta | [m3u8](https://atres-live.ondacero.es/live/delegaciones/oc/ceuta/master.m3u8) | [web](https://www.ondacero.es/emisoras/ceuta/ceuta/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Ceuta.Radio | - |
 
 ### C. de Madrid
