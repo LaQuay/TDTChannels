@@ -564,7 +564,7 @@
 | Ràdio Amèrica Barcelona | [stream](https://s3.radio.co/sf09831a0e/listen) | [web](https://www.rab.cat) | [logo](https://graph.facebook.com/RadioAmericaBarcelona/picture?width=200&height=200) | - | - |
 | Ràdio Gràcia | [stream](https://enacast.com/radiogracia/streams/HD) - [mp3](https://streaming.enacast.com/radiograciaHD.mp3) | [web](https://enacast.com/radiogracia/) | [logo](https://graph.facebook.com/RadioGraciaBarcelona/picture?width=200&height=200) | - | - |
 | Una Cosa Ràdio | [stream](https://node-23.zeno.fm/v27tywkbwp8uv) | [web](https://www.unacosa.cat/radio-en-directe/) | [logo](https://pbs.twimg.com/profile_images/1317925182712041474/rNXMGU71_200x200.jpg) | - | - |
-| Gran Via Radio | [stream](https://antares.dribbcast.com/proxy/granviaradio?mp=/stream) | [web](https://granviaradio.wixsite.com/2020) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | - |
+| Gran Via Radio | [stream](https://servidor14-3.brlogic.com:7066/live) | [web](https://granviaradiofm.es/) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | - |
 | Ràdio Llançà | [stream](https://relay.stream.enacast-cloud.com:40323/radiollancaHD.mp3) | [web](https://radiollanca.cat) | [logo](https://graph.facebook.com/radiollanca/picture?width=200&height=200) | - | - |
 | Colera Ràdio | [stream](https://servidor24-5.brlogic.com:7494/live) | [web](https://coleraradio.com) | [logo](https://graph.facebook.com/101812002056328/picture?width=200&height=200) | - | - |
 | Ràdio Santpedor | [stream](https://radiosantpedor.radioca.st/stream) | [web](https://santpedor.net/radio/) | [logo](https://graph.facebook.com/radiosantpedor/picture?width=200&height=200) | - | - |
