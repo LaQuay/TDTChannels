@@ -188,6 +188,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Huelva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | 8TV Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 8TV Chiclana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 45 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Córdoba TV | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | - |
