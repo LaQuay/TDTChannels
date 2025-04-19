@@ -264,18 +264,18 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | TV Canaria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ |  |
-| GranCanariaTV.com | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | La 1 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mírame TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| GranCanariaTV.com | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Noroeste TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Fuerteventura TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Noroeste TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Factoría de Carnaval | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Afortunadas TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Parlamento de Canarias | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
