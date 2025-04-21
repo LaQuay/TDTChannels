@@ -27,6 +27,9 @@
 | DKISS | - | [web](https://www.dkiss.es) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
 | Paramount Network | - | [web](https://www.paramountnetwork.es) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200) | Paramount.TV | NOEM |
 | BOM Cine | - | [web](https://www.bomcine.com) | [logo](https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_200x200.jpg) | BOM.TV | NOEM |
+| Metaleitor TV1 | [m3u8](https://cdnhd.iblups.com/hls/QOX9FHVUCX.m3u8) | [web](https://metaleitor.blogspot.com/) | [logo](https://blogger.googleusercontent.com/img/a/AVvXsEjhfvnzol4JUm1AZm97cFxXUKeFe6dG75FaBliWNMdnmGMwa72GFs78Xuabgp3c9dlnjm5zdovb3GMTJY--ruiJkOjSTeyDuikn4w_1aoY6w7ORCw9Ko5odaSqUqTRe3wtnZ936-wUvHhrbZflgxcHODyvNd4i3og3wFtNMNiUshSpYe0iNFSqq3zczzl4=s1468) | - | - |
+| Metaleitor TV2 | [m3u8](https://cdnhd.iblups.com/hls/5mGg1uPXjN.m3u8) | [web](https://metaleitor.blogspot.com/) | [logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6R4icNJteyinEWbesaRCzu8B33cuKBOp0p-zmMDhv3PDJ2wx13sF8s2UoX9NpBVqX2y93J7ywIdEdsarqHGjIg3nWBgCi2Yy5he0dNliXuPiirL4698cvgHRMe7rZRXEKUnuGOgS7ab8/s220/logo+metaleitor.jpg) | - | - |
+| Metaleitor TV3 | [m3u8](https://cdnhd.iblups.com/hls/69Zww7n1rK.m3u8) | [web](https://metaleitor.blogspot.com/) | [logo](https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-6/480554520_620913840695912_492601421810149986_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=uZ2hqFY4aoUQ7kNvwGL0cSr&_nc_oc=AdkvhdR8VZ0Z41MC568PAPiYpNvqO9sTO2SQV3Wgzy8DF6cnpVxJDgsXO9mqtDJx5PUQSw4k0B__xFM3ZheDomES&_nc_zt=23&_nc_ht=scontent-bcn1-1.xx&_nc_gid=Ec0Y7GQQrygTaDfVqUhUBw&oh=00_AfHxbS86nm6le4OrY4g2FS6e38z1fKsJUBgaZByBB1RGZg&oe=680C06C7) | - | - |
 
 ## Informativos
 
@@ -429,6 +432,7 @@
 | TV Almassora | [m3u8](https://rumble.com/live-hls/6ori9a/playlist.m3u8?) | [web](https://www.tvalmassora.com/en-directo/en-directo-television-almassora/) | [logo](https://yt3.ggpht.com/IYhYKEgINXNgQGLhReOrma2Pcl151M7Ray9SYDWissgAAZQJUhrRPEe7tLBT9XlsjwChuTNW=s200) | - | EXTA |
 | Onda 15 TV | [m3u8](https://cloudvideo.servers10.com:8081/8034/index.m3u8) | [web](https://onda15.es) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
 | Canal 3 Biar | [m3u8](https://avantstreaming.es/hls/canal3.m3u8) | [web](https://canal3biar.es/directe/) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_nQt5rluj5KRX0HGcMvHLxSUJuhjZe4Y1GfuA0NjpHf5Q=s200) | - | - |
+| Radio Buñol TV | [m3u8](https://castor.streamthatvideo.co:8081/radiobunyol/tracks-v1a1/mono.m3u8) | [web](https://radiotv.xn--buol-hqa.es/) | [logo](https://enacast.com/media/cache/59/fe/59fec076ce3c43913ad79ec9f9f3e7ac.png) | - | - |
 | Ràdio Bocairent TV | [stream](https://player.twitch.tv/?channel=radiobocairent&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://radiobocairent.com) | [logo](https://graph.facebook.com/radiobocairent/picture?width=200&height=200) | - | EMB |
 | Punt 3 Vall Uixó | [m3u8](https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8) | [web](https://www.punt3.es/Directo/) | [logo](https://graph.facebook.com/Punt3Television/picture?width=200&height=200) | - | - |
 | Ciudades Del Ocio TV | [m3u8](https://cloudvideo.servers10.com:8081/8024/index.m3u8) | [web](https://www.ciudadesdelocio.tv) | [logo](https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200&height=200) | - | NONAV |
