@@ -125,15 +125,15 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Equipo de investigación | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Aquí no hay quién viva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Física o química | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE La Moderna | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Cuéntame | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Somos Cine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE La promesa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE La Revuelta | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Saber y ganar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Conciertos Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Late Xou | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Talent | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Dia de la Tierra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Dia del Libro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mitele Comedia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
