@@ -115,16 +115,16 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | +24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | +tdp | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ¡HOLA! Play | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| flooxer | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Atresplayer Clásicos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Atresplayer Comedia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Atresplayer Mentes Inquietas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Atresplayer Multicine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El Hormiguero | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El club de la comedia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Equipo de investigación | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Aquí no hay quién viva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Física o química | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| flooxer | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Atresplayer Clásicos | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Atresplayer Comedia | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Atresplayer Mentes Inquietas | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Atresplayer Multicine | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| El Hormiguero | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| El club de la comedia | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Equipo de investigación | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Aquí no hay quién viva | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Física o química | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | RTVE Cuéntame | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Somos Cine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE La promesa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
