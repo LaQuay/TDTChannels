@@ -95,7 +95,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | - | - | - | - | - | - | - | - |
 | Boing | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Kidz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Kidz | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Disney Channel | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
