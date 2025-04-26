@@ -728,7 +728,7 @@
 | Play Radio Valencia | [stream](https://playradiovalencia.es/stream/) | [web](https://playradiovalencia.es) | [logo](https://graph.facebook.com/Playradiovalencia/picture?width=200&height=200) | - | - |
 | La Jungla Radio Valencia | [stream](https://sonic.sistemahost.es/8268/stream) | [web](https://lajunglavalencia.com) | [logo](https://graph.facebook.com/lajunglaradiovlc/picture?width=200&height=200) | - | - |
 | Capital Radio Valencia | [m3u8](https://capitalradio-valencia-hls.flumotion.com/capitalradio/valencia-source/playlist.m3u8) | [web](https://www.capitalradio.es/valencia) | [logo](https://pbs.twimg.com/profile_images/1256866004145242113/WZVY4CoE_200x200.jpg) | - | - |
-| Relax FM | [stream](https://server9.emitironline.com:19288/) | [web](https://relaxfm.es) | [logo](https://graph.facebook.com/relaxfmoficial/picture?width=200&height=200) | - | - |
+| Relax FM | [stream](https://server9.emitironline.com:19288/) | [web](https://relaxfm.es) | [logo](https://pbs.twimg.com/profile_images/1629684463507570690/k6cWRSGU_200x200.jpg) | - | - |
 | Activa FM | [mp3](https://stream.mediasector.es/radio/8000/activafm.mp3) | [web](https://emisorasmusicales.net/activa/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
 | + Activa | [mp3](https://stream.mediasector.es/radio/8110/mas-activa.mp3) | [web](https://www.emisorasmusicales.net/emisoras/mas-activa/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2020/05/11022613/activa--200x200.png) | - | - |
 | La Mega FM | [mp3](https://stream.mediasector.es/radio/8020/lamega.mp3) | [web](https://emisorasmusicales.net/lamega/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023732/LaMega-200x200.png) | - | - |
@@ -855,7 +855,7 @@
 | Radiofusión | [stream](https://srv7031.dns-lcinternet.com/8032/stream) | [web](https://www.radiofusion.eu) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | - |
 | Radio Líder | [stream](https://server9.emitironline.com:8200/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | Metro FM Ferrol | [mp3](https://mediastreamm.com/8216/;.mp3) | [web](https://metrofmferrol.com/) | [logo](https://www.tvferrol.es/es/recursos/patrocinadores_2/MccbkxMU.png) | - | - |
-| Net Galicia Radio | [stream](https://sonicpanel.streaming10.net/8140/stream) | [web](https://www.netgaliciaradio.es) | [logo](https://pbs.twimg.com/profile_images/1733571339607302145/MP-vmP3X_200x200.jpg) | - | - |
+| Net Galicia Radio | [stream](https://sonicpanel.streaming10.net/8140/stream) | [web](https://www.netgaliciaradio.es) | [logo](https://www.netgaliciaradio.es/wp-content/uploads/2022/09/logo.png) | - | - |
 
 ### Illes Balears
 
