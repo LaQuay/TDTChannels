@@ -245,7 +245,7 @@
 | Radio Ciudad Roquetas | [mp3](https://broadcast.radioponiente.org:8040/;.mp3) | [web](https://www.radiociudadroquetas.es/es/radio-ciudad) | [logo](https://graph.facebook.com/radiociudadroquetas/picture?width=200&height=200) | - | - |
 | Central FM | [mp3](https://s29.myradiostream.com/4922/listen.mp3) | [web](https://www.centralfm.com) | [logo](https://graph.facebook.com/131322746891532/picture?width=200&height=200) | - | - |
 | Onda Mencía Radio | [stream](https://streaming12.elitecomunicacion.es:8146/stream) | [web](https://escucha.ondamenciaradio.com) | [logo](https://graph.facebook.com/OndaMenciaRadio/picture?width=200&height=200) | - | - |
-| Onda Loja Radio | [stream](https://antares.dribbcast.com/proxy/ondaloja/stream) | [web](https://ondaloja.es) | [logo](https://graph.facebook.com/370465614347/picture?width=200&height=200) | - | - |
+| Onda Loja Radio | [stream](https://stream.radiofutura.es:8090/stream) | [web](https://ondaloja.es) | [logo](https://graph.facebook.com/370465614347/picture?width=200&height=200) | - | - |
 | Radio Arcos | [mp3](https://streaming2.elitecomunicacion.es:8098/stream?type=.mp3) | [web](https://www.radioarcos.com) | [logo](https://graph.facebook.com/RadioArcos/picture?width=200&height=200) | - | - |
 | Chocolate FM | [mp3](https://streaming2.elitecomunicacion.es:8082/live.mp3) | [web](https://www.chocolatefm.com) | [logo](https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200) | - | - |
 | Granada FM | [stream](https://streaming2.elitecomunicacion.es:8028/stream) | [web](https://granadafm.es) | [logo](https://pbs.twimg.com/profile_images/1572284910198722561/2BQxFxMX_200x200.jpg) | - | - |
