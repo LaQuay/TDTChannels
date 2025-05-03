@@ -443,7 +443,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Extremadura | [m3u8](https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8) | [web](https://www.canalextremadura.es/directo/television) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | EXTA |
+| Canal Extremadura | [m3u8](https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8) | [web](https://www.canalextremadura.app/videos/182630-canal-video-24h) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | UAG,EXTA |
 | TV Extremeña | [stream](https://player.twitch.tv/?channel=tvextremena&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.xn--televisionextremea-30b.com/directo/) | [logo](https://graph.facebook.com/TELEVISIONEXTREMENA/picture?width=200&height=200) | - | EMB |
 | Nuestra Comarca TV | [stream](https://player.twitch.tv/?channel=nuestracomarcatelevision&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.nuestracomarca.com) | [logo](https://graph.facebook.com/nuestra.comarca/picture?width=200&height=200) | - | EMB |
 | Villafranca TV | [youtube](https://www.youtube.com/channel/UCIp5TEcJidiaN3p_mguOrTQ/live) | [web](https://www.villafrancadelosbarros.es/blog/) | [logo](https://pbs.twimg.com/profile_images/1180389927709810688/BgzpxkjA_200x200.jpg) | - | EMB |
