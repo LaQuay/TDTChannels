@@ -85,6 +85,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | Emisión diaria entre las 21 - 23h |
 | OKLIGA TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | FedHielo TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| A1 Padel 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Mundo Nautica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Futsalmafer.tv | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
