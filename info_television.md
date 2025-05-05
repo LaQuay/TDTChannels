@@ -386,7 +386,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Sant Cugat | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Fitel Television | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV Gran Vía Radio | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 22TV Televisió de Solsona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ### Ceuta
 
