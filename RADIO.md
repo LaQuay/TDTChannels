@@ -695,7 +695,7 @@
 | COPE Alicante | [mp3](https://wecast14-h-cloud.flumotion.com/copesedes/alicante.mp3) | [web](https://www.cope.es/directos/alicante) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Castellón | [mp3](https://wecast14-h-cloud.flumotion.com/copesedes/castellon.mp3) | [web](https://www.cope.es/directos/castellon) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Castellón-Vinaroz | [mp3](https://wecast14-h-cloud.flumotion.com/copesedes/vinaroz.mp3) | [web](https://www.cope.es/directos/castellon-vinaroz) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Denia | [mp3](https://wecast14-h-cloud.flumotion.com/copesedes/denia.mp3) | [web](https://www.cope.es/directos/denia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Denia | [mp3](https://wecast02-h-cloud.flumotion.com/copesedes/denia.mp3) | [web](https://www.cope.es/directos/denia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Elche | [stream](https://stream-159.zeno.fm/fh1dewq8pxduv) | [web](https://www.copeelche.com) | [logo](https://graph.facebook.com/CopeElche/picture?width=200&height=200) | - | - |
 | COPE Onda Naranja | [stream](https://str1.mediatelekom.net:8100/stream) | [web](https://ondanaranjacope.com/player) | [logo](https://graph.facebook.com/ondanaranjacope/picture?width=200&height=200) | - | - |
 | COPE Valencia | [mp3](https://wecast14-h-cloud.flumotion.com/copesedes/valencia.mp3) | [web](https://www.cope.es/directos/valencia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
