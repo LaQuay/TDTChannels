@@ -132,6 +132,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTVE Conciertos Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Late Xou | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Talent | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Eurovisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mitele Comedia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
