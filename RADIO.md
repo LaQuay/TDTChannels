@@ -240,6 +240,7 @@
 | Latino FM | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=200&height=200) | - | - |
 | Radio Oro | [mp3 # 1](http://185.23.192.118:8002/;stream.mp3) - [mp3 # 2](http://185.23.192.118:8004/;stream.mp3) | [web](http://www.radiooro.es) | [logo](https://graph.facebook.com/RadioOroMalaga/picture?width=200&height=200) | - | - |
 | Radio Nerja | [stream](https://online.vibacomunicacion.com:9974/stream) | [web](https://radionerja.com) | [logo](https://graph.facebook.com/radionerja/picture?width=200&height=200) | - | - |
+| Amiga Radio Nerja | [mp3](https://streaming.narixasoft.es/icecast/amigaradio.mp3) | [web](https://www.amigaradio.es/) | [logo](https://graph.facebook.com/fiestas.tuttifrutti/picture?width=200&height=200) | - | - |
 | Radio Mijas | [stream](https://s9.voscast.com:9691/stream) | [web](https://mijascomunicacion.com/radio-mijas-en-directo/) | [logo](https://graph.facebook.com/RadioMijas/picture?width=200&height=200) | - | - |
 | SportDirect Radio | [stream](https://streaming12.elitecomunicacion.es:8036/stream) | [web](https://sportdirectradio.es) | [logo](https://graph.facebook.com/SportDirectRadio/picture?width=200&height=200) | - | - |
 | Radio Ciudad Roquetas | [mp3](https://broadcast.radioponiente.org:8040/;.mp3) | [web](https://www.radiociudadroquetas.es/es/radio-ciudad) | [logo](https://graph.facebook.com/radiociudadroquetas/picture?width=200&height=200) | - | - |
