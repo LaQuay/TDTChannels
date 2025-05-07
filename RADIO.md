@@ -362,6 +362,7 @@
 | Cadena Mix | [stream](https://ns6.emisionlocal.com/proxy/radiomix?mp=%2Fstream) | [web](http://www.cadenamix.es) | [logo](https://graph.facebook.com/cadenamixfm/picture?width=200&height=200) | - | - |
 | Cantabria Radio | [stream](https://cantabria.radioca.st/stream) | [web](https://cantabriaradio.com) | [logo](https://pbs.twimg.com/profile_images/1618937329086857216/y7k5obyb_200x200.jpg) | - | - |
 | ARCO FM | [mp3](https://hisparadio.duckdns.org/stream/1/stream.mp3) | [web](https://arcofm.com/escuchar-arco/) | [logo](https://graph.facebook.com/arcofmcantabria/picture?width=200&height=200) | - | - |
+| Onda Felicidad | [mp3](https://ondafelicidad.emisiononline.es/listen/onda_felicidad/radio.mp3) | [web](https://ondafelicidad.com/) | [logo](https://graph.facebook.com/OndaFelicidad/picture?width=200&height=200) | - | - |
 
 ### Castilla-La Mancha
 
