@@ -105,7 +105,8 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | LEGO Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Nick Jr | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Nickelodeon | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Bluey | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ## Eventuales
 

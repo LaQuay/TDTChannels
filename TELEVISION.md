@@ -86,6 +86,7 @@
 | Little Baby Bum | [youtube](https://www.youtube.com/channel/UCHicabXz9rUMWLcdMqBtbxQ/live) | [web](https://www.youtube.com/user/LittleBabyBumEspanol) | [logo](https://yt3.ggpht.com/a/AATXAJwn3r9U07S7ZOqoGZLUbuYHWiIqpE8xuLJsyg=s200) | - | EMB |
 | Talking Tom and Friends | [youtube](https://www.youtube.com/channel/UCC9R-cxQeOpPhq2lAru0V8w/live) | [web](https://www.youtube.com/TomFriendsEs) | [logo](https://yt3.ggpht.com/a/AATXAJwpm-5h1rjcPqno5uANZr75VhhCYKv4PS02gLUS0A=s200) | - | EMB |
 | Nickelodeon | [youtube](https://www.youtube.com/channel/UCNeq3Obf4zOv5rhORI8Vz5g/live) | [web](https://www.youtube.com/@NickelodeonEnEspanol) | [logo](https://pbs.twimg.com/profile_images/1638227003668328451/e432Akk3_200x200.jpg) | - | EMB |
+| Bluey | [youtube](https://www.youtube.com/channel/UCYvpkMpzo1S_rmcj2Axmbig/live) | [web](https://www.bluey.tv/watch/) | [logo](https://graph.facebook.com/OfficialBlueyTV/picture?width=200&height=200) | - | EMB |
 
 ## Eventuales
 
