@@ -688,7 +688,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Red Pat Bolivia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cubavisión TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | CDN 37 República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Telemicro República Dominicana | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| Telemicro República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Color Visión República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | HCH Honduras | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | ABC TV Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
