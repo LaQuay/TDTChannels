@@ -704,7 +704,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | CNN Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | SBT Interior Brasil | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Record News Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Rede Massa Brasil | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Rede Massa Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Trinidad and Tobago Television | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | - |
 
 ## Int. Asia
