@@ -753,6 +753,7 @@
 | Spektra FM | [stream](https://stm2.emiteonline.com:9008/spektrafm#.mp3) | [web](https://www.spektrafm.es) | [logo](https://pbs.twimg.com/profile_images/1481295109090168838/EIFYjVaz_200x200.jpg) | - | - |
 | Código FM | [stream](https://cloudstream2030.conectarhosting.com/8024/;) | [web](https://www.codigofm.com/escuchanos/) | [logo](https://graph.facebook.com/codigofmradio/picture?width=200&height=200) | - | - |
 | LEO Radio Benidorm | [stream](https://stream.netservers.ovh:8443/leoradiofm.ogg) | [web](https://leoradiofm.com/es) | [logo](https://graph.facebook.com/LeoRadiofm/picture?width=200&height=200) | - | - |
+| Paterna Ahora | [stream](https://server8.emitironline.com:18242/stream) | [web](https://www.paternaahora.com/radio/) | [logo](https://graph.facebook.com/PaternaAhoraweb/picture?width=200&height=200) | - | - |
 | Plaza Radio | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://plazaradio.es/onair) | [logo](https://pbs.twimg.com/profile_images/1438771594952839170/aBOGp4Rl_200x200.jpg) | - | - |
 | Radio Ibi | [mp3](https://streaming.enacast.com:8000/radioibiSD.mp3) | [web](https://www.radioibi.com) | [logo](https://pbs.twimg.com/profile_images/524879648971165696/0R6A-gKg_200x200.jpeg) | - | - |
 | 99.9 Valencia Radio | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://www.la999.es) | [logo](https://graph.facebook.com/999VlcRadio/picture?width=200&height=200) | - | - |
