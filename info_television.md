@@ -237,6 +237,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | PTV Sevilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Carmona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Diez TV Andújar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV Las Villas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV Úbeda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
