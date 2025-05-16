@@ -4,7 +4,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 1 | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1688877.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8) - [m3u8 # 3](https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8)| [web](https://www.rtve.es/play/videos/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg) | La1.TV | GEO |
+| La 1 | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1688877.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8) - [m3u8 # 3](https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8)| [web](https://www.rtve.es/play/videos/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg) | La1.TV | GEO |
 | La 2 | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1688885.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8) - [m3u8 # 3](https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8)| [web](https://www.rtve.es/play/videos/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | GEO |
 | Antena 3 | - | [web](https://www.atresplayer.com/directos/antena3/) | [logo](https://graph.facebook.com/antena3/picture?width=200&height=200) | Antena3.TV | EXTA,GEO |
 | Cuatro | -| [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | EXTA,GEO |
