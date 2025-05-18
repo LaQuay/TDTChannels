@@ -521,7 +521,7 @@
 | Radio La Mina | [stream](http://cervera.eldialdigital.com:11121/stream) | [web](https://radiolamina.blogspot.com) | [logo](https://graph.facebook.com/RadiolaMina/picture?width=200&height=200) | - | - |
 | Ràdio Olot | [stream](https://chrome2021.frilab.com:8443/olot) | [web](https://www.radiolot.cat) | [logo](https://graph.facebook.com/Radiolot/picture?width=200&height=200) | - | - |
 | Imagina Ràdio | [mp3](https://relay.stream.enacast-cloud.com:30286/imaginaradioHD.mp3) | [web](https://www.imaginaradio.cat/directe/) | [logo](https://graph.facebook.com/ImaginaRadio103/picture?width=200&height=200) | - | - |
-| Ràdio Sabadell | [stream](https://online.radiosabadell.fm/proxy/stream5?mp=/stream) | [web](https://radiosabadell.fm) | [logo](https://graph.facebook.com/RadioSabadell/picture?width=200&height=200) | - | - |
+| Ràdio Sabadell | [stream](https://streamer.radio.co/s39e9c768a/listen) | [web](https://radiosabadell.fm) | [logo](https://graph.facebook.com/RadioSabadell/picture?width=200&height=200) | - | - |
 | RCE Cultura i Esport | [mp3](https://c688s1.kapitalproductions.net/listen/rce/radio.mp3) | [web](https://rce.cat) | [logo](https://graph.facebook.com/rce106.9fm/picture?width=200&height=200) | - | - |
 | Canal Blau Ràdio | [stream](https://enacast.com/canalblau/streams/HD) - [mp3](https://streaming.enacast.com/canalblau128.mp3) | [web](https://podcast.canalblau.cat) | [logo](https://graph.facebook.com/CanalBlau/picture?width=200&height=200) | - | - |
 | Ràdio El Vendrell | [stream](https://enacast.com/rtvelvendrell/streams/HD) - [mp3](https://streaming.enacast.com/rtvelvendrell128.mp3) | [web](https://www.rtvelvendrell.cat/directes/radio/) | [logo](https://graph.facebook.com/rtvelvendrell/picture?width=200&height=200) | - | - |
