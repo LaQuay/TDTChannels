@@ -130,10 +130,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTVE Cuéntame | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Somos Cine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE La promesa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE La Revuelta | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Conciertos Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Late Xou | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Talent | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Concursos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Eurovisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mitele Comedia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
