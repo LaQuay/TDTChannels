@@ -564,7 +564,7 @@
 | Ràdio Sitges | [stream](https://s2.radio.co/s8e5dffe5e/listen) | [web](https://www.radiositges.com) | [logo](https://graph.facebook.com/radiositges/picture?width=200&height=200) | - | - |
 | Ràdio Montornès | [stream](https://cast4.my-control-panel.com/proxy/rmonto/stream) | [web](https://radio.montornes.cat/radios/directe) | [logo](https://graph.facebook.com/radiomontornes/picture?width=200&height=200) | - | - |
 | Ràdio Ripoll | [stream](https://eu1.lhdserver.es:3065/stream) | [web](https://www.corisacat.cat/radio-ripoll-3/) | [logo](https://graph.facebook.com/334511563914/picture?width=200&height=200) | - | - |
-| Ràdio Amèrica Barcelona | [stream](https://s3.radio.co/sf09831a0e/listen) | [web](https://www.rab.cat) | [logo](https://graph.facebook.com/RadioAmericaBarcelona/picture?width=200&height=200) | - | - |
+| Ràdio Amèrica Barcelona | [stream](https://s3.radio.co/sf09831a0e/listen) | [web](https://www.rab.cat) | [logo](https://pbs.twimg.com/profile_images/1931284389243072512/jCj4V37N_200x200.jpg) | - | - |
 | Ràdio Gràcia | [stream](https://enacast.com/radiogracia/streams/HD) - [mp3](https://streaming.enacast.com/radiograciaHD.mp3) | [web](https://enacast.com/radiogracia/) | [logo](https://graph.facebook.com/RadioGraciaBarcelona/picture?width=200&height=200) | - | - |
 | Una Cosa Ràdio | [stream](https://node-23.zeno.fm/v27tywkbwp8uv) | [web](https://www.unacosa.cat/radio-en-directe/) | [logo](https://pbs.twimg.com/profile_images/1317925182712041474/rNXMGU71_200x200.jpg) | - | - |
 | Gran Via Radio | [stream](https://servidor14-3.brlogic.com:7066/live) | [web](https://granviaradiofm.es/) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | - |
