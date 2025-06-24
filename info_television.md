@@ -117,28 +117,27 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | +24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | +tdp | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ¡HOLA! Play | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| flooxer | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Atresplayer Clásicos | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Atresplayer Comedia | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Atresplayer Mentes Inquietas | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Atresplayer Multicine | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| El Hormiguero | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| El club de la comedia | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Equipo de investigación | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Aquí no hay quién viva | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Física o química | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| RTVE Cuéntame | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Somos Cine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE La promesa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE La Revuelta | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Conciertos Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Late Xou | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Talent | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Eurovisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Mitele Comedia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Mitele Top Series | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| Aquí no hay quién viva (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Clásicos (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Comedia (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| El club de la comedia (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| El Hormiguero (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Física o química (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Flooxer (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Equipo de investigación (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Mentes Inquietas (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Multicine (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| Conciertos Radio 3 (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Concursos (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cuéntame (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La promesa (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La Revuelta (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Saber y ganar (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Somos Cine (RTVE)| ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Comedia (Mitele) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| En la calle (Mitele) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
+| Top Series (Mitele) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
+| Viajes (Mitele) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
 | Canal Quickie | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
