@@ -271,6 +271,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Mírame TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GranCanariaTV.com | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tenerife Plus+ TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
