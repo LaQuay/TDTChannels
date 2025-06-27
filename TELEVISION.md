@@ -365,6 +365,7 @@
 | TV Sabadell Vallès | [m3u8](https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8) | [web](https://tvsabadell-valles.cat/directe/) | [logo](https://graph.facebook.com/tvsabadellvalles/picture?width=200&height=200) | Xarxa_TV_Sabadell_Valles.TV | UAG,REFI1 |
 | Fitel Television | [m3u8](https://tv.mywifisocial.es/live.m3u8) | [web](https://fiteltelevision.com/directe/) | [logo](https://graph.facebook.com/FitelTelevision/picture?width=200&height=200) | - | - |
 | 22TV Televisió de Solsona | [stream](https://player.twitch.tv/?channel=22tv_celsona&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://22cabletv.wordpress.com/) | [logo](https://yt3.ggpht.com/ovQWWhA18AZmmjp34yMreDiMViVWDNDV4goBCru2tkA0_MClFvT-j63WIKKooNwotM9ZAlri=s200) | - | EMB |
+| 3CAT Les càmeres d'El Temps | [m3u8](https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8) | [web](https://www.3cat.cat/el-temps/cameres/) | [logo](https://graph.facebook.com/som3Cat/picture?width=200&height=200) | - | - |
 
 ### Ceuta
 
