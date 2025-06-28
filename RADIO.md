@@ -34,6 +34,7 @@
 | Loca FM | [stream](https://s3.we4stream.com:2020/stream/locafm) | [web](https://www.locafm.com/live/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | LocaFM.Radio | - |
 | MegaStar FM | [m3u8](https://megastar-cope.flumotion.com/playlist.m3u8) | [web](https://www.megastar.fm) | [logo](https://graph.facebook.com/MegaStarFM/picture?width=200&height=200) | MegaStar.Radio | - |
 | Radio María | [mp3](https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/;.mp3)) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | RadioMaria.Radio | - |
+| laSexta | [m3u8](https://audiotvlive.atresmedia.com/h264/live/lasexta/master.m3u8) | [web](https://www.lasexta.com/directo-escucha/) | [logo](https://graph.facebook.com/laSexta/picture?width=200&height=200) | LaSexta.Radio	 | - |
 
 ## Musicales
 
