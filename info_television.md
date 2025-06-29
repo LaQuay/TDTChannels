@@ -134,10 +134,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La Revuelta (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Saber y ganar (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Somos Cine (RTVE)| ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Comedia (Mitele) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| En la calle (Mitele) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
-| Top Series (Mitele) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
-| Viajes (Mitele) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
+| Comedia (Mediaset Infinity) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| En la calle (Mediaset Infinity) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
+| Top Series (Mediaset Infinity) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
+| Viajes (Mediaset Infinity) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
 | Canal Quickie | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
