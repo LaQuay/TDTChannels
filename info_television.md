@@ -388,7 +388,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Fitel Television | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 22TV Televisió de Solsona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| 3CAT Les càmeres d'El Temps  | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 3CAT Càmeres del temps | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Ceuta
 
