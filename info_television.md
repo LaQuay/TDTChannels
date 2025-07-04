@@ -594,12 +594,12 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Tagesschau24 Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sky News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GB News UK | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| RTP Internacional Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| RTP 1 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| RTP 2 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| RTP 3 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| RTP Madeira Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| RTP Açores Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
+| RTP Internacional Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| RTP 1 Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| RTP 2 Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| RTP 3 Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| RTP Madeira Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| RTP Açores Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | CNN Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Porto Canal Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
