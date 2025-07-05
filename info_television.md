@@ -186,7 +186,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 101TV Málaga | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Onda Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Huelva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Huelva TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8TV Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8TV Chiclana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 45 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
