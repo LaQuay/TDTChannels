@@ -467,7 +467,7 @@
 | Radio Aguilar FM | [stream](https://pr1cen101.emisionlocal.com/proxy/radioaguilar?mp=/stream) | [web](https://www.radioaguilar.com) | [logo](https://graph.facebook.com/213369399946/picture?width=200&height=200) | - | - |
 | Mortal FM | [stream](http://server2.20comunicacion.com:8044/stream) | [web](http://www.mortalfm.es/online) | [logo](https://graph.facebook.com/mortalfm/picture?width=200&height=200) | - | - |
 | FM Bierzo | [stream](https://streaming12.elitecomunicacion.es/proxy/bierzofm/stream) | [web](https://www.fmbierzo.com) | [logo](https://graph.facebook.com/FMBierzoOFICIAL/picture?width=200&height=200) | - | - |
-| Radio Briviesca | [stream](https://topradio.uno/proxy/radiobriviesca/stream) | [web](https://www.radiobriviesca.com/radio-briviesca-online/) | [logo](https://graph.facebook.com/RadioBriviesca/picture?width=200&height=200) | - | - |
+| Radio Briviesca | [stream](https://topradio.uno/proxy/radiobriviesca/stream) | [web](https://radiobriviesca.com.es/en-directo/) | [logo](https://graph.facebook.com/RadioBriviesca/picture?width=200&height=200) | - | - |
 | Radio Guardo | [stream](https://server10.emitironline.com:10654/radi) | [web](https://radioguardoamgu.org) | [logo](https://graph.facebook.com/RadioGuardo/picture?width=200&height=200) | - | - |
 | Anda Onda Lerma | [stream](https://topradio.uno:8006/stream) | [web](https://andaonda.es) | [logo](https://graph.facebook.com/andaondalerma/picture?width=200&height=200) | - | - |
 | Power FM Valladolid | [stream](https://streaming.powerfmvalladolid.com:4430/stream) | [web](https://powerfmvalladolid.com) | [logo](https://graph.facebook.com/PowerFmValladolid/picture?width=200&height=200) | - | - |
