@@ -552,7 +552,7 @@
 | Constantí Ràdio | [mp3](https://streaming.enacast.com/radioconstantiSD.mp3) | [web](https://www.constantiradio.cat) | [logo](https://graph.facebook.com/ConstantiRadio/picture?width=200&height=200) | - | - |
 | PròximaFM | [stream](http://91.187.93.115:8000/;stream/1) | [web](http://proximafm.cat) | [logo](https://graph.facebook.com/proximafm/picture?width=200&height=200) | - | - |
 | Ràdio Cunit | [mp3](https://streaming.enacast.com/radiocunitHD.mp3) | [web](https://radiocunit.cat) | [logo](https://graph.facebook.com/radiocunit/picture?width=200&height=200) | - | - |
-| Ripollet Radio | [stream](https://directe.ripolletradio.cat/live) | [web](https://www.ripolletradio.cat) | [logo](https://graph.facebook.com/RipolletRadio/picture?width=200&height=200) | - | - |
+| Ripollet Radio | [mp3](https://directe.ripolletradio.cat/live?mp3) | [web](https://ripolletradio.cat/en-directe/) | [logo](https://graph.facebook.com/RipolletRadio/picture?width=200&height=200) | - | - |
 | Ràdio Sant Pere i Sant Pau | [mp3](http://212.83.151.18:36686/;stream/1?1552499879263.mp3) | [web](https://www.radiospsp.com) | [logo](https://graph.facebook.com/Radio101.0/picture?width=200&height=200) | - | - |
 | Ràdio Vilamajor | [mp3](http://80.37.181.205:8000/;audio.mp3) | [web](https://www.radiovilamajor.cat) | [logo](https://graph.facebook.com/radio.vilamajor/picture?width=200&height=200) | - | - |
 | Ràdio Mollet | [stream](https://enacast.com/radiomollet/streams/HD) - [mp3](https://streaming.enacast.com/radiomollet128.mp3) -| [web](https://www.radiomollet.com) | [logo](https://graph.facebook.com/radiomollet963/picture?width=200&height=200) | - | - |
