@@ -366,7 +366,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal Blau | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | Necesita registro web en Xarxa+ |
 | Canal Taronja Central | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | TV L'Hospitalet | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| TV del Berguedà | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
+| TV del Berguedà | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | Necesita registro web en Xarxa+ |
 | RTV El Vendrell | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Canal Taronja Anoia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Cugat Mèdia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
