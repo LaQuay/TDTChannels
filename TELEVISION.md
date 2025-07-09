@@ -175,7 +175,7 @@
 | Condavisión | [m3u8](https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8) | [web](https://www.condavision.es) | [logo](https://graph.facebook.com/condavision/picture?width=200&height=200) | Condavision.TV | - |
 | CanalCosta | [m3u8](https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8) | [web](https://www.canalcostatv.es) | [logo](https://graph.facebook.com/canalcosta/picture?width=200&height=200) | CanalCosta.TV | - |
 | Uvitel TV | - | [web](https://uvitelonline.com/en-directo/) | [logo](https://graph.facebook.com/uviteltv/picture?width=200&height=200) | - | EXTA |
-| Interalmería TV | [m3u8](https://tv.interalmeria.tv/directo/live.m3u8) | [web](https://www.interalmeria.tv/directo/) | [logo](https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200) | InterAlmeria.TV | - |
+| Interalmería TV | [m3u8](https://interalmeria.tv/directo/live.m3u8) | [web](https://www.interalmeria.tv/directo/) | [logo](https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200) | InterAlmeria.TV | - |
 | Tuya La Janda TV | [m3u8](https://play.agenciastreaming.com:8081/tuyaespana/index.m3u8) | [web](https://tuyatv.com/directo/) | [logo](https://graph.facebook.com/tuyalajandatv/picture?width=200&height=200) | TuyaLaJanda.TV | - |
 | Más Jerez | [youtube](https://www.youtube.com/channel/UCOoSrqLzlo_S5yQK3OmFqWw/live) | [web](https://masjerez.com/programas-tv) | [logo](https://graph.facebook.com/masjerez/picture?width=200&height=200) | - | EMB |
 | TV Centro Andalucía | [m3u8](https://video0.rogohosting.com:19360/8050/8050.m3u8) | [web](https://tvcentroandalucia.com) | [logo](https://graph.facebook.com/TVCentroAndalucia/picture?width=200&height=200) | - | NONAV |
