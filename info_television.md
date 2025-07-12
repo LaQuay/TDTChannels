@@ -860,15 +860,16 @@ Estos canales emiten a ciertas horas del día, únicamente.
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
-| EWTN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV Diocesana Toledo España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Radio María España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Abadia de Montserrat España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Ecclesia COPE España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV Vida España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Solidaria TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTV Vida España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTV Diocesana Toledo España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cetelmon España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| EWTN | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ESNE | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | CBN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
