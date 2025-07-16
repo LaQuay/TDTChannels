@@ -400,7 +400,6 @@
 | Navarra TV | [stream](https://www.dailymotion.com/embed/video/x8dhap9?autoplay=1) | [web](https://www.navarratelevision.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | EMB,EXTB |
 | TeleRibera | [m3u8](https://video3.lhdserver.es/teleribera/live.m3u8) | [web](https://teleribera.com) | [logo](https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg) | - | - |
 | Parlamento de Navarra | [m3u8 # 1](https://broadcasting.parlamentodenavarra.es/live/canal1/playlist.m3u8?DVR) - [m3u8 # 2](https://broadcasting.parlamentodenavarra.es/live/canal2/playlist.m3u8?DVR) - [m3u8 # 3](https://broadcasting.parlamentodenavarra.es/live/canal3/playlist.m3u8?DVR) | [web](https://www.parlamentodenavarra.es) | [logo](https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg) | - | - |
-
 ### C. Valenciana
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
@@ -838,6 +837,7 @@
 | - | - | - | - | - | - |
 | Radio María España | [youtube](https://www.youtube.com/channel/UCbX1IDSwem3w0HfBP4F_BYw/live) | [web](https://radiomaria.es/directo/) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | - | EMB |
 | Abadia de Montserrat España | [youtube](https://www.youtube.com/channel/UCFrlaCzXVVlK_eiVNvYoezA/live) | [web](https://abadiamontserrat.cat/montserrat-tv/) | [logo](https://graph.facebook.com/AbadiaMontserrat/picture?width=200&height=200) | - | EMB |
+| Capilla de San Fermín | [youtube](https://www.youtube.com/channel/UCaP5Gf6VJwgs2ZmnGgWk4Yw/live) | [web](https://www.capillasanfermin.com/retransmisiones-online/) | [logo](https://graph.facebook.com/CapillaSanFermin/picture?width=200&height=200) | - | EMB |
 | Ecclesia COPE España | [m3u8](https://cope-religion-video.flumotion.com/playlist.m3u8) | [web](https://www.cope.es/religion) | [logo](https://graph.facebook.com/ecclesiacope/picture?width=200&height=200) | - | - |
 | Solidaria TV España | [m3u8](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](https://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | - | - |
 | RTV Vida España | [m3u8](https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/television/) | [logo](https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg) | - | - |
