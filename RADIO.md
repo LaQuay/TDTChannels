@@ -729,7 +729,7 @@
 | Dénia FM | [mp3](https://stream.serviciospararadios.es/listen/denia_fm/deniafm.mp3) | [web](https://marinaalta.es) | [logo](https://graph.facebook.com/deniafm92.5/picture?width=200&height=200) | - | - |
 | Torrevieja Radio | [stream](https://sonicpanel.globalstream.pro:10973/;) | [web](https://torreviejaradio.com) | [logo](https://graph.facebook.com/TorreviejaRadio107.1/picture?width=200&height=200) | - | - |
 | Alzira Ràdio | [mp3](https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3) | [web](https://alziraradio.com/alzira-radio-en-directe/) | [logo](https://graph.facebook.com/alziraradio/picture?width=200&height=200) | - | - |
-| Play Radio Valencia | [stream](https://playradiovalencia.es/stream/) | [web](https://playradiovalencia.es) | [logo](https://graph.facebook.com/Playradiovalencia/picture?width=200&height=200) | - | - |
+| Play Radio Valencia | [mp3](https://radio1.serviciosderadio.com/listen/playradio/web.mp3) | [web](https://playradiovalencia.es) | [logo](https://graph.facebook.com/Playradiovalencia/picture?width=200&height=200) | - | - |
 | La Jungla Radio Valencia | [stream](https://azurasttp.es/listen/wepappnew/webappnew.mp3) | [web](https://lajunglavalencia.com) | [logo](https://graph.facebook.com/lajunglaradiovlc/picture?width=200&height=200) | - | - |
 | Capital Radio Valencia | [m3u8](https://mdstrm.com/audio/67e287c809f9212593c3a7c5/live.m3u8) | [web](https://www.capitalradio.es/valencia) | [logo](https://pbs.twimg.com/profile_images/1256866004145242113/WZVY4CoE_200x200.jpg) | - | - |
 | Relax FM | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RELAX_FM.mp3) | [web](https://relaxfm.es) | [logo](https://pbs.twimg.com/profile_images/1629684463507570690/k6cWRSGU_200x200.jpg) | - | - |
