@@ -720,7 +720,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Medi1 TV Marruecos | [m3u8 # 1](https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR) - [m3u8 # 2](https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR) - [m3u8 # 3](https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?DVR) | [web](https://medi1tv.com) | [logo](https://graph.facebook.com/Medi1TV/picture?width=200&height=200) | - | - |
+| Medi1 TV Marruecos | [m3u8 # 1](https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?DVR) - [m3u8 # 2](https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR) | [web](https://medi1tv.com) | [logo](https://graph.facebook.com/Medi1TV/picture?width=200&height=200) | - | - |
 | SNRT Al Aoula Marruecos | [m3u8](https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8) | [web](https://snrtlive.ma/fr/al-aoula) | [logo](https://graph.facebook.com/AlAoulaTVMaroc/picture?width=200&height=200) | - | REFH |
 | SNRT Laayoune El Aaiún Marruecos | [m3u8](https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8) | [web](https://snrtlive.ma/fr/laayoune) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_lmtJVOIgmbIZIBq75f-RE14vGPXH6I5Ldx68nUeGioig=s200) | - | REFH |
 | SNRT Arryadia Marruecos | [m3u8](https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8) | [web](https://snrtlive.ma/fr/arryadia) | [logo](https://graph.facebook.com/ArryadiaTVMaroc/picture?width=200&height=200) | - | REFH |
