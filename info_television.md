@@ -696,7 +696,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | HCH Honduras | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | ABC TV Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LaTele Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Trece Paraguay | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Telefuturo Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Unicanal Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Noticias NPY Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
