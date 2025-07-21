@@ -652,7 +652,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Mexico Travel TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Estrella TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TELE 10 Nayarit Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Noticias Caracol Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Noticias Caracol Colombia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Teleantioquia Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Canal Capital Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telepacifico Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
