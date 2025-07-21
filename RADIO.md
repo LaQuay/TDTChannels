@@ -533,7 +533,6 @@
 | Mataró Ràdio | [mp3](https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3) | [web](https://mataroaudiovisual.cat/radio) | [logo](https://graph.facebook.com/mataroradiomunicipal/picture?width=200&height=200) | - | - |
 | Can Deu FM | [stream](https://radios.solumedia.com/6716/stream) | [web](http://candeufm.com) | [logo](http://candeufm.com/e107_images/custom/2021app.jpg) | - | - |
 | Cooltura FM | [mp3](https://server9.emitironline.com:19244/) | [web](https://coolturafm.com) | [logo](https://graph.facebook.com/coolturafm/picture?width=200&height=200) | - | - |
-| Radio Bronka | [ogg](http://stream.nonfqdn.net:8000/rbronka.ogg) | [web](http://radiobronka.info) | [logo](https://graph.facebook.com/RadioBronka/picture?width=200&height=200) | - | - |
 | Ràdio Silenci | [stream](https://enacast.com/radiosilenci/streams/HD) - [mp3](https://streaming.enacast.com/radiosilenci128.mp3) | [web](https://www.radiosilenci.cat) | [logo](https://graph.facebook.com/rsilenci/picture?width=200&height=200) | - | - |
 | Ràdio Vilafranca | [mp3](https://radio.rtvvilafranca.cat/rtvvilafranca.mp3) | [web](https://www.rtvvilafranca.cat/radio-vilafranca/radio-en-directe/) | [logo](https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200) | - | - |
 | Ona La Torre | [mp3](https://streaming.enacast.com/onalatorreSD.mp3) | [web](https://www.ona-latorre.cat) | [logo](https://graph.facebook.com/ona.latorre/picture?width=200&height=200) | - | - |
@@ -1002,7 +1001,6 @@
 | La Bomba Radio | [stream](https://stm2.emiteonline.com:9014/labomba) | [web](http://www.labombaradio.es) | [logo](https://play-lh.googleusercontent.com/RnnCJFfcSu-Ma6MSoLJ4hDT2qz9tNrzHz3AdOyFy-h5bjRb0oakVfVOMtPOn5F7tmA=w200) | - | - |
 | Radio Ujo | [stream](https://51551a56-d200-46f7-91c8-36c07a837e44.clouding.host:8000/radio) | [web](https://www.radioujo.com) | [logo](https://pbs.twimg.com/profile_images/822520464836849664/C124fpj__200x200.jpg) | - | - |
 | Radio QK | [mp3](http://212.231.231.169:8000/radioqk_master.mp3) | [web](https://www.radioqk.org) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=200&height=200) | - | - |
-| Radio San Martín | [mp3](http://78.129.252.13:37934/;.mp3) | [web](https://sanmartinradio.blogspot.com) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=200&height=200) | - | - |
 | Medea FM | [stream](https://eu1.lhdserver.es:3127/stream) | [web](https://medeafm.es/langreo/) | [logo](https://graph.facebook.com/radiomedeafm/picture?width=200&height=200) | - | - |
 | Xtrema FM | [stream](https://server1.radiocast.es/listen/xtrema_fm/xtremafm) | [web](https://www.xtremafm.es) | [logo](https://graph.facebook.com/xtremafm/picture?width=200&height=200) | - | - |
 | APQ Radio | [stream # 1](https://stm2.emiteonline.com:9012/apqradio) - [stream # 2](https://stm2.emiteonline.com:9013/apqradio2) | [web](https://www.apqradio.es) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | - |
