@@ -53,6 +53,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| 324 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Euronews | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El País | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -97,6 +98,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | Boing | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Kidz | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| SX3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña. Emisión eventual, comparte señal con 33 |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Disney Channel | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -334,15 +336,13 @@ Estos canales emiten a ciertas horas del día, únicamente.
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
-| TV3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| 324 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 33 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España. Emisión eventual, comparte señal con SX3 |
-| SX3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España. Emisión eventual, comparte señal con 33 |
-| 3CAT Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| 3CAT Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| 3CAT Exclusiu 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| 3CAT Joc de Cartes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| 3CAT Plats bruts | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| TV3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña |
+| 33 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña. Emisión eventual, comparte señal con SX3 |
+| 3CAT Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña |
+| 3CAT Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña |
+| 3CAT Exclusiu 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña |
+| 3CAT Joc de Cartes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 3CAT Plats bruts | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 1 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
