@@ -404,15 +404,15 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | - | - | - | - | - | - | - | - |
 | Telemadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
 | LaOtra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
-| Webcam OndaMadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleganés | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Red | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Distrito TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Déjate de Historias TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Telesur Madrid | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
-| C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| EsTuTele | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| OndaMadrid Webcam | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 TV Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Red | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| EsTuTele | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| iPROtv | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LIRA TV | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | - |
 | Asamblea de Madrid | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
