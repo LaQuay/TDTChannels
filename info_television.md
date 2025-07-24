@@ -104,11 +104,14 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Cartoon Network Latino | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| LEGO Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Nickelodeon | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Bluey | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| ZAZ TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| What a Toon TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| LEGO Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Masha y el Oso | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ## Eventuales
 
