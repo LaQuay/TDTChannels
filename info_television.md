@@ -84,6 +84,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | AS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | Emisión diaria entre las 21 - 23h |
+| Kings League | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | A1 Padel 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | OKLIGA TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -164,16 +165,16 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Auronplay | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TheGrefg | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Rubius | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Illojuan | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Juansguarnizo | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Elxokas | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Alexby11 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| IamCristinini | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| biyin | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| LOLITOFDEZ | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Shadoune666 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Kings League | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Gerard Romero | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Illojuan | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Elxokas | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Guanyar | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| IamCristinini | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| biyin_ | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Mixwell | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Juansguarnizo | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Knekro | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| LOLITOFDEZ | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ## Autonómicos
 
