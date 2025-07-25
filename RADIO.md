@@ -13,11 +13,13 @@
 | Radio 5 RNE | [m3u8](https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-5/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | RNE5.Radio | - |
 | RAC1 | [mp3 # 1](https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3) - [mp3 # 2](https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3) | [web](https://www.rac1.cat) | [logo](https://graph.facebook.com/rac1oficial/picture?width=200&height=200) | RAC1.Radio | - |
 | Catalunya Ràdio | [m3u8](https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/catalunya-radio/) | [logo](https://graph.facebook.com/catradio/picture?width=200&height=200) | CATRadio.Radio | - |
+| Onda Madrid | [m3u8 # 101.3 FM](https://tvradio-1-23-secure2.akamaized.net/master.m3u8) - [m3u8 # 106 FM](https://ondamadrid-1-23-secure2.akamaized.net/master.m3u8) | [web](https://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.Radio | - |
 | Canal Sur Radio | [mp3](https://rtva-live-radio.flumotion.com/rtva/csr.mp3) | [web](https://www.canalsurmas.es/videos/19988-canal-sur-radio) | [logo](https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200) | CanalSur.Radio | - |
 | Radio Euskadi | [m3u8](https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8) | [web](https://www.eitb.eus/es/radio/radio-euskadi/radio-online/) | [logo](https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200) | RadioEuskadi.Radio | - |
 | Radio Galega | [m3u8](https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8) | [web](https://agalegaaudio.gal/videos/120144-radio-galega) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | RadioGalega.Radio | - |
+| RPA | [m3u8](https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/index.m3u8) | [web](https://rtpa.es/radio) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | - | - |
 | RTVCE | [m3u8](https://5924d3ad0efcf.streamlock.net/ceutaradio/ceutaradiolive/playlist.m3u8) | [web](https://www.rtvce.es/seccion/radio/) | [logo](https://graph.facebook.com/RTVCE/picture?width=200&height=200) | - | - |
-| Radio María | [mp3](https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/;.mp3)) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | RadioMaria.Radio | - |
+| Radio María | [mp3](https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/;.mp3) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | RadioMaria.Radio | - |
 
 ## Musicales
 
@@ -589,7 +591,6 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Onda Madrid | [m3u8 # 101.3 FM](https://tvradio-1-23-secure2.akamaized.net/master.m3u8) - [m3u8 # 106 FM](https://ondamadrid-1-23-secure2.akamaized.net/master.m3u8) | [web](https://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.Radio | - |
 | Radio Nacional Madrid | [stream](https://dispatcher.rndfnk.com/crtve/rne1/mad/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_mad-live/3893534/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Madrid | [stream](https://dispatcher.rndfnk.com/crtve/rne5/mad/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_mad-live/3894730/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | SER Henares | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HENARES.mp3) | [web](https://cadenaser.com/ser-henares/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Henares.Radio | - |
@@ -972,7 +973,6 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| RPA | [m3u8](https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/index.m3u8) | [web](https://rtpa.es/radio) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | - | - |
 | Radio Nacional Asturias | [stream](https://dispatcher.rndfnk.com/crtve/rne1/ast/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_ast-live/3893526/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Asturias | [stream](https://dispatcher.rndfnk.com/crtve/rne5/ast/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_ast/3894742/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | Radio Marca Asturias | [mp3](https://streaming.enacast.com/radiomarcaasturiasHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
