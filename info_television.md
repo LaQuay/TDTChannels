@@ -349,6 +349,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | La 1 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Ràdio 4 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión eventual |
 | Bon Dia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Parlament | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | betevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |

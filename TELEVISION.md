@@ -130,7 +130,6 @@
 | Senado | [m3u8](https://senadolive.akamaized.net/hls/live/2006589/punto7/master.m3u8) | [web](https://www.senado.es/web/actividadparlamentaria/actualidad/senadoendirecto/index.html) | [logo](https://pbs.twimg.com/profile_images/1915674659594420224/qKUnga8L_200x200.jpg) | - | - |
 | Radio Nacional | [m3u8](https://ztnr.rtve.es/ztnr/6982891.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.TV | - |
 | Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/6982918.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | RNE_Radio3.TV | - |
-| Ràdio 4 | [m3u8](https://ztnr.rtve.es/ztnr/6982935.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/Radio4RNE/picture?width=200&height=200) | RNE_Radio4.TV | - |
 | Onda Cero | [m3u8](https://atres-live.ondacero.es/h264/live/obs/master.m3u8) | [web](https://www.ondacero.es) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | COPE | [m3u8](https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8) | [web](https://www.cope.es/directos/video) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 
@@ -326,6 +325,7 @@
 | La 1 Catalunya | [m3u8 # 1](https://ztnr.rtve.es/ztnr/3293681.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-catalunya/) | [logo](https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg) | La1_CAT.TV | - |
 | La 2 Catalunya | [m3u8 # 1](https://ztnr.rtve.es/ztnr/3987218.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-catalunya/la-2-cat/) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200) | La2_CAT.TV | - |
 | 24h Catalunya | [m3u8](https://ztnr.rtve.es/ztnr/4952053.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-catalunya/24h-cat/) | [logo](https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg) | 24H_CAT | - |
+| Ràdio 4 | [m3u8](https://ztnr.rtve.es/ztnr/6982935.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/Radio4RNE/picture?width=200&height=200) | RNE_Radio4.TV | - |
 | Bon Dia TV | [m3u8](https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8) | [web](https://www.3cat.cat/bondiatv/) | [logo](https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png) | BonDiaTV_CAT.TV | - |
 | Canal Parlament | - | [web](https://parlament.cat/ext/f?p=700:1) | [logo](https://graph.facebook.com/parlamentcat/picture?width=200&height=200) | - | - |
 | betevé | [m3u8](https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0) | [web](https://beteve.cat/en-directe/) | [logo](https://graph.facebook.com/betevecat/picture?width=200&height=200) | BTV.TV | - |
