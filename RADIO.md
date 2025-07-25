@@ -771,7 +771,7 @@
 | Onda Azul Torrevieja | [mp3](https://usa3.lhdserver.es:8199/stream?type=.mp3) | [web](https://www.ondaazultorrevieja.es) | [logo](https://pbs.twimg.com/profile_images/691063766784577536/3-ftz8tQ_200x200.jpg) | - | - |
 | Radio Onda 15 Castalla | [mp3](https://azc.standfy.com/radio/8200/onda15) | [web](https://www.onda15.com) | [logo](https://graph.facebook.com/radiocastalla/picture?width=200&height=200) | - | - |
 | Cassette FM | [mp3](https://cdn4.onstream.audio:9154/cassettefm.mp3) | [web](https://cassettefm.es) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png) | - | - |
-| Radio 90FM | [stream](https://node-33.zeno.fm/015h6n8vfzzuv) | [web](https://radio90fmvalencia.wixsite.com/90fm) | [logo](https://static.wixstatic.com/media/f5b851_67e1cadb04a642e2a353a636264ca548~mv2.png) | - | - |
+| Radio 90FM | [stream](https://stream.radio90.fm:2002/web) | [web](https://www.radio90.fm) | [logo](https://static.wixstatic.com/media/f5b851_67e1cadb04a642e2a353a636264ca548~mv2.png) | - | - |
 | Radio Malibú | [mp3](https://cdn4.onstream.audio:9158/maliburadio.mp3) | [web](https://www.radiomalibu.es) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
 | Litoral FM | [mp3](https://stream.mediasector.es/radio/8310/litoralfm.mp3) | [web](https://radiolitoral.com) | [logo](https://graph.facebook.com/Laradiolitoral/picture?width=200&height=200) | - | - |
 | Litoral Oro | [mp3](https://stream.mediasector.es/listen/litoral_oro/litoral-oro.mp3) | [web](https://radiolitoral.com/emisoras/litoral-oro) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2024/11/06182836/Logo-Litoral-ORO-200x200.jpg) | - | - |
