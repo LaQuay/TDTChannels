@@ -222,7 +222,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TeleQuivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Torremolinos TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Telemotril | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -251,7 +251,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | PTV Almería | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MIRA TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Cofradias 24h | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Onda Cádiz 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Parlamento de Andalucía TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Aragón
