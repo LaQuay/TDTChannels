@@ -308,11 +308,11 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Visión 6 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Imás TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CanalImagen Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Alcarria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudad Real TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Alcarria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Mancha Centro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TeleToledo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 2000 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| TeleToledo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Gobierno de Castilla-La Mancha | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 
 ### Castilla y León
