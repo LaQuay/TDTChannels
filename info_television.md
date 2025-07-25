@@ -59,7 +59,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Libertad Digital TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Negocios TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Negocios TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Confidencial | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Deportivos
@@ -221,7 +221,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TeleQuivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Linares | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Torremolinos TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Torremolinos TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemotril | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -659,7 +659,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Noticias Caracol Colombia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Teleantioquia Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Canal Capital Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Telepacifico Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Telepacifico Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Telecaribe Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Canal TRO Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Citytv Colombia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -877,7 +877,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | ESNE | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | CBN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Enlace TV Costa Rica | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Enlace TV Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Emmanuel TV Nigeria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Redevida Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 3ABN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
