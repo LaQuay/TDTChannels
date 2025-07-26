@@ -489,6 +489,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TVG Mociñ@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Eventos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Mira Radio Galega | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Corenta anos da TVG | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleVigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemiño | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
