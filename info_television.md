@@ -26,14 +26,8 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | - | - | - | - | - | - | - | - |
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Antena 3 | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | Cuatro | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | Telecinco | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| laSexta | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Neox | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Nova | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Mega | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Atreseries | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | FDF | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | Energy | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | Divinity | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
@@ -98,7 +92,6 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | - | - | - | - | - | - | - | - |
 | Boing | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Kidz | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | SX3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña. Emisión eventual, comparte señal con 33 |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Disney Channel | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -123,16 +116,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | +24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | +tdp | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ¡HOLA! Play | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Aquí no hay quién viva (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Clásicos (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Comedia (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| El club de la comedia (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| El Hormiguero (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Física o química (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Flooxer (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Equipo de investigación (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Mentes Inquietas (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Multicine (Atresplayer) | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | Conciertos Radio 3 (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Concursos (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cuéntame (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
