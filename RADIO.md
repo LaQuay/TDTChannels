@@ -631,7 +631,7 @@
 | Radio Morata | [stream](https://cervera.eldialdigital.com:25141/stream) | [web](https://www.radiomorata.com) | [logo](https://graph.facebook.com/radiomorata/picture?width=200&height=200) | - | - |
 | Esencia Radio | [stream](https://stream.zeno.fm/apu4qxap0rquv) | [web](https://www.esenciaradio.com/endirecto/) | [logo](https://graph.facebook.com/esenciaradio/picture?width=200&height=200) | - | - |
 | Radio Villalba | [stream](https://srv7041.dns-lcinternet.com/8042/stream) | [web](https://www.colladovillalba.es/radio-villalba) | [logo](https://graph.facebook.com/radiovillalbafm/picture?width=200&height=200) | - | - |
-| Radio Libertad | [stream](https://server9.emitironline.com:19482/stream) | [web](https://radiolibertad.es/en-directo/) | [logo](https://pbs.twimg.com/profile_images/1862403237363556352/R_cCFfhV_200x200.jpg) | - | - |
+| Radio Libertad | [stream](https://radiolibertad.emitironline.com/) | [web](https://radiolibertad.es/en-directo/) | [logo](https://pbs.twimg.com/profile_images/1862403237363556352/R_cCFfhV_200x200.jpg) | - | - |
 | ECO Leganés | [stream](https://cervera.eldialdigital.com:25191/stream) | [web](https://ecoleganes.org) | [logo](https://graph.facebook.com/ecoleganes01/picture?width=200&height=200) | - | - |
 | REC Radio | [stream](https://server9.emitironline.com:19488/stream) | [web](https://www.recradio.es) | [logo](https://graph.facebook.com/RecRadioElCasar/picture?width=200&height=200) | - | - |
 | Globo FM | [mp3](https://sonic.sistemahost.es/8200/;.mp3) | [web](https://www.globofm.es) | [logo](https://pbs.twimg.com/profile_images/972013004484173824/BMLZEKXs_200x200.jpg) | - | - |
