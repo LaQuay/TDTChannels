@@ -473,7 +473,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TV Rioja | [m3u8 # 1](https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8) - [m3u8 # 2](https://5924d3ad0efcf.streamlock.net:443/riojatv2/riojatv2live/playlist.m3u8) | [web](https://www.tvr.es/directo-20210408161442-nt.html)  | [logo](https://graph.facebook.com/tvrtelevision/picture?width=200&height=200) | TVR.TV | - |
+| TV Rioja | [m3u8](https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8) | [web](https://www.tvr.es/directo-20210408161442-nt.html)  | [logo](https://graph.facebook.com/tvrtelevision/picture?width=200&height=200) | TVR.TV | UAG |
 | 7 La Rioja | [stream](https://www.dailymotion.com/embed/video/x8dhao1?autoplay=1) | [web](https://www.7rioja.tv/Directo) | [logo](https://graph.facebook.com/7riojatv/picture?width=200&height=200) | 7Rioja.TV | EMB,EXTB |
 | Parlamento de La Rioja | [m3u8](https://media.parlamento-larioja.org/live/parlarioja/playlist.m3u8) - [m3u8 # 2](https://media.parlamento-larioja.org/live/parlarioja_subtitulado/playlist.m3u8) | [web](https://mediateca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200) | - | - |
 | Cocina Familiar | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12108&live=1) | [web](https://cocina-familiar.com) | [logo](https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200) | - | - |
