@@ -749,7 +749,7 @@
 | Radio Sirena COPE Benidorm | [stream](https://str1.mediatelekom.net/proxy/radiosirena/stream) | [web](https://radiosirena.es/radio-sirena/) | [logo](https://graph.facebook.com/radiosirena/picture?width=200&height=200) | - | - |
 | Remember Radio | [stream](https://sm1.streamingmovil.com:2199/proxy/webrr?mp=/WEB) | [web](https://radioremember.es) | [logo](https://graph.facebook.com/rememberradiocs/picture?width=200&height=200) | - | - |
 | Spektra FM | [stream](https://stm2.emiteonline.com:9008/spektrafm#.mp3) | [web](https://www.spektrafm.es) | [logo](https://pbs.twimg.com/profile_images/1481295109090168838/EIFYjVaz_200x200.jpg) | - | - |
-| Código FM | [stream](https://cloudstream2030.conectarhosting.com/8024/;) | [web](https://www.codigofm.com/escuchanos/) | [logo](https://graph.facebook.com/codigofmradio/picture?width=200&height=200) | - | - |
+| Código FM | [stream](https://cloudstream2036.conectarhosting.com/8422/stream) | [web](https://www.codigofm.com/escuchanos/) | [logo](https://graph.facebook.com/codigofmradio/picture?width=200&height=200) | - | - |
 | LEO Radio Benidorm | [stream](https://stream.netservers.ovh:8443/leoradiofm.ogg) | [web](https://leoradiofm.com/es) | [logo](https://graph.facebook.com/LeoRadiofm/picture?width=200&height=200) | - | - |
 | Paterna Ahora | [stream](https://server8.emitironline.com:18242/stream) | [web](https://www.paternaahora.com/radio/) | [logo](https://graph.facebook.com/PaternaAhoraweb/picture?width=200&height=200) | - | - |
 | Plaza Radio | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://plazaradio.es/onair) | [logo](https://pbs.twimg.com/profile_images/1438771594952839170/aBOGp4Rl_200x200.jpg) | - | - |
