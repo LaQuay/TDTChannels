@@ -910,6 +910,7 @@
 | Radio Logroño | [stream](https://stream.zeno.fm/19buxw48djlvv) | [web](https://radiologrono.es) | [logo](https://graph.facebook.com/radiologrono/picture?width=200&height=200) | - | - |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.canalebro.com/radioonline/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
 | Onda Ocio | [stream](https://radio.ondaocio.es:8300/ondaocioweb) | [web](https://www.ondaocio.es) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | - |
+| Oja fm | [stream](https://sonic.sistemahost.es/8218/stream) | [web](https://ojafm.com/directo/) | [logo](https://graph.facebook.com/ojafm/picture?width=200&height=200) | - | - |
 
 ### Melilla
 
