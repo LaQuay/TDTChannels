@@ -577,9 +577,10 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | La7d Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | DW Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tagesschau24 Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ARD Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | WDR Westdeutschen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NDR Niedersachsen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| BR Bayerischer Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | HR Hessenschau Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | SR Saarland Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sky News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -799,7 +800,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Number1 FM Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Kronehit Austria | - | - | - | - | - | - | - |
 | 4FUN TV Polonia | - | - | - | - | - | - | - |
-| QMusic Holanda | - | - | - | - | - | - | - |
+| QMusic Países Bajos | - | - | - | - | - | - | - |
 | Ocko Chequia | - | - | - | - | - | - | - |
 | Ocko Star Chequia | - | - | - | - | - | - | - |
 | Ocko Expres Chequia | - | - | - | - | - | - | - |
