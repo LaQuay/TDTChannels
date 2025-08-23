@@ -576,10 +576,12 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | La7 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La7d Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | DW Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| WDR Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| NDR Niedersachsen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tagesschau24 Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| WDR Westdeutschen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NDR Niedersachsen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| HR Hessenschau Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| SR Saarland Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sky News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GB News UK | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | RTP Internacional Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
