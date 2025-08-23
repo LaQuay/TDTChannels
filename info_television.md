@@ -825,7 +825,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Muzzik Moba Serbia | - | - | - | - | - | - | - |
 | Muzzik Electro Serbia | - | - | - | - | - | - | - |
 | V2Beat TV | - | - | - | - | - | - | - |
-| Sonus FM Alemania | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | DanceStar TV | - | - | - | - | - | - | - |
 | Dance TV Estonia | - | - | - | - | - | - | - |
 | The K-POP Korea | - | - | - | - | - | - | - |
