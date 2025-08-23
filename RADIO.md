@@ -87,6 +87,7 @@
 | Sevilla FC Radio | [m3u8](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8) | [web](https://live.sevillafc.es) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | - | - |
 | Real Betis Radio | [mp3](https://comcast01-h-cloud.flumotion.com/betistv/radio1.mp3) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-radio) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | RadioBetis.Radio | - |
 | UD Almeria Radio | [stream](https://srv6022.dns-lcinternet.com:8002/livelq) | [web](https://www.udalmeriasad.com/radio) | [logo](https://graph.facebook.com/udalmeriasad/picture?width=200&height=200) | - | - |
+| Radio Osasuna | [stream](https://stream.radio.co/s2d5fcbba2/listen) | [web](https://www.osasuna.es/radio-osasuna) | [logo](https://graph.facebook.com/Osasuna/picture?width=200&height=200) | - | - |
 
 ## Infantiles
 
