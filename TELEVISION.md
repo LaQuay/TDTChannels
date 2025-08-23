@@ -750,6 +750,7 @@
 | Best Cable Sports Perú | - | [web](https://bestcableperu.com.pe/lima/enVivo/bestCableSport) | [logo](https://pbs.twimg.com/profile_images/1574548998999998464/IK17LZ5K_200x200.jpg) | - | EXTA |
 | MoreThanSports TV | [m3u8](https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8) | [web](https://morethansports.tv) | [logo](https://graph.facebook.com/mtssportstv/picture?width=200&height=200) | - | - |
 | Int. Table Soccer Federation | [m3u8](https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333) | [web](https://www.tablesoccer.org) | [logo](https://graph.facebook.com/ITSF.tablesoccer/picture?width=200&height=200) | - | - |
+| Bike Channel  | [m3u8 # IT](https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8) | [web](https://www.cadenaelite.es/elitelove/) | [logo](https://graph.facebook.com/bikechannelofficial/picture?width=200&height=200) | - | - |
 
 ## Musicales
 
