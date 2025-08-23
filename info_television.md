@@ -772,7 +772,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Meridiano Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Stadium USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| MsMotor TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Best Cable Sports Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | MoreThanSports TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Int. Table Soccer Federation | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
