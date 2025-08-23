@@ -776,6 +776,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Best Cable Sports Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | MoreThanSports TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Int. Table Soccer Federation | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Bike Channel | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Musicales
 
