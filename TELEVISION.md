@@ -746,8 +746,6 @@
 | Meridiano Venezuela | [youtube](https://www.youtube.com/channel/UCcYfZbinuodyF8rVkl4u7Lw/live) | [web](https://meridiano.net/meridianotv.html) | [logo](https://graph.facebook.com/Meridiano.Dearmas/picture?width=200&height=200) | - | EMB |
 | Stadium USA | [m3u8 # EN](https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8) | [web](https://watchstadium.com/live/) | [logo](https://pbs.twimg.com/profile_images/1912970794524610560/M1vEMVlm_200x200.jpg) | - | - |
 | Garage TV Argentina | [m3u8](https://stream1.sersat.com/hls/garagetv.m3u8) | [web](https://elgarage.com) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
-| MsMotor TV | - | [web](https://www.msmotor.tv) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | EXTA |
-| Best Cable Sports Perú | - | [web](https://bestcableperu.com.pe/lima/enVivo/bestCableSport) | [logo](https://pbs.twimg.com/profile_images/1574548998999998464/IK17LZ5K_200x200.jpg) | - | EXTA |
 | MoreThanSports TV | [m3u8](https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8) | [web](https://morethansports.tv) | [logo](https://graph.facebook.com/mtssportstv/picture?width=200&height=200) | - | - |
 | Int. Table Soccer Federation | [m3u8](https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333) | [web](https://www.tablesoccer.org) | [logo](https://graph.facebook.com/ITSF.tablesoccer/picture?width=200&height=200) | - | - |
 
