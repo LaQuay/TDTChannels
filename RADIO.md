@@ -339,7 +339,7 @@
 | MIX FM Radio | [stream](https://server10.emitironline.com:8064/stream) | [web](https://www.mixfm-radio.com) | [logo](https://yt3.ggpht.com/ytc/AKedOLQaktY1_Rv_MrWTve_Lj8JyaB9EektpPVByC6G0=s200-c-k-c0x00ffffff-no-rj) | - | - |
 | La Mueve | [mp3](https://sunaer-stream.com:7113/LA_MUEVE_CADENA_HD) | [web](https://lamueve.com/radio-online/) | [logo](https://graph.facebook.com/lamueveradio/picture?width=200&height=200) | - | - |
 | 9 Radio | [stream](https://app.sonicpanelradio.com/8072/stream) | [web](https://9radio.es) | [logo](https://graph.facebook.com/9radiocanarias/picture?width=200&height=200) | - | - |
-| Radio Teide | [stream](https://c01.lexycast.de:5070/.mp3) | [web](https://www.radioteide.eu) | [logo](https://graph.facebook.com/RadioTeide/picture?width=200&height=200) | - | - |
+| Radio 6 Tenerife | [stream](https://ns6.emisionlocal.com/proxy/radio6?mp=/stream) | [web](https://www.radio6tenerife.com/) | [logo](https://graph.facebook.com/radio6tenerife/picture?width=200&height=200) | - | - |
 | Radio Marca Lanzarote | [m3u8](https://5c0956165db0b.streamlock.net/radio/marca.stream_aac/playlist.m3u8) | [web](https://lancelot.es/radio.php) | [logo](https://graph.facebook.com/RadioMarcaLanzarote/picture?width=200&height=200) | - | - |
 
 ### Cantabria
