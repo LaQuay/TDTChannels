@@ -504,6 +504,7 @@
 | Urola TV | [m3u8](https://5940924978228.streamlock.net/j_Directo2/j_Directo2/playlist.m3u8) | [web](https://www.urolatelebista.com) | [logo](https://graph.facebook.com/urolatelebista/picture?width=200&height=200) | - | - |
 | STZ Telebista | [m3u8](https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8) | [web](https://stztelebista.com) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
 | Eusko Legebiltzarra | [m3u8 # 1](https://bideoak.legebiltzarra.eus/zuzenean/stream-3_channel-1/playlist.m3u8) - [m3u8 # 2](https://bideoak.legebiltzarra.eus/zuzenean/stream-3_channel-2/playlist.m3u8) | [web](https://www.legebiltzarra.eus) | [logo](https://graph.facebook.com/legebiltzarra/picture?width=200&height=200) | - | - |
+| Ayuntamiento de Bilbao | [m3u8](https://media.bilbao.eus:1935/live/live.stream/playlist.m3u8) | [web](https://www.bilbao.eus/cs/Satellite?idDirecto=1279243225743&tipoDirecto=BIO_IBConvocatoria_FA&c=Page&cid=1272995550954&language=es&pageid=1272995550954&pagename=Bilbaonet%2FPage%2FBIO_StreamingVideos) | [logo](https://graph.facebook.com/bilbaoudala/picture?width=200&height=200) | - | - |
 
 ### P. de Asturias
 
