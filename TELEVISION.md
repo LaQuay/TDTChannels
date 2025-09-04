@@ -566,7 +566,7 @@
 | RTP Açores Portugal | - | [web](https://www.rtp.pt/play/direto/rtpacores) | [logo](https://graph.facebook.com/rtpacores/picture?width=200&height=200) | - | - |
 | CNN Portugal | - | [web](https://cnnportugal.iol.pt/direto) | [logo](https://graph.facebook.com/cnnportugal/picture?width=200&height=200) | - | EXTA |
 | Porto Canal Portugal | - | [web](https://portocanal.sapo.pt/live) | [logo](https://graph.facebook.com/portocanal/picture?width=200&height=200) | - | EXTA |
-| LN24 Bélgica | [m3u8 # FR](https://live-ln24.digiteka.com/1911668011/index.m3u8) | [web](https://www.ln24.be/videos/2022/07/26/live-24x7-ln24-qssu8l3/) | [logo](https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200) | - | - |
+| BX1 Bélgica | [m3u8 # FR](https://59959724487e3.streamlock.net/stream/live/playlist.m3u8) | [web](https://bx1.be/lives/direct-tv/) | [logo](https://graph.facebook.com/BX1officiel/picture?width=200&height=200) | - | - |
 | Digi24 Rumanía | [m3u8 # RO](https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8) | [web](https://www.digi24.ro/live/digi24) | [logo](https://graph.facebook.com/Digi24HD/picture?width=200&height=200) | - | - |
 | TVP Polonia | [stream](https://polonia.tvp.pl/sess/TVPlayer2/embed.php?ID=51251441) | [web](https://polonia.tvp.pl/44562671/tvp-polonia-stream) | [logo](https://graph.facebook.com/tvppolonia/picture?width=200&height=200) | - | EMB |
 | RTÉ News Irlanda | [stream # EN](https://www.rte.ie/embed/?channel=RTENewsNow) | [web](https://www.rte.ie/news/player/) | [logo](https://graph.facebook.com/rtenews/picture?width=200&height=200) | - | EMB |
