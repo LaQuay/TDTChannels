@@ -857,6 +857,7 @@
 | Radio Líder | [stream](https://server9.emitironline.com:8200/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | Metro FM Ferrol | [mp3](https://mediastreamm.com/8216/;.mp3) | [web](https://metrofmferrol.com/) | [logo](https://www.tvferrol.es/es/recursos/patrocinadores_2/MccbkxMU.png) | - | - |
 | Net Galicia Radio | [stream](https://sonicpanel.streaming10.net/8140/stream) | [web](https://www.netgaliciaradio.es) | [logo](https://www.netgaliciaradio.es/wp-content/uploads/2022/09/logo.png) | - | - |
+| Radio Betanzos | [stream](https://sp.oyotunstream.com/8038/stream) | [web](https://radiobetanzos.com/) | [logo](https://play-lh.googleusercontent.com/14_1b-ZFxIFXSDpakeBQdU7H0sG9jTWeYAcl8zK9LIFYRf0-grKMBcfeVdNeckOD_H9GGTizyYxmxGwpvQ52SGE=w200-h200) | - | - |
 
 ### Illes Balears
 
