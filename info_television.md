@@ -594,7 +594,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | RTP Açores Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | CNN Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Porto Canal Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| BX1 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Digi24 Rumanía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVP Polonia | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | RTÉ News Irlanda | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
