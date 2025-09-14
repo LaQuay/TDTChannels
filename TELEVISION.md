@@ -728,7 +728,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | ABC News Australia | [m3u8 # EN](https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8) | [web](https://iview.abc.net.au/video/NS1413V001S00) | [logo](https://graph.facebook.com/abcnews.au/picture?width=200&height=200) | - | - |
-| United Nations TV | - | [web](https://media.un.org/en/webtv/) | [logo](https://graph.facebook.com/unitednations/picture?width=200&height=200) | - | EXTA |
+| United Nations TV | - | [web](https://webtv.un.org/en) | [logo](https://graph.facebook.com/unitednations/picture?width=200&height=200) | - | EXTA |
 | Bloomberg Quicktake | [m3u8 # EN](https://www.bloomberg.com/media-manifest/streams/qt.m3u8) | [web](https://www.bloomberg.com/qt/live) | [logo](https://yt3.ggpht.com/fTP5oS376nZhVbS55-OocogCJCDH4UXIyRrirF6keIya4AN4I54TmLkFnnjvE4FRq5UMv8BO=s200) | - | - |
 | Tastemade | [m3u8](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8) - [m3u8 # EN](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeinternationalenglish24i-ono/playlist.m3u8) | [web](https://watch.tastemade.com/live-tv) | [logo](https://graph.facebook.com/TastemadeEs/picture?width=200&height=200) | - | - |
 | Fashion TV | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457&live=1) | [web](https://www.fashiontv.com/watch/18717158?entity_id=312066) | [logo](https://graph.facebook.com/FTV/picture?width=200&height=200) | - | - |
@@ -817,7 +817,7 @@
 | VM Latino Costa Rica | [m3u8](https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8) | [web](https://vmlatino.com/en-vivo/) | [logo](https://graph.facebook.com/vmlatinocr/picture?width=200&height=200) | - | - |
 | Venus Media Paraguay | [m3u8](https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8) | [web](https://www.venus.com.py/envivo) | [logo](https://pbs.twimg.com/profile_images/1962584716537671680/19TGYVeA_200x200.jpg) | - | - |
 | Top Latino TV Perú | - | [web](https://toplatino.net/tv/) | [logo](https://graph.facebook.com/toplatinotv/picture?width=200&height=200) | - | EXTA |
-| La Mega Mundial USA | [m3u8](https://server40.servistreaming.com:3477/stream/play.m3u8) | [web](https://www.lamegamundial.com) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200) | - | EXTA |
+| La Mega Mundial USA | [m3u8](https://server40.servistreaming.com:3477/stream/play.m3u8) | [web](https://www.lamegamundial.com) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200) | - | - |
 | 30A Music USA | [m3u8 # EN](https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8) | [web](https://30a-tv.com/30a/30a-tv-music-channel/) | [logo](https://graph.facebook.com/30atv/picture?width=200&height=200) | - | - |
 | Ditty TV USA | [m3u8 # EN](https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8) | [web](https://dittytv.com/watch/) | [logo](https://graph.facebook.com/DittyTV/picture?width=200&height=200) | - | - |
 | RadioU TV USA | [m3u8 # EN](https://1826200335.rsc.cdn77.org/1826200335/index.m3u8) | [web](https://radiou.com/tv/) | [logo](https://graph.facebook.com/RadioU/picture?width=200&height=200) | - | REF,NONAV |
