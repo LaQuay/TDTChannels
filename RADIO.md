@@ -766,7 +766,7 @@
 | Costa FM Alicante | [mp3](https://stream.costafm.es/listen/costafm/radio.mp3) | [web](https://www.costafm.es) | [logo](https://graph.facebook.com/costafm/picture?width=200&height=200) | - | - |
 | Onda Azul Torrevieja | [mp3](https://usa3.lhdserver.es:8199/stream?type=.mp3) | [web](https://www.ondaazultorrevieja.es) | [logo](https://pbs.twimg.com/profile_images/691063766784577536/3-ftz8tQ_200x200.jpg) | - | - |
 | Radio Onda 15 Castalla | [mp3](https://azc.standfy.com/radio/8200/onda15) | [web](https://www.onda15.com) | [logo](https://graph.facebook.com/radiocastalla/picture?width=200&height=200) | - | - |
-| Cassette FM | [mp3](https://stream.emisorasmusicales.net/listen/cassete_fm/cassettefm.mp3) | [web](https://cassettefm.es) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png) | - | - |
+| Cassette FM | [mp3](https://stream.costafm.es/listen/cassettefm/radio.mp3) | [web](https://cassettefm.es) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png) | - | - |
 | Radio 90FM | [stream](https://stream.radio90.fm:2002/web) | [web](https://www.radio90.fm) | [logo](https://pbs.twimg.com/profile_images/1502655409575890945/iDYjAczK_200x200.jpg) | - | - |
 | Radio Malibú | [mp3](https://stream.emisorasmusicales.net/listen/malibu-radio/malibu-radio.mp3) | [web](https://www.radiomalibu.es) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
 | Litoral FM | [mp3](https://stream.emisorasmusicales.net/radio/8310/litoralfm.mp3) | [web](https://radiolitoral.com) | [logo](https://graph.facebook.com/Laradiolitoral/picture?width=200&height=200) | - | - |
