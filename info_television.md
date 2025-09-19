@@ -48,7 +48,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | - | - | - | - | - | - | - | - |
 | 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Euronews | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 324 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 3CAT Info | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El País | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
