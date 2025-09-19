@@ -466,7 +466,7 @@
 | Miranda FM | [stream](https://srv7031.dns-lcinternet.com/8058/stream) | [web](https://www.mirandafm.es/radio.html) | [logo](https://graph.facebook.com/1416829051928207/picture?width=200&height=200) | - | - |
 | Vive! Radio | [stream](https://streaming.viveradio.es/viveburgos) | [web](https://www.viveradio.es/viveBurgos) | [logo](https://graph.facebook.com/158974217473244/picture?width=200&height=200) | - | - |
 | Radio Aguilar FM | [stream](https://pr1cen101.emisionlocal.com/proxy/radioaguilar?mp=/stream) | [web](https://www.radioaguilar.com) | [logo](https://graph.facebook.com/213369399946/picture?width=200&height=200) | - | - |
-| Mortal FM | [stream](http://server2.20comunicacion.com:8044/stream) | [web](http://www.mortalfm.es/online) | [logo](https://graph.facebook.com/mortalfm/picture?width=200&height=200) | - | - |
+| Mortal FM | [aac](http://server2.20comunicacion.com:8044/stream.aac) | [web](http://www.mortalfm.es/online) | [logo](https://graph.facebook.com/mortalfm/picture?width=200&height=200) | - | - |
 | FM Bierzo | [stream](https://streaming12.elitecomunicacion.es/proxy/bierzofm/stream) | [web](https://www.fmbierzo.com) | [logo](https://graph.facebook.com/FMBierzoOFICIAL/picture?width=200&height=200) | - | - |
 | Radio Briviesca | [stream](https://topradio.uno/proxy/radiobriviesca/stream) | [web](https://radiobriviesca.com.es/en-directo/) | [logo](https://graph.facebook.com/RadioBriviesca/picture?width=200&height=200) | - | - |
 | Radio Guardo | [stream](https://server10.emitironline.com:10654/radi) | [web](https://radioguardoamgu.org) | [logo](https://graph.facebook.com/RadioGuardo/picture?width=200&height=200) | - | - |
