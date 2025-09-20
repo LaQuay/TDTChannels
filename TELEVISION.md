@@ -254,6 +254,7 @@
 | De Laredu Lin TV | [m3u8](https://eu1.servers10.com:8081/8034/index.m3u8) | [web](https://delaredulintv.com/video/tv-online/) | [logo](https://graph.facebook.com/delaredulintv/picture?width=200&height=200) | - | NONAV |
 | Popular TV Cantabria | [m3u8](https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](https://populartvcantabria.com/en-directo/) | [logo](https://graph.facebook.com/populartvcantabria/picture?width=200&height=200) | PopularTV_S.TV | - |
 | Tevecan 9 | [m3u8](https://streamlov.alsolnet.com/jarbhouse/live/playlist.m3u8) | [web](https://closeradio.tv/jarbhouse/) | [logo](https://static.wixstatic.com/media/4d3432_610170cea6c747a986bbea4137f5c15f~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/mosca%20logo%209_transparente.png) | - | - |
+| Saja Nansa TV | [m3u8](https://streamlov.alsolnet.com/sajanansatv/live/playlist.m3u8) | [web](https://www.ondaoccidental.es/sajanansatv/) | [logo](https://graph.facebook.com/ondaoccidental/picture?width=200&height=200) | - | - |
 | Parlamento de Cantabria | [youtube](https://www.youtube.com/channel/UCn3GTIMs_v8p2s4vVBG_8PA/live) | [web](https://parlamento-cantabria.es) | [logo](https://graph.facebook.com/parlamentodecantabria/picture?width=200&height=200) | - | EMB |
 
 ### Castilla-La Mancha
