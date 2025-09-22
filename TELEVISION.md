@@ -211,6 +211,7 @@
 | PTV Almería | [m3u8](https://streamer.zapitv.com/ptv_almeria/index.m3u8) | [web](https://ptvtelecom.com/canales/almeria.html) | [logo](https://pbs.twimg.com/profile_images/1612490465005142019/AU1R7Q6q_200x200.jpg) | - | UAGB |
 | Cofradias 24h | [youtube](https://www.youtube.com/channel/UCv5WgSisSDgI90g8-E5rU7Q/live) | [web](https://www.youtube.com/@LIBETELTV) | [logo](https://yt3.ggpht.com/eM_41EMbfLT9omch7MIGSlwg71gjSrsrPpS7TuBlFjYXLrC5pIIx8zx9SJ0q2Gvf2Gj3nblYFAw=s200) | - | EMB |
 | Parlamento de Andalucía | [m3u8 # 1](https://stream1.parlamentodeandalucia.es/realizacion1/realizacion1/playlist.m3u8) - [m3u8 # 2](https://stream2.parlamentodeandalucia.es/realizacion2/realizacion2/playlist.m3u8) - [m3u8 # 3](https://stream2.parlamentodeandalucia.es/realizacion3/realizacion3/playlist.m3u8) - [m3u8 # 4](https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8) | [web](https://www.parlamentodeandalucia.es/stream/canal4.html) | [logo](https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200) | - | - |
+| Junta de Andalucía | [youtube](https://www.youtube.com/channel/UCTuxa7i4GXpGSsXC_N3s0KQ/live) | [web](https://www.juntadeandalucia.es/) | [logo](https://graph.facebook.com/AndaluciaJunta/picture?width=200&height=200) | - | EMB |
 
 ### Aragón
 
@@ -222,6 +223,7 @@
 | Canal 25 Barbastro TV | [m3u8](https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8) | [web](https://www.canal25tv.es/index.php/ct-menu-item-5) | [logo](https://graph.facebook.com/tvbarbastro/picture?width=200&height=200) | - | - |
 | Antena Aragón | [youtube](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/live) | [web](https://diarioaragones.com) | [logo](https://yt3.ggpht.com/ytc/AL5GRJWC1oJVC1hgcGBN1OHnroVVoe_pcgLvGJWvOA8aGQ=s200) | - | EMB |
 | Cortes de Aragón | [youtube](https://www.youtube.com/channel/UCyBXbc0UicHRPJLmHppjpgQ/live) | [web](https://www.cortesaragon.es) | [logo](https://graph.facebook.com/@cortesdearagon/picture?width=200&height=200) | - | EMB |
+| Gobierno de Aragón | [youtube](https://www.youtube.com/channel/UCEIuOP1ex5JjB4JhtJ4Sbjg/live) | [web](https://www.aragon.es/) | [logo](https://graph.facebook.com/GobAragon/picture?width=200&height=200) | - | EMB |
 
 ### Canarias
 
@@ -244,6 +246,7 @@
 | Factoría de Carnaval | [m3u8](https://eu1.servers10.com:8081/8116/index.m3u8) | [web](https://multicarnaval.com) | [logo](https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_200x200.jpg) | - | - |
 | Afortunadas TV | [m3u8](https://cloudvideo.servers10.com:8081/8108/index.m3u8) | [web](https://www.afortunadastv.com) | [logo](https://graph.facebook.com/afortunadastv/picture?width=200&height=200) | - | - |
 | Parlamento de Canarias | [youtube](https://www.youtube.com/channel/UCv7xnuWoLWJNEXNWIGkP19g/live) | [web](https://www.parcan.es) | [logo](https://graph.facebook.com/parlamentodecanarias/picture?width=200&height=200) | - | EMB |
+| Gobierno de Canarias | [youtube](https://www.youtube.com/channel/UCOfVTY15POTQM37WNlHRCgQ/live) | [web](https://www.gobiernodecanarias.org/presidencia/) | [logo](https://graph.facebook.com/PRES.Gobcan/picture?width=200&height=200) | - | EMB |
 
 ### Cantabria
 
@@ -256,6 +259,7 @@
 | Tevecan 9 | [m3u8](https://streamlov.alsolnet.com/jarbhouse/live/playlist.m3u8) | [web](https://closeradio.tv/jarbhouse/) | [logo](https://static.wixstatic.com/media/4d3432_610170cea6c747a986bbea4137f5c15f~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/mosca%20logo%209_transparente.png) | - | - |
 | Saja Nansa TV | [m3u8](https://streamlov.alsolnet.com/sajanansatv/live/playlist.m3u8) | [web](https://www.ondaoccidental.es/sajanansatv/) | [logo](https://graph.facebook.com/ondaoccidental/picture?width=200&height=200) | - | - |
 | Parlamento de Cantabria | [youtube](https://www.youtube.com/channel/UCn3GTIMs_v8p2s4vVBG_8PA/live) | [web](https://parlamento-cantabria.es) | [logo](https://graph.facebook.com/parlamentodecantabria/picture?width=200&height=200) | - | EMB |
+| Gobierno de Cantabria | [youtube](https://www.youtube.com/channel/UCyzBoaIJN13fi2b4yDKes5A/live) | [web](https://www.cantabria.es/) | [logo](https://graph.facebook.com/gobcantabria/picture?width=200&height=200) | - | EMB |
 
 ### Castilla-La Mancha
 
