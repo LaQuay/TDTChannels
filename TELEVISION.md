@@ -277,6 +277,7 @@
 | Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8) | [web](https://villarrobledonoticias.com/canal-4-mancha/) | [logo](https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200) | - | UAG |
 | Canal 2000 | [m3u8](http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8) | [web](http://www.canal2000.com) | [logo](https://graph.facebook.com/canal2000/picture?width=200&height=200) | - | NONAV |
 | TeleToledo | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12688&live=1) | [web](https://www.teletoledo.es) | [logo](https://graph.facebook.com/Teletoledo/picture?width=200&height=200) | - | - |
+| Cortes de Castilla-La Mancha | [youtube](https://www.youtube.com/channel/UCnv_UB9qXkE8YWpDOp6_p2g/live) | [web](https://www.cortesclm.es) | [logo](https://graph.facebook.com/cortesclm/picture?width=200&height=200) | - | EMB |
 | Gobierno de Castilla-La Mancha | - | [web](https://www.castillalamancha.es/actualidad/emision-en-directo) | [logo](https://graph.facebook.com/juntadecastillalamancha/picture?width=200&height=200) | - | EXTA |
 
 ### Castilla y León
