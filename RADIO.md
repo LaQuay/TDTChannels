@@ -1000,7 +1000,6 @@
 | La Mega FM Asturias | [mp3](https://broadcast.radioponiente.org:8032/;.mp3) | [web](https://www.lamegafmasturias.com) | [logo](https://play-lh.googleusercontent.com/c_sl-yRJP4jzCPQjkLe0xFWuGj6Xe6JaoShibnsuV98KnDkM7Ao54DsLD_1orN2eyDbC=w200) | - | - |
 | Guateque FM | [stream](https://eu1.lhdserver.es:3219/stream) | [web](https://guatequefm.com) | [logo](https://play-lh.googleusercontent.com/29cOsGnQ8A3a-FJ1EkqBDVrMCIMWcQBORIWcmygreM9fNjU5C3Pci0CNDYDrv1NPPPD1=w200-h200) | - | - |
 | Radio Líder Asturias | [stream](https://server8.emitironline.com:18462/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
-| Vinx FM | [stream](https://server1.radiocast.es/listen/vinxfm/low) | [web](https://vinxfm.es/) | [logo](https://pbs.twimg.com/profile_images/1888012730822430721/_hz7OMLm_200x200.jpg) | - | - |
 | La Cheverisima Radio | [stream](https://samuel.i-radio.co:9000/lacheverisima) | [web](https://lacheverisimaradio.com) | [logo](https://play-lh.googleusercontent.com/paqCGWhxPmfQOzkssgQHBiAW60j3zi04Hq9K2UWM_oddr-X-ZriB6OK-K0Xr8lmP4A=w200) | - | - |
 
 ### R. de Murcia
