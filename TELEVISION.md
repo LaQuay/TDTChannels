@@ -424,6 +424,7 @@
 | Une Vinalopó | [m3u8](https://streamingtvi.gestec-video.com/hls/unesd.m3u8) | [web](https://www.unevinalopo.es/directo/) | [logo](https://graph.facebook.com/UneVinalopo/picture?width=200&height=200) | - | NONAV |
 | Enguera TV | [stream](https://player.twitch.tv/?channel=engueratv&parent=play.tdtchannels.com) | [web](https://www.enguera.es/content/enguera-tv) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJWP8ahafBlFAbCsP3tT17ooK6arGKNmcx6VES4o=s200) | - | EMB |
 | 33TV Valencia | [m3u8](https://limited43.todostreaming.es/live/simbana-livestream.m3u8) | [web](https://karyganet.com/33-tv/) | [logo](https://karyganet.com/wp-content/uploads/tv-33.jpg) | - | - |
+| Radio90TV | [m3u8](https://stream.radio90.fm:2052/live.m3u8) | [web](https://www.radio90.fm/radio90tv/#/?playlistId=0&videoId=0) | [logo](https://play-lh.googleusercontent.com/tI9xcOQtFpZcwd_s15t-ffNDbQhYMe_8-qpULUAhTNSnCenVnrf6UqvNo-hAPXVjQA=w200-h200-rw) | - | - |
 | Corts Valencianes | [m3u8](https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8) | [web](https://mediateca.cortsvalencianes.es/library/lives/) | [logo](https://graph.facebook.com/cortsval/picture?width=200&height=200) | - | - |
 
 ### Extremadura
