@@ -18,6 +18,9 @@
 | Radio Euskadi | [m3u8](https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8) | [web](https://www.eitb.eus/es/radio/radio-euskadi/radio-online/) | [logo](https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200) | RadioEuskadi.Radio | - |
 | Radio Galega | [m3u8](https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8) | [web](https://agalegaaudio.gal/videos/120144-radio-galega) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | RadioGalega.Radio | - |
 | Radio María | [mp3](https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/;.mp3) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | RadioMaria.Radio | - |
+| RadioMv Spanish | [m3u8](https://stream.radiomv.com/spanish.m3u8) - [aac](https://stream.radiomv.com/spanish.aac) - [mp3](https://stream.radiomv.com/spanish.mp3) | [web](https://es.radiomv.com/about-us/) | [logo](https://assets.radiomv.studio/logo-light-mode.png) | - | - |
+| RadioMv Spanish Old Testament | [m3u8](https://stream.radiomv.com/spanish-ot.m3u8) - [aac](https://stream.radiomv.com/spanish-ot.aac) - [mp3](https://stream.radiomv.com/spanish-ot.mp3) | [web](https://es.radiomv.com/about-us/) | [logo](https://assets.radiomv.studio/logo-light-mode.png) | - | - |
+| RadioMv Spanish New Testament | [m3u8](https://stream.radiomv.com/spanish-nt.m3u8) - [aac](https://stream.radiomv.com/spanish-nt.aac) - [mp3](https://stream.radiomv.com/spanish-nt.mp3) | [web](https://es.radiomv.com/about-us/) | [logo](https://assets.radiomv.studio/logo-light-mode.png) | - | - |
 
 ## Musicales
 
