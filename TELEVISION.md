@@ -224,6 +224,7 @@
 | Canal 25 Barbastro TV | [m3u8](https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8) | [web](https://www.canal25tv.es/index.php/ct-menu-item-5) | [logo](https://graph.facebook.com/tvbarbastro/picture?width=200&height=200) | - | - |
 | Antena Aragón | [youtube](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/live) | [web](https://diarioaragones.com) | [logo](https://yt3.ggpht.com/ytc/AL5GRJWC1oJVC1hgcGBN1OHnroVVoe_pcgLvGJWvOA8aGQ=s200) | - | EMB |
 | Cortes de Aragón | [youtube](https://www.youtube.com/channel/UCyBXbc0UicHRPJLmHppjpgQ/live) | [web](https://www.cortesaragon.es) | [logo](https://graph.facebook.com/@cortesdearagon/picture?width=200&height=200) | - | EMB |
+| Ayuntamiento de Zaragoza | [m3u8](https://54229a3554e4b.streamlock.net/live/zaragozatv4908/playlist.m3u8) | [web](https://www.zaragoza.es/sede/portal/organizacion/plenos/directo) | [logo](https://graph.facebook.com/ayuntamientodezaragoza/picture?width=200&height=200) | - | - |
 
 ### Canarias
 
