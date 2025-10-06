@@ -81,7 +81,6 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | Emisión diaria entre las 21 - 23h |
 | Kings League | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| A1 Padel 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | OKLIGA TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | FedHielo TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Mundo Náutica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
