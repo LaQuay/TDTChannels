@@ -573,7 +573,7 @@
 | 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
 | amb2FM | [stream](https://frilab.wlan.cat/amb2fm) | [web](https://www.amb2fm.cat) | [logo](https://pbs.twimg.com/profile_images/1245054974628892673/tjBDH_-q_200x200.jpg) | - | - |
 | 7deRàdio | [stream](https://stream.7deradio.cat/proxy/7deradio/stream) | [web](https://7deradio.cat) | [logo](https://graph.facebook.com/7deradio/picture?width=200&height=200) | - | - |
-| Taronja ràdio | [stream](https://radio.martiproduccions.com/taronjagirona) | [web](https://www.radiocapital.cat/taronja) | [logo](https://www.radiocapital.cat/wp-content/uploads/2025/01/Taronja-radio-1920X1080.jpg) | - | - |
+| Taronja ràdio | [stream](https://radio.martiproduccions.com/taronjagirona) | [web](https://www.radiocapital.cat/taronja) | [logo](https://graph.facebook.com/taronja.cat/picture?width=200&height=200) | - | - |
 | MDT Radio Barcelona | [stream](https://streams1.mdtradio.com:8443/MdtBarcelonaEstudio) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/MDTradioBarcelona/picture?width=200&height=200) | - | - |
 
 ### Ceuta
