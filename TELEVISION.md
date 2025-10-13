@@ -691,7 +691,7 @@
 | Nicavisión TV Nicaragua | - | [web](http://www.canal12.com.ni/en-vivo) | [logo](https://graph.facebook.com/200823376627607/picture?width=200&height=200) | - | EXTA |
 | WTV Nicaragua | [m3u8](https://cloudvideo.servers10.com:8081/8130/index.m3u8) | [web](https://wtvnicaragua.com/player/tv-player.html) | [logo](https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200) | - | - |
 | TeleDiario Costa Rica | [m3u8](https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8) | [web](https://www.telediario.cr/television) | [logo](https://graph.facebook.com/MultimediosCR/picture?width=200&height=200) | - | - |
-| Trece Costa Rica | [stream](https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1) | [web](https://costaricamedios.cr/envivo) | [logo](https://yt3.ggpht.com/ytc/AMLnZu9k8cMAf0m3UXLYXyfrvzKd3nmOuIYOc5k4ZGOWnA=s200) | - | EMB,EXTB |
+| Trece Costa Rica | [stream](https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1) | [web](https://costaricamedios.cr/envivo) | [logo](https://graph.facebook.com/canaltrececr/picture?width=200&height=200) | - | EMB,EXTB |
 | WIPR Puerto Rico | [m3u8](https://streamwipr.pr/hls/stream/index.m3u8) | [web](https://wipr.pr) | [logo](https://graph.facebook.com/wiprtv/picture?width=200&height=200) | - | - |
 | CNN Brasil | [youtube](https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live) | [web](https://www.cnnbrasil.com.br/ao-vivo) | [logo](https://graph.facebook.com/cnnbrasil/picture?width=200&height=200) | - | EMB |
 | SBT Interior Brasil | - | [web](https://sbtinterior.com/aovivo/) | [logo](https://graph.facebook.com/sbtnointerior/picture?width=200&height=200) | - | EXTA |
