@@ -838,7 +838,7 @@
 | LoFi Hip-Hop Beats Music | [youtube](https://www.youtube.com/@steezyasfvck/live) | [web](https://stzzzy.com) | [logo](https://pbs.twimg.com/profile_images/1155872804786466817/z1k1zxIi_200x200.jpg) | - | - |
 | Beautiful Piano Music | [youtube](https://www.youtube.com/live/2OM7adQl-YQ/live) | [web](https://soothingrelaxation.com) | [logo](https://graph.facebook.com/SoothingRelaxation/picture?width=200&height=200) | - | - |
 | VM Latino Costa Rica | [m3u8](https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8) | [web](https://vmlatino.com/en-vivo/) | [logo](https://graph.facebook.com/vmlatinocr/picture?width=200&height=200) | - | - |
-| Venus Media Paraguay | [m3u8](https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8) | [web](https://www.venus.com.py/envivo) | [logo](https://pbs.twimg.com/profile_images/1966112431907688448/baEVDeYo_200x200.jpg) | - | - |
+| Venus Media Paraguay | [m3u8](https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8) | [web](https://www.venus.com.py/envivo) | [logo](https://pbs.twimg.com/profile_images/1973360901953589248/QoyrDURv_200x200.jpg) | - | - |
 | Top Latino TV Perú | - | [web](https://toplatino.net/tv/) | [logo](https://graph.facebook.com/toplatinotv/picture?width=200&height=200) | - | EXTA |
 | La Mega Mundial USA | [m3u8](https://server40.servistreaming.com:3477/stream/play.m3u8) | [web](https://www.lamegamundial.com) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200) | - | - |
 | 30A Music USA | [m3u8 # EN](https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8) | [web](https://30a-tv.com/30a/30a-tv-music-channel/) | [logo](https://graph.facebook.com/30atv/picture?width=200&height=200) | - | - |
