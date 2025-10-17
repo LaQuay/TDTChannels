@@ -586,6 +586,7 @@
 | SER Ceuta | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CEUTA.mp3) | [web](https://cadenaser.com/radio-ceuta/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Ceuta.Radio | - |
 | COPE Ceuta | [stream](https://stream.copeceuta.es/) | [web](https://copeceuta.es/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Ceuta | [m3u8](https://atres-live.ondacero.es/live/delegaciones/oc/ceuta/master.m3u8) | [web](https://www.ondacero.es/emisoras/ceuta/ceuta/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Ceuta.Radio | - |
+| Onda Color FM | [stream](https://streaming12.elitecomunicacion.es:8212/stream) | [web](https://ondacolor.es) | [logo](https://graph.facebook.com/ondacolor/picture?width=200&height=200) | - | - |
 
 ### C. de Madrid
 
@@ -1038,7 +1039,6 @@
 | Caravaca Radio | [stream](http://84.232.12.14:8000/caravacaradio) | [web](https://www.caravacaradio.com) | [logo](https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200) | - | - |
 | Inter Radio | [stream](https://sonic.mediatelekom.net/8460/stream) | [web](https://lainter.es) | [logo](https://graph.facebook.com/LaInter.es/picture?width=200&height=200) | - | - |
 | La Jungla Yecla | [stream](https://streaming12.elitecomunicacion.es:8204/stream) | [web](https://www.lajunglayecla.com/en-directo/) | [logo](https://graph.facebook.com/lajunglaradioyecla/picture?width=200&height=200) | - | - |
-| Onda Color FM | [stream](https://streaming12.elitecomunicacion.es:8212/stream) | [web](https://ondacolor.es) | [logo](https://graph.facebook.com/ondacolor/picture?width=200&height=200) | - | - |
 
 ## Internacionales
 
