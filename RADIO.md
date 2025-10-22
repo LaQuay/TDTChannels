@@ -1073,7 +1073,7 @@
 | LOS40 México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO.mp3) | [web](https://los40.com.mx) | [logo](https://graph.facebook.com/los40mexico/picture?width=200&height=200) | - | - |
 | Ke Buena FM México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA.mp3) | [web](https://www.kebuena.com.mx) | [logo](https://graph.facebook.com/kebuenamx/picture?width=200&height=200) | - | - |
 | EXA FM México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3) | [web](https://exafm.com) | [logo](https://graph.facebook.com/exafm/picture?width=200&height=200) | - | - |
-| Amor FM México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO.mp3) | [web](https://amorfm.mx) | [logo](https://graph.facebook.com/AMORFM.MX/picture?width=200&height=200) | - | - |
+| Amor FM México | [m3u8](https://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFMAAC.m3u8) | [web](https://amorfm.mx) | [logo](https://graph.facebook.com/AMORFM.MX/picture?width=200&height=200) | - | - |
 | Alfa 91.3 FM México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FM.mp3) | [web](https://alfaenlinea.com) | [logo](https://graph.facebook.com/Alfa913mx/picture?width=200&height=200) | - | - |
 | RPP Noticias Perú | [m3u8](https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8) | [web](https://rpp.pe/audio/) | [logo](https://graph.facebook.com/rppnoticias/picture?width=200&height=200) | - | - |
 | Radio La Zona Perú | [stream](https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio) | [web](https://audioplayer.pe/lazona) | [logo](https://graph.facebook.com/Radiolazona/picture?width=200&height=200) | - | - |
