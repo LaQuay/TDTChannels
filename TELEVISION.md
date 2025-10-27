@@ -106,6 +106,7 @@
 | Top Series (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-top-series/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Series.TV | EXTA |
 | Viajes (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-viajes/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Viajes.TV | EXTA |
 | Eventos (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/eventos/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Eventos.TV | EXTA |
+| Eventos 2 (Mediaset Infinity) | - | [web](https://www.mediasetinfinity.es/directo/eventos-2/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Eventos_2.TV | EXTA |
 | Uno de GH20 24h 1 - Gran Hermano (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/gh-24h-1/) | [logo](https://pbs.twimg.com/profile_images/1960061865922371584/t9uA0-Tu_200x200.jpg) | - | EXTA |
 | Uno de GH20 24h 2 - Gran Hermano (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/gh-24h-2/) | [logo](https://pbs.twimg.com/profile_images/1960061865922371584/t9uA0-Tu_200x200.jpg) | - | EXTA |
 | Canal Quickie | [stream](https://player.twitch.tv/?channel=canalquickie&parent=play.tdtchannels.com) - [youtube](https://www.youtube.com/channel/UCCuPIAKDI8wp-WD0wiFXa7g/live) | [web](https://linktr.ee/canalquickie) | [logo](https://pbs.twimg.com/profile_images/1838908963850481665/Cuhce_U0_200x200.jpg) | - | EMB |
