@@ -482,7 +482,7 @@
 | - | - | - | - | - | - |
 | IB3 Global | [youtube](https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live) | [web](https://ib3.org/directe) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | IB3.TV | EMB |
 | TEF | [m3u8](https://tef.servertv.online:3268/live/teflive.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](https://graph.facebook.com/TEFTV/picture?width=200&height=200) | - | NONAV |
-| Canal 4 TV Mallorca | [m3u8](https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8) | [web](https://www.grup4.com) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | - |
+| Canal 4 TV Mallorca | [m3u8](https://5caf24a595d94.streamlock.net:1937/8110/8110/playlist.m3u8) | [web](https://www.grup4.com) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | NONAV |
 | Fibwi Diario | [m3u8](https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8) | [web](https://www.fibwidiario.com/estaticas/fibwi-tv.html) | [logo](https://graph.facebook.com/Fibwidiario/picture?width=200&height=200) | - | - |
 | SAM Ibiza | [m3u8](https://hls1.eu.peppermindmedia.com/av:vod1/SAMibiza/index.fmp4.m3u8) | [web](https://listen.samibiza.com/video) | [logo](https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200) | - | - |
 | Parlament de les Illes Balears | [youtube](https://www.youtube.com/channel/UCpLm25L3R1VVOQDFiSCCmDA/live) | [web](https://www.parlamentib.es) | [logo](https://pbs.twimg.com/profile_images/1628713790303879168/hOxkqhuJ_200x200.jpg) | - | EMB |
