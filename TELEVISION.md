@@ -659,7 +659,7 @@
 | El Nueve Argentina | [stream](https://player.twitch.tv/?channel=elnueveok&parent=play.tdtchannels.com) | [web](https://www.elnueve.com.ar/en-vivo/) | [logo](https://graph.facebook.com/Canal9TV/picture?width=200&height=200) | - | EMB |
 | Exitosa Noticias Perú | [m3u8](https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.fmp4.m3u8) | [web](https://www.exitosanoticias.pe/tv/envivo) | [logo](https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200) | - | - |
 | Panamericana Perú | [stream](https://www.dailymotion.com/embed/video/x9rx50o?autoplay=1) | [web](https://panamericana.pe/tvenvivo/hd) | [logo](https://graph.facebook.com/panamericana.pe/picture?width=200&height=200) | - | EMB |
-| Willax Perú | [stream](https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1) | [web](https://willax.tv/en-vivo/) | [logo](https://graph.facebook.com/willaxtv/picture?width=200&height=200) | - | EMB |
+| Willax Perú | - | [web](https://willax.pe/en-vivo) | [logo](https://graph.facebook.com/willaxtv/picture?width=200&height=200) | - | EXTA |
 | TV Perú | [m3u8](https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8) | [web](https://www.tvperu.gob.pe/play) | [logo](https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200) | - | EXTA |
 | TV Perú Noticias | [m3u8](https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8) | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200) | - | EXTA |
 | Canal IPe Perú | [m3u8](https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8) | [web](https://www.canalipe.tv/streaming) | [logo](https://graph.facebook.com/canalipe/picture?width=200&height=200) | - | EXTA |
