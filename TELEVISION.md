@@ -672,7 +672,7 @@
 | La Tele Tuya Venezuela | [stream](https://www.dailymotion.com/embed/video/x8z1nnq?autoplay=1) | [web](https://teletuya.net/en-vivo/) | [logo](https://graph.facebook.com/TeleTuya/picture?width=200&height=200) | - | EMB |
 | Canal Antigua Guatemala | - | [web](https://canalantigua.tv/envivo/) | [logo](https://graph.facebook.com/canalantigua/picture?width=200&height=200) | - | EXTA |
 | 24h Chile | [youtube](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live) | [web](https://www.24horas.cl/envivo/) | [logo](https://graph.facebook.com/24horas.cl/picture?width=200&height=200) | - | EMB |
-| TELE13 Chile | [stream](https://rudo.video/live/t13?autostart=1) - [youtube](https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live) | [web](https://www.t13.cl/en-vivo) | [logo](https://graph.facebook.com/teletrece/picture?width=200&height=200) | - | EXTB,EMB |
+| TELE13 Chile | [stream](https://rudo.video/live/t13?autostart=1) - [youtube](https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live) | [web](https://www.t13.cl/en-vivo) | [logo](https://graph.facebook.com/teletrece/picture?width=200&height=200) | - | EMB |
 | Meganoticias Chile | [youtube](https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live) | [web](https://www.meganoticias.cl/senal-en-vivo/) | [logo](https://graph.facebook.com/meganoticiascl/picture?width=200&height=200) | - | EMB |
 | TeleAmazonas Ecuador | [youtube](https://www.youtube.com/channel/UCCwRtme3lumNRQXMO2EvCvw/live) | [web](https://www.teleamazonas.com/teleamazonas-en-vivo/) | [logo](https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200) | - | EMB |
 | Ecuador TV Ecuador | [m3u8](https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8) | [web](https://www.ecuadortv.ec) | [logo](https://pbs.twimg.com/profile_images/1962545090485784576/uXP9DhVk_200x200.jpg) | - | - |
@@ -685,10 +685,10 @@
 | CDN 37 República Dominicana | - | [web](https://cdn.com.do/envivo/) | [logo](https://graph.facebook.com/cdn.com.do/picture?width=200&height=200) | - | EXTA |
 | Telemicro República Dominicana | - | [web](https://telemicro.com.do/players/5bot/) | [logo](https://pbs.twimg.com/profile_images/1587264071346393089/-FeTL7C8_200x200.jpg) | - | EXTA |
 | Color Visión República Dominicana | [stream](https://www.dailymotion.com/embed/video/x7gy059?autoplay=1) | [web](https://colorvision.com.do/en-vivo/) | [logo](https://graph.facebook.com/colorvisionc9/picture?width=200&height=200) | - | EMB |
-| HCH Honduras | [stream](https://geo.dailymotion.com/player.html?video=x81za5c) | [web](https://hch.tv/live/) | [logo](https://pbs.twimg.com/profile_images/1571129300623015936/-HJCmEk3_200x200.jpg) | - | EMB,EXTB |
+| HCH Honduras | [stream](https://geo.dailymotion.com/player.html?video=x81za5c) | [web](https://hch.tv/live/) | [logo](https://pbs.twimg.com/profile_images/1571129300623015936/-HJCmEk3_200x200.jpg) | - | EMB |
 | ABC TV Paraguay | [m3u8](https://cdn.jwplayer.com/live/broadcast/aide2636.m3u8) | [web](https://www.abc.com.py/tv/) | [logo](https://graph.facebook.com/ABCTVpy/picture?width=200&height=200) | - | UAG |
 | LaTele Paraguay | - | [web](https://www.latele.com.py) | [logo](https://graph.facebook.com/LatelePy/picture?width=200&height=200) | - | EXTA |
-| Trece Paraguay | [stream](https://geo.dailymotion.com/player/x1at3a.html) | [web](https://trece.com.py) | [logo](https://graph.facebook.com/trecepy/picture?width=200&height=200) | - | EMB |
+| Trece Paraguay | [stream](https://geo.dailymotion.com/player.html?video=x1at3a) | [web](https://trece.com.py) | [logo](https://graph.facebook.com/trecepy/picture?width=200&height=200) | - | EMB |
 | Telefuturo Paraguay | - | [web](https://www.telefuturo.com.py/envivo) | [logo](https://graph.facebook.com/Telefuturo/picture?width=200&height=200) | - | EXTA |
 | Unicanal Paraguay | - | [web](https://unicanal.com.py) | [logo](https://graph.facebook.com/Unicanal/picture?width=200&height=200) | - | EXTA |
 | Noticias NPY Paraguay | - | [web](https://www.npy.com.py/en-vivo) | [logo](https://graph.facebook.com/npyoficial/picture?width=200&height=200) | - | EXTA |
