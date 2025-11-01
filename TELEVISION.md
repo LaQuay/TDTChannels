@@ -688,7 +688,6 @@
 | HCH Honduras | [stream](https://geo.dailymotion.com/player.html?video=x81za5c) | [web](https://hch.tv/live/) | [logo](https://pbs.twimg.com/profile_images/1571129300623015936/-HJCmEk3_200x200.jpg) | - | EMB |
 | ABC TV Paraguay | [m3u8](https://cdn.jwplayer.com/live/broadcast/aide2636.m3u8) | [web](https://www.abc.com.py/tv/) | [logo](https://graph.facebook.com/ABCTVpy/picture?width=200&height=200) | - | UAG |
 | LaTele Paraguay | - | [web](https://www.latele.com.py) | [logo](https://graph.facebook.com/LatelePy/picture?width=200&height=200) | - | EXTA |
-| Trece Paraguay | [stream](https://geo.dailymotion.com/player.html?video=x1at3a) | [web](https://trece.com.py) | [logo](https://graph.facebook.com/trecepy/picture?width=200&height=200) | - | EMB |
 | Telefuturo Paraguay | - | [web](https://www.telefuturo.com.py/envivo) | [logo](https://graph.facebook.com/Telefuturo/picture?width=200&height=200) | - | EXTA |
 | Unicanal Paraguay | - | [web](https://unicanal.com.py) | [logo](https://graph.facebook.com/Unicanal/picture?width=200&height=200) | - | EXTA |
 | Noticias NPY Paraguay | - | [web](https://www.npy.com.py/en-vivo) | [logo](https://graph.facebook.com/npyoficial/picture?width=200&height=200) | - | EXTA |
