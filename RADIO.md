@@ -1002,6 +1002,7 @@
 | Guateque FM | [stream](https://eu1.lhdserver.es:3219/stream) | [web](https://guatequefm.com) | [logo](https://play-lh.googleusercontent.com/29cOsGnQ8A3a-FJ1EkqBDVrMCIMWcQBORIWcmygreM9fNjU5C3Pci0CNDYDrv1NPPPD1=w200-h200) | - | - |
 | Radio Líder Asturias | [stream](https://server8.emitironline.com:18462/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | La Cheverisima Radio | [stream](https://samuel.i-radio.co:9000/lacheverisima) | [web](https://lacheverisimaradio.com) | [logo](https://play-lh.googleusercontent.com/paqCGWhxPmfQOzkssgQHBiAW60j3zi04Hq9K2UWM_oddr-X-ZriB6OK-K0Xr8lmP4A=w200) | - | - |
+| Loca FM Asturias | [stream](https://server1.easystreaming.pro:8443/locafmasturias) | [web](https://locafmasturias.com/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | LocaFM.Radio | - |
 
 ### R. de Murcia
 
