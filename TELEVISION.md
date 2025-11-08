@@ -64,7 +64,7 @@
 | OKLIGA TV | [youtube](https://www.youtube.com/channel/UC6RLLzXQJWy1yCAEysy1Wgw/live) | [web](https://okliga.tv) | [logo](https://yt3.ggpht.com/ytc/AKedOLRCpkRZNcBfZLGvM1SO_Qf77p_xtv6OnU26aa23Vw=s200) | - | EMB |
 | FedHielo TV | [youtube](https://www.youtube.com/channel/UCuys7LUNfFcwwToSG3yMocw/live) | [web](https://www.rfedh.es/fedhielo-tv/) | [logo](https://graph.facebook.com/fedhielo/picture?width=200&height=200) | - | EMB |
 | Mundo Náutica | [m3u8](https://mundonautica.tv/playout/segments/live.m3u8) | [web](https://mundonautica.tv) | [logo](https://graph.facebook.com/MundoNautica/picture?width=200&height=200) | - | - |
-| Futsalmafer.tv | [m3u8](https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8) | [web](https://canalsports.tv/directo-24-horas/) | [logo](https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200) | - | - |
+| Futsalmafer.tv | [m3u8](https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8) | [web](https://play.agenciastreaming.com:2020/public/futsalmafertv) | [logo](https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200) | - | - |
 
 ## Infantiles
 
