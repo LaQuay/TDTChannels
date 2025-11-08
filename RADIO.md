@@ -880,7 +880,7 @@
 | Loca FM Mallorca | [stream](https://radio.thebest.fm:8443/locafm-mal-web) | [web](https://www.locafmmallorca.com) | [logo](https://graph.facebook.com/locamallorcafm/picture?width=200&height=200) | - | - |
 | Das Inselradio | [stream](https://inselradiomallorca.do-not-publish.com/inselradiomallorca-live/mp3-128) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/DasInselradio/picture?width=200&height=200) | - | - |
 | Fibwi Radio | [stream](https://sound.gigaradius.eu/proxy/fibwiradio/stream) | [web](https://fibwiradio.com) | [logo](https://graph.facebook.com/GrupoFibwi/picture?width=200&height=200) | - | - |
-| Canal 4 Ràdio | [stream](https://stream.recasound.es/proxy/canal4radio/stream) | [web](https://grup4.com/) | [logo](https://pbs.twimg.com/profile_images/1171423029806551040/WudNlkcd_200x200.jpg) | - | - |
+| Canal 4 Ràdio | [stream](https://stream.recasound.es/proxy/canal4radio/stream) | [web](https://grup4.com) | [logo](https://pbs.twimg.com/profile_images/1171423029806551040/WudNlkcd_200x200.jpg) | - | - |
 | Radio OneMallorca | [stream](https://pegasus.nucast.co.uk:8004/stream) | [web](https://www.radioonemallorca.com) | [logo](https://graph.facebook.com/RadioOneMallorca/picture?width=200&height=200) | - | - |
 | Mallorca Sunshine Radio | [stream](https://mallorcasunshineradio.do-not-publish.com/mallorcasunshineradio-live/mp3-128) | [web](https://www.mallorcasunshineradio.com/player/) | [logo](https://graph.facebook.com/MallorcaSunshineRadio/picture?width=200&height=200) | - | - |
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=200&height=200) | - | - |
@@ -891,7 +891,7 @@
 | Formentera Radio | [stream](https://eu1.lhdserver.es:3153/stream) | [web](https://players.lhdserver.es/social/formentera/playersocial/index.html) | [logo](https://graph.facebook.com/FormenteraRadio/picture?width=200&height=200) | - | - |
 | SAM Ibiza | [m3u8](https://hls1.eu.peppermindmedia.com/samibiza/audio/playlist.m3u8) | [web](https://samibiza.com) | [logo](https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200) | - | - |
 | Pure Ibiza Radio | [mp3](https://pureibizaradio.streaming-pro.com:8028/stream.mp3) | [web](https://www.pureibizaradio.com) | [logo](https://graph.facebook.com/pureradio/picture?width=200&height=200) | - | - |
-| Radio Murta | [stream](https://stream.recasound.es/proxy/radiomurta/stream) | [web](https://grup4.com/) | [logo](https://static-media.streema.com/media/cache/c1/a3/c1a323d20e5cd83f4199fb3f23961f41.jpg) | - | - |
+| Radio Murta | [stream](https://stream.recasound.es/proxy/radiomurta/stream) | [web](https://grup4.com) | [logo](https://static-media.streema.com/media/cache/c1/a3/c1a323d20e5cd83f4199fb3f23961f41.jpg) | - | - |
 | Radio Es Castell | [stream](https://stream.recasound.es/proxy/escastell/stream) | [web](https://www.aj-escastell.org/Contingut.aspx?IDIOMA=2&IdPub=1614) | [logo](https://graph.facebook.com/ajescastell/picture?width=200&height=200) | - | - |
 | Ushuaia Radio | [stream](https://s4.radio.co/sc6f29e098/listen) | [web](https://ushuaia.radio) | [logo](https://ushuaia.radio/wp-content/uploads/2023/08/nuevo-logo-ushuaia-png-300x300.png) | - | - |
 | Kick!FM | [stream](https://icecast.kickfm.eu/mp3-high) | [web](https://www.kickfm.eu) | [logo](https://graph.facebook.com/kickfm/picture?width=200&height=200) | - | - |
