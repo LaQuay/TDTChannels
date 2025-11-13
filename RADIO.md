@@ -909,6 +909,7 @@
 | esRadio Arnedo | [stream](https://stream20.usastreams.com/8154/stream) | [web](https://www.radioarnedo.com) | [logo](https://graph.facebook.com/ondarioja.radioarnedo/picture?width=200&height=200) | - | - |
 | Radio Logroño | [stream](https://stream.zeno.fm/19buxw48djlvv) | [web](https://radiologrono.es) | [logo](https://graph.facebook.com/radiologrono/picture?width=200&height=200) | - | - |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.canalebro.com/radioonline/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
+| SplasRadio Logroño | [stream](https://splasradio.com/radio) | [web](https://pcsplasradio.splasradio.com/) | [logo](https://graph.facebook.com/splasradio/picture?width=200&height=200) | - | - |
 
 ### Melilla
 
