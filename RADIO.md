@@ -988,6 +988,7 @@
 | Onda Cero Oviedo | [m3u8](https://atres-live.ondacero.es/live/delegaciones/oc/oviedo/master.m3u8) | [web](https://www.ondacero.es/emisoras/asturias/oviedo/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Oviedo.Radio | - |
 | esRadio Asturias | [stream](https://server9.emitironline.com:8822/radio) | [web](https://www.esradioasturias.fm) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | Europa FM Asturias | [m3u8](https://atres-live.europafm.com/live/delegaciones/efm/gijon/master.m3u8) | [web](https://www.europafm.com/frecuencias/asturias/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
+| Loca FM Asturias | [stream](https://server1.easystreaming.pro:8443/locafmasturias) | [web](https://locafmasturias.com) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | LocaFM.Radio | - |
 | Carrusel FM | [mp3](https://server10.emitironline.com:8921/radio?.mp3) | [web](http://www.carruselfm.com) | [logo](https://pbs.twimg.com/profile_images/520332074147123200/pzYkTYHB_200x200.jpeg) | - | - |
 | Master FM Asturias | [stream](https://radios.lamaster.es:8000/asturias) | [web](https://masterfm.es/radiochannel/asturias/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
 | Onda Peñes | [mp3](https://eu1.lhdserver.es:2999/stream?type=.mp3) | [web](http://www.gaxarte.com) | [logo](https://graph.facebook.com/onda.penes/picture?width=200&height=200) | - | - |
