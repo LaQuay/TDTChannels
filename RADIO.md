@@ -304,6 +304,7 @@
 | LokuraFM | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg131447?mp=/stream) | [web](https://lokurafm.online) | [logo](https://play-lh.googleusercontent.com/pRLw0KpuXGQxblfGu8kwMNx0rrOurCW7YBaZiHYTojJkBe0uzQOd3AKvCsbBYMyOOpzp=w200-h200) | - | - |
 | Hit Radio Zona Oriental | [stream](http://stm1.emiteonline.com:8004/hitelgrado) | [web](http://www.hitradiofm.es/hitpirineos.html) | [logo](https://graph.facebook.com/HitRadioElGrado/picture?width=200&height=200) | - | - |
 | Vale Radio | [stream](https://sonic2.sistemahost.es/8170/stream) | [web](https://www.valeradio.es/reproductor/index.php) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
+| Motiva FM Zaragoza | [stream](https://stream.motivafm.com/listen/motiva/motiva-zaragoza.mp3) | [web](https://motivafm.com/emisoras/zaragoza/) | [logo](https://graph.facebook.com/motivafm/picture?width=200&height=200) | - | - |
 
 ### Canarias
 
@@ -953,6 +954,7 @@
 | Formula Hit | [mp3](https://sonic.sistemahost.es/8176/stream;.mp3) | [web](https://www.formulahit.com) | [logo](https://pbs.twimg.com/profile_images/1967694999/Formula_Hit_200x200.jpg) | - | - |
 | Radio Popular - Herri Irratia | [stream](https://nerbioi.radiopopular.eus/radiopopular1) | [web](https://radiopopular.com) | [logo](https://graph.facebook.com/herriirratia/picture?width=200&height=200) | - | - |
 | Radio Donosti | [stream](https://stream-176.zeno.fm/zgn5w0dsrusvv) | [web](https://www.radiodonosti.com) | [logo](https://graph.facebook.com/radiodonosti/picture?width=200&height=200) | - | - |
+| Motiva FM Donostia | [stream](https://stream.motivafm.com/listen/motiva/motiva-donostia) | [web](https://motivafm.com/emisoras/gipuzkoa/) | [logo](https://graph.facebook.com/motivafm/picture?width=200&height=200) | - | - |
 | Santurtzi Irratia | [stream](https://one.cloudstreaming.eu/proxy/stzradio/stream) | [web](https://www.stzirratia.com) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
 | Bilbo Hiria Irratia | [stream](https://server8.emitironline.com:18392/stream) | [web](https://www.bilbohiria.eus/zuzen1/) | [logo](https://graph.facebook.com/bilbohiria/picture?width=200&height=200) | - | - |
 | Mozoilo Irratia | [mp3](https://a10.asurahosting.com:9060/radio.mp3) | [web](https://mozoiloirratia.eus/play/) | [logo](https://pbs.twimg.com/profile_images/1484550043474485254/drNX1pMl_200x200.jpg) | - | - |
