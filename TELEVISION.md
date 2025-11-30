@@ -531,7 +531,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TPA7 | - | [web](https://www.rtpa.es/tpa-television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | EXTA |
-| Junta General del Principado de Asturias | [m3u8](https://wmserver.jgpa.es/live/_definst_/livestream2/playlist.m3u8) | [web](https://www.jgpa.es/emision-en-directo) | [logo](https://pbs.twimg.com/profile_images/1898981135515881472/kZzZjI1u_200x200.jpg) | - | - |
+| Junta General del Principado de Asturias | [m3u8](https://wmserver.jgpa.es/live/_definst_/livestream2/playlist.m3u8) | [web](https://www.jgpa.es/emision-en-directo) | [logo](https://pbs.twimg.com/profile_images/1993571481008181248/sSTU9gqW_200x200.jpg) | - | - |
 | Gobierno del Principado de Asturias | [youtube](https://www.youtube.com/channel/UCyssDZ4splBnG9_jD-FOpFA/live) | [web](https://actualidad.asturias.es) | [logo](https://graph.facebook.com/gobiernodeasturias/picture?width=200&height=200) | - | EMB |
 
 ### R. de Murcia
