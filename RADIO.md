@@ -612,7 +612,7 @@
 | Unika FM | [stream](https://server1.easystreaming.pro:8443/unika) | [web](https://unika.fm) | [logo](https://graph.facebook.com/unikafmmuchomasquedance/picture?width=200&height=200) | - | - |
 | Radio Romanul | [stream](http://streaming.radioromanul.es:55556/web) | [web](https://www.radioromanul.es/live/) | [logo](https://graph.facebook.com/RadioRomanul/picture?width=200&height=200) | - | - |
 | Radio España | [stream](https://stream.zeno.fm/ocinyyji4rntv) | [web](https://www.radioespana.es) | [logo](https://graph.facebook.com/radioespana.es/picture?width=200&height=200) | - | - |
-| Top Radio | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIO.mp3) | [web](https://www.topradio.es) | [logo](https://graph.facebook.com/topradioes/picture?width=200&height=200) | - | - |
+| Top Radio | [m3U8](https://mdstrm.com/audio/66ec3c9fabba24a0a2e59de8/live.m3u8) | [web](https://www.topradio.es) | [logo](https://graph.facebook.com/topradioes/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | RadioIntereconomia.Radio | - |
 | Master FM | [stream](https://radios.lamaster.es:8000/madrid) | [web](https://lamaster.es) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
 | Radio Vallekas | [mp3](https://radio.radiobot.org/listen/rvk/rvk.mp3) | [web](https://www.radiovallekas.org) | [logo](https://graph.facebook.com/radiovallekas/picture?width=200&height=200) | - | - |
