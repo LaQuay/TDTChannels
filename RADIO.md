@@ -672,7 +672,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| À Punt FM | [m3u8](https://bcovlive-a.akamaihd.net/0841326767184ef7acc0489071ec64da/eu-central-1/6057955885001/playlist_dvr.m3u8) | [web](https://apuntmedia.es/va/directe/radio) | [logo](https://graph.facebook.com/apuntmedia/picture?width=200&height=200) | - | - |
+| À Punt FM | [m3u8](https://fastly.live.brightcove.com/1846757873053883704/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTc4NzMwNTM4ODM3MDQifQ.g53E16ArQ13_i6cT9V3TdbH6HMzOcQUdYBPOprsjHgU/playlist-hls-dvr.m3u8) | [web](https://www.apuntmedia.es/directe/directe-radio_136_1392525.html) | [logo](https://graph.facebook.com/apuntmedia/picture?width=200&height=200) | - | - |
 | Radio Nacional Comunidad Valenciana | [stream](https://dispatcher.rndfnk.com/crtve/rne1/val/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_val-live/3893537/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Comunidad Valenciana | [stream](https://dispatcher.rndfnk.com/crtve/rne5/vlc/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_val-live/3894731/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | Radio Marca Valencia | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_VALENCIA.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
