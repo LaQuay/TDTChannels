@@ -614,7 +614,7 @@
 | Radio España | [stream](https://stream.zeno.fm/ocinyyji4rntv) | [web](https://www.radioespana.es) | [logo](https://graph.facebook.com/radioespana.es/picture?width=200&height=200) | - | - |
 | Top Radio | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIO.mp3) | [web](https://www.topradio.es) | [logo](https://graph.facebook.com/topradioes/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | RadioIntereconomia.Radio | - |
-| Master FM | [stream](https://radios.masterfm.es:8000/web24) | [web](https://lamaster.es) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
+| Master FM | [stream](https://radios.masterfm.es:8000/web24) | [web](https://masterfm.es/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
 | Radio Vallekas | [mp3](https://radio.radiobot.org/listen/rvk/rvk.mp3) | [web](https://www.radiovallekas.org) | [logo](https://graph.facebook.com/radiovallekas/picture?width=200&height=200) | - | - |
 | Capital Radio | [m3u8](https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8) | [web](https://www.capitalradio.es/directo) | [logo](https://graph.facebook.com/capitalradiob/picture?width=200&height=200) | - | - |
 | Radio Tentación | [stream](https://streaming6.locucionar.com:2020/stream/radiotentacion) | [web](https://www.radiotentacion.com) | [logo](https://graph.facebook.com/radiotentacionofficial/picture?width=200&height=200) | - | - |
