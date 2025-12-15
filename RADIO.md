@@ -989,7 +989,7 @@
 | Europa FM Asturias | [m3u8](https://atres-live.europafm.com/live/delegaciones/efm/gijon/master.m3u8) | [web](https://www.europafm.com/frecuencias/asturias/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Loca FM Asturias | [stream](https://server1.easystreaming.pro:8443/locafmasturias) | [web](https://locafmasturias.com) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | LocaFM.Radio | - |
 | Carrusel FM | [mp3](https://server10.emitironline.com:8921/radio?.mp3) | [web](http://www.carruselfm.com) | [logo](https://pbs.twimg.com/profile_images/520332074147123200/pzYkTYHB_200x200.jpeg) | - | - |
-| Master FM Asturias | [stream](https://radios.lamaster.es:8000/asturias) | [web](https://masterfm.es/radiochannel/asturias/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
+| Master FM Asturias | [stream](https://radios.masterfm.es:8000/asturias) | [web](https://masterfm.es/radiochannel/asturias/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
 | Onda Peñes | [mp3](https://eu1.lhdserver.es:2999/stream?type=.mp3) | [web](http://www.gaxarte.com) | [logo](https://graph.facebook.com/onda.penes/picture?width=200&height=200) | - | - |
 | La Bomba Radio | [stream](https://stm2.emiteonline.com:9014/labomba) | [web](http://www.labombaradio.es) | [logo](https://play-lh.googleusercontent.com/RnnCJFfcSu-Ma6MSoLJ4hDT2qz9tNrzHz3AdOyFy-h5bjRb0oakVfVOMtPOn5F7tmA=w200) | - | - |
 | Radio Ujo | [stream](https://51551a56-d200-46f7-91c8-36c07a837e44.clouding.host:8000/radio) | [web](https://www.radioujo.com) | [logo](https://pbs.twimg.com/profile_images/822520464836849664/C124fpj__200x200.jpg) | - | - |
