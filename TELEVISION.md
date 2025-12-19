@@ -506,10 +506,10 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| ETB 1 | [m3u8](https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB1.TV | - |
-| ETB 2 | [m3u8](https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB2.TV | - |
-| ETB Eventos 1 | [m3u8](https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/noticias/actualidad-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
-| ETB Eventos 2 | [m3u8 # GEO](https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
+| ETB 1 | [m3u8](https://cdn1.etbon.eus/etb1/index.m3u8) | [web](https://etbon.eus/ch/etb-1) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB1.TV | - |
+| ETB 2 | [m3u8](https://cdn1.etbon.eus/etb2/index.m3u8) | [web](https://etbon.eus/ch/etb-2) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB2.TV | - |
+| ETB Eventos 1 | [m3u8](https://cdn1.etbon.eus/oc1/index.m3u8) | [web](https://www.eitb.eus/es/noticias/actualidad-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETBON_Oca1.TV | - |
+| ETB Eventos 2 | [m3u8 # GEO](https://cdn1.etbon.eus/oc2/index.m3u8) | [web](https://etbon.eus/ch/oca-2) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETBON_Oca2.TV | - |
 | El Conquistador (ETB On) | - | [web](https://www.etbon.eus/ch/el-conquistador) | [logo](https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200) | ETBON_Conquistador.TV | EXTA |
 | Herri Txiki (ETB On) | - | [web](https://www.etbon.eus/ch/herri-txiki) | [logo](https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200) | ETBON_Herritxiki.TV | EXTA |
 | Vaya Semanita (ETB On) | - | [web](https://www.etbon.eus/ch/vaya-semanita) | [logo](https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200) | ETBON_VayaSemanita.TV | EXTA |
