@@ -527,7 +527,7 @@
 | Altafulla Ràdio | [stream](https://enacast.com/altafullaradio/streams/HD) - [mp3](https://streaming.enacast.com/altafulla128.mp3) | [web](https://altafullaradio.cat) | [logo](https://graph.facebook.com/altafulla.radio/picture?width=200&height=200) | - | - |
 | La Marina FM | [stream](https://streaming2.elitecomunicacion.es:8248/stream) | [web](https://lamarina.cat/endirecte/) | [logo](https://graph.facebook.com/lamarinacat/picture?width=200&height=200) | - | - |
 | Cerdanyola Radio | [mp3](https://comcast01-h-cloud.flumotion.com/ajcerdanyola/live.mp3) | [web](https://www.cerdanyola.info/cerdanyola-radio/live) | [logo](https://graph.facebook.com/cerdanyola.info/picture?width=200&height=200) | - | - |
-| Mataró Ràdio | [mp3](https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3) | [web](https://mataroaudiovisual.cat/radio) | [logo](https://graph.facebook.com/mataroradiomunicipal/picture?width=200&height=200) | - | - |
+| Mataró Ràdio | [mp3](https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3) | [web](https://mataroaudiovisual.cat/radio) | [logo](https://pbs.twimg.com/profile_images/1666805471519592456/zkZjIwF7_200x200.jpg) | - | - |
 | Can Deu FM | [stream](https://radios.solumedia.com/6716/stream) | [web](http://candeufm.com) | [logo](http://candeufm.com/e107_images/custom/2021app.jpg) | - | - |
 | Cooltura FM | [mp3](https://server9.emitironline.com:19244/) | [web](https://coolturafm.com) | [logo](https://graph.facebook.com/coolturafm/picture?width=200&height=200) | - | - |
 | Ràdio Silenci | [stream](https://enacast.com/radiosilenci/streams/HD) - [mp3](https://streaming.enacast.com/radiosilenci128.mp3) | [web](https://www.radiosilenci.cat) | [logo](https://graph.facebook.com/rsilenci/picture?width=200&height=200) | - | - |
