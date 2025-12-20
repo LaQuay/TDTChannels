@@ -761,7 +761,7 @@
 | SOL FM Radio | [stream](https://eu1.lhdserver.es:9135/stream) | [web](https://www.solfm.com) | [logo](https://graph.facebook.com/solfmradio/picture?width=200&height=200) | - | - |
 | Radio Monóvar | [stream](https://radioserver12.profesionalhosting.com/proxy/pkg155112/stream) | [web](https://www.monover.com/radio-monovar-online/) | [logo](https://graph.facebook.com/monovercom/picture?width=200&height=200) | - | - |
 | Xtra FM | [m3u8](https://hls1.eu.peppermindmedia.com/xtrafm/south/XtraFMSouth.m3u8) | [web](https://listen.xtrafm.es) | [logo](https://graph.facebook.com/xtrafmcostablanca/picture?width=200&height=200) | - | - |
-| Onda 15 Radio | [stream](https://streaming12.elitecomunicacion.es:8628/stream) | [web](https://www.onda15.es) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
+| Onda 15 Radio | [stream](https://streaming12.elitecomunicacion.es:8628/stream) | [web](https://www.onda15.es) | [logo](https://pbs.twimg.com/profile_images/452144347593465856/NWj5Y9hn_200x200.png) | - | - |
 | Costa FM Alicante | [mp3](https://stream.costafm.es/listen/costafm/radio.mp3) | [web](https://www.costafm.es) | [logo](https://graph.facebook.com/costafm/picture?width=200&height=200) | - | - |
 | Onda Azul Torrevieja | [mp3](https://usa3.lhdserver.es:8199/stream?type=.mp3) | [web](https://www.ondaazultorrevieja.es) | [logo](https://pbs.twimg.com/profile_images/691063766784577536/3-ftz8tQ_200x200.jpg) | - | - |
 | Radio Onda 15 Castalla | [mp3](https://azc.standfy.com/radio/8200/onda15) | [web](https://www.onda15.com) | [logo](https://graph.facebook.com/radiocastalla/picture?width=200&height=200) | - | - |
