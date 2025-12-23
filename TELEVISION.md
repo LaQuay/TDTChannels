@@ -810,7 +810,6 @@
 | Activa TV España | [m3u8](https://streamtv.mediasector.es/hls/activatv/index.m3u8) | [web](https://www.emisorasmusicales.net/activa-tv/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
 | Cadena Elite España | [m3u8](https://cloudvideo.servers10.com:8081/8004/index.m3u8) | [web](https://www.cadenaelite.es) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 | Molahits TV España | [m3u8](https://ventdelnord.tv:8080/mola/directe.m3u8) | [web](https://www.molatv.cat) | [logo](https://graph.facebook.com/molahitstv/picture?width=200&height=200) | - | - |
-| La Urban TV España | [m3u8](https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8) | [web](https://www.urbanrevolution.es/emision-en-directo-de-la-urban-tv/) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
 | Verbena TV España | [m3u8](https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8) | [web](https://verbenafm.com) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
 | Ibiza Global TV España | - | [web](https://www.ibizaglobalradio.com/ibiza-global-tv.html) | [logo](https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200) | IbizaGlobal.TV | EXTA |
 | Spektra TV España | [m3u8](https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8) | [web](https://spektratv.com) | [logo](https://graph.facebook.com/spektramusictv/picture?width=200&height=200) | - | - |
