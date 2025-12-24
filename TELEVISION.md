@@ -167,7 +167,6 @@
 | 8TV Chiclana | [m3u8](https://s.emisoras.tv:8081/chiclana/index.m3u8) | [web](https://8cadiz.es/directo-chiclana/) | [logo](https://graph.facebook.com/8tvChiclana/picture?width=200&height=200) | - | - |
 | M95 Marbella | [m3u8](https://limited2.todostreaming.es/live/m95-livestream.m3u8) | [web](http://m95tv.es) | [logo](https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200) | - | - |
 | PTV Málaga | [m3u8](https://streamer.zapitv.com/PTV-malaga/index.m3u8) | [web](https://ptvtelecom.com/canales/malaga.html) | [logo](https://graph.facebook.com/PTVMalaga/picture?width=200&height=200) | PTV_Malaga.TV | UAGB |
-| 7TV Andalucía | - | [web](https://7tvandalucia.es) | [logo](https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200) | 7Andalucia.TV | REG |
 | Tuya La Janda TV | [m3u8](https://play.agenciastreaming.com:8081/tuyaespana/index.m3u8) | [web](https://tuyatv.com/directo/) | [logo](https://graph.facebook.com/tuyalajandatv/picture?width=200&height=200) | TuyaLaJanda.TV | - |
 | Onda Algeciras TV | [m3u8](https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8) | [web](https://ondaalgecirastv.com/en-directo/) | [logo](https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200) | OndaAlgeciras.TV | - |
 | Canal 45 TV | [m3u8](https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8) | [web](https://www.canal45tv.com) | [logo](https://graph.facebook.com/canal45television/picture?width=200&height=200) | - | - |
