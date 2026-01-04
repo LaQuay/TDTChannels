@@ -59,6 +59,7 @@
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) - [stream](https://player.twitch.tv/?channel=diariomarca&parent=play.tdtchannels.com) | [web](https://www.marca.com) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 | AS | [youtube](https://www.youtube.com/diarioas/live) | [web](https://as.com) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_kKno7gC768MJ_rt67CNI107Zhs5157wEvhg2AQwkvQBgk=s200) | - | EMB |
 | El 10 del Barça | [youtube](https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live) | [web](https://xn--el10delbara-v9a.com) | [logo](https://graph.facebook.com/El10delBarsa/picture?width=200&height=200) | - | EMB,EVT |
+| Tiempo de Juego COPE | [youtube](https://www.youtube.com/channel/UCMHb51gmuIuP8dVpsHr-uEw/live) | [web](https://www.cope.es/programas/tiempo-de-juego/noticias/sigue-juego-directo-youtube-20250513_3149685.html) | [logo](https://graph.facebook.com/tiempodejuego/picture?width=200&height=200) | - | EMB |
 | Kings League | [stream](https://player.twitch.tv/?channel=kingsleague&parent=play.tdtchannels.com) - [youtube](https://www.youtube.com/channel/UCtwslQPB_xJfaFuZv0OETNw/live) | [web](https://www.twitch.tv/kingsleague) | [logo](https://graph.facebook.com/kingsleague.pro/picture?width=200&height=200) | - | EMB |
 | Cazaflix | [stream](https://player.viloud.tv/embed/channel/292a2a75da8d1d6335cd7b6e600b04e8?autoplay=1&volume=1&controls=1&title=0&share=0&open_playlist=0) | [web](https://cazaflix.com/tv-directo/) | [logo](https://graph.facebook.com/cazaflixoficial/picture?width=200&height=200) | - | EMB |
 | OKLIGA TV | [youtube](https://www.youtube.com/channel/UC6RLLzXQJWy1yCAEysy1Wgw/live) | [web](https://okliga.tv) | [logo](https://yt3.ggpht.com/ytc/AKedOLRCpkRZNcBfZLGvM1SO_Qf77p_xtv6OnU26aa23Vw=s200) | - | EMB |
@@ -117,7 +118,6 @@
 | Senado | [m3u8](https://senadolive.akamaized.net/hls/live/2006589/punto7/master.m3u8) | [web](https://www.senado.es/web/actividadparlamentaria/actualidad/senadoendirecto/index.html) | [logo](https://pbs.twimg.com/profile_images/1977652155700920320/Nli3Z54W_200x200.jpg) | - | - |
 | Radio Nacional | [m3u8](https://ztnr.rtve.es/ztnr/6982891.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.TV | - |
 | Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/6982918.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | RNE_Radio3.TV | - |
-| Tiempo de Juego COPE | [youtube](https://www.youtube.com/channel/UCMHb51gmuIuP8dVpsHr-uEw/live) | [web](https://www.cope.es/programas/tiempo-de-juego/noticias/sigue-juego-directo-youtube-20250513_3149685.html) | [logo](https://graph.facebook.com/tiempodejuego/picture?width=200&height=200) | - | EMB |
 
 ## Streaming
 
