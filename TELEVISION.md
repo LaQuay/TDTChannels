@@ -117,7 +117,7 @@
 | Senado | [m3u8](https://senadolive.akamaized.net/hls/live/2006589/punto7/master.m3u8) | [web](https://www.senado.es/web/actividadparlamentaria/actualidad/senadoendirecto/index.html) | [logo](https://pbs.twimg.com/profile_images/1977652155700920320/Nli3Z54W_200x200.jpg) | - | - |
 | Radio Nacional | [m3u8](https://ztnr.rtve.es/ztnr/6982891.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.TV | - |
 | Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/6982918.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | RNE_Radio3.TV | - |
-| Tiempo de Juego COPE | [m3u8](https://www.youtube.com/channel/UCMHb51gmuIuP8dVpsHr-uEw/live) | [web](https://www.cope.es/programas/tiempo-de-juego/noticias/sigue-juego-directo-youtube-20250513_3149685.html) | [logo](https://graph.facebook.com/tiempodejuego/picture?width=200&height=200) | - | EMB |
+| Tiempo de Juego COPE | [youtube](https://www.youtube.com/channel/UCMHb51gmuIuP8dVpsHr-uEw/live) | [web](https://www.cope.es/programas/tiempo-de-juego/noticias/sigue-juego-directo-youtube-20250513_3149685.html) | [logo](https://graph.facebook.com/tiempodejuego/picture?width=200&height=200) | - | EMB |
 
 ## Streaming
 
