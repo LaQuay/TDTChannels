@@ -494,7 +494,6 @@
 | TEF | [m3u8](https://tef.servertv.online:3268/live/teflive.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](https://graph.facebook.com/TEFTV/picture?width=200&height=200) | - | NONAV |
 | Canal 4 TV Mallorca | [m3u8](https://5caf24a595d94.streamlock.net:1937/8110/8110/playlist.m3u8) | [web](https://www.grup4.com) | [logo](https://graph.facebook.com/GRUP4COM/picture?width=200&height=200) | - | NONAV |
 | Fibwi Diario | [m3u8](https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8) | [web](https://www.fibwidiario.com/estaticas/fibwi-tv.html) | [logo](https://graph.facebook.com/Fibwidiario/picture?width=200&height=200) | - | - |
-| SAM Ibiza | [m3u8](https://hls1.eu.peppermindmedia.com/av:vod1/SAMibiza/index.fmp4.m3u8) | [web](https://listen.samibiza.com/video) | [logo](https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200) | - | - |
 | Parlament de les Illes Balears | [youtube](https://www.youtube.com/channel/UCpLm25L3R1VVOQDFiSCCmDA/live) | [web](https://www.parlamentib.es) | [logo](https://pbs.twimg.com/profile_images/1628713790303879168/hOxkqhuJ_200x200.jpg) | - | EMB |
 | Govern de les Illes Balears | [youtube](https://www.youtube.com/channel/UCWq6paV7LGHW7YdR0kYLx_w/live) | [web](https://www.caib.es) | [logo](https://graph.facebook.com/GovernIllesBalears/picture?width=200&height=200) | - | EMB |
 
