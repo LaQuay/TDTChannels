@@ -543,7 +543,6 @@
 | Ràdio Cubelles | [stream](https://enacast.com/radiocubelles/streams/HD) - [mp3](https://streaming.enacast.com/cubelles128.mp3) | [web](https://www.radiocubelles.cat) | [logo](https://graph.facebook.com/radiocubelles/picture?width=200&height=200) | - | - |
 | Ràdio Granollers | [mp3](https://relay.stream.enacast-cloud.com:30324/radiogranollersHD.mp3) | [web](https://www.radiogranollers.cat) | [logo](https://graph.facebook.com/RadioGranollers/picture?width=200&height=200) | - | - |
 | Ràdio Maricel | [mp3](https://radioserver.radiomaricel.cat/proxy/radio_maricel?mp=/stream.mp3) | [web](https://www.radiomaricel.cat) | [logo](https://graph.facebook.com/radiomaricel/picture?width=200&height=200) | - | - |
-| Hit103 | [stream](https://enacast.com/radiovalls/streams/HD) - [mp3](https://streaming.enacast.com/radiovalls128.mp3) | [web](https://hit103.cat) | [logo](https://graph.facebook.com/Hit103/picture?width=200&height=200) | - | - |
 | Styl Manresa | [stream](https://ssl.nexuscast.com:8077/stream) | [web](https://www.stylfm.com) | [logo](https://graph.facebook.com/stylfm/picture?width=200&height=200) | - | - |
 | Ona de Sants FM | [stream](https://edge.mixlr.com/channel/dlyio) | [web](https://onadesants.cat) | [logo](https://graph.facebook.com/Radioonadesants/picture?width=200&height=200) | - | - |
 | Constantí Ràdio | [mp3](https://streaming.enacast.com/radioconstantiSD.mp3) | [web](https://www.constantiradio.cat) | [logo](https://graph.facebook.com/ConstantiRadio/picture?width=200&height=200) | - | - |
