@@ -165,7 +165,7 @@
 | COPE Huelva | [mp3](https://wecast-bl02.flumotion.com/copesedes/huelva.mp3) | [web](https://www.cope.es/directos/huelva) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Jaén | [mp3](https://wecast-bl02.flumotion.com/copesedes/jaen.mp3) | [web](https://www.cope.es/directos/jaen) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Jerez | [mp3](https://wecast-bl02.flumotion.com/copesedes/jerez.mp3) | [web](https://www.cope.es/directos/jerez) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Málaga | [mp3](https://wecast-bl02.flumotion.com/malaga.mp3) | [web](https://www.cope.es/directos/malaga) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Málaga | [mp3](https://wecast24-o-cloud.flumotion.com/copesedes/malaga.mp3) | [web](https://www.cope.es/directos/malaga) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Marbella | [stream](https://sonic.sistemahost.es/8236/stream) | [web](https://copemarbella.es) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Motril | [mp3](https://wecast-bl02.flumotion.com/copesedes/motril.mp3) | [web](https://www.cope.es/directos/motril) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Sierra Norte | [stream](https://eu1.lhdserver.es:8011/stream) | [web](https://radiosierranorte.es/radio-sierra-norte-en-directo/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
