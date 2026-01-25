@@ -864,7 +864,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Radio María España | [youtube](https://www.youtube.com/channel/UCbX1IDSwem3w0HfBP4F_BYw/live) | [web](https://radiomaria.es/directo/) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | - | EMB |
-| Abadia de Montserrat España | [youtube](https://www.youtube.com/channel/UCFrlaCzXVVlK_eiVNvYoezA/live) | [web](https://abadiamontserrat.cat/montserrat-tv/) | [logo](https://graph.facebook.com/AbadiaMontserrat/picture?width=200&height=200) | - | EMB |
+| Abadia de Montserrat España | [youtube](https://www.youtube.com/channel/UCFrlaCzXVVlK_eiVNvYoezA/live) | [web](https://abadiamontserrat.cat/montserrat-tv/) | [logo](https://graph.facebook.com/AbadiaMontserrat/picture?width=200&height=200) | - | EMB | 
 | Ecclesia COPE España | [m3u8](https://cope-religion-video.flumotion.com/playlist.m3u8) | [web](https://www.cope.es/religion) | [logo](https://graph.facebook.com/ecclesiacope/picture?width=200&height=200) | - | - |
 | Solidaria TV España | [m3u8](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](https://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | - | - |
 | RTV Vida España | [m3u8](https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/television/) | [logo](https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg) | - | - |
@@ -880,3 +880,4 @@
 | Emmanuel TV Nigeria | [stream](https://www.lightcast.com/embed/player.php?&id=39565&type=live) | [web](https://emmanuel.tv/es/en-vivo/) | [logo](https://graph.facebook.com/tbjoshuaespanol/picture?width=200&height=200) | - | EMB |
 | Redevida Brasil | [m3u8 # PT](https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8) | [web](https://www.redevida.com.br/ao-vivo) | [logo](https://graph.facebook.com/redevida/picture?width=200&height=200) | - | - |
 | 3ABN USA | [m3u8 # 1](https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8) - [m3u8 # EN # 2](https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8) | [web](https://3abnplus.tv/catalog) | [logo](https://graph.facebook.com/3abn.org/picture?width=200&height=200) | - | - |
+| Bendición Channel | [m3u8](https://s.emisoras.tv:8081/bendicionchannel/index.m3u8) | [web](https://www.bendicionchannel.com/) | [logo](https://i.ibb.co/dsq9Wfqq/bendicion.png) | - | - | - |
