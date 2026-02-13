@@ -216,7 +216,7 @@
 | TV Carmona | [youtube](https://youtu.be/YITtRQ6vLdg) | [web](https://www.televisioncarmona.com) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
 | Mijas 3.40 TV | [m3u8](https://streaming004.gestec-video.com/hls/MIJAS.m3u8) | [web](https://mijascomunicacion.com/mijas-340-tv-en-directo/) | [logo](https://graph.facebook.com/Mijas340TV/picture?width=200&height=200) | Mijas340TV.TV | - |
 | MIRA TV | - | [web](https://www.elmira.es/miratv/) | [logo](https://graph.facebook.com/miratelevision/picture?width=200&height=200) | - | EXTA |
-| 101TV Cádiz | [m3u8](https://liveingesta318.cdnmedia.tv/101weblive/smil:cadiz.smil/playlist.m3u8) | [web](https://www.101tv.es/directocadiz/) | [logo](https://graph.facebook.com/101tvAntequera/picture?width=200&height=200) | - | UAG,REFI1 |
+| 101TV Cádiz | [m3u8](https://liveingesta318.cdnmedia.tv/101weblive/smil:Cofrade.smil/playlist.m3u8) | [web](https://www.101tv.es/directocadiz/) | [logo](https://graph.facebook.com/101tvAntequera/picture?width=200&height=200) | - | UAG,REFI1 |
 | Canal Coín | [m3u8](https://canalcoin.garjim.es/hls/directo.m3u8) | [web](https://canalcoin.com/tv-directo/) | [logo](https://graph.facebook.com/106272064368271/picture?width=200&height=200) | CanalCoin.TV | - |
 | Diez TV Andújar | [m3u8](https://streaming.cloud.innovasur.es/mmj_andujar/index.m3u8) | [web](https://dieztv.es/dieztv-andujar-directo/) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | DiezTV.TV | - |
 | Diez TV Las Villas | [m3u8](https://streaming.cloud.innovasur.es/mmj2/index.m3u8) | [web](https://dieztv.es/dieztv-lasvillas-directo/) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | DiezTV.TV | - |
