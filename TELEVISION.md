@@ -567,6 +567,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TVE Int. Europa | [m3u8](https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-internacional-europa/) | [logo](https://graph.facebook.com/tveInternacional/picture?width=200&height=200) | TVE_INTER.TV | GEO |
+| Star TVE Europa | [m3u8](https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/play-plus-europa/star-hd/) | [logo](https://graph.facebook.com/STARTVEInternacional/picture?width=200&height=200) | - | GEO |
 | TV3.CAT | [m3u8](https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/tv3/) | [logo](https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png) | TVC.TV | - |
 | ETB Basque | [m3u8](https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8) | [web](https://www.eitb.eus/es/television/eitb-basque/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETBSAT.TV | REF |
 | TVG Europa | [m3u8](https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8) | [web](https://agalega.gal/videos/76475-tvg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
