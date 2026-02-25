@@ -628,7 +628,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | FOX Live Now USA | [m3u8 # EN](https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8) | [web](https://www.foxnews.com) | [logo](https://graph.facebook.com/livenowfox/picture?width=200&height=200) | - | - |
-| ABC News USA | [m3u8 # EN](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | [web](https://abcnews.go.com/Live) | [logo](https://graph.facebook.com/ABCNews/picture?width=200&height=200) | - | - |
+| ABC News USA | [youtube # EN](https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live) | [web](https://abcnews.go.com/Live) | [logo](https://graph.facebook.com/ABCNews/picture?width=200&height=200) | - | EMB |
 | NBC News USA | [youtube # EN](https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live) | [web](https://www.nbcnews.com/now) | [logo](https://graph.facebook.com/NBCNews/picture?width=200&height=200) | - | EMB |
 | CBS News USA | [m3u8 # EN](https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8) | [web](https://www.cbsnews.com/live/) | [logo](https://graph.facebook.com/CBSNews/picture?width=200&height=200) | - | - |
 | Cheddar USA | [m3u8 # EN](https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8) | [web](https://cheddar.com/live) | [logo](https://graph.facebook.com/cheddar/picture?width=200&height=200) | - | - |
