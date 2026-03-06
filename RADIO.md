@@ -106,7 +106,7 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Flamenco Radio | [mp3](https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3) | [web](https://www.canalsurmas.es/videos/19987-flamenco-radio) | [logo](https://graph.facebook.com/FlamencoRadio/picture?width=200&height=200) | CanalSurFlamenco.Radio | - |
-| Radio Andalucía Información | [mp3](https://rtva-live-radio.flumotion.com/rtva/rai.mp3) | [web](https://www.canalsurmas.es/videos/37911-rai) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RadioAndaluc%C3%ADaInformaci%C3%B3n.png/240px-RadioAndaluc%C3%ADaInformaci%C3%B3n.png) | RadioAndaluciaInformacion.Radio | - |
+| Radio Andalucía Información | [mp3](https://rtva-live-radio.flumotion.com/rtva/rai.mp3) | [web](https://www.canalsurmas.es/videos/37911-rai) | [logo](https://pbs.twimg.com/profile_images/1343337992803528711/onGzQLfO_200x200.jpg) | RadioAndaluciaInformacion.Radio | - |
 | Canal Sur Radio Musica | [mp3](https://rtva-live-radio.flumotion.com/rtva/csm.mp3) | [web](https://www.canalsurmas.es/videos/20775-canal-sur-musica) | [logo](https://myradioonline.es/public/uploads/radio_img/canal-sur-radio-musica/play_250_250.jpg) | - | - |
 | Canal Sur Radio Almería | [mp3](https://rtva-live-radio.flumotion.com/rtva/csralm.mp3) | [web](https://www.canalsurmas.es/videos/21003-canal-sur-radio-almeria) | [logo](https://graph.facebook.com/canalsuralmeria/picture?width=200&height=200) | - | - |
 | Canal Sur Radio Cadiz | [mp3](https://rtva-live-radio.flumotion.com/rtva/csrcad.mp3) | [web](https://www.canalsurmas.es/videos/20766-canal-sur-radio-cadiz) | [logo](https://graph.facebook.com/canalsurcadiz/picture?width=200&height=200) | - | - |
