@@ -832,7 +832,7 @@
 | RDS Social TV Italia | [m3u8 # IT](https://stream.rdstv.radio/index.m3u8) | [web](https://www.rds.it/rds-social-tv) | [logo](https://graph.facebook.com/rds.grandisuccessi/picture?width=200&height=200) | - | - |
 | m2o Italia | [m3u8 # IT](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8) | [web](https://www.m2o.it/m2o-tv/) | [logo](https://graph.facebook.com/radiom2o/picture?width=200&height=200) | - | - |
 | Radio Capital Italia | [m3u8 # IT](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8) | [web](https://www.capital.it/tv/) | [logo](https://graph.facebook.com/RadioCapitalfm/picture?width=200&height=200) | - | - |
-| 70-80's Italia | [m3u8 # IT](https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8) | [web](https://www.70-80.it/tv-player/) | - | - | - |
+| 70-80's Italia | [m3u8 # IT](https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8) | [web](https://www.70-80.it/tv-player/) | [logo](https://play-lh.googleusercontent.com/OwKy6Ef_hOsjuSYtgh5aOHndFs2uo9evgrrjO4DYiOwXiAtWtSZiFMWY_OIcLU170NA=w200) | - | - |
 | On TV Portugal | [m3u8](https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8) | [web](https://www.onfm.pt) | [logo](https://graph.facebook.com/ONFM93.8/picture?width=200&height=200) | - | - |
 | Kronehit Austria | [m3u8](https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8) | [web](https://www.kronehit.at/) | [logo](https://graph.facebook.com/kronehit/picture?width=200&height=200) | - | - |
 | QMusic Países Bajos | [m3u8 # NL](https://stream.qmusic.nl/qmusic/videohls.m3u8) | [web](https://qmusic.nl/live/kijk) | [logo](https://graph.facebook.com/QmusicNL/picture?width=200&height=200) | - | - |
