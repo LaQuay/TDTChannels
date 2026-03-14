@@ -23,6 +23,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| IdòFM | [hls](https://ido.omedia.cat/hls/idofm/live.m3u8) | [web](https://idofm.com/) | [logo](https://mercadal.opennemas.com/asset/zoomcrop,400,400/media/mercadal/images/2026/03/14/2026031422525329589.png) | - | - |
 | LOS40 | [aac](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac) - [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3) | [web](https://play.los40.com) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | Los40.Radio | - |
 | LOS40 Classic | [aac](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac) - [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3) | [web](https://play.los40.com/emisora/los40_classic/) | [logo](https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200) | Los40Classic.Radio | - |
 | LOS40 Urban | [aac](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC.aac) - [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3) | [web](https://play.los40.com/emisora/los40_urban) | [logo](https://graph.facebook.com/los40urban/picture?width=200&height=200) | Los40Urban.Radio | - |
