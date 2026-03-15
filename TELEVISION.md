@@ -34,6 +34,7 @@
 | Libertad Digital TV | [youtube](https://www.youtube.com/channel/UCUS73_bjTYwBFAfXbvIjM8Q/live) | [web](https://tv.libertaddigital.com/directo.html) | [logo](https://graph.facebook.com/libertad.digital.tv/picture?width=200&height=200) | Libertad.TV | EMB |
 | Negocios TV | [m3u8](https://streaming013.gestec-video.com/hls/negociostv.m3u8) - [youtube](https://www.youtube.com/channel/UCwd8Byi93KbnsYmCcKLExvQ/live) | [web](https://www.negocios.com/directo) | [logo](https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg) | Negocios.TV | - |
 | El Confidencial | [m3u8](https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8) | [web](https://www.elconfidencial.com/television/) | [logo](https://graph.facebook.com/elconfidencial/picture?width=200&height=200) | ElConfidencial.TV | - |
+| CNN en Español | [youtube](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live) | [web](https://www.youtube.com/@cnnee/streams) | [logo](https://graph.facebook.com/CNNee/picture?width=200&height=200) | - | EMB |
 
 ## Deportivos
 
