@@ -596,7 +596,7 @@
 | SR Saarland Alemania | [m3u8 # DE](https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8) | [web](https://www.sr.de) | [logo](https://graph.facebook.com/SRinfo.sr/picture?width=200&height=200) | - | - |
 | Sky News Reino Unido | [m3u8 # EN](https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8) - [youtube # EN](https://youtu.be/9Auq9mYxFEE) | [web](https://news.sky.com/watch-live) | [logo](https://graph.facebook.com/skynews/picture?width=200&height=200) | - | - |
 | GB News Reino Unido | [m3u8 # EN](https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8) - [youtube # EN](https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live) | [web](https://www.gbnews.uk) | [logo](https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200) | - | NONAV |
-| RTP Internacional Portugal | - | [web](https://www.rtp.pt/play/direto/rtpinternacional) | [logo](https://graph.facebook.com/rtpinternacional/picture?width=200&height=200) | - | - |
+| RTP Internacional Portugal | - | [web](https://www.rtp.pt/play/direto/rtpinternacional) | [logo](https://graph.facebook.com/rtpinternacional/picture?width=200&height=200) | - | EXTA |
 | RTP 1 Portugal | - | [web](https://www.rtp.pt/play/direto/rtp1) | [logo](https://graph.facebook.com/rtp1.pt/picture?width=200&height=200) | RTP1.TV | EXTA |
 | RTP 2 Portugal | - | [web](https://www.rtp.pt/play/direto/rtp2) | [logo](https://graph.facebook.com/rtpdois/picture?width=200&height=200) | RTP2.TV | EXTA |
 | RTP 3 Portugal | - | [web](https://www.rtp.pt/play/direto/rtp3) | [logo](https://graph.facebook.com/rtp/picture?width=200&height=200) | RTP3.TV | EXTA |
