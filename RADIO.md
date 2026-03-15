@@ -213,7 +213,7 @@
 | Onda Capital | [stream](https://server1.radiocast.es/listen/onda_capital/capitalweb) | [web](https://ondacapital.es) | [logo](https://graph.facebook.com/ondacapitalfm/picture?width=200&height=200) | - | - |
 | Beachgrooves | [stream](https://stream.beachgrooves.com:9000/stream) | [web](https://beachgrooves.com) | [logo](https://graph.facebook.com/beach.grooves/picture?width=200&height=200) | - | - |
 | La Fresca FM | [stream](https://stream.produccionesdale.com/listen/lafresca/altacalidad) | [web](https://www.lafresca.fm) | [logo](https://graph.facebook.com/lafresca.es/picture?width=200&height=200) | - | - |
-| Radio Chipiona | [mp3](https://uk3freenew.listen2myradio.com/live.mp3) | [web](https://radiochipiona.radiostream321.com/) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | - |
+| Radio Chipiona | [mp3](https://uk3freenew.listen2myradio.com/live.mp3) | [web](https://radiochipiona.radiostream321.com) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | - |
 | Spectrum FM | [stream](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1) | [web](https://spectrumfm.net) | [logo](https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200) | - | - |
 | Onda Jerez Radio | [mp3](https://radio.ondajerez.com:8443/Ondajerez.mp3) | [web](https://www.ondajerez.com/radio) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200) | - | - |
 | Radio Marbella | [m3u8](https://streaming.rtvmarbella.tv/hls/streamingradio.m3u8) | [web](https://rtvmarbella.tv/radio-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=200&height=200) | - | - |
@@ -493,7 +493,7 @@
 | SER Ebre | [stream](https://cadenaserebre.streaming-pro.com:6021/stream) | [web](https://cadenaser.com/ser-ebre/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Ebre.Radio | - |
 | SER Girona | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIRONA.mp3) | [web](https://cadenaser.com/radio-girona/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Girona.Radio | - |
 | SER Lleida | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LLEIDA.mp3) | [web](https://cadenaser.com/radio-lleida/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Lleida.Radio | - |
-| SER Manresa | [mp3](https://streaming.enacast.com:8000/taronjadigital-bages56.mp3) | [web](https://www.radiomanresa.cat/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Manresa.Radio | - |
+| SER Manresa | [mp3](https://streaming.enacast.com:8000/taronjadigital-bages56.mp3) | [web](https://www.radiomanresa.cat) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Manresa.Radio | - |
 | SER Penedès-Garraf | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_PENEDES_GARRAF.mp3) | [web](https://cadenaser.com/ser-penedesgarraf/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Penedes.Radio | - |
 | SER Reus | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_REUS.mp3) | [web](https://cadenaser.com/radio-reus/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Reus.Radio | - |
 | SER Tarragona | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TARRAGONA.mp3) | [web](https://cadenaser.com/ser-tarragona/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Tarragona.Radio | - |
@@ -611,7 +611,7 @@
 | Radio España | [stream](https://stream.zeno.fm/ocinyyji4rntv) | [web](https://www.radioespana.es) | [logo](https://graph.facebook.com/radioespana.es/picture?width=200&height=200) | - | - |
 | Top Radio | [m3u8](https://mdstrm.com/audio/66ec3c9fabba24a0a2e59de8/live.m3u8) | [web](https://www.topradio.es) | [logo](https://graph.facebook.com/topradioes/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | RadioIntereconomia.Radio | - |
-| Master FM | [stream](https://radios.masterfm.es:8000/web24) | [web](https://masterfm.es/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
+| Master FM | [stream](https://radios.masterfm.es:8000/web24) | [web](https://masterfm.es) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
 | Radio Vallekas | [mp3](https://radio.radiobot.org/listen/rvk/rvk.mp3) | [web](https://www.radiovallekas.org) | [logo](https://graph.facebook.com/radiovallekas/picture?width=200&height=200) | - | - |
 | Capital Radio | [m3u8](https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8) | [web](https://www.capitalradio.es/directo) | [logo](https://graph.facebook.com/capitalradiob/picture?width=200&height=200) | - | - |
 | Radio Tentación | [stream](https://streaming6.locucionar.com:2020/stream/radiotentacion) | [web](https://www.radiotentacion.com) | [logo](https://graph.facebook.com/radiotentacionofficial/picture?width=200&height=200) | - | - |
@@ -991,7 +991,7 @@
 | La Bomba Radio | [stream](https://stm2.emiteonline.com:9014/labomba) | [web](http://www.labombaradio.es) | [logo](https://play-lh.googleusercontent.com/RnnCJFfcSu-Ma6MSoLJ4hDT2qz9tNrzHz3AdOyFy-h5bjRb0oakVfVOMtPOn5F7tmA=w200) | - | - |
 | Radio Ujo | [stream](https://51551a56-d200-46f7-91c8-36c07a837e44.clouding.host:8000/radio) | [web](https://www.radioujo.com) | [logo](https://pbs.twimg.com/profile_images/822520464836849664/C124fpj__200x200.jpg) | - | - |
 | Radio QK | [mp3](http://212.231.231.169:8000/radioqk_master.mp3) | [web](https://www.radioqk.org) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=200&height=200) | - | - |
-| Medea FM | [stream](https://sonic.mediatelekom.net/8562/;.mp3) | [web](https://medeafm.es/) | [logo](https://graph.facebook.com/radiomedeafm/picture?width=200&height=200) | - | - |
+| Medea FM | [stream](https://sonic.mediatelekom.net/8562/;.mp3) | [web](https://medeafm.es) | [logo](https://graph.facebook.com/radiomedeafm/picture?width=200&height=200) | - | - |
 | Xtrema FM | [stream](https://server1.radiocast.es/listen/xtrema_fm/xtremafm) | [web](https://www.xtremafm.es) | [logo](https://graph.facebook.com/xtremafm/picture?width=200&height=200) | - | - |
 | APQ Radio | [stream # 1](https://stm2.emiteonline.com:9012/apqradio) - [stream # 2](https://stm2.emiteonline.com:9013/apqradio2) | [web](https://www.apqradio.es) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | - |
 | La Mega FM Asturias | [mp3](https://broadcast.radioponiente.org:8032/;.mp3) | [web](https://www.lamegafmasturias.com) | [logo](https://play-lh.googleusercontent.com/c_sl-yRJP4jzCPQjkLe0xFWuGj6Xe6JaoShibnsuV98KnDkM7Ao54DsLD_1orN2eyDbC=w200) | - | - |
@@ -1065,7 +1065,7 @@
 | Rinse FM UK | [stream](https://admin.stream.rinse.fm/proxy/rinse_uk/stream) | [web](https://rinse.fm/player/) | [logo](https://graph.facebook.com/rinsefm/picture?width=200&height=200) | - | - |
 | LOS40 Argentina | [stream](https://frontend.radiohdvivo.com/los40/live?dist=los40-web-live_streaming_play) | [web](https://player.los40.com.ar) | [logo](https://graph.facebook.com/los40argentina/picture?width=200&height=200) | - | - |
 | FM Rock & Pop Argentina | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3) | [web](https://fmrockandpop.com) | [logo](https://graph.facebook.com/FmRockandPop/picture?width=200&height=200) | - | - |
-| Radioacktiva Colombia | [acc](https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac) | [web](https://www.radioacktiva.com/) | [logo](https://graph.facebook.com/radioacktiva/picture?width=200&height=200) | - | - |
+| Radioacktiva Colombia | [acc](https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac) | [web](https://www.radioacktiva.com) | [logo](https://graph.facebook.com/radioacktiva/picture?width=200&height=200) | - | - |
 | LOS40 México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO.mp3) | [web](https://los40.com.mx) | [logo](https://graph.facebook.com/los40mexico/picture?width=200&height=200) | - | - |
 | Ke Buena FM México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA.mp3) | [web](https://www.kebuena.com.mx) | [logo](https://graph.facebook.com/kebuenamx/picture?width=200&height=200) | - | - |
 | EXA FM México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3) | [web](https://exafm.com) | [logo](https://graph.facebook.com/exafm/picture?width=200&height=200) | - | - |
