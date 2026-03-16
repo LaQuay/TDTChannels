@@ -103,7 +103,6 @@
 | Cocina (RTVE) | [m3u8](https://ztnr.rtve.es/ztnr/16656232.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-cocina/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Cocina.TV | - |
 | La moderna (RTVE) | [m3u8](https://ztnr.rtve.es/ztnr/16464377.m3u8) | [web](https://www.rtve.es/play/videos/directo/play-lamoderna/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Moderna.TV | - |
 | En Play (RTVE) | [m3u8](https://ztnr.rtve.es/ztnr/6712399.m3u8) | [web](https://www.rtve.es/play/en-play/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_En_Play.TV | - |
-| Festival de Málaga (RTVE) | [m3u8](https://ztnr.rtve.es/ztnr/16464402.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/play-festivaldemalaga/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_PopUp.TV | - |
 | Comedia (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-comedia/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Comedia.TV | EXTA |
 | En la calle (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-en-la-calle/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Calle.TV | EXTA |
 | Top Series (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-top-series/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Series.TV | EXTA |
