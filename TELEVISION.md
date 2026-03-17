@@ -599,7 +599,7 @@
 | RTP Internacional Portugal | - | [web](https://www.rtp.pt/play/direto/rtpinternacional) | [logo](https://graph.facebook.com/rtpinternacional/picture?width=200&height=200) | - | EXTA |
 | RTP 1 Portugal | - | [web](https://www.rtp.pt/play/direto/rtp1) | [logo](https://graph.facebook.com/rtp1.pt/picture?width=200&height=200) | RTP1.TV | EXTA |
 | RTP 2 Portugal | - | [web](https://www.rtp.pt/play/direto/rtp2) | [logo](https://graph.facebook.com/rtpdois/picture?width=200&height=200) | RTP2.TV | EXTA |
-| RTP 3 Portugal | - | [web](https://www.rtp.pt/play/direto/rtp3) | [logo](https://graph.facebook.com/rtp/picture?width=200&height=200) | RTP3.TV | EXTA |
+| RTP Notícias | - | [web](https://www.rtp.pt/play/direto/rtp3) | [logo](https://graph.facebook.com/rtpnoticias/picture?width=200&height=200) | RTP3.TV | EXTA |
 | RTP Madeira Portugal | - | [web](https://www.rtp.pt/play/direto/rtpmadeira) | [logo](https://graph.facebook.com/rtpmadeira/picture?width=200&height=200) | - | EXTA |
 | RTP Açores Portugal | - | [web](https://www.rtp.pt/play/direto/rtpacores) | [logo](https://graph.facebook.com/rtpacores/picture?width=200&height=200) | - | EXTA |
 | CNN Portugal | - | [web](https://cnnportugal.iol.pt/direto) | [logo](https://graph.facebook.com/cnnportugal/picture?width=200&height=200) | - | EXTA |
