@@ -620,7 +620,7 @@
 | Channel 24 Ucrania | [m3u8 # UK](http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8) | [web](https://24tv.ua/online) | [logo](https://graph.facebook.com/news24ukraine/picture?width=200&height=200) | - | - |
 | 1+1 Ucrania | [youtube # UK](https://www.youtube.com/live/j5TqaWCCdUg) | [web](https://1plus1.video/tvguide/embed/1) | [logo](https://graph.facebook.com/1plus1.ua/picture?width=200&height=200) | - | EMB |
 | ICTV Ucrania | [youtube # UK](https://www.youtube.com/channel/UCG26bSkEjJc7SqGsxoHNnbA/live) | [web](https://ictv.ua/ua/online/) | [logo](https://graph.facebook.com/ICTVchannel/picture?width=200&height=200) | - | EMB |
-| UATV Ucrania | - | [web](https://uatv.ua/live/) | [logo](https://graph.facebook.com/kanalfreedom/picture?width=200&height=200) | - | EXTA,UAG |
+| UATV Ucrania | - | [web](https://uatv.ua/live/) | [logo](https://graph.facebook.com/kanalfreedom/picture?width=200&height=200) | - | EXTA,REF |
 | Current Time TV | [m3u8 # RU](https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist.m3u8) | [web](https://www.currenttime.tv/live) | [logo](https://graph.facebook.com/currenttimetv/picture?width=200&height=200) | - | - |
 
 ## Int. América
