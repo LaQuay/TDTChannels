@@ -1071,7 +1071,7 @@
 | EXA FM México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3) | [web](https://exafm.com) | [logo](https://graph.facebook.com/exafm/picture?width=200&height=200) | - | - |
 | Amor FM México | [m3u8](https://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFMAAC.m3u8) | [web](https://amorfm.mx) | [logo](https://graph.facebook.com/AMORFM.MX/picture?width=200&height=200) | - | - |
 | Alfa 91.3 FM México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FM.mp3) | [web](https://alfaenlinea.com) | [logo](https://graph.facebook.com/Alfa913mx/picture?width=200&height=200) | - | - |
-| RPP Noticias Perú | [m3u8](https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8) | [web](https://rpp.pe/audio/) | [logo](https://graph.facebook.com/rppnoticias/picture?width=200&height=200) | - | - |
+| RPP Noticias Perú | [stream](https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9) | [web](https://rpp.pe/audio/) | [logo](https://graph.facebook.com/rppnoticias/picture?width=200&height=200) | - | - |
 | Radio La Zona Perú | [stream](https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio) | [web](https://audioplayer.pe/lazona) | [logo](https://graph.facebook.com/Radiolazona/picture?width=200&height=200) | - | - |
 | Radio Oxígeno Perú | [stream](https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio) | [web](https://radio.oxigeno.com.pe) | [logo](https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200) | - | - |
 | Radio Z Rock & Pop Perú | [stream](https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/) | [web](https://radioz.pe) | [logo](https://graph.facebook.com/ZRocknPop/picture?width=200&height=200) | - | - |
