@@ -75,15 +75,16 @@
 | SX3 | [m3u8 # GEOCAT](https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8) - [m3u8 # GEO](https://directes-tv-es.3catdirectes.cat/live-content/super3-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/sx3/) | [logo](https://graph.facebook.com/SomSX3/picture?width=200&height=200) | SX3.TV | GEO |
 | Pequeradio TV | [m3u8](https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8) | [web](https://www.pequeradio.es) | [logo](https://graph.facebook.com/Pequeradio/picture?width=200&height=200) | - | - |
 | Disney Channel | [youtube # 1](https://www.youtube.com/channel/UCayRpbmAiiuU50OpDPVSjwA/live) - [youtube # 2](https://www.youtube.com/live/VTL9FJylNJY) - [youtube # 3](https://www.youtube.com/live/uwQ7abWT_1Q) | [web](https://www.youtube.com/@disneychannelES/streams) | [logo](https://graph.facebook.com/DisneyChannelES/picture?width=200&height=200) | - | EMB |
-| Pocoyó | [youtube](https://www.youtube.com/channel/UCnB5W_ZJgiDFnklejRGADxw/live) | [web](https://www.pocoyo.com) | [logo](https://graph.facebook.com/pocoyo/picture?width=200&height=200) | - | EMB |
 | Warner Bros Kids | [youtube](https://www.youtube.com/channel/UCB82v6uKp1S-I-DVoL2neDA/live) | [web](https://www.wbkidsgo.com) | [logo](https://graph.facebook.com/WarnerBrosPicturesEspana/picture?width=200&height=200) | - | EMB |
 | Cartoon Network Latino | [youtube](https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA/live) | [web](https://cnapp.cartoonnetworkla.com/now/freelive1) | [logo](https://graph.facebook.com/cartoonnetwork/picture?width=200&height=200) | - | EMB |
 | Nick Jr. | [youtube](https://www.youtube.com/channel/UCaEb7kPgpldLuEzCRzFXsLw/live) | [web](https://www.youtube.com/@NickJrEspanol) | [logo](https://pbs.twimg.com/profile_images/1682087222537756680/BCh_FNy8_200x200.jpg) | - | EMB |
+| Pocoyó | [youtube](https://www.youtube.com/channel/UCnB5W_ZJgiDFnklejRGADxw/live) | [web](https://www.pocoyo.com) | [logo](https://graph.facebook.com/pocoyo/picture?width=200&height=200) | - | EMB |
 | Bluey | [youtube](https://www.youtube.com/channel/UCYvpkMpzo1S_rmcj2Axmbig/live) | [web](https://www.bluey.tv/watch/) | [logo](https://graph.facebook.com/OfficialBlueyTV/picture?width=200&height=200) | - | EMB |
 | LEGO Friends | [youtube](https://www.youtube.com/channel/UCP-Ng5SXUEt0VE-TXqRdL6g/live) | [web](https://www.youtube.com/channel/UCP-Ng5SXUEt0VE-TXqRdL6g) | [logo](https://pbs.twimg.com/profile_images/378800000257143498/6dbc45c353f641ef85ca51f75533a7e1_200x200.jpeg) | - | EMB |
 | Talking Tom and Friends | [youtube](https://www.youtube.com/channel/UCC9R-cxQeOpPhq2lAru0V8w/live) | [web](https://www.youtube.com/TomFriendsEs) | [logo](https://yt3.ggpht.com/a/AATXAJwpm-5h1rjcPqno5uANZr75VhhCYKv4PS02gLUS0A=s200) | - | EMB |
 | Little Baby Bum | [youtube](https://www.youtube.com/channel/UCHicabXz9rUMWLcdMqBtbxQ/live) | [web](https://www.youtube.com/user/LittleBabyBumEspanol) | [logo](https://yt3.ggpht.com/a/AATXAJwn3r9U07S7ZOqoGZLUbuYHWiIqpE8xuLJsyg=s200) | - | EMB |
 | Masha y el Oso | [youtube](https://www.youtube.com/channel/UCuSo4gcgxJRf4Bzu43wwVyg/live) | [web](https://www.youtube.com/@MashaOso) | [logo](https://yt3.googleusercontent.com/gezE4GxPlSR2m2fQ16uL9qZKHhA8YXfHEOQ3-eLu8KadN55AzPSC9Z_ATsjesQBDrpuQXT_J1hY=s200) | - | EMB |
+| EnerGeek TV | - | [web](https://energeek.cl/canal/) | [logo](https://graph.facebook.com/EnerGeekTelevision/picture?width=200&height=200) | - | EXTA |
 
 ## Eventuales
 
