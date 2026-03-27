@@ -1024,7 +1024,7 @@
 | Onda Regional Música | [m3u8](https://crmlive.redctnet.es/liveedge/orm/ormmusical/playlist.m3u8) | [web](https://www.orm.es/directo/or-musica/) | [logo](https://graph.facebook.com/OndaRegional/picture?width=200&height=200) | - | - |
 | esRadio Murcia | [stream](https://sonic.mediatelekom.net/8274/stream) | [web](https://www.esradiomurcia.es) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | Europa FM Murcia | [m3u8](https://atres-live.europafm.com/live/delegaciones/efm/murcia/master.m3u8) | [web](https://www.europafm.com/frecuencias/murcia/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
-| Radio Intereconomía Murcia | [stream](https://eu1.lhdserver.es:9153/stream) | [web](https://intereconomiamurcia.blogspot.com) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | - |
+| Frecuencia Murcia Intereconomía | [stream](https://eu1.lhdserver.es:9153/stream) | [web](https://www.frecuenciamurcia.es/) | [logo](https://pbs.twimg.com/profile_images/1709232156000636928/EqMZDB9e_200x200.jpg) | - | - |
 | Wifon FM | [stream](https://betelgeuse.nucast.co.uk:8044/wifonfm) | [web](https://wifonfm.es/streaming) | [logo](https://graph.facebook.com/wifonfm/picture?width=200&height=200) | - | - |
 | Onda Cieza | [stream](https://sonic.mediatelekom.net/8436/stream) | [web](https://www.ondacieza.com) | [logo](https://pbs.twimg.com/profile_images/654189936971771904/1y9jkZJ-_200x200.jpg) | - | - |
 | Metropólitan Radio | [stream](https://sonic.mediatelekom.net/8012/stream) | [web](https://metropolitan.radio) | [logo](https://pbs.twimg.com/profile_images/1435351436523626507/lBjfSU1K_200x200.jpg) | - | - |
