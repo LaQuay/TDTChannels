@@ -217,7 +217,7 @@
 | Fuengirola TV | [m3u8](https://streaming004.gestec-video.com/hls/FTV.m3u8) | [web](https://fuengirolatv.com/directo-ftv/) | [logo](https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200) | FuengirolaTV.TV | - |
 | PTV Granada | [m3u8](https://streamer.zapitv.com/PTV-granada/index.m3u8) | [web](https://ptvtelecom.com/canales/granada.html) | [logo](https://graph.facebook.com/PTVGranada/picture?width=200&height=200) | PTV_Granada.TV | UAGB |
 | PTV Córdoba | [m3u8](https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8) | [web](https://ptvtelecom.com/canales/cordoba.html) | [logo](https://graph.facebook.com/PTVCOR/picture?width=200&height=200) | - | UAGB |
-| TV Carmona | [youtube](https://youtu.be/fSHqPkMTzpY) | [web](https://www.televisioncarmona.com) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
+| TV Carmona | [youtube](https://youtu.be/Kuab07GdWOw) | [web](https://www.televisioncarmona.com) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
 | Mijas 3.40 TV | [m3u8](https://streaming004.gestec-video.com/hls/MIJAS.m3u8) | [web](https://mijascomunicacion.com/mijas-340-tv-en-directo/) | [logo](https://graph.facebook.com/Mijas340TV/picture?width=200&height=200) | Mijas340TV.TV | - |
 | MIRA TV | - | [web](https://www.elmira.es/miratv/) | [logo](https://graph.facebook.com/miratelevision/picture?width=200&height=200) | - | EXTA |
 | Canal Coín | [m3u8](https://canalcoin.garjim.es/hls/directo.m3u8) | [web](https://canalcoin.com/tv-directo/) | [logo](https://graph.facebook.com/106272064368271/picture?width=200&height=200) | CanalCoin.TV | - |
