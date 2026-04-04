@@ -84,7 +84,7 @@
 | Talking Tom and Friends | [youtube](https://www.youtube.com/channel/UCC9R-cxQeOpPhq2lAru0V8w/live) | [web](https://www.youtube.com/TomFriendsEs) | [logo](https://yt3.ggpht.com/a/AATXAJwpm-5h1rjcPqno5uANZr75VhhCYKv4PS02gLUS0A=s200) | - | EMB |
 | Little Baby Bum | [youtube](https://www.youtube.com/channel/UCHicabXz9rUMWLcdMqBtbxQ/live) | [web](https://www.youtube.com/user/LittleBabyBumEspanol) | [logo](https://yt3.ggpht.com/a/AATXAJwn3r9U07S7ZOqoGZLUbuYHWiIqpE8xuLJsyg=s200) | - | EMB |
 | Masha y el Oso | [youtube](https://www.youtube.com/channel/UCuSo4gcgxJRf4Bzu43wwVyg/live) | [web](https://www.youtube.com/@MashaOso) | [logo](https://yt3.googleusercontent.com/gezE4GxPlSR2m2fQ16uL9qZKHhA8YXfHEOQ3-eLu8KadN55AzPSC9Z_ATsjesQBDrpuQXT_J1hY=s200) | - | EMB |
-| EnerGeek TV | - | [web](https://energeek.cl/canal/) | [logo](https://graph.facebook.com/EnerGeekTelevision/picture?width=200&height=200) | - | EXTA |
+| EnerGeek TV | [m3u8 # 1](https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=dEmoweBeneRGEek2025) - [m3u8 # 2](https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025) | [web](https://energeek.cl/canal/) | [logo](https://graph.facebook.com/EnerGeekTelevision/picture?width=200&height=200) | - | - |
 
 ## Eventuales
 
