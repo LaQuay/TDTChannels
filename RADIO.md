@@ -771,6 +771,7 @@
 | Radio Benicarló | [mp3](https://streaming.enacast.com/radiobenicarlo128.mp3) | [web](https://www.radiobenicarlo.org) | [logo](https://pbs.twimg.com/profile_images/1544316931175550979/6M8VF3dz_200x200.jpg) | - | - |
 | Onda 40 Music | [mp3](https://radioonda40music.es:8000/radio.mp3) | [web](https://onda40music.com) | [logo](https://graph.facebook.com/onda40music/picture?width=200&height=200) | - | - |
 | V30 Radio | [stream](https://streaming12.elitecomunicacion.es:8604/stream) | [web](https://ondavalencia.es/en-directo/onda-valencia-v30) | [logo](https://pbs.twimg.com/media/GfowgswXsAAk9wa.jpg) | - | - |
+| OcioNews Radio | [stream # 1](https://np.ocionews.com/listen/ocionews/webONHD) - [stream # 2](https://np.ocionews.com/listen/ocionews_classics/WebOCHD) - [stream # 3](https://np.ocionews.com/listen/ocionews_fiesta/WebOFHD) - [stream # 4](https://np.ocionews.com/listen/ocionews_urbanwine/WebOUHD) - [stream # 5](https://np.ocionews.com/listen/ocionews_indie/WebOIHD)| [web](https://www.ocionews.com/canal/radio/) | [logo](https://graph.facebook.com/somosocionews/picture?width=200&height=200) | - | - |
 | Vox UJI Ràdio | [mp3](https://radiouji.uji.es:8443/high.mp3) | [web](https://www.radio.uji.es) | [logo](https://pbs.twimg.com/profile_images/915478760299868160/FACNin_P_200x200.jpg) | - | - |
 
 ### Extremadura
