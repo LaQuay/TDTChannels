@@ -84,7 +84,7 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Valencia CF Radio | [mp3](https://radio-valencia-direct.flumotion.com/rvfc/shoutcast.mp3) | [web](https://www.valenciacf.com/es/vcf-media/radio) | [logo](https://graph.facebook.com/ValenciaCF/picture?width=200&height=200) | - | - |
-| Sevilla FC Radio | [m3u8](https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8) | [web](https://live.sevillafc.es) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | - | - |
+| Sevilla FC Radio | [m3u8](https://livesg.sevillafc.hiway.media/restreamer/sevillafc_client/gpu-f-c1-7/restreamer/outgest/e89e6fdb-506e-4fdb-a551-7a2c6d78e0e7/manifest.m3u8) | [web](https://sevillafc.es/radio) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | - | - |
 | Real Betis Radio | [mp3](https://comcast01-h-cloud.flumotion.com/betistv/radio1.mp3) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-radio) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | RadioBetis.Radio | - |
 | UD Almeria Radio | [stream](https://srv6022.dns-lcinternet.com:8002/livelq) | [web](https://www.udalmeriasad.com/radio) | [logo](https://graph.facebook.com/udalmeriasad/picture?width=200&height=200) | - | - |
 | Radio Osasuna | [stream](https://stream.radio.co/s2d5fcbba2/listen) | [web](https://www.osasuna.es/radio-osasuna) | [logo](https://graph.facebook.com/Osasuna/picture?width=200&height=200) | - | - |
@@ -851,7 +851,7 @@
 | Verbena FM | [stream](https://streaming12.elitecomunicacion.es:8222/stream) | [web](https://verbenafm.com) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
 | Radiofusión | [stream](https://srv7031.dns-lcinternet.com/8032/stream) | [web](https://www.radiofusion.eu) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | - |
 | Radio Líder | [stream](https://server9.emitironline.com:8200/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
-| Metro FM Ferrol | [mp3](https://mediastreamm.com/8216/;.mp3) | [web](https://metrofmferrol.com) | [logo](https://www.tvferrol.es/es/recursos/patrocinadores_2/MccbkxMU.png) | - | - |
+| Metro FM Ferrol | [stream](https://metrofm01.arsenet.com/stream) | [web](https://metrofmferrol.com) | [logo](https://www.tvferrol.es/es/recursos/patrocinadores_2/MccbkxMU.png) | - | - |
 | Net Galicia Radio | [stream](https://sonicpanel.streaming10.net/8140/stream) | [web](https://www.netgaliciaradio.es) | [logo](https://www.netgaliciaradio.es/wp-content/uploads/2022/09/logo.png) | - | - |
 
 ### Illes Balears
