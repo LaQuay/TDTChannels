@@ -190,7 +190,7 @@
 | Canal Doñana | [m3u8](https://secure5.todostreaming.es/live/division-alm.m3u8) | [web](https://www.canaldonana.com) | [logo](https://graph.facebook.com/donanacomunica/picture?width=200&height=200) | - | - |
 | Uvitel TV | - | [web](https://uvitelonline.com/en-directo/) | [logo](https://graph.facebook.com/uviteltv/picture?width=200&height=200) | - | EXTA |
 | Interalmería TV | [m3u8](https://interalmeria.tv/directo/live.m3u8) | [web](https://www.interalmeria.tv/directo/) | [logo](https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200) | InterAlmeria.TV | - |
-| Almería 24h TV | [m3u8](https://broadcast.radioponiente.org:9443/live/smil:almeria24h.smil/playlist.m3u8) | [web](https://www.almeria24htv.com) | [logo](https://graph.facebook.com/107654981928274/picture?width=200&height=200) | - | - |
+| Almería 24h TV | [m3u8](https://broadcast1.radioponiente.org/almeria24h_aac/index.m3u8) | [web](https://www.almeria24htv.com) | [logo](https://graph.facebook.com/107654981928274/picture?width=200&height=200) | - | - |
 | Marbella TV | [m3u8](https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8) | [web](https://rtvmarbella.tv/tv-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=200&height=200) | MarbellaTV.TV | - |
 | Estepona TV | [m3u8](https://cloudvideo.servers10.com:8081/8022/index.m3u8) | [web](https://television.estepona.es/tvendirecto/) | [logo](https://graph.facebook.com/esteponatelevision/picture?width=200&height=200) | - | - |
 | Axarquía TV | [youtube](https://www.youtube.com/channel/UC0N3U1saaQQWMt2rRPbU0DQ/live) | [web](https://www.youtube.com/channel/UC0N3U1saaQQWMt2rRPbU0DQ) | [logo](https://graph.facebook.com/AxarquiaTV/picture?width=200&height=200) | - | EMB |
