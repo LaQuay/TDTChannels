@@ -392,13 +392,13 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Telemadrid | - | [web](https://www.tlmad.es/content/directos/telemadrid-en-directo/play) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | Telemadrid.TV | EXTA,EVT |
-| LaOtra | - | [web](https://www.tlmad.es/content/directos/laotra/play) | [logo](https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg) | LaOtra.TV | EXTA,EVT |
+| Telemadrid | - | [web](https://www.tlmad.es/pages/live/telemadrid) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | Telemadrid.TV | EXTA,EVT |
+| LaOtra | - | [web](https://www.tlmad.es/pages/live/laotra) | [logo](https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg) | LaOtra.TV | EXTA,EVT |
 | Teleganés | [m3u8](https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8) | [web](https://www.teleganes.com/en-directo/) | [logo](https://graph.facebook.com/1423419417957760/picture?width=200&height=200) | - | - |
 | Canal Red | [youtube](https://www.youtube.com/channel/UCky112obBMG68Nw5MrSNNPA/live) | [web](https://canalred.tv) | [logo](https://graph.facebook.com/canalredtelevision/picture?width=200&height=200) | - | EMB |
 | Distrito TV | [m3u8](https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8) | [web](https://distritotv.es) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | - |
 | Déjate de Historias TV | [m3u8](https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8) | [web](https://dejatedehistorias.es/emision-online) | [logo](https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200) | Dejate.TV | - |
-| Onda Madrid 101.3 | - | [web](https://www.tlmad.es/content/directos/onda-madrid-1013/play) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.TV | EXTA |
+| Onda Madrid 101.3 | - | [web](https://www.tlmad.es/pages/live/onda-madrid-1013) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.TV | EXTA |
 | EsTuTele | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16818&live=1&avod=1&cb=[CACHEBUSTER]&site_page=https%3A%2F%2Ftdtchannels.com&site_name=tdtchannels&hls_marker=1&content_cat=IAB1&content_genre=Entertainment&content_id=Estutele&content_language=es&content_rating=TV-G&content_title=Estutele&coppa=0&ssai_enabled=1) | [web](https://estutele.com) | [logo](https://graph.facebook.com/Estutele/picture?width=200&height=200) | EsTuTele.TV | - |
 | iPROtv | [m3u8](https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8) | [web](https://iprotv.es) | [logo](https://graph.facebook.com/iprotvspain/picture?width=200&height=200) | - | - |
 | C33 Madrid | [m3u8](https://media2.streambrothers.com:1936/8140/8140/.m3u8) | [web](https://www.canal33.info) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
@@ -574,7 +574,7 @@
 | Star TVE Europa | [m3u8](https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/play-plus-europa/star-hd/) | [logo](https://graph.facebook.com/STARTVEInternacional/picture?width=200&height=200) | TVE_STAR.TV | GEO |
 | TV3.CAT | [m3u8](https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/tv3/) | [logo](https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png) | TVC.TV | - |
 | TVG Europa | [m3u8](https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8) | [web](https://agalega.gal/videos/76475-tvg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
-| Telemadrid Internacional | [youtube](https://www.youtube.com/channel/UCv2BcgqxHSrl2QQfIkjR5Eg/live) | [web](https://www.tlmad.es/content/directos/internacional/play) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | TeleMadridInt.TV | EMB,EXTA |
+| Telemadrid Internacional | [youtube](https://www.youtube.com/channel/UCv2BcgqxHSrl2QQfIkjR5Eg/live) | [web](https://www.tlmad.es/pages/live/internacional) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | TeleMadridInt.TV | EMB,EXTA |
 | GCM Internacional | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12128&live=1) | [web](https://www.grupocadenamedia.es) | [logo](https://pbs.twimg.com/profile_images/1752299087402041344/eAHH3L02_200x200.jpg) | - | - |
 | ATV Andorra | [m3u8](https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8) | [web](https://www.rtva.ad/en-directe/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVHD.TV | EXTA |
 | Lòria TV Andorra | [youtube](https://www.youtube.com/channel/UCCCnrECJpv84QKM4olodZOQ/live) | [web](http://loriatv.com) | [logo](https://graph.facebook.com/LoriaTV/picture?width=200&height=200) | - | EMB |
