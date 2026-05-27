@@ -860,7 +860,8 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| IB3 Ràdio | [mp3](https://icecast.ib3radio.com/ib3radio.mp3) | [web](https://ib3.org/directe?c=radio) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | - | - |
+| IB3 Ràdio | [mp3](https://icecast.ib3radio.com/ib3radio.mp3) | [web](https://totib3.org/play/radio) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | - | - |
+| IB3 Música | [stream](https://icecast.ib3radio.com/ib3musica.mp3) | [web](https://totib3.org/play/radio) | [logo](https://pbs.twimg.com/profile_images/1920138003608940544/NnmOFGb8_200x200.jpg) | - | - |
 | Radio Nacional Islas Baleares | [stream](https://dispatcher.rndfnk.com/crtve/rne1/bal/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_bal/3893546/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.Radio | - |
 | Radio 5 Islas Baleares | [stream](https://dispatcher.rndfnk.com/crtve/rne5/pmi/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_bal/3894743/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | RNE5.Radio | - |
 | Ibiza Global Radio | [stream](https://listenssl.ibizaglobalradio.com:8024/stream) | [web](https://ibizaglobalradio.com/player/) | [logo](https://graph.facebook.com/ibiza.radio/picture?width=200&height=200) | IbizaGlobalRadio.Radio | - |
