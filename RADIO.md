@@ -84,7 +84,7 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Valencia CF Radio | [mp3](https://radio-valencia-direct.flumotion.com/rvfc/shoutcast.mp3) | [web](https://www.valenciacf.com/es/vcf-media/radio) | [logo](https://graph.facebook.com/ValenciaCF/picture?width=200&height=200) | - | - |
-| Sevilla FC Radio | [m3u8](https://livesg.sevillafc.hiway.media/restreamer/sevillafc_client/gpu-f-c1-7/restreamer/outgest/e89e6fdb-506e-4fdb-a551-7a2c6d78e0e7/manifest.m3u8) | [web](https://sevillafc.es/radio) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | - | - |
+| Sevilla FC Radio | [m3u8](https://livesg.sevillafc.hiway.media/restreamer/sevillafc_client/gpu-f-c1-7/restreamer/outgest/1be21788-4718-4554-8e1c-9a0ae4af9551/audio_manifest.m3u8) | [web](https://sevillafc.es/radio) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | - | - |
 | Real Betis Radio | [mp3](https://comcast01-h-cloud.flumotion.com/betistv/radio1.mp3) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-radio) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | RadioBetis.Radio | - |
 | UD Almeria Radio | [stream](https://srv6022.dns-lcinternet.com:8002/livelq) | [web](https://www.udalmeriasad.com/radio) | [logo](https://graph.facebook.com/udalmeriasad/picture?width=200&height=200) | - | - |
 | Radio Osasuna | [stream](https://stream.radio.co/s2d5fcbba2/listen) | [web](https://www.osasuna.es/radio-osasuna) | [logo](https://graph.facebook.com/Osasuna/picture?width=200&height=200) | - | - |
