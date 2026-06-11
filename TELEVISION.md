@@ -39,7 +39,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Teledeporte | [m3u8 # GEO # 1](https://ztnr.rtve.es/ztnr/1712295.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8) - [m3u8 # 3](https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8) | [web](https://www.rtve.es/play/videos/directo/tdp/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200) | TDP.TV | GEO |
+| Teledeporte | [m3u8 # GEO # 1](https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8) - [m3u8 # 2](https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8) | [web](https://www.rtve.es/play/videos/directo/tdp/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200) | TDP.TV | GEO |
 | GOL | [stream # GEO](https://geo.dailymotion.com/player/x1k3pa.html?video=k5cyQ3rl70nCl7Fhb5W) | [web](https://www.goltelevision.com/en-directo/gol_live) | [logo](https://graph.facebook.com/goltv.es/picture?width=200&height=200) | GOL.TV | EXTB,GEO |
 | GOL Classics | [stream # GEO](https://geo.dailymotion.com/player/x1k3pa.html?video=k7BHb9t9RdbAM0FhbmE) | [web](https://www.goltelevision.com/en-directo/golclassics_live) | [logo](https://graph.facebook.com/goltv.es/picture?width=200&height=200) | Gol_Classics.TV | EXTB,GEO |
 | Esport 3 | [m3u8 # GEOCAT](https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8) - [m3u8 # GEO](https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/esport3/) | [logo](https://graph.facebook.com/Esport3/picture?width=200&height=200) | E3.TV | GEO |
