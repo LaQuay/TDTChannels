@@ -6,12 +6,12 @@
 | - | - | - | - | - | - |
 | La 1 | [m3u8 # 1](https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8) - [m3u8 # 2](https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8)| [web](https://www.rtve.es/play/videos/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg) | La1.TV | GEO |
 | La 2 | [m3u8 # 1](https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8) - [m3u8 # 2](https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8)| [web](https://www.rtve.es/play/videos/directo/la-2/) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200) | La2.TV | GEO |
-| Cuatro | -| [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | EXTA,GEO |
-| Telecinco | - | [web](https://www.mitele.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=200&height=200) | Telecinco.TV | EXTA,GEO |
-| FDF | - | [web](https://www.mitele.es/directo/fdf) | [logo](https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200) | FDF.TV | EXTA,GEO |
-| Energy | - | [web](https://www.mitele.es/directo/energy) | [logo](https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200) | Energy.TV | EXTA,GEO |
-| Divinity | - | [web](https://www.mitele.es/directo/divinity) | [logo](https://graph.facebook.com/divinityes/picture?width=200&height=200) | Divinity.TV | EXTA,GEO |
-| Be Mad | - | [web](https://www.mitele.es/directo/bemad) | [logo](https://graph.facebook.com/BeMadTV/picture?width=200&height=200) | Bemad.TV | EXTA,GEO |
+| Cuatro | -| [web](https://www.mediasetinfinity.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | EXTA,GEO |
+| Telecinco | - | [web](https://www.mediasetinfinity.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=200&height=200) | Telecinco.TV | EXTA,GEO |
+| FDF | - | [web](https://www.mediasetinfinity.es/directo/fdf) | [logo](https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200) | FDF.TV | EXTA,GEO |
+| Energy | - | [web](https://www.mediasetinfinity.es/directo/energy) | [logo](https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200) | Energy.TV | EXTA,GEO |
+| Divinity | - | [web](https://www.mediasetinfinity.es/directo/divinity) | [logo](https://graph.facebook.com/divinityes/picture?width=200&height=200) | Divinity.TV | EXTA,GEO |
+| Be Mad | - | [web](https://www.mediasetinfinity.es/directo/bemad) | [logo](https://graph.facebook.com/BeMadTV/picture?width=200&height=200) | Bemad.TV | EXTA,GEO |
 | DMAX | - | [web](https://dmax.marca.com/en-directo) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
 | TRECE | [m3u8](https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | - |
 | El Toro TV | [m3u8](https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8) - [m3u8 # 2](https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | EVT |
@@ -71,7 +71,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Boing | - | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=200&height=200) | Boing.TV | EXTA,GEO |
+| Boing | - | [web](https://www.mediasetinfinity.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=200&height=200) | Boing.TV | EXTA,GEO |
 | Clan | [m3u8 # GEO](https://ztnr.rtve.es/ztnr/5466990.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8) - [m3u8 # 3](https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8) | [web](https://www.rtve.es/play/videos/directo/clan/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | GEO |
 | SX3 | [m3u8 # GEOCAT](https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8) - [m3u8 # GEO](https://directes-tv-es.3catdirectes.cat/live-content/super3-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/sx3/) | [logo](https://graph.facebook.com/SomSX3/picture?width=200&height=200) | SX3.TV | GEO |
 | Infantil (Canal Extremadura) | [m3u8](https://cdn-canalextremadura.watchity.net/fast2/master.m3u8) | [web](https://www.canalextremadura.app/videos/354923-canal-tematico-infantil) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | - | UAG,EXTA |
