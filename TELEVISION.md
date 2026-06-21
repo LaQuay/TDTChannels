@@ -4,8 +4,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 1 | [m3u8 # 1](https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8) - [m3u8 # 2](https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8)| [web](https://www.rtve.es/play/videos/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg) | La1.TV | GEO |
-| La 2 | [m3u8 # 1](https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8) - [m3u8 # 2](https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8)| [web](https://www.rtve.es/play/videos/directo/la-2/) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200) | La2.TV | GEO |
+| La 1 | [m3u8](https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg) | La1.TV | GEO |
+| La 2 | [m3u8 # 1](https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/la-2/) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200) | La2.TV | GEO |
 | Cuatro | -| [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | EXTA,GEO |
 | Telecinco | - | [web](https://www.mitele.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=200&height=200) | Telecinco.TV | EXTA,GEO |
 | FDF | - | [web](https://www.mitele.es/directo/fdf) | [logo](https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200) | FDF.TV | EXTA,GEO |
@@ -25,7 +25,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| 24h | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1694255.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8) - [m3u8 # 3](https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8) | [web](https://www.rtve.es/play/videos/directo/24h/) | [logo](https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg) | 24Horas.TV | GEO |
+| 24h | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1694255.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/24h/) | [logo](https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg) | 24Horas.TV | GEO |
 | Euronews | [m3u8](https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8) - [youtube](https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live) | [web](https://es.euronews.com/live) | [logo](https://graph.facebook.com/es.euronews/picture?width=200&height=200) | Euronews.TV | EMB |
 | 3Cat Info | [m3u8](https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/3catinfo-tv/) | [logo](https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg) | 324.TV | - |
 | El País | [m3u8](https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8) - [youtube](https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw/live) | [web](https://elpais.com) | [logo](https://graph.facebook.com/elpais/picture?width=200&height=200) | ElPais.TV | EMB |
@@ -39,7 +39,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Teledeporte | [m3u8 # GEO # 1](https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8) - [m3u8 # 2](https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8) | [web](https://www.rtve.es/play/videos/directo/tdp/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200) | TDP.TV | GEO |
+| Teledeporte | [m3u8 # GEO](https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8) | [web](https://www.rtve.es/play/videos/directo/tdp/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200) | TDP.TV | GEO |
 | GOL | [stream # GEO](https://geo.dailymotion.com/player/x1k3pa.html?video=k5cyQ3rl70nCl7Fhb5W) | [web](https://www.goltelevision.com/en-directo/gol_live) | [logo](https://graph.facebook.com/goltv.es/picture?width=200&height=200) | GOL.TV | EXTB,GEO |
 | GOL Classics | [stream # GEO](https://geo.dailymotion.com/player/x1k3pa.html?video=k7BHb9t9RdbAM0FhbmE) | [web](https://www.goltelevision.com/en-directo/golclassics_live) | [logo](https://graph.facebook.com/goltv.es/picture?width=200&height=200) | Gol_Classics.TV | EXTB,GEO |
 | Esport 3 | [m3u8 # GEOCAT](https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8) - [m3u8 # GEO](https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/esport3/) | [logo](https://graph.facebook.com/Esport3/picture?width=200&height=200) | E3.TV | GEO |
@@ -72,7 +72,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Boing | - | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=200&height=200) | Boing.TV | EXTA,GEO |
-| Clan | [m3u8 # GEO](https://ztnr.rtve.es/ztnr/5466990.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8) - [m3u8 # 3](https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8) | [web](https://www.rtve.es/play/videos/directo/clan/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | GEO |
+| Clan | [m3u8 # GEO #1](https://ztnr.rtve.es/ztnr/5466990.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/clan/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | GEO |
 | SX3 | [m3u8 # GEOCAT](https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8) - [m3u8 # GEO](https://directes-tv-es.3catdirectes.cat/live-content/super3-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/sx3/) | [logo](https://graph.facebook.com/SomSX3/picture?width=200&height=200) | SX3.TV | GEO |
 | Infantil (Canal Extremadura) | [m3u8](https://cdn-canalextremadura.watchity.net/fast2/master.m3u8) | [web](https://www.canalextremadura.app/videos/354923-canal-tematico-infantil) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | - | UAG,EXTA |
 | Pequeradio TV | [m3u8](https://183.bozztv.com/ssh101/ssh101/pequeradiotv/playlist.m3u8) | [web](https://www.antenita.es) | [logo](https://graph.facebook.com/Pequeradio/picture?width=200&height=200) | - | - |
@@ -571,8 +571,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TVE Int. Europa | [m3u8](https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-internacional-europa/) | [logo](https://graph.facebook.com/tveInternacional/picture?width=200&height=200) | TVE_INTER.TV | GEO |
-| Star TVE Europa | [m3u8](https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8) | [web](https://www.rtve.es/play/videos/directo/play-plus-europa/star-hd/) | [logo](https://graph.facebook.com/STARTVEInternacional/picture?width=200&height=200) | TVE_STAR.TV | GEO |
+| TVE Int. Europa | [m3u8](https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-internacional-europa/) | [logo](https://graph.facebook.com/tveInternacional/picture?width=200&height=200) | TVE_INTER.TV | GEO |
+| Star TVE Europa | [m3u8](https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8) | [web](https://www.rtve.es/play/videos/directo/play-plus-europa/star-hd/) | [logo](https://graph.facebook.com/STARTVEInternacional/picture?width=200&height=200) | TVE_STAR.TV | GEO |
 | TV3.CAT | [m3u8](https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/tv3/) | [logo](https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png) | TVC.TV | - |
 | TVG Europa | [m3u8](https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8) | [web](https://agalega.gal/videos/76475-tvg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
 | Telemadrid Internacional | [youtube](https://www.youtube.com/channel/UCv2BcgqxHSrl2QQfIkjR5Eg/live) | [web](https://www.tlmad.es/pages/live/internacional) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | TeleMadridInt.TV | EMB,EXTA |
