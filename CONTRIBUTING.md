@@ -43,9 +43,16 @@ En este apartado se debería indicar la web de dónde sale el _stream_.
 No indiques nada en este campo, lo modificaremos nosotros a posterior.
 
 #### Info
+- `GEO`: Bloqueo regional que exige IP del país de origen.
+- `NOEM`: El canal no emite online, exclusivo en TDT.
+- `EVT`: Señal intermitente activa solo durante eventos.
+- `REG`: Requiere registro en la plataforma oficial.
+- `EXTA`: Redirige forzosamente al navegador web externo.
+- `EXTB`: Requiere reproducción en un navegador interno o WebView.
+- `EMB`: Emisión desde terceros (YouTube o Twitch) para incrustar.
+- `UAG / UAGB`: Falsifica el User-Agent simulando un navegador estándar.
+- `REF / REFI1 / REFG1 / REFC1`: Inyecta el Referer para evitar bloqueos del servidor.
 - `NONAV`: La emisión no funciona en navegadores web.
-- `NOEM`: El canal no emite online.
-- `EMB`: Si se trata de un video de Youtube.
 
 En caso de tener más de un `TAG` de información, concatenar con comas y sin espacios. Los demás TAGs son de administración. Si deseas conocer más, contáctanos.
 
