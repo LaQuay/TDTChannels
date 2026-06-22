@@ -863,7 +863,8 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| IB3 Ràdio | [mp3](https://icecast.ib3radio.com/ib3radio.mp3) - [stream](https://icecast.ib3radio.com/ib3radio_dos) | [web](https://totib3.org/play/radio) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | - | - |
+| IB3 Ràdio | [mp3](https://icecast.ib3radio.com/ib3radio.mp3) | [web](https://totib3.org/play/radio) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | - | - |
+| IB3 Ràdio 2 | [stream](https://icecast.ib3radio.com/ib3radio_dos) | [web](https://totib3.org/play/radio) | [logo](https://pbs.twimg.com/profile_images/1920138003608940544/NnmOFGb8_200x200.jpg) | - | - |
 | IB3 Música | [mp3](https://icecast.ib3radio.com/ib3musica.mp3) | [web](https://totib3.org/play/radio) | [logo](https://pbs.twimg.com/profile_images/1920138003608940544/NnmOFGb8_200x200.jpg) | - | - |
 | IB3 Ràdio Menorca | [stream](https://icecast.ib3radio.com/ib3radio_menorca) | [web](https://totib3.org/play/radio) | [logo](https://pbs.twimg.com/profile_images/1920138003608940544/NnmOFGb8_200x200.jpg) | - | - |
 | IB3 Ràdio Pitiüses | [stream](https://icecast.ib3radio.com/ib3radio_pitiuses) | [web](https://totib3.org/play/radio) | [logo](https://pbs.twimg.com/profile_images/1920138003608940544/NnmOFGb8_200x200.jpg) | - | - |
