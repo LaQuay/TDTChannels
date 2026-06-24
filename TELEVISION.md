@@ -461,7 +461,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Extremadura | [m3u8](https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8) | [web](https://www.canalextremadura.app/videos/182630-canal-video-24h) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | UAG,EXTA |
+| Canal Extremadura | [m3u8](https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8) | [web](https://www.canalextremadura.app/videos/182630-canal-video-24h) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | UAG,EXTA |
 | Toros (Canal Extremadura) | [m3u8](https://cdn-canalextremadura.watchity.net/fast1/master.m3u8) | [web](https://www.canalextremadura.app/videos/289341-canal-tem%C3%A1tico-toros-canal-extremadura) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | - | UAG,EXTA |
 | Semos asina (Canal Extremadura) | [m3u8](https://cdn-canalextremadura.watchity.net/fast3/master.m3u8) | [web](https://www.canalextremadura.app/videos/350407-canal-tem%C3%A1tico-semos-asina-canal-extremadura) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | - | UAG,EXTA |
 | TV Extremeña | [stream](https://player.twitch.tv/?channel=tvextremena&parent=play.tdtchannels.com) | [web](https://www.xn--televisionextremea-30b.com/directo/) | [logo](https://graph.facebook.com/TELEVISIONEXTREMENA/picture?width=200&height=200) | - | EMB |
