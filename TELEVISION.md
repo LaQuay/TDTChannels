@@ -560,7 +560,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | La 7 | - | [web](https://www.la7tv.es/video/a-la-carta/7tv-en-directo/20220810150726000939.html) | [logo](https://graph.facebook.com/la7tele/picture?width=200&height=200) | 7RM.TV | EXTA |
-| La 7+ | - | [web](https://www.la7tv.es/video/a-la-carta/la-7/20221004091316003030.html) | [logo](https://graph.facebook.com/la7tele/picture?width=200&height=200) | 7RM.TV | EXTA |
+| La 7+ | - | [web](https://www.la7tv.es/video/a-la-carta/la-7/20221004091316003030.html) | [logo](https://graph.facebook.com/la7tele/picture?width=200&height=200) | - | EXTA |
 | Popular TV Murcia | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12690&live=1) | [web](https://populartvrm.com/directo) | [logo](https://pbs.twimg.com/profile_images/61224728/populartvtwitter_200x200.png) | PopularMU.TV | - |
 | Canal 1 Mar Menor Torre Pacheco | [m3u8](https://directo.tuwebtv.es/canal1.m3u8) | [web](https://www.tuwebtv.es/directo.php) | [logo](https://graph.facebook.com/tuwebtv/picture?width=200&height=200) | - | - |
 | Arabí TV | [m3u8](https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8) | [web](https://www.arabitv.es/en-directo/) | [logo](https://graph.facebook.com/arabitvyecla/picture?width=200&height=200) | - | - |
