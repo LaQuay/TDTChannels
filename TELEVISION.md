@@ -33,7 +33,7 @@
 | Agencia EFE | [youtube](https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live) | [web](https://www.efe.com) | [logo](https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200) | - | EMB |
 | Libertad Digital TV | [youtube](https://www.youtube.com/channel/UCUS73_bjTYwBFAfXbvIjM8Q/live) | [web](https://tv.libertaddigital.com/directo.html) | [logo](https://graph.facebook.com/libertad.digital.tv/picture?width=200&height=200) | Libertad.TV | EMB |
 | Negocios TV | [m3u8](https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8) - [youtube](https://www.youtube.com/channel/UCwd8Byi93KbnsYmCcKLExvQ/live) | [web](https://www.negocios.com/directo) | [logo](https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg) | Negocios.TV | - |
-| El Confidencial | [m3u8](https://d2x0ptujt9cf22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-bsk8edpvt6m4t/master.m3u8) | [web](https://www.elconfidencial.com/television/) | [logo](https://graph.facebook.com/elconfidencial/picture?width=200&height=200) | ElConfidencial.TV | - |
+| El Confidencial | [m3u8](https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-bmo0niz694whx.m3u8) | [web](https://www.elconfidencial.com/television/) | [logo](https://graph.facebook.com/elconfidencial/picture?width=200&height=200) | ElConfidencial.TV | - |
 
 ## Deportivos
 
