@@ -238,7 +238,8 @@
 | Antena Aragón | [youtube](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/live) | [web](https://diarioaragones.com) | [logo](https://yt3.ggpht.com/ytc/AL5GRJWC1oJVC1hgcGBN1OHnroVVoe_pcgLvGJWvOA8aGQ=s200) | - | EMB |
 | Calamocha TV | [stream](http://calamochatv:SPrKAXJkZH0wb0ax@pub01.dav.tcscdn.net:1083/calamochatvtcs.m3u8) | [web](https://www.mijilocatv.es) | [logo](https://graph.facebook.com/CalamochaTV/picture?width=200&height=200) | - | EMB |
 | Canal 25 Barbastro TV | [stream](https://player.twitch.tv/?channel=tvbarbastro&parent=play.tdtchannels.com) | [web](https://www.canal25tv.es) | [logo](https://graph.facebook.com/tvbarbastro/picture?width=200&height=200) | - | EMB |
-| El Tiempo en Aragón | - | [web](https://www.aragonplay.es/watch/live/699341cfc03fcc0e33b898c3) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | - | EXTA |
+| El Tiempo en Aragón | - | [web](https://www.aragonplay.es/watch/live/699341cfc03fcc0e33b898c3) | [logo](https://graph.facebook.com/AragonPlayTV/picture?width=200&height=200) | - | EXTA |
+| El Campo es Nuestro | - | [web](https://www.aragonplay.es/watch/live/6a35c996fe712a63795dc1a3) | [logo](https://graph.facebook.com/AragonPlayTV/picture?width=200&height=200) | - | EXTA,REG |
 | Cortes de Aragón | [youtube](https://www.youtube.com/channel/UCyBXbc0UicHRPJLmHppjpgQ/live) | [web](https://www.cortesaragon.es) | [logo](https://graph.facebook.com/@cortesdearagon/picture?width=200&height=200) | - | EMB |
 | Gobierno de Aragón | [youtube](https://www.youtube.com/channel/UCEIuOP1ex5JjB4JhtJ4Sbjg/live) | [web](https://www.aragon.es) | [logo](https://graph.facebook.com/GobAragon/picture?width=200&height=200) | - | EMB |
 
