@@ -565,7 +565,7 @@
 | Popular TV Murcia | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12690&live=1) | [web](https://populartvrm.com/directo) | [logo](https://pbs.twimg.com/profile_images/61224728/populartvtwitter_200x200.png) | PopularMU.TV | - |
 | Canal 1 Mar Menor Torre Pacheco | [m3u8](https://directo.tuwebtv.es/canal1.m3u8) | [web](https://www.tuwebtv.es/directo.php) | [logo](https://graph.facebook.com/tuwebtv/picture?width=200&height=200) | - | - |
 | Arabí TV | [m3u8](https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8) | [web](https://www.arabitv.es/en-directo/) | [logo](https://graph.facebook.com/arabitvyecla/picture?width=200&height=200) | - | - |
-| Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es/) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
+| Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
 | Asamblea Regional de Murcia | [youtube](https://www.youtube.com/channel/UCGWt3Hunyq2i8Qso_de8x5g/live) | [web](https://www.asambleamurcia.es) | [logo](https://graph.facebook.com/asambleamurcia/picture?width=200&height=200) | - | EMB |
 | Consejo de Gobierno de la Región de Murcia | [m3u8](https://crmlive.redctnet.es/liveedge/ConsejoGob/playlist.m3u8) | [web](https://www.carm.es) | [logo](https://graph.facebook.com/RegiondeMurciaRM/picture?width=200&height=200) | - | - |
 
