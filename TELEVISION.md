@@ -804,6 +804,7 @@
 | Olympic Channel TV | - | [web](https://olympics.com/es/live/) | [logo](https://graph.facebook.com/olympics/picture?width=200&height=200) | - | EMB |
 | FIBA | [youtube](https://www.youtube.com/user/FIBAWorld/live) | [web](https://www.livebasketball.tv/home) | [logo](https://graph.facebook.com/FIBA/picture?width=200&height=200) | - | EMB |
 | Premier Padel | [youtube](https://www.youtube.com/@PremierPadelOfficial) | [web](https://premierpadel.com/es/wheretowatch) | [logo](https://graph.facebook.com/premierpadel/picture?width=200&height=200) | - | EMB |
+| World Table Tennis | [youtube](https://www.youtube.com/@wttglobal/live) | [web](https://www.worldtabletennis.com/livevideo) | [logo](https://graph.facebook.com/WTT/picture?width=200&height=200) | - | EMB |
 | Red Bull TV | [m3u8 # EN](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](https://pbs.twimg.com/profile_images/626481857161375748/OeXi9avz_200x200.png) | - | - |
 | Meridiano Venezuela | [youtube](https://www.youtube.com/channel/UCcYfZbinuodyF8rVkl4u7Lw/live) | [web](https://meridiano.net/meridianotv.html) | [logo](https://graph.facebook.com/Meridiano.Dearmas/picture?width=200&height=200) | - | EMB |
 | Stadium USA | [m3u8 # EN](https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8) | [web](https://watchstadium.com/live/) | [logo](https://pbs.twimg.com/profile_images/1912970794524610560/M1vEMVlm_200x200.jpg) | - | - |
