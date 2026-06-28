@@ -1,82 +1,292 @@
-Para hacer más sencillas las contribuciones, a continuación indico las características que deben cumplir los aportes hacia este repositorio, en la medida de lo posible. 
-Si no te atreves a lanzarlo como _Pull Request_, no sabes como hacerla de forma correcta, o tienes dudas sobre algún concepto, nos puedes hacer llegar la petición mediante este [sencillo formulario](https://forms.gle/vKnKwSMcUPydyQgR9).
+# Contribuir al repositorio de TDTChannels
 
-## Explicación de cada columna y posibles valores
-Emplazar la nueva emisión al final de su categoría, así es más sencillo para nosotros después moverlo a la posición correspondiente. Con excepción de los canales internacionales, en los que si ya existe el país mencionado, el propuesto debe indicarse el último de ese país en concreto.
+Gracias por querer colaborar con TDTChannels.
 
-### Televisión
+Este repositorio recoge información pública sobre emisiones de televisión y radio disponibles en Internet a través de fuentes oficiales. El objetivo es mantener un listado útil, actualizado y verificable para los usuarios de TDTChannels, siempre respetando la emisión original de cada operador.
 
-#### Canal
-El nombre oficial del canal.
+Si quieres proponer un canal, corregir una emisión o avisar de un error, puedes hacerlo de dos formas:
 
-#### M3U8
-Se aceptan los siguientes formatos de _stream_. Ambos formatos tienen obligatoria su obtención a través de la plataforma oficial del emisor. Han de ser emisiones en directo.
+* **Formulario recomendado:** [tdtchannels.com/peticion](https://tdtchannels.com/peticion)
+* **Pull Request:** si sabes editar el repositorio y aportar la fuente oficial de la emisión.
 
-- **m3u8**: Priorizando las opciones `master.m3u8` y `playlist.m3u8`. Este formato es compatible con la mayoría de reproductores.
-- **youtube**: Si la cadena emite vía _YouTube_. Con formato `https://youtu.be/XXXXXX` si el tiempo de vida del stream es superior a dos semanas, y con el formato `/channel/.../live` en caso contrario. Este formato es compatible con la aplicación Android TDTChannels, la web, y la lista W3U.
-- **stream**: Si emite de forma embebida en cualquier otro formato. Este formato es compatible con la aplicación Android TDTChannels, la web, y la lista W3U.
+Para más información sobre el proyecto, aplicaciones, listas disponibles y ayuda general, consulta [tdtchannels.com](https://www.tdtchannels.com).
 
-Si el canal emite:
-- [geolocalizado](https://github.com/LaQuay/TDTChannels/wiki/FAQs#diferencia-entre-una-emisi%C3%B3n-geo-y-no-geo) a **nivel español**, se deberá añadir la coletilla `# GEO`. 
-- [geolocalizado](https://github.com/LaQuay/TDTChannels/wiki/FAQs#diferencia-entre-una-emisi%C3%B3n-geo-y-no-geo) a **nivel catalán**, se deberá añadir la coletilla `# GEOCAT`. 
-- En otro idioma que no sea el español, se deberá indicar con el código [ISO_639-1](https://es.wikipedia.org/wiki/ISO_639-1). Por ejemplo, si emite en Inglés será `[m3u8 # EN]`.
-- Diferentes calidades vía enlace para forzar el _SD_ o _HD_, entonces se podrán indicar con las coletillas `# SD` o `# HD`.
-- Varias opciones de emisión `p.e. +24 de TVE`, estas se podrán indicar con las coletillas `# 1`, `# 2`, etc.
+---
 
-Se pueden combinar diferentes opciones concatenandolas. Por ejemplo un canal en _HD_ y geolocalizado a catalunya sería `[m3u8 # GEOCAT # HD]`. Preferentemente manteniendo el orden de los puntos anteriores.
+## Principios generales
 
-Excepciones:
-- No se pueden subir enlaces convertidos a _m3u8_ de _Youtube_, _Twitch_, _Dailymotion_, _Vimeo_, etc. Pues 'caducan' muy rápido.
+Antes de enviar una contribución, ten en cuenta estos criterios:
 
-#### Web
-En este apartado se debería indicar la web de dónde sale el _stream_.
+* La emisión debe proceder de una **fuente oficial, pública y verificable**.
+* No se aceptan enlaces obtenidos mediante métodos no autorizados, extracción de tokens privados, cookies personales, credenciales, sistemas de pago, DRM o mecanismos destinados a limitar el acceso.
+* No se aceptan reemisiones, restreams, mirrors, listas IPTV de terceros ni enlaces que no puedan atribuirse claramente al emisor o a su plataforma oficial.
+* No se suben contenidos audiovisuales al repositorio. Únicamente se recoge información externa: nombre del canal, web oficial, enlace de reproducción oficial, logo y metadatos.
+* TDTChannels se reserva el criterio final de inclusión, ordenación, modificación o retirada de cualquier canal o emisora.
 
-#### Logo
-- Incluir el que más represente la emisión a mostrar.
-- Fuentes de datos, en orden de preferencia: Redes sociales del canal: _Facebook_, _Twitter_, _YouTube_; propio canal, etc.
-- Medida recomendada de 200x200.
-- Formato PNG, y si no es posible JPG.
-- Preferiblemente sin transparencias y con fondo blanco.
-- No es necesaria la aparición explicita del nombre del canal en el logo.
+---
 
-#### EPG ID
-No indiques nada en este campo, lo modificaremos nosotros a posterior.
+## Criterios de inclusión
 
-#### Info
-- `NONAV`: La emisión no funciona en navegadores web.
-- `NOEM`: El canal no emite online.
-- `EMB`: Si se trata de un video de Youtube.
+### Canales de España
 
-En caso de tener más de un `TAG` de información, concatenar con comas y sin espacios. Los demás TAGs son de administración. Si deseas conocer más, contáctanos.
+El objetivo principal de TDTChannels es incluir canales de televisión y radio que emitan de forma oficial y pública para España.
 
-### Radio
-Igual que la televisión a excepción de los formatos aceptados para la reproducción.
+Se priorizan:
 
-#### Stream
-Aplica lo mismo que para la TV. La preferencia siempre será la de elegir el _stream_. Formatos aceptados:
+* Canales con sede, licencia, cobertura o actividad principal en España.
+* Emisiones autonómicas, locales, comarcales o municipales.
+* Radios y televisiones con web oficial y emisión online estable.
+* Canales que sean accesibles habitualmente desde territorio español.
 
-- Stream
-- M3U8
-- M3U
-- MP3
+### Canales internacionales
 
-## Aviso general
-Únicamente se recoge información externa, no se permite subir contenidos al repositorio.
+Los canales internacionales pueden incluirse si tienen interés general, relevancia clara o una audiencia suficientemente significativa.
 
-## Cúando se considera un canal de interés para TDTChannels?
-El objetivo del proyecto es el de incluir todos los canales que emitan de forma legal para España. Por ello, cualquier canal que tenga su centro de emisión en España será incluido. Sin embargo, si se trata de emisiones internacionales, habrá un conjunto de criterios que serán los que determinen la inclusión del canal. Estos criterios se resumen en la importancia del canal a incluir. Empezando por el número de seguidores a nivel global (una buena metrica es Facebook y Twitter). Más info: https://github.com/LaQuay/TDTChannels/pull/1279#issuecomment-774562588
+Se valorará, entre otros factores:
 
-## Requisitos de inclusión
-Las emisiones deben cumplir los siguientes puntos:
-- La fuente debe ser la página oficial de la emisión.
-- El acceso debe ser directo, no se aceptarán emisiones previo registro / pago.
-- Deben ser visibles en España. Es el objetivo del proyecto. La mayoría del tiempo deben ser visibles en territorio español.
+* Importancia pública o informativa del canal.
+* Disponibilidad oficial de la emisión.
+* Estabilidad del enlace.
+* Accesibilidad desde España.
+* Relevancia internacional o temática.
+* Claridad de la fuente oficial.
 
-### Vía Pull Request
-En [este documento](https://github.com/LaQuay/TDTChannels/edit/master/CONTRIBUTING.md) encontrarás la información de como realizar la Pull Request
+No todos los canales internacionales propuestos serán aceptados.
 
-### Vía Formulario
-En [este formulario](https://tdtchannels.com/peticion) podrás realizar la petición.
+---
 
+## Requisitos de la emisión
 
-Gracias por colaborar!
+Para que una emisión pueda añadirse o actualizarse:
+
+* Debe estar publicada en Internet por el propio canal, grupo audiovisual, plataforma oficial o distribuidor autorizado.
+* Debe ser una emisión en directo, salvo que se indique expresamente otro tipo de contenido aceptado por el proyecto.
+* Debe ser accesible de forma gratuita. Las emisiones de pago no se aceptan.
+* Si requiere registro gratuito, se estudiará caso por caso.
+* Si está geobloqueada, debe indicarse correctamente.
+* Debe funcionar de forma razonablemente estable.
+* Debe respetar la emisión original, sin alterar, limpiar, ocultar o modificar condiciones impuestas por el emisor.
+
+---
+
+## Dónde colocar una nueva entrada
+
+Añade la nueva emisión al final de su categoría.
+
+Esto facilita la revisión posterior y permite que el equipo de TDTChannels la mueva a la posición correspondiente si finalmente se acepta.
+
+En el caso de canales internacionales, si el país ya existe, añade el canal al final del bloque de ese país.
+
+---
+
+# Televisión
+
+Las emisiones de televisión se editan en `TELEVISION.md`.
+
+Cada entrada debe mantener el formato de tabla existente.
+
+## Canal
+
+Nombre oficial del canal.
+
+Debe evitarse añadir información innecesaria al nombre salvo que sirva para diferenciar emisiones, territorios o versiones.
+
+Ejemplos:
+
+* `Canal Sur Andalucía`
+* `TVE Internacional`
+* `BBC News Reino Unido`
+
+## M3U8 / Stream
+
+En esta columna debe indicarse el enlace de reproducción oficial.
+
+Formatos aceptados:
+
+* **m3u8**: formato preferente. Se priorizan enlaces tipo `master.m3u8` o `playlist.m3u8` cuando proceden de la fuente oficial.
+* **mpd**: solo si la emisión es pública, oficial y compatible con el tratamiento actual de TDTChannels.
+* **youtube**: si el canal emite oficialmente en YouTube.
+* **stream**: para otros formatos embebidos o enlaces oficiales que deban ser tratados por la plataforma.
+
+No se aceptan:
+
+* Enlaces convertidos temporalmente desde YouTube, Twitch, Dailymotion, Vimeo u otras plataformas.
+* Enlaces extraídos de listas IPTV de terceros.
+* URLs con tokens privados, sesiones personales, cookies o parámetros no reproducibles.
+* Emisiones capturadas, reemitidas o modificadas por terceros.
+* Enlaces que el emisor no publique o no permita consumir públicamente.
+* Emisiones de pago, con DRM o detrás de una suscripción.
+
+## Etiquetas del enlace
+
+Si la emisión tiene características especiales, indícalas dentro del texto del enlace.
+
+Ejemplos:
+
+```md
+[m3u8 # GEO](...)
+[m3u8 # GEOCAT](...)
+[m3u8 # EN](...)
+[m3u8 # HD](...)
+[m3u8 # GEO # HD](...)
+```
+
+Etiquetas habituales:
+
+* `# GEO`: emisión geobloqueada o limitada territorialmente.
+* `# GEOCAT`: emisión limitada a Cataluña.
+* `# ES`, `# EN`, `# FR`, etc.: idioma principal de la emisión, usando código ISO 639-1 cuando sea necesario.
+* `# SD` / `# HD`: calidad específica si existen enlaces diferenciados.
+* `# 1`, `# 2`, etc.: varias opciones oficiales para una misma emisión.
+
+Cuando se combinen varias etiquetas, mantén un orden lógico:
+
+```md
+[m3u8 # GEO # EN # HD](...)
+```
+
+## Web
+
+Indica la página oficial desde la que se puede acceder a la emisión o verificarla.
+
+Debe ser preferiblemente:
+
+* Página oficial del canal.
+* Página oficial de directos.
+* Página del grupo audiovisual.
+* Página de la plataforma oficial del emisor.
+
+Evita webs de terceros salvo que sean distribuidores autorizados y quede claro que la emisión procede de una fuente oficial.
+
+## Logo
+
+El logo debe representar correctamente el canal o emisora.
+
+Criterios recomendados:
+
+* Fuentes: perfiles oficiales en redes sociales o plataformas verificables del canal o la web oficial del canal.
+* Tamaño recomendado: 200x200 px.
+* Formato preferente: PNG.
+* Formato alternativo: JPG.
+* Preferiblemente con fondo blanco y sin transparencias problemáticas.
+* No es imprescindible que aparezca el nombre completo del canal si el logo identifica bien la emisión.
+
+## EPG ID
+
+No rellenes este campo salvo que sepas exactamente qué identificador corresponde.
+
+En la mayoría de casos, deja `-`.
+
+El equipo de TDTChannels podrá completarlo o modificarlo posteriormente.
+
+## Info
+
+La columna `Info` permite añadir etiquetas internas sobre el comportamiento de la emisión.
+
+Etiquetas habituales:
+
+* `GEO`: bloqueo regional o territorial.
+* `NOEM`: el canal no dispone de emisión online, pero se incluye por motivos de indexación, información o EPG.
+* `REG`: requiere registro gratuito en la plataforma oficial.
+* `EXTA`: la plataforma tratará de encontrar la emisión oficial a partir del enlace indicado en la columna `web`.
+* `EXTB`: la plataforma tratará de encontrar la emisión oficial a partir del enlace indicado en la columna `M3U8`.
+* `EMB`: emisión embebida desde una plataforma oficial externa, como YouTube o Twitch.
+* `UAG` / `UAGB`: requiere User-Agent compatible con navegador.
+* `REF` / `REFI1` / `REFG1` / `REFC1`: requiere Referer.
+* `NONAV`: la emisión no funciona correctamente en navegadores web.
+
+Si hay más de una etiqueta, sepáralas con comas y sin espacios.
+
+Ejemplo:
+
+```md
+GEO,EMB,NONAV
+```
+
+Algunas etiquetas son internas de administración. Si no sabes cuál usar, deja `-` o explícalo en la Pull Request.
+
+---
+
+# Radio
+
+Las emisoras de radio se editan en `RADIO.md`.
+
+El criterio general es el mismo que para televisión: fuente oficial, pública, gratuita y verificable.
+
+## Stream
+
+Formatos aceptados habitualmente:
+
+* Stream directo
+* M3U8
+* M3U
+* MP3
+* AAC
+* OGG
+
+Se priorizará siempre el enlace oficial más estable y compatible.
+
+No se aceptan restreams, mirrors, listas de terceros ni enlaces que no procedan de la emisora o de su plataforma oficial.
+
+## Web, logo, EPG e Info
+
+Aplican los mismos criterios descritos para televisión.
+
+---
+
+## Buenas prácticas antes de enviar una Pull Request
+
+Antes de enviar una contribución:
+
+* Comprueba que el canal o emisora no exista ya.
+* Verifica que el enlace funciona.
+* Aporta siempre la web oficial desde la que sale la emisión.
+* No mezcles muchos cambios no relacionados en una misma Pull Request.
+* Explica brevemente qué has cambiado y por qué.
+* Si el enlace es geobloqueado, indícalo.
+* Si no estás seguro de algún campo, déjalo claro en el comentario de la Pull Request.
+
+---
+
+## Cambios que pueden rechazarse
+
+Una contribución puede rechazarse si:
+
+* La fuente no es oficial.
+* El enlace no funciona.
+* El enlace procede de una lista IPTV, restream, mirror o web no autorizada.
+* La emisión es de pago, requiere suscripción o está protegida por DRM.
+* El enlace depende de cookies, tokens personales o parámetros temporales.
+* El canal no tiene suficiente interés para el ámbito de TDTChannels.
+* La información aportada es incompleta o no se puede verificar.
+* La propuesta implica eludir restricciones técnicas, territoriales o comerciales del emisor.
+
+---
+
+## Aviso legal
+
+TDTChannels no aloja, almacena, emite ni retransmite contenidos audiovisuales.
+
+El repositorio contiene referencias externas a emisiones publicadas por sus respectivos operadores, grupos audiovisuales, emisoras, plataformas oficiales o distribuidores autorizados.
+
+Los derechos de emisión, comunicación pública, distribución, marcas, logos, programación y contenidos pertenecen a sus respectivos titulares.
+
+La inclusión de una emisión en TDTChannels no implica relación comercial, autorización específica, patrocinio ni afiliación con el titular del canal, salvo que se indique expresamente lo contrario.
+
+Si eres titular de derechos, representante de un canal o responsable de una emisión y quieres solicitar una corrección, actualización o retirada, puedes contactar con TDTChannels desde [tdtchannels.com](https://www.tdtchannels.com).
+
+---
+
+## Formulario de petición
+
+Si no sabes hacer una Pull Request, no tienes claro el formato o simplemente quieres proponer un canal, utiliza el formulario:
+
+[tdtchannels.com/peticion](https://tdtchannels.com/peticion)
+
+Es la vía recomendada para peticiones generales.
+
+---
+
+## Gracias
+
+Gracias por ayudar a mantener TDTChannels actualizado, útil y transparente para todos.
