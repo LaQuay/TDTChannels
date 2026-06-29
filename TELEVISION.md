@@ -234,7 +234,7 @@
 | - | - | - | - | - | - |
 | Aragón TV | - | [web](https://www.aragonplay.es/watch/live/69934178aea15ae34fa39ad0) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV.TV | EXTA |
 | Aragón TV Int. | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8) | [web](https://www.aragontelevision.es/directo) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV_INT.TV | - |
-| Aragón Noticias | [m3u8](https://cartv-streaming.aranova.es/hls/live/anoticias_canal3.m3u8) | [web](https://www.cartv.es/aragonnoticias/directo) | [logo](https://graph.facebook.com/AragonNoticias/picture?width=200&height=200) | - | - |
+| Aragón Noticias  Accesible| - | [web](https://www.aragonplay.es/watch/live/69f8215ba762c9b1ab324ac8) | [logo](https://graph.facebook.com/AragonNoticias/picture?width=200&height=200) | - | EXTA |
 | Antena Aragón | [youtube](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/live) | [web](https://diarioaragones.com) | [logo](https://yt3.ggpht.com/ytc/AL5GRJWC1oJVC1hgcGBN1OHnroVVoe_pcgLvGJWvOA8aGQ=s200) | - | EMB |
 | Calamocha TV | [stream](http://calamochatv:SPrKAXJkZH0wb0ax@pub01.dav.tcscdn.net:1083/calamochatvtcs.m3u8) | [web](https://www.mijilocatv.es) | [logo](https://graph.facebook.com/CalamochaTV/picture?width=200&height=200) | - | EMB |
 | Canal 25 Barbastro TV | [stream](https://player.twitch.tv/?channel=tvbarbastro&parent=play.tdtchannels.com) | [web](https://www.canal25tv.es) | [logo](https://graph.facebook.com/tvbarbastro/picture?width=200&height=200) | - | EMB |
