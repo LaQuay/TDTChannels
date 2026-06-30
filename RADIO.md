@@ -483,7 +483,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| 3Cat Info | [m3u8](https://directes-radio-int.3catdirectes.cat/live-content/catalunya-informacio-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/3catinfo-radio/) | [logo](https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg) | CATInformacio.Radio | - |
+| 3CatInfo | [m3u8](https://directes-radio-int.3catdirectes.cat/live-content/catalunya-informacio-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/3catinfo-radio/) | [logo](https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg) | CATInformacio.Radio | - |
 | Catalunya Música | [m3u8](https://directes-radio-int.3catdirectes.cat/live-content/catalunya-musica-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/catalunya-musica/) | [logo](https://graph.facebook.com/catmusica/picture?width=200&height=200) | CATMusica.Radio | - |
 | iCat | [m3u8](https://directes-radio-int.3catdirectes.cat/live-content/icat-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/icat/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ICat.cat.svg/250px-ICat.cat.svg.png) | iCAT.Radio | - |
 | Catalunya Ràdio Exclusiu | [m3u8](https://directes-radio-int.3catdirectes.cat/live-content/radio-oca-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/ocr1/) | [logo](https://graph.facebook.com/catradio/picture?width=200&height=200) | - | - |
@@ -554,7 +554,7 @@
 | Ripollet Radio | [mp3](https://directe.ripolletradio.cat/live?mp3) | [web](https://ripolletradio.cat/en-directe/) | [logo](https://graph.facebook.com/RipolletRadio/picture?width=200&height=200) | - | - |
 | Ràdio Sant Pere i Sant Pau | [mp3](http://212.83.151.18:36686/;stream/1?1552499879263.mp3) | [web](https://www.radiospsp.com) | [logo](https://graph.facebook.com/Radio101.0/picture?width=200&height=200) | - | - |
 | Ràdio Vilamajor | [stream](https://stream980.servemp3.com/radio) | [web](https://www.radiovilamajor.cat) | [logo](https://graph.facebook.com/radio.vilamajor/picture?width=200&height=200) | - | - |
-| Ràdio Mollet | [stream](https://enacast.com/radiomollet/streams/HD) - [mp3](https://streaming.enacast.com/radiomollet128.mp3) -| [web](https://www.radiomollet.com) | [logo](https://graph.facebook.com/radiomollet963/picture?width=200&height=200) | - | - |
+| Ràdio Mollet | [stream](https://enacast.com/radiomollet/streams/HD) - [mp3](https://streaming.enacast.com/radiomollet128.mp3) | [web](https://www.radiomollet.com) | [logo](https://graph.facebook.com/radiomollet963/picture?width=200&height=200) | - | - |
 | UAB Ràdio | [m3u8](https://videosdigitals.uab.cat/live/uabradio/playlist.m3u8) | [web](https://uab.media/uabradio) | [logo](https://pbs.twimg.com/profile_images/1445682704117235722/vR8kEFTr_200x200.jpg) | - | - |
 | Ràdio Montblanc | [mp3](https://relay.stream.enacast-cloud.com:40045/radiomontblanc128.mp3) | [web](https://www.radiomontblanc.cat) | [logo](https://graph.facebook.com/139643876226143/picture?width=200&height=200) | - | - |
 | Ràdio Voltregà | [stream](https://streaming.radiovoltrega.com/directe) | [web](https://www.radiovoltrega.com) | [logo](https://graph.facebook.com/radiovoltrega/picture?width=200&height=200) | - | - |
