@@ -13,14 +13,15 @@
 | Divinity | - | [web](https://www.mitele.es/directo/divinity) | [logo](https://graph.facebook.com/divinityes/picture?width=200&height=200) | Divinity.TV | EXTA,GEO |
 | Be Mad | - | [web](https://www.mitele.es/directo/bemad) | [logo](https://graph.facebook.com/BeMadTV/picture?width=200&height=200) | Bemad.TV | EXTA,GEO |
 | DMAX | - | [web](https://dmax.marca.com/en-directo) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
-| VEO7 | - | [web](https://www.veo7.com) | [logo](https://pbs.twimg.com/profile_images/1967488366263373824/wfREBL4G_200x200.jpg) | Veo7.TV | NOEM |
-| TRECE | [m3u8](https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | - |
 | El Toro TV | [m3u8 # 1](https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8) - [m3u8 # 2](https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | EVT |
-| mtmad 24h | - | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=200&height=200) | - | EXTA,GEO |
-| RNE para todos | [m3u8 # 1](https://ztnr.rtve.es/ztnr/6688753.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/rne-para-todos/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.TV | GEO |
+| TRECE | [m3u8](https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | - |
+| VEO7 | - | [web](https://www.veo7.com) | [logo](https://pbs.twimg.com/profile_images/1967488366263373824/wfREBL4G_200x200.jpg) | Veo7.TV | NOEM |
+| Squirrel | - | [web](https://squirreltv.es) | [logo](https://pbs.twimg.com/profile_images/1868605710218514432/98bLWAHa_200x200.jpg) | Squirrel.TV | NOEM |
+| Squirrel2 | - | [web](https://squirrel2.tv) | [logo](https://pbs.twimg.com/profile_images/1868605710218514432/98bLWAHa_200x200.jpg) | Squirrel2.TV | NOEM |
 | Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DKISS | - | [web](https://www.dkiss.es) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
 | BOM Cine | - | [web](https://www.bomcine.com) | [logo](https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_200x200.jpg) | BOM.TV | NOEM |
+| RNE para todos | [m3u8 # 1](https://ztnr.rtve.es/ztnr/6688753.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/rne-para-todos/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.TV | GEO |
 
 ## Informativos
 
@@ -95,6 +96,7 @@
 | - | - | - | - | - | - |
 | +24 | [m3u8 # 1](https://ztnr.rtve.es/ztnr/6108696.m3u8) - [m3u8 # 2](https://ztnr.rtve.es/ztnr/6108703.m3u8) - [m3u8 # 3](https://ztnr.rtve.es/ztnr/6108704.m3u8) - [m3u8 # 4](https://ztnr.rtve.es/ztnr/6108706.m3u8) - [m3u8 # 5](https://ztnr.rtve.es/ztnr/6108720.m3u8) - [m3u8 # 6](https://ztnr.rtve.es/ztnr/6108721.m3u8) | [web](https://www.rtve.es/play/videos/directo/informativos/) | [logo](https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg) | - | - |
 | +tdp | [m3u8 # 1](https://ztnr.rtve.es/ztnr/6712432.m3u8) - [m3u8 # 2](https://ztnr.rtve.es/ztnr/6712453.m3u8) - [m3u8 # 3](https://ztnr.rtve.es/ztnr/6712402.m3u8) - [m3u8 # 4](https://ztnr.rtve.es/ztnr/6712407.m3u8) - [m3u8 # 5](https://ztnr.rtve.es/ztnr/6712431.m3u8) - [m3u8 # 6](https://ztnr.rtve.es/ztnr/6712410.m3u8) - [m3u8 # 7](https://ztnr.rtve.es/ztnr/6712426.m3u8) - [m3u8 # 8](https://ztnr.rtve.es/ztnr/6712411.m3u8) - [m3u8 # 9](https://ztnr.rtve.es/ztnr/6712456.m3u8) | [web](https://www.rtve.es/play/videos/directo/deportes/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200) | - | - |
+| mtmad 24h | - | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=200&height=200) | - | EXTA,GEO |
 | ¡HOLA! Play | [m3u8](https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8) | [web](https://www.hola.com/tv/) | [logo](https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200) | - | - |
 | Conciertos Radio 3 (RTVE) | [m3u8](https://ztnr.rtve.es/ztnr/6924117.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/conciertos-radio-3/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Conciertos_R3.TV | - |
 | Cuéntame (RTVE) | [m3u8](https://ztnr.rtve.es/ztnr/6909843.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-cuentame/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Cuentame.TV | - |
