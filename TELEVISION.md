@@ -235,8 +235,10 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Aragón TV | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8) | [web](https://www.aragontelevision.es/directo) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV.TV | - |
-| Aragón Noticias | [m3u8](https://cartv-streaming.aranova.es/hls/live/anoticias_canal3.m3u8) | [web](https://www.cartv.es/aragonnoticias/directo) | [logo](https://graph.facebook.com/AragonNoticias/picture?width=200&height=200) | - | - |
+| Aragón TV | - | [web](https://www.aragonplay.es/watch/live/69934178aea15ae34fa39ad0) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV.TV | EXTA |
+| Aragón Noticias Accesible | - | [web](https://www.aragonplay.es/watch/live/69f8215ba762c9b1ab324ac8) | [logo](https://graph.facebook.com/AragonNoticias/picture?width=200&height=200) | Aragón_Noticias.TV | EXTA |
+| El Tiempo en Aragón (AragonPlay) | - | [web](https://www.aragonplay.es/watch/live/699341cfc03fcc0e33b898c3) | [logo](https://graph.facebook.com/AragonPlayTV/picture?width=200&height=200) | - | EXTA |
+| El Campo es Nuestro (AragonPlay) | - | [web](https://www.aragonplay.es/watch/live/6a35c996fe712a63795dc1a3) | [logo](https://graph.facebook.com/AragonPlayTV/picture?width=200&height=200) | El_Campo_Nuestro.TV | EXTA,REG |
 | Antena Aragón | [youtube](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/live) | [web](https://diarioaragones.com) | [logo](https://yt3.ggpht.com/ytc/AL5GRJWC1oJVC1hgcGBN1OHnroVVoe_pcgLvGJWvOA8aGQ=s200) | - | EMB |
 | Calamocha TV | [stream](http://calamochatv:SPrKAXJkZH0wb0ax@pub01.dav.tcscdn.net:1083/calamochatvtcs.m3u8) | [web](https://www.mijilocatv.es) | [logo](https://graph.facebook.com/CalamochaTV/picture?width=200&height=200) | - | EMB |
 | Canal 25 Barbastro TV | [stream](https://player.twitch.tv/?channel=tvbarbastro&parent=play.tdtchannels.com) | [web](https://www.canal25tv.es) | [logo](https://graph.facebook.com/tvbarbastro/picture?width=200&height=200) | - | EMB |
@@ -581,6 +583,7 @@
 | TV3.CAT | [m3u8](https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/tv3/) | [logo](https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png) | TVC.TV | - |
 | TVG Europa | [m3u8](https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8) | [web](https://agalega.gal/videos/76475-tvg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
 | Telemadrid Internacional | [youtube](https://www.youtube.com/channel/UCv2BcgqxHSrl2QQfIkjR5Eg/live) | [web](https://www.tlmad.es/pages/live/internacional) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | TeleMadridInt.TV | EMB,EXTA |
+| Aragón TV INT | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8) | [web](https://www.aragontelevision.es/directo) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV_INT.TV | - |
 | TV Canaria Net | [m3u8](https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8) | [web](https://www.canariasplay.es/videos/314793-ott7) | [logo](https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200) | - | - |
 | GCM Internacional | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12128&live=1) | [web](https://www.grupocadenamedia.es) | [logo](https://pbs.twimg.com/profile_images/1752299087402041344/eAHH3L02_200x200.jpg) | - | - |
 | ATV Andorra | [m3u8](https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8) | [web](https://www.rtva.ad/en-directe/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVHD.TV | EXTA |
