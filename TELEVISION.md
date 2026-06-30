@@ -17,7 +17,7 @@
 | TRECE | [m3u8](https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | - |
 | VEO7 | - | [web](https://www.veo7.com) | [logo](https://pbs.twimg.com/profile_images/2067908827161198592/mqYsR_tf_200x200.png) | Veo7.TV | NOEM |
 | Squirrel | - | [web](https://squirreltv.es) | [logo](https://pbs.twimg.com/profile_images/1868605710218514432/98bLWAHa_200x200.jpg) | Squirrel.TV | NOEM |
-| Squirrel2 | - | [web](https://squirrel2.tv) | [logo](https://pbs.twimg.com/profile_images/1868605710218514432/98bLWAHa_200x200.jpg) | Squirrel2.TV | NOEM |
+| Squirrel2 | - | [web](https://squirrel2.tv) | [logo](https://pbs.twimg.com/profile_images/2007038154994294784/NqJe7hvI_200x200.jpg) | Squirrel2.TV | NOEM |
 | Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DKISS | - | [web](https://www.dkiss.es) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
 | BOM Cine | - | [web](https://www.bomcine.com) | [logo](https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_200x200.jpg) | BOM.TV | NOEM |
