@@ -804,7 +804,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Olympic Channel TV | - | [web](https://olympics.com/es/live/) | [logo](https://graph.facebook.com/olympics/picture?width=200&height=200) | - | EMB |
+| Olympic Channel | - | [web](https://olympics.com/es/live/) | [logo](https://graph.facebook.com/olympics/picture?width=200&height=200) | - | EXTA |
 | FIBA | [youtube](https://www.youtube.com/user/FIBAWorld/live) | [web](https://www.livebasketball.tv/home) | [logo](https://graph.facebook.com/FIBA/picture?width=200&height=200) | - | EMB |
 | Premier Padel | [youtube](https://www.youtube.com/@PremierPadelOfficial) | [web](https://premierpadel.com/es/wheretowatch) | [logo](https://graph.facebook.com/premierpadel/picture?width=200&height=200) | - | EMB |
 | Red Bull TV | [m3u8 # EN](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](https://pbs.twimg.com/profile_images/626481857161375748/OeXi9avz_200x200.png) | - | - |
