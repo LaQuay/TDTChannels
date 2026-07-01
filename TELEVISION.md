@@ -739,6 +739,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| TVE Int. Asia y Pacífico | [m3u8 # 1](https://rtvelivestream.rtve.es/rtvesec/int/tvei_asia_main_dvr.m3u8) - [m3u8 # 2](https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_dvr_1080.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-internacional-asia/) | [logo](https://graph.facebook.com/tveInternacional/picture?width=200&height=200) | - | GEO |
 | CGTN China | [m3u8 # 1](https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8) - [m3u8 # 2](https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8) | [web](https://espanol.cgtn.com/en-directo) | [logo](https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200) | CGTN.TV | - |
 | CGTN News China | [m3u8 # EN](https://english-livebkali.cgtn.com/live/encgtn.m3u8) | [web](https://www.cgtn.com/tv) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200) | - | - |
 | CGTN Documentary China | [m3u8 # EN](https://english-livebkali.cgtn.com/live/doccgtn.m3u8) | [web](https://www.cgtn.com/channel/documentary) | [logo](https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200) | - | - |
