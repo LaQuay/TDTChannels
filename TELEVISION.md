@@ -596,9 +596,9 @@
 | TV5Monde Francia | [m3u8 # FR](https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8) | [web](https://europe.tv5monde.com/en/live) | [logo](https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200) | TV5Monde.TV | - |
 | franceinfo: Francia | [youtube # FR](https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live) | [web](https://www.francetvinfo.fr/en-direct/tv.html) | [logo](https://pbs.twimg.com/profile_images/1019886363515211776/D2TBSqHw_200x200.jpg) | - | EMB |
 | CNEWS Francia | [stream # FR](https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1) | [web](https://www.cnews.fr/le-direct) | [logo](https://graph.facebook.com/CNEWSofficiel/picture?width=200&height=200) | - | EXTB,EMB |
-| Rai 1 Italia | - | [web](https://www.raiplay.it/dirette/rai1) | [logo](https://graph.facebook.com/Rai1/picture?width=200&height=200) | - | EXTA |
-| Rai 2 Italia | - | [web](https://www.raiplay.it/dirette/rai2) | [logo](https://graph.facebook.com/Rai2/picture?width=200&height=200) | - | EXTA |
-| Rai 3 Italia | - | [web](https://www.raiplay.it/dirette/rai3) | [logo](https://graph.facebook.com/Rai3/picture?width=200&height=200) | - | EXTA |
+| Rai 1 Italia | - | [web](https://www.raiplay.it/dirette/rai1) | [logo](https://graph.facebook.com/Rai1/picture?width=200&height=200) | - | GEO,EXTA |
+| Rai 2 Italia | - | [web](https://www.raiplay.it/dirette/rai2) | [logo](https://graph.facebook.com/Rai2/picture?width=200&height=200) | - | GEO,EXTA |
+| Rai 3 Italia | - | [web](https://www.raiplay.it/dirette/rai3) | [logo](https://graph.facebook.com/Rai3/picture?width=200&height=200) | - | GEO,EXTA |
 | Rai News 24 Italia | - | [web](https://www.rainews.it/notiziari/rainews24) | [logo](https://graph.facebook.com/RaiNews/picture?width=200&height=200) | RaiN.TV | EXTA |
 | Sport Italia | [m3u8 # IT](https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8) - [m3u8 # 2](https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8) - [m3u8 # 3](https://origin-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8) | [web](https://sportitalialive.it/sihd/) | [logo](https://graph.facebook.com/sportitaliatv/picture?width=200&height=200) | - | - |
 | La7 Italia | [m3u8 # IT](https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8) | [web](https://tg.la7.it/dirette-tv) | [logo](https://graph.facebook.com/tgla7/picture?width=200&height=200) | - | - |
