@@ -223,7 +223,7 @@
 | Mijas 3.40 TV | [m3u8](https://streaming004.gestec-video.com/hls/MIJAS.m3u8) | [web](https://mijascomunicacion.com/mijas-340-tv-en-directo/) | [logo](https://graph.facebook.com/Mijas340TV/picture?width=200&height=200) | Mijas340TV.TV | - |
 | PTV Granada | [m3u8](https://streamer.zapitv.com/PTV-granada/index.m3u8) | [web](https://ptvtelecom.com/canales/granada.html) | [logo](https://graph.facebook.com/PTVGranada/picture?width=200&height=200) | PTV_Granada.TV | UAGB |
 | PTV Córdoba | [m3u8](https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8) | [web](https://ptvtelecom.com/canales/cordoba.html) | [logo](https://graph.facebook.com/PTVCOR/picture?width=200&height=200) | - | UAGB |
-| TV Carmona | [youtube](https://youtu.be/VVmkfTKxOyk) | [web](https://www.televisioncarmona.com) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
+| TV Carmona | [youtube](https://youtu.be/7AsdcDezI8o) | [web](https://www.televisioncarmona.com) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
 | MIRA TV | - | [web](https://www.elmira.es/miratv/) | [logo](https://graph.facebook.com/miratelevision/picture?width=200&height=200) | - | EXTA |
 | Canal Coín | [m3u8](https://canalcoin.garjim.es/hls/directo.m3u8) | [web](https://canalcoin.com/tv-directo/) | [logo](https://graph.facebook.com/106272064368271/picture?width=200&height=200) | CanalCoin.TV | - |
 | Diez TV Andújar | [m3u8](https://streamtv2.elitecomunicacion.cloud:3305/live/10tvandujarlive.m3u8) | [web](https://dieztv.es/dieztv-andujar-directo/) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | DiezTV_Andujar.TV | - |
