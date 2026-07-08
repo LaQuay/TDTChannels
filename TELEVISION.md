@@ -312,17 +312,17 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 7 | - | [web](https://www.cyltv.es/live/La7) | [logo](https://graph.facebook.com/cyltv/picture?width=200&height=200) | La7.TV | EXTA |
-| La 8 Avila | - | [web](https://www.cyltv.es/live/La8Avila) | [logo](https://pbs.twimg.com/profile_images/1364545643319087104/7qp4nrtS_200x200.jpg) | La8CYL.TV | EXTA |
-| La 8 Bierzo | - | [web](https://www.cyltv.es/Live/La8Bierzo) | [logo](https://graph.facebook.com/La8Bierzo/picture?width=200&height=200) | La8CYL.TV | EXTA |
-| La 8 Burgos | - | [web](https://www.cyltv.es/live/La8Burgos) | [logo](https://graph.facebook.com/La8Burgos/picture?width=200&height=200) | La8CYL_Burgos.TV | EXTA |
-| La 8 Leon | - | [web](https://www.cyltv.es/live/La8Leon) | [logo](https://pbs.twimg.com/profile_images/1367754156711288839/c01QAS89_200x200.jpg) | La8CYL.TV | EXTA |
-| La 8 Palencia | - | [web](https://www.cyltv.es/live/La8Palencia) | [logo](https://graph.facebook.com/La8Palencia/picture?width=200&height=200) | La8CYL.TV | EXTA |
-| La 8 Salamanca | - | [web](https://www.cyltv.es/live/La8Salamanca) | [logo](https://graph.facebook.com/la8salamanca/picture?width=200&height=200) | La8CYL.TV | EXTA |
-| La 8 Segovia | - | [web](https://www.cyltv.es/live/La8Segovia) | [logo](https://graph.facebook.com/la8segovia/picture?width=200&height=200) | La8CYL.TV | EXTA |
-| La 8 Soria | - | [web](https://www.cyltv.es/live/La8Soria) | [logo](https://graph.facebook.com/La8Soria/picture?width=200&height=200) | La8CYL.TV | EXTA |
-| La 8 Valladolid | - | [web](https://www.cyltv.es/live/La8Valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | La8CYL_Valla.TV | EXTA |
-| La 8 Zamora | - | [web](https://www.cyltv.es/live/La8Zamora) | [logo](https://graph.facebook.com/la8zamora/picture?width=200&height=200) | La8CYL.TV | EXTA |
+| La 7 | - | [web](https://www.cyltvplay.es/player/d3badef6-d229-4a27-9609-03df3d17ca3/la7/la7) | [logo](https://graph.facebook.com/cyltv/picture?width=200&height=200) | La7.TV | EXTA |
+| La 8 Avila | - | [web](https://www.cyltvplay.es/player/8ff2818d-60f4-43dd-a76f-7e43644e51d/la8av/la-8-avila) | [logo](https://pbs.twimg.com/profile_images/1364545643319087104/7qp4nrtS_200x200.jpg) | La8CYL.TV | EXTA |
+| La 8 Bierzo | - | [web](https://www.cyltvplay.es/player/f10db0a9-9d70-4c22-a331-54f18e37a50/la8bi/la-8-bierzo) | [logo](https://graph.facebook.com/La8Bierzo/picture?width=200&height=200) | La8CYL.TV | EXTA |
+| La 8 Burgos | - | [web](https://www.cyltvplay.es/player/f6b3c206-798e-4ef9-aad7-beb4c0369b0/la8bu/la-8-burgos) | [logo](https://graph.facebook.com/La8Burgos/picture?width=200&height=200) | La8CYL_Burgos.TV | EXTA |
+| La 8 Leon | - | [web](https://www.cyltvplay.es/player/9981645e-51e3-4959-90ac-8e73efcfd15/la8le/la-8-leon) | [logo](https://pbs.twimg.com/profile_images/1367754156711288839/c01QAS89_200x200.jpg) | La8CYL.TV | EXTA |
+| La 8 Palencia | - | [web](https://www.cyltvplay.es/player/873e0dae-6224-4e3a-8c60-acf7b56e2cc/la8pa/la-8-palencia) | [logo](https://graph.facebook.com/La8Palencia/picture?width=200&height=200) | La8CYL.TV | EXTA |
+| La 8 Salamanca | - | [web](https://www.cyltvplay.es/player/4b93450f-34f7-4301-9dc1-d43b076f117/la8sa/la-8-salamanca) | [logo](https://graph.facebook.com/la8salamanca/picture?width=200&height=200) | La8CYL.TV | EXTA |
+| La 8 Segovia | - | [web](https://www.cyltvplay.es/player/cd2029ac-aea3-4f48-accf-14caed70a33/la8se/la-8-segovia) | [logo](https://graph.facebook.com/la8segovia/picture?width=200&height=200) | La8CYL.TV | EXTA |
+| La 8 Soria | - | [web](https://www.cyltvplay.es/player/36864735-715b-4d21-b934-242d3ace2e4/la8so/la-8-soria) | [logo](https://graph.facebook.com/La8Soria/picture?width=200&height=200) | La8CYL.TV | EXTA |
+| La 8 Valladolid | - | [web](https://www.cyltvplay.es/player/6e84baf4-1546-4572-9df7-347120782b4/la8va/la-8-valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | La8CYL_Valla.TV | EXTA |
+| La 8 Zamora | - | [web](https://www.cyltvplay.es/player/e176f0c7-3c25-4892-98be-98fea180e8e/la8za/la-8-zamora) | [logo](https://graph.facebook.com/la8zamora/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | 987 TV | [youtube](https://www.youtube.com/channel/UC41bdA6AiwEb34_S7KcMHOw/live) | [web](https://987tv.es) | [logo](https://graph.facebook.com/987tv/picture?width=200&height=200) | - | EMB |
 | Canal 54 | [youtube](https://www.youtube.com/channel/UCUe08XE2qatlrBclUWTr81Q/live) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
 | TV Aranda | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12686&live=1) | [web](https://www.telearanda.es) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | - |
