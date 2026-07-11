@@ -77,7 +77,7 @@
 | Élite Oldies | [stream](https://streaming2.elitecomunicacion.es/proxy/eliteoldies/stream) | [web](https://www.cadenaelite.es/eliteoldies/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 | Élite Urban | [stream](https://streaming2.elitecomunicacion.es/proxy/eliteurban/stream) | [web](https://www.cadenaelite.es/eliteurban/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 | MariskalRock Radio | [stream](https://media.profesionalhosting.com:8047/stream) | [web](https://mariskalrock.com) | [logo](https://graph.facebook.com/mariskalrock/picture?width=200&height=200) | - | - |
-| La Urban Radio | [stream](https://radio.urbanrevolution.es:8443/hispano) | [web](https://www.urbanrevolution.es) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
+| La Urban Radio | [stream](https://radio.urbanrevolution.es:8443/hispano) | [web](https://Urbanrevolution.es) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
 
 ## Deportivas
 
