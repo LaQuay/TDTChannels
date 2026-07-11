@@ -215,7 +215,7 @@
 | RTV Tarifa | [youtube](https://www.youtube.com/channel/UCx5_sA41mFHsZio4umTH3Qw/live) | [web](https://www.youtube.com/@RTVTARIFA) | [logo](https://graph.facebook.com/RTVTARIFA/picture?width=200&height=200) | - | EMB |
 | Torremolinos TV | [m3u8](https://cdnlivevlc.codev8.net/canaltorremolinoslive/smil:channel1.smil/playlist.m3u8) | [web](https://torremolinostv.com/tv-en-directo/) | [logo](https://graph.facebook.com/torremolinostv/picture?width=200&height=200) | Torrevision.TV | - |
 | TG7 | [m3u8](https://flu-01.hucame.es/TG7/index.fmp4.m3u8) | [web](https://tg7.es) | [logo](https://graph.facebook.com/TG7tv/picture?width=200&height=200) | - | - |
-| Sal TV | [m3u8](https://nimble.tuyapro.es/saltv/tv/playlist.m3u8) | [web](https://www.saltv.es/programacion/) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | - |
+| Sal TV | [m3u8](https://nimble.tuyapro.es/saltv/tv/playlist.m3u8) | [web](https://www.saltv.es/elementor-92444/) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | - |
 | Manilva TV | [m3u8](https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/tracks-v1a1/mono.m3u8) | [web](https://www.rtvmanilva.com/tvdirecto/) | [logo](https://graph.facebook.com/rtvmanilva/picture?width=200&height=200) | - | NONAV,REFC1 |
 | Fuengirola TV | [m3u8](https://streaming004.gestec-video.com/hls/FTV.m3u8) | [web](https://fuengirolatv.com/directo-ftv/) | [logo](https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200) | FuengirolaTV.TV | - |
 | 9 la Loma TV | [m3u8](https://9laloma.tv/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=200&height=200) | 9LaLoma.TV | NONAV |
