@@ -4,7 +4,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 1 | [m3u8 # 1](https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8) - [m3u8 # 2](https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619)| [web](https://www.rtve.es/play/videos/directo/la-1/) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAkEfk96B4C3wdml0A6_Ewv8zhsVAj2AVDSLpS34DMw&s) | La1.TV | GEO |
+| La 1 | [m3u8 # 1](https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8) - [m3u8 # 2](https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE])| [web](https://www.rtve.es/play/videos/directo/la-1/) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAkEfk96B4C3wdml0A6_Ewv8zhsVAj2AVDSLpS34DMw&s) | La1.TV | GEO |
 | La 2 | [m3u8 # 1](https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8) - [m3u8 # 2](https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618)| [web](https://www.rtve.es/play/videos/directo/la-2/) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200) | La2.TV | GEO |
 | Cuatro | -| [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | EXTA,GEO |
 | Telecinco | - | [web](https://www.mitele.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=200&height=200) | Telecinco.TV | EXTA,GEO |
