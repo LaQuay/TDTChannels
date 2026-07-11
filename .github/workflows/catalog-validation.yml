@@ -1,0 +1,68 @@
+name: Catalog validation
+
+on:
+  pull_request:
+    paths:
+      - TELEVISION.md
+      - RADIO.md
+      - scripts/pr_review/**
+      - .github/workflows/catalog-validation.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: catalog-validation-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Validate catalog changes
+    runs-on: ubuntu-slim
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run unit tests
+        id: unit_tests
+        run: python -m unittest discover -s scripts/pr_review/tests -v
+
+      - name: Run blocking deterministic validation
+        id: deterministic_validation
+        env:
+          GITHUB_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: python scripts/pr_review/validate_catalog.py
+
+      - name: Run advisory stream availability checks
+        id: network_checks
+        continue-on-error: true
+        env:
+          GITHUB_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: python scripts/pr_review/validate_catalog.py --network
+
+      - name: Publish validation summary
+        if: always()
+        env:
+          UNIT_TESTS: ${{ steps.unit_tests.outcome }}
+          DETERMINISTIC_VALIDATION: ${{ steps.deterministic_validation.outcome }}
+          NETWORK_CHECKS: ${{ steps.network_checks.outcome }}
+        run: |
+          {
+            echo "## Catalog validation"
+            echo
+            echo "| Check | Result | Blocking |"
+            echo "| --- | --- | --- |"
+            echo "| Unit tests | $UNIT_TESTS | Yes |"
+            echo "| Format and duplicate validation | $DETERMINISTIC_VALIDATION | Yes |"
+            echo "| Stream availability | $NETWORK_CHECKS | No |"
+            echo
+            echo "Stream availability is advisory because streams may be geo-restricted or reject GitHub-hosted runners."
+          } >> "$GITHUB_STEP_SUMMARY"
