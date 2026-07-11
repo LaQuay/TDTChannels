@@ -4,7 +4,7 @@ import collections
 from typing import Sequence
 
 from catalog import links_in, normalized
-from models import Entry, Problem
+from models import DUPLICATE_EPG_IDS, DUPLICATE_NAMES, DUPLICATE_STREAM_URLS, Entry, Problem
 
 
 def _duplicate_values(entries: Sequence[Entry], kind: str) -> dict[tuple[str, str], list[Entry]]:
@@ -31,7 +31,12 @@ def new_duplicate_problems(
     base_entries: Sequence[Entry], head_entries: Sequence[Entry]
 ) -> list[Problem]:
     problems: list[Problem] = []
-    for kind in ("name", "stream URL", "EPG ID"):
+    kinds = (
+        ("name", DUPLICATE_NAMES),
+        ("stream URL", DUPLICATE_STREAM_URLS),
+        ("EPG ID", DUPLICATE_EPG_IDS),
+    )
+    for kind, check in kinds:
         base = _duplicate_values(base_entries, kind)
         head = _duplicate_values(head_entries, kind)
         for key, duplicate_entries in head.items():
@@ -40,6 +45,6 @@ def new_duplicate_problems(
             locations = ", ".join(f"{item.catalog}:{item.line}" for item in duplicate_entries)
             for entry in duplicate_entries:
                 problems.append(
-                    Problem(entry.catalog, entry.line, f"new duplicate {kind} (also at {locations})")
+                    Problem(entry.catalog, entry.line, check, f"new duplicate {kind} (also at {locations})")
                 )
     return problems
