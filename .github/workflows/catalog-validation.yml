@@ -5,8 +5,7 @@ on:
     paths:
       - TELEVISION.md
       - RADIO.md
-      - scripts/pr_review/validate_catalog.py
-      - scripts/pr_review/tests/test_validate_catalog.py
+      - scripts/pr_review/**
       - .github/workflows/catalog-validation.yml
 
 permissions:
