@@ -5,8 +5,8 @@ on:
     paths:
       - TELEVISION.md
       - RADIO.md
-      - pr_review/validate_catalog.py
-      - pr_review/tests/test_validate_catalog.py
+      - scripts/pr_review/validate_catalog.py
+      - scripts/pr_review/tests/test_validate_catalog.py
       - .github/workflows/catalog-validation.yml
 
 permissions:
@@ -33,15 +33,15 @@ jobs:
           python-version: "3.12"
 
       - name: Run unit tests
-        run: python -m unittest discover -s pr_review/tests -v
+        run: python -m unittest discover -s scripts/pr_review/tests -v
 
       - name: Run blocking deterministic validation
         env:
           GITHUB_BASE_SHA: ${{ github.event.pull_request.base.sha }}
-        run: python pr_review/validate_catalog.py
+        run: python scripts/pr_review/validate_catalog.py
 
       - name: Run advisory stream availability checks
         continue-on-error: true
         env:
           GITHUB_BASE_SHA: ${{ github.event.pull_request.base.sha }}
-        run: python pr_review/validate_catalog.py --network
+        run: python scripts/pr_review/validate_catalog.py --network
