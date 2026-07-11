@@ -20,12 +20,12 @@
 - José Antonio [@nomentero](https://github.com/Nomenteros)
 - Juan [@okelet](https://github.com/okelet)
 - Miguel A. [@MiguelAngel2345](https://github.com/MiguelAngel2345)
+- Playz [@playzzz](https://github.com/playzzz)
 - Ricardo [@RicardoVelaC](https://github.com/RicardoVelaC)
 - Valentin [@vk496](https://github.com/vk496)
 
 #### Antiguos Colaboradores)
 - HelmerLuzo [@HelmerLuzo](https://github.com/HelmerLuzo)
-- Playz [@playzzz](https://github.com/playzzz)
 
 Si haces una *Pull Request*, no olvides incluirte en este fichero. 
 
