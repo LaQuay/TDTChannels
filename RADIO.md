@@ -79,6 +79,7 @@
 | MariskalRock Radio | [stream](https://media.profesionalhosting.com:8047/stream) | [web](https://mariskalrock.com) | [logo](https://graph.facebook.com/mariskalrock/picture?width=200&height=200) | - | - |
 | La Urban Radio | [stream](https://radio.urbanrevolution.es:8443/hispano) | [web](https://Urbanrevolution.es) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
 | FLOW Radio | [stream](http://flow.urbanrevolution.es:8445/flow) | [web](https://flowradio.es/) | [logo](https://graph.facebook.com/flowradio.es/picture?width=200&height=200) | - | - |
+| House Radio | [stream](https://house.urbanrevolution.es:8446/houseaac) | [web](https://house.urbanrevolution.es:446/public/house_radio_spain) | [logo](https://graph.facebook.com/houseradiofm/picture?width=200&height=200) | - | - |
 
 ## Deportivas
 
