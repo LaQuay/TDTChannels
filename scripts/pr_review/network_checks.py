@@ -9,7 +9,7 @@ import urllib.parse
 import urllib.request
 
 from catalog import links_in
-from models import Entry, Problem
+from models import STREAM_AVAILABILITY, Entry, Problem
 
 
 USER_AGENT = "Catalog-Link-Validator/1.0"
@@ -96,9 +96,16 @@ def network_warnings(entries: Sequence[Entry]) -> list[Problem]:
             except Exception as error:  # advisory checks must never break validation
                 message = f"unexpected check failure ({error.__class__.__name__})"
             if message:
-                warnings.append(Problem(entry.catalog, entry.line, f"advisory stream check: {message}"))
+                warnings.append(
+                    Problem(entry.catalog, entry.line, STREAM_AVAILABILITY, f"advisory stream check: {message}")
+                )
     if omitted and entries:
         warnings.append(
-            Problem(entries[0].catalog, entries[0].line, f"advisory stream check skipped {omitted} URLs after the safety limit")
+            Problem(
+                entries[0].catalog,
+                entries[0].line,
+                STREAM_AVAILABILITY,
+                f"advisory stream check skipped {omitted} URLs after the safety limit",
+            )
         )
     return sorted(warnings, key=lambda item: (item.catalog, item.line, item.message))

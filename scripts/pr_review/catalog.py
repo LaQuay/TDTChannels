@@ -4,7 +4,7 @@ import re
 from typing import Sequence
 import urllib.parse
 
-from models import Entry, Problem
+from models import EPG_ID, INFO_TAGS, LOGO_FORMAT, NAME, ROW_STRUCTURE, STREAM_FORMAT, WEB_FORMAT, Entry, Problem
 
 
 CATALOGS = ("TELEVISION.md", "RADIO.md")
@@ -66,61 +66,62 @@ def _validate_link_cell(
     entry: Entry,
     cell: str,
     field: str,
+    check: str,
     allowed_labels: set[str],
     *,
     allow_dash: bool,
     exactly_one: bool = False,
 ) -> list[Problem]:
     if cell == "-":
-        return [] if allow_dash else [Problem(entry.catalog, entry.line, f"{field} may not be '-'")]
+        return [] if allow_dash else [Problem(entry.catalog, entry.line, check, f"{field} may not be '-'")]
     matches = _parsed_links(cell)
     if not matches:
-        return [Problem(entry.catalog, entry.line, f"{field} must contain an HTTP(S) Markdown link")]
+        return [Problem(entry.catalog, entry.line, check, f"{field} must contain an HTTP(S) Markdown link")]
     if exactly_one and len(matches) != 1:
-        return [Problem(entry.catalog, entry.line, f"{field} must contain exactly one Markdown link")]
+        return [Problem(entry.catalog, entry.line, check, f"{field} must contain exactly one Markdown link")]
 
     problems: list[Problem] = []
     cursor = 0
     for index, (link_text, url, start, end) in enumerate(matches):
         separator = cell[cursor:start].strip()
         if separator != ("" if index == 0 else "-"):
-            problems.append(Problem(entry.catalog, entry.line, f"{field} links must be separated by ' - '"))
+            problems.append(Problem(entry.catalog, entry.line, check, f"{field} links must be separated by ' - '"))
             break
         label = link_text.split(maxsplit=1)[0].casefold()
         if label not in allowed_labels:
             allowed = ", ".join(sorted(allowed_labels))
             problems.append(
-                Problem(entry.catalog, entry.line, f"unsupported {field} link label '{label}' (expected: {allowed})")
+                Problem(entry.catalog, entry.line, check, f"unsupported {field} link label '{label}' (expected: {allowed})")
             )
         parsed = urllib.parse.urlsplit(url)
         if parsed.scheme not in {"http", "https"} or not parsed.hostname:
-            problems.append(Problem(entry.catalog, entry.line, f"{field} link must be an absolute HTTP(S) URL"))
+            problems.append(Problem(entry.catalog, entry.line, check, f"{field} link must be an absolute HTTP(S) URL"))
         elif parsed.username is not None or parsed.password is not None:
-            problems.append(Problem(entry.catalog, entry.line, f"{field} link must not contain embedded credentials"))
+            problems.append(Problem(entry.catalog, entry.line, check, f"{field} link must not contain embedded credentials"))
         cursor = end
     if cell[cursor:].strip():
-        problems.append(Problem(entry.catalog, entry.line, f"unexpected text after the final {field} link"))
+        problems.append(Problem(entry.catalog, entry.line, check, f"unexpected text after the final {field} link"))
     return problems
 
 
 def validate_entry(entry: Entry) -> list[Problem]:
     problems: list[Problem] = []
     if not entry.name or entry.name == "-":
-        problems.append(Problem(entry.catalog, entry.line, "channel or station name is required"))
+        problems.append(Problem(entry.catalog, entry.line, NAME, "channel or station name is required"))
     problems.extend(
-        _validate_link_cell(entry, entry.stream, "stream", STREAM_LABELS[entry.catalog], allow_dash=True)
+        _validate_link_cell(entry, entry.stream, "stream", STREAM_FORMAT, STREAM_LABELS[entry.catalog], allow_dash=True)
     )
     problems.extend(
-        _validate_link_cell(entry, entry.web, "web", {"web"}, allow_dash=False, exactly_one=True)
+        _validate_link_cell(entry, entry.web, "web", WEB_FORMAT, {"web"}, allow_dash=False, exactly_one=True)
     )
     problems.extend(
-        _validate_link_cell(entry, entry.logo, "logo", {"logo"}, allow_dash=False, exactly_one=True)
+        _validate_link_cell(entry, entry.logo, "logo", LOGO_FORMAT, {"logo"}, allow_dash=False, exactly_one=True)
     )
     if not entry.epg_id:
-        problems.append(Problem(entry.catalog, entry.line, "EPG ID must be '-' or a value"))
+        problems.append(Problem(entry.catalog, entry.line, EPG_ID, "EPG ID must be '-' or a value"))
     if not entry.info or (entry.info != "-" and not INFO_RE.fullmatch(entry.info)):
         problems.append(
-            Problem(entry.catalog, entry.line, "Info must be '-' or comma-separated uppercase tags without spaces")
+            Problem(entry.catalog, entry.line, INFO_TAGS, "Info must be '-' or comma-separated uppercase tags without spaces")
         )
     return problems
 
@@ -138,7 +139,7 @@ def parse_catalog(catalog: str, text: str) -> tuple[list[Entry], list[Problem]]:
         cells = split_row(line)
         if cells is None or len(cells) != 6:
             problems.append(
-                Problem(catalog, line_number, "catalog rows must have exactly six pipe-delimited columns")
+                Problem(catalog, line_number, ROW_STRUCTURE, "catalog rows must have exactly six pipe-delimited columns")
             )
             continue
         entries.append(Entry(catalog, line_number, section, *cells))
@@ -165,11 +166,11 @@ def changed_entries(
                 and not SEPARATOR_RE.fullmatch(line)
                 and not any(problem.line == line_number for problem in problems)
             ):
-                problems.append(Problem(catalog, line_number, "unrecognized or malformed catalog table row"))
+                problems.append(Problem(catalog, line_number, ROW_STRUCTURE, "unrecognized or malformed catalog table row"))
         elif line.strip() and _line_is_in_table_block(lines, line_number, expected_header):
-            problems.append(Problem(catalog, line_number, "catalog table rows must start and end with a pipe"))
+            problems.append(Problem(catalog, line_number, ROW_STRUCTURE, "catalog table rows must start and end with a pipe"))
         elif not line.strip() and _blank_splits_table(lines, line_number):
-            problems.append(Problem(catalog, line_number, "blank line splits a catalog table"))
+            problems.append(Problem(catalog, line_number, ROW_STRUCTURE, "blank line splits a catalog table"))
     for entry in selected:
         problems.extend(validate_entry(entry))
     return selected, problems
