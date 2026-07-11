@@ -8,8 +8,8 @@ Además la programación EPG (guía de tv) está disponible e integrada automát
 | Lista | Navegador | JSON | M3U8 | M3U | M3U8 + MPD | Enigma2 |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
 | **TV** | [Navegador](TELEVISION.md) | [json](https://www.tdtchannels.com/lists/tv.json) | [m3u8](https://www.tdtchannels.com/lists/tv.m3u8) | [m3u](https://www.tdtchannels.com/lists/tv.m3u) | [m3u8 + mdp](https://www.tdtchannels.com/lists/tv_mpd.m3u8) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv) |
-| **Radio** | [Navegador](RADIO.md) | [json](https://www.tdtchannels.com/lists/radio.json) | [m3u8](https://www.tdtchannels.com/lists/radio.m3u8) | [Abrir](https://www.tdtchannels.com/lists/radio.m3u) | — | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_radio.tv) |
-| **TV + Radio** | — | — | [m3u8](https://www.tdtchannels.com/lists/tvradio.m3u8) | [m3u](https://www.tdtchannels.com/lists/tvradio.m3u) | [Abrir](https://www.tdtchannels.com/lists/tvradio_mpd.m3u8) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_combo.tv) |
+| **Radio** | [Navegador](RADIO.md) | [json](https://www.tdtchannels.com/lists/radio.json) | [m3u8](https://www.tdtchannels.com/lists/radio.m3u8) | [m3u](https://www.tdtchannels.com/lists/radio.m3u) | — | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_radio.tv) |
+| **TV + Radio** | — | — | [m3u8](https://www.tdtchannels.com/lists/tvradio.m3u8) | [m3u](https://www.tdtchannels.com/lists/tvradio.m3u) | [m3u8 + mpd](https://www.tdtchannels.com/lists/tvradio_mpd.m3u8) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_combo.tv) |
 
 #### Programación EPG
 
@@ -32,7 +32,7 @@ Además la programación EPG (guía de tv) está disponible e integrada automát
 | **Reproductor online** | [play.tdtchannels.com](https://play.tdtchannels.com/) |
 | **Aplicación Android** (móvil, tablet, Android TV y Fire TV) | [Descargar](https://www.tdtchannels.com/android) |
 | **Aplicación iOS** (iPhone, iPad, Mac y Apple TV) | [Descargar](https://www.tdtchannels.com/ios) |
-| **Otras plataformas** (Windows, macOS, Enigma2, VLC…) | [Ver guías](https://www.tdtchannels.com/otras-plataformas/) |
+| **Otras plataformas** (Windows, macOS, Enigma2, VLC…) | [Ver otras](https://www.tdtchannels.com/otras-plataformas/) |
 | **Comunidad en Discord** | [Acceder](https://discord.gg/bMGFbRK4Qx) |
 
 ### Noticias
