@@ -5,7 +5,7 @@ Además la programación EPG (guía de tv) está disponible e integrada automát
 ### Listas de reproducción
 [Listado](https://www.tdtchannels.com/listas) con todas las listas disponibles. Haz [click aquí](https://www.tdtchannels.com/catalogo/television/) para saber el estado de las listas y comprobar qué emisiones hay en cada lista.
 
-| Lista | Navegador | JSON | M3U8 | M3U | M3U8 + MPD | Enigma2 |
+| Lista | MD | JSON | M3U8 | M3U | M3U8 + MPD | Enigma2 |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
 | **TV** | [Navegador](TELEVISION.md) | [json](https://www.tdtchannels.com/lists/tv.json) | [m3u8](https://www.tdtchannels.com/lists/tv.m3u8) | [m3u](https://www.tdtchannels.com/lists/tv.m3u) | [m3u8 + mdp](https://www.tdtchannels.com/lists/tv_mpd.m3u8) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv) |
 | **Radio** | [Navegador](RADIO.md) | [json](https://www.tdtchannels.com/lists/radio.json) | [m3u8](https://www.tdtchannels.com/lists/radio.m3u8) | [m3u](https://www.tdtchannels.com/lists/radio.m3u) | — | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_radio.tv) |
@@ -13,7 +13,7 @@ Además la programación EPG (guía de tv) está disponible e integrada automát
 
 #### Programación EPG
 
-| Guía | Navegador | JSON | XML.GZ |
+| Guía | WEB | JSON | XML.GZ |
 | :- | :-: | :-: | :-: |
 | **TV** | [Navegador](https://play.tdtchannels.com/television) | [json](https://www.tdtchannels.com/epg/TV.json) | [xml.gz](https://www.tdtchannels.com/epg/TV.xml.gz) |
 | **Radio** | [Navegador](https://play.tdtchannels.com/radio) | [json](https://www.tdtchannels.com/epg/RADIO.json) | — |
