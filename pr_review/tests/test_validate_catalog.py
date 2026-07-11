@@ -5,7 +5,7 @@ from unittest import mock
 import urllib.error
 
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import validate_catalog as validator  # noqa: E402
 
 
