@@ -16,7 +16,7 @@
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España y a principales canales internacionales del mundo.
 Además la programación EPG (guía de tv) está disponible e integrada automáticamente en los ficheros generados.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > **Estamos en contra de la piratería.** En este proyecto no se almacena ni se emite ninguna señal: solo se recopilan los enlaces que cada cadena publica de forma oficial en su propia web o servicio público. [Más información](#legal).
 
 <br>
