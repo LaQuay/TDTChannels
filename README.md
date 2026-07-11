@@ -23,7 +23,7 @@ Además la programación EPG (guía de tv) está disponible e integrada automát
 
 ## 📲 Descarga
 
-Las apps funcionan también en 📺 **Android TV**, 🔥 **Fire TV**, 💻 **Mac** y 🍏 **Apple TV**.
+Las apps funcionan también en **Android TV**, **Fire TV**, **Mac** y **Apple TV**.
 En *Otras plataformas* encontrarás Windows, macOS, Enigma2, VLC y Kodi.
 
 <div align="center">
@@ -70,7 +70,7 @@ En *Otras plataformas* encontrarás Windows, macOS, Enigma2, VLC y Kodi.
 - **`WEB`**: Visionado en el navegador.
 - **`JSON`**: Formato para otros programas de lectura de datos (TDTChannels Android e iOS).
 - **`M3U8` y `M3U`**: Listado para introducir en tu reproductor deseado. Usa este enlace si deseas utilizar cualquier aplicación IPTV genérica. Utiliza la _M3U_ en caso de que la _M3U8_ no te funcione.
-- **`M3U8 + MPD`**: 🧪 _En pruebas._ Incluye los mismos canales que la M3U8, pero además los que emiten en formato _MPD_.
+- **`M3U8 + MPD`**: _En pruebas._ Incluye los mismos canales que la M3U8, pero además los que emiten en formato _MPD_.
 - **`ENIGMA2`**: Formato para el receptor Linux Enigma2.
 - **`EPG`**: Si no te carga de forma automática, deberás incluir la ruta en tu reproductor.
 
