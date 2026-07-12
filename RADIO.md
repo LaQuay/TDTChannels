@@ -417,6 +417,7 @@
 | Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net) | [logo](https://graph.facebook.com/radioarrebato107.4/picture?width=200&height=200) | - | - |
 | ONE FM | [mp3](https://stream.onefm.es:8000/onefm.mp3) | [web](https://onefm.es) | [logo](https://graph.facebook.com/OneFM.es/picture?width=200&height=200) | - | - |
 | Radio Serranía | [mp3](https://stream.zeno.fm/suyydyfgwf9uv) | [web](https://www.radioserrania.es) | [logo](https://play-lh.googleusercontent.com/4QQwgiAxHgttu-Cnz2zlypFKnvevz1v30xYi0qaAzzAhwZnfZ8UszPapSCarQeCEIg=s200) | - | - |
+| Radio Santa María | [mp3](https://s20.myradiostream.com/15414/listen.mp3) | [web](https://rtvd.org/radio-htm/) | [logo](https://pbs.twimg.com/profile_images/1730156030795939840/NtRBSxdr_200x200.jpg) | - | - |
 
 ### Castilla y León
 
