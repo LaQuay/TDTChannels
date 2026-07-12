@@ -813,7 +813,9 @@
 | Olympic Channel TV | - | [web](https://olympics.com/es/live/) | [logo](https://graph.facebook.com/olympics/picture?width=200&height=200) | - | EMB |
 | FIBA | [youtube](https://www.youtube.com/channel/UCtInrnU3QbWqFGsdKT1GZtg/live) | [web](https://www.livebasketball.tv/home) | [logo](https://graph.facebook.com/FIBA/picture?width=200&height=200) | - | EMB |
 | FIBA3x3 | [youtube](https://www.youtube.com/channel/UC7LpyJP5fupiJu2CdzRQheg/live) | [web](https://fiba3x3.com/) | [logo](https://graph.facebook.com/FIBA3x3/picture?width=200&height=200) | - | EMB |
+| UFC | [youtube](https://www.youtube.com/channel/UCvgfXK4nTYKudb0rFR6noLA/live) | [web](https://www.ufcespanol.com/) | [logo](https://graph.facebook.com/ufc/picture?width=200&height=200) | - | EMB |
 | X Games | [youtube](https://www.youtube.com/channel/UCxFt75OIIvoN4AaL7lJxtTg/live) | [web](https://www.xgames.com/watch/) | [logo](https://graph.facebook.com/XGames/picture?width=200&height=200) | - | EMB |
+| Pro Padel League | [youtube](https://www.youtube.com/channel/UCvK0t9jkVJIZ78oHFVWxtgA/live) | [web](https://propadelleague.com/) | [logo](https://graph.facebook.com/propadelleague/picture?width=200&height=200) | - | EMB |
 | Premier Padel | [youtube](https://www.youtube.com/channel/UCK59dYVs3Wgwoe73nDTH6jw/live) | [web](https://premierpadel.com/es/wheretowatch) | [logo](https://graph.facebook.com/premierpadel/picture?width=200&height=200) | - | EMB |
 | World Table Tennis | [youtube](https://www.youtube.com/channel/UC9ckyA_A3MfXUa0ttxMoIZw/live) | [web](https://www.worldtabletennis.com/livevideo) | [logo](https://graph.facebook.com/WTT/picture?width=200&height=200) | - | EMB |
 | Red Bull TV | [m3u8 # EN](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](https://pbs.twimg.com/profile_images/626481857161375748/OeXi9avz_200x200.png) | - | - |
