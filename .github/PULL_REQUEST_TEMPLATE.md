@@ -24,3 +24,5 @@
 
 ## Información adicional
 <!-- Añade cualquier observación que pueda resultar útil durante la revisión. Opcional. -->
+
+<!-- Recuerda haber leído la guía de contribuciones https://github.com/LaQuay/TDTChannels/blob/master/CONTRIBUTING.md -->
