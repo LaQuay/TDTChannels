@@ -191,6 +191,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 
 - **Xataka Móvil** — [Tivify era la mejor opción en tele gratis para el móvil. Hasta que perdió a sus pesos pesados](https://www.xatakamovil.com/streaming/tivify-era-mejor-opcion-tele-gratis-para-movil-que-perdio-a-sus-pesos-pesados)
 - **Xataka Smart Home** — [Esta es la mejor forma de ver todos los canales de TDTChannels en un Fire TV Stick](https://www.xatakahome.com/tutoriales/esta-mejor-forma-ver-todos-canales-tdtchannels-fire-tv-stick-1)
+- **Xataka Android** — [Cómo instalar TDTChannels en tu Fire TV Stick](https://www.xatakandroid.com/tutoriales/como-instalar-tdtchannels-tu-fire-tv-stick)
 - **Xataka Smart Home** — [Llegan más canales de TV y radio gratis, sin registro ni instalación a TDTChannels: estas son las novedades](https://www.xatakahome.com/servicios-de-smart-tv/llegan-canales-tv-radio-gratis-registro-instalacion-a-tdtchannels-estas-novedades)
 
 ### Mayo
@@ -211,6 +212,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 - **ADSLZone** — [TDTChannels elimina seis canales y añade dos nuevos en su última actualización](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-elimina-seis-canales-anade-dos-actualizacion-0324/)
 - **Xataka Móvil** — [Después de usar durante años Tivify y Pluto TV gratis, tengo claro cuál es la mejor para ver la tele gratis](https://www.xatakamovil.com/aplicaciones/despues-usar-durante-anos-tivify-pluto-tv-gratis-tengo-claro-cual-mejor-para-ver-tele-gratis)
 - **Xataka Smart Home** — [He comparado Tivify con TDTChannels para ver la TDT online y tengo muy claro cuál es muy superior al otro](https://www.xatakahome.com/a-fondo/he-comparado-tivify-tdtchannels-para-ver-tdt-online-tengo-muy-claro-cual-muy-superior-al-otro-estos-mis-motivos)
+- **Xataka Smart Home** — [La app para ver la TDT sin necesidad de antena se actualiza con más canales: esto es todo lo que llega nuevo](https://www.xatakahome.com/servicios-de-smart-tv/app-para-ver-tdt-necesidad-antena-se-actualiza-canales-esto-todo-que-llega-nuevo)
 
 ### Febrero
 
@@ -222,6 +224,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 - **El País (Cinco Días)** — [Cómo ver la TDT desde el móvil y disfrutar de tus canales preferidos donde te apetezca](https://cincodias.elpais.com/smartlife/2024/01/31/lifestyle/1706710220_673425.html)
 - **Applesfera** — [Fin de la TDT: cómo ver la TDT en 2024 desde tu Apple TV si tienes una tele vieja no compatible con TDT HD](https://www.applesfera.com/tutoriales/apagon-tdt-2024-que-va-a-pasar-a-partir-ahora-como-seguir-viendo-tdt-tu-apple-tv)
 - **Xataka Móvil** — [TDTChannels contra Tivify: enfrentamos las dos apps más populares para ver la TDT en una Smart TV](https://www.xatakamovil.com/streaming/tdtchannels-tivify-enfrentamos-dos-apps-populares-para-ver-tdt-smart-tv)
+- **Xataka Smart Home** — [La app para ver la TDT sin necesidad de antena se actualiza con más canales: todo lo que llega a TDTChannels](https://www.xatakahome.com/servicios-de-smart-tv/tdtchannels-se-actualiza-canales-tdt-que-podremos-ver-necesidad-antena-asi-queda-parrilla)
 
 ---
 
@@ -230,6 +233,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 ### Diciembre
 
 - **La República (Perú)** — [¿Qué es TDTChannels y cómo instalarlo en tu Smart TV para ver sus 651 canales gratis?](https://larepublica.pe/tecnologia/actualidad/2023/12/09/que-es-tdtchannels-y-como-instalarlo-en-tu-smart-tv-para-poder-disfrutar-de-sus-651-canales-gratis-433692)
+- **Xataka Smart Home** — [Cómo ver gratis más de 1.500 canales de la TDT vía IPTV en tu Fire TV, Chromecast o una tele con Android TV usando un archivo m3u](https://www.xatakahome.com/servicios-de-smart-tv/como-ver-gratis-todos-canales-tdt-via-iptv-tu-fire-tv-chromecast-tele-android-tv-usando-archivo-m3u)
 
 ### Noviembre
 
@@ -268,6 +272,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 - **Xataka Android** — [TDT Channels resurge de sus cenizas: ya puedes descargar la aplicación para ver la tele en tu móvil](https://www.xatakandroid.com/aplicaciones-android/tdt-channels-revive-sus-cenizas-puedes-descargar-aplicacion-para-ver-tele-tu-movil)
 - **Xataka Smart Home** — [Más de 600 canales de tele y sin sintonizar. TDTChannels vuelve a funcionar y ya puedes descargar la aplicación](https://www.xatakahome.com/servicios-de-smart-tv/600-canales-tele-sintonizar-tdt-channels-vuelve-a-funcionar-puedes-descargar-aplicacion)
 - **Xataka** — [Nuevo TDTChannels: cómo instalarlo en tu dispositivo y cómo añadir listas de canales](https://www.xataka.com/basics/nuevo-tdtchannels-como-instalarlo-tu-dispositivo-como-anadir-listas-canales)
+- **Xataka Smart Home** — [Así es el nuevo TDTChannels en Android TV y Chromecast para ver más de 600 canales de la tele por Internet](https://www.xatakahome.com/tutoriales/asi-nuevo-tdtchannels-android-tv-chromecast-para-ver-600-canales-tele-internet)
 
 ---
 
@@ -495,6 +500,12 @@ Artículos y tutoriales que se mantienen actualizados de forma continua, por lo 
 - **Movilzona** — [Aplicaciones para ver todos los canales de la TDT en el móvil](https://www.movilzona.es/noticias/aplicaciones/ver-canales-tdt-gratis-movil/)
 - **AndroidAyuda** — [Cómo configurar TDT Channels y añadir listas IPTV de canales gratis](https://androidayuda.com/tdt-channels/)
 - **ADSLZone** — [Lista de canales de la TDT en España (actualizada)](https://www.adslzone.net/reportajes/tdt/lista-canales-tdt/)
+- **Xataka Smart Home** — [IPTV en Kodi: cómo añadir listas para ver los canales de la tele gratis](https://www.xatakahome.com/a-fondo/iptv-kodi-como-anadir-listas-para-ver-canales-tele-gratis)
+- **Xataka Smart Home** — [Las mejores aplicaciones de IPTV para Android TV y Google TV](https://www.xatakahome.com/a-fondo/mejores-aplicaciones-iptv-para-android-tv-google-tv)
+- **Xataka Smart Home** — [Las mejores aplicaciones para ver IPTV en Amazon Fire TV Stick](https://www.xatakahome.com/a-fondo/mejores-aplicaciones-para-ver-iptv-amazon-fire-tv-stick)
+- **Xataka Smart Home** — [Las mejores aplicaciones de IPTV para Smart TV Samsung con Tizen](https://www.xatakahome.com/a-fondo/mejores-aplicaciones-iptv-para-smart-tv-samsung-tizen)
+- **Xataka Smart Home** — [Las mejores aplicaciones de IPTV para Smart TV LG con webOS](https://www.xatakahome.com/a-fondo/mejores-aplicaciones-iptv-para-smart-tv-lg-webos)
+- **ADSLZone** — [Qué apps descargar para ver IPTV en Amazon Fire TV Stick](https://www.adslzone.net/esenciales/amazon/ver-iptv-fire-tv/)
 - **ADSLZone** — [TDTChannels actualiza su app y ahora las listas de canales se añaden automáticamente](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-actualiza-app-listas-canales-automaticamente/)
 - **Xataka** — [Cómo ver la televisión y canales TDT en directo por Internet](https://www.xataka.com/basics/como-ver-television-canales-tdt-directo-internet)
 - **Xataka Android** — [TDTChannels en tu Android TV: cómo instalar y configurar la aplicación para tener los canales de TDT sin antena](https://www.xatakandroid.com/tutoriales/tdt-channels-tu-android-tv-como-instalar-configurar-aplicacion-para-tener-canales-tdt-antena)
