@@ -176,12 +176,16 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 - **ADSLZone** — [TDTChannels añade dos nuevos canales, pero elimina tres en su última actualización](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-nuevos-canales-elimina-actualizacion-0824/)
 - **ADSLZone** — [TDTChannels lanza una gran actualización tanto de su plataforma como de la versión web](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-gran-actualizacion-plataforma-web-0824/)
 - **Xataka** — [He vuelto a TDTChannels gracias a su renovada app para Android TV. Sigue siendo la mejor opción para ver la TDT](https://www.xataka.com/aplicaciones/he-vuelto-a-tdtchannels-gracias-a-su-renovada-app-para-android-tv-sigue-siendo-mejor-opcion-para-ver-tdt)
+- **Xataka Smart Home** — [Llegan más canales de radio y TV gratis en agosto, sin registro ni instalación, a TDTChannels: estas son las novedades](https://www.xatakahome.com/servicios-de-smart-tv/llegan-canales-radio-tv-gratis-agosto-registro-instalacion-a-tdtchannels-estas-novedades)
+- **Xataka Smart Home** — [Llegan más canales de radio y TV gratis, sin registro ni instalación, a TDTChannels: estas son las novedades](https://www.xatakahome.com/servicios-de-smart-tv/llegan-canales-radio-tv-gratis-registro-instalacion-a-tdtchannels-estas-novedades)
+- **Xataka Smart Home** — [Llegan más canales TV gratis y emisoras de radio, sin registro ni instalación: estas son las novedades de TDTChannels](https://www.xatakahome.com/servicios-de-smart-tv/llegan-canales-tv-gratis-emisoras-radio-registro-instalacion-estas-novedades-tdtchannels)
 
 ### Julio
 
 - **ADSLZone** — [TDTChannels amplía su lista de canales para disfrutar de más televisión en streaming](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-amplia-lista-canales-0724/)
 - **ADSLZone** — [TDTChannels añade nuevos canales de TV y radio gratis para julio](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-actualizacion-canales-gratis-0724/)
 - **Xataka Android** — [TDTChannels, a fondo: qué es, cómo instalarla y trucos para aprovechar esta app para ver la TDT gratis en el móvil o la tele](https://www.xatakandroid.com/tutoriales/tdtchannels-a-fondo-que-como-instalarla-trucos-para-aprovechar-esta-app-para-ver-tdt-gratis-movil-tele)
+- **Xataka Smart Home** — [Llegan más canales de TV y radio gratis, sin registro ni instalación a TDTChannels: estas son las novedades](https://www.xatakahome.com/servicios-de-smart-tv/llegan-mas-canales-de-tv-y-radio-gratis-sin-registro-ni-instalacion-a-tdtchannels-estas-son-las-novedades)
 
 ### Junio
 
@@ -192,6 +196,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 ### Mayo
 
 - **ADSLZone** — [TDTChannels añade seis nuevos canales gratis con su última actualización](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-seis-nuevos-canales-gratis-actualizacion-0524/)
+- **Xataka Smart Home** — [Más canales de TV y radio gratis, sin registro ni instalación llegan a TDTChannels: estas son las novedades](https://www.xatakahome.com/servicios-de-smart-tv/canales-tv-radio-gratis-registro-instalacion-llegan-a-tdtchannels-estas-novedades)
 
 ### Abril
 
@@ -253,6 +258,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 
 - **Xataka Smart Home** — [Ver la TDT gratis aún es posible y sin sintonizar. Comparamos las alternativas más populares del mercado](https://www.xatakahome.com/a-fondo/ver-tele-gratis-posible-sintonizar-comparamos-alternativas-populares-mercado)
 - **ADSLZone** — [TDTChannels se actualiza con más canales gratis de TDT y streamings en directo](https://www.adslzone.net/noticias/streaming-tv/actualizacion-tdtchannels-febrero-2023/)
+- **Xataka Smart Home** — [Más canales de TDT gratis por Internet para TDTChannels: 631 de TV y streaming en directo de figuras como Ibai, Rubius o Cristinini](https://www.xatakahome.com/servicios-de-smart-tv/canales-tdt-gratis-internet-para-tdtchannels-631-tv-streaming-directo-figuras-como-ibai-rubius-cristinini)
 
 ### Enero
 
@@ -488,6 +494,7 @@ Artículos y tutoriales que se mantienen actualizados de forma continua, por lo 
 - **Andro4all** — [Cómo ver la TV y canales TDT por Internet: todos los canales que puedes ver online](https://andro4all.com/tecnologia/como-ver-la-tv-y-canales-tdt-por-internet-todos-los-canales-que-puedes-ver-online)
 - **Movilzona** — [Aplicaciones para ver todos los canales de la TDT en el móvil](https://www.movilzona.es/noticias/aplicaciones/ver-canales-tdt-gratis-movil/)
 - **AndroidAyuda** — [Cómo configurar TDT Channels y añadir listas IPTV de canales gratis](https://androidayuda.com/tdt-channels/)
+- **ADSLZone** — [Lista de canales de la TDT en España (actualizada)](https://www.adslzone.net/reportajes/tdt/lista-canales-tdt/)
 - **ADSLZone** — [TDTChannels actualiza su app y ahora las listas de canales se añaden automáticamente](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-actualiza-app-listas-canales-automaticamente/)
 - **Xataka** — [Cómo ver la televisión y canales TDT en directo por Internet](https://www.xataka.com/basics/como-ver-television-canales-tdt-directo-internet)
 - **Xataka Android** — [TDTChannels en tu Android TV: cómo instalar y configurar la aplicación para tener los canales de TDT sin antena](https://www.xatakandroid.com/tutoriales/tdt-channels-tu-android-tv-como-instalar-configurar-aplicacion-para-tener-canales-tdt-antena)
