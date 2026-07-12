@@ -77,7 +77,9 @@
 | Élite Oldies | [stream](https://streaming2.elitecomunicacion.es/proxy/eliteoldies/stream) | [web](https://www.cadenaelite.es/eliteoldies/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 | Élite Urban | [stream](https://streaming2.elitecomunicacion.es/proxy/eliteurban/stream) | [web](https://www.cadenaelite.es/eliteurban/) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 | MariskalRock Radio | [stream](https://media.profesionalhosting.com:8047/stream) | [web](https://mariskalrock.com) | [logo](https://graph.facebook.com/mariskalrock/picture?width=200&height=200) | - | - |
-| La Urban Radio | [mp3](https://st1.urbanrevolution.es:8443/laurbanfm.mp3) | [web](https://www.urbanrevolution.es) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
+| La Urban Radio | [stream](https://radio.urbanrevolution.es:8443/hispano) | [web](https://Urbanrevolution.es) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
+| FLOW Radio | [stream](http://flow.urbanrevolution.es:8445/flow) | [web](https://flowradio.es/) | [logo](https://graph.facebook.com/flowradio.es/picture?width=200&height=200) | - | - |
+| House Radio | [stream](https://house.urbanrevolution.es:8446/houseaac) | [web](https://house.urbanrevolution.es:446/public/house_radio_spain) | [logo](https://graph.facebook.com/houseradiofm/picture?width=200&height=200) | - | - |
 
 ## Deportivas
 
@@ -141,7 +143,7 @@
 | SER Jaén | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_JAEN.mp3) | [web](https://cadenaser.com/radio-jaen/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Jaen.Radio | - |
 | SER Jerez | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JEREZ.mp3) | [web](https://cadenaser.com/radio-jerez/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Jerez.Radio | - |
 | SER Jódar | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JODAR.mp3) | [web](https://cadenaser.com/radio-jodar/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Jodar.Radio | - |
-| SER La Janda | [stream](https://eu1.lhdserver.es:8073/stream) | [web](https://cadenaser.com/ser-la-janda/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_LaJanda.Radio | - |
+| SER La Janda | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LA_JANDA.mp3) | [web](https://cadenaser.com/ser-la-janda/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_LaJanda.Radio | - |
 | SER Levante | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEVANTE.mp3) | [web](https://cadenaser.com/ser-levante-albox) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Levante.Radio | - |
 | SER Linares | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LINARES.mp3) | [web](https://cadenaser.com/radio-linares/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Linares.Radio | - |
 | SER Lucena | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUCENA.mp3) | [web](https://cadenaser.com/ser-lucena/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Lucena.Radio | - |
@@ -417,6 +419,7 @@
 | Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net) | [logo](https://graph.facebook.com/radioarrebato107.4/picture?width=200&height=200) | - | - |
 | ONE FM | [mp3](https://stream.onefm.es:8000/onefm.mp3) | [web](https://onefm.es) | [logo](https://graph.facebook.com/OneFM.es/picture?width=200&height=200) | - | - |
 | Radio Serranía | [mp3](https://stream.zeno.fm/suyydyfgwf9uv) | [web](https://www.radioserrania.es) | [logo](https://play-lh.googleusercontent.com/4QQwgiAxHgttu-Cnz2zlypFKnvevz1v30xYi0qaAzzAhwZnfZ8UszPapSCarQeCEIg=s200) | - | - |
+| Radio Santa María | [mp3](https://s20.myradiostream.com/15414/listen.mp3) | [web](https://rtvd.org/radio-htm/) | [logo](https://pbs.twimg.com/profile_images/1730156030795939840/NtRBSxdr_200x200.jpg) | - | - |
 
 ### Castilla y León
 
