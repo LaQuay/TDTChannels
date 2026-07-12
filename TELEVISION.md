@@ -547,7 +547,7 @@
 | Durangaldeko TV | [m3u8](https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8) | [web](https://dotb.eus/tbkanala/) | [logo](https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200) | - | - |
 | Goierri Irrati TV | [m3u8](https://streaming.gitb.eus/hls/z.m3u8) | [web](https://gitb.eus/telebista/zuzenekoa) | [logo](https://graph.facebook.com/GoierriIrratiTelebista/picture?width=200&height=200) | - | - |
 | 28 Kanala | [m3u8](https://streaming.28kanala.eus/hls/z.m3u8) | [web](https://28kanala.eus/telebista/zuzenekoa) | [logo](https://graph.facebook.com/28kanala/picture?width=200&height=200) | - | - |
-| Oizmendi TB | [m3u8](https://zuzenean.oizmendi.eus/hls/z.m3u8) | [web](https://zuzenean.oizmendi.eus) | [logo](https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200) | - | - |
+| Oizmendi TB | [m3u8](https://zuzenean.oizmendi.eus/hls/z.m3u8) | [web](https://www.oizmendi.eus/zuzenean/) | [logo](https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200) | - | - |
 | STZ Telebista | [m3u8](https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8) | [web](https://stztelebista.com) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
 | TeleBilbao | [m3u8](https://player.telebilbao.es/hls/web-public/live.m3u8) | [web](https://www.telebilbao.es/directo/) | [logo](https://graph.facebook.com/312994995454199/picture?width=200&height=200) | - | NONAV,UAG,REF |
 | Urola TB | [m3u8](https://5940924978228.streamlock.net/j_Directo2/j_Directo2/playlist.m3u8) | [web](https://www.urolatelebista.com) | [logo](https://graph.facebook.com/urolatelebista/picture?width=200&height=200) | - | - |
