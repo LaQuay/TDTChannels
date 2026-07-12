@@ -4,8 +4,4 @@ El estado de los canales ya no se mantiene en este fichero: ahora se genera de f
 
 ### → [Consultar el estado de los canales de televisión](https://www.tdtchannels.com/catalogo/television/)
 
-Allí encontrarás, canal a canal, en qué plataformas está disponible dentro de TDTChannels (Android, iOS, navegador y listas M3U/M3U8) y su estado de emisión: *geolocalizado*, *emisión eventual*, *requiere registro* o *no emite por internet*.
-
----
-
-[← Volver al README](README.md)
+Allí encontrarás, canal a canal, en qué plataformas está disponible dentro de TDTChannels (Android, iOS, navegador y listas M3U/M3U8) y su estado de emisión, entre otra interesante información.
