@@ -8,9 +8,9 @@ Este proyecto existe gracias a toda la gente que aporta enlaces, reporta fallos 
 
 ## Equipo
 
-- Antonio — [@atnbueno](https://github.com/atnbueno)
-- Paco — [@pacoDevelop](https://github.com/pacoDevelop)
+- José Antonio — [@Nomenteros](https://github.com/Nomenteros)
 - Jacobo — [@poborp](https://github.com/poborp)
+- Antonio — [@atnbueno](https://github.com/atnbueno)
 
 ## Colaboradores
 
@@ -26,20 +26,13 @@ _Por orden alfabético._
 - Carratraka — [@carratraka](https://github.com/carratraka)
 - David — [@David-cp](https://github.com/David-cp)
 - Jorge — [@jaguaza](https://github.com/jaguaza)
-- José Antonio — [@Nomenteros](https://github.com/Nomenteros)
 - Juan — [@okelet](https://github.com/okelet)
 - Miguel A. — [@MiguelAngel2345](https://github.com/MiguelAngel2345)
+- Paco — [@pacoDevelop](https://github.com/pacoDevelop)
 - Playz — [@playzzz](https://github.com/playzzz)
 - Ricardo — [@RicardoVelaC](https://github.com/RicardoVelaC)
 - Valentin — [@vk496](https://github.com/vk496)
 
-## Antiguos colaboradores
-
-- HelmerLuzo — [@HelmerLuzo](https://github.com/HelmerLuzo)
-
 ---
 
 ¿Has enviado una *pull request*? No olvides añadirte a este fichero.
-Más información en [tdtchannels.com/colabora](https://www.tdtchannels.com/colabora).
-
-[← Volver al README](README.md)
