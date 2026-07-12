@@ -615,7 +615,7 @@
 | El Salto Radio | [mp3](https://radio.radiobot.org/listen/salto/elsaltoradio.mp3) | [web](https://www.elsaltodiario.com/el-salto-radio/) | [logo](https://graph.facebook.com/ElSaltoDiario/picture?width=200&height=200) | - | - |
 | Dynamis Radio | [stream](https://control.streaming-pro.com:8014/stream) | [web](https://www.dynamisradio.org) | [logo](https://graph.facebook.com/dynamisradio/picture?width=200&height=200) | - | - |
 | Unika FM | [stream](https://server1.easystreaming.pro:8443/unika) | [web](https://unika.fm) | [logo](https://graph.facebook.com/unikafmmuchomasquedance/picture?width=200&height=200) | - | - |
-| Radio Romanul | [stream](http://streaming.radioromanul.es:55556/web) | [web](https://www.radioromanul.es/live/) | [logo](https://graph.facebook.com/RadioRomanul/picture?width=200&height=200) | - | - |
+| Radio Romanul | [stream](http://streaming.radioromanul.es:55556/web) | [web](https://radioromanul.com/) | [logo](https://graph.facebook.com/RadioRomanul/picture?width=200&height=200) | - | - |
 | Radio España | [stream](https://stream.zeno.fm/ocinyyji4rntv) | [web](https://www.radioespana.es) | [logo](https://graph.facebook.com/radioespana.es/picture?width=200&height=200) | - | - |
 | Top Radio | [m3u8](https://mdstrm.com/audio/66ec3c9fabba24a0a2e59de8/live.m3u8) | [web](https://www.topradio.es) | [logo](https://graph.facebook.com/topradioes/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | RadioIntereconomia.Radio | - |
