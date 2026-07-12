@@ -72,6 +72,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 - **ADSLZone** — [Cómo configurar la TDT en Apple TV para ver canales gratis](https://www.adslzone.net/noticias/streaming-tv/tdt-apple-tv-television-gratis/)
 - **Xataka Smart Home** — [TDTChannels ha lanzado una interesante función de catálogo para saber el estado de sus canales gratuitos de TV: así puedes usarlo](https://www.xatakahome.com/servicios-de-smart-tv/tdtchannels-ha-lanzado-interesante-funcion-catalogo-para-saber-estado-sus-canales-gratuitos-tv-asi-puedes-usarlo)
 - **ADSLZone** — [TDTChannels lanza su actualización más esperada con 24 nuevos canales](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-actualizacion-24-nuevos-canales/)
+- **Andro4all** — [TDTChannels se actualiza: 24 nuevos canales gratis en la mejor app para ver la tele en el móvil](https://andro4all.com/aplicaciones/tdtchannels-se-actualiza-24-nuevos-canales-gratis-en-la-mejor-app-para-ver-la-tele-en-el-movil)
 - **Xataka Smart Home** — [Llegan más canales de TV y radio gratis, sin registro, antena de TDT ni instalación a TDTChannels: estas son las novedades](https://www.xatakahome.com/servicios-de-smart-tv/llegan-canales-tv-radio-gratis-registro-antena-tdt-instalacion-a-tdtchannels-estas-novedades)
 
 ### Septiembre
@@ -87,6 +88,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 ### Julio
 
 - **TodoAndroid** — [Cómo ver la TDT en España gratis con TDTChannels y sin necesidad de antena](https://www.todoandroid.es/como-ver-la-tdt-en-espana-gratis-con-tdtchannels-y-sin-necesidad-de-antena/)
+- **ADSLZone** — [La alternativa a TDTChannels para ver cientos de canales gratis en Smart TV sin antena](https://www.adslzone.net/noticias/streaming-tv/alternativa-tdtchannels-canales-gratis-smart-tv/)
 
 ### Junio
 
@@ -145,6 +147,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 
 - **Xataka Smart Home** — [TDTchannels da el salto a la radio. Así es la nueva app en iPhone y Android para escuchar cualquier emisora](https://www.xatakahome.com/servicios-y-aplicaciones-de-audio/tdtchannels-da-salto-a-radio-asi-nueva-app-iphone-android-para-escuchar-cualquier-emisora)
 - **Xataka Android** — [Como TDTChannels, pero para escuchar la radio. Esta nueva app lleva casi mil emisoras de radio a tu móvil](https://www.xatakandroid.com/aplicaciones-android/como-tdtchannels-para-escuchar-radio-esta-nueva-app-lleva-casi-mil-emisoras-radio-a-tu-movil)
+- **Genbeta** — [Los creadores de TDTChannels ahora tienen una plataforma para escuchar cualquier emisora de radio gratis y legal](https://www.genbeta.com/actualidad/creadores-tdtchannels-ahora-tienen-plataforma-para-escuchar-cualquier-emisora-radio-gratis-legal)
 
 ### Noviembre
 
@@ -156,6 +159,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 - **Hablemos de Informática** — [¿Qué pasó con TDTChannels?](https://hablemosdeinformatica.com/2024/10/31/que-paso-con-tdtchannels/)
 - **Movilzona** — [¿Qué ha pasado con TDTChannels?](https://www.movilzona.es/noticias/problemas/quitan-tdtchannels-google-play-store/)
 - **Xataka Smart Home** — [Llegan más canales de TV y radio gratis sin registro ni instalación: estas son las novedades de TDTChannels](https://www.xatakahome.com/servicios-de-smart-tv/llegan-canales-tv-radio-gratis-registro-instalacion-estas-novedades-tdtchannels)
+- **Mundo Xiaomi** — [Más canales de TDT y radio gratis sin instalación para la mejor app gratis que puedes tener en tu tele Xiaomi, así es la magia de TDTChannels](https://www.mundoxiaomi.com/imagen-y-sonido/canales-tdt-radio-gratis-instalacion-para-mejor-app-gratis-que-puedes-tener-tu-tele-xiaomi-asi-magia-tdtchannels)
 
 ### Septiembre
 
@@ -194,6 +198,8 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 - **Applesfera** — [Hemos encontrado la mejor app para tener todos los canales de la TDT gratis y sin anuncios en tu iPhone o iPad](https://www.applesfera.com/aplicaciones-ios/despues-mucho-buscar-este-mi-metodo-para-ver-tdt-iphone-ipad-gratis-registros)
 - **Xataka Smart Home** — [He probado la última versión de TDTChannels en mi tele y en el móvil. Esto es todo lo que llega nuevo](https://www.xatakahome.com/servicios-de-smart-tv/he-probado-ultima-version-tdtchannels-mi-tele-movil-esto-todo-que-llega-nuevo)
 - **Xataka Android** — [Ni Tivify ni TDT Channels: Runtime es la aplicación para ver la tele gratis en mi Android TV que más me gusta](https://www.xatakandroid.com/aplicaciones-android/tivify-tdt-channels-runtime-aplicacion-para-ver-tele-gratis-mi-android-tv-que-me-gusta)
+- **Xataka Smart Home** — [He usado la lista IPTV de TDTChannels y faltan canales. Esta es la explicación](https://www.xatakahome.com/servicios-de-smart-tv/este-motivo-cual-tdtchannels-no-tiene-lista-iptv-completa-como-tivify-otras-opciones)
+- **Xataka Smart Home** — [Más canales de TV y radio gratis, sin registro ni instalación llegan a TDTChannels: estas son las novedades para abril](https://www.xatakahome.com/servicios-de-smart-tv/canales-tv-radio-gratis-registro-instalacion-llegan-a-tdtchannels-estas-novedades-para-abril)
 
 ### Marzo
 
@@ -236,10 +242,12 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 ### Julio
 
 - **El País (Cinco Días)** — [Cinco trucos para exprimir al máximo tu tele con Android TV](https://cincodias.elpais.com/smartlife/2023/07/21/smarttv/1689946567_378198.html)
+- **Xataka Android** — [La nueva forma de usar TDTChannels en tu móvil: así puedes instalar y ver todos los canales de la TDT gratis](https://www.xatakandroid.com/tutoriales/nueva-forma-usar-tdtchannels-tu-movil-asi-puedes-instalar-ver-todos-canales-tdt-gratis)
 
 ### Marzo
 
 - **Xataka Móvil** — [Toda la tele gratis en tu iPhone con TDT Channels: cómo descargar su aplicación](https://www.xatakamovil.com/aplicaciones/toda-tele-gratis-tu-iphone-tdt-channels-como-descargar-su-aplicacion)
+- **Movilzona** — [Toda la TDT y otros 500 canales gratis en tu móvil con esta app](https://www.movilzona.es/noticias/aplicaciones/app-tdt-500-canales-gratis-movil-online/)
 
 ### Febrero
 
@@ -264,6 +272,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 - **Xataka** — [Alternativas TDT Channels: 24 webs y aplicaciones para ver la TDT en tu dispositivo](https://www.xataka.com/basics/alternativas-tdt-channels-24-webs-aplicaciones-para-ver-tdt-tu-dispositivo)
 - **Xataka Móvil** — [TDT Channels regresa a la vida: la app para ver la tele gratis renace para Android y para iPhone](https://www.xatakamovil.com/aplicaciones/tdt-channels-regresa-a-vida-app-para-ver-tele-gratis-renace-para-android-para-iphone)
 - **El Grupo Informático** — [TDTChannels cierra: estas son las alternativas para ver la TDT online y gratis](https://www.elgrupoinformatico.com/plataformas-streaming/tdtchannels-cierra-alternativas-para-ver-tdt-online/)
+- **Genbeta** — [Vuelve la mejor plataforma para ver la TDT online gratis: TDTChannels regresa "mejorado y con más fuerza que nunca"](https://www.genbeta.com/a-fondo/vuelve-mejor-plataforma-para-ver-tdt-online-gratis-tdtchannels-regresa-mejorado-fuerza-que-nunca)
 
 ### Noviembre
 
@@ -276,6 +285,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 ### Octubre
 
 - **Andro4all** — [Con esta app puedes ver todos los canales de televisión en tu móvil Android completamente gratis](https://andro4all.com/aplicaciones-gratis/con-esta-app-puedes-ver-todos-los-canales-de-television-en-tu-movil-android-completamente-gratis)
+- **Xataka Móvil** — [Así puedes ver todos los canales de la TDT gratis en un Android TV gracias a TDT Channels](https://www.xatakamovil.com/tutoriales/asi-puedes-ver-todos-canales-tdt-gratis-android-tv-gracias-a-tdt-channels)
 
 ---
 
@@ -476,6 +486,8 @@ Artículos y tutoriales que se mantienen actualizados de forma continua, por lo 
 - **El Nacional.cat** — [Com veure més de 1.000 canals de televisió gratis al teu mòbil](https://www.elnacional.cat/ca/tecnologia/com-veure-mes-1000-canals-tv-gratis-teu-mobil_1470218_102.html)
 - **Diario de Sevilla** — [Lista con servicios y apps para ver canales de TDT gratis en tu TV](https://www.diariodesevilla.es/television/Lista-servicios-apps-canales-TDT-gratis-tv_0_1867913550.html)
 - **Andro4all** — [Cómo ver la TV y canales TDT por Internet: todos los canales que puedes ver online](https://andro4all.com/tecnologia/como-ver-la-tv-y-canales-tdt-por-internet-todos-los-canales-que-puedes-ver-online)
+- **Movilzona** — [Aplicaciones para ver todos los canales de la TDT en el móvil](https://www.movilzona.es/noticias/aplicaciones/ver-canales-tdt-gratis-movil/)
+- **AndroidAyuda** — [Cómo configurar TDT Channels y añadir listas IPTV de canales gratis](https://androidayuda.com/tdt-channels/)
 - **ADSLZone** — [TDTChannels actualiza su app y ahora las listas de canales se añaden automáticamente](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-actualiza-app-listas-canales-automaticamente/)
 - **Xataka** — [Cómo ver la televisión y canales TDT en directo por Internet](https://www.xataka.com/basics/como-ver-television-canales-tdt-directo-internet)
 - **Xataka Android** — [TDTChannels en tu Android TV: cómo instalar y configurar la aplicación para tener los canales de TDT sin antena](https://www.xatakandroid.com/tutoriales/tdt-channels-tu-android-tv-como-instalar-configurar-aplicacion-para-tener-canales-tdt-antena)
