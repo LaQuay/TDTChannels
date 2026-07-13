@@ -565,6 +565,7 @@
 | Ràdio Desvern | [mp3](https://relay.stream.enacast-cloud.com:40001/radiodesvern128.mp3) - [stream](https://enacast.com/radiodesvern/streams/HD) | [web](https://www.radiodesvern.com) | [logo](https://graph.facebook.com/radiodesvernoficial/picture?width=200&height=200) | - | - |
 | Ràdio Sitges | [stream](https://s2.radio.co/s8e5dffe5e/listen) | [web](https://www.radiositges.com) | [logo](https://graph.facebook.com/radiositges/picture?width=200&height=200) | - | - |
 | Ràdio Montornès | [stream](https://cast4.my-control-panel.com/proxy/rmonto/stream) | [web](https://radio.montornes.cat/radios/directe) | [logo](https://graph.facebook.com/radiomontornes/picture?width=200&height=200) | - | - |
+| Ràdio Sant Vicenç | [mp3](https://streaming.enacast.com/stvicenc56.mp3) | [web](https://www.radiosvh.info/) | [logo](https://graph.facebook.com/radiosantvicenc/picture?width=200&height=200) | - | - |
 | Ràdio Ripoll | [stream](https://eu1.lhdserver.es:3065/stream) | [web](https://www.corisacat.cat/radio-ripoll-3/) | [logo](https://graph.facebook.com/334511563914/picture?width=200&height=200) | - | - |
 | Ràdio Amèrica Barcelona | [stream](https://s3.radio.co/sf09831a0e/listen) | [web](https://www.rab.cat) | [logo](https://pbs.twimg.com/profile_images/1931284389243072512/jCj4V37N_200x200.jpg) | - | - |
 | Ràdio Gràcia | [mp3](https://usa20.fastcast4u.com:3590/;.mp3) | [web](https://radiogracia.net/) | [logo](https://graph.facebook.com/RadioGraciaBarcelona/picture?width=200&height=200) | - | - |
