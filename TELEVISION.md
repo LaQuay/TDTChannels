@@ -239,9 +239,9 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Aragón TV | - | [web](https://www.aragonplay.es/watch/live/69934178aea15ae34fa39ad0) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV.TV | EXTA |
-| Aragón Noticias Accesible | - | [web](https://www.aragonplay.es/watch/live/69f8215ba762c9b1ab324ac8) | [logo](https://graph.facebook.com/AragonNoticias/picture?width=200&height=200) | Aragón_Noticias.TV | EXTA |
-| El Tiempo en Aragón (AragonPlay) | - | [web](https://www.aragonplay.es/watch/live/699341cfc03fcc0e33b898c3) | [logo](https://graph.facebook.com/AragonPlayTV/picture?width=200&height=200) | - | EXTA |
+| Aragón TV | - | [web](https://www.aragonplay.es/watch/live/69934178aea15ae34fa39ad0) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV.TV | EXTA,REG |
+| Aragón Noticias Accesible | - | [web](https://www.aragonplay.es/watch/live/69f8215ba762c9b1ab324ac8) | [logo](https://graph.facebook.com/AragonNoticias/picture?width=200&height=200) | Aragón_Noticias.TV | EXTA,REG |
+| El Tiempo en Aragón (AragonPlay) | - | [web](https://www.aragonplay.es/watch/live/699341cfc03fcc0e33b898c3) | [logo](https://graph.facebook.com/AragonPlayTV/picture?width=200&height=200) | - | EXTA,REG |
 | El Campo es Nuestro (AragonPlay) | - | [web](https://www.aragonplay.es/watch/live/6a35c996fe712a63795dc1a3) | [logo](https://graph.facebook.com/AragonPlayTV/picture?width=200&height=200) | El_Campo_Nuestro.TV | EXTA,REG |
 | Antena Aragón | [youtube](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/live) | [web](https://diarioaragones.com) | [logo](https://yt3.ggpht.com/ytc/AL5GRJWC1oJVC1hgcGBN1OHnroVVoe_pcgLvGJWvOA8aGQ=s200) | - | EMB |
 | Calamocha TV | [stream](http://calamochatv:SPrKAXJkZH0wb0ax@pub01.dav.tcscdn.net:1083/calamochatvtcs.m3u8) | [web](https://www.mijilocatv.es) | [logo](https://graph.facebook.com/CalamochaTV/picture?width=200&height=200) | - | EMB |
