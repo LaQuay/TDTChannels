@@ -34,6 +34,7 @@
 | La Vanguardia | [youtube](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live) | [web](https://www.lavanguardia.com) | [logo](https://graph.facebook.com/LaVanguardia/picture?width=200&height=200) | - | EMB |
 | Cadena SER | [youtube](https://www.youtube.com/channel/UCQ2Fej5pr1ipVeBWTX8Sc_Q/live) | [web](https://cadenaser.com) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | EMB |
 | El Confidencial | [m3u8](https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-bmo0niz694whx.m3u8) | [web](https://www.elconfidencial.com/television/) | [logo](https://graph.facebook.com/elconfidencial/picture?width=200&height=200) | ElConfidencial.TV | - |
+| El Mundo | [youtube](https://www.youtube.com/channel/UCGXbLrVe8vnkiFv7q2vYv3w/live) | [web](https://www.elmundo.es/) | [logo](https://graph.facebook.com/elmundo/picture?width=200&height=200) | - | EMB |
 | Okdiario | [youtube](https://www.youtube.com/channel/UCf6W-gNFClPt_XtQ6P44NTg/live) | [web](https://okdiario.com) | [logo](https://graph.facebook.com/okdiario/picture?width=200&height=200) | - | EMB |
 | Agencia EFE | [youtube](https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live) | [web](https://www.efe.com) | [logo](https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200) | - | EMB |
 | El Debate | [youtube](https://www.youtube.com/channel/UC8FOhz3iXhF1iqqzAFfBjmA/live) | [web](https://www.eldebate.com) | [logo](https://graph.facebook.com/eldebatecom/picture?width=200&height=200) | - | EMB |
