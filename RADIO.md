@@ -326,7 +326,7 @@
 | Europa FM Tenerife Norte / La Palma | [stream](https://str1.mediatelekom.net/proxy/europafm1/stream/;) | [web](https://www.europafmtenerife.com/tenerife-norte-la-palma-1/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Europa FM Santa Cruz | [stream](https://str1.mediatelekom.net/proxy/europafm2/;) | [web](https://www.europafmtenerife.com/santa-cruz-la-laguna/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Kiss FM Canarias | [mp3](https://bbkissfmcanarias.kissfmradio.cires21.com/bbkissfmcanarias.mp3) | [web](https://www.kissfm.es/player-canarias/) | [logo](https://graph.facebook.com/kissfm.es/picture?width=200&height=200) | - | - |
-| Radio Marca Tenerife | [stream](https://cervera.eldialdigital.com:22131/stream) | [web](https://radiomarcatenerife.com) | [logo](https://graph.facebook.com/RadioMarcaTfe/picture?width=200&height=200) | - | - |
+| Radio Marca Tenerife | [stream](https://cervera.eldialdigital.com:22131/stream) | [web](https://radiomarcatenerife.com) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | Q FM | [stream](https://securestreams4.autopo.st:1889/stream) | [web](https://www.qmusica.com/es) | [logo](https://graph.facebook.com/qmusica/picture?width=200&height=200) | - | - |
 | Canal 4 Tenerife | [stream](https://panel5.soydigital.fm/8024/live) | [web](https://www.canal4tenerife.tv/radio/) | [logo](https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200) | - | - |
 | Rumberos FM | [stream](https://str1.mediatelekom.net:9952/live) | [web](https://www.radiorumberosfm.com) | [logo](https://pbs.twimg.com/profile_images/589410759173660672/h6ajWfi4_200x200.png) | RumberosFM.Radio | - |
