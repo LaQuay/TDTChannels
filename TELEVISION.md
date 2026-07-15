@@ -92,8 +92,8 @@
 | Talking Tom and Friends | [youtube](https://www.youtube.com/channel/UCC9R-cxQeOpPhq2lAru0V8w/live) | [web](https://www.youtube.com/TomFriendsEs) | [logo](https://yt3.ggpht.com/a/AATXAJwpm-5h1rjcPqno5uANZr75VhhCYKv4PS02gLUS0A=s200) | - | EMB |
 | Little Baby Bum | [youtube](https://www.youtube.com/channel/UCHicabXz9rUMWLcdMqBtbxQ/live) | [web](https://www.youtube.com/user/LittleBabyBumEspanol) | [logo](https://yt3.ggpht.com/a/AATXAJwn3r9U07S7ZOqoGZLUbuYHWiIqpE8xuLJsyg=s200) | - | EMB |
 | Masha y el Oso | [youtube](https://www.youtube.com/channel/UCuSo4gcgxJRf4Bzu43wwVyg/live) | [web](https://www.youtube.com/@MashaOso) | [logo](https://yt3.googleusercontent.com/gezE4GxPlSR2m2fQ16uL9qZKHhA8YXfHEOQ3-eLu8KadN55AzPSC9Z_ATsjesQBDrpuQXT_J1hY=s200) | - | EMB |
-| EnerGeek Retro | [m3u8 # HD](https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=TDTCh4nnelsES) - [m3u8 # SD](https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=TDTCh4nnelsES) | [web](https://energeek.cl/canal/) | [logo](https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png) | - | EnergeekRetro.TV |
-| EnerGeek Fan | [m3u8 # HD](https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=TDTCh4nnelsES) - [m3u8 # SD](https://backend.energeek.cl/webtv/egfan/mobile/index.m3u8?token=TDTCh4nnelsES) | [web](https://neotv.energeek.cl/canal?slug=energeek-fan) | [logo](https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png) | - | EnergeekFan.TV |
+| EnerGeek Retro | [m3u8 # HD](https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=TDTCh4nnelsES) - [m3u8 # SD](https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=TDTCh4nnelsES) | [web](https://energeek.cl/canal/) | [logo](https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png) | EnergeekRetro.TV | - |
+| EnerGeek Fan | [m3u8 # HD](https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=TDTCh4nnelsES) - [m3u8 # SD](https://backend.energeek.cl/webtv/egfan/mobile/index.m3u8?token=TDTCh4nnelsES) | [web](https://neotv.energeek.cl/canal?slug=energeek-fan) | [logo](https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png) | EnergeekFan.TV | - |
 
 ## Eventuales
 
