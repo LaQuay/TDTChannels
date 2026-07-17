@@ -735,6 +735,7 @@
 | Record News Brasil | [youtube # BR](https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live) | [web](https://noticias.r7.com/record-news) | [logo](https://graph.facebook.com/recordnews/picture?width=200&height=200) | - | EMB |
 | Rede Massa Brasil | [youtube # BR](https://www.youtube.com/channel/UCX0P-o4zRG7vkGl226MfRYg/live) | [web](https://www.redemassa.com.br/aovivo/) | [logo](https://graph.facebook.com/RedeMassa/picture?width=200&height=200) | - | EMB |
 | Trinidad and Tobago Television | [stream](https://player.tegotv.com/player.php?channel=1) | [web](https://www.ttt.live/stream/) | [logo](https://graph.facebook.com/tttliveonline/picture?width=200&height=200) | - | EMB |
+| Platzi 24/7 | - | [web](https://platzi.com/live/) | [logo](https://graph.facebook.com/platzi/picture?width=200&height=200) | - | EXTA |
 
 ## Int. Asia
 
