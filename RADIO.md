@@ -861,7 +861,7 @@
 | +Buena FM | [stream](https://sonic.mediatelekom.net/8156/stream) | [web](https://masbuenafm.com) | [logo](https://graph.facebook.com/masbuenafm/picture?width=200&height=200) | - | - |
 | Verbena FM | [stream](https://streaming12.elitecomunicacion.es:8222/stream) | [web](https://verbenafm.com) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
 | Radiofusión | [stream](https://srv7031.dns-lcinternet.com/8032/stream) | [web](https://www.radiofusion.gal) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | - |
-| Radio Líder Noroeste | [stream](https://server9.emitironline.com:8200/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
+| Radio Líder Noroeste | [stream](https://server10.emitironline.com:10529/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | Radio Líder Santiago | [stream](https://server8.emitironline.com:18520/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | Radio Líder Rías Altas | [stream](https://server9.emitironline.com:8200/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | Radio Líder Rías Baixas | [stream](https://server10.emitironline.com:10982/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
