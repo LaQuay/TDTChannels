@@ -368,6 +368,7 @@
 | ARCO FM | [mp3](https://hisparadio.duckdns.org/stream/1/stream.mp3) | [web](https://arcofm.com/escuchar-arco/) | [logo](https://graph.facebook.com/arcofmcantabria/picture?width=200&height=200) | - | - |
 | Radio Merindad de Campoo | [stream](https://server8.emitironline.com:18774/stream) | [web](http://www.radiomc.es) | [logo](https://graph.facebook.com/103380741524107/picture?width=200&height=200) | - | - |
 | Radio Santoña | [mp3](https://server10.emitironline.com:10212/radio.mp3) | [web](https://santona.es) | [logo](https://graph.facebook.com/radiosantona107.3/picture?width=200&height=200) | - | - |
+| Radio Líder Cantabria | [stream](https://server10.emitironline.com:10855/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/Radio-Líder/picture?width=200&height=200) | - | - |
 | Cantabria Radio | [stream](https://cantabria.radioca.st/stream) | [web](https://cantabriaradio.com) | [logo](https://pbs.twimg.com/profile_images/1618937329086857216/y7k5obyb_200x200.jpg) | - | - |
 | Cadena Mix | [stream](https://ns6.emisionlocal.com/proxy/radiomix?mp=%2Fstream) | [web](http://www.cadenamix.es) | [logo](https://graph.facebook.com/cadenamixfm/picture?width=200&height=200) | - | - |
 | Cantabria FM | [stream](https://stream.zeno.fm/jndgdm0esn9vv) | [web](https://cantabriafm.com) | [logo](https://pbs.twimg.com/profile_images/425231625132056576/Xr2_H3b8_200x200.jpeg) | - | - |
@@ -860,7 +861,11 @@
 | +Buena FM | [stream](https://sonic.mediatelekom.net/8156/stream) | [web](https://masbuenafm.com) | [logo](https://graph.facebook.com/masbuenafm/picture?width=200&height=200) | - | - |
 | Verbena FM | [stream](https://streaming12.elitecomunicacion.es:8222/stream) | [web](https://verbenafm.com) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
 | Radiofusión | [stream](https://srv7031.dns-lcinternet.com/8032/stream) | [web](https://www.radiofusion.gal) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | - |
-| Radio Líder | [stream](https://server9.emitironline.com:8200/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
+| Radio Líder Noroeste | [stream](https://server9.emitironline.com:8200/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
+| Radio Líder Santiago | [stream](https://server8.emitironline.com:18520/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
+| Radio Líder Rías Altas | [stream](https://server9.emitironline.com:8200/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
+| Radio Líder Rías Baixas | [stream](https://server10.emitironline.com:10982/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
+| Radio Líder Ourense | [stream](https://server8.emitironline.com:18245/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | Metro FM Ferrol | [stream](https://metrofm01.arsenet.com/stream) | [web](https://metrofmferrol.com) | [logo](https://pbs.twimg.com/profile_images/1716777709928427520/itSjGZ9v_200x200.jpg) | - | - |
 | Net Galicia Radio | [stream](https://sonicpanel.streaming10.net/8140/stream) | [web](https://www.netgaliciaradio.es) | [logo](https://www.netgaliciaradio.es/wp-content/uploads/2022/09/logo.png) | - | - |
 
@@ -975,6 +980,7 @@
 | Donostia Kultura Irratia | [mp3](https://s35.myradiostream.com:26101/listen.mp3) | [web](https://irratia.donostiakultura.eus) | [logo](https://graph.facebook.com/DKirratia/picture?width=200&height=200) | - | - |
 | Habla Radio | [mp3](https://s33.myradiostream.com/15294/;stream.mp3) | [web](https://hablaradio.com) | [logo](https://graph.facebook.com/HablaRadioSS/picture?width=200&height=200) | - | - |
 | Arrate Irratia | [stream](https://online.arrateirratia.eus/zuzenean) | [web](https://arrateirratia.eus) | [logo](https://play-lh.googleusercontent.com/AWgxIb9V1Z6aIJQ6Mx98k8b7UbJbekd6NRjb849-MbATra820dBMfri8_hEgHNcnZd0=w200-h200) | - | - |
+| Radio Líder Euskadi | [stream](https://server8.emitironline.com:18792/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidereuskadi/picture?width=200&height=200) | - | - |
 
 ### P. de Asturias
 
@@ -1009,7 +1015,7 @@
 | APQ Radio | [stream # 1](https://stm2.emiteonline.com:9012/apqradio) - [stream # 2](https://stm2.emiteonline.com:9013/apqradio2) | [web](https://www.apqradio.es) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | - |
 | La Mega FM Asturias | [mp3](https://broadcast.radioponiente.org:8032/;.mp3) | [web](https://www.lamegafmasturias.com) | [logo](https://play-lh.googleusercontent.com/c_sl-yRJP4jzCPQjkLe0xFWuGj6Xe6JaoShibnsuV98KnDkM7Ao54DsLD_1orN2eyDbC=w200) | - | - |
 | Guateque FM | [stream](https://eu1.lhdserver.es:3219/stream) | [web](https://guatequefm.com) | [logo](https://play-lh.googleusercontent.com/29cOsGnQ8A3a-FJ1EkqBDVrMCIMWcQBORIWcmygreM9fNjU5C3Pci0CNDYDrv1NPPPD1=w200-h200) | - | - |
-| Radio Líder Asturias | [stream](https://server8.emitironline.com:18462/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
+| Radio Líder Asturias | [stream](https://server8.emitironline.com:18462/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | La Cheverisima Radio | [stream](https://samuel.i-radio.co:9000/lacheverisima) | [web](https://lacheverisimaradio.com) | [logo](https://play-lh.googleusercontent.com/paqCGWhxPmfQOzkssgQHBiAW60j3zi04Hq9K2UWM_oddr-X-ZriB6OK-K0Xr8lmP4A=w200) | - | - |
 
 ### R. de Murcia
