@@ -301,7 +301,7 @@
 | Radio Huesca Jaca | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_JACA.mp3) | [web](https://cadenaser.com/radio-jaca-ser-pirineos/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | Radio Huesca Sabiñánigo | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SABINANIGO.mp3) | [web](https://cadenaser.com/radio-sabinanigo/contacto/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | Radio Huesca Sariñena | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SARINENA.mp3) | [web](https://cadenaser.com/radio-sarinena/contacto/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
-| Estación Andorra FM | [stream](https://topradio.one/proxy/andorra/stream) | [web](https://estacionandorrafm.wordpress.com) | [logo](https://graph.facebook.com/estacion.andorra.fm.teruel/picture?width=200&height=200) | - | - |
+| Estación Andorra FM | [stream](https://topradio.one/proxy/andorra/stream) | [web](https://estacionandorrafm.wordpress.com) | [logo](https://graph.facebook.com/EstacionAndorraFMInformacion/picture?width=200&height=200) | - | - |
 | Radio Mai | [stream # 1](https://www.radiomai.com/online/stream.php?ch=1) - [stream # 2](https://www.radiomai.com/online/stream.php?ch=2) | [web](https://radiomai.com/online/) | [logo](https://graph.facebook.com/radiomai/picture?width=200&height=200) | - | - |
 | LokuraFM | [stream](https://sonicpanel.streamsolutions.us:8124/stream) | [web](https://lokurafm.online) | [logo](https://play-lh.googleusercontent.com/pRLw0KpuXGQxblfGu8kwMNx0rrOurCW7YBaZiHYTojJkBe0uzQOd3AKvCsbBYMyOOpzp=w200-h200) | - | - |
 | Hit Radio Huesca | [stream](http://stm2.emiteonline.com:8003/hitradio) | [web](http://www.hitradiofm.es) | [logo](https://graph.facebook.com/hit.huescapicture?width=200&height=200) | - | - |
@@ -859,9 +859,9 @@
 | Radio Fene | [stream](https://srv7031.dns-lcinternet.com/8086/stream) | [web](https://www.radiofusion.gal/emisora/radio-fene) | [logo](https://graph.facebook.com/Radiofene/picture?width=200&height=200) | - | - |
 | +Buena FM | [stream](https://sonic.mediatelekom.net/8156/stream) | [web](https://masbuenafm.com) | [logo](https://graph.facebook.com/masbuenafm/picture?width=200&height=200) | - | - |
 | Verbena FM | [stream](https://streaming12.elitecomunicacion.es:8222/stream) | [web](https://verbenafm.com) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
-| Radiofusión | [stream](https://srv7031.dns-lcinternet.com/8032/stream) | [web](https://www.radiofusion.gal/) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | - |
+| Radiofusión | [stream](https://srv7031.dns-lcinternet.com/8032/stream) | [web](https://www.radiofusion.gal) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | - |
 | Radio Líder | [stream](https://server9.emitironline.com:8200/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
-| Metro FM Ferrol | [stream](https://metrofm01.arsenet.com/stream) | [web](https://metrofmferrol.com) | [logo](https://www.tvferrol.es/es/recursos/patrocinadores_2/MccbkxMU.png) | - | - |
+| Metro FM Ferrol | [stream](https://metrofm01.arsenet.com/stream) | [web](https://metrofmferrol.com) | [logo](https://pbs.twimg.com/profile_images/1716777709928427520/itSjGZ9v_200x200.jpg) | - | - |
 | Net Galicia Radio | [stream](https://sonicpanel.streaming10.net/8140/stream) | [web](https://www.netgaliciaradio.es) | [logo](https://www.netgaliciaradio.es/wp-content/uploads/2022/09/logo.png) | - | - |
 
 ### Illes Balears
