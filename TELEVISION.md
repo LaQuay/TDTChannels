@@ -873,7 +873,7 @@
 | VM Latino Costa Rica | [m3u8](https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8) | [web](https://vmlatino.com/en-vivo/) | [logo](https://graph.facebook.com/vmlatinocr/picture?width=200&height=200) | - | - |
 | Venus Media Paraguay | [m3u8](https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8) | [web](https://www.venus.com.py/envivo) | [logo](https://pbs.twimg.com/profile_images/2053835972467367936/cDHyl_VX_200x200.jpg) | - | - |
 | Top Latino TV Perú | - | [web](https://toplatino.net/tv/) | [logo](https://graph.facebook.com/toplatinotv/picture?width=200&height=200) | - | EXTA |
-| La Mega Mundial USA | [m3u8](https://server40.servistreaming.com:3477/stream/play.m3u8) | [web](https://www.lamegamundial.com) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200) | - | - |
+| La Mega Mundial USA | [m3u8](https://server80.servistreaming.com:3477/stream/play.m3u8) | [web](https://www.lamegamundial.com) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200) | - | - |
 | Retro Plus TV Chile | [m3u8](https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8) | [web](https://www.retroplustv.com/#se%C3%B1ales) | [logo](https://graph.facebook.com/retroplustv/picture?width=200&height=200) | - | - |
 | Portal Foxmix Chile | [m3u8](https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8) | [web](https://www.portalfoxmix.cl/tv/) | [logo](https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200) | - | - |
 | 30A Music USA | [m3u8 # EN](https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8) | [web](https://30a-tv.com/30a/30a-tv-music-channel/) | [logo](https://graph.facebook.com/30atv/picture?width=200&height=200) | - | - |
