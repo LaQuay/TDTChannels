@@ -1,7 +1,7 @@
 <h1 align="center">📰 Aparecemos en</h1>
 
 <p align="center">
-  Medios, blogs y creadores que han hablado de <strong>TDTChannels</strong> desde 2018.<br>
+  Medios, blogs y creadores que han hablado de <strong>TDTChannels</strong> y <strong>OndaChannels</strong> desde 2018.<br>
   ¿Falta alguno? <a href="https://github.com/LaQuay/TDTChannels/issues/new">Abre una issue</a> o envía un pull request. ¡Gracias!
 </p>
 
@@ -15,6 +15,11 @@
   <a href="#2020">2020</a> ·
   <a href="#2019">2019</a> ·
   <a href="#2018">2018</a>
+</p>
+
+<p align="center">
+  📻 Mención a <strong>OndaChannels</strong> — el resto se refieren a TDTChannels<br>
+  🎥 Vídeo &nbsp;·&nbsp; 🎙️ Podcast
 </p>
 
 ---
@@ -40,6 +45,8 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 ### Mayo
 
 - **Xataka Smart Home** — [Hay canales de televisión que no quiero ver ni por accidente: TDTChannels estrena una función para fulminarlos](https://www.xatakahome.com/servicios-de-smart-tv/tdtchannels-ha-anadido-funcion-muy-interesante-no-veo-telebasura-cientos-canales)
+- 📻 **ADSLZone** — [Android Auto recibe por fin la aplicación de radio que los usuarios estaban pidiendo](https://www.adslzone.net/e-movilidad/noticias-tecnologia/ondachannels-radio-gratis-android-auto/)
+- 📻 **Infobae** — [Usuarios de Android Auto disponen ahora de una solución práctica para escuchar radio en movimiento](https://www.infobae.com/tecno/2026/05/29/usuarios-de-android-auto-disponen-ahora-de-una-solucion-practica-para-escuchar-radio-en-movimiento/)
 
 ### Abril
 
@@ -149,9 +156,11 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 
 ### Diciembre
 
-- **Xataka Smart Home** — [TDTchannels da el salto a la radio. Así es la nueva app en iPhone y Android para escuchar cualquier emisora](https://www.xatakahome.com/servicios-y-aplicaciones-de-audio/tdtchannels-da-salto-a-radio-asi-nueva-app-iphone-android-para-escuchar-cualquier-emisora)
-- **Xataka Android** — [Como TDTChannels, pero para escuchar la radio. Esta nueva app lleva casi mil emisoras de radio a tu móvil](https://www.xatakandroid.com/aplicaciones-android/como-tdtchannels-para-escuchar-radio-esta-nueva-app-lleva-casi-mil-emisoras-radio-a-tu-movil)
-- **Genbeta** — [Los creadores de TDTChannels ahora tienen una plataforma para escuchar cualquier emisora de radio gratis y legal](https://www.genbeta.com/actualidad/creadores-tdtchannels-ahora-tienen-plataforma-para-escuchar-cualquier-emisora-radio-gratis-legal)
+- 📻 **Xataka Smart Home** — [TDTchannels da el salto a la radio. Así es la nueva app en iPhone y Android para escuchar cualquier emisora](https://www.xatakahome.com/servicios-y-aplicaciones-de-audio/tdtchannels-da-salto-a-radio-asi-nueva-app-iphone-android-para-escuchar-cualquier-emisora)
+- 📻 **Xataka Android** — [Como TDTChannels, pero para escuchar la radio. Esta nueva app lleva casi mil emisoras de radio a tu móvil](https://www.xatakandroid.com/aplicaciones-android/como-tdtchannels-para-escuchar-radio-esta-nueva-app-lleva-casi-mil-emisoras-radio-a-tu-movil)
+- 📻 **Genbeta** — [Los creadores de TDTChannels ahora tienen una plataforma para escuchar cualquier emisora de radio gratis y legal](https://www.genbeta.com/actualidad/creadores-tdtchannels-ahora-tienen-plataforma-para-escuchar-cualquier-emisora-radio-gratis-legal)
+- 📻 **El Grupo Informático** — [Descarga OndaChannels, la nueva app de TDTChannels para escuchar la radio online](https://elgrupoinformatico.com/apps/descarga-ondachannels-escuchar-radio-online)
+- 📻 **Applicantes** — [Escucha cientos de emisoras de radio con OndaChannels](https://applicantes.com/escuchar-radio-gratis/)
 
 ### Noviembre
 
@@ -229,6 +238,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 - **Applesfera** — [Fin de la TDT: cómo ver la TDT en 2024 desde tu Apple TV si tienes una tele vieja no compatible con TDT HD](https://www.applesfera.com/tutoriales/apagon-tdt-2024-que-va-a-pasar-a-partir-ahora-como-seguir-viendo-tdt-tu-apple-tv)
 - **Xataka Móvil** — [TDTChannels contra Tivify: enfrentamos las dos apps más populares para ver la TDT en una Smart TV](https://www.xatakamovil.com/streaming/tdtchannels-tivify-enfrentamos-dos-apps-populares-para-ver-tdt-smart-tv)
 - **Xataka Smart Home** — [La app para ver la TDT sin necesidad de antena se actualiza con más canales: todo lo que llega a TDTChannels](https://www.xatakahome.com/servicios-de-smart-tv/tdtchannels-se-actualiza-canales-tdt-que-podremos-ver-necesidad-antena-asi-queda-parrilla)
+- **ADSLZone** — [TDTChannels añade tres nuevos canales a su servicio, pero ha eliminado otros tres](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-nuevos-canales-eliminado-otros-0124/)
 
 ---
 
@@ -277,6 +287,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 - **Xataka Smart Home** — [Más de 600 canales de tele y sin sintonizar. TDTChannels vuelve a funcionar y ya puedes descargar la aplicación](https://www.xatakahome.com/servicios-de-smart-tv/600-canales-tele-sintonizar-tdt-channels-vuelve-a-funcionar-puedes-descargar-aplicacion)
 - **Xataka** — [Nuevo TDTChannels: cómo instalarlo en tu dispositivo y cómo añadir listas de canales](https://www.xataka.com/basics/nuevo-tdtchannels-como-instalarlo-tu-dispositivo-como-anadir-listas-canales)
 - **Xataka Smart Home** — [Así es el nuevo TDTChannels en Android TV y Chromecast para ver más de 600 canales de la tele por Internet](https://www.xatakahome.com/tutoriales/asi-nuevo-tdtchannels-android-tv-chromecast-para-ver-600-canales-tele-internet)
+- **Xataka Android** — [Cuál es la mejor aplicación para ver canales gratis en Android TV: enfrentamos TDT Channels, Pluto TV, Tivify y Rlaxx TV](https://www.xatakandroid.com/aplicaciones-android/cual-mejor-aplicacion-para-ver-canales-gratis-android-tv-enfrentamos-tdt-channels-pluto-tv-tivify-rlaxx-tv)
 
 ---
 
@@ -513,6 +524,8 @@ Artículos y tutoriales que se mantienen actualizados de forma continua, por lo 
 - **ADSLZone** — [TDTChannels actualiza su app y ahora las listas de canales se añaden automáticamente](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-actualiza-app-listas-canales-automaticamente/)
 - **Xataka** — [Cómo ver la televisión y canales TDT en directo por Internet](https://www.xataka.com/basics/como-ver-television-canales-tdt-directo-internet)
 - **Xataka Android** — [TDTChannels en tu Android TV: cómo instalar y configurar la aplicación para tener los canales de TDT sin antena](https://www.xatakandroid.com/tutoriales/tdt-channels-tu-android-tv-como-instalar-configurar-aplicacion-para-tener-canales-tdt-antena)
+
+---
 
 ---
 
