@@ -37,7 +37,7 @@
 | Okdiario | [youtube](https://www.youtube.com/channel/UCf6W-gNFClPt_XtQ6P44NTg/live) | [web](https://okdiario.com) | [logo](https://graph.facebook.com/okdiario/picture?width=200&height=200) | - | EMB |
 | Agencia EFE | [youtube](https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live) | [web](https://www.efe.com) | [logo](https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200) | - | EMB |
 | El Debate | [youtube](https://www.youtube.com/channel/UC8FOhz3iXhF1iqqzAFfBjmA/live) | [web](https://www.eldebate.com) | [logo](https://graph.facebook.com/eldebatecom/picture?width=200&height=200) | - | EMB |
-| Negocios TV | [m3u8](https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8) - [youtube](https://www.youtube.com/channel/UCwd8Byi93KbnsYmCcKLExvQ/live) | [web](https://www.negocios.com/directo) | [logo](https://graph.facebook.com/Negociostele/picture?width=200&height=200) | Negocios.TV | - |
+| Negocios TV | [m3u8](https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8) - [youtube](https://www.youtube.com/channel/UCwd8Byi93KbnsYmCcKLExvQ/live) | [web](https://www.negocios.com/directo) | [logo](https://graph.facebook.com/Negociostele/picture?width=200&height=200) | Negocios.TV | EMB |
 | Libertad Digital TV | [youtube](https://www.youtube.com/channel/UCUS73_bjTYwBFAfXbvIjM8Q/live) | [web](https://tv.libertaddigital.com/directo.html) | [logo](https://graph.facebook.com/libertad.digital.tv/picture?width=200&height=200) | Libertad.TV | EMB |
 
 ## Deportivos
