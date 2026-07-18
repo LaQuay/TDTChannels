@@ -72,6 +72,8 @@
 | Cazaflix | [stream](https://player.viloud.tv/embed/channel/292a2a75da8d1d6335cd7b6e600b04e8?autoplay=1&volume=1&controls=1&title=0&share=0&open_playlist=0) | [web](https://cazaflix.com/tv-directo/) | [logo](https://graph.facebook.com/cazaflixoficial/picture?width=200&height=200) | - | EMB |
 | OKLIGA TV | [youtube](https://www.youtube.com/channel/UC6RLLzXQJWy1yCAEysy1Wgw/live) | [web](https://www.okliga.tv/home) | [logo](https://yt3.ggpht.com/ytc/AKedOLRCpkRZNcBfZLGvM1SO_Qf77p_xtv6OnU26aa23Vw=s200) | - | EMB |
 | FedHielo TV | [youtube](https://www.youtube.com/channel/UCuys7LUNfFcwwToSG3yMocw/live) | [web](https://www.rfedh.es/fedhielo-tv/) | [logo](https://graph.facebook.com/fedhielo/picture?width=200&height=200) | - | EMB |
+| Real Federación Española de Patinaje | [youtube](https://www.youtube.com/channel/UCN99QszVYYIYAWCQMmU1P8g/live) | [web](https://www.fep.es) | [logo](https://graph.facebook.com/FedPatinaje/picture?width=200&height=200) | - | EMB |
+| Real Federación Española de Balonmano | [youtube](https://www.youtube.com/channel/UCqfo8pb53rSg1h0JOle7gcg/live) | [web](https://www.rfebm.com) | [logo](https://graph.facebook.com/RFEBalonmano/picture?width=200&height=200) | - | EMB |
 | Futsalmafer.tv | [m3u8](https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8) | [web](https://canalsports.tv/directo-24-horas/) | [logo](https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200) | - | - |
 
 ## Infantiles
