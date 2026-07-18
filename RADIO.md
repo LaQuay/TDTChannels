@@ -788,7 +788,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Extremadura Radio | [m3u8](https://canalextremadura-audio.flumotion.cloud/canalextremaduralive/smil:channel1.smil/playlist.m3u8) | [web](https://www.canalextremadura.app/videos/182647-canal-radio-24h) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | - | - |
+| Canal Extremadura Radio | [m3u8](https://dpdcrurkn82q1.cloudfront.net/wct-24e14bfa-c6bf-4b58-9b12-dda97484f818/continuous/4d975a39-0232-43e0-9277-9503453777a9/radio-live/index.m3u8) | [web](https://www.canalextremadura.app/videos/182647-canal-radio-24h) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | - | - |
 | Radio Nacional Extremadura | [stream](https://dispatcher.rndfnk.com/crtve/rne1/ext/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_ext-live/3893533/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.Radio | - |
 | Radio 5 Extremadura | [stream](https://dispatcher.rndfnk.com/crtve/rne5/cce/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_ext-live/3894783/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | RNE5.Radio | - |
 | SER Cáceres | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CACERES.mp3) | [web](https://cadenaser.com/ser-caceres/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Caceres.Radio | - |
