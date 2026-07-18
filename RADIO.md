@@ -304,7 +304,7 @@
 | Estación Andorra FM | [stream](https://topradio.one/proxy/andorra/stream) | [web](https://estacionandorrafm.wordpress.com) | [logo](https://graph.facebook.com/EstacionAndorraFMInformacion/picture?width=200&height=200) | - | - |
 | Radio Mai | [stream # 1](https://www.radiomai.com/online/stream.php?ch=1) - [stream # 2](https://www.radiomai.com/online/stream.php?ch=2) | [web](https://radiomai.com/online/) | [logo](https://graph.facebook.com/radiomai/picture?width=200&height=200) | - | - |
 | LokuraFM | [stream](https://sonicpanel.streamsolutions.us:8124/stream) | [web](https://lokurafm.online) | [logo](https://play-lh.googleusercontent.com/pRLw0KpuXGQxblfGu8kwMNx0rrOurCW7YBaZiHYTojJkBe0uzQOd3AKvCsbBYMyOOpzp=w200-h200) | - | - |
-| Hit Radio Huesca | [stream](http://stm2.emiteonline.com:8003/hitradio) | [web](http://www.hitradiofm.es) | [logo](https://graph.facebook.com/hit.huescapicture?width=200&height=200) | - | - |
+| Hit Radio Huesca | [stream](http://stm2.emiteonline.com:8003/hitradio) | [web](http://www.hitradiofm.es) | [logo](https://graph.facebook.com/hit.huesca/picture?width=200&height=200) | - | - |
 | Hit Radio El Grado | [stream](http://stm1.emiteonline.com:8004/hitelgrado) | [web](http://www.hitradiofm.es) | [logo](https://graph.facebook.com/HitRadioElGrado/picture?width=200&height=200) | - | - |
 | Hit Radio Pirineos | [mp3](https://s37.derstream.net/hit_pirineos.mp3) | [web](http://www.hitradiofm.es) | [logo](https://graph.facebook.com/hitpirineos/picture?width=200&height=200) | - | - |
 | Vale Radio | [stream](https://sonic2.sistemahost.es/8170/stream) | [web](https://www.valeradio.es) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
