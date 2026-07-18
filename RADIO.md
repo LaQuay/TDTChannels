@@ -1074,8 +1074,6 @@
 | Gaydio UK | [mp3](https://listen-gaydio.sharp-stream.com/gaydiouk.mp3) | [web](https://www.gaydio.co.uk/london/radioplayer/) | [logo](https://graph.facebook.com/gaydio/picture?width=200&height=200) | - | - |
 | Radio Francia Internacional | [mp3](https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3) | [web](https://www.rfi.fr/es/en-vivo) | [logo](https://graph.facebook.com/rfienespanol/picture?width=200&height=200) | - | - |
 | Jazz Radio Francia | [mp3](https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3) | [web](https://www.jazzradio.fr/radio/webradio/1/jazz-radio) | [logo](https://graph.facebook.com/jazzradio.fr/picture?width=200&height=200) | - | - |
-| Rinse FM UK | [stream](https://admin.stream.rinse.fm/proxy/rinse_uk/stream) | [web](https://rinse.fm/player/) | [logo](https://graph.facebook.com/rinsefm/picture?width=200&height=200) | - | - |
-| NPR USA | [mp3](https://npr-ice.streamguys1.com/live.mp3) | [web](https://www.npr.org/) | [logo](https://graph.facebook.com/NPR/picture?width=200&height=200) | - | - |
 | Rinse FM UK | [stream](https://admin.stream.rinse.fm/proxy/rinse_uk/stream) | [web](https://www.rinse.fm/channels/uk) | [logo](https://graph.facebook.com/rinsefm/picture?width=200&height=200) | - | - |
 | Rinse FM France | [stream](https://radio10.pro-fhi.net/flux-trmqtiat/stream) | [web](https://www.rinse.fm/channels/france) | [logo](https://graph.facebook.com/rinsefm/picture?width=200&height=200) | - | - |
 | NPR USA | [mp3](https://npr-ice.streamguys1.com/live.mp3) | [web](https://www.npr.org/) | [logo](https://graph.facebook.com/NPR/picture?width=200&height=200) | - | - |
