@@ -912,4 +912,3 @@
 | Emmanuel TV Nigeria | [stream](https://www.lightcast.com/embed/player.php?&id=39565&type=live) | [web](https://www.stream.emmanuel.tv) | [logo](https://graph.facebook.com/tbjoshuaespanol/picture?width=200&height=200) | - | EMB |
 | Redevida Brasil | [m3u8 # PT](https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8) | [web](https://www.redevida.com.br/ao-vivo) | [logo](https://graph.facebook.com/redevida/picture?width=200&height=200) | - | - |
 | 3ABN USA | [m3u8 # 1](https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8) - [m3u8 # EN # 2](https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8) | [web](https://3abnplus.tv/catalog) | [logo](https://graph.facebook.com/3abn.org/picture?width=200&height=200) | - | - |
-  
