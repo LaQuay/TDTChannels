@@ -787,7 +787,7 @@
 | TVGE 1 Guinea Ecuatorial | [m3u8](https://rpn.bozztv.com/ses/tvge/tvge.smil/playlist.m3u8) | [web](https://www.tvgelive.gq/live.php) | [logo](https://pbs.twimg.com/profile_images/1382981938231775232/-lv9ymLe_200x200.jpg) | - | - |
 | RTP África | - | [web](https://www.rtp.pt/play/direto/rtpafrica) | [logo](https://graph.facebook.com/rtpafrica/picture?width=200&height=200) | - | EXTA |
 | RASD TV | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830&live=1) | [web](https://rasd.tv) | [logo](https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200) | - | - |
-| SenTV Senegal | [youtube](https://www.youtube.com/channel/UCKbMNmSR3KlI9v3xeInHEYA/live) | [web](https://sentv.sn/tv) | [logo](https://graph.facebook.com/sentvtelevision/picture?width=200&height=200) | - | EXTA |
+| SenTV Senegal | [youtube](https://www.youtube.com/channel/UCKbMNmSR3KlI9v3xeInHEYA/live) | [web](https://sentv.sn/tv) | [logo](https://graph.facebook.com/sentvtelevision/picture?width=200&height=200) | - | EMB,EXTA |
 
 ## Int. Otros
 
