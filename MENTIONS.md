@@ -40,6 +40,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 
 ### Julio
 
+- **Xataka Smart Home** — [Llegan más canales de TV y radio gratis, sin registro, antena de TDT ni instalación a TDTChannels: estas son las novedades](https://www.xatakahome.com/servicios-de-smart-tv/llegan-canales-tv-radio-gratis-registro-antena-tdt-instalacion-a-tdtchannels-estas-novedades-3)
 - **Computer Hoy** — [TDTChannels se actualiza y añade 33 nuevos canales de televisión gratis: estas son todas las novedades](https://computerhoy.20minutos.es/entretenimiento/tdtchannels-se-actualiza-anade-33-nuevos-canales-television-gratis-estas-son-todas-las-novedades_7016276_0.html)
 - **ADSLZone** — [TDTChannels se actualiza con 33 nuevos canales gratis para todos los usuarios](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-actualizacion-33-nuevos-canales-gratis/)
 
