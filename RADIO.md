@@ -582,6 +582,7 @@
 | Taronja ràdio | [stream](https://radio.martiproduccions.com/taronjagirona) | [web](https://www.radiocapital.cat/taronja) | [logo](https://graph.facebook.com/taronja.cat/picture?width=200&height=200) | - | - |
 | MDT Radio Barcelona | [stream](https://streams1.mdtradio.com:8443/MdtBarcelonaEstudio) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/MDTradioBarcelona/picture?width=200&height=200) | - | - |
 | Paranoia Metal Figueres | [mp3](https://giss.tv:666/paranoiashow.mp3) | [web](https://paranoiashow.wordpress.com/radio-online/) | [logo](https://graph.facebook.com/pmetalshow/picture?width=200&height=200) | - | - |
+| Radio Arab de Barcelona | [stream](https://radioarab.streamradio.live/listen/radio/stream) | [web](https://radioarabbcn.com/inicio/) | [logo](https://graph.facebook.com/Radio.Arab.de.Barcelona/picture?width=200&height=200) | - | - |
 
 ### Ceuta
 
