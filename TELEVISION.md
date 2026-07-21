@@ -60,7 +60,7 @@
 | Real Sociedad TV | [youtube](https://www.youtube.com/channel/UCfeqewEKWQ8CXY8OiXoMxxw/live) | [web](https://www.realsociedad.eus/es/noticias) | [logo](https://graph.facebook.com/RealSociedadFutbol/picture?width=200&height=200) | - | EMB,EVT |
 | RCD Espanyol de Barcelona TV | [youtube](https://www.youtube.com/channel/UClywhnD01yUU5kO6OgAeHUQ/live) | [web](https://www.rcdespanyol.com) | [logo](https://graph.facebook.com/RCDEspanyol/picture?width=200&height=200) | - | EMB |
 | Cádiz CF TV | [stream](https://event.watchity.com/137a7607-8a40-49cb-b2f3-dda201b86376/landing) | [web](https://tv.cadizcf.com/24h) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200) | - | EXTB,EMB |
-| RCD Mallorca TV | [youtube](https://www.youtube.com/c/OficialRCDMallorca/live) | [web](https://www.rcdmallorca.es/videos) | [logo](https://graph.facebook.com/RCDMallorcaOficial/picture?width=200&height=200) | - | EVT |
+| RCD Mallorca TV | [youtube](https://www.youtube.com/c/OficialRCDMallorca/live) | [web](https://www.rcdmallorca.es/videos) | [logo](https://graph.facebook.com/RCDMallorcaOficial/picture?width=200&height=200) | - | EMB,EVT |
 | Villareal CF TV | - | [web](https://villarrealcf.es/v-play/) | [logo](https://graph.facebook.com/villarrealcf/picture?width=200&height=200) | - | REG |
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) - [stream](https://player.twitch.tv/?channel=diariomarca&parent=play.tdtchannels.com) | [web](https://www.marca.com) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 | AS | [youtube](https://www.youtube.com/diarioas/live) | [web](https://as.com) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_kKno7gC768MJ_rt67CNI107Zhs5157wEvhg2AQwkvQBgk=s200) | - | EMB |
@@ -789,7 +789,7 @@
 | TVGE 1 Guinea Ecuatorial | [m3u8](https://rpn.bozztv.com/ses/tvge/tvge.smil/playlist.m3u8) | [web](https://www.tvgelive.gq/live.php) | [logo](https://pbs.twimg.com/profile_images/1382981938231775232/-lv9ymLe_200x200.jpg) | - | - |
 | RTP África | - | [web](https://www.rtp.pt/play/direto/rtpafrica) | [logo](https://graph.facebook.com/rtpafrica/picture?width=200&height=200) | - | EXTA |
 | RASD TV | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830&live=1) | [web](https://rasd.tv) | [logo](https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200) | - | - |
-| SenTV Senegal | [youtube](https://www.youtube.com/channel/UCKbMNmSR3KlI9v3xeInHEYA/live) | [web](https://sentv.sn/tv) | [logo](https://graph.facebook.com/sentvtelevision/picture?width=200&height=200) | - | EXTA |
+| SenTV Senegal | [youtube](https://www.youtube.com/channel/UCKbMNmSR3KlI9v3xeInHEYA/live) | [web](https://sentv.sn/tv) | [logo](https://graph.facebook.com/sentvtelevision/picture?width=200&height=200) | - | EMB,EXTA |
 
 ## Int. Otros
 
@@ -888,11 +888,11 @@
 | V2Beat TV | [m3u8 # EN](https://abr.de1se01.v2beat.live/playlist.m3u8) | [web](https://www.vibee.tv/webpage-player/) | [logo](https://graph.facebook.com/vtwobeat/picture?width=200&height=200) | - | - |
 | Tomorrowland TV | [youtube](https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ/live) | [web](https://oneworldradio.tomorrowland.com) | [logo](https://graph.facebook.com/tomorrowland/picture?width=200&height=200) | - | EMB |
 | The K-POP Korea | [youtube # 1](https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live) - [youtube # 2](https://www.youtube.com/channel/UCITH7URIRpb8yoshUwGE9jg/live) | [web](https://www.bigc.im/) | [logo](https://pbs.twimg.com/profile_images/2059096893515542528/2cuVWylU_200x200.jpg) | - | EMB |
-| Beautiful Piano Music | [youtube](https://www.youtube.com/channel/UCjzHeG1KWoonmf9d5KBvSiw/live) | [web](https://soothingrelaxation.com) | [logo](https://graph.facebook.com/SoothingRelaxation/picture?width=200&height=200) | - | - |
-| Chillhop Music | [youtube](https://www.youtube.com/@ChillhopMusic/live) | [web](https://chillhop.com) | [logo](https://yt3.googleusercontent.com/v8reVXm00qDDniedUMk1nNVBt5ykecsy8qByQmsPmVl1xh9ZlgiGnGQAH72h0gKKcygFWjHcgEw=s200) | - | - |
-| College Music | [youtube](https://www.youtube.com/@CollegeMusic/live) | [web](https://collegemusic.co.uk/) | [logo](https://graph.facebook.com/collegemusic/picture?width=200&height=200) | - | - |
-| LoFi Hip-Hop Beats Music | [youtube](https://www.youtube.com/@steezyasfvck/live) | [web](https://stzzzy.com) | [logo](https://pbs.twimg.com/profile_images/1155872804786466817/z1k1zxIi_200x200.jpg) | - | - |
-| The Good Life Radio | [youtube](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA/live) | [web](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA) | [logo](https://yt3.ggpht.com/a/AATXAJw_0O4Q7vmQvtqUOGDFHS3GQZaH2OKMnc3_1itvxg=s200) | - | - |
+| Beautiful Piano Music | [youtube](https://www.youtube.com/channel/UCjzHeG1KWoonmf9d5KBvSiw/live) | [web](https://soothingrelaxation.com) | [logo](https://graph.facebook.com/SoothingRelaxation/picture?width=200&height=200) | - | EMB |
+| Chillhop Music | [youtube](https://www.youtube.com/@ChillhopMusic/live) | [web](https://chillhop.com) | [logo](https://yt3.googleusercontent.com/v8reVXm00qDDniedUMk1nNVBt5ykecsy8qByQmsPmVl1xh9ZlgiGnGQAH72h0gKKcygFWjHcgEw=s200) | - | EMB |
+| College Music | [youtube](https://www.youtube.com/@CollegeMusic/live) | [web](https://collegemusic.co.uk/) | [logo](https://graph.facebook.com/collegemusic/picture?width=200&height=200) | - | EMB |
+| LoFi Hip-Hop Beats Music | [youtube](https://www.youtube.com/@steezyasfvck/live) | [web](https://stzzzy.com) | [logo](https://pbs.twimg.com/profile_images/1155872804786466817/z1k1zxIi_200x200.jpg) | - | EMB |
+| The Good Life Radio | [youtube](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA/live) | [web](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA) | [logo](https://yt3.ggpht.com/a/AATXAJw_0O4Q7vmQvtqUOGDFHS3GQZaH2OKMnc3_1itvxg=s200) | - | EMB |
 
 ## Religiosos
 
