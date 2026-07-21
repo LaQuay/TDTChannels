@@ -95,8 +95,8 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Babyradio | [stream](https://srv6022.dns-lcinternet.com:8033/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
-| Babyradio LatinoAmérica | [stream](https://srv6022.dns-lcinternet.com:8047/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
+| Babyradio | [stream # 1](https://srv6022.dns-lcinternet.com:8033/stream) - [stream # 2](https://samcloud.spacial.com/api/listen?sid=69558&m=sc&rid=155665&t=ssl) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
+| Babyradio LatinoAmérica | [stream # 1](https://srv6022.dns-lcinternet.com:8047/stream) - [stream # 2](https://samcloud.spacial.com/api/listen?sid=70250&m=sc&rid=155719&t=ssl) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
 | Babyradio Nanas | [stream](https://srv6022.dns-lcinternet.com:8027/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
 | Babyradio Cuentos Infantiles | [stream](https://srv6022.dns-lcinternet.com:8049/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
 | Antenita | [stream](https://vps-9f1e2662.vps.ovh.net/antenitafm) | [web](https://www.antenita.es) | [logo](https://graph.facebook.com/Pequeradio/picture?width=200&height=200) | - | - |
