@@ -643,7 +643,6 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TVE Int. América | [m3u8 # GEO # 1](https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/play-plus-america/tve-internacional/) | [logo](https://graph.facebook.com/tveInternacional/picture?width=200&height=200) | - | GEO |
-https://rtvelivestream.rtve.es/rtvesec/int/clan_int_main_dvr.m3u8
 | Clan Int. América | [m3u8 # GEO # 1](https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream.rtve.es/rtvesec/int/clan_int_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/play-plus-america/clan-internacional/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | - | GEO |
 | FOX Live Now USA | [m3u8 # EN](https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8) | [web](https://www.foxnews.com) | [logo](https://graph.facebook.com/livenowfox/picture?width=200&height=200) | - | - |
 | ABC News USA | [youtube # EN](https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live) | [web](https://abcnews.go.com/Live) | [logo](https://graph.facebook.com/ABCNews/picture?width=200&height=200) | - | EMB |
