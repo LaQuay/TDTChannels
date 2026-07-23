@@ -243,7 +243,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Aragón TV | - | [web](https://www.aragonplay.es/watch/live/69934178aea15ae34fa39ad0) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV.TV | EXTA,REG |
+| Aragón TV INT | - | [web](https://www.aragonplay.es/watch/live/699341967864450d4f062ba9) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV_INT.TV | EXTA,REG |
 | Aragón Noticias Accesible | - | [web](https://www.aragonplay.es/watch/live/69f8215ba762c9b1ab324ac8) | [logo](https://graph.facebook.com/AragonNoticias/picture?width=200&height=200) | Aragón_Noticias.TV | EXTA,REG |
 | El Tiempo en Aragón (AragonPlay) | - | [web](https://www.aragonplay.es/watch/live/699341cfc03fcc0e33b898c3) | [logo](https://graph.facebook.com/AragonPlayTV/picture?width=200&height=200) | - | EXTA,REG |
 | El Campo es Nuestro (AragonPlay) | - | [web](https://www.aragonplay.es/watch/live/6a35c996fe712a63795dc1a3) | [logo](https://graph.facebook.com/AragonPlayTV/picture?width=200&height=200) | El_Campo_Nuestro.TV | EXTA,REG |
@@ -589,7 +589,6 @@
 | TV3.CAT | [m3u8](https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/tv3/) | [logo](https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png) | TVC.TV | - |
 | TVG Europa | [m3u8](https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8) | [web](https://agalega.gal/videos/76475-tvg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
 | Telemadrid Internacional | [youtube](https://www.youtube.com/channel/UCv2BcgqxHSrl2QQfIkjR5Eg/live) | [web](https://www.tlmad.es/pages/live/internacional) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | TeleMadridInt.TV | EMB,EXTA |
-| Aragón TV INT | - | [web](https://www.aragonplay.es/watch/live/699341967864450d4f062ba9) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV_INT.TV | EXTA,REG |
 | TV Canaria Net | [m3u8](https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8) | [web](https://www.canariasplay.es/videos/314793-ott7) | [logo](https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200) | - | - |
 | Islas Canarias TV | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=17089&live=1) | [web](https://islascanarias.tv) | [logo](https://graph.facebook.com/IslasCanariasTelevision/picture?width=200&height=200) | - | - |
 | ATV Andorra | [m3u8](https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8) | [web](https://www.rtva.ad/en-directe/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVHD.TV | EXTA |
