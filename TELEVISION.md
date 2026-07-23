@@ -814,7 +814,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Olympic Channel TV | - | [web](https://olympics.com/es/live/) | [logo](https://graph.facebook.com/olympics/picture?width=200&height=200) | - | EMB |
+| Olympic Channel | - | [web](https://olympics.com/es/live/) | [logo](https://graph.facebook.com/olympics/picture?width=200&height=200) | - | REG |
 | FIBA | [youtube](https://www.youtube.com/channel/UCtInrnU3QbWqFGsdKT1GZtg/live) | [web](https://www.livebasketball.tv/home) | [logo](https://graph.facebook.com/FIBA/picture?width=200&height=200) | - | EMB |
 | FIBA3x3 | [youtube](https://www.youtube.com/channel/UC7LpyJP5fupiJu2CdzRQheg/live) | [web](https://fiba3x3.com) | [logo](https://graph.facebook.com/FIBA3x3/picture?width=200&height=200) | - | EMB |
 | UFC | [youtube](https://www.youtube.com/channel/UCvgfXK4nTYKudb0rFR6noLA/live) | [web](https://www.ufcespanol.com) | [logo](https://graph.facebook.com/ufc/picture?width=200&height=200) | - | EMB |
