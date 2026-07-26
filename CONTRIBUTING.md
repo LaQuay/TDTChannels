@@ -193,6 +193,7 @@ Etiquetas habituales:
 * `EMB`: emisión embebida desde una plataforma oficial externa, como YouTube o Twitch.
 * `UAG` / `UAGB`: requiere User-Agent compatible con navegador.
 * `REF` / `REFI1` / `REFG1` / `REFC1`: requiere Referer.
+* `EVT`: la emisión opera de forma intermitente o eventual.
 * `NONAV`: la emisión no funciona correctamente en navegadores web.
 
 Si hay más de una etiqueta, sepáralas con comas y sin espacios.
