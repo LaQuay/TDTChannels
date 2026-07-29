@@ -988,7 +988,6 @@
 | SER Asturias | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ASTURIAS.mp3) | [web](https://cadenaser.com/radio-asturias/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Asturias.Radio | - |
 | SER Avilés | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_AVILES.mp3) | [web](https://cadenaser.com/ser-aviles/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Aviles.Radio | - |
 | SER Gijón | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJON.mp3) | [web](https://cadenaser.com/ser-gijon/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Gijon.Radio | - |
-| COPE Asturias | [mp3](https://wecast-bl01.flumotion.com/copesedes/asturias.mp3) | [web](https://www.cope.es/directos/asturias) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Avilés | [mp3](https://wecast-bl01.flumotion.com/copesedes/aviles.mp3) | [web](https://www.cope.es/directos/aviles) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Gijón | [mp3](https://wecast-bl01.flumotion.com/copesedes/gijon.mp3) | [web](https://www.cope.es/directos/gijon) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Oviedo | [mp3](https://wecast-bl01.flumotion.com/copesedes/asturias.mp3) | [web](https://www.cope.es/directos/oviedo) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
