@@ -796,7 +796,7 @@
 | - | - | - | - | - | - |
 | ABC News Australia | [m3u8 # EN](https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8) | [web](https://iview.abc.net.au/video/NS1413V001S00) | [logo](https://graph.facebook.com/abcnews.au/picture?width=200&height=200) | - | - |
 | Bloomberg Australia | [m3u8 # EN](https://www.bloomberg.com/media-manifest/streams/aus.m3u8) | [web](https://www.bloomberg.com/live/australia) | [logo](https://graph.facebook.com/BloombergTelevision/picture?width=200&height=200) | - | - |
-| Bloomberg Radio | - | [web](https://www.bloomberg.com/live/radio) | [logo](https://graph.facebook.com/BloombergTelevision/picture?width=200&height=200) | - | EXTA |
+| Bloomberg Radio | - | [web](https://www.bloomberg.com/live/radio) | [logo](https://pbs.twimg.com/profile_images/1631752273075339300/eVw06BKx_200x200.jpg) | - | EXTA |
 | Bloomberg Originals | [m3u8 # EN # 1](https://www.bloomberg.com/media-manifest/streams/qt.m3u8) - [m3u8 # EN # 2](https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8) | [web](https://www.bloomberg.com/live/originals) | [logo](https://graph.facebook.com/bloombergoriginals/picture?width=200&height=200) | - | - |
 | United Nations TV | - | [web](https://webtv.un.org/en) | [logo](https://graph.facebook.com/unitednations/picture?width=200&height=200) | - | EXTA |
 | Tastemade | [m3u8](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8) - [m3u8 # EN](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeinternationalenglish24i-ono/playlist.m3u8) | [web](https://app.tastemade.com/live-now) | [logo](https://graph.facebook.com/TastemadeEs/picture?width=200&height=200) | - | - |
