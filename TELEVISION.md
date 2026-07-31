@@ -228,7 +228,7 @@
 | PTV Córdoba | [m3u8](https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8) | [web](https://ptvtelecom.com/canales/cordoba.html) | [logo](https://graph.facebook.com/PTVCOR/picture?width=200&height=200) | - | UAGB |
 | TV Carmona | [youtube](https://youtu.be/T7ybAXtFzec) | [web](https://www.televisioncarmona.com) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
 | MIRA TV | - | [web](https://www.elmira.es/miratv/) | [logo](https://graph.facebook.com/miratelevision/picture?width=200&height=200) | - | EXTA |
-| Canal Coín | [m3u8](https://canalcoin.garjim.es/hls/directo.m3u8) | [web](https://canalcoin.com/tv-directo/) | [logo](https://graph.facebook.com/106272064368271/picture?width=200&height=200) | CanalCoin.TV | - |
+| Canal Coín | [m3u8](https://canalcoin.garjim.es/hls/directo.m3u8) | [web](https://canalcoin.com/tv-directo/) | [logo](https://graph.facebook.com/106272064368271/picture?width=200&height=200) | CanalCoin.TV | UAG |
 | Diez TV Andújar | [m3u8](https://streamtv2.elitecomunicacion.cloud:3305/live/10tvandujarlive.m3u8) | [web](https://dieztv.es/dieztv-andujar-directo/) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | DiezTV_Andujar.TV | - |
 | Diez TV Las Villas | [m3u8](https://streaming.cloud.innovasur.es/mmj2/index.m3u8) | [web](https://dieztv.es/dieztv-lasvillas-directo/) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | DiezTV_LasVillas.TV | - |
 | Diez TV Úbeda | [m3u8](https://streaming.cloud.innovasur.es/mmj/index.m3u8) | [web](https://dieztv.es/dieztv-ubeda-directo/) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | DiezTV_Ubeda.TV | - |
