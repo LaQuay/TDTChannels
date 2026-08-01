@@ -735,7 +735,7 @@
 | Trece Costa Rica | [stream](https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1) | [web](https://sinartdigital.com/envivo-canaltrece) | [logo](https://graph.facebook.com/canaltrececr/picture?width=200&height=200) | - | EXTB,EMB |
 | WIPR Puerto Rico | [m3u8](https://streamwipr.pr/hls/stream/index.m3u8) | [web](https://wipr.pr) | [logo](https://graph.facebook.com/wiprtv/picture?width=200&height=200) | - | - |
 | RedeTV! Brasil | [stream](https://www.dailymotion.com/embed/video/kYe5OYErhldJ75Azib2?autoplay=1) | [web](https://www.redetv.uol.com.br/aovivo) | [logo](https://graph.facebook.com/REDETV/picture?width=200&height=200) | - | EXTB,EMB |
-| CNN Brasil | [youtube](https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live) | [web](https://www.cnnbrasil.com.br/ao-vivo) | [logo](https://graph.facebook.com/cnnbrasil/picture?width=200&height=200) | - | EMB |
+| CNN Brasil | [youtube](https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live) | [web](https://www.cnnbrasil.com.br/ao-vivo/) | [logo](https://graph.facebook.com/cnnbrasil/picture?width=200&height=200) | - | EMB |
 | SBT Interior Brasil | - | [web](https://thmais.com.br/aracatuba/sbtinterior-aovivo/) | [logo](https://graph.facebook.com/sbtnointerior/picture?width=200&height=200) | - | EXTA,UAG |
 | TV Cultura Brasil | [m3u8](https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8) | [web](https://cultura.uol.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=200&height=200) | - | - |
 | Record News Brasil | [youtube # BR](https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live) | [web](https://noticias.r7.com/record-news) | [logo](https://graph.facebook.com/recordnews/picture?width=200&height=200) | - | EMB |
