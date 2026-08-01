@@ -401,7 +401,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Ceuta TV | - | [web](https://www.ceutatv.com/estaticas/ceuta-tv-en-directo.html) | [logo](https://graph.facebook.com/CeutaTV/picture?width=200&height=200) | - | - |
+| Ceuta TV | - | [web](https://www.ceutatv.com/estaticas/ceuta-tv-en-directo.html) | [logo](https://graph.facebook.com/CeutaTV/picture?width=200&height=200) | - | EVT |
 | RTVCE | - | [web](https://www.ceutaplay.es/pages/live) | [logo](https://graph.facebook.com/RTVCE/picture?width=200&height=200) | - | EXTA |
 | El Faro | [youtube](https://www.youtube.com/channel/UCJkirQzX68T-DiLB4-YP-TA/live) | [web](https://elfarodeceuta.es) | [logo](https://graph.facebook.com/ElFarodeCeuta/picture?width=200&height=200) | - | EMB,EVT |
 
