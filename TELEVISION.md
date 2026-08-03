@@ -419,7 +419,7 @@
 | Distrito TV | [m3u8](https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8) | [web](https://distritotv.es) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | - |
 | Déjate de Historias TV | [m3u8](https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8) | [web](https://dejatedehistorias.es/directo/) | [logo](https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200) | Dejate.TV | - |
 | Onda Madrid 101.3 | - | [web](https://www.tlmad.es/pages/live/onda-madrid-1013) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.TV | EXTA |
-| EsTuTele | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16818&live=1&avod=1&cb=[CACHEBUSTER]&site_page=https%3A%2F%2Ftdtchannels.com&site_name=tdtchannels&hls_marker=1&content_cat=IAB1&content_genre=Entertainment&content_id=Estutele&content_language=es&content_rating=TV-G&content_title=Estutele&coppa=0&ssai_enabled=1) | [web](https://estutele.com) | [logo](https://graph.facebook.com/Estutele/picture?width=200&height=200) | EsTuTele.TV | - |
+| EsTuTele | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16818&live=1&avod=1&cb=[CACHEBUSTER]&site_page=https%3A%2F%2Ftdtchannels.com&site_name=tdtchannels&hls_marker=1&content_cat=IAB1&content_genre=Entertainment&content_id=Estutele&content_language=es&content_rating=TV-G&content_title=Estutele&coppa=0&ssai_enabled=1) | [web](https://estutele.com) | [logo](https://yt3.googleusercontent.com/MluWU445ZXOKY1jqzwSoUAkqCKgvEvSfXWEADGhpHNdYpyssfwHkAsz8RlBnkSO1vT_iPVmaIg=s200) | EsTuTele.TV | - |
 | Canal 33 Madrid | [m3u8](https://media2.streambrothers.com:1936/8140/8140/.m3u8) | [web](https://www.canal33.info) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
 | iPROtv | [m3u8](https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8) | [web](https://iprotv.es) | [logo](https://graph.facebook.com/iprotvspain/picture?width=200&height=200) | - | - |
 | LIRA TV | [m3u8](https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8) | [web](https://liratv.es) | [logo](https://graph.facebook.com/liratvlive/picture?width=200&height=200) | - | NONAV |
@@ -457,7 +457,7 @@
 | TV 4 La Vall | [m3u8](https://valldeuxo.gestec-video.com/hls/lavall.m3u8) | [web](https://valldeuxo.gestec-video.com/lavall.php) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=200&height=200) | - | NONAV |
 | Distrito TV | [m3u8](https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8) | [web](https://eldistrito.es/distrito-tv/) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | - |
 | Canal 56 | [m3u8](https://videos.canal56.com/directe/stream/index.m3u8) | [web](https://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=200&height=200) | - | NONAV |
-| Tele Safor | [m3u8](https://video.telesafor.com/hls/video.m3u8) | [web](https://telesafor.com) | [logo](https://yt3.ggpht.com/ytc/APkrFKZ5UffEAeHVZWc1fbQsPu4VNureSfNMwlMoRmgH=s200) | - | - |
+| Tele Safor | [m3u8](https://video.telesafor.com/hls/video.m3u8) | [web](https://telesafor.com) | [logo](https://graph.facebook.com/Telesaforcom/picture?width=200&height=200) | - | - |
 | Univers TV | [m3u8](https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8) | [web](https://www.universvalencia.es) | [logo](https://graph.facebook.com/UniversValenciaDigital/picture?width=200&height=200) | - | - |
 | Radio Buñol TV | [m3u8](https://radiotvbunollive.flumotion.cloud/radiotvbunollive/smil:channel1.smil/playlist.m3u8) | [web](https://radiotv.xn--buol-hqa.es) | [logo](https://graph.facebook.com/radiobunyol/picture?width=200&height=200) | - | - |
 | TV Almassora | [m3u8](https://play.turesportmedia.com/hls/abr_tvalmassora/index.m3u8) | [web](https://www.tvalmassora.com/en-directo/en-directo-television-almassora/) | [logo](https://graph.facebook.com/tvalmassora/picture?width=200&height=200) | - | - |
@@ -469,7 +469,7 @@
 | Ciudades Del Ocio TV | [m3u8](https://cloudvideo.servers10.com:8081/8024/index.m3u8) | [web](https://www.ciudadesdelocio.tv) | [logo](https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200&height=200) | - | NONAV |
 | Onda Valencia | [m3u8](https://cloudvideo.servers10.com:8081/8116/index.m3u8) | [web](https://www.ondavalencia.es/en-directo/onda-valencia-tv) | [logo](https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200) | - | - |
 | Une Vinalopó | [m3u8](https://streamingtvi.gestec-video.com/hls/unesd.m3u8) | [web](https://www.unevinalopo.es/directo/) | [logo](https://graph.facebook.com/UneVinalopo/picture?width=200&height=200) | - | NONAV |
-| Enguera TV | [stream](https://player.twitch.tv/?channel=engueratv&parent=play.tdtchannels.com) | [web](https://www.enguera.es/content/enguera-tv) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJWP8ahafBlFAbCsP3tT17ooK6arGKNmcx6VES4o=s200) | - | EMB |
+| Enguera TV | [stream](https://player.twitch.tv/?channel=engueratv&parent=play.tdtchannels.com) | [web](https://www.enguera.es/content/enguera-tv) | [logo](https://graph.facebook.com/engueratelevision/picture?width=200&height=200) | - | EMB |
 | 33TV | [m3u8](https://limited43.todostreaming.es/live/simbana-livestream.m3u8) | [web](https://33tv.es) | [logo](https://graph.facebook.com/33Television/picture?width=200&height=200) | - | - |
 | Corts Valencianes | [m3u8](https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8) | [web](https://mediateca.cortsvalencianes.es/library/lives/) | [logo](https://graph.facebook.com/cortsval/picture?width=200&height=200) | - | EVT |
 | Generalitat Valenciana | [youtube](https://www.youtube.com/channel/UC7K6JEaXU--Ky356DgE1m-Q/live) | [web](https://www.gva.es) | [logo](https://graph.facebook.com/generalitatvalenciana/picture?width=200&height=200) | - | EMB,EVT |
@@ -533,7 +533,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Melilla TV | [stream](https://www.dailymotion.com/embed/video/x9jhjqk?autoplay=1) | [web](https://tvmelilla.es/directo.php) | [logo](https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200) | MelillaTV.TV | EXTB,EMB |
-| Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8) | [web](https://populartvmelilla.com) | [logo](https://pbs.twimg.com/profile_images/61224728/populartvtwitter_200x200.png) | - | - |
+| Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8) | [web](https://populartvmelilla.com) | [logo](https://graph.facebook.com/PopularTelevisionMelilla/picture?width=200&height=200) | - | - |
 
 ### País Vasco
 
@@ -577,7 +577,7 @@
 | - | - | - | - | - | - |
 | La 7 | - | [web](https://www.la7tv.es/video/a-la-carta/7tv-en-directo/20220810150726000939.html) | [logo](https://graph.facebook.com/la7tele/picture?width=200&height=200) | 7RM.TV | EXTA |
 | La 7+ | - | [web](https://www.la7tv.es/video/a-la-carta/la-7/20221004091316003030.html) | [logo](https://graph.facebook.com/la7tele/picture?width=200&height=200) | - | EXTA |
-| Popular TV Murcia | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12690&live=1) | [web](https://populartvrm.com/directo) | [logo](https://pbs.twimg.com/profile_images/61224728/populartvtwitter_200x200.png) | PopularMU.TV | - |
+| Popular TV Murcia | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12690&live=1) | [web](https://populartvrm.com/directo) | [logo](https://pbs.twimg.com/profile_images/2049481726964187136/w67cmHGs_200x200.jpg) | PopularMU.TV | - |
 | Canal 1 Mar Menor Torre Pacheco | [m3u8](https://directo.tuwebtv.es/canal1.m3u8) | [web](https://www.tuwebtv.es/directo.php) | [logo](https://graph.facebook.com/tuwebtv/picture?width=200&height=200) | - | - |
 | Arabí TV | [m3u8 # 1](https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8) - [m3u8 # 2](https://servidor.islahostingla.com:3548/live/arabitvlive.m3u8) | [web](https://www.arabitv.es/en-directo/) | [logo](https://graph.facebook.com/arabitvyecla/picture?width=200&height=200) | - | - |
 | Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
