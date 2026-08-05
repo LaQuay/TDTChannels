@@ -862,7 +862,7 @@
 | +Buena FM | [stream](https://sonic.mediatelekom.net/8156/stream) | [web](https://masbuenafm.com) | [logo](https://graph.facebook.com/masbuenafm/picture?width=200&height=200) | - | - |
 | Verbena FM | [stream](https://streaming12.elitecomunicacion.es:8222/stream) | [web](https://verbenafm.com) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
 | Radiofusión | [stream](https://srv7031.dns-lcinternet.com/8032/stream) | [web](https://www.radiofusion.gal) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | - |
-| Radio Líder Galicia | [stream](https://server8.emitironline.com:18245/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
+| Radio Líder Galicia | [stream](https://server8.emitironline.com:18520/) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | Metro FM Ferrol | [stream](https://metrofm01.arsenet.com/stream) | [web](https://metrofmferrol.com) | [logo](https://pbs.twimg.com/profile_images/1716777709928427520/itSjGZ9v_200x200.jpg) | - | - |
 | Net Galicia Radio | [stream](https://sonicpanel.streaming10.net/8140/stream) | [web](https://www.netgaliciaradio.es) | [logo](https://www.netgaliciaradio.es/wp-content/uploads/2022/09/logo.png) | - | - |
 
