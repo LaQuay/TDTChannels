@@ -839,7 +839,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/6982918.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | RNE_Radio3.TV | - |
-| Sol Música España | [m3u8](https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8) | [web](https://tuamc.tv/sol-musica) | [logo](https://graph.facebook.com/solmusica/picture?width=200&height=200) | SolMusica.TV | - |
+| Sol Música España | [m3u8](https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8) | [web](https://amcchannels.es/sol-musica) | [logo](https://graph.facebook.com/solmusica/picture?width=200&height=200) | SolMusica.TV | - |
 | Café del Mar Ibiza España | [youtube](https://www.youtube.com/channel/UCha0QKR45iw7FCUQ3-1PnhQ/live) | [web](https://cafedelmar.com) | [logo](https://graph.facebook.com/cafedelmaribizaofficialpage/picture?width=200&height=200) | - | EMB |
 | Activa TV España | [m3u8](https://streamtv.mediasector.es/hls/activatv/index.m3u8) | [web](https://www.emisorasmusicales.net/activa-tv/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
 | Molahits TV España | [m3u8](https://ventdelnord.tv:8080/mola/directe.m3u8) | [web](https://www.molatv.cat) | [logo](https://graph.facebook.com/molahitstv/picture?width=200&height=200) | - | - |
