@@ -35,10 +35,10 @@
 | El País | [m3u8](https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8) - [youtube](https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw/live) | [web](https://elpais.com) | [logo](https://graph.facebook.com/elpais/picture?width=200&height=200) | ElPais.TV | EMB |
 | La Vanguardia | [youtube](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live) | [web](https://www.lavanguardia.com) | [logo](https://graph.facebook.com/LaVanguardia/picture?width=200&height=200) | - | EMB,EVT |
 | Cadena SER | [youtube](https://www.youtube.com/channel/UCQ2Fej5pr1ipVeBWTX8Sc_Q/live) | [web](https://cadenaser.com) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | EMB,EVT |
-| ABC | [youtube](https://www.youtube.com/channel/UChFgb_m6aDftnqrxTYFO5Xw/live) | [web](https://www.abc.es/) | [logo](https://graph.facebook.com/ABCes/picture?width=200&height=200) | - | EMB,EVT |
+| ABC | [youtube](https://www.youtube.com/channel/UChFgb_m6aDftnqrxTYFO5Xw/live) | [web](https://www.abc.es) | [logo](https://graph.facebook.com/ABCes/picture?width=200&height=200) | - | EMB,EVT |
 | El Confidencial | [m3u8](https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-bmo0niz694whx.m3u8) | [web](https://www.elconfidencial.com/television/) | [logo](https://graph.facebook.com/elconfidencial/picture?width=200&height=200) | ElConfidencial.TV | - |
-| El Mundo | [youtube](https://www.youtube.com/channel/UCGXbLrVe8vnkiFv7q2vYv3w/live) | [web](https://www.elmundo.es/) | [logo](https://graph.facebook.com/elmundo/picture?width=200&height=200) | - | EMB,EVT |
-| La Razón | [youtube](https://www.youtube.com/channel/UC4_KeNFWSKD1Ie1eYzrcvog/live) | [web](https://www.larazon.es/) | [logo](https://graph.facebook.com/larazon.es/picture?width=200&height=200) | - | EMB,EVT |
+| El Mundo | [youtube](https://www.youtube.com/channel/UCGXbLrVe8vnkiFv7q2vYv3w/live) | [web](https://www.elmundo.es) | [logo](https://graph.facebook.com/elmundo/picture?width=200&height=200) | - | EMB,EVT |
+| La Razón | [youtube](https://www.youtube.com/channel/UC4_KeNFWSKD1Ie1eYzrcvog/live) | [web](https://www.larazon.es) | [logo](https://graph.facebook.com/larazon.es/picture?width=200&height=200) | - | EMB,EVT |
 | Okdiario | [youtube](https://www.youtube.com/channel/UCf6W-gNFClPt_XtQ6P44NTg/live) | [web](https://okdiario.com) | [logo](https://graph.facebook.com/okdiario/picture?width=200&height=200) | - | EMB,EVT |
 | Agencia EFE | [youtube](https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live) | [web](https://www.efe.com) | [logo](https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200) | - | EMB,EVT |
 | Onda Cero | [m3u8](https://atres-live.ondacero.es/h264/live/obs/master.m3u8) | [web](https://www.ondacero.es) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
@@ -181,7 +181,7 @@
 | 8TV Sierra de Cádiz | [m3u8](https://s.emisoras.tv:8081/sierradecadiz/index.m3u8) | [web](https://8cadiz.es/directo-sierra/) | [logo](https://graph.facebook.com/8tvcadiz/picture?width=200&height=200) | - | - |
 | 8TV Chiclana | [m3u8](https://s.emisoras.tv:8081/chiclana/index.m3u8) | [web](https://8cadiz.es/directo-chiclana/) | [logo](https://graph.facebook.com/8tvcadiz/picture?width=200&height=200) | - | - |
 | 8TV La Janda | [m3u8](https://s.emisoras.tv:8081/lajanda/index.m3u8) | [web](https://8cadiz.es/directo-la-janda/) | [logo](https://graph.facebook.com/8tvcadiz/picture?width=200&height=200) | - | - |
-| Tuya La Janda TV | [m3u8](https://nimble.tuyapro.es/app/tv/playlist.m3u8) | [web](https://tuyatv.com/) | [logo](https://graph.facebook.com/tuyalajandatv/picture?width=200&height=200) | TuyaLaJanda.TV | - |
+| Tuya La Janda TV | [m3u8](https://nimble.tuyapro.es/app/tv/playlist.m3u8) | [web](https://tuyatv.com) | [logo](https://graph.facebook.com/tuyalajandatv/picture?width=200&height=200) | TuyaLaJanda.TV | - |
 | Onda Algeciras TV | [m3u8](https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8) | [web](https://ondaalgecirastv.com/en-directo/) | [logo](https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200) | OndaAlgeciras.TV | - |
 | PTV Málaga | [m3u8](https://streamer.zapitv.com/PTV-malaga/index.m3u8) | [web](https://ptvtelecom.com/canales/malaga.html) | [logo](https://graph.facebook.com/PTVMalaga/picture?width=200&height=200) | PTV_Malaga.TV | UAGB |
 | Huelva TV | [youtube](https://www.youtube.com/channel/UCfeAbEOHhmzJOTpSn0cxYuA/live) | [web](https://alacarta.huelvatv.com/directo/) | [logo](https://graph.facebook.com/HuelvaTelevision/picture?width=200&height=200) | HuelvaTV.TV | EXTA,EMB |
@@ -254,7 +254,7 @@
 | Antena Aragón | [youtube](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/live) | [web](https://diarioaragones.com) | [logo](https://yt3.ggpht.com/ytc/AL5GRJWC1oJVC1hgcGBN1OHnroVVoe_pcgLvGJWvOA8aGQ=s200) | - | EMB,EVT |
 | Calamocha TV | [stream](http://calamochatv:SPrKAXJkZH0wb0ax@pub01.dav.tcscdn.net:1083/calamochatvtcs.m3u8) | [web](https://www.mijilocatv.es) | [logo](https://graph.facebook.com/CalamochaTV/picture?width=200&height=200) | - | EMB |
 | Canal 25 Barbastro TV | [stream](https://player.twitch.tv/?channel=tvbarbastro&parent=play.tdtchannels.com) | [web](https://www.canal25tv.es) | [logo](https://graph.facebook.com/tvbarbastro/picture?width=200&height=200) | - | EMB |
-| Altoaragón Televisión | [youtube](https://www.youtube.com/channel/UCZr6G49BImhh_ltJD2rF6rw/live) | [web](https://altoaragontelevision.es/) | [logo](https://graph.facebook.com/AltoaragonTV/picture?width=200&height=200) | - | EMB,EVT |
+| Altoaragón Televisión | [youtube](https://www.youtube.com/channel/UCZr6G49BImhh_ltJD2rF6rw/live) | [web](https://altoaragontelevision.es) | [logo](https://graph.facebook.com/AltoaragonTV/picture?width=200&height=200) | - | EMB,EVT |
 | Cortes de Aragón | [youtube](https://www.youtube.com/channel/UCyBXbc0UicHRPJLmHppjpgQ/live) | [web](https://www.cortesaragon.es) | [logo](https://graph.facebook.com/@cortesdearagon/picture?width=200&height=200) | - | EMB,EVT |
 | Gobierno de Aragón | [youtube](https://www.youtube.com/channel/UCEIuOP1ex5JjB4JhtJ4Sbjg/live) | [web](https://www.aragon.es) | [logo](https://graph.facebook.com/GobAragon/picture?width=200&height=200) | - | EMB,EVT |
 
