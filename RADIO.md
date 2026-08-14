@@ -80,6 +80,7 @@
 | La Urban Radio | [stream](https://radio.urbanrevolution.es:8443/hispano) | [web](https://urbanrevolution.es) | [logo](https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200) | - | - |
 | FLOW Radio | [stream](https://flow.urbanrevolution.es:8445/flow) | [web](https://flowradio.es) | [logo](https://graph.facebook.com/flowradio.es/picture?width=200&height=200) | - | - |
 | House Radio | [stream](https://house.urbanrevolution.es:8446/houseaac) | [web](https://house.urbanrevolution.es:446/public/house_radio_spain) | [logo](https://graph.facebook.com/houseradiofm/picture?width=200&height=200) | - | - |
+| Urban Radio | [stream](https://icecast.frilab.com:8000/urbanradio) | [web](https://urbanradio.cat/) | [logo](https://pbs.twimg.com/profile_images/2074246907216445440/2gTeXS8t_200x200.jpg) | - | - |
 
 ## Deportivas
 
