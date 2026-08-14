@@ -455,7 +455,6 @@
 | Levante TV | [stream](https://player.twitch.tv/?channel=levante_tv&parent=play.tdtchannels.com) | [web](https://www.levante-emv.com/videos/levante-tv) | [logo](https://graph.facebook.com/levantetv/picture?width=200&height=200) | Levante.TV | EMB |
 | Burriana TV | [m3u8](https://stream.burrianateve.com/hls/abr_btv/index.m3u8) | [web](https://burrianateve.com) | [logo](https://graph.facebook.com/burrianateve/picture?width=200&height=200) | - | - |
 | TV 4 La Vall | [m3u8](https://valldeuxo.gestec-video.com/hls/lavall.m3u8) | [web](https://valldeuxo.gestec-video.com/lavall.php) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=200&height=200) | - | NONAV |
-| Distrito TV | [m3u8](https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8) | [web](https://eldistrito.es/distrito-tv/) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | - |
 | Canal 56 | [m3u8](https://videos.canal56.com/directe/stream/index.m3u8) | [web](https://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=200&height=200) | - | NONAV |
 | Tele Safor | [m3u8](https://video.telesafor.com/hls/video.m3u8) | [web](https://telesafor.com) | [logo](https://graph.facebook.com/Telesaforcom/picture?width=200&height=200) | - | - |
 | Univers TV | [m3u8](https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8) | [web](https://www.universvalencia.es) | [logo](https://graph.facebook.com/UniversValenciaDigital/picture?width=200&height=200) | - | - |
