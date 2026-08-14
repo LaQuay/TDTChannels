@@ -262,7 +262,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TV Canaria (RTVC) | [m3u8](https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8) | [web](https://www.canariasplay.es/videos/314784-rtvc-en-directo) | [logo](https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200) | Canarias.TV | - |
+| TV Canaria | [m3u8 # 1](https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8) - [m3u8 # 2](https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8) | [web](https://www.canariasplay.es/videos/314784-rtvc-en-directo) | [logo](https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200) | Canarias.TV | - |
 | La 1 Canarias | [m3u8](https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-canarias/) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAkEfk96B4C3wdml0A6_Ewv8zhsVAj2AVDSLpS34DMw&s) | La1_CAN.TV | - |
 | La 2 Canarias | [m3u8](https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-canarias/la-2-can/) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200) | La2_CAN.TV | - |
 | 24h Canarias | [m3u8 # 1](https://ztnr.rtve.es/ztnr/5473142.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-canarias/24-h-can/) | [logo](https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg) | 24H_CAN.TV | - |
