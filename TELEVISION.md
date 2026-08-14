@@ -395,7 +395,6 @@
 | TV del Ripollès | - | [web](https://laxarxames.cat/player/8047) | [logo](https://graph.facebook.com/televisiodelripolles/picture?width=200&height=200) | Xarxa_Televisio_Ripolles.TV | EXTA,REG |
 | etv | [m3u8](https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8?DVR) | [web](https://www.etv.cat) | [logo](https://graph.facebook.com/etv.llobregat/picture?width=200&height=200) | Xarxa_ETV.TV | UAG,REFI1 |
 | TV Sant Cugat | [youtube](https://www.youtube.com/channel/UCO_HcwAMD_XcZWfqidMtfgw/live) | [web](https://www.tvsantcugat.cat/cobertura/directe-tv-hd/) | [logo](https://graph.facebook.com/tvsantcugat/picture?width=200&height=200) | - | EMB |
-| Mar TV | [m3u8](https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8) | [web](https://martv.tv) | [logo](https://graph.facebook.com/martelevisio/picture?width=200&height=200) | - | - |
 | 22TV Televisió de Solsona | [stream](https://player.twitch.tv/?channel=22tv_celsona&parent=play.tdtchannels.com) | [web](https://22cabletv.wordpress.com) | [logo](https://yt3.ggpht.com/ovQWWhA18AZmmjp34yMreDiMViVWDNDV4goBCru2tkA0_MClFvT-j63WIKKooNwotM9ZAlri=s200) | - | EMB |
 | Canal Parlament | - | [web](https://parlament.cat/ext/f?p=700:1) | [logo](https://graph.facebook.com/parlamentcat/picture?width=200&height=200) | - | EVT |
 | Govern de la Generalitat de Catalunya | [youtube](https://www.youtube.com/channel/UCLaqEt7ZJeqFCI2WB6XLz8w/live) | [web](https://govern.cat/gov) | [logo](https://graph.facebook.com/governcat/picture?width=200&height=200) | - | EMB,EVT |
