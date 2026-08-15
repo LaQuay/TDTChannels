@@ -429,7 +429,7 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Radio Nacional Castilla y León | [stream](https://dispatcher.rndfnk.com/crtve/rne1/cyl/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_cyl-live/3893532/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.Radio | - |
-| Radio 5 Castilla y León | [steam](https://dispatcher.rndfnk.com/crtve/rne5/vll/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_cyl-live/3894781/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | RNE5.Radio | - |
+| Radio 5 Castilla y León | [stream](https://dispatcher.rndfnk.com/crtve/rne5/vll/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_cyl-live/3894781/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | RNE5.Radio | - |
 | Radio Marca Valladolid | [mp3](https://radiomarcavalladolid.streaming-pro.com:6106/radiomarca.mp3) | [web](https://radiomarcavalladolid.com) | [logo](https://pbs.twimg.com/profile_images/1686786609943920654/FR7ia-yk_200x200.jpg) | - | - |
 | SER Aranda | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ARANDA.mp3) | [web](https://cadenaser.com/radio-aranda/) | [logo](https://graph.facebook.com/RadioAranda/picture?width=200&height=200) | S_Aranda.Radio | - |
 | SER Ávila | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_AVILA.mp3) | [web](https://cadenaser.com/ser-avila/) | [logo](https://graph.facebook.com/CadenaSERavila/picture?width=200&height=200) | S_Avila.Radio | - |
