@@ -490,7 +490,7 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 3CatInfo | [m3u8](https://directes-radio-int.3catdirectes.cat/live-content/catalunya-informacio-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/3catinfo-radio/) | [logo](https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg) | CATInformacio.Radio | - |
-| Catalunya Música | [m3u8](https://directes-radio-int.3catdirectes.cat/live-content/catalunya-musica-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/catalunya-musica/) | [logo](https://graph.facebook.com/catmusica/picture?width=200&height=200) | CATMusica.Radio | - |
+| Catalunya Música | [m3u8](https://directes-radio-int.3catdirectes.cat/live-content/catalunya-musica-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/catalunya-musica/) | [logo](https://pbs.twimg.com/media/Cr8W4UlW8AAD6B4?format=png&name=240x240) | CATMusica.Radio | - |
 | iCat | [m3u8](https://directes-radio-int.3catdirectes.cat/live-content/icat-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/icat/) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ICat.cat.svg/250px-ICat.cat.svg.png) | iCAT.Radio | - |
 | Catalunya Ràdio Exclusiu | [m3u8](https://directes-radio-int.3catdirectes.cat/live-content/radio-oca-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/ocr1/) | [logo](https://graph.facebook.com/catradio/picture?width=200&height=200) | - | - |
 | Radio Nacional Catalunya | [stream](https://dispatcher.rndfnk.com/crtve/rne1/cat/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_cat-live/3893527/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.Radio | - |
