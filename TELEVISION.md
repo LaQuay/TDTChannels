@@ -262,7 +262,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TV Canaria (RTVC) | [m3u8 # 1](https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8) - [m3u8 # 2](https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8) | [web](https://www.canariasplay.es/videos/314784-rtvc-en-directo) | [logo](https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200) | Canarias.TV | - |
+| TV Canaria (RTVC) | [m3u8 # 1](https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8) - [m3u8 # 2](https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8) | [web](https://www.canariasplay.es/videos/314784-rtvc-en-directo) | [logo](https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200) | Canarias.TV | - |
 | La 1 Canarias | [m3u8](https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-canarias/) | [logo](https://graph.facebook.com/la1detve/picture?width=200&height=200) | La1_CAN.TV | - |
 | La 2 Canarias | [m3u8](https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-canarias/la-2-can/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2_CAN.TV | - |
 | 24h Canarias | [m3u8 # 1](https://ztnr.rtve.es/ztnr/5473142.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-canarias/24-h-can/) | [logo](https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg) | 24H_CAN.TV | - |
@@ -592,7 +592,7 @@
 | TVG Europa | [m3u8](https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8) | [web](https://agalega.gal/videos/76475-tvg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
 | Telemadrid Internacional | [youtube](https://www.youtube.com/channel/UCv2BcgqxHSrl2QQfIkjR5Eg/live) | [web](https://www.tlmad.es/pages/live/internacional) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | TeleMadridInt.TV | EMB,EXTA |
 | Aragón TV INT | - | [web](https://www.aragonplay.es/watch/live/699341967864450d4f062ba9) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV_INT.TV | EXTA,REG |
-| TV Canaria Net | [m3u8](https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8) | [web](https://www.canariasplay.es/videos/314793-ott7) | [logo](https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200) | - | - |
+| TV Canaria Net | [m3u8](https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8) - [youtube](https://www.youtube.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ/live) | [web](https://www.canariasplay.es/videos/314793-ott7) | [logo](https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200) | - | EMB |
 | Islas Canarias TV | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=17089&live=1) | [web](https://islascanarias.tv) | [logo](https://graph.facebook.com/IslasCanariasTelevision/picture?width=200&height=200) | - | - |
 | ATV Andorra | [m3u8](https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8) | [web](https://www.rtva.ad/en-directe/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVHD.TV | EXTA |
 | Lòria TV Andorra | [youtube](https://www.youtube.com/channel/UCCCnrECJpv84QKM4olodZOQ/live) | [web](https://loriatv.com) | [logo](https://graph.facebook.com/LoriaTV/picture?width=200&height=200) | - | EMB |
