@@ -17,7 +17,7 @@
 | Canal Sur Radio | [mp3](https://rtva-live-radio.flumotion.com/rtva/csr.mp3) | [web](https://www.canalsurmas.es/videos/19988-canal-sur-radio) | [logo](https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200) | CanalSur.Radio | - |
 | Radio Euskadi | [m3u8](https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8) | [web](https://guau.eus/st/radio-euskadi) | [logo](https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200) | RadioEuskadi.Radio | - |
 | Radio Galega | [m3u8](https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8) | [web](https://agalegaaudio.gal/videos/120144-radio-galega) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | RadioGalega.Radio | - |
-| Radio María | [stream](https://dreamsiteradiocp2.com/proxy/rmspain1?mp=/stream) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | RadioMaria.Radio | - |
+| Radio María | [stream](https://dreamsiteradiocp6.com/proxy/rmspain12?mp=/stream) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | RadioMaria.Radio | - |
 
 ## Musicales
 
