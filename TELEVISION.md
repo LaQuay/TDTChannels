@@ -634,7 +634,7 @@
 | STAR TV Turquía | - | [web](https://www.startv.com.tr/canli-yayin) | [logo](https://graph.facebook.com/startv/picture?width=200&height=200) | - | EXTA |
 | RTCG SAT Montenegro | [m3u8](https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8) | [web](https://rtcg.me/cir/tv/gledaj-tvcgmne.html) | [logo](https://graph.facebook.com/RTCG.me/picture?width=200&height=200) | - | - |
 | RÚV Islandia | [m3u8 # IS](https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8) | [web](https://www.ruv.is/sjonvarp/beint/ruv) | [logo](https://graph.facebook.com/RUVohf/picture?width=200&height=200) | - | - |
-| San Marino RTV | - | [web](https://www.sanmarinortv.sm/programmi/web-tv) | [logo](https://graph.facebook.com/SanMarinoRTV/picture?width=200&height=200) | - | - |
+| San Marino RTV | - | [web](https://www.sanmarinortv.sm/programmi/web-tv) | [logo](https://graph.facebook.com/SanMarinoRTV/picture?width=200&height=200) | - | EXTA |
 | RTV Sport | - | [web](https://www.sanmarinortv.sm/programmi/web-tv-sport) | [logo](https://graph.facebook.com/SanMarinoRTV/picture?width=200&height=200) | - | EXTA |
 | N1 Croacia | [m3u8 # HR](https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8) | [web](https://n1info.hr/n1-tv-live-stream/) | [logo](https://graph.facebook.com/N1Hrvatska/picture?width=200&height=200) | - | - |
 | VizionPlus Albania | [m3u8 # SQ](https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8) | [web](https://www.vizionplus.tv/livestream/) | [logo](https://graph.facebook.com/vizionplustv/picture?width=200&height=200) | - | - |
