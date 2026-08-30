@@ -320,7 +320,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 7 | - | [web](https://www.cyltvplay.es/player/d3badef6-d229-4a27-9609-03df3d17ca3/la7/la7) | [logo](https://graph.facebook.com/cyltv/picture?width=200&height=200) | La7.TV | EXTA |
+| La 7 (CyLTV) | - | [web](https://www.cyltvplay.es/player/d3badef6-d229-4a27-9609-03df3d17ca3/la7/la7) | [logo](https://graph.facebook.com/cyltv/picture?width=200&height=200) | La7.TV | EXTA |
 | La 8 Ávila | - | [web](https://www.cyltvplay.es/player/8ff2818d-60f4-43dd-a76f-7e43644e51d/la8av/la-8-avila) | [logo](https://pbs.twimg.com/profile_images/1364545643319087104/7qp4nrtS_200x200.jpg) | La8CYL.TV | EXTA |
 | La 8 Bierzo | - | [web](https://www.cyltvplay.es/player/f10db0a9-9d70-4c22-a331-54f18e37a50/la8bi/la-8-bierzo) | [logo](https://graph.facebook.com/La8Bierzo/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | La 8 Burgos | - | [web](https://www.cyltvplay.es/player/f6b3c206-798e-4ef9-aad7-beb4c0369b0/la8bu/la-8-burgos) | [logo](https://graph.facebook.com/La8Burgos/picture?width=200&height=200) | La8CYL_Burgos.TV | EXTA |
