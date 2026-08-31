@@ -913,13 +913,14 @@
 | Radio 5 La Rioja | [stream](https://dispatcher.rndfnk.com/crtve/rne5/rio/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_rio-live/3894788/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | RNE5.Radio | - |
 | SER Calahorra | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CALAHORRA.mp3) | [web](https://cadenaser.com/radio-rioja-calahorra/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Rioja | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_RIOJA.mp3) | [web](https://cadenaser.com/radio-rioja/) | [logo](https://graph.facebook.com/RadioRiojaCadenaSer/picture?width=200&height=200) | S_Rioja.Radio | - |
+| SER Radio Haro | [mp3](https://streaming.radioharo.com/radioharo.mp3) | [web](https://www.radioharo.com) | [logo](https://graph.facebook.com/radioharo/picture?width=200&height=200) | - | - |
 | COPE Logroño | [mp3](https://wecast-bl01.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/coperioja/picture?width=200&height=200) | - | - |
 | Onda Cero Logroño | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_LOGRONOAAC.m3u8) | [web](https://www.ondacero.es/emisoras/rioja/rioja/directo/) | [logo](https://graph.facebook.com/ondacerolarioja/picture?width=200&height=200) | OC_Logrono.Radio | - |
 | Europa FM Logroño | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/EFM_LOGRONOAAC.m3u8) | [web](https://www.europafm.com/frecuencias/logrono/) | [logo](https://graph.facebook.com/europafmlariojaradio/picture?width=200&height=200) | - | - |
 | Melodía FM La Rioja Baja | [m3u8](https://atres-live.melodia-fm.com/live/melodiafm/master.m3u8) | [web](https://www.melodia-fm.com/frecuencias/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=200&height=200) | - | - |
 | esRadio Arnedo | [stream](https://stream20.usastreams.com/8154/stream) | [web](https://www.radioarnedo.com) | [logo](https://graph.facebook.com/ondarioja.radioarnedo/picture?width=200&height=200) | - | - |
 | Radio Logroño | [stream](https://stream.zeno.fm/19buxw48djlvv) | [web](https://radiologrono.es) | [logo](https://graph.facebook.com/radiologrono/picture?width=200&height=200) | - | - |
-| Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.canalebro.com/radioonline/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
+| Canal Ebro | [mp3](https://streaming.radioharo.com/canalebro.mp3) | [web](https://www.canalebro.com) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
 
 ### Melilla
 
