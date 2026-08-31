@@ -595,7 +595,7 @@
 | Islas Canarias TV | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=17089&live=1) | [web](https://islascanarias.tv) | [logo](https://graph.facebook.com/IslasCanariasTelevision/picture?width=200&height=200) | - | - |
 | ATV Andorra | [m3u8](https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8) | [web](https://www.rtva.ad/en-directe/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVHD.TV | EXTA |
 | Lòria TV Andorra | [youtube](https://www.youtube.com/channel/UCCCnrECJpv84QKM4olodZOQ/live) | [web](https://loriatv.com) | [logo](https://graph.facebook.com/LoriaTV/picture?width=200&height=200) | - | EMB |
-| GBC Gibraltar | - | [web](https://www.gbc.gi/tv/watch-live) | [logo](https://graph.facebook.com/GBCNewsroom/picture?width=200&height=200) | - | - |
+| GBC Gibraltar | - | [web](https://www.gbc.gi/tv/watch-live) | [logo](https://graph.facebook.com/GBCNewsroom/picture?width=200&height=200) | - | NOEX |
 | Euronews Internacional | [youtube # EN](https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live) - [youtube # FR](https://www.youtube.com/channel/UCW2QcKZiU8aUGg4yxCIditg/live) - [youtube # PT](https://www.youtube.com/channel/UCUmEPYxmnyQDeRUcFkslmQw/live) | [web](https://es.euronews.com/live) | [logo](https://graph.facebook.com/es.euronews/picture?width=200&height=200) | - | EMB |
 | CNN Internacional | [m3u8](https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8) - [youtube](https://www.youtube.com/channel/UC_lEiu6917IJz03TnntWUaQ/live) | [web](https://cnnespanol.cnn.com) | [logo](https://graph.facebook.com/cnninternational/picture?width=200&height=200) | CNNInt.TV | EMB |
 | Bloomberg Europe | [m3u8 # EN](https://www.bloomberg.com/media-manifest/streams/eu.m3u8) | [web](https://www.bloomberg.com/live/europe) | [logo](https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg) | Bloom.TV | - |
@@ -814,7 +814,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Olympic Channel TV | - | [web](https://olympics.com/es/live/) | [logo](https://graph.facebook.com/olympics/picture?width=200&height=200) | - | EMB |
+| Olympic Channel | - | [web](https://olympics.com/es/live/) | [logo](https://graph.facebook.com/olympics/picture?width=200&height=200) | - | NOEX |
 | FIBA | [youtube](https://www.youtube.com/channel/UCtInrnU3QbWqFGsdKT1GZtg/live) | [web](https://www.livebasketball.tv/home) | [logo](https://graph.facebook.com/FIBA/picture?width=200&height=200) | - | EMB,EVT |
 | FIBA3x3 | [youtube](https://www.youtube.com/channel/UC7LpyJP5fupiJu2CdzRQheg/live) | [web](https://fiba3x3.com) | [logo](https://graph.facebook.com/FIBA3x3/picture?width=200&height=200) | - | EMB,EVT |
 | UFC | [youtube](https://www.youtube.com/channel/UCvgfXK4nTYKudb0rFR6noLA/live) | [web](https://www.ufcespanol.com) | [logo](https://graph.facebook.com/ufc/picture?width=200&height=200) | - | EMB,EVT |
