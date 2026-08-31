@@ -191,7 +191,7 @@ Etiquetas habituales:
 * `EXTA`: la plataforma tratará de encontrar la emisión oficial a partir del enlace indicado en la columna `web`.
 * `EXTB`: la plataforma tratará de encontrar la emisión oficial a partir del enlace indicado en la columna `M3U8`.
 * `EMB`: emisión embebida desde una plataforma oficial externa, como YouTube o Twitch.
-* `UAG`: requiere User-Agent compatible con navegador.
+* `UAG` / `UAGB`: requiere User-Agent compatible con navegador.
 * `REF` / `REFI1` / `REFG1` / `REFC1`: requiere Referer.
 * `EVT`: la emisión opera de forma intermitente o eventual.
 * `NONAV`: la emisión no funciona correctamente en navegadores web.
