@@ -286,7 +286,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Cantabria TV | [youtube](https://www.youtube.com/channel/UC0sXB5ZoIoXWvqdizegaifg/live) | [web](https://www.cantabriatv.es) | [logo](https://graph.facebook.com/vegavisiontvcantabria/picture?width=200&height=200) | - | EMB |
+| Cantabria TV | [youtube](https://www.youtube.com/channel/UC0sXB5ZoIoXWvqdizegaifg/live) - [m3u8](http://cantabriatv:qcGY4OZRQLB0dqbs@pub01.dav.tcscdn.net:1092/cantabriatvtcs.m3u8)| [web](https://www.cantabriatv.es) | [logo](https://graph.facebook.com/vegavisiontvcantabria/picture?width=200&height=200) | - | EMB |
 | Saja Nansa TV | [m3u8](https://streamlov.alsolnet.com/sajanansatv/live/playlist.m3u8) | [web](https://www.ondaoccidental.es/sajanansatv/) | [logo](https://graph.facebook.com/ondaoccidental/picture?width=200&height=200) | - | - |
 | 11 TV Cantabria | [youtube](https://www.youtube.com/channel/UCuPHaVBv7cd-wWx3ztpALQw/live) | [web](https://www.11tv.es) | [logo](https://graph.facebook.com/11TvCantabria/picture?width=200&height=200) | - | EMB,EVT |
 | Popular TV Cantabria | [m3u8](https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8) - [youtube](https://www.youtube.com/channel/UCnRUhL0WKAAemAxyIzaas0A/live) | [web](https://populartvcantabria.com/en-directo/) | [logo](https://graph.facebook.com/populartvcantabria/picture?width=200&height=200) | PopularTV_S.TV | EMB |
