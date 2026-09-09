@@ -16,7 +16,7 @@ Además la programación EPG (guía de tv) está disponible e integrada automát
 | Guía | WEB | JSON | XML.GZ |
 | :- | :-: | :-: | :-: |
 | **TV** | [Navegador](https://play.tdtchannels.com/television) | [json](https://www.tdtchannels.com/epg/TV.json) | [xml.gz](https://www.tdtchannels.com/epg/TV.xml.gz) |
-| **Radio** | [Navegador](https://play.tdtchannels.com/radio) | [json](https://www.tdtchannels.com/epg/RADIO.json) | — |
+| **Radio** | [Navegador](https://play.tdtchannels.com/radio) | [json](https://www.tdtchannels.com/epg/RADIO.json) | [xml.gz](https://www.ondachannels.com/epg/RADIO.xml.gz) |
 
 - *Navegador*: Visionado en el navegador.
 - `JSON`: Formato para otros programas de lectura de datos (TDTChannels Android e iOS).
