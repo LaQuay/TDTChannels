@@ -187,6 +187,7 @@ Etiquetas habituales:
 
 * `GEO`: bloqueo regional o territorial.
 * `NOEM`: el canal no dispone de emisión online, pero se incluye por motivos de indexación, información o EPG.
+* `NOEX`: el canal dispone de emisión online, pero su señal no se puede extraer, por lo que solo puede verse desde su web.
 * `REG`: requiere registro gratuito en la plataforma oficial.
 * `EXTA`: la plataforma tratará de encontrar la emisión oficial a partir del enlace indicado en la columna `web`.
 * `EXTB`: la plataforma tratará de encontrar la emisión oficial a partir del enlace indicado en la columna `M3U8`.
