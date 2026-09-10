@@ -18,7 +18,7 @@
 | VEO7 | - | [web](https://www.veo7.com) | [logo](https://pbs.twimg.com/profile_images/2067908827161198592/mqYsR_tf_200x200.png) | Veo7.TV | NOEM |
 | Squirrel | - | [web](https://squirreltv.es) | [logo](https://pbs.twimg.com/profile_images/1868605710218514432/98bLWAHa_200x200.jpg) | Squirrel.TV | NOEM |
 | Squirrel2 | - | [web](https://squirrel2.tv) | [logo](https://pbs.twimg.com/profile_images/2007038154994294784/NqJe7hvI_200x200.jpg) | Squirrel2.TV | NOEM |
-| Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
+| Ten | [youtube](https://www.youtube.com/channel/UCX_GBaJP8CtYdI8-lH2VrJA/live) | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | EMB,EVT |
 | DKISS | - | [web](https://www.dkiss.es) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
 | BOM Cine | - | [web](https://www.bomcine.com) | [logo](https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_200x200.jpg) | BOM.TV | NOEM |
 | RNE para todos | [m3u8 # 1](https://ztnr.rtve.es/ztnr/6688753.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/rne-para-todos/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.TV | GEO |
