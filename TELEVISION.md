@@ -719,7 +719,7 @@
 | CDN 37 República Dominicana | - | [web](https://cdn.com.do/envivo/) | [logo](https://graph.facebook.com/cdn.com.do/picture?width=200&height=200) | - | EXTA |
 | Telemicro República Dominicana | - | [web](https://telemicro.com.do/players/5tv/) | [logo](https://pbs.twimg.com/profile_images/1587264071346393089/-FeTL7C8_200x200.jpg) | - | EXTA |
 | Color Visión República Dominicana | [stream](https://www.dailymotion.com/embed/video/x7gy059?autoplay=1) | [web](https://colorvision.com.do/en-vivo/) | [logo](https://graph.facebook.com/colorvisionc9/picture?width=200&height=200) | - | EMB |
-| HCH Honduras | [stream](https://geo.dailymotion.com/player.html?video=x81za5c) | [web](https://hch.tv/live/) | [logo](https://pbs.twimg.com/profile_images/1571129300623015936/-HJCmEk3_200x200.jpg) | - | EMB |
+| HCH Honduras | [m3u8](https://stream.hch.hn/live/streams/stream1.m3u8) | [web](https://hch.tv/hch-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1571129300623015936/-HJCmEk3_200x200.jpg) | - | UAG,REF |
 | ABC TV Paraguay | [stream](https://geo.dailymotion.com/player/x1b1gw.html?video=kQRS6ZAjGuMkByE4Mtc) | [web](https://www.abc.com.py/tv/) | [logo](https://graph.facebook.com/ABCTVpy/picture?width=200&height=200) | - | EMB |
 | LaTele Paraguay | - | [web](https://www.latele.com.py) | [logo](https://graph.facebook.com/LatelePy/picture?width=200&height=200) | - | EXTA |
 | Telefuturo Paraguay | - | [web](https://www.telefuturo.com.py/envivo) | [logo](https://graph.facebook.com/Telefuturo/picture?width=200&height=200) | - | EXTA |
