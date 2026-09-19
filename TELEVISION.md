@@ -435,7 +435,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| À Punt | - | [web](https://www.apuntmedia.es/directe/directe-tv_136_1392524.html) | [logo](https://graph.facebook.com/apuntmedia/picture?width=200&height=200) | APUNT.TV | EXTA |
+| À Punt | [m3u8](https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8) | [web](https://www.apuntmedia.es/directe/directe-tv_136_1392524.html) | [logo](https://graph.facebook.com/apuntmedia/picture?width=200&height=200) | APUNT.TV | EXTA |
 | 8 La Marina TV | [m3u8](https://streaming005.gestec-video.com/hls/canal24.m3u8) | [web](https://8lamarinatv.com) | [logo](https://graph.facebook.com/8lamarinatelevision/picture?width=200&height=200) | - | NONAV |
 | Intercomarcal TV | [m3u8 # 1](https://streamingtvi.gestec-video.com/hls/tvixa.m3u8) - [m3u8 # 2](https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8) - [m3u8 # 3](https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8) | [web](https://www.intercomarcal.com) | [logo](https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200) | - | NONAV |
 | 7 TeleValencia | [m3u8](https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8) | [web](https://7televalencia.com/directo-7televalencia/) | [logo](https://pbs.twimg.com/profile_images/1876660632478437376/rbEqYeqC_200x200.jpg) | 7Televalencia.TV | - |
