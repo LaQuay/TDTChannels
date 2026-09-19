@@ -272,6 +272,7 @@
 | Atlántico Televisión | [m3u8](https://live.atlanticotelevision.com/hls/hi/index.m3u8) | [web](https://www.atlanticotelevision.com/en-vivo-tv/) | [logo](https://pbs.twimg.com/profile_images/1779498186727456768/bIHqyk7p_200x200.jpg) | AtlánticoTV.TV | - |
 | Lancelot TV | [m3u8](https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8) | [web](https://www.lancelot.tv/directo/) | [logo](https://graph.facebook.com/LancelotTelevision/picture?width=200&height=200) | - | - |
 | NORTEvisión | [m3u8](http://amaru.dyndns.org:8870/0.m3u8) | [web](https://nortevision.es/directo/) | [logo](https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200) | - | - |
+| Ahora TV | [m3u8](https://tv.mediacp.eu/hls/ahoratv/ahoratv.m3u8) | [web](https://ahoratelevision.es) | [logo](https://graph.facebook.com/ahoratvtenerife/picture?width=200&height=200) | - | - |
 | RTV Mogán | [m3u8](https://cloudvideo.servers10.com:8081/8028/index.m3u8) | [web](https://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | [logo](https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200) | - | - |
 | Este Canal TV | [m3u8](http://stream.estecanaltv.com:8009/live/stream/index.m3u8) | [web](http://www.estecanaltv.com/modules.php?mod=portal&file=endirecto/) | [logo](https://graph.facebook.com/estecanaltv/picture?width=200&height=200) | - | NONAV |
 | Noroeste TV | [m3u8](https://stream.castr.com/5d1f649bed75c92e40481734/live_19364d50fbcd11ed91bd012c3488eabc/index.fmp4.m3u8) | [web](https://sites.google.com/view/noroestetv/inicio) | [logo](https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200) | - | NONAV,REFC1 |
@@ -279,6 +280,7 @@
 | Factoría de Carnaval | [m3u8](https://eu1.servers10.com:8081/8116/index.m3u8) | [web](https://multicarnaval.com) | [logo](https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_200x200.jpg) | - | - |
 | Radio Calima TV | [m3u8](https://nrvideo1.newradio.it:443/calimafm/calimafm/playlist.m3u8) | [web](https://calima.fm/es/) | [logo](https://graph.facebook.com/calimafm/picture?width=200&height=200) | - | - |
 | Afortunadas TV | [m3u8](https://cloudvideo.servers10.com:8081/8108/index.m3u8) | [web](https://afortunadastv.com/en-vivo/) | [logo](https://graph.facebook.com/afortunadastv/picture?width=200&height=200) | - | - |
+| Canal 10 | [youtube](https://www.youtube.com/channel/UCZgWIlWSqybW55cDgi8rL1A/live) | [web](https://canal10-television.com) | [logo](https://graph.facebook.com/Canal10Television/picture?width=200&height=200) | - | EMB,EVT |
 | Parlamento de Canarias | [youtube](https://www.youtube.com/channel/UCv7xnuWoLWJNEXNWIGkP19g/live) | [web](https://www.parcan.es) | [logo](https://graph.facebook.com/parlamentodecanarias/picture?width=200&height=200) | - | EMB,EVT |
 | Gobierno de Canarias | [youtube](https://www.youtube.com/channel/UCOfVTY15POTQM37WNlHRCgQ/live) | [web](https://www.gobiernodecanarias.org/presidencia/) | [logo](https://graph.facebook.com/PRES.Gobcan/picture?width=200&height=200) | - | EMB,EVT |
 
@@ -330,8 +332,10 @@
 | La 8 Valladolid | - | [web](https://www.cyltvplay.es/player/6e84baf4-1546-4572-9df7-347120782b4/la8va/la-8-valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | La8CYL_Valla.TV | EXTA |
 | La 8 Zamora | - | [web](https://www.cyltvplay.es/player/e176f0c7-3c25-4892-98be-98fea180e8e/la8za/la-8-zamora) | [logo](https://graph.facebook.com/la8zamora/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | 987 TV | [youtube](https://www.youtube.com/channel/UC41bdA6AiwEb34_S7KcMHOw/live) | [web](https://987tv.es) | [logo](https://graph.facebook.com/987tv/picture?width=200&height=200) | - | EMB,EVT |
+| Canal 9 Soria | [youtube](https://www.youtube.com/channel/UCFVCLjf8lpfU_pEBu_aeEHA/live) | [web](https://canal9soria.com) | [logo](https://yt3.googleusercontent.com/bzfZTJFvCaU6Y2POjGx53sbw30F6AlrQnpiledpjZtw-F_xyBcTOgyhZ-AgrP6rrVG6qlhrsE38=s200) | - | EMB,EVT |
 | Canal 54 | [youtube](https://www.youtube.com/channel/UCUe08XE2qatlrBclUWTr81Q/live) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
 | TV Aranda | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12686&live=1) | [web](https://www.telearanda.es) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | - |
+| Telemedina Canal 9 | [youtube](https://www.youtube.com/channel/UC6M4TvYHaFQ30IpVvjLVviw/live) | [web](https://www.lavozdemedinadigital.com) | [logo](https://graph.facebook.com/telemedinacanal9/picture?width=200&height=200) | - | EMB,EVT |
 | Cortes de Castilla y León | [m3u8 # 1](https://directo.ccyl.es/Hemiciclo/smil:Hemiciclo.smil/playlist.m3u8) - [m3u8 # 2](https://directo.ccyl.es/CortesDeLeon/smil:CortesDeLeon.smil/playlist.m3u8?DVR) - [m3u8 # 3](https://directo.ccyl.es/CamposDeCastilla/smil:CamposDeCastilla.smil/playlist.m3u8) - [m3u8 # 4](https://directo.ccyl.es/CastilloDeFuensaldana/smil:CastilloDeFuensaldana.smil/playlist.m3u8) | [web](https://www.ccyl.es/Home/Inicio) | [logo](https://graph.facebook.com/cortesdecastillayleon/picture?width=200&height=200) | - | EVT |
 | Junta Castilla y León | [m3u8](https://16escalones-live2.flumotion.com/chunks.m3u8) | [web](https://www.jcyl.es/web/jcyltv.html) | [logo](https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200) | - | EVT |
 
@@ -428,6 +432,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Navarra TV | [stream](https://www.natvplay.es/player/75D7757C-BD70-4FAB-850A-B9EBA29A4C8/Navarra%20Televisi%C3%B3n%20Live) | [web](https://www.navarratelevision.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | EMB,EXTB |
+| Xaloa Telebista | [m3u8](https://streaming.mediacast.pro/live/xaloa/playlist.m3u8) | [web](https://xaloatelebista.eus/zuzenean/) | [logo](https://graph.facebook.com/xaloatb/picture?width=200&height=200) | - | - |
 | Parlamento de Navarra | [m3u8 # 1](https://broadcasting.parlamentodenavarra.es/live/canal1/playlist.m3u8?DVR) - [m3u8 # 2](https://broadcasting.parlamentodenavarra.es/live/canal2/playlist.m3u8?DVR) - [m3u8 # 3](https://broadcasting.parlamentodenavarra.es/live/canal3/playlist.m3u8?DVR) | [web](https://www.parlamentodenavarra.es) | [logo](https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg) | - | EVT |
 | Gobierno de Navarra | [youtube](https://www.youtube.com/channel/UCBeUe-p0YNNP0trYcC3EKJg/live) | [web](https://www.navarra.es) | [logo](https://graph.facebook.com/GobiernoNavarra/picture?width=200&height=200) | - | EMB,EVT |
 
