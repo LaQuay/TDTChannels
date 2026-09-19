@@ -334,7 +334,7 @@
 | La 8 Salamanca | - | [web](https://www.cyltvplay.es/player/4b93450f-34f7-4301-9dc1-d43b076f117/la8sa/la-8-salamanca) | [logo](https://graph.facebook.com/la8salamanca/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | La 8 Segovia | - | [web](https://www.cyltvplay.es/player/cd2029ac-aea3-4f48-accf-14caed70a33/la8se/la-8-segovia) | [logo](https://graph.facebook.com/la8segovia/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | La 8 Soria | - | [web](https://www.cyltvplay.es/player/36864735-715b-4d21-b934-242d3ace2e4/la8so/la-8-soria) | [logo](https://graph.facebook.com/La8Soria/picture?width=200&height=200) | La8CYL.TV | EXTA |
-| La 8 Valladolid | - | [web](https://www.cyltvplay.es/player/6e84baf4-1546-4572-9df7-347120782b4/la8va/la-8-valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | La8CYL_Valla.TV | EXTA |
+| La 8 Valladolid | - | [web](https://www.cyltvplay.es/player/b2970950-0f6d-434f-a0ee-4159a270bf7/la8va/la-8-valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | La8CYL_Valla.TV | EXTA |
 | La 8 Zamora | - | [web](https://www.cyltvplay.es/player/e176f0c7-3c25-4892-98be-98fea180e8e/la8za/la-8-zamora) | [logo](https://graph.facebook.com/la8zamora/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | 987 TV | [youtube](https://www.youtube.com/channel/UC41bdA6AiwEb34_S7KcMHOw/live) | [web](https://987tv.es) | [logo](https://graph.facebook.com/987tv/picture?width=200&height=200) | - | EMB,EVT |
 | Canal 9 Soria | [youtube](https://www.youtube.com/channel/UCFVCLjf8lpfU_pEBu_aeEHA/live) | [web](https://canal9soria.com) | [logo](https://yt3.googleusercontent.com/bzfZTJFvCaU6Y2POjGx53sbw30F6AlrQnpiledpjZtw-F_xyBcTOgyhZ-AgrP6rrVG6qlhrsE38=s200) | - | EMB,EVT |
