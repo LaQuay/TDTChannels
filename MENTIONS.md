@@ -38,6 +38,12 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 
 ## 2026
 
+### Septiembre
+
+- **Red De Noticias** — [Actualización de TDTChannels: cambio radical en 2026](https://reddenoticias.online/actualizacion-de-tdtchannels/)
+- **Computer Hoy** — [Actualización radical de TDTChannels, la mejor app gratis para ver la TDT en el móvil: "Centrada en mejorar la estabilidad, velocidad y fiabilidad"](https://computerhoy.20minutos.es/moviles/actualizacion-radical-tdtchannels-mejor-app-gratis-para-ver-tdt-movil-centrada-mejorar-estabilidad-velocidad-fiabilidad_7037933_0.html)
+- **ADSLZone** — [La app para ver la TDT en Android se actualiza: «La nueva versión de TDTChannels es más rápida, estable y fiable»](https://www.adslzone.net/noticias/streaming-tv/app-ver-tdt-android-actualizacion/)
+
 ### Julio
 
 - **El Grupo Informático** — [TDTChannels añade 33 nuevos canales gratis que puedes disfrutar desde ya](https://www.elgrupoinformatico.com/plataformas-streaming/tdtchannels-nuevos-canales-gratis-julio-2026/)
