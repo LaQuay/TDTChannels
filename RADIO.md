@@ -616,7 +616,6 @@
 | Onda Cero Sierra | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_MADRIDSIERRAAAC.m3u8) | [web](https://lavozdelasierra.es/onda-cero-sierra/) | [logo](https://graph.facebook.com/ondacerosierra/picture?width=200&height=200) | OC_Sierra.Radio | - |
 | Vaughan Radio | [mp3](https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3) | [web](https://grupovaughan.com/vaughan-radio/) | [logo](https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [mp3](https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3) | [web](https://lajunglaradio.com) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | LaJungla.Radio | - |
-| El Salto Radio | [mp3](https://radio.radiobot.org/listen/salto/elsaltoradio.mp3) | [web](https://www.elsaltodiario.com/el-salto-radio/) | [logo](https://graph.facebook.com/ElSaltoDiario/picture?width=200&height=200) | - | - |
 | Dynamis Radio | [stream](https://control.streaming-pro.com:8014/stream) | [web](https://www.dynamisradio.org) | [logo](https://graph.facebook.com/dynamisradio/picture?width=200&height=200) | - | - |
 | Unika FM | [stream](https://server1.easystreaming.pro:8443/unika) | [web](https://unika.fm) | [logo](https://graph.facebook.com/unikafmmuchomasquedance/picture?width=200&height=200) | - | - |
 | Radio Romanul | [stream](http://streaming.radioromanul.es:55556/web) | [web](https://radioromanul.com) | [logo](https://graph.facebook.com/RadioRomanul/picture?width=200&height=200) | - | - |
