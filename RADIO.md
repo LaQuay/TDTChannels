@@ -414,7 +414,6 @@
 | RM Quintanar del Rey | [stream](https://cast2.rmradio.es:8053/albacete) | [web](https://rmradio.es/radios/) | [logo](https://pbs.twimg.com/profile_images/1227224148079980544/kkxXv9jL_200x200.jpg) | - | - |
 | Locactiva Radio | [stream](https://pr1cen101.emisionlocal.com/proxy/locactivaradio?mp=/stream) | [web](https://www.locactivaradio.es) | [logo](https://graph.facebook.com/LOCACTIVARADIO/picture?width=200&height=200) | - | - |
 | Radio Kolor | [stream](https://stream20.usastreams.com/8122/stream) | [web](https://www.radiokolor.es) | [logo](https://graph.facebook.com/kolor.cuenca/picture?width=200&height=200) | - | - |
-| Radio Mora | [stream](https://server10.emitironline.com:9075/radio) | [web](https://radiomora.es) | [logo](https://graph.facebook.com/rmorafm/picture?width=200&height=200) | - | - |
 | La Única FM | [stream](https://stream.radiofutura.es:8010/stream) | [web](https://www.launicafm.com) | [logo](https://graph.facebook.com/182268477588/picture?width=200&height=200) | - | - |
 | Onda Polígono Toledo | [stream](https://icecast.ondapoligono.org/stream) | [web](https://www.ondapoligono.org) | [logo](https://graph.facebook.com/ondapoligono/picture?width=200&height=200) | - | - |
 | Radio Chinchilla | [stream](https://streaming2.elitecomunicacion.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=200&height=200) | - | - |
@@ -616,7 +615,6 @@
 | Onda Cero Sierra | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_MADRIDSIERRAAAC.m3u8) | [web](https://lavozdelasierra.es/onda-cero-sierra/) | [logo](https://graph.facebook.com/ondacerosierra/picture?width=200&height=200) | OC_Sierra.Radio | - |
 | Vaughan Radio | [mp3](https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3) | [web](https://grupovaughan.com/vaughan-radio/) | [logo](https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200) | - | - |
 | La Jungla Radio | [mp3](https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3) | [web](https://lajunglaradio.com) | [logo](https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200) | LaJungla.Radio | - |
-| El Salto Radio | [mp3](https://radio.radiobot.org/listen/salto/elsaltoradio.mp3) | [web](https://www.elsaltodiario.com/el-salto-radio/) | [logo](https://graph.facebook.com/ElSaltoDiario/picture?width=200&height=200) | - | - |
 | Dynamis Radio | [stream](https://control.streaming-pro.com:8014/stream) | [web](https://www.dynamisradio.org) | [logo](https://graph.facebook.com/dynamisradio/picture?width=200&height=200) | - | - |
 | Unika FM | [stream](https://server1.easystreaming.pro:8443/unika) | [web](https://unika.fm) | [logo](https://graph.facebook.com/unikafmmuchomasquedance/picture?width=200&height=200) | - | - |
 | Radio Romanul | [stream](http://streaming.radioromanul.es:55556/web) | [web](https://radioromanul.com) | [logo](https://graph.facebook.com/RadioRomanul/picture?width=200&height=200) | - | - |
@@ -774,7 +772,7 @@
 | Onda Azul Torrevieja | [mp3](https://usa3.lhdserver.es:8199/stream?type=.mp3) | [web](https://www.ondaazultorrevieja.es) | [logo](https://pbs.twimg.com/profile_images/691063766784577536/3-ftz8tQ_200x200.jpg) | - | - |
 | Radio Onda 15 Castalla | [mp3](https://azc.standfy.com/radio/8200/onda15) | [web](https://www.onda15.com) | [logo](https://graph.facebook.com/radiocastalla/picture?width=200&height=200) | - | - |
 | Cassette FM | [mp3](https://stream.costafm.es/listen/cassettefm/radio.mp3) | [web](https://cassettefm.es) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png) | - | - |
-| Radio 90FM | [stream](https://stream90.es/listen/radio90fm/radio) | [web](https://www.radio90.fm) | [logo](https://pbs.twimg.com/profile_images/1502655409575890945/iDYjAczK_200x200.jpg) | - | - |
+| Radio 90FM | [stream](https://stream90.es/listen/radio90fm/radio) | [web](https://www.radio90.fm) | [logo](https://pbs.twimg.com/profile_images/2101790615524478976/UAiksAEQ_200x200.jpg) | - | - |
 | Radio Malibú | [mp3](https://stream.costafm.es/listen/malibu_radio_102.3/radio.mp3) | [web](https://www.radiomalibu.es) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
 | Litoral FM | [mp3](https://stream.emisorasmusicales.net/radio/8310/litoralfm.mp3) | [web](https://radiolitoral.com) | [logo](https://graph.facebook.com/Laradiolitoral/picture?width=200&height=200) | - | - |
 | Litoral Oro | [mp3](https://stream.emisorasmusicales.net/listen/litoral_oro/litoral-oro.mp3) | [web](https://radiolitoral.com/emisoras/litoral-oro) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2024/11/06182836/Logo-Litoral-ORO-200x200.jpg) | - | - |
