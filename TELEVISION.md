@@ -848,7 +848,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/6982918.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | RNE_Radio3.TV | - |
+| Radio 3 España | [m3u8](https://ztnr.rtve.es/ztnr/6982918.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | RNE_Radio3.TV | - |
 | Sol Música España | [m3u8](https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8) | [web](https://amcchannels.es/sol-musica) | [logo](https://graph.facebook.com/solmusica/picture?width=200&height=200) | SolMusica.TV | - |
 | Café del Mar Ibiza España | [youtube](https://www.youtube.com/channel/UCha0QKR45iw7FCUQ3-1PnhQ/live) | [web](https://cafedelmar.com) | [logo](https://graph.facebook.com/cafedelmaribizaofficialpage/picture?width=200&height=200) | - | EMB |
 | Activa TV España | [m3u8](https://streamtv.mediasector.es/hls/activatv/index.m3u8) | [web](https://www.emisorasmusicales.net/activa-tv/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
@@ -916,7 +916,7 @@
 | Radio María España | [youtube](https://www.youtube.com/channel/UCbX1IDSwem3w0HfBP4F_BYw/live) | [web](https://radiomaria.es/directo/) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | - | EMB |
 | Abadia de Montserrat España | [youtube](https://www.youtube.com/channel/UCFrlaCzXVVlK_eiVNvYoezA/live) | [web](https://abadiamontserrat.cat/seccio/montserrat-tv) | [logo](https://graph.facebook.com/AbadiaMontserrat/picture?width=200&height=200) | - | EMB,EVT |
 | Ecclesia COPE España | [m3u8](https://cope-religion-video.flumotion.com/playlist.m3u8) | [web](https://www.cope.es/religion) | [logo](https://graph.facebook.com/ecclesiacope/picture?width=200&height=200) | - | - |
-| Solidaria TV | [m3u8 # 1](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) - [m3u8 # 2](https://canadaremar2.todostreaming.es/live/argentina-web.m3u8) - [m3u8 # 3](https://canadaremar2.todostreaming.es/live/bolivia-stream.m3u8) | [web](https://www.solidariatv.com) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | Solidaria.TV | - |
+| Solidaria TV España | [m3u8 # 1](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) - [m3u8 # 2](https://canadaremar2.todostreaming.es/live/argentina-web.m3u8) - [m3u8 # 3](https://canadaremar2.todostreaming.es/live/bolivia-stream.m3u8) | [web](https://www.solidariatv.com) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | Solidaria.TV | - |
 | RTV Vida España | [m3u8](https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartvplus.com) | [logo](https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg) | - | - |
 | RTV Diocesana Toledo España | [m3u8](https://live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8) | [web](https://rtvd.org) | [logo](https://pbs.twimg.com/profile_images/1730156030795939840/NtRBSxdr_200x200.jpg) | - | - |
 | TBN España | [m3u8](https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8) | [web](https://xn--tbnespaa-j3a.es) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
