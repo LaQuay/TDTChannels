@@ -732,7 +732,7 @@
 | CDN 37 República Dominicana | - | [web](https://cdn.com.do/envivo/) | [logo](https://graph.facebook.com/cdn.com.do/picture?width=200&height=200) | - | EXTA |
 | Telemicro República Dominicana | - | [web](https://telemicro.com.do/players/5tv/) | [logo](https://pbs.twimg.com/profile_images/1587264071346393089/-FeTL7C8_200x200.jpg) | - | EXTA |
 | Color Visión República Dominicana | [stream](https://www.dailymotion.com/embed/video/x7gy059?autoplay=1) | [web](https://colorvision.com.do/en-vivo/) | [logo](https://graph.facebook.com/colorvisionc9/picture?width=200&height=200) | - | EMB |
-| HCH Honduras | [m3u8](https://stream.hch.hn/live/streams/stream1.m3u8) | [web](https://hch.tv/hch-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1571129300623015936/-HJCmEk3_200x200.jpg) | - | UAG,REF |
+| HCH Honduras | [m3u8](https://stream.hch.hn/live/streams/stream1.m3u8) | [web](https://hch.tv/hch-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1571129300623015936/-HJCmEk3_200x200.jpg) | - | - |
 | Canal 6 Honduras | [m3u8](https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8) | [web](https://canal6hn.com/en-vivo/) | [logo](https://graph.facebook.com/canal6hn/picture?width=200&height=200) | - | - |
 | Canal 11 Honduras | [m3u8](https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8) | [web](https://canal11.hn/en-vivo/) | [logo](https://graph.facebook.com/canal11hn/picture?width=200&height=200) | - | - |
 | ABC TV Paraguay | [stream](https://geo.dailymotion.com/player/x1b1gw.html?video=kQRS6ZAjGuMkByE4Mtc) | [web](https://www.abc.com.py/tv/) | [logo](https://graph.facebook.com/ABCTVpy/picture?width=200&height=200) | - | EMB |
