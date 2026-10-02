@@ -627,7 +627,7 @@
 | Capital Radio | [m3u8](https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8) | [web](https://www.capitalradio.es/directo) | [logo](https://graph.facebook.com/capitalradiob/picture?width=200&height=200) | - | - |
 | Radio Tentación | [stream](https://streaming6.locucionar.com:2020/stream/radiotentacion) | [web](https://www.radiotentacion.com) | [logo](https://graph.facebook.com/radiotentacionofficial/picture?width=200&height=200) | - | - |
 | Radio Enlace | [stream](https://cervera.eldialdigital.com:25121/stream) | [web](https://www.radioenlace.org) | [logo](https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200) | - | - |
-| Radio Cigüeña | [stream](https://cervera.eldialdigital.com:25171/stream) | [web](https://www.radiociguena.org) | [logo](https://graph.facebook.com/297157036138/picture?width=200&height=200) | - | - |
+| Radio Cigüeña | [stream](https://cervera.eldialdigital.com:25171/stream) | [web](https://radiociguena.org) | [logo](https://graph.facebook.com/297157036138/picture?width=200&height=200) | - | - |
 | Radio Inter Madrid | [stream](https://radioserver12.profesionalhosting.com/proxy/pkg156993/stream) | [web](https://www.radiointer.es) | [logo](https://pbs.twimg.com/profile_images/2001345471424380928/8OhfseTu_200x200.jpg) | - | - |
 | Radio Intercontinental | [stream](https://cast5.servcast.net/proxy/inter/stream) | [web](https://radiointercontinental.com) | [logo](https://radiointercontinental.com/wp-content/uploads/2024/10/Logo_Radio_Intercontinental_actual-1-e1730334334855.jpg) | - | - |
 | Radio Utopía | [mp3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](https://www.radioutopia.org.es) | [logo](https://graph.facebook.com/179099278878655/picture?width=200&height=200) | - | - |
