@@ -215,7 +215,7 @@
 | Onda Capital | [stream](https://server1.radiocast.es/listen/onda_capital/capitalweb) | [web](https://ondacapital.es) | [logo](https://graph.facebook.com/ondacapitalfm/picture?width=200&height=200) | - | - |
 | Beachgrooves | [stream](https://stream.beachgrooves.com:9000/stream) | [web](https://beachgrooves.com) | [logo](https://graph.facebook.com/beach.grooves/picture?width=200&height=200) | - | - |
 | La Fresca FM | [stream](https://stream.produccionesdale.com/listen/lafresca/altacalidad) | [web](https://www.lafresca.fm) | [logo](https://graph.facebook.com/lafresca.es/picture?width=200&height=200) | - | - |
-| Radio Chipiona | [stream](https://uk3freenew.listen2myradio.com/live.mp3?typeportmount=s1_19223_stream_430480497) | [web](https://radiochipiona.radiostream321.com) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | - |
+| Radio Chipiona | [mp3](https://uk3freenew.listen2myradio.com/live.mp3?typeportmount=s1_19223_stream_430480497) | [web](https://radiochipiona.radiostream321.com) | [logo](https://graph.facebook.com/radiochipiona/picture?width=200&height=200) | - | - |
 | Spectrum FM | [stream](https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1) | [web](https://spectrumfm.net) | [logo](https://graph.facebook.com/SpectrumFMSpain/picture?width=200&height=200) | - | - |
 | Onda Jerez Radio | [mp3](https://radio.ondajerez.com:8443/Ondajerez.mp3) | [web](https://www.ondajerez.com/radio) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200) | - | - |
 | Radio Marbella | [m3u8](https://streaming.rtvmarbella.tv/hls/streamingradio.m3u8) | [web](https://rtvmarbella.tv/radio-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=200&height=200) | - | - |
@@ -278,7 +278,7 @@
 | SER Zaragoza | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3) | [web](https://cadenaser.com/radio-zaragoza/) | [logo](https://graph.facebook.com/radiozaragoza/picture?width=200&height=200) | S_Zaragoza.Radio | - |
 | COPE Huesca | [mp3](https://wecast-bl01.flumotion.com/copesedes/huesca.mp3) | [web](https://www.cope.es/directos/huesca) | [logo](https://pbs.twimg.com/profile_images/1755989162291785728/Mt5p3J7Q_200x200.jpg) | - | - |
 | COPE Jaca | [mp3](https://wecast-bl01.flumotion.com/copesedes/jaca.mp3) | [web](https://www.cope.es/directos/jaca) | [logo](https://graph.facebook.com/CadenaCOPEJaca/picture?width=200&height=200) | - | - |
-| COPE Pirineos | [stream](https://s37.derstream.net/cope_pirineos.mp3) | [web](https://www.radioribagorza.es/copeonline.html) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Pirineos | [mp3](https://s37.derstream.net/cope_pirineos.mp3) | [web](https://www.radioribagorza.es/copeonline.html) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Teruel | [mp3](https://wecast-bl01.flumotion.com/copesedes/teruel.mp3) | [web](https://www.cope.es/directos/teruel) | [logo](https://graph.facebook.com/copeteruel/picture?width=200&height=200) | - | - |
 | COPE Zaragoza | [mp3](https://wecast-bl01.flumotion.com/copesedes/zaragoza.mp3) | [web](https://www.cope.es/directos/zaragoza) | [logo](https://graph.facebook.com/copezaragoza/picture?width=200&height=200) | - | - |
 | COPE Más Zaragoza | [mp3](https://wecast-bl01.flumotion.com/copesedes/zaragoza-mas.mp3) | [web](https://www.cope.es/directos/cope-mas-zaragoza) | [logo](https://graph.facebook.com/copezaragoza/picture?width=200&height=200) | - | - |
@@ -469,7 +469,7 @@
 | Onda Bierzo | [stream](https://pr1cen101.emisionlocal.com/proxy/ondabierzo?mp=/stream) | [web](https://ondabierzo.com) | [logo](https://graph.facebook.com/ondabierzo/picture?width=200&height=200) | - | - |
 | Radio Espinosa Merindades | [stream](https://srv7021.dns-lcinternet.com/8072/stream) | [web](https://www.radioespinosamerindades.es) | [logo](https://graph.facebook.com/radioespinosamerindades/picture?width=200&height=200) | - | - |
 | Radio Evolución Burgos | [stream](http://radioevolucion.freeddns.org:8001/fibra_baja) | [web](https://radioevolucion.es/directo.html) | [logo](https://graph.facebook.com/Radioevolucionburgos/picture?width=200&height=200) | - | - |
-| Onda Medina | [stream](https://s28.myradiostream.com:13006/listen.mp3) | [web](https://www.lavozdemedinadigital.com/onda-medina/) | [logo](https://graph.facebook.com/lavozdemedina/picture?width=200&height=200) | - | - |
+| Onda Medina | [mp3](https://s28.myradiostream.com:13006/listen.mp3) | [web](https://www.lavozdemedinadigital.com/onda-medina/) | [logo](https://graph.facebook.com/lavozdemedina/picture?width=200&height=200) | - | - |
 | Miranda FM | [stream](https://srv7031.dns-lcinternet.com/8058/stream) | [web](https://www.mirandafm.es/radio.html) | [logo](https://graph.facebook.com/1416829051928207/picture?width=200&height=200) | - | - |
 | Vive! Radio | [stream](https://streaming.viveradio.es/viveburgos) | [web](https://www.viveradio.es/viveBurgos) | [logo](https://graph.facebook.com/158974217473244/picture?width=200&height=200) | - | - |
 | Radio Aguilar FM | [stream](https://pr1cen101.emisionlocal.com/proxy/radioaguilar?mp=/stream) | [web](https://www.radioaguilar.com) | [logo](https://graph.facebook.com/213369399946/picture?width=200&height=200) | - | - |
@@ -574,7 +574,7 @@
 | Ràdio Gràcia | [mp3](https://usa20.fastcast4u.com:3590/;.mp3) | [web](https://radiogracia.net) | [logo](https://graph.facebook.com/RadioGraciaBarcelona/picture?width=200&height=200) | - | - |
 | Una Cosa Ràdio | [stream](https://node-23.zeno.fm/v27tywkbwp8uv) | [web](https://www.unacosa.cat/radio-en-directe/) | [logo](https://pbs.twimg.com/profile_images/1317925182712041474/rNXMGU71_200x200.jpg) | - | - |
 | Gran Via Radio | [stream](https://servidor14-3.brlogic.com:7066/live) | [web](https://granviaradiofm.es) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | - |
-| Ràdio Llançà | [stream](https://relay.stream.enacast-cloud.com:40323/radiollancaHD.mp3) | [web](https://radiollanca.cat) | [logo](https://graph.facebook.com/radiollanca/picture?width=200&height=200) | - | - |
+| Ràdio Llançà | [mp3](https://relay.stream.enacast-cloud.com:40323/radiollancaHD.mp3) | [web](https://radiollanca.cat) | [logo](https://graph.facebook.com/radiollanca/picture?width=200&height=200) | - | - |
 | Colera Ràdio | [stream](https://servidor24-5.brlogic.com:7494/live) | [web](https://coleraradio.com) | [logo](https://graph.facebook.com/101812002056328/picture?width=200&height=200) | - | - |
 | Ràdio Santpedor | [stream](https://radiosantpedor.radioca.st/stream) | [web](https://santpedor.net/radio/) | [logo](https://graph.facebook.com/radiosantpedor/picture?width=200&height=200) | - | - |
 | U Ràdio | [mp3](https://streaming.enacast.com/radioulldecona128.mp3) | [web](https://www.uradio.cat) | [logo](https://graph.facebook.com/uradiofm/picture?width=200&height=200) | - | - |
@@ -731,7 +731,7 @@
 | Torrevieja Radio | [stream](https://sonicpanel.globalstream.pro:10973/;) | [web](https://torreviejaradio.com) | [logo](https://graph.facebook.com/TorreviejaRadio107.1/picture?width=200&height=200) | - | - |
 | Alzira Ràdio | [mp3](https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3) | [web](https://alziraradio.com) | [logo](https://graph.facebook.com/alziraradio/picture?width=200&height=200) | - | - |
 | Play Radio Valencia | [mp3](https://radio1.serviciosderadio.com/listen/playradio/web.mp3) | [web](https://playradiovalencia.es) | [logo](https://graph.facebook.com/Playradiovalencia/picture?width=200&height=200) | - | - |
-| La Jungla Radio Valencia | [stream](https://azurasttp.es/listen/wepappnew/webappnew.mp3) | [web](https://lajunglavalencia.com) | [logo](https://pbs.twimg.com/profile_images/1471177408279728130/FhQG3Mle_200x200.jpg) | - | - |
+| La Jungla Radio Valencia | [mp3](https://azurasttp.es/listen/wepappnew/webappnew.mp3) | [web](https://lajunglavalencia.com) | [logo](https://pbs.twimg.com/profile_images/1471177408279728130/FhQG3Mle_200x200.jpg) | - | - |
 | Capital Radio Valencia | [m3u8](https://mdstrm.com/audio/67e287c809f9212593c3a7c5/live.m3u8) | [web](https://www.capitalradio.es/valencia) | [logo](https://pbs.twimg.com/profile_images/2089643893553831936/C-bJw3KZ_200x200.jpg) | - | - |
 | Relax FM | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RELAX_FM.mp3) | [web](https://relaxfm.es) | [logo](https://pbs.twimg.com/profile_images/1629684463507570690/k6cWRSGU_200x200.jpg) | - | - |
 | Activa FM | [mp3](https://stream.emisorasmusicales.net/radio/8000/activafm.mp3) | [web](https://emisorasmusicales.net/activa/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
@@ -878,7 +878,7 @@
 | Ibiza Sonica Radio | [stream](https://n0b.radiojar.com/st0wc9kut72vv) | [web](https://www.ibizasonica.com/live-radio) | [logo](https://graph.facebook.com/ibizasonicaradio/picture?width=200&height=200) | - | - |
 | SER Ibiza | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_IBIZA.mp3) | [web](https://cadenaser.com/radio-ibiza/) | [logo](https://graph.facebook.com/RADIOIBIZASER/picture?width=200&height=200) | S_Ibiza.Radio | - |
 | SER Mallorca | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALLORCA.mp3) | [web](https://cadenaser.com/radio-mallorca/) | [logo](https://pbs.twimg.com/profile_images/1837028979070349313/cjWAxS6b_200x200.jpg) | S_Mallorca.Radio | - |
-| SER Menorca | [stream](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MENORCA.mp3) | [web](https://cadenaser.com/radio-menorca/) | [logo](https://graph.facebook.com/radiomenorca/picture?width=200&height=200) | S_Menorca.Radio | - |
+| SER Menorca | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MENORCA.mp3) | [web](https://cadenaser.com/radio-menorca/) | [logo](https://graph.facebook.com/radiomenorca/picture?width=200&height=200) | S_Menorca.Radio | - |
 | COPE Mallorca | [mp3](https://wecast-bl01.flumotion.com/copesedes/mallorca.mp3) | [web](https://www.cope.es/directos/mallorca) | [logo](https://graph.facebook.com/CopeBaleares/picture?width=200&height=200) | - | - |
 | COPE Menorca | [mp3](https://wecast-bl01.flumotion.com/copesedes/menorca.mp3) | [web](https://www.cope.es/directos/menorca) | [logo](https://graph.facebook.com/copemenorca/picture?width=200&height=200) | - | - |
 | Onda Cero Ibiza | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_IBIZAAAC.m3u8) | [web](https://www.ondacero.es/emisoras/baleares/ibiza/directo/) | [logo](https://graph.facebook.com/ocribiza/picture?width=200&height=200) | OC_Ibiza.Radio | - |
