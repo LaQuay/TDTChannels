@@ -344,7 +344,7 @@
 | TV Aranda | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12686&live=1) | [web](https://www.telearanda.es) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | - |
 | Telemedina Canal 9 | [youtube](https://www.youtube.com/channel/UC6M4TvYHaFQ30IpVvjLVviw/live) | [web](https://www.lavozdemedinadigital.com) | [logo](https://graph.facebook.com/telemedinacanal9/picture?width=200&height=200) | - | EMB,EVT |
 | Cortes de Castilla y León | [m3u8 # 1](https://directo.ccyl.es/Hemiciclo/smil:Hemiciclo.smil/playlist.m3u8) - [m3u8 # 2](https://directo.ccyl.es/CortesDeLeon/smil:CortesDeLeon.smil/playlist.m3u8?DVR) - [m3u8 # 3](https://directo.ccyl.es/CamposDeCastilla/smil:CamposDeCastilla.smil/playlist.m3u8) - [m3u8 # 4](https://directo.ccyl.es/CastilloDeFuensaldana/smil:CastilloDeFuensaldana.smil/playlist.m3u8) | [web](https://www.ccyl.es/Home/Inicio) | [logo](https://graph.facebook.com/cortesdecastillayleon/picture?width=200&height=200) | - | EVT |
-| Junta Castilla y León | [m3u8](https://16escalones-live2.flumotion.com/chunks.m3u8) | [web](https://www.jcyl.es/web/jcyltv.html) | [logo](https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200) | - | EVT |
+| Junta de Castilla y León | [m3u8](https://16escalones-live2.flumotion.com/chunks.m3u8) | [web](https://www.jcyl.es/web/jcyltv.html) | [logo](https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200) | - | EVT |
 
 ### Cataluña
 
