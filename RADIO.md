@@ -237,7 +237,7 @@
 | Canal Málaga RTV | [m3u8](https://canalmalaga-radio-live-hls.flumotion.com/playlist.m3u8) | [web](https://www.canalmalaga.es/videos/251322-directos-radio) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
 | Cadena Luna | [stream](https://radio.almunecar360.com:8100/radio) | [web](https://www.cadenaluna.es) | [logo](https://graph.facebook.com/CadenaLunaRadio/picture?width=200&height=200) | - | - |
 | La Más FM Almuñécar | [stream](https://streaming2.elitecomunicacion.es:8142/stream) | [web](https://lamasfm.com) | [logo](https://graph.facebook.com/LAMASFM/picture?width=200&height=200) | - | - |
-| La Mega FM Costa Tropical | [stream](https://streaming12.elitecomunicacion.es:8642/stream) | [web](https://www.lamegafmcostatropical.com) | [logo](https://graph.facebook.com/megacostatropical/picture?width=200&height=200) | - | - |
+| La Mega FM Costa Tropical | [stream](https://streaming12.elitecomunicacion.es:8638/stream) | [web](https://www.lamegafmcostatropical.com) | [logo](https://graph.facebook.com/megacostatropical/picture?width=200&height=200) | - | - |
 | Latino FM | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=200&height=200) | - | - |
 | Radio Oro | [mp3 # 1](http://185.23.192.118:8002/;stream.mp3) - [mp3 # 2](http://185.23.192.118:8004/;stream.mp3) | [web](http://www.radiooro.es) | [logo](https://graph.facebook.com/RadioOroMalaga/picture?width=200&height=200) | - | - |
 | Radio Nerja | [stream](https://online.vibacomunicacion.com:9974/stream) | [web](https://radionerja.com) | [logo](https://graph.facebook.com/radionerja/picture?width=200&height=200) | - | - |
