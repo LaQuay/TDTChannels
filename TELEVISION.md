@@ -679,10 +679,8 @@
 | Milenio México | [youtube](https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live) | [web](https://www.milenio.com/mileniotv) | [logo](https://graph.facebook.com/MilenioDiario/picture?width=200&height=200) | - | EMB |
 | El Financiero México | [stream](https://www.dailymotion.com/embed/video/x90qe0k?autoplay=1) | [web](https://www.elfinanciero.com.mx/tv) | [logo](https://pbs.twimg.com/profile_images/1847384662064451586/j-fU1hAJ_200x200.jpg) | - | EXTB,EMB |
 | Excélsior México | [youtube](https://www.youtube.com/channel/UCevif8Yk47cJKrq4-0EmwIA/live) | [web](https://www.excelsior.com.mx/tv) | [logo](https://graph.facebook.com/ExcelsiorMex/picture?width=200&height=200) | - | EMB |
-| N+ Foro México | - | [web](https://www.nmas.com.mx/en-vivo/?canal=forotv) | [logo](https://pbs.twimg.com/profile_images/1834645317901320192/YOxivfL1_200x200.jpg) | - | EXTA |
 | N+ México | - | [web](https://www.nmas.com.mx/en-vivo/?canal=noticieros) | [logo](https://graph.facebook.com/nmas.com.mx/picture?width=200&height=200) | - | EXTA |
-| N+ Guadalajara México | - | [web](https://www.nmas.com.mx/en-vivo/?canal=guadalajara) | [logo](https://graph.facebook.com/nmasguadalajara/picture?width=200&height=200) | - | EXTA |
-| N+ Monterrey México | - | [web](https://www.nmas.com.mx/en-vivo/?canal=monterrey) | [logo](https://graph.facebook.com/nmasmonterrey/picture?width=200&height=200) | - | EXTA |
+| N+ Foro México | - | [web](https://www.nmas.com.mx/en-vivo/?canal=forotv) | [logo](https://pbs.twimg.com/profile_images/1834645317901320192/YOxivfL1_200x200.jpg) | - | EXTA |
 | ADN Noticias México | [m3u8](https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8) | [web](https://live.adn40.mx) | [logo](https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg) | ADN40.TV | - |
 | Canal Once México | [m3u8](https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8) | [web](https://canalonce.mx/en-vivo) | [logo](https://graph.facebook.com/CANALONCETV/picture?width=200&height=200) | - | - |
 | Quiero TV México | [m3u8](https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8) | [web](https://quierotv.mx/videoenvivo) | [logo](https://graph.facebook.com/quierotvGDL/picture?width=200&height=200) | - | - |
