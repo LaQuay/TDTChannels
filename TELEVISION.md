@@ -904,9 +904,9 @@
 | Tomorrowland TV | [youtube](https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ/live) | [web](https://oneworldradio.tomorrowland.com) | [logo](https://graph.facebook.com/tomorrowland/picture?width=200&height=200) | - | EMB |
 | The K-POP Corea del Sur | [youtube # KO # 1](https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live) - [youtube # KO # 2](https://www.youtube.com/channel/UCITH7URIRpb8yoshUwGE9jg/live) | [web](https://www.bigc.im) | [logo](https://pbs.twimg.com/profile_images/2059096893515542528/2cuVWylU_200x200.jpg) | - | EMB |
 | Beautiful Piano Music | [youtube](https://www.youtube.com/channel/UCjzHeG1KWoonmf9d5KBvSiw/live) | [web](https://soothingrelaxation.com) | [logo](https://graph.facebook.com/SoothingRelaxation/picture?width=200&height=200) | - | EMB |
-| Chillhop Music | [youtube](https://www.youtube.com/@ChillhopMusic/live) | [web](https://chillhop.com) | [logo](https://yt3.googleusercontent.com/v8reVXm00qDDniedUMk1nNVBt5ykecsy8qByQmsPmVl1xh9ZlgiGnGQAH72h0gKKcygFWjHcgEw=s200) | - | EMB |
-| College Music | [youtube](https://www.youtube.com/@CollegeMusic/live) | [web](https://collegemusic.co.uk) | [logo](https://graph.facebook.com/collegemusic/picture?width=200&height=200) | - | EMB |
-| LoFi Hip-Hop Beats Music | [youtube](https://www.youtube.com/@steezyasfvck/live) | [web](https://stzzzy.com) | [logo](https://pbs.twimg.com/profile_images/1155872804786466817/z1k1zxIi_200x200.jpg) | - | EMB |
+| Chillhop Music | [youtube](https://www.youtube.com/channel/UCOxqgCwgOqC2lMqC5PYz_Dg/live) | [web](https://chillhop.com) | [logo](https://yt3.googleusercontent.com/v8reVXm00qDDniedUMk1nNVBt5ykecsy8qByQmsPmVl1xh9ZlgiGnGQAH72h0gKKcygFWjHcgEw=s200) | - | EMB |
+| College Music | [youtube](https://www.youtube.com/channel/UCWzZ5TIGoZ6o-KtbGCyhnhg/live) | [web](https://collegemusic.co.uk) | [logo](https://graph.facebook.com/collegemusic/picture?width=200&height=200) | - | EMB |
+| LoFi Hip-Hop Beats Music | [youtube](https://www.youtube.com/channel/UCsIg9WMfxjZZvwROleiVsQg/live) | [web](https://stzzzy.com) | [logo](https://pbs.twimg.com/profile_images/1155872804786466817/z1k1zxIi_200x200.jpg) | - | EMB |
 | The Good Life Radio | [youtube](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA/live) | [web](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA) | [logo](https://yt3.ggpht.com/a/AATXAJw_0O4Q7vmQvtqUOGDFHS3GQZaH2OKMnc3_1itvxg=s200) | - | EMB |
 
 ## Religiosos
