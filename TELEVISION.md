@@ -829,7 +829,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Olympic Channel | - | [web](https://www.olympics.com/es/live/) | [logo](https://graph.facebook.com/olympics/picture?width=200&height=200) | - | EXTA |
-| FIBA | [youtube](https://www.youtube.com/channel/UCtInrnU3QbWqFGsdKT1GZtg/live) | [web](https://www.fiba.basketball/en) | [logo](https://graph.facebook.com/FIBA/picture?width=200&height=200) | - | EMB,EVT |
+| FIBA | [youtube](https://www.youtube.com/channel/UCtInrnU3QbWqFGsdKT1GZtg/live) | [web](https://fibatv.com/live) | [logo](https://graph.facebook.com/FIBA/picture?width=200&height=200) | - | EMB,EVT |
 | FIBA3x3 | [youtube](https://www.youtube.com/channel/UC7LpyJP5fupiJu2CdzRQheg/live) | [web](https://fiba3x3.com) | [logo](https://graph.facebook.com/FIBA3x3/picture?width=200&height=200) | - | EMB,EVT |
 | UFC | [youtube](https://www.youtube.com/channel/UCvgfXK4nTYKudb0rFR6noLA/live) | [web](https://www.ufcespanol.com) | [logo](https://graph.facebook.com/ufc/picture?width=200&height=200) | - | EMB,EVT |
 | X Games | [youtube](https://www.youtube.com/channel/UCxFt75OIIvoN4AaL7lJxtTg/live) | [web](https://www.xgames.com/watch/) | [logo](https://graph.facebook.com/XGames/picture?width=200&height=200) | - | EMB,EVT |
