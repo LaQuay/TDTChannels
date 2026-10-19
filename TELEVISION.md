@@ -778,7 +778,7 @@
 | Times Now India | [youtube # EN](https://www.youtube.com/channel/UCckHqySbfy5FcPP6MD_S-Yg/live) | [web](https://timesofindia.indiatimes.com/live-tv) | [logo](https://graph.facebook.com/Timesnow/picture?width=200&height=200) | - | EMB |
 | Republic World TV India | [m3u8 # EN](https://amg01218-amg01218c6-amgplt0915.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01218-amg01218c6-amgplt0915/playlist.m3u8) | [web](https://www.republicworld.com/livetv) | [logo](https://graph.facebook.com/RepublicWorld/picture?width=200&height=200) | - | - |
 | Hispan TV Irán | [m3u8](https://live.presstv.ir/hls/hispantv_5_482/index.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://pbs.twimg.com/profile_images/1645382928422109184/lUdeHBAs_200x200.jpg) | - | - |
-| CNA Singapur | [m3u8 # EN](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8) | [web](https://www.channelnewsasia.com/watch) | [logo](https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200) | - | - |
+| Channel NewsAsia Singapur | [m3u8 # EN](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8) | [web](https://www.channelnewsasia.com/watch) | [logo](https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200) | - | - |
 | TVBS News Taiwán | [youtube # ZH](https://www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ/live) | [web](https://news.tvbs.com.tw/live/news4live) | [logo](https://graph.facebook.com/tvbsfb/picture?width=200&height=200) | - | EMB |
 | SET News Taiwán | [youtube # ZH # 1](https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live) - [youtube # ZH # 2](https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live) | [web](https://live.setn.com) | [logo](https://graph.facebook.com/setnews/picture?width=200&height=200) | - | EMB |
 | UNTV News & Rescue Filipinas | [youtube # TL](https://www.youtube.com/channel/UC3XaG-7UVi2vD8ZZEMNnnpw/live) | [web](https://www.untvnews.com) | [logo](https://graph.facebook.com/UNTVNewsRescue/picture?width=200&height=200) | - | EMB |
@@ -842,7 +842,7 @@
 | Garage TV Argentina | [m3u8](https://stream1.sersat.com/hls/garagetv.m3u8) | [web](https://elgarage.com) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
 | Best Cable Sports Perú | - | [web](https://bestcableperu.com.pe/lima/enVivo/bestCableSport) | [logo](https://pbs.twimg.com/profile_images/2061483295615934464/NNyRRkex_200x200.jpg) | - | EXTA |
 | MoreThanSports TV | [m3u8](https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8) | [web](https://morethansports.tv) | [logo](https://graph.facebook.com/mtssportstv/picture?width=200&height=200) | - | - |
-| International Table Soccer Federation | [m3u8](https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333) | [web](https://www.tablesoccer.org) | [logo](https://graph.facebook.com/ITSF.tablesoccer/picture?width=200&height=200) | - | - |
+| Int. Table Soccer Federation | [m3u8](https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333) | [web](https://www.tablesoccer.org) | [logo](https://graph.facebook.com/ITSF.tablesoccer/picture?width=200&height=200) | - | - |
 
 ## Musicales
 
