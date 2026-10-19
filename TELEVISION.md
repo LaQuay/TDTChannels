@@ -539,7 +539,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Melilla TV | [stream](https://www.dailymotion.com/embed/video/x9jhjqk?autoplay=1) | [web](https://tvmelilla.es/directo.php) | [logo](https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200) | MelillaTV.TV | EXTB,EMB |
+| Melilla TV | [stream](https://geo.dailymotion.com/player/x19ukg.html?video=x9jhjqk) | [web](https://tvmelilla.es/directo.php) | [logo](https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200) | MelillaTV.TV | EXTB,EMB |
 | Popular TV Melilla | [m3u8](https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8) | [web](https://populartvmelilla.com) | [logo](https://graph.facebook.com/PopularTelevisionMelilla/picture?width=200&height=200) | - | - |
 
 ### País Vasco
@@ -613,7 +613,7 @@
 | BFM TV Francia | [m3u8 # FR](https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8) | [web](https://www.bfmtv.com/en-direct/) | [logo](https://graph.facebook.com/BFMTV/picture?width=200&height=200) | - | - |
 | TV5Monde Francia | [m3u8 # FR](https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8) | [web](https://europe.tv5monde.com/en/live) | [logo](https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200) | TV5Monde.TV | - |
 | franceinfo: Francia | [youtube # FR](https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live) | [web](https://www.franceinfo.fr/en-direct/tv.html) | [logo](https://pbs.twimg.com/profile_images/1019886363515211776/D2TBSqHw_200x200.jpg) | - | EMB |
-| CNEWS Francia | [stream # FR](https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1) | [web](https://www.cnews.fr/le-direct) | [logo](https://graph.facebook.com/CNEWSofficiel/picture?width=200&height=200) | - | EXTB,EMB |
+| CNEWS Francia | [stream # FR](https://geo.dailymotion.com/player/xl0ra.html?video=x3b68jn) | [web](https://www.cnews.fr/le-direct) | [logo](https://graph.facebook.com/CNEWSofficiel/picture?width=200&height=200) | - | EXTB,EMB |
 | Rai News 24 Italia | - | [web](https://www.rainews.it/notiziari/rainews24) | [logo](https://graph.facebook.com/RaiNews/picture?width=200&height=200) | RaiN.TV | EXTA |
 | Sportitalia | [m3u8 # 1 # IT](https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8) - [m3u8 # 2](https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8) - [m3u8 # 3](https://origin-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8) | [web](https://sportitalialive.it/sihd/) | [logo](https://graph.facebook.com/sportitaliatv/picture?width=200&height=200) | - | - |
 | La7 Italia | [m3u8 # IT](https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8) | [web](https://tg.la7.it/dirette-tv) | [logo](https://graph.facebook.com/tgla7/picture?width=200&height=200) | - | - |
@@ -678,7 +678,7 @@
 | NTN24 América | [youtube](https://www.youtube.com/channel/UCEJs1fTF3KszRJGxJY14VrA/live) | [web](https://www.ntn24.com/en-vivo/) | [logo](https://graph.facebook.com/NTN24/picture?width=200&height=200) | NTN24.TV | EMB |
 | Canal 6 Multimedios México | [m3u8](https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8) | [web](https://www.multimediostv.com/en-vivo/monterrey) | [logo](https://graph.facebook.com/multimediostv/picture?width=200&height=200) | - | - |
 | Milenio México | [youtube](https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live) | [web](https://www.milenio.com/mileniotv) | [logo](https://graph.facebook.com/MilenioDiario/picture?width=200&height=200) | - | EMB |
-| El Financiero México | [stream](https://www.dailymotion.com/embed/video/x90qe0k?autoplay=1) | [web](https://www.elfinanciero.com.mx/tv) | [logo](https://pbs.twimg.com/profile_images/1847384662064451586/j-fU1hAJ_200x200.jpg) | - | EXTB,EMB |
+| El Financiero México | [stream](https://geo.dailymotion.com/player/x90qe0k.html?video=x90qe0k) | [web](https://www.elfinanciero.com.mx/tv) | [logo](https://pbs.twimg.com/profile_images/1847384662064451586/j-fU1hAJ_200x200.jpg) | - | EXTA,EMB |
 | Excélsior México | [youtube](https://www.youtube.com/channel/UCevif8Yk47cJKrq4-0EmwIA/live) | [web](https://www.excelsior.com.mx/tv) | [logo](https://graph.facebook.com/ExcelsiorMex/picture?width=200&height=200) | - | EMB |
 | N+ México | - | [web](https://www.nmas.com.mx/en-vivo/?canal=noticieros) | [logo](https://graph.facebook.com/nmas.com.mx/picture?width=200&height=200) | - | EXTA |
 | N+ Foro México | - | [web](https://www.nmas.com.mx/en-vivo/?canal=forotv) | [logo](https://pbs.twimg.com/profile_images/1834645317901320192/YOxivfL1_200x200.jpg) | - | EXTA |
@@ -706,8 +706,8 @@
 | El Nueve Argentina | [youtube](https://www.youtube.com/channel/UCUT4NmGqjrVpKf2JyiS_bbA/live) | [web](https://www.elnueve.com.ar/en-vivo) | [logo](https://graph.facebook.com/Canal9TV/picture?width=200&height=200) | - | EMB |
 | Infobae Argentina | [youtube](https://www.youtube.com/channel/UCvsU0EGXN7Su7MfNqcTGNHg/live) | [web](https://www.infobae.com/en-vivo/) | [logo](https://graph.facebook.com/Infobae/picture?width=200&height=200) | - | EMB |
 | Exitosa Noticias Perú | [m3u8](https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8) | [web](https://www.exitosanoticias.pe/tv/envivo) | [logo](https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200) | - | - |
-| Panamericana Perú | [stream](https://geo.dailymotion.com/player.html?video=xa50i1c&autoplay=true) | [web](https://panamericana.pe/tvenvivo) | [logo](https://graph.facebook.com/panamericana.pe/picture?width=200&height=200) | - | EXTB,EMB |
-| Willax Perú | [stream](https://www.dailymotion.com/embed/video/k2eC5HQOmJKHuUE1muC?autoplay=1) | [web](https://willax.pe/en-vivo) | [logo](https://graph.facebook.com/willaxtv/picture?width=200&height=200) | - | EMB,EXTA |
+| Panamericana Perú | [stream](https://geo.dailymotion.com/player/x1ks1a.html?video=xa50i1c) | [web](https://panamericana.pe/tvenvivo) | [logo](https://graph.facebook.com/panamericana.pe/picture?width=200&height=200) | - | EXTB,EMB |
+| Willax Perú | [stream](https://geo.dailymotion.com/player/x14ru6.html?video=xa63dow) | [web](https://willax.pe/en-vivo) | [logo](https://graph.facebook.com/willaxtv/picture?width=200&height=200) | - | EXTB,EMB |
 | TV Perú | - | [web](https://www.tvperu.gob.pe/play) | [logo](https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200) | - | EXTA |
 | TV Perú Noticias | - | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200) | - | EXTA |
 | Canal IPe Perú | - | [web](https://www.irtpplay.gob.pe/canalipe/envivo) | [logo](https://graph.facebook.com/canalipe/picture?width=200&height=200) | - | EXTA |
@@ -715,9 +715,9 @@
 | Cosmos TV Perú | [m3u8](https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8) | [web](https://cosmos.pe) | [logo](https://pbs.twimg.com/profile_images/1904206504753811457/66CbqvH1_200x200.jpg) | - | - |
 | TeleSUR Venezuela | [m3u8](https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net) | [logo](https://graph.facebook.com/teleSUR/picture?width=200&height=200) | TeleSUR.TV | - |
 | Globovisión Venezuela | [m3u8](https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8) | [web](https://globovision.com) | [logo](https://graph.facebook.com/globovision/picture?width=200&height=200) | - | - |
-| Venezolana de Televisión Venezuela | [stream](https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1) | [web](https://vtv.com.ve) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | EXTB,EMB |
+| Venezolana de Televisión Venezuela | [youtube](https://www.youtube.com/channel/UC_8sCVycu3FXidPNoZwOHqA/live) | [web](https://vtv.com.ve) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | EMB |
 | VPI TV Venezuela | [youtube](https://www.youtube.com/channel/UCVFiIRuxJ2GmJLUkHmlmj4w/live) | [web](https://vpitv.com/en-vivo/) | [logo](https://graph.facebook.com/vpitv/picture?width=200&height=200) | - | EMB |
-| La Tele Tuya Venezuela | [stream](https://www.dailymotion.com/embed/video/x9n8qwq?autoplay=1) | [web](https://teletuya.net/en-vivo/) | [logo](https://graph.facebook.com/TeleTuya/picture?width=200&height=200) | - | EXTA,EMB |
+| La Tele Tuya Venezuela | [stream](https://geo.dailymotion.com/player/xhuur.html?video=x9n8qwq) | [web](https://teletuya.net/en-vivo/) | [logo](https://graph.facebook.com/TeleTuya/picture?width=200&height=200) | - | EXTB,EMB |
 | Canal Antigua Guatemala | - | [web](https://canalantigua.tv/envivo/) | [logo](https://graph.facebook.com/canalantigua/picture?width=200&height=200) | - | EXTA |
 | 24h Chile | [youtube](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live) | [web](https://www.24horas.cl/envivo/) | [logo](https://graph.facebook.com/24horas.cl/picture?width=200&height=200) | - | EMB |
 | TELE13 Chile | [stream](https://rudo.video/live/t13?autostart=1) - [youtube](https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live) | [web](https://www.t13.cl/en-vivo) | [logo](https://graph.facebook.com/teletrece/picture?width=200&height=200) | - | EMB |
@@ -725,17 +725,17 @@
 | Teleamazonas Ecuador | [youtube](https://www.youtube.com/channel/UCCwRtme3lumNRQXMO2EvCvw/live) | [web](https://www.teleamazonas.com/teleamazonas-en-vivo/) | [logo](https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200) | - | EMB |
 | Ecuador TV | [m3u8](https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8) | [web](https://www.ecuadortv.ec/en-vivo) | [logo](https://pbs.twimg.com/profile_images/1962545090485784576/uXP9DhVk_200x200.jpg) | - | - |
 | Oromar TV Ecuador | [m3u8](https://stream.oromar.tv/hls/oromartv_hi/index.m3u8) | [web](https://oromartv.com/tv-en-vivo/) | [logo](https://graph.facebook.com/oromartv/picture?width=200&height=200) | - | - |
-| Bolivia 7.1 TV | [stream](https://www.dailymotion.com/embed/video/x9nzqpo?autoplay=1) | [web](https://www.boliviatv.bo/principal/vivo71.php) | [logo](https://graph.facebook.com/BoliviaTvCanalOficial/picture?width=200&height=200) | - | EXTA,EMB |
-| Bolivia 7.2 TV | [stream](https://www.dailymotion.com/embed/video/x9ny70y?autoplay=1) | [web](https://www.boliviatv.bo/principal/vivo72.php) | [logo](https://graph.facebook.com/BoliviaTvCanalOficial/picture?width=200&height=200) | - | EXTA,EMB |
+| Bolivia 7.1 TV | [stream](https://geo.dailymotion.com/player/x12yfi.html?video=x9nzqpo) | [web](https://www.boliviatv.bo/principal/vivo71.php) | [logo](https://graph.facebook.com/BoliviaTvCanalOficial/picture?width=200&height=200) | - | EXTB,EMB |
+| Bolivia 7.2 TV | [stream](https://geo.dailymotion.com/player/x12yfi.html?video=x9ny70y) | [web](https://www.boliviatv.bo/principal/vivo72.php) | [logo](https://graph.facebook.com/BoliviaTvCanalOficial/picture?width=200&height=200) | - | EXTB,EMB |
 | Red Uno de Bolivia | [stream # 1](https://www.reduno.com.bo/senal-en-vivo?tab=1) - [stream # 2](https://www.reduno.com.bo/senal-en-vivo?tab=2) - [stream # 3](https://www.reduno.com.bo/senal-en-vivo?tab=3) | [web](https://www.reduno.com.bo/senal-en-vivo) | [logo](https://graph.facebook.com/RedUnotv/picture?width=200&height=200) | - | EXTB |
 | Cubavisión TV Cuba | [m3u8](https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8) | [web](https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true) | [logo](https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200) | Cubavision.TV | REF,NONAV |
 | CDN 37 República Dominicana | - | [web](https://cdn.com.do/envivo/) | [logo](https://graph.facebook.com/cdn.com.do/picture?width=200&height=200) | - | EXTA |
 | Telemicro República Dominicana | - | [web](https://telemicro.com.do/players/5tv/) | [logo](https://pbs.twimg.com/profile_images/1587264071346393089/-FeTL7C8_200x200.jpg) | - | EXTA |
-| Color Visión República Dominicana | [stream](https://www.dailymotion.com/embed/video/x7gy059?autoplay=1) | [web](https://colorvision.com.do/en-vivo/) | [logo](https://graph.facebook.com/colorvisionc9/picture?width=200&height=200) | - | EMB |
+| Color Visión República Dominicana | - | [web](https://colorvision.com.do/en-vivo/) | [logo](https://graph.facebook.com/colorvisionc9/picture?width=200&height=200) | - | EXTA |
 | HCH Honduras | [m3u8](https://stream.hch.hn/live/streams/stream1.m3u8) | [web](https://hch.tv/hch-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1571129300623015936/-HJCmEk3_200x200.jpg) | - | UAG,REF |
 | Canal 6 Honduras | [m3u8](https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8) | [web](https://canal6hn.com/en-vivo/) | [logo](https://graph.facebook.com/canal6hn/picture?width=200&height=200) | - | - |
 | Canal 11 Honduras | [m3u8](https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8) | [web](https://canal11.hn/en-vivo/) | [logo](https://graph.facebook.com/canal11hn/picture?width=200&height=200) | - | - |
-| ABC TV Paraguay | [stream](https://geo.dailymotion.com/player/x1b1gw.html?video=kQRS6ZAjGuMkByE4Mtc) | [web](https://www.abc.com.py/tv/) | [logo](https://graph.facebook.com/ABCTVpy/picture?width=200&height=200) | - | EMB |
+| ABC TV Paraguay | - | [web](https://www.abc.com.py/tv/) | [logo](https://graph.facebook.com/ABCTVpy/picture?width=200&height=200) | - | EXTA |
 | LaTele Paraguay | - | [web](https://www.latele.com.py) | [logo](https://graph.facebook.com/LatelePy/picture?width=200&height=200) | - | EXTA |
 | Telefuturo Paraguay | - | [web](https://www.telefuturo.com.py/envivo) | [logo](https://graph.facebook.com/Telefuturo/picture?width=200&height=200) | - | EXTA |
 | Unicanal Paraguay | - | [web](https://unicanal.com.py) | [logo](https://graph.facebook.com/Unicanal/picture?width=200&height=200) | - | EXTA |
@@ -744,9 +744,9 @@
 | WTV Nicaragua | [m3u8](https://cloudvideo.servers10.com:8081/8130/index.m3u8) | [web](https://wtvnicaragua.com/player/tv-player.html) | [logo](https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200) | - | - |
 | TeleDiario Costa Rica | [m3u8](https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8) | [web](https://www.telediario.cr/television) | [logo](https://graph.facebook.com/MultimediosCR/picture?width=200&height=200) | - | - |
 | Teletica 7 Costa Rica | [stream](https://bradmax.com/client/embed-player/b59f1251a85ff4698cc563884f1c44d3811476c2_14426?id=tv7v2&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8) | [web](https://www.teletica.com/vivo?canal=teletica-7) | [logo](https://pbs.twimg.com/profile_images/1742933938627321857/UwOQ50-p_200x200.jpg) | - | EMB |
-| Trece Costa Rica | [stream](https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1) | [web](https://sinartdigital.com/envivo-canaltrece) | [logo](https://graph.facebook.com/canaltrececr/picture?width=200&height=200) | - | EXTB,EMB |
+| Trece Costa Rica | [youtube](https://www.youtube.com/channel/UC71S1G67Z4Rm3H_PxNVrVjA/live) | [web](https://sinartdigital.com/envivo-canaltrece) | [logo](https://graph.facebook.com/canaltrececr/picture?width=200&height=200) | - | EMB |
 | WIPR Puerto Rico | [m3u8](https://streamwipr.pr/hls/stream/index.m3u8) | [web](https://wipr.pr) | [logo](https://graph.facebook.com/wiprtv/picture?width=200&height=200) | - | - |
-| RedeTV! Brasil | [stream # PT](https://www.dailymotion.com/embed/video/kYe5OYErhldJ75Azib2?autoplay=1) | [web](https://www.redetv.uol.com.br/aovivo) | [logo](https://graph.facebook.com/REDETV/picture?width=200&height=200) | - | EXTB,EMB |
+| RedeTV! Brasil | [stream # PT](https://geo.dailymotion.com/player/xgrus.html?video=kYe5OYErhldJ75Azib2) | [web](https://www.redetv.uol.com.br/aovivo) | [logo](https://graph.facebook.com/REDETV/picture?width=200&height=200) | - | EXTB,EMB |
 | CNN Brasil | [youtube # PT](https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live) | [web](https://www.cnnbrasil.com.br/ao-vivo/) | [logo](https://graph.facebook.com/cnnbrasil/picture?width=200&height=200) | - | EMB |
 | SBT Interior Brasil | - | [web](https://thmais.com.br/aracatuba/sbtinterior-aovivo/) | [logo](https://graph.facebook.com/sbtnointerior/picture?width=200&height=200) | - | EXTA,UAG |
 | TV Cultura Brasil | [m3u8 # PT](https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8) | [web](https://cultura.uol.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=200&height=200) | - | - |
