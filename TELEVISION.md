@@ -734,10 +734,10 @@
 | HCH Honduras | [m3u8](https://stream.hch.hn/live/streams/stream1.m3u8) | [web](https://hch.tv/hch-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1571129300623015936/-HJCmEk3_200x200.jpg) | - | UAG,REF |
 | Canal 6 Honduras | [m3u8](https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8) | [web](https://canal6hn.com/en-vivo/) | [logo](https://graph.facebook.com/canal6hn/picture?width=200&height=200) | - | - |
 | Canal 11 Honduras | [m3u8](https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8) | [web](https://canal11.hn/en-vivo/) | [logo](https://graph.facebook.com/canal11hn/picture?width=200&height=200) | - | - |
-| ABC TV Paraguay | - | [web](https://www.abc.com.py/tv/) | [logo](https://graph.facebook.com/ABCTVpy/picture?width=200&height=200) | - | EXTA |
-| LaTele Paraguay | - | [web](https://www.latele.com.py/en-vivo) | [logo](https://graph.facebook.com/LatelePy/picture?width=200&height=200) | - | EXTA |
-| Telefuturo Paraguay | - | [web](https://www.telefuturo.com.py/envivo) | [logo](https://graph.facebook.com/Telefuturo/picture?width=200&height=200) | - | EXTA |
-| Unicanal Paraguay | - | [web](https://unicanal.com.py/en-vivo/) | [logo](https://graph.facebook.com/Unicanal/picture?width=200&height=200) | - | EXTA |
+| ABC TV Paraguay | [stream](https://geo.dailymotion.com/player/x1b1gw.html?video=kQRS6ZAjGuMkByE4Mtc) | [web](https://www.abc.com.py/tv/) | [logo](https://graph.facebook.com/ABCTVpy/picture?width=200&height=200) | - | EMB |
+| LaTele Paraguay | - | [web](https://www.latele.com.py) | [logo](https://graph.facebook.com/LatelePy/picture?width=200&height=200) | - | EXTA |
+| Telefuturo Paraguay | - | [web](https://www.telefuturo.com.py/envivo) | [logo](https://pbs.twimg.com/profile_images/1990013848678752256/GhjCIulC_200x200.jpg) | - | EXTA |
+| Unicanal Paraguay | - | [web](https://unicanal.com.py) | [logo](https://graph.facebook.com/Unicanal/picture?width=200&height=200) | - | EXTA |
 | Noticias NPY Paraguay | - | [web](https://www.npy.com.py/en-vivo) | [logo](https://graph.facebook.com/npyoficial/picture?width=200&height=200) | - | EXTA |
 | Nicavisión TV Nicaragua | - | [web](http://www.canal12.com.ni/en-vivo) | [logo](https://graph.facebook.com/200823376627607/picture?width=200&height=200) | - | EXTA |
 | WTV Nicaragua | [m3u8](https://cloudvideo.servers10.com:8081/8130/index.m3u8) | [web](https://wtvnicaragua.com/player/tv-player.html) | [logo](https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200) | - | - |
