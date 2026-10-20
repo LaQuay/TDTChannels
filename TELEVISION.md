@@ -640,7 +640,8 @@
 | RTÉ News Irlanda | [stream # EN](https://www.rte.ie/embed/?channel=RTENewsNow) | [web](https://www.rte.ie/news/player/) | [logo](https://graph.facebook.com/rtenews/picture?width=200&height=200) | - | EMB |
 | Televixin Malta | - | [web](https://tvmi.mt/live/2) | [logo](https://graph.facebook.com/TelevisionMalta/picture?width=200&height=200) | - | EXTA |
 | Televixin Malta Sport | - | [web](https://tvmi.mt/live/4) | [logo](https://graph.facebook.com/TelevisionMalta/picture?width=200&height=200) | - | EXTA |
-| TRT World Turquía | [m3u8 # EN](https://tv-trtworld.medya.trt.com.tr/master.m3u8) - [m3u8 # TR](https://tv-trthaber.medya.trt.com.tr/master.m3u8) | [web](https://www.trtespanol.com) | [logo](https://graph.facebook.com/trtworld/picture?width=200&height=200) | - | - |
+| TRT World Turquía | [m3u8 # EN](https://tv-trtworld.medya.trt.com.tr/master.m3u8) | [web](https://www.trtworld.com) | [logo](https://graph.facebook.com/trtworld/picture?width=200&height=200) | - | - |
+| TRT Haber Turquía | [m3u8 # TR](https://tv-trthaber.medya.trt.com.tr/master.m3u8) | [web](https://www.trthaber.com/canli-yayin-izle.html) | [logo](https://graph.facebook.com/trthaber/picture?width=200&height=200) | - | - |
 | NOW TV Turquía | - | [web](https://www.nowtv.com.tr/canli-yayin) | [logo](https://graph.facebook.com/nowtvturkiye/picture?width=200&height=200) | - | EXTA |
 | STAR TV Turquía | - | [web](https://www.startv.com.tr/canli-yayin) | [logo](https://graph.facebook.com/startv/picture?width=200&height=200) | - | EXTA |
 | RTCG SAT Montenegro | [m3u8 # SR](https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8) | [web](https://rtcg.me/cir/tv/gledaj-tvcgmne.html) | [logo](https://graph.facebook.com/RTCG.me/picture?width=200&height=200) | - | - |
