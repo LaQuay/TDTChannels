@@ -336,7 +336,7 @@
 | Atlántico Radio | [stream](https://streaming.atlanticoradio.es/atlanticoradio) | [web](https://www.atlanticoradio.com) | [logo](https://pbs.twimg.com/profile_images/1672239769626066947/UNKgVm5I_200x200.png) | - | - |
 | Inolvidable FM | [stream](https://uk1.streamingpulse.com/ssl/inolvidablefm) | [web](https://inolvidablefm.es) | [logo](https://graph.facebook.com/inolvidablefmradio/picture?width=200&height=200) | - | - |
 | La Diez Radio | [stream](https://panel5.soydigital.fm/8030/stream) | [web](https://www.ladiez.es) | [logo](https://graph.facebook.com/ladiezradio/picture?width=200&height=200) | - | - |
-| El Pejeverde | [m3u8](https://5c0956165db0b.streamlock.net/radio/lancelot.stream_aac/playlist.m3u8) | [web](https://www.elpejeverde.com) | [logo](https://graph.facebook.com/552642618121698/picture?width=200&height=200) | - | - |
+| Lancelot Radio | [m3u8](https://5c0956165db0b.streamlock.net/radio/lancelot.stream_aac/playlist.m3u8) | [web](https://www.lancelot.es/radio.php) | [logo](https://graph.facebook.com/RadioLancelot/picture?width=200&height=200) | - | - |
 | Radio Guiniguada | [mp3](https://streamtotal.net/proxy/guiniguada/;.mp3) | [web](https://radioguiniguada.com) | [logo](https://graph.facebook.com/radioguiniguada/picture?width=200&height=200) | - | - |
 | Radio Gigante | [stream](https://server8.emitironline.com:18163/stream) | [web](https://radiogigante.com) | [logo](https://graph.facebook.com/radiogigantecanarias/picture?width=200&height=200) | - | - |
 | Radio Carnaval Tenerife | [stream](https://streamtotal.net/proxy/carnaval/stream) | [web](https://multicarnaval.com) | [logo](https://pbs.twimg.com/profile_images/1822943123116269568/mdyZg2c7_200x200.jpg) | - | - |
