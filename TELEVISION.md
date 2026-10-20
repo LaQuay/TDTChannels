@@ -511,7 +511,7 @@
 | Anove TV | [m3u8](https://cloud.streamingconnect.tv/hls/anove/anove.m3u8) | [web](https://anove.gal) | [logo](https://graph.facebook.com/anove.tv/picture?width=200&height=200) | - | - |
 | Auria TV | [youtube](https://www.youtube.com/channel/UC4xDk-vc3i4CB45U7_wmm5g/live) | [web](https://www.auria.es) | [logo](https://yt3.ggpht.com/a-/AAuE7mBbJ5XfzqqDgg1IkOk23GJ6JZntYZtYT-n1CA=s200) | - | EMB,EVT |
 | Parlamento de Galicia | [m3u8](https://pgalicia-live.akamaized.net/hls/live/2040697/pleno/playlist.m3u8) | [web](https://www.es.parlamentodegalicia.es/EmisionDirecto/) | [logo](https://graph.facebook.com/parlamentodegalicia/picture?width=200&height=200) | - | EVT |
-| Xunta de Galicia | [m3u8](https://xuntalive.akamaized.net/hls/live/2032287/streamxunta/master.m3u8) | [web](https://www.xunta.gal/video-en-directo) | [logo](https://graph.facebook.com/@xuntadegalicia/picture?width=200&height=200) | - | EVT |
+| Xunta de Galicia | [m3u8](https://xuntalive.akamaized.net/hls/live/2032287/streamxunta/master.m3u8) | [web](https://www.xunta.gal/video-en-directo) | [logo](https://graph.facebook.com/xuntadegalicia/picture?width=200&height=200) | - | EVT |
 
 ### Illes Balears
 
