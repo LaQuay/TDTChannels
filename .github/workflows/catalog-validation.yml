@@ -1,0 +1,59 @@
+name: Catalog validation
+
+on:
+  pull_request:
+    paths:
+      - TELEVISION.md
+      - RADIO.md
+      - scripts/pr_review/**
+      - .github/workflows/catalog-validation.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: catalog-validation-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Validate catalog changes
+    runs-on: ubuntu-slim
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run validator self-tests
+        id: unit_tests
+        run: python -m unittest discover -s scripts/pr_review/tests -v
+
+      - name: Run blocking deterministic validation
+        id: deterministic_validation
+        env:
+          GITHUB_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: python scripts/pr_review/validate_catalog.py --report-file .catalog-validation-report.json
+
+      - name: Run advisory stream availability checks
+        id: network_checks
+        continue-on-error: true
+        env:
+          GITHUB_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: python scripts/pr_review/validate_catalog.py --network --report-file .catalog-validation-report.json
+
+      - name: Publish validation summary
+        if: always()
+        run: |
+          python scripts/pr_review/render_summary.py \
+            --report-file .catalog-validation-report.json \
+            --unit-tests "${{ steps.unit_tests.outcome }}" \
+            --deterministic-validation "${{ steps.deterministic_validation.outcome }}" \
+            --network-checks "${{ steps.network_checks.outcome }}" \
+            >> "$GITHUB_STEP_SUMMARY"

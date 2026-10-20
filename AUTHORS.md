@@ -1,32 +1,38 @@
-#### Author
-- Marc [@LaQuay](https://github.com/LaQuay)
+# Autores y colaboradores
 
-#### Team
-- Antonio [@atnbueno](https://github.com/atnbueno)
-- Paco [@pacoDevelop](https://github.com/pacoDevelop)
-- Jacobo [@poborp](https://github.com/poborp)
+Este proyecto existe gracias a toda la gente que aporta enlaces, reporta fallos y mejora el código. ¡Gracias!
 
-#### Colaboradores (in alphabetical order)
-- Adrian [@adrianpaniagualeon](https://github.com/adrianpaniagualeon)
-- Aitor [@aitorillo](https://github.com/aitorillo)
-- Alex Gabriel [@97carmine](https://github.com/97carmine)
-- Angel [@PIC16f841](https://github.com/PIC16f841)
-- Berto [@Berto9050](https://github.com/Berto9050)
-- CaRLymx [@carlymx](https://github.com/carlymx)
-- Carlos [@profesorasix](https://github.com/profesorasix)
-- Carratraka [@carratraka](https://github.com/carratraka)
-- David [@david-cp](https://github.com/David-cp
-- Jorge [@jaguaza](https://github.com/jaguaza)
-- José Antonio [@nomentero](https://github.com/Nomenteros)
-- Juan [@okelet](https://github.com/okelet)
-- Miguel A. [@MiguelAngel2345](https://github.com/MiguelAngel2345)
-- Ricardo [@RicardoVelaC](https://github.com/RicardoVelaC)
-- Valentin [@vk496](https://github.com/vk496)
+## Autor
 
-#### Antiguos Colaboradores)
-- HelmerLuzo [@HelmerLuzo](https://github.com/HelmerLuzo)
-- Playz [@playzzz](https://github.com/playzzz)
+- Marc — [@LaQuay](https://github.com/LaQuay)
 
-Si haces una *Pull Request*, no olvides incluirte en este fichero. 
+## Equipo
 
-Más info: https://www.tdtchannels.com/colabora
+- José Antonio — [@Nomenteros](https://github.com/Nomenteros)
+- Jacobo — [@poborp](https://github.com/poborp)
+- Antonio — [@atnbueno](https://github.com/atnbueno)
+
+## Colaboradores
+
+_Por orden alfabético._
+
+- Adrian — [@adrianpaniagualeon](https://github.com/adrianpaniagualeon)
+- Aitor — [@aitorillo](https://github.com/aitorillo)
+- Alex Gabriel — [@97carmine](https://github.com/97carmine)
+- Angel — [@PIC16f841](https://github.com/PIC16f841)
+- Berto — [@Berto9050](https://github.com/Berto9050)
+- Carlos — [@profesorasix](https://github.com/profesorasix)
+- CaRLymx — [@carlymx](https://github.com/carlymx)
+- Carratraka — [@carratraka](https://github.com/carratraka)
+- David — [@David-cp](https://github.com/David-cp)
+- Jorge — [@jaguaza](https://github.com/jaguaza)
+- Juan — [@okelet](https://github.com/okelet)
+- Miguel A. — [@MiguelAngel2345](https://github.com/MiguelAngel2345)
+- Paco — [@pacoDevelop](https://github.com/pacoDevelop)
+- Playz — [@playzzz](https://github.com/playzzz)
+- Ricardo — [@RicardoVelaC](https://github.com/RicardoVelaC)
+- Valentin — [@vk496](https://github.com/vk496)
+
+---
+
+¿Has enviado una *pull request*? No olvides añadirte a este fichero.
