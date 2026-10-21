@@ -52,7 +52,7 @@ _Wiki_ del proyecto [aquí](https://www.tdtchannels.com/docs/guias/generales/).
 
 ### Licencia del proyecto [↗](LICENSE)
 
-La licencia Apache License 2.0 se aplica al contenido publicado en este repositorio. 
+La licencia Apache License 2.0 se aplica al contenido publicado en este repositorio.
 
 El acceso y uso de los servicios ofrecidos desde la infraestructura de TDTChannels, incluidos los archivos JSON, M3U, M3U8 y EPG alojados en tdtchannels.com, están sujetos adicionalmente a las condiciones de servicio publicadas en nuestro [aviso legal](https://www.tdtchannels.com/aviso-legal/), sin perjuicio de los derechos otorgados por la licencia sobre los materiales a los que resulte aplicable.
 
