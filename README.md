@@ -1,4 +1,4 @@
-<img width="2332" height="422" alt="image" src="https://github.com/user-attachments/assets/6c8e23ca-177b-413e-944d-06542d57bc7f" /># TDTChannels - Canales IPTV en abierto
+# TDTChannels - Canales IPTV en abierto
 Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España y a principales canales internacionales del mundo. 
 Además la programación EPG (guía de tv) está disponible e integrada automáticamente en los ficheros generados.
 
