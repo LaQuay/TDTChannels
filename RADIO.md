@@ -891,7 +891,7 @@
 | Ona Mediterrània | [stream](https://enacast.com/onamediterrania/streams/HD) - [mp3](https://streaming.enacast.com/onamediterrania128.mp3) | [web](https://www.onamediterrania.cat) | [logo](https://graph.facebook.com/OnaMediterrani/picture?width=200&height=200) | - | - |
 | Titoieta Ràdio | [stream](https://topradio.uno:8087/stream) | [web](https://www.titoieta.cat) | [logo](https://graph.facebook.com/titoieta/picture?width=200&height=200) | - | - |
 | Radio Balear | [stream](https://server10.emitironline.com:8076/stream) | [web](https://radiobalear.net/radio-en-directo/) | [logo](https://graph.facebook.com/radiobalearfm/picture?width=200&height=200) | - | - |
-| Formentera Radio | [stream](https://eu1.lhdserver.es:3153/stream) | [web](https://www.formenteraradio.net) | [logo](https://graph.facebook.com/FormenteraRadio/picture?width=200&height=200) | - | - |
+| Formentera Radio | [mp3](https://relay.stream.enacast-cloud.com:30400/formenteraradioHD.mp3) | [web](https://www.formenteraradio.net) | [logo](https://graph.facebook.com/FormenteraRadio/picture?width=200&height=200) | - | - |
 | SAM Ibiza | [m3u8](https://hls1.eu.peppermindmedia.com/samibiza/audio/playlist.m3u8) | [web](https://samibiza.com) | [logo](https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200) | - | - |
 | Pure Ibiza Radio | [mp3](https://pureibizaradio.streaming-pro.com:8028/stream.mp3) | [web](https://www.pureibizaradio.com) | [logo](https://graph.facebook.com/pureradio/picture?width=200&height=200) | - | - |
 | Radio Murta | [stream](https://stream.recasound.es/proxy/radiomurta/stream) | [web](https://grup4.com) | [logo](https://static-media.streema.com/media/cache/c1/a3/c1a323d20e5cd83f4199fb3f23961f41.jpg) | - | - |
