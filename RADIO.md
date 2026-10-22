@@ -848,7 +848,7 @@
 | Kyoto FM | [stream](https://sonic.mediatelekom.net/8148/stream) | [web](https://www.kyotofm.es) | [logo](https://graph.facebook.com/kyotofm/picture?width=200&height=200) | - | - |
 | Radio Voz | [mp3](https://live.radiovoz.es/mp3/stream_santiago.mp3) | [web](https://www.radiovoz.com) | [logo](https://graph.facebook.com/radiovoz/picture?width=200&height=200) | - | - |
 | Radio Municipal de Tui | [stream](https://srv7021.dns-lcinternet.com/8070/stream) | [web](https://www.tui.gal/gl/servizos/radio-municipal-tui) | [logo](https://graph.facebook.com/RadioMunicipaldeTui/picture?width=200&height=200) | - | - |
-| Fórmula Fun | [mp3](https://s30.myradiostream.com/:30464/listen.mp3) | [web](https://formulafun.es/#player) | [logo](https://graph.facebook.com/FormulaFunGalicia/picture?width=200&height=200) | - | - |
+| Fórmula Fun | [mp3](https://s5.myradiostream.com:45284/listen.mp3) | [web](https://formulafun.es/#player) | [logo](https://graph.facebook.com/FormulaFunGalicia/picture?width=200&height=200) | - | - |
 | Cuac FM | [mp3](https://streaming.cuacfm.org/cuacfm-128k.mp3) | [web](https://cuacfm.org/directo/) | [logo](https://graph.facebook.com/cuacfm/picture?width=200&height=200) | - | - |
 | Radio Negreira | [stream](https://srv7031.dns-lcinternet.com/8030/stream) | [web](https://concellodenegreira.gal) | [logo](https://yt3.googleusercontent.com/ytc/APkrFKYmoi9DDHfPuxKJenC5c3CM9hfoksrZljpcsJGK5Q=s200) | - | - |
 | Radio Fene | [stream](https://srv7031.dns-lcinternet.com/8086/stream) | [web](https://www.radiofusion.gal/emisora/radio-fene) | [logo](https://graph.facebook.com/Radiofene/picture?width=200&height=200) | - | - |
