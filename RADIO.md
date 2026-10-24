@@ -341,7 +341,7 @@
 | Radio Carnaval Tenerife | [stream](https://streamtotal.net/proxy/carnaval/stream) | [web](https://multicarnaval.com) | [logo](https://pbs.twimg.com/profile_images/1822943123116269568/mdyZg2c7_200x200.jpg) | - | - |
 | Radio San Borondón | [stream](https://cast5.my-control-panel.com/proxy/carlosal/stream) | [web](https://sanborondon.info/online/) | [logo](https://graph.facebook.com/RSanBorondon/picture?width=200&height=200) | - | - |
 | MIX FM Radio | [stream](https://server10.emitironline.com:8064/stream) | [web](https://www.mixfm-radio.com) | [logo](https://yt3.ggpht.com/ytc/AKedOLQaktY1_Rv_MrWTve_Lj8JyaB9EektpPVByC6G0=s200-c-k-c0x00ffffff-no-rj) | - | - |
-| La Mueve | [mp3](https://sunaer-stream.com:7113/LA_MUEVE_CADENA_HD) | [web](https://lamueve.com/radio-online/) | [logo](https://graph.facebook.com/lamueveradio/picture?width=200&height=200) | - | - |
+| La Mueve | [stream](https://sunaer-stream.com:7113/LA_MUEVE_CADENA_HD) | [web](https://lamueve.com/radio-online/) | [logo](https://graph.facebook.com/lamueveradio/picture?width=200&height=200) | - | - |
 | 9 Radio | [stream](https://app.sonicpanelradio.com/8072/stream) | [web](https://9radio.es) | [logo](https://graph.facebook.com/9radiocanarias/picture?width=200&height=200) | - | - |
 | Radio 6 Tenerife | [stream](https://ns6.emisionlocal.com/proxy/radio6?mp=/stream) | [web](https://www.radio6tenerife.com) | [logo](https://graph.facebook.com/radio6tenerife/picture?width=200&height=200) | - | - |
 | Radio Marca Lanzarote | [m3u8](https://5c0956165db0b.streamlock.net/radio/marca.stream_aac/playlist.m3u8) | [web](https://lancelot.es/radio.php) | [logo](https://graph.facebook.com/RadioMarcaLanzarote/picture?width=200&height=200) | - | - |
@@ -419,7 +419,7 @@
 | Pedro Muñoz FM | [mp3](https://radio.pedromunozfm.com:8443/endirecto.mp3) | [web](https://www.pedromunozfm.com/live/) | [logo](https://graph.facebook.com/pedromunozfm/picture?width=200&height=200) | - | - |
 | Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net) | [logo](https://graph.facebook.com/radioarrebato107.4/picture?width=200&height=200) | - | - |
 | ONE FM | [mp3](https://stream.onefm.es:8000/onefm.mp3) | [web](https://onefm.es) | [logo](https://graph.facebook.com/OneFM.es/picture?width=200&height=200) | - | - |
-| Radio Serranía | [mp3](https://stream.zeno.fm/suyydyfgwf9uv) | [web](https://www.radioserrania.es) | [logo](https://play-lh.googleusercontent.com/4QQwgiAxHgttu-Cnz2zlypFKnvevz1v30xYi0qaAzzAhwZnfZ8UszPapSCarQeCEIg=s200) | - | - |
+| Radio Serranía | [stream](https://stream.zeno.fm/suyydyfgwf9uv) | [web](https://www.radioserrania.es) | [logo](https://play-lh.googleusercontent.com/4QQwgiAxHgttu-Cnz2zlypFKnvevz1v30xYi0qaAzzAhwZnfZ8UszPapSCarQeCEIg=s200) | - | - |
 | Radio Santa María | [mp3](https://s20.myradiostream.com/15414/listen.mp3) | [web](https://rtvd.org/radio-htm/) | [logo](https://pbs.twimg.com/profile_images/1730156030795939840/NtRBSxdr_200x200.jpg) | - | - |
 
 ### Castilla y León
@@ -537,7 +537,7 @@
 | Mataró Ràdio | [mp3](https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3) | [web](https://www.tvmataro.cat) | [logo](https://pbs.twimg.com/profile_images/1932751493033086977/olZ9NRGf_200x200.jpg) | - | - |
 | Radio Star Terrassa | [stream](https://streaming2.elitecomunicacion.es/proxy/radiostar/stream) | [web](https://radiostarterrassa.com) | [logo](https://pbs.twimg.com/profile_images/1014214973109755904/JpdHshpw_200x200.jpg) | - | - |
 | Can10FM | [stream](https://radios.solumedia.com/6716/stream) | [web](http://candeufm.com) | [logo](https://pbs.twimg.com/profile_images/593000375902478336/pJidFf-z_200x200.png) | - | - |
-| Cooltura FM | [mp3](https://server9.emitironline.com:19244/) | [web](https://coolturafm.com) | [logo](https://graph.facebook.com/coolturafm/picture?width=200&height=200) | - | - |
+| Cooltura FM | [stream](https://server9.emitironline.com:19244/) | [web](https://coolturafm.com) | [logo](https://graph.facebook.com/coolturafm/picture?width=200&height=200) | - | - |
 | Ràdio Silenci | [stream](https://enacast.com/radiosilenci/streams/HD) - [mp3](https://streaming.enacast.com/radiosilenci128.mp3) | [web](https://www.radiosilenci.cat) | [logo](https://graph.facebook.com/rsilenci/picture?width=200&height=200) | - | - |
 | Ràdio Vilafranca | [mp3](https://radio.rtvvilafranca.cat/rtvvilafranca.mp3) | [web](https://www.rtvvilafranca.cat/radio-vilafranca/radio-en-directe/) | [logo](https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200) | - | - |
 | Ona La Torre | [mp3](https://streaming.enacast.com/onalatorreSD.mp3) | [web](https://www.ona-latorre.cat) | [logo](https://graph.facebook.com/ona.latorre/picture?width=200&height=200) | - | - |
@@ -766,7 +766,7 @@
 | Onda 15 Radio | [stream](https://streaming12.elitecomunicacion.es:8628/stream) | [web](https://www.onda15.es) | [logo](https://pbs.twimg.com/profile_images/452144347593465856/NWj5Y9hn_200x200.png) | - | - |
 | Costa FM Alicante | [mp3](https://stream.costafm.es/listen/costafm/radio.mp3) | [web](https://www.costafm.es) | [logo](https://graph.facebook.com/costafm/picture?width=200&height=200) | - | - |
 | Onda Azul Torrevieja | [mp3](https://usa3.lhdserver.es:8199/stream?type=.mp3) | [web](https://www.ondaazultorrevieja.es) | [logo](https://pbs.twimg.com/profile_images/691063766784577536/3-ftz8tQ_200x200.jpg) | - | - |
-| Radio Onda 15 Castalla | [mp3](https://azc.standfy.com/radio/8200/onda15) | [web](https://www.onda15.com) | [logo](https://graph.facebook.com/radiocastalla/picture?width=200&height=200) | - | - |
+| Radio Onda 15 Castalla | [stream](https://azc.standfy.com/radio/8200/onda15) | [web](https://www.onda15.com) | [logo](https://graph.facebook.com/radiocastalla/picture?width=200&height=200) | - | - |
 | Cassette FM | [mp3](https://stream.costafm.es/listen/cassettefm/radio.mp3) | [web](https://cassettefm.es) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png) | - | - |
 | Radio 90FM | [stream](https://stream90.es/listen/radio90fm/radio) | [web](https://www.radio90.fm) | [logo](https://pbs.twimg.com/profile_images/2101790615524478976/UAiksAEQ_200x200.jpg) | - | - |
 | Radio Malibú | [mp3](https://stream.costafm.es/listen/malibu_radio_102.3/radio.mp3) | [web](https://www.radiomalibu.es) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
