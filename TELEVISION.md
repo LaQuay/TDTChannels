@@ -658,7 +658,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| FOX Live Now USA | [m3u8 # EN](https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8) | [web](https://www.foxnews.com) | [logo](https://graph.facebook.com/livenowfox/picture?width=200&height=200) | - | - |
+| LiveNOW from FOX USA | [m3u8 # EN](https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8) | [web](https://www.foxnews.com) | [logo](https://graph.facebook.com/livenowfox/picture?width=200&height=200) | - | - |
 | ABC News USA | [youtube # EN](https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live) | [web](https://abcnews.com/Live) | [logo](https://graph.facebook.com/ABCNews/picture?width=200&height=200) | - | EMB |
 | NBC News USA | [youtube # EN](https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live) | [web](https://www.nbcnews.com/now) | [logo](https://graph.facebook.com/NBCNews/picture?width=200&height=200) | - | EMB |
 | CBS News USA | [m3u8 # EN](https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8) | [web](https://www.cbsnews.com/live/) | [logo](https://graph.facebook.com/CBSNews/picture?width=200&height=200) | - | - |
@@ -669,7 +669,7 @@
 | WeatherNation USA | [m3u8 # EN](https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8) | [web](https://www.weathernationtv.com) | [logo](https://graph.facebook.com/WeatherNation/picture?width=200&height=200) | - | - |
 | Real America's Voice USA | [m3u8 # EN](https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8) | [web](https://americasvoice.news) | [logo](https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200) | - | - |
 | BUZZR TV USA | [m3u8 # EN](https://buzzrota-ono.amagi.tv/playlist.m3u8) | [web](https://buzzrtv.com/watch) | [logo](https://graph.facebook.com/BUZZRtv/picture?width=200&height=200) | - | - |
-| Newsmax TV USA | [m3u8 # EN # 1](https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8) - [m3u8 # EN # 2](https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8) | [web](https://www.newsmaxtv.com) | [logo](https://graph.facebook.com/newsmax/picture?width=200&height=200) | - | - |
+| Newsmax2 USA | [m3u8 # EN # 1](https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8) - [m3u8 # EN # 2](https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8) | [web](https://www.newsmaxtv.com) | [logo](https://graph.facebook.com/newsmax/picture?width=200&height=200) | - | - |
 | Noticias Telemundo USA | [youtube](https://www.youtube.com/channel/UCRwA1NUcUnwsly35ikGhp0A/live) | [web](https://www.telemundo.com) | [logo](https://graph.facebook.com/NoticiasTelemundo/picture?width=200&height=200) | - | EMB |
 | N+ Univision USA | [youtube](https://www.youtube.com/channel/UC32TdiIsh_5X8tKr_9rKQyA/live) | [web](https://www.univision.com/noticias) | [logo](https://graph.facebook.com/nmasunivision/picture?width=200&height=200) | - | EMB |
 | America TeVe USA | [m3u8](https://live.gideo.video/americateve2/master.m3u8) | [web](https://www.americateve.com/vivo) | [logo](https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg) | - | - |
