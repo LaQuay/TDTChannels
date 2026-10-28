@@ -8,6 +8,7 @@
 | La 2 | [m3u8 # 1](https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8) - [m3u8 # 2](https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618) | [web](https://www.rtve.es/play/videos/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=200&height=200) | La2.TV | GEO |
 | Cuatro | - | [web](https://www.mediasetinfinity.es/directo/cuatro/) | [logo](https://graph.facebook.com/cuatro/picture?width=200&height=200) | Cuatro.TV | EXTA,GEO |
 | Telecinco | - | [web](https://www.mediasetinfinity.es/directo/telecinco/) | [logo](https://graph.facebook.com/tele5/picture?width=200&height=200) | Telecinco.TV | EXTA,GEO |
+| La Séptima | - | [web](http://lasep7ima.es) | [logo](https://pbs.twimg.com/profile_images/2074450480743297024/UTvLXCSQ_200x200.jpg) | LaSeptima.TV | - |
 | FDF | - | [web](https://www.mitele.es/directo/fdf) | [logo](https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200) | FDF.TV | EXTA,GEO |
 | Energy | - | [web](https://www.mitele.es/directo/energy) | [logo](https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200) | Energy.TV | EXTA,GEO |
 | Divinity | - | [web](https://www.mitele.es/directo/divinity) | [logo](https://graph.facebook.com/divinityes/picture?width=200&height=200) | Divinity.TV | EXTA,GEO |
