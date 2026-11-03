@@ -46,11 +46,11 @@
 | RAC 105 | [aac](https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105AAC.aac) - [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3) | [web](https://www.rac105.cat) | [logo](https://graph.facebook.com/rac105/picture?width=200&height=200) | RAC105.Radio | - |
 | Radio TeleTaxi | [m3u8](https://mdstrm.com/audio/697382c0662b3e30d30e12a4/live.m3u8) | [web](https://www.radioteletaxi.com/reproductor/) | [logo](https://graph.facebook.com/radioteletaxi/picture?width=200&height=200) | TeleTaxi.Radio | - |
 | Radio Clásica RNE | [m3u8](https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-clasica/) | [logo](https://graph.facebook.com/radioclasicartve/picture?width=200&height=200) | RNEClasica.Radio | - |
-| MDT Radio | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | MDTRadio.Radio | - |
-| MDT Radio Pop Stars | [stream](https://streams1.mdtradio.com:8443/PopStarsFm) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg) | - | - |
-| MDT Radio 80s | [stream](https://streams1.mdtradio.com:8443/MDTradio80) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg) | - | - |
-| MDT Radio 90s | [stream](https://streams1.mdtradio.com:8443/MDTradio90) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-90s-300x300.jpg) | - | - |
-| MDT Radio 2000 | [stream](https://streams1.mdtradio.com:8443/MDTradio2000) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-2000-300x300.jpg) | - | - |
+| MDT Radio | [stream](https://mdtradio.emitironline.com/mdtwebMaster) | [web](https://www.mdtradio.com) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | MDTRadio.Radio | - |
+| MDT Radio Pop Stars | [stream](https://mdtradio.emitironline.com/PopStarsFm) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg) | - | - |
+| MDT Radio 80s | [stream](https://mdtradio.emitironline.com/MDTradio80) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg) | - | - |
+| MDT Radio 90s | [stream](https://mdtradio.emitironline.com/MDTradio90) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-90s-300x300.jpg) | - | - |
+| MDT Radio 2000 | [stream](https://mdtradio.emitironline.com/MDTradio2000) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-2000-300x300.jpg) | - | - |
 | Loca FM Urban | [stream](https://s1.we4stream.com:2020/stream/locaurban) | [web](https://www.locafm.com/loca-urban/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | LocaFMUrban.Radio | - |
 | Loca FM Dance | [stream](https://s2.we4stream.com/listen/loca_dance/live) | [web](https://www.locafm.com/dance/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Remember | [stream](https://s2.we4stream.com/listen/loca_remember/live) | [web](https://www.locafm.com/remember/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
@@ -580,7 +580,6 @@
 | 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
 | amb2FM | [stream](https://frilab.wlan.cat/amb2fm) | [web](https://www.amb2fm.cat) | [logo](https://pbs.twimg.com/profile_images/2062102000699924480/jHFW71PU_200x200.jpg) | - | - |
 | Taronja ràdio | [stream](https://radio.martiproduccions.com/taronjagirona) | [web](https://www.radiocapital.cat/taronja) | [logo](https://graph.facebook.com/taronja.cat/picture?width=200&height=200) | - | - |
-| MDT Radio Barcelona | [stream](https://streams1.mdtradio.com:8443/MdtBarcelonaEstudio) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/MDTradioBarcelona/picture?width=200&height=200) | - | - |
 | Paranoia Metal Figueres | [mp3](https://giss.tv:666/paranoiashow.mp3) | [web](https://paranoiashow.wordpress.com/radio-online/) | [logo](https://graph.facebook.com/pmetalshow/picture?width=200&height=200) | - | - |
 
 ### Ceuta
@@ -649,7 +648,6 @@
 | Sol Radio | [stream](https://azura.abcorp.es/radio/8220/solradio) | [web](https://solradiomadrid.com) | [logo](https://graph.facebook.com/solradio99.8/picture?width=200&height=200) | - | - |
 | Onda Vallekana | [stream](https://sonic.sistemahost.es/8152/;) | [web](https://www.ondavallekana.es) | [logo](https://pbs.twimg.com/profile_images/1447528417654710279/IlV_01hC_200x200.jpg) | - | - |
 | Onda Aranjuez | [mp3](https://server8.emitironline.com:18544/;.mp3) | [web](https://www.aranjuez.es/onda/) | [logo](https://www.aranjuez.es/wp-content/uploads/2016/12/escucha-onda-aranjuez-300x264.png) | - | - |
-| MDT Radio Madrid | [stream](https://streams1.mdtradio.com:8443/MdtMadrid) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/mdtradiomadrid/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
 
