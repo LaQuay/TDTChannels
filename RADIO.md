@@ -580,7 +580,6 @@
 | 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
 | amb2FM | [stream](https://frilab.wlan.cat/amb2fm) | [web](https://www.amb2fm.cat) | [logo](https://pbs.twimg.com/profile_images/2062102000699924480/jHFW71PU_200x200.jpg) | - | - |
 | Taronja ràdio | [stream](https://radio.martiproduccions.com/taronjagirona) | [web](https://www.radiocapital.cat/taronja) | [logo](https://graph.facebook.com/taronja.cat/picture?width=200&height=200) | - | - |
-| MDT Radio Barcelona | [stream](https://streams1.mdtradio.com:8443/MdtBarcelonaEstudio) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/MDTradioBarcelona/picture?width=200&height=200) | - | - |
 | Paranoia Metal Figueres | [mp3](https://giss.tv:666/paranoiashow.mp3) | [web](https://paranoiashow.wordpress.com/radio-online/) | [logo](https://graph.facebook.com/pmetalshow/picture?width=200&height=200) | - | - |
 
 ### Ceuta
@@ -649,7 +648,6 @@
 | Sol Radio | [stream](https://azura.abcorp.es/radio/8220/solradio) | [web](https://solradiomadrid.com) | [logo](https://graph.facebook.com/solradio99.8/picture?width=200&height=200) | - | - |
 | Onda Vallekana | [stream](https://sonic.sistemahost.es/8152/;) | [web](https://www.ondavallekana.es) | [logo](https://pbs.twimg.com/profile_images/1447528417654710279/IlV_01hC_200x200.jpg) | - | - |
 | Onda Aranjuez | [mp3](https://server8.emitironline.com:18544/;.mp3) | [web](https://www.aranjuez.es/onda/) | [logo](https://www.aranjuez.es/wp-content/uploads/2016/12/escucha-onda-aranjuez-300x264.png) | - | - |
-| MDT Radio Madrid | [stream](https://streams1.mdtradio.com:8443/MdtMadrid) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/mdtradiomadrid/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
 
