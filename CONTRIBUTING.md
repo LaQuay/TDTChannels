@@ -136,7 +136,7 @@ Etiquetas habituales:
 * `# GEO`: emisión geobloqueada o limitada territorialmente.
 * `# GEOCAT`: emisión limitada a Cataluña.
 * `# ES`, `# EN`, `# FR`, etc.: idioma principal de la emisión, usando código ISO 639-1 cuando sea necesario.
-* `# SD` / `# HD`: calidad específica si existen enlaces diferenciados.
+* `# SD` / `# HD` / `# UHD`: calidad específica si existen enlaces diferenciados.
 * `# 1`, `# 2`, etc.: varias opciones oficiales para una misma emisión.
 
 Cuando se combinen varias etiquetas, mantén un orden lógico:
