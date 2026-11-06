@@ -319,7 +319,7 @@
 | Imás TV | [m3u8](https://secure3.todostreaming.es/live/imastv-livestream.m3u8) | [web](https://imastv.es/directo-tv/) | [logo](https://graph.facebook.com/television.imas/picture?width=200&height=200) | Imas.TV | NONAV |
 | Canal 4 Mancha | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8) | [web](https://villarrobledonoticias.com/canal-4-mancha/) | [logo](https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200) | - | - |
 | Canal 2000 | [m3u8](http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8) | [web](https://www.canal2000.com) | [logo](https://graph.facebook.com/canal2000/picture?width=200&height=200) | - | REG,NONAV |
-| TeleToledo | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12688&live=1) | [web](https://www.teletoledo.es) | [logo](https://pbs.twimg.com/profile_images/1307981912586301441/LloEFyxw_200x200.jpg) | - | - |
+| TeleToledo | [m3u8](https://stream.castr.com/68147ec7fdaf2e6c44f7af01/live_8d9c6e70a51d11f1b5412581b69d297c/tracks-v1/index.fmp4.m3u8) | [web](https://www.teletoledo.es) | [logo](https://pbs.twimg.com/profile_images/1307981912586301441/LloEFyxw_200x200.jpg) | - | NONAV,REFC1 |
 | Cortes de Castilla-La Mancha | [youtube](https://www.youtube.com/channel/UCnv_UB9qXkE8YWpDOp6_p2g/live) | [web](https://www.cortesclm.es) | [logo](https://graph.facebook.com/cortesclm/picture?width=200&height=200) | - | EMB,EVT |
 | Gobierno de Castilla-La Mancha | - | [web](https://www.castillalamancha.es/actualidad/sala-prensa) | [logo](https://graph.facebook.com/juntadecastillalamancha/picture?width=200&height=200) | - | EVT,EXTA |
 
