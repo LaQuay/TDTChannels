@@ -740,7 +740,7 @@
 | ABC TV Paraguay | - | [web](https://www.abc.com.py/tv/) | [logo](https://graph.facebook.com/ABCTVpy/picture?width=200&height=200) | - | EXTA |
 | LaTele Paraguay | - | [web](https://www.latele.com.py/en-vivo) | [logo](https://graph.facebook.com/LatelePy/picture?width=200&height=200) | - | EXTA |
 | Telefuturo Paraguay | - | [web](https://www.telefuturo.com.py/envivo) | [logo](https://pbs.twimg.com/profile_images/1990013848678752256/GhjCIulC_200x200.jpg) | - | EXTA |
-| Unicanal Paraguay | - | [web](https://unicanal.com.py/en-vivo/) | [logo](https://graph.facebook.com/Unicanal/picture?width=200&height=200) | - | EXTA |
+| Unicanal Paraguay | - | [web](https://www.unicanal.com.py) | [logo](https://graph.facebook.com/Unicanal/picture?width=200&height=200) | - | EXTA |
 | Noticias NPY Paraguay | - | [web](https://www.npy.com.py/en-vivo) | [logo](https://graph.facebook.com/npyoficial/picture?width=200&height=200) | - | EXTA |
 | Nicavisión TV Nicaragua | - | [web](http://www.canal12.com.ni/en-vivo) | [logo](https://graph.facebook.com/200823376627607/picture?width=200&height=200) | - | EXTA |
 | WTV Nicaragua | [m3u8](https://cloudvideo.servers10.com:8081/8130/index.m3u8) | [web](https://wtvnicaragua.com/player/tv-player.html) | [logo](https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200) | - | - |
