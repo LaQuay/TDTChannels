@@ -227,7 +227,7 @@
 | Onda Sur Motril | [stream](http://radio.telemotril.com:8000/live) | [web](https://telemotril.com/onda-sur-107-7fm/) | [logo](https://graph.facebook.com/telemotriltv/picture?width=200&height=200) | - | - |
 | Radio Sevillanas | [mp3](http://radio.wesped.com:8000/;stream.mp3) | [web](https://www.radiosevillanas.com) | [logo](https://graph.facebook.com/web.radiosevillanas/picture?width=200&height=200) | - | - |
 | Fiebre Latina Radio | [stream](https://eu1.lhdserver.es:9035/stream) | [web](https://fiebrelatinaradio.es) | [logo](https://graph.facebook.com/fiebrelatinaradio/picture?width=200&height=200) | - | - |
-| Radio Chanquete | [mp3 # 1](http://185.23.192.118:8008/;stream.mp3) - [mp3 # 2](http://185.23.192.118:8012/;stream.mp3) - [mp3 # 3](http://185.23.192.118:8014/;stream.mp3) | [web](http://www.chanquetefm.com) | [logo](https://graph.facebook.com/radiochanquete/picture?width=200&height=200) | - | - |
+| Radio Chanquete | [mp3 # 1](http://185.23.192.118:8008/;stream.mp3) - [mp3 # 2](http://185.23.192.118:8012/;stream.mp3) - [mp3 # 3](http://185.23.192.118:8014/;stream.mp3) | [web](https://www.chanquetefm.com) | [logo](https://graph.facebook.com/radiochanquete/picture?width=200&height=200) | - | - |
 | La Mega Málaga | [mp3](https://streaming2.elitecomunicacion.es:8220/stream?type=.mp3) | [web](https://www.lamegamalaga.es) | [logo](https://graph.facebook.com/lamegacostadelsol/picture?width=200&height=200) | - | - |
 | Onda Guillena Radio | [stream](https://srv6021.dns-lcinternet.com:10171/stream) | [web](https://ondaguillena.org) | [logo](https://graph.facebook.com/onda.guillena/picture?width=200&height=200) | - | - |
 | Radio Salobreña | [stream](https://streaming2.elitecomunicacion.es:8078/stream) | [web](https://www.radiosalobrena.com/endirecto/) | [logo](https://graph.facebook.com/radiosalobrena/picture?width=200&height=200) | - | - |
@@ -238,8 +238,8 @@
 | Cadena Luna | [stream](https://radio.almunecar360.com:8100/radio) | [web](https://www.cadenaluna.es) | [logo](https://graph.facebook.com/CadenaLunaRadio/picture?width=200&height=200) | - | - |
 | La Más FM Almuñécar | [stream](https://streaming2.elitecomunicacion.es:8142/stream) | [web](https://lamasfm.com) | [logo](https://graph.facebook.com/LAMASFM/picture?width=200&height=200) | - | - |
 | La Mega FM Costa Tropical | [stream](https://streaming12.elitecomunicacion.es:8638/stream) | [web](https://www.lamegafmcostatropical.com) | [logo](https://graph.facebook.com/megacostatropical/picture?width=200&height=200) | - | - |
-| Latino FM | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=200&height=200) | - | - |
-| Radio Oro | [mp3 # 1](http://185.23.192.118:8002/;stream.mp3) - [mp3 # 2](http://185.23.192.118:8004/;stream.mp3) | [web](http://www.radiooro.es) | [logo](https://graph.facebook.com/RadioOroMalaga/picture?width=200&height=200) | - | - |
+| Latino FM | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](https://www.latinofm.es) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=200&height=200) | - | - |
+| Radio Oro | [mp3 # 1](http://185.23.192.118:8002/;stream.mp3) - [mp3 # 2](http://185.23.192.118:8004/;stream.mp3) | [web](https://www.radiooro.es) | [logo](https://graph.facebook.com/RadioOroMalaga/picture?width=200&height=200) | - | - |
 | Radio Nerja | [stream](https://online.vibacomunicacion.com:9974/stream) | [web](https://radionerja.com) | [logo](https://graph.facebook.com/radionerja/picture?width=200&height=200) | - | - |
 | Radio Mijas | [stream](https://s9.voscast.com:9691/stream) | [web](https://mijascomunicacion.com/radio-mijas-en-directo/) | [logo](https://graph.facebook.com/RadioMijas/picture?width=200&height=200) | - | - |
 | SportDirect Radio | [stream](https://streaming12.elitecomunicacion.es:8036/stream) | [web](https://sportdirectradio.es) | [logo](https://graph.facebook.com/SportDirectRadio/picture?width=200&height=200) | - | - |
@@ -258,7 +258,7 @@
 | Radio Luz Dalías | [mp3](https://broadcast.radioponiente.org:8034/;.mp3) | [web](https://www.radioluzdalias.com/es/) | [logo](https://pbs.twimg.com/profile_images/1163744422116438016/Fw93iC2M_200x200.jpg) | - | - |
 | Like Music Almería | [mp3](https://broadcast.radioponiente.org:8066/;.mp3) | [web](https://revistalike.com) | [logo](https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200) | - | - |
 | Onda 4 Ronda | [stream](https://cervera.eldialdigital.com:23161/stream) | [web](https://onda4.org/en-directo/) | [logo](https://onda4.org/wp-content/uploads/2023/05/onda4_logo2022.jpeg?w=200&h=200) | - | - |
-| 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](http://www.90fm.es) | [logo](https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg) | - | - |
+| 90 FM | [mp3](http://185.23.192.118:8010/;stream.mp3) | [web](https://www.90fm.es) | [logo](https://pbs.twimg.com/profile_images/2277895539/ypj3m6ggljmfnoy5cqvt_200x200.jpeg) | - | - |
 | Radio Torredonjimeno | [stream](https://streaming2.elitecomunicacion.es:8118/stream) | [web](https://radiotorredonjimeno.blogspot.com) | [logo](https://graph.facebook.com/radiotorredonjimeno/picture?width=200&height=200) | - | - |
 
 ### Aragón
@@ -415,7 +415,7 @@
 | Radio Kolor | [stream](https://stream20.usastreams.com/8122/stream) | [web](https://www.radiokolor.es) | [logo](https://graph.facebook.com/kolor.cuenca/picture?width=200&height=200) | - | - |
 | La Única FM | [stream](https://stream.radiofutura.es:8010/stream) | [web](https://www.launicafm.com) | [logo](https://graph.facebook.com/182268477588/picture?width=200&height=200) | - | - |
 | Onda Polígono Toledo | [stream](https://icecast.ondapoligono.org/stream) | [web](https://www.ondapoligono.org) | [logo](https://graph.facebook.com/ondapoligono/picture?width=200&height=200) | - | - |
-| Radio Chinchilla | [stream](https://streaming2.elitecomunicacion.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=200&height=200) | - | - |
+| Radio Chinchilla | [stream](https://streaming2.elitecomunicacion.es:8114/stream) | [web](https://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=200&height=200) | - | - |
 | Pedro Muñoz FM | [mp3](https://radio.pedromunozfm.com:8443/endirecto.mp3) | [web](https://www.pedromunozfm.com/live/) | [logo](https://graph.facebook.com/pedromunozfm/picture?width=200&height=200) | - | - |
 | Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net) | [logo](https://graph.facebook.com/radioarrebato107.4/picture?width=200&height=200) | - | - |
 | ONE FM | [mp3](https://stream.onefm.es:8000/onefm.mp3) | [web](https://onefm.es) | [logo](https://graph.facebook.com/OneFM.es/picture?width=200&height=200) | - | - |
