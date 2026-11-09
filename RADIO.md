@@ -365,7 +365,7 @@
 | Distinta FM | [mp3](https://ns100.emisionlocal.com/proxy/distintafm?mp=/;stream.mp3) | [web](https://distintafm.es) | [logo](https://graph.facebook.com/distintafm/picture?width=200&height=200) | - | - |
 | Asón FM | [stream](http://ns100.emisionlocal.com:8064/live) | [web](https://www.asonfm.com) | [logo](https://graph.facebook.com/asonfm/picture?width=200&height=200) | - | - |
 | ARCO FM | [mp3](https://hisparadio.duckdns.org/stream/1/stream.mp3) | [web](https://arcofm.com/escuchar-arco/) | [logo](https://graph.facebook.com/arcofmcantabria/picture?width=200&height=200) | - | - |
-| Radio Merindad de Campoo | [stream](https://server8.emitironline.com:18774/stream) | [web](http://www.radiomc.es) | [logo](https://graph.facebook.com/103380741524107/picture?width=200&height=200) | - | - |
+| Radio Merindad de Campoo | [stream](https://server8.emitironline.com:18774/stream) | [web](https://www.radiomerindad.com) | [logo](https://graph.facebook.com/103380741524107/picture?width=200&height=200) | - | - |
 | Radio Santoña | [mp3](https://server10.emitironline.com:10212/radio.mp3) | [web](https://santona.es) | [logo](https://graph.facebook.com/radiosantona107.3/picture?width=200&height=200) | - | - |
 | Radio Líder Cantabria | [stream](https://server10.emitironline.com:10855/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | Cantabria Radio | [stream](https://cantabria.radioca.st/stream) | [web](https://cantabriaradio.com) | [logo](https://pbs.twimg.com/profile_images/1618937329086857216/y7k5obyb_200x200.jpg) | - | - |
