@@ -38,6 +38,14 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 
 ## 2026
 
+### Noviembre
+
+- **ADSLZone** - [La mejor app para ver la TDT en Smart TV añade La Séptima por si no la puedes ver con tu operadora](https://www.adslzone.net/noticias/streaming-tv/tdtchannels-anade-canal-septima-smart-tv/)
+
+### Octubre
+
+- **ADSLZone** - [Ver canales de la TDT sin antena en una Smart TV Samsung](https://www.adslzone.net/noticias/streaming-tv/ver-618-canales-smart-tv-samsung-tdtchannels/)
+
 ### Septiembre
 
 - **La Razón** — [El consumo televisivo en abierto se renueva con señal de alta calidad y más de una veintena de diales gratuitos](https://www.larazon.es/television/consumo-televisivo-abierto-renueva-senal-alta-calidad-mas-veintena-diales-gratuitos_202610066ac4ace5a4297764c3aa9c48.html)
