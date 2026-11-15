@@ -360,7 +360,7 @@
 | Onda Cero Castro Urdiales | [stream](https://server8.emitironline.com:10854/;) | [web](https://ondacerocastro.com) | [logo](https://graph.facebook.com/ondacerocastrourdiales/picture?width=200&height=200) | - | - |
 | Onda Cero Santander | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_SANTANDERAAC.m3u8) | [web](https://www.ondacero.es/emisoras/cantabria/santander/directo/) | [logo](https://graph.facebook.com/ondacerocantabria/picture?width=200&height=200) | OC_Santander.Radio | - |
 | esRadio Cantabria | [stream](http://ns100.emisionlocal.com:9428/live) | [web](http://www.esradiocantabria.es) | [logo](https://graph.facebook.com/esradiocantabria/picture?width=200&height=200) | - | - |
-| Onda Occidental | [mp3](https://server9.emitironline.com:10944/;.mp3) | [web](https://www.ondaoccidental.es) | [logo](https://graph.facebook.com/ondaoccidental/picture?width=200&height=200) | - | - |
+| Onda Occidental | [mp3](https://server9.emitironline.com:10944/;.mp3) | [web](https://www.ondaoccidental.es) | [logo](https://pbs.twimg.com/profile_images/2008930393261506561/gfTyMe9t_200x200.jpg) | - | - |
 | Radio Foramontanos | [stream](https://foramontanos.fm:8443/live) | [web](https://www.foramontanos.fm) | [logo](https://graph.facebook.com/foramontanosfm/picture?width=200&height=200) | - | - |
 | Distinta FM | [mp3](https://ns100.emisionlocal.com/proxy/distintafm?mp=/;stream.mp3) | [web](https://distintafm.es) | [logo](https://graph.facebook.com/distintafm/picture?width=200&height=200) | - | - |
 | Asón FM | [stream](http://ns100.emisionlocal.com:8064/live) | [web](https://www.asonfm.com) | [logo](https://graph.facebook.com/asonfm/picture?width=200&height=200) | - | - |
