@@ -776,11 +776,12 @@
 | Onda 40 Music | [mp3](https://radioonda40music.es:8110/radio.mp3) | [web](https://onda40music.com) | [logo](https://play-lh.googleusercontent.com/9qaLJZDghGK8QWr3QWlcDwTzGPcKvKEHaS78Aa_HujG8SWb4Rcv4uVhRZYkltzhHUa9a6T-sUHWUlFGe_hcI=w200) | - | - |
 | V30 Radio | [stream](https://streaming12.elitecomunicacion.es:8604/stream) | [web](https://ondavalencia.es/en-directo/onda-valencia-v30) | [logo](https://pbs.twimg.com/media/GhtyeALXAAA5lYb?format=png&name=240x240) | - | - |
 | OcioNews Radio | [mp3](https://radios.ocionews.com/listen/ocionews/radio320.mp3) | [web](https://www.ocionews.com/canal/radio/) | [logo](https://sintonizaradio.com/wp-content/uploads/portadas/160_1794847625_amqYeTfuHw.png) | - | - |
+| Vox UJI Ràdio | [mp3](https://radiouji.uji.es:8443/high.mp3) | [web](https://www.radio.uji.es) | [logo](https://pbs.twimg.com/profile_images/915478760299868160/FACNin_P_200x200.jpg) | - | - |
+
 | OcioNews Classics | [mp3](https://radios.ocionews.com/listen/ocionews_classics/radio128.mp3) | [web](https://www.ocionews.com/canal/classics/) | [logo](https://sintonizaradio.com/wp-content/uploads/portadas/160_1794844963_uK9Xk5k00l.png) | - | - |
 | OcioNews Fiesta | [mp3](https://radios.ocionews.com/listen/ocionews_fiesta/radio128.mp3) | [web](https://www.ocionews.com/canal/fiesta/) | [logo](https://sintonizaradio.com/wp-content/uploads/portadas/160_1794844980_VfXwwOPv0o.png) | - | - |
 | OcioNews Urbanwine | [mp3](https://radios.ocionews.com/listen/ocionews_urbanwine/radio128.mp3) | [web](https://www.ocionews.com/canal/urbanwine/) | [logo](https://sintonizaradio.com/wp-content/uploads/portadas/160_1794845043_5OaMX1Rc4A.png) | - | - |
 | OcioNews Indie | [mp3](https://radios.ocionews.com/listen/ocionews_indie/radio128.mp3) | [web](https://www.ocionews.com/canal/indie/) | [logo](https://sintonizaradio.com/wp-content/uploads/portadas/160_1794845149_RF6ZQOmBdz.png) | - | - |
-| Vox UJI Ràdio | [mp3](https://radiouji.uji.es:8443/high.mp3) | [web](https://www.radio.uji.es) | [logo](https://pbs.twimg.com/profile_images/915478760299868160/FACNin_P_200x200.jpg) | - | - |
 
 ### Extremadura
 
