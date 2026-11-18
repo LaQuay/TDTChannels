@@ -131,6 +131,8 @@
 | En la calle (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-en-la-calle/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Calle.TV | EXTA |
 | Top Series (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-top-series/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Series.TV | EXTA |
 | Viajes (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-viajes/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Viajes.TV | EXTA |
+| GH VIP 24h 1 (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/gh-24h-1/) | [logo](https://graph.facebook.com/granhermano/picture?width=200&height=200) | - | EXTA |
+| GH VIP 24h 2 (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/gh-24h-2/) | [logo](https://graph.facebook.com/granhermano/picture?width=200&height=200) | - | EXTA |
 | Eventos (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/eventos/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Eventos.TV | EXTA,EVT |
 | Eventos 2 (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/eventos-2/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Eventos_2.TV | EXTA,EVT |
 | El Sótano Club (Ten) | [youtube](https://www.youtube.com/channel/UCX_GBaJP8CtYdI8-lH2VrJA/live) | [web](https://www.youtube.com/playlist?list=PLHUC9SRR5PEkHDQKwu7vjOmY2XUo4755g) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVuikonJt455AwOA15xtXQs2-vxyDEcLzr-iR85njJOnfEIXtDrvFgnYY) | - | EMB,EVT |
