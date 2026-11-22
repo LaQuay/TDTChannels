@@ -710,6 +710,7 @@
 | Crónica TV Argentina | [youtube](https://www.youtube.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g/live) | [web](https://www.cronica.com.ar/cronica-en-vivo/) | [logo](https://graph.facebook.com/cronicatelevision/picture?width=200&height=200) | - | EMB |
 | El Nueve Argentina | [youtube](https://www.youtube.com/channel/UCUT4NmGqjrVpKf2JyiS_bbA/live) | [web](https://www.elnueve.com.ar/en-vivo) | [logo](https://graph.facebook.com/Canal9TV/picture?width=200&height=200) | - | EMB |
 | Infobae Argentina | [youtube](https://www.youtube.com/channel/UCvsU0EGXN7Su7MfNqcTGNHg/live) | [web](https://www.infobae.com/en-vivo/) | [logo](https://graph.facebook.com/Infobae/picture?width=200&height=200) | - | EMB |
+| Canal 26 Argentina | - | [web](https://www.canal26.com/canal26-en-vivo/) | [logo](https://graph.facebook.com/canal26/picture?width=200&height=200) | - | EXTA,UAG |
 | Exitosa Noticias Perú | [m3u8](https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8) | [web](https://www.exitosanoticias.pe/tv/envivo) | [logo](https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200) | - | - |
 | Panamericana Perú | [stream](https://geo.dailymotion.com/player/x1ks1a.html?video=xa50i1c) | [web](https://panamericana.pe/tvenvivo) | [logo](https://graph.facebook.com/panamericana.pe/picture?width=200&height=200) | - | EXTB,EMB |
 | Willax Perú | [stream](https://geo.dailymotion.com/player/x14ru6.html?video=xa63dow) | [web](https://willax.pe/en-vivo) | [logo](https://graph.facebook.com/willaxtv/picture?width=200&height=200) | - | EXTB,EMB |
