@@ -252,7 +252,6 @@
 | Chocolate FM | [mp3](https://streaming2.elitecomunicacion.es:8082/live.mp3) | [web](https://www.chocolatefm.com) | [logo](https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200) | - | - |
 | Granada FM | [stream](https://streaming2.elitecomunicacion.es:8028/stream) | [web](https://granadafm.es) | [logo](https://pbs.twimg.com/profile_images/1572284910198722561/2BQxFxMX_200x200.jpg) | - | - |
 | Oldies FM | [stream](https://h3004255.stratoserver.net:8000/oldiesfm) | [web](https://oldiesfm.net) | [logo](https://graph.facebook.com/oldiesfmes/picture?width=200&height=200) | - | - |
-| Decibelia FM | [stream](https://streaming.shoutcast.com/decibelia) | [web](https://decibeliafm.es/web/) | [logo](https://pbs.twimg.com/profile_images/1580311659226210310/umHvZ3-d_200x200.jpg) | - | - |
 | Radio Poniente | [stream](https://broadcast.radioponiente.org:8036/;) | [web](https://www.radioponiente.com) | [logo](https://graph.facebook.com/radioponientedeportes/picture?width=200&height=200) | - | - |
 | Canal Sevilla Visión | [stream](https://sevillavision.radioca.st/stream) | [web](https://canalsevillavision.wixsite.com/canal-sevilla-vision) | [logo](https://graph.facebook.com/canalsevillavision/picture?width=200&height=200) | - | - |
 | Antena Huelva | [stream](https://stm2.emiteonline.com:9024/antenahuelva) | [web](https://antenahuelva.com) | [logo](https://graph.facebook.com/109385783852066/picture?width=200&height=200) | - | - |
