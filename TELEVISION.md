@@ -860,6 +860,7 @@
 | Activa TV España | [m3u8](https://streamtv.mediasector.es/hls/activatv/index.m3u8) | [web](https://www.emisorasmusicales.net/activa-tv/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
 | Molahits TV España | [m3u8](https://ventdelnord.tv:8080/mola/directe.m3u8) | [web](https://www.molatv.cat) | [logo](https://graph.facebook.com/molahitstv/picture?width=200&height=200) | - | - |
 | Verbena TV España | [m3u8](https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8) | [web](https://verbenafm.com) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
+| LokuraFM TV | [m3u8](https://104.234.124.62/hls/canal1/index.m3u8) | [web](https://lokurafm.es/) | [logo](https://play-lh.googleusercontent.com/pRLw0KpuXGQxblfGu8kwMNx0rrOurCW7YBaZiHYTojJkBe0uzQOd3AKvCsbBYMyOOpzp=w200-h200) | - | - |
 | Cadena Elite España | [m3u8](https://cloudvideo.servers10.com:8081/8004/index.m3u8) | [web](https://www.cadenaelite.es) | [logo](https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200) | - | - |
 | Spektra TV España | [m3u8](https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8) | [web](https://spektratv.com) | [logo](https://graph.facebook.com/spektramusictv/picture?width=200&height=200) | - | - |
 | Eurovision Song Contest | [youtube](https://www.youtube.com/channel/UCRpjHHu8ivVWs73uxHlWwFA/live) | [web](https://www.eurovision.com) | [logo](https://graph.facebook.com/EurovisionSongContest/picture?width=200&height=200) | - | EMB |
