@@ -855,7 +855,7 @@
 | Radiofusión | [stream](https://srv7031.dns-lcinternet.com/8032/stream) | [web](https://www.radiofusion.gal) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | - |
 | Radio Líder Galicia | [stream](https://server8.emitironline.com:18520/) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | Metro FM Ferrol | [stream](https://metrofm01.arsenet.com/stream) | [web](https://metrofmferrol.com) | [logo](https://pbs.twimg.com/profile_images/1716777709928427520/itSjGZ9v_200x200.jpg) | - | - |
-| Net Galicia Radio | [stream](https://sonicpanel.streaming10.net/8140/stream) | [web](https://www.netgaliciaradio.es) | [logo](https://www.netgaliciaradio.es/wp-content/uploads/2022/09/logo.png) | - | - |
+| Net Galicia Radio | [stream](https://sonicpanel.streaming10.net/8140/stream) | [web](https://www.netgaliciaradio.es) | [logo](https://play-lh.googleusercontent.com/8slw8NxHUwKYNsMZuZGtLpRPHY1dZbKtuJmw__squuHUcQj4Lqw8BGAdujqtaVMQmD3fKHmC0JHHtScCXJ86Ww=w200) | - | - |
 
 ### Illes Balears
 
