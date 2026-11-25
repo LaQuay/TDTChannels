@@ -17,11 +17,11 @@
 | El Toro TV | [m3u8 # 1](https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8) - [m3u8 # 2](https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | EVT |
 | TRECE | [m3u8](https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | EVT |
 | VEO7 | - | [web](https://www.veo7.com) | [logo](https://pbs.twimg.com/profile_images/2116100919091757056/FQIr-1ei_200x200.jpg) | Veo7.TV | NOEM |
-| Squirrel | - | [web](https://squirreltv.es) | [logo](https://pbs.twimg.com/profile_images/1868605710218514432/98bLWAHa_200x200.jpg) | Squirrel.TV | NOEM |
-| Squirrel2 | - | [web](https://squirrel2.tv) | [logo](https://pbs.twimg.com/profile_images/2007038154994294784/NqJe7hvI_200x200.jpg) | Squirrel2.TV | NOEM |
+| Squirrel | [m3u8](https://squirrel.cdn.plenitas.pro/Canale1/playlist.m3u8) | [web](https://www.squirrelplus.com/videos/428849-squirrel) | [logo](https://pbs.twimg.com/profile_images/1868605710218514432/98bLWAHa_200x200.jpg) | Squirrel.TV | - |
+| Squirrel2 | [m3u8](https://squirrel.cdn.plenitas.pro/Canale5/playlist.m3u8) | [web](https://www.squirrelplus.com/videos/428850-squirreldos) | [logo](https://pbs.twimg.com/profile_images/2007038154994294784/NqJe7hvI_200x200.jpg) | Squirrel2.TV | - |
+| BOM Cine | [m3u8](https://squirrel.cdn.plenitas.pro/Canale3/playlist.m3u8) | [web](https://www.squirrelplus.com/videos/428852-bom-cine) | [logo](https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_200x200.jpg) | BOM.TV | - |
 | Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DKISS | - | [web](https://www.dkiss.es) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
-| BOM Cine | - | [web](https://www.bomcine.com) | [logo](https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_200x200.jpg) | BOM.TV | NOEM |
 | RNE Accesible | [m3u8 # 1](https://ztnr.rtve.es/ztnr/6688753.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8) | [web](https://www.rtve.es/play/videos/directo/rne-streamings/play-rneaccesible/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.TV | GEO |
 
 ## Informativos
@@ -87,6 +87,8 @@
 | Real Federación Española de Patinaje | [youtube](https://www.youtube.com/channel/UCN99QszVYYIYAWCQMmU1P8g/live) | [web](https://www.fep.es) | [logo](https://graph.facebook.com/FedPatinaje/picture?width=200&height=200) | - | EMB,EVT |
 | Real Federación Española de Balonmano | [youtube](https://www.youtube.com/channel/UCqfo8pb53rSg1h0JOle7gcg/live) | [web](https://www.rfebm.com) | [logo](https://graph.facebook.com/RFEBalonmano/picture?width=200&height=200) | - | EMB,EVT |
 | Cazaflix | [stream](https://player.viloud.tv/embed/channel/292a2a75da8d1d6335cd7b6e600b04e8?autoplay=1&volume=1&controls=1&title=0&share=0) | [web](https://cazaflix.com/tv-directo/) | [logo](https://graph.facebook.com/cazaflixoficial/picture?width=200&height=200) | - | EMB |
+| Horse TV | [m3u8](https://squirrel.cdn.plenitas.pro/Canale4/playlist.m3u8) | [web](https://www.squirrelplus.com/videos/419921-horse-tv) | [logo](https://graph.facebook.com/horsetvES/picture?width=200&height=200) | - | - |
+| Nautical Channel | [m3u8](https://squirrel.cdn.plenitas.pro/Canale2/playlist.m3u8) | [web](https://www.squirrelplus.com/videos/419922-nautical-channel) | [logo](https://graph.facebook.com/nauticalchannelesp/picture?width=200&height=200) | - | - |
 
 ## Infantiles
 
