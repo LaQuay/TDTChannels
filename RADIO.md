@@ -192,7 +192,7 @@
 | esRadio Granada | [mp3](https://azura.abcorp.es/listen/esradio_granada/radio.mp3) | [web](https://esradiogranada.es) | [logo](https://graph.facebook.com/EsRadioGranada/picture?width=200&height=200) | - | - |
 | esRadio Málaga | [mp3](https://azura.abcorp.es/listen/esradio_malaga/radio.mp3) | [web](https://www.esradiomalaga.com) | [logo](https://graph.facebook.com/EsRadioMlg/picture?width=200&height=200) | - | - |
 | LOS40 Almería | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_ALMERIA.mp3) | [web](http://www.seralmeria.com/onlineradio/40almeria.html) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
-| LOS40 Guadix | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_GUADIX.mp3) | [web](https://cadenaser.com/emisora/radio_guadix/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
+| LOS40 Guadix | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_GUADIX.mp3) | [web](https://cadenaser.com/radio-guadix/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | LOS40 Indalo | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_INDALO.mp3) | [web](http://www.seralmeria.com/onlineradio/40indalo.html) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | LOS40 Poniente | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_PONIENTE.mp3) | [web](http://www.seralmeria.com/onlineradio/40poniente.html) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | LOS40 Classic Almería | [mp3](https://streaming.indalteco.net/proxy/40classic?mp=/40classic.mp3) | [web](https://www.lavozdealmeria.com/radios/los40classicalmeria) | [logo](https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200) | - | - |
@@ -252,7 +252,6 @@
 | Chocolate FM | [mp3](https://streaming2.elitecomunicacion.es:8082/live.mp3) | [web](https://www.chocolatefm.com) | [logo](https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200) | - | - |
 | Granada FM | [stream](https://streaming2.elitecomunicacion.es:8028/stream) | [web](https://granadafm.es) | [logo](https://pbs.twimg.com/profile_images/1572284910198722561/2BQxFxMX_200x200.jpg) | - | - |
 | Oldies FM | [stream](https://h3004255.stratoserver.net:8000/oldiesfm) | [web](https://oldiesfm.net) | [logo](https://graph.facebook.com/oldiesfmes/picture?width=200&height=200) | - | - |
-| Decibelia FM | [stream](https://streaming.shoutcast.com/decibelia) | [web](https://decibeliafm.es/web/) | [logo](https://pbs.twimg.com/profile_images/1580311659226210310/umHvZ3-d_200x200.jpg) | - | - |
 | Radio Poniente | [stream](https://broadcast.radioponiente.org:8036/;) | [web](https://www.radioponiente.com) | [logo](https://graph.facebook.com/radioponientedeportes/picture?width=200&height=200) | - | - |
 | Canal Sevilla Visión | [stream](https://sevillavision.radioca.st/stream) | [web](https://canalsevillavision.wixsite.com/canal-sevilla-vision) | [logo](https://graph.facebook.com/canalsevillavision/picture?width=200&height=200) | - | - |
 | Antena Huelva | [stream](https://stm2.emiteonline.com:9024/antenahuelva) | [web](https://antenahuelva.com) | [logo](https://graph.facebook.com/109385783852066/picture?width=200&height=200) | - | - |
@@ -370,7 +369,7 @@
 | Radio Santoña | [mp3](https://server10.emitironline.com:10212/radio.mp3) | [web](https://santona.es) | [logo](https://graph.facebook.com/radiosantona107.3/picture?width=200&height=200) | - | - |
 | Radio Líder Cantabria | [stream](https://server10.emitironline.com:10855/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | Cantabria Radio | [stream](https://cantabria.radioca.st/stream) | [web](https://cantabriaradio.com) | [logo](https://pbs.twimg.com/profile_images/1618937329086857216/y7k5obyb_200x200.jpg) | - | - |
-| Cadena Mix | [stream](https://ns6.emisionlocal.com/proxy/radiomix?mp=%2Fstream) | [web](http://www.cadenamix.es) | [logo](https://graph.facebook.com/cadenamixfm/picture?width=200&height=200) | - | - |
+| Cadena Mix | [stream](https://ns6.emisionlocal.com/proxy/radiomix?mp=/stream) | [web](http://www.cadenamix.es) | [logo](https://graph.facebook.com/cadenamixfm/picture?width=200&height=200) | - | - |
 | Cantabria FM | [stream](https://stream.zeno.fm/jndgdm0esn9vv) | [web](https://cantabriafm.com) | [logo](https://pbs.twimg.com/profile_images/425231625132056576/Xr2_H3b8_200x200.jpeg) | - | - |
 
 ### Castilla-La Mancha
@@ -715,7 +714,7 @@
 | esRadio Elche | [stream](https://ns6.emisionlocal.com/proxy/esradioelche?mp=/stream) | [web](https://www.esradioelche.com) | [logo](https://graph.facebook.com/esradioelche103.7/picture?width=200&height=200) | - | - |
 | esRadio Valencia | [stream](https://aequum821.dns-lcinternet.com:8200/stream) | [web](https://esradiovalencia.com) | [logo](https://pbs.twimg.com/profile_images/1661689536294932481/JHLV1vi0_200x200.jpg) | - | - |
 | LOS40 Benidorm | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_BENIDORM.mp3) | [web](https://los40.com/tag/benidorm/a/) | [logo](https://pbs.twimg.com/profile_images/732171106782695424/eSJEnwoL_200x200.jpg) | - | - |
-| LOS40 Castellón | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_CASTELLON.mp3) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/Los40Castellon/picture?width=200&height=200) | - | - |
+| LOS40 Castellón | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_CASTELLON.mp3) | [web](https://cadenaser.com/radio-castellon/) | [logo](https://graph.facebook.com/Los40Castellon/picture?width=200&height=200) | - | - |
 | Cadena 100 Benidorm | [stream](https://str1.mediatelekom.net/proxy/cadena100/stream) | [web](https://radiosirena.es/radio/cadena-100/) | [logo](https://graph.facebook.com/CADENA100/picture?width=200&height=200) | - | - |
 | Europa FM Gandia | [stream](https://one.cloudstreaming.eu/proxy/europa/stream) | [web](https://europafmgandia.com) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Remember The Music FM | [stream](https://eu1.lhdserver.es:9041/stream) | [web](https://rememberthemusicfm.com) | [logo](https://pbs.twimg.com/profile_images/1034848375705878528/qt4gn64O_200x200.jpg) | - | - |
@@ -856,7 +855,7 @@
 | Radiofusión | [stream](https://srv7031.dns-lcinternet.com/8032/stream) | [web](https://www.radiofusion.gal) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | - |
 | Radio Líder Galicia | [stream](https://server8.emitironline.com:18520/) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | Metro FM Ferrol | [stream](https://metrofm01.arsenet.com/stream) | [web](https://metrofmferrol.com) | [logo](https://pbs.twimg.com/profile_images/1716777709928427520/itSjGZ9v_200x200.jpg) | - | - |
-| Net Galicia Radio | [stream](https://sonicpanel.streaming10.net/8140/stream) | [web](https://www.netgaliciaradio.es) | [logo](https://www.netgaliciaradio.es/wp-content/uploads/2022/09/logo.png) | - | - |
+| Net Galicia Radio | [stream](https://sonicpanel.streaming10.net/8140/stream) | [web](https://www.netgaliciaradio.es) | [logo](https://play-lh.googleusercontent.com/8slw8NxHUwKYNsMZuZGtLpRPHY1dZbKtuJmw__squuHUcQj4Lqw8BGAdujqtaVMQmD3fKHmC0JHHtScCXJ86Ww=w200) | - | - |
 
 ### Illes Balears
 
@@ -988,7 +987,7 @@
 | Onda Cero Gijón | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_GIJONAAC.m3u8) | [web](https://www.ondacero.es/emisoras/asturias/gijon/directo/) | [logo](https://graph.facebook.com/ondacero.gijon/picture?width=200&height=200) | OC_Gijon.Radio | - |
 | Onda Cero Infiesto | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_INFIESTOAAC.m3u8) | [web](https://www.ondacero.es/emisoras/asturias/infiesto/directo/) | [logo](https://graph.facebook.com/ondaceroasturias/picture?width=200&height=200) | OC_Infiesto.Radio | - |
 | Onda Cero Luarca | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_LUARCAAAC.m3u8) | [web](https://www.ondacero.es/emisoras/asturias/luarca/directo/) | [logo](https://pbs.twimg.com/profile_images/2373496653/6l41qpdjju3ma1a62nyh_200x200.jpeg) | OC_Luarca.Radio | - |
-| Onda Cero Oviedo | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_OVIEDOAAC.m3u8) | [web](https://www.ondacero.es/emisoras/asturias/oviedo/directo/) | [logo](https://graph.facebook.com/ondacero.asturias/picture?width=200&height=200) | OC_Oviedo.Radio | - |
+| Onda Cero Oviedo | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_OVIEDOAAC.m3u8) | [web](https://www.ondacero.es/emisoras/asturias/oviedo/directo/) | [logo](https://graph.facebook.com/ondaceroasturias/picture?width=200&height=200) | OC_Oviedo.Radio | - |
 | esRadio Asturias | [stream](https://server9.emitironline.com:8822/radio) | [web](https://www.esradioasturias.fm) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | Europa FM Asturias | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/EFM_ASTURIASAAC.m3u8) | [web](https://www.europafm.com/frecuencias/asturias/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Carrusel FM | [mp3](https://server10.emitironline.com:8921/radio?.mp3) | [web](http://www.carruselfm.com) | [logo](https://pbs.twimg.com/profile_images/520332074147123200/pzYkTYHB_200x200.jpeg) | - | - |
@@ -1093,7 +1092,7 @@
 | CBN Gospel | [stream # EN](https://streams.cbnradio.com/gospel-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=gospel&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/gospel300x300.jpg) | - | - |
 | CBN Southern Gospel | [stream # EN](https://streams.cbnradio.com/southern-gospel-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=southerngospel&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/southern-gospel300x300.jpg) | - | - |
 | CBN Superbook | [stream # EN](https://streams.cbnradio.com/superbook-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=superbook&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/superbook300x300.jpg) | - | - |
-| CBN Fiesta Hoy | [stream # EN](https://streams.cbnradio.com/fiesta-hoy-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=fiestahoy&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/fiestahoy300x300.jpg) | - | - |
+| CBN Fiesta Hoy | [stream](https://streams.cbnradio.com/fiesta-hoy-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=fiestahoy&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/fiestahoy300x300.jpg) | - | - |
 | CBN News | [stream # EN](https://streams.cbnradio.com/news-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=cbnnews&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/news300x300.jpg) | - | - |
 | CBN Christmas | [stream # EN](https://streams.cbnradio.com/christmas-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=christmas&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/christmas300x300.jpg) | - | - |
 | CBN Cross Country Christmas | [stream # EN](https://streams.cbnradio.com/country-christmas-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=crosscountrychristmas&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/cross-countrychristmas300x300.jpg) | - | - |
