@@ -87,8 +87,8 @@
 | Real Federación Española de Patinaje | [youtube](https://www.youtube.com/channel/UCN99QszVYYIYAWCQMmU1P8g/live) | [web](https://www.fep.es) | [logo](https://graph.facebook.com/FedPatinaje/picture?width=200&height=200) | - | EMB,EVT |
 | Real Federación Española de Balonmano | [youtube](https://www.youtube.com/channel/UCqfo8pb53rSg1h0JOle7gcg/live) | [web](https://www.rfebm.com) | [logo](https://graph.facebook.com/RFEBalonmano/picture?width=200&height=200) | - | EMB,EVT |
 | Cazaflix | [stream](https://player.viloud.tv/embed/channel/292a2a75da8d1d6335cd7b6e600b04e8?autoplay=1&volume=1&controls=1&title=0&share=0) | [web](https://cazaflix.com/tv-directo/) | [logo](https://graph.facebook.com/cazaflixoficial/picture?width=200&height=200) | - | EMB |
-| Horse TV | [m3u8](https://squirrel.cdn.plenitas.pro/hprse-es/hls/master.m3u8) | [web](https://www.squirrelplus.com/videos/419921-horse-tv) | [logo](https://graph.facebook.com/horsetvES/picture?width=200&height=200) | - | - |
-| Nautical Channel | [m3u8](https://squirrel.cdn.plenitas.pro/nautical-es/hls/master.m3u8) | [web](https://www.squirrelplus.com/videos/419922-nautical-channel) | [logo](https://graph.facebook.com/nauticalchannelesp/picture?width=200&height=200) | - | - |
+| Horse TV | [m3u8](https://squirrel.cdn.plenitas.pro/hprse-es/hls/master.m3u8) | [web](https://www.squirrelplus.com/videos/419921-horse-tv) | [logo](https://graph.facebook.com/horsetvES/picture?width=200&height=200) | Horse.TV | - |
+| Nautical Channel | [m3u8](https://squirrel.cdn.plenitas.pro/nautical-es/hls/master.m3u8) | [web](https://www.squirrelplus.com/videos/419922-nautical-channel) | [logo](https://graph.facebook.com/nauticalchannelesp/picture?width=200&height=200) | Nautical_Channel.TV | - |
 
 ## Infantiles
 
