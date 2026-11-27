@@ -949,7 +949,7 @@
 | EITB Musika | [m3u8](https://multimedia.eitb.eus/live-content/eitbmusika-hls/master.m3u8) | [web](https://guau.eus) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | - | - |
 | EITB Euskal Kantak | [m3u8](https://multimedia.eitb.eus/live-content/eitbeuskalkantak-hls/master.m3u8) | [web](https://guau.eus) | [logo](https://graph.facebook.com/eitbEuskalKantak/picture?width=200&height=200) | - | - |
 | Radio Nervión | [stream](https://radionervion.streaming-pro.com:6132/radionervion) | [web](https://www.radionervion.com) | [logo](https://graph.facebook.com/RadioNervion/picture?width=200&height=200) | RadioNervion.Radio | - |
-| Vinilo FM | [mp3](https://radio.vinilofm.es/radio/8000/bizkaia.mp3) | [web](https://vinilofm.es) | [logo](https://graph.facebook.com/vinilofm/picture?width=200&height=200) | - | - |
+| Vinilo FM | [stream](https://server9.emitironline.com:10923/) | [web](https://vinilofm.es) | [logo](https://graph.facebook.com/vinilofm/picture?width=200&height=200) | - | - |
 | Radio 7 | [mp3](https://radio7.streaming-pro.com:6146/radio7.mp3) | [web](https://tele7.tv/radio-7-en-directo/) | [logo](https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200) | - | - |
 | Onda Vasca | [stream # 1](https://live.ondavasca.com:8001/bizkaia) - [stream # 2](https://live.ondavasca.com:8001/gipuzkoa) | [web](https://www.ondavasca.com) | [logo](https://graph.facebook.com/ondavasca/picture?width=200&height=200) | - | - |
 | Bizkaia Irratia | [mp3 # 1](https://stream.mediasector.es/radio/8230/bizkaiairratia.mp3) - [mp3 # 2](https://server12.mediasector.es/listen/bizkaia_irratia_musika/radio.mp3) | [web](https://www.bizkaiairratia.eus) | [logo](https://graph.facebook.com/BizkaiaIrratia/picture?width=200&height=200) | - | - |
