@@ -912,6 +912,7 @@
 | esRadio Arnedo | [stream](https://stream20.usastreams.com/8154/stream) | [web](https://www.radioarnedo.com) | [logo](https://graph.facebook.com/ondarioja.radioarnedo/picture?width=200&height=200) | - | - |
 | Radio Logroño | [stream](https://stream.zeno.fm/19buxw48djlvv) | [web](https://radiologrono.es) | [logo](https://graph.facebook.com/radiologrono/picture?width=200&height=200) | - | - |
 | Canal Ebro | [mp3](https://streaming.radioharo.com/canalebro.mp3) | [web](https://www.canalebro.com) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
+| Vive! Radio La Rioja | [stream](https://streaming.viveradio.es/vivelarioja) | [web](https://www.viverioja.es) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5artPJ5XIqhv2mez0HGxEG4w0-BLFikKsAwBxdSdnZA&s=10) | - | - |
 
 ### Melilla
 
