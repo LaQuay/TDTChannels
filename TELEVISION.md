@@ -530,6 +530,7 @@
 | Fibwi TV | - | [web](https://fibwi.live/es/tv) | [logo](https://graph.facebook.com/FibwiTV/picture?width=200&height=200) | - | EXTA |
 | Parlament de les Illes Balears | [youtube](https://www.youtube.com/channel/UCpLm25L3R1VVOQDFiSCCmDA/live) | [web](https://www.parlamentib.es) | [logo](https://pbs.twimg.com/profile_images/1628713790303879168/hOxkqhuJ_200x200.jpg) | - | EMB,EVT |
 | Govern de les Illes Balears | [youtube](https://www.youtube.com/channel/UCWq6paV7LGHW7YdR0kYLx_w/live) | [web](https://www.caib.es) | [logo](https://graph.facebook.com/GovernIllesBalears/picture?width=200&height=200) | - | EMB,EVT |
+| OcioNews TV | [m3u8](https://stream.ocionews.com/ocionews/index.m3u8) | [web](https://tv.ocionews.com/) | [logo](https://tv.ocionews.com/core/modules/ocionews-tv-platform/assets/channel-logos-cwv/OcioNews-TV-150i.webp?v=20261022) | - | - |
 
 ### La Rioja
 
