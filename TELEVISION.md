@@ -13,15 +13,15 @@
 | Energy | - | [web](https://www.mitele.es/directo/energy) | [logo](https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200) | Energy.TV | EXTA,GEO |
 | Divinity | - | [web](https://www.mitele.es/directo/divinity) | [logo](https://graph.facebook.com/divinityes/picture?width=200&height=200) | Divinity.TV | EXTA,GEO |
 | Be Mad | - | [web](https://www.mitele.es/directo/bemad) | [logo](https://graph.facebook.com/BeMadTV/picture?width=200&height=200) | Bemad.TV | EXTA,GEO |
-| DMAX | - | [web](https://dmax.marca.com/en-directo) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
-| El Toro TV | [m3u8 # 1](https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8) - [m3u8 # 2](https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | EVT |
-| TRECE | [m3u8](https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | EVT |
-| VEO7 | - | [web](https://www.veo7.com) | [logo](https://pbs.twimg.com/profile_images/2116100919091757056/FQIr-1ei_200x200.jpg) | Veo7.TV | NOEM |
 | Squirrel | [m3u8](https://squirrel.cdn.plenitas.pro/squirrel-es/hls/master.m3u8) | [web](https://www.squirrelplus.com/videos/428849-squirrel) | [logo](https://pbs.twimg.com/profile_images/1868605710218514432/98bLWAHa_200x200.jpg) | Squirrel.TV | - |
 | Squirrel2 | [m3u8](https://squirrel.cdn.plenitas.pro/squirreldos/hls/master.m3u8) | [web](https://www.squirrelplus.com/videos/428850-squirreldos) | [logo](https://pbs.twimg.com/profile_images/2007038154994294784/NqJe7hvI_200x200.jpg) | Squirrel2.TV | - |
 | BOM Cine | [m3u8](https://squirrel.cdn.plenitas.pro/bomcine/hls/master.m3u8) | [web](https://www.squirrelplus.com/videos/428852-bom-cine) | [logo](https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_200x200.jpg) | BOM.TV | - |
-| Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
+| El Toro TV | [m3u8 # 1](https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8) - [m3u8 # 2](https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=200&height=200) | ElToroTV.TV | EVT |
+| TRECE | [m3u8](https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8) | [web](https://www.cope.es/directos/trece) | [logo](https://graph.facebook.com/TRECEtves/picture?width=200&height=200) | 13.TV | EVT |
+| DMAX | - | [web](https://dmax.marca.com/en-directo) | [logo](https://graph.facebook.com/DMAXes/picture?width=200&height=200) | DMax.TV | NOEM |
 | DKISS | - | [web](https://www.dkiss.es) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
+| VEO7 | - | [web](https://www.veo7.com) | [logo](https://pbs.twimg.com/profile_images/2116100919091757056/FQIr-1ei_200x200.jpg) | Veo7.TV | NOEM |
+| Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | RNE Accesible | [m3u8 # 1](https://ztnr.rtve.es/ztnr/6688753.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8) | [web](https://www.rtve.es/play/videos/directo/rne-streamings/play-rneaccesible/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.TV | GEO |
 
 ## Informativos
