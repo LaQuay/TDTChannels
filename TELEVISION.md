@@ -904,6 +904,7 @@
 | La Mega Mundial USA | [m3u8](https://server80.servistreaming.com:3477/stream/play.m3u8) | [web](https://www.lamegamundial.com) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200) | - | - |
 | Retro Plus TV Chile | [m3u8](https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8) | [web](https://www.retroplustv.com/#se%C3%B1ales) | [logo](https://graph.facebook.com/retroplustv/picture?width=200&height=200) | - | - |
 | Portal Foxmix Chile | [m3u8](https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8) | [web](https://www.portalfoxmix.cl/tv/) | [logo](https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200) | - | - |
+| Claude FM USA | [youtube](https://www.youtube.com/channel/UCV03SRZXJEz-hchIAogeJOg/live) | [web](https://claude.ai/) | [logo](https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_200x200.jpg) | - | - |
 | 30A Music USA | [m3u8 # EN](https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8) | [web](https://30a-tv.com/30a/30a-tv-music-channel/) | [logo](https://graph.facebook.com/30atv/picture?width=200&height=200) | - | - |
 | Spirit TV USA | [m3u8 # EN](https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8) | [web](https://myspirit.tv) | [logo](https://graph.facebook.com/MySpirittv/picture?width=200&height=200) | - | - |
 | RadioU TV USA | [m3u8 # EN](https://1826200335.rsc.cdn77.org/1826200335/index.m3u8) | [web](https://radiou.com/tv/) | [logo](https://graph.facebook.com/RadioU/picture?width=200&height=200) | - | REF,NONAV |
